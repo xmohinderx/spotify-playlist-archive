@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New classics and essential cuts from all your favorite rock bands. Cover: Rage Against The Machine",
+  "description": "New classics and essential cuts from all your favorite rock bands. Cover: Foo Fighters",
   "name": "Rock Solid",
   "published_playlist_ids": [
     "4pFaQUM5cFSlRBE1ox0Ws5"
@@ -77,6 +77,24 @@
       "duration_ms": 340907,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
+    },
+    {
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "album": {
@@ -260,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
+    },
+    {
+      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -361,7 +397,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
@@ -721,7 +757,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 247266,
       "name": "Judith",
       "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
@@ -1135,7 +1171,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 249440,
       "name": "Slither",
       "url": "https://open.spotify.com/track/4u8CBUCaCONAQ1kQNH7r1O"
@@ -1445,6 +1481,24 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253840,
+      "name": "Waiting On A War",
+      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
     },
     {
       "album": {

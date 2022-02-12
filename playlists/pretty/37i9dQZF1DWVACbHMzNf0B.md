@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > Las estrellas del mundo urbano seducidas por el Regional Mexicano\. Piso 21 & Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,085 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,157 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Amazing (Strings Version)",
+        "url": "https://open.spotify.com/album/0eVwqZNTNaLpBvD95NiN2d"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178175,
+      "name": "Amazing - Strings Version",
+      "url": "https://open.spotify.com/track/4SMNGYvfWjebzsHXl5CyRE"
+    },
+    {
+      "album": {
         "name": "Weed Garden",
         "url": "https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx"
@@ -131,7 +149,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
@@ -149,7 +167,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -305,7 +323,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 201706,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/6FNOTA9gcK03rocm5fYTL5"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 209160,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 211677,
       "name": "for life",
       "url": "https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -713,7 +731,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 241213,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/0gPL0UolZWwAYTTLzStqmw"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 231654,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/5ufN0FRT3UQXRSq0Ibhbv6"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 253146,
       "name": "If Only",
       "url": "https://open.spotify.com/track/2vHUqWBW12TJqsE8lJGsK1"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/33UI8dgfkDOf32DWBH1GL0"
@@ -1071,6 +1089,24 @@
       "duration_ms": 250547,
       "name": "Love & War in Your Twenties",
       "url": "https://open.spotify.com/track/2NU2U0wWzGtZtuu1QsacOb"
+    },
+    {
+      "album": {
+        "name": "Asha\u2019s Awakening",
+        "url": "https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Love Overgrown",
+      "url": "https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52"
     },
     {
       "album": {
@@ -1421,7 +1457,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 223602,
       "name": "Patty & Lucy",
       "url": "https://open.spotify.com/track/0tlTKEoa103da2FrJyBXcl"
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 234699,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/4de0lucJwbb1VvKYcwgstC"
@@ -1671,7 +1707,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 257331,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/3H7pOWNQghEO1EKIcgnAsC"
@@ -1725,7 +1761,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 300295,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
@@ -1877,6 +1913,28 @@
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Cosculluela, Tego Calderón
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: MC Davo, La Santa Grifa
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Como Batman](https://open.spotify.com/track/5WnX9eV92t5XTtFa8fRlAD) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Como Batman](https://open.spotify.com/album/3L7hRsR6jJtpxKq9S3zRnC) | 3:20 | 2021-12-30 | 2022-01-14 |
 | [Como Sea](https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:22 | 2021-12-30 |  |
 | [DA KNOWLEDGE](https://open.spotify.com/track/63AIqDwBLmJyiVnxMfqCCa) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv) | [DA KNOWLEDGE](https://open.spotify.com/album/6YkpmJ3cNCP6F3BwPO7sZ1) | 2:48 | 2021-12-30 |  |
-| [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Dance Crip](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-30 |  |
+| [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-30 |  |
 | [DHARMA](https://open.spotify.com/track/1UAQ5fMPGXDzVZO9jojOUV) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [DHARMA](https://open.spotify.com/album/2XbXnRwQEPXLSusESfJl2J) | 4:31 | 2021-12-30 | 2022-01-14 |
 | [DISCIPLINA](https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [DISCIPLINA](https://open.spotify.com/album/1PecmtWamLOvWahwn4aFbX) | 3:40 | 2021-12-30 |  |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-12-30 |  |

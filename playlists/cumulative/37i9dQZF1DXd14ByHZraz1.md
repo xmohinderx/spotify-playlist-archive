@@ -2,7 +2,7 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
-> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Liu, Hawk, Erjona Sylejmani
+> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Gabzy, Carlos Colleen
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

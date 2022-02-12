@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Fernando Catatau",
+  "description": "Novidades e destaques do indie nacional. Foto: Mariana Cavanellas",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -81,6 +81,24 @@
       "duration_ms": 242318,
       "name": "a gente n\u00e3o tem nada a ver",
       "url": "https://open.spotify.com/track/10URqxiR7QvJnj7Fud1l5D"
+    },
+    {
+      "album": {
+        "name": "A Morte Do Amor",
+        "url": "https://open.spotify.com/album/2m5jb2RptwBY3ooWTRmTCd"
+      },
+      "artists": [
+        {
+          "name": "Do Amor",
+          "url": "https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129890,
+      "name": "A Morte Do Amor",
+      "url": "https://open.spotify.com/track/2vQjFQUozq8AiZV4xPEAMO"
     },
     {
       "album": {
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 211874,
       "name": "Bicho Pap\u00e3o",
       "url": "https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ"
@@ -309,7 +327,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 321884,
       "name": "Capixabilidade",
       "url": "https://open.spotify.com/track/1PK3xVCMaRJkvubVWhlTLn"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 164559,
       "name": "Chato",
       "url": "https://open.spotify.com/track/7eDBhrIeviAnE2hUDm4ikh"
@@ -483,6 +501,24 @@
       "duration_ms": 204000,
       "name": "Desagradar",
       "url": "https://open.spotify.com/track/7qhbm7QvRktr6ZwDZzWmG1"
+    },
+    {
+      "album": {
+        "name": "Vice-Her\u00f3i",
+        "url": "https://open.spotify.com/album/11RcseLlq4wApBhyLZPRxh"
+      },
+      "artists": [
+        {
+          "name": "Vice-Her\u00f3i",
+          "url": "https://open.spotify.com/artist/6cIlz91P4JYOAmdpZTYXnB"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178981,
+      "name": "Desapego",
+      "url": "https://open.spotify.com/track/2qbNEZGcFnauvoOLHwoURB"
     },
     {
       "album": {
@@ -745,7 +781,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181353,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/3ohS2af546AnusvsebxQcN"
@@ -763,7 +799,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 176500,
       "name": "Hit",
       "url": "https://open.spotify.com/track/1WFwgI3X9MUsNwv5LVEJi4"
@@ -799,7 +835,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 236426,
       "name": "Isso N\u00e3o Se Faz",
       "url": "https://open.spotify.com/track/6Quaofku66oYyMJ3m2bgyg"
@@ -817,7 +853,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 308977,
       "name": "Lia",
       "url": "https://open.spotify.com/track/02AfIrjEzN8REjSe5ypcXF"
@@ -958,6 +994,28 @@
     },
     {
       "album": {
+        "name": "MENINA LINDA",
+        "url": "https://open.spotify.com/album/0OmfyYuXhDFZkdiqaNGkrA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "Dois Quartos",
+          "url": "https://open.spotify.com/artist/3JsaihYkRDSTkIgQbxSUto"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "MENINA LINDA",
+      "url": "https://open.spotify.com/track/5MAO8iHLDVnfmWPDyPzU4a"
+    },
+    {
+      "album": {
         "name": "Meu Caminho",
         "url": "https://open.spotify.com/album/5k6O0wqkmJIpjI7kX096hY"
       },
@@ -1025,7 +1083,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 133000,
       "name": "Msg de \u00c1udio",
       "url": "https://open.spotify.com/track/62kL2GyXXniX2DhlRmdzfr"
@@ -1156,6 +1214,28 @@
     },
     {
       "album": {
+        "name": "noiada indoor",
+        "url": "https://open.spotify.com/album/5imRZ16LnB9olJx5algmTV"
+      },
+      "artists": [
+        {
+          "name": "camilobers",
+          "url": "https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO"
+        },
+        {
+          "name": "the.lazyb",
+          "url": "https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224965,
+      "name": "noiada indoor",
+      "url": "https://open.spotify.com/track/64BAxCJPOd3FfipIXHSLUI"
+    },
+    {
+      "album": {
         "name": "Novos Amigos",
         "url": "https://open.spotify.com/album/4AhbybLM9SDwz1N0QkjRMM"
       },
@@ -1167,10 +1247,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 172750,
       "name": "Novos Amigos",
       "url": "https://open.spotify.com/track/0AKOSNb6X5lLAQUQVwUgIc"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o foi por mal",
+        "url": "https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135910,
+      "name": "N\u00e3o foi por mal",
+      "url": "https://open.spotify.com/track/40XZqX5zbxr0PaqnmPGr1Y"
     },
     {
       "album": {
@@ -1210,6 +1308,42 @@
     },
     {
       "album": {
+        "name": "O Teste",
+        "url": "https://open.spotify.com/album/1yKzHbiYpGdUpQfDoi3EBt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Ventura",
+          "url": "https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "O Teste",
+      "url": "https://open.spotify.com/track/1WDvirXKvsQWaM2RK8jD1A"
+    },
+    {
+      "album": {
+        "name": "o temporal",
+        "url": "https://open.spotify.com/album/1zefWkoUkHufnXq7sQLUeC"
+      },
+      "artists": [
+        {
+          "name": "O Temporal",
+          "url": "https://open.spotify.com/artist/2g9eJDWyPM1LzUwTWFZjpG"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281045,
+      "name": "olhos cansados",
+      "url": "https://open.spotify.com/track/3pt0xyf4ZVO2SRnMOf47r8"
+    },
+    {
+      "album": {
         "name": "Pequeninim",
         "url": "https://open.spotify.com/album/5SLWgHjyzk2xrSz1OdJt0M"
       },
@@ -1225,7 +1359,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 204801,
       "name": "Pequeninim",
       "url": "https://open.spotify.com/track/4gpV8VQLAUHZYc5sF5XvqO"
@@ -1261,7 +1395,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 194455,
       "name": "piLLOW dREAMs",
       "url": "https://open.spotify.com/track/3N6YmolwkUHj6Keo82hAYo"
@@ -1355,7 +1489,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 256625,
       "name": "p\u00e9 na areia",
       "url": "https://open.spotify.com/track/2n2NLaRHgCUNIK6vQIyVEu"
@@ -1533,7 +1667,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 189057,
       "name": "Se Entrega!",
       "url": "https://open.spotify.com/track/1p4W2Ib2xZm04ouaIrDcWn"
@@ -1624,6 +1758,24 @@
     },
     {
       "album": {
+        "name": "Sheila",
+        "url": "https://open.spotify.com/album/4G2I5wZ8G2tPMpGZ5gzXBN"
+      },
+      "artists": [
+        {
+          "name": "Ana Sucha",
+          "url": "https://open.spotify.com/artist/3kvXelHhUO5ycgsG05QAB5"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181023,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0Xnooy75kYv3tBFFVENwRw"
+    },
+    {
+      "album": {
         "name": "Sincericida",
         "url": "https://open.spotify.com/album/0KwUxIStU1TBZonBCMoKGl"
       },
@@ -1679,7 +1831,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 285546,
       "name": "sua sombra",
       "url": "https://open.spotify.com/track/5Qe4Q8qH5ZR39EXRbbB3Pp"
@@ -1781,6 +1933,24 @@
       "duration_ms": 247880,
       "name": "toda vez",
       "url": "https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX"
+    },
+    {
+      "album": {
+        "name": "Traumas de Estima\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/29Ao0U6tuUUR9u8FUBaytS"
+      },
+      "artists": [
+        {
+          "name": "Walfredo em Busca da Simbiose",
+          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307876,
+      "name": "Traumas de Estima\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3b1Vaxhbj3Vmp5ORS4Pf0d"
     },
     {
       "album": {

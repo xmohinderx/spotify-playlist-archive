@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for yoga, meditation and daily mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,963 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,007 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 2 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air "On a G String" \(Arr\. for Piano\)](https://open.spotify.com/track/4WH081NcZkk93PVK2S3q5N) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Romance](https://open.spotify.com/album/4TnEt9eadhYke8xi04QG22) | 5:28 |
 | 3 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 |
 | 4 | [Portrait Gallery](https://open.spotify.com/track/3oRuCzqdduzZ2CBhAtv8zO) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Sun, Cloud](https://open.spotify.com/album/25ePjvtvxfiYd3XjPQFuDj) | 6:07 |
-| 5 | [Après un rêve, Op\. 7, No\. 1](https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:40 |
+| 5 | [Après un rêve, Op\. 7, No\. 1](https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:40 |
 | 6 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
 | 7 | [Quavers](https://open.spotify.com/track/3kJhsi6YxbOXE3WRAPVqsN) | [Howard Skempton](https://open.spotify.com/artist/6YDIJAK6v8fMuaRtf3zBp9), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/7J7DL6tzBzbYVYlsFbnH8h) | 2:49 |
 | 8 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |

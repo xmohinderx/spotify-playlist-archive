@@ -170,6 +170,28 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136600,
+      "name": "ALONE (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -989,7 +1011,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 171453,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
@@ -1561,7 +1583,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
@@ -2727,7 +2749,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
@@ -2797,7 +2819,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 195653,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/4tRfTVgpf1acjA27UWdcnD"
@@ -2815,7 +2837,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
@@ -3171,7 +3193,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 213333,
       "name": "Mood Swings (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
@@ -3331,7 +3353,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 224954,
       "name": "Myron",
       "url": "https://open.spotify.com/track/56uXDJRCuoS7abX3SkzHKQ"
@@ -3835,7 +3857,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 141373,
       "name": "PHONKY TOWN",
       "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
@@ -3897,7 +3919,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 210000,
       "name": "Praise (feat. Gunna)",
       "url": "https://open.spotify.com/track/5cz0T1Q8AmpY18TDLAe2ja"
@@ -4149,7 +4171,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
@@ -4233,7 +4255,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
@@ -4593,7 +4615,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
@@ -4747,7 +4769,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
@@ -4841,7 +4863,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 158000,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/5Unr6WoYvsnGYo3NazmkW4"
@@ -5447,7 +5469,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 217609,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/6LcX2hBbXaJcK4AuefE936"

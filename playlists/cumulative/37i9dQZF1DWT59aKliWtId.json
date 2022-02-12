@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A quality alternative blend. Cover: Hurray For The Riff Raff",
+  "description": "A quality alternative blend. Cover: Spoon",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 170453,
       "name": "Blame",
       "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD"
@@ -716,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190252,
+      "name": "Don't Fade",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "album": {
         "name": "Doobie Bronson",
         "url": "https://open.spotify.com/album/2OTofjuBeWsDsx9YdSIE1l"
       },
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 213293,
       "name": "Every Shade of Blue",
       "url": "https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/3hwnMsJB7c8tF9f0AAt6ak"
@@ -1019,10 +1037,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181922,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ"
+    },
+    {
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187319,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj"
     },
     {
       "album": {
@@ -1113,6 +1149,24 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "album": {
+        "name": "Highest Bidder",
+        "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214054,
+      "name": "Highest Bidder",
+      "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
     },
     {
       "album": {
@@ -1417,7 +1471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 200768,
       "name": "Kids Who Stole The World",
       "url": "https://open.spotify.com/track/5Sv2qboXJ3GZUuLMVaZtie"
@@ -1673,7 +1727,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 230887,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/4k5QJm4DklGTyG984kRA4c"
@@ -1966,6 +2020,24 @@
     },
     {
       "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
+    },
+    {
+      "album": {
         "name": "Puppy and a Truck",
         "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
       },
@@ -1981,6 +2053,24 @@
       "duration_ms": 191453,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm"
+    },
+    {
+      "album": {
+        "name": "Q4",
+        "url": "https://open.spotify.com/album/6TGNYqqV0CgruCKn7JC9Z4"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297946,
+      "name": "Q4",
+      "url": "https://open.spotify.com/track/6GN8fc9sxaltugkHyRYUTN"
     },
     {
       "album": {
@@ -2158,6 +2248,24 @@
     },
     {
       "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "album": {
         "name": "Everything Will Be Ok Eventually",
         "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
       },
@@ -2281,6 +2389,28 @@
       "duration_ms": 235053,
       "name": "Somebody Desperate - From ''Cyrano'' Soundtrack",
       "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
+    },
+    {
+      "album": {
+        "name": "Sort Of Stranger",
+        "url": "https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        },
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Sort Of Stranger",
+      "url": "https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N"
     },
     {
       "album": {
@@ -2486,6 +2616,24 @@
     },
     {
       "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193369,
+      "name": "The Hardest Cut",
+      "url": "https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU"
+    },
+    {
+      "album": {
         "name": "The Hardest Cut",
         "url": "https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6"
       },
@@ -2497,7 +2645,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 193369,
       "name": "The Hardest Cut",
       "url": "https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM"
@@ -2738,6 +2886,24 @@
     },
     {
       "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "album": {
         "name": "Virginia Beach",
         "url": "https://open.spotify.com/album/4P6mNT2XCm80IEWC34mG2Y"
       },
@@ -2771,7 +2937,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 344000,
       "name": "Waitin' on Ya",
       "url": "https://open.spotify.com/track/2LOm31eIgFM0DaVUfZjKeg"
@@ -2793,6 +2959,24 @@
       "duration_ms": 263658,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw"
+    },
+    {
+      "album": {
+        "name": "Wash, Rinse, Repeat",
+        "url": "https://open.spotify.com/album/5GzV9TLzuzZC0OcYy7pPJH"
+      },
+      "artists": [
+        {
+          "name": "Andy Frasco & the U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171398,
+      "name": "Wash, Rinse, Repeat",
+      "url": "https://open.spotify.com/track/5JeLSgtuw8BoCHVcCfD6s9"
     },
     {
       "album": {
@@ -2851,6 +3035,42 @@
       "duration_ms": 208973,
       "name": "What You Say",
       "url": "https://open.spotify.com/track/2uZeiDN9WNvkVdMe4gQPFv"
+    },
+    {
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
+    },
+    {
+      "album": {
+        "name": "Who Put You Up To This?",
+        "url": "https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199715,
+      "name": "Who Put You Up To This?",
+      "url": "https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B"
     },
     {
       "album": {

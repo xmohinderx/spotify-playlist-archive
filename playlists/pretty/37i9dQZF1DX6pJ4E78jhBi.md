@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,864 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,856 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/track/4IGPENN8Ou2Q4MFbXKwt8l) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Carol of the Bells \(arr\. piano\) / Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7) | 6:54 |
 | 2 | [O Holy Night](https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [O Holy Night](https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ) | 3:09 |
 | 3 | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/track/6oDXX38npeVEQhDMIkdXcM) | [Hugh Martin](https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW), [Ralph Blane](https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Oscar Holch](https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z), [Matthew Sharp](https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Ming Liu](https://open.spotify.com/artist/1y6zFseZunoGSLcUk161Le) | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/album/2VU6vUsCJNXjuVKpvJlgJP) | 3:05 |
-| 4 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 |
+| 4 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 |
 | 5 | [What Child Is This?](https://open.spotify.com/track/23zCWNIS8w4Bhi9Es2E5uh) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 4:18 |
 | 6 | [All I Want For Christmas Is You \- Instrumental](https://open.spotify.com/track/4FrdCx26BQaktGdIkkbthy) | [Piano Man Sam](https://open.spotify.com/artist/7JJqk0ASV8zGJiBnrQUSbI) | [The Christmas Collection](https://open.spotify.com/album/0IlX79HsNRwWdpRgtZ0qlS) | 2:52 |
 | 7 | [Sleep for Mama \(Icelandic Folk Song\)](https://open.spotify.com/track/2xI6xvh6At0gjyLeiMP9RC) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Winter Tales](https://open.spotify.com/album/3o8RQHt67qDlpA3JRo59Pl) | 2:39 |

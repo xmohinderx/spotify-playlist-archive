@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 117533,
       "name": "2,3,4",
       "url": "https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 198480,
       "name": "A Night to Dismember",
       "url": "https://open.spotify.com/track/4av2c22txXYZvO2AYnui6m"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 211200,
       "name": "Army of Darkness",
       "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 158545,
       "name": "Be My End",
       "url": "https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 210240,
       "name": "Doctors & Churches",
       "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 210589,
       "name": "Growing up Monsters",
       "url": "https://open.spotify.com/track/3IeYXAKmLoRotJ5zJX73y6"
@@ -553,6 +553,24 @@
       "duration_ms": 196533,
       "name": "Last Ride",
       "url": "https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/1BNDnlXABgwvS5dLMmGnjD"
+      },
+      "artists": [
+        {
+          "name": "Doghouse Rose",
+          "url": "https://open.spotify.com/artist/1sOSSlyQ46PYp22R2eneUa"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/1TOfAeyELpdVslZv4SejC4"
     },
     {
       "album": {
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 221546,
       "name": "My Iron Heart",
       "url": "https://open.spotify.com/track/5JaCnZKDBH8jKf400D1fYD"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 204890,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/27AFFzQFa89pmV7PlJJKeW"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 209973,
       "name": "Night Flier",
       "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 182373,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/7GjT9IzL739FUW9JnFP8tu"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 145541,
       "name": "They're Inside",
       "url": "https://open.spotify.com/track/2trEgoZgPLKyaek0vg9Gfb"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 168813,
       "name": "Vials",
       "url": "https://open.spotify.com/track/7fsIsD6r8VbQK2b9Au4Oax"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 191780,
       "name": "When Oskar Fische Comes to Town",
       "url": "https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj"

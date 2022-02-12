@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfysDOTP12D.md) - [plain]
 
 > Over 70 poems by women read by the authors themselves, featuring Rita Dove, Elizabeth Bishop, Gertrude Stein, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,749 likes - 82 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,758 likes - 82 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

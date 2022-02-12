@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 266769,
+  "num_followers": 267004,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTI2MCwwMDAwMDA1ZTAwMDAwMTdlN2IwMjVmNjYwMDAwMDE3MjYxYTM2NDE2",
+  "snapshot_id": "MTY0NDU1NTY2MCwwMDAwMDA1ZjAwMDAwMTdlZTcyN2ViNzQwMDAwMDE3MjYxYTM2NDE2",
   "tracks": [
     {
       "added_at": "2022-01-21 05:01:00",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Big Blue Swing",
+        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
+      },
+      "artists": [
+        {
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+        }
+      ],
+      "duration_ms": 227127,
+      "name": "Big Blue Swing",
+      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
+    },
+    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Crazy Out There",
@@ -47,6 +63,38 @@
       "duration_ms": 194741,
       "name": "Crazy Out There",
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "POP SONG",
+        "url": "https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "POP SONG",
+      "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Gone Rogue",
+        "url": "https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "duration_ms": 186144,
+      "name": "A Timeless Tale",
+      "url": "https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f"
     },
     {
       "added_at": "2020-10-30 09:06:04",

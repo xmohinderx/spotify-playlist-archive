@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,650 likes - 115 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,796 likes - 113 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,11 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 107 | [Part 16](https://open.spotify.com/track/7cZ7V0JWA8tUarE1TyABR7) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Radiance](https://open.spotify.com/album/64EgYMgM0KR2WS5jbvPmKq) | 3:23 |
 | 108 | [Sharing](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 |
 | 109 | [I'm Through With Love](https://open.spotify.com/track/25CN9OMqfs6XwG89bpeemt) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [I'm Through With Love](https://open.spotify.com/album/6TSLFqTXi6miKoCwg3kyAN) | 4:19 |
-| 110 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
-| 111 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 |
-| 112 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 |
-| 113 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 |
-| 114 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 |
-| 115 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 |
+| 110 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 |
+| 111 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 |
+| 112 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 |
+| 113 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 |
 
-Snapshot ID: `MTY0MzcyNDQ1MSwwMDAwMDA4MTAwMDAwMTdlYjU5Y2FmZmIwMDAwMDE2ZDAwYjRhZjc4`
+Snapshot ID: `MTY0NDU3NzQwMiwwMDAwMDA4MjAwMDAwMTdlZTg3M2FkZWMwMDAwMDE2ZDAwYjRhZjc4`

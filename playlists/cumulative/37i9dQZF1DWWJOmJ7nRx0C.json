@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those who like the newest songs loud. Very loud. Cover: Korn",
+  "description": "For those who like the newest songs loud. Very loud. Cover: Slash with Myles Kennedy & the Conspirators",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": ".CoDA.",
+        "url": "https://open.spotify.com/album/3olq31Rex7clxCqI1L897b"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": ".intoodeep.",
+      "url": "https://open.spotify.com/track/0BWv3O0ouhfmc2aAPezRGu"
+    },
     {
       "album": {
         "name": "Alkaline",
@@ -319,7 +337,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/61bO92138QIRSQftKGl4fD"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 237573,
       "name": "Burial Plot",
       "url": "https://open.spotify.com/track/0v1QET6Q1YD7HQK4FBT8on"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 194238,
       "name": "Burn With You",
       "url": "https://open.spotify.com/track/59HNDyS0NSPoPU1BjvVebk"
@@ -673,6 +691,24 @@
       "duration_ms": 215346,
       "name": "Circle The Drain",
       "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
+      },
+      "artists": [
+        {
+          "name": "VRSTY",
+          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY"
     },
     {
       "album": {
@@ -1031,7 +1067,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 225840,
       "name": "Don\u2019t Back Down",
       "url": "https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe"
@@ -1132,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/0sx8XZPtCUYbFC29IimV3b"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268921,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/4YczLxtXC35D5KniPzAzPJ"
+    },
+    {
+      "album": {
         "name": "Everybody Sins (Radio Edit)",
         "url": "https://open.spotify.com/album/601HCwdmUsxk80ptKE92G9"
       },
@@ -1165,6 +1219,24 @@
       "duration_ms": 132986,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/616yLeci0BpJVGROFfVxMI"
+    },
+    {
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3sYkBlospe8hXvJxeNUfdN"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122901,
+      "name": "Fear Of The Dawn",
+      "url": "https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw"
     },
     {
       "album": {
@@ -1381,7 +1453,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/2XCTvpziPXmSayzrzF9mJU"
@@ -1403,6 +1475,28 @@
       "duration_ms": 181066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5S1Tly4ov5kWsJLt73lCUD"
+    },
+    {
+      "album": {
+        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
+        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176587,
+      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
+      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
     },
     {
       "album": {
@@ -1992,6 +2086,42 @@
     },
     {
       "album": {
+        "name": "Lord Of Chaos",
+        "url": "https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238765,
+      "name": "Lord Of Chaos",
+      "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261545,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "album": {
         "name": "NIRATIAS",
         "url": "https://open.spotify.com/album/3OFNdoIt29176cAfAoSUfH"
       },
@@ -2025,6 +2155,24 @@
       "duration_ms": 130399,
       "name": "Million Miles of Fun",
       "url": "https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n"
+    },
+    {
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "album": {
@@ -2065,7 +2213,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 191838,
       "name": "No One Listened",
       "url": "https://open.spotify.com/track/5DNf9rLyJp4j63Ko7xev2U"
@@ -2087,6 +2235,24 @@
       "duration_ms": 221626,
       "name": "Numb",
       "url": "https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F"
+    },
+    {
+      "album": {
+        "name": "On The Dark Side",
+        "url": "https://open.spotify.com/album/1fDOdT4aAuVvCOqIlFMHBx"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218731,
+      "name": "On The Dark Side",
+      "url": "https://open.spotify.com/track/4bO8TyUK8fgE1yCwR94qON"
     },
     {
       "album": {
@@ -2167,10 +2333,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 172853,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/7M2xfxOv8C3CXCI21HjyFZ"
+    },
+    {
+      "album": {
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
     },
     {
       "album": {
@@ -2593,7 +2777,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 237584,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/6BF7U1DflxuUA3uHK6XaVm"
@@ -2777,7 +2961,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 216840,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1iDXOj6hRBQs2hDrHHMvpn"
@@ -2955,7 +3139,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 168289,
       "name": "Swerve (feat. FEVER 333 & Sueco)",
       "url": "https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC"
@@ -3093,10 +3277,32 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 222817,
       "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy"
+    },
+    {
+      "album": {
+        "name": "4 (feat. Myles Kennedy and The Conspirators)",
+        "url": "https://open.spotify.com/album/6gkfEsxqgv4YbvJunQfn8Q"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222817,
+      "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/6VRy0kgSkyQO4VzIaxYJ1Q"
     },
     {
       "album": {
@@ -3147,7 +3353,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 185120,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2jDgvn31FTHSYgTMavDv3v"

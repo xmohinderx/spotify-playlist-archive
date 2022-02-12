@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 244802,
       "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
       "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 229630,
       "name": "Avioncito de Papel",
       "url": "https://open.spotify.com/track/6egy0VnC8Bk0Spubi8Xe1W"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "El Que Olvida",
       "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 189240,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 204044,
       "name": "Lo Intent\u00e9 Todo",
       "url": "https://open.spotify.com/track/6PxY5drMNRkO9CB6dL2srb"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 174933,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 247560,
       "name": "Mentimos",
       "url": "https://open.spotify.com/track/5pxWQmhgxd2Rjtp5bkGaSM"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 296000,
       "name": "No te pido que vuelvas (feat. Marta Soto) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/7nQl07LBwXuCCn1mIMieG0"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 180491,
       "name": "Otra Ma\u00f1ana M\u00e1s",
       "url": "https://open.spotify.com/track/5j9td3zUP5z2OUauQKh40y"
@@ -2103,10 +2103,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 212680,
       "name": "Si por Mi Fuera",
       "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5NvC5LlIm7qu4Y8zEl5afq"
     },
     {
       "album": {
@@ -2121,7 +2139,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
@@ -2157,7 +2175,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 144840,
       "name": "Son Tantas Cosas",
       "url": "https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 183428,
       "name": "Te miro a ti",
       "url": "https://open.spotify.com/track/33TPAEke4ngiWenZnNi5xq"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 195929,
       "name": "Te Necesito (Live Acoustic)",
       "url": "https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB"
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 150094,
       "name": "Tomar Distancia",
       "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
@@ -2673,7 +2691,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 198252,
       "name": "Ya No Est\u00e1s",
       "url": "https://open.spotify.com/track/4McNXMj0Z47n7PairFFYln"
@@ -2749,7 +2767,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 132112,
       "name": "\u00bfC\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP"
@@ -2767,7 +2785,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 251640,
       "name": "\u00bfD\u00f3nde Guardo El Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/1pbOsxdAgCzAoXWxikUoW0"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 211138,
       "name": "\u00bfPor Qu\u00e9 Lloras? (feat. Matisse)",
       "url": "https://open.spotify.com/track/2G9LSMGW7a9QFP8Fi9cvTE"

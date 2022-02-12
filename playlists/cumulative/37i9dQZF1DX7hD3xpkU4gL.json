@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 228053,
       "name": "A Ti",
       "url": "https://open.spotify.com/track/5yvdZBptUHPKMOuenEB2mb"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Las Mejores Canciones Del Mundo",
+        "url": "https://open.spotify.com/album/2qHwUE5Cnp7ujphb2MHBm7"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235240,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/3Es3rgipxPEHfSTG3YqNra"
+    },
+    {
+      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/273buPXMrWCNebglkJodUr"
       },
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 212745,
       "name": "Despedida y cierre (feat. Manuel Carrasco)",
       "url": "https://open.spotify.com/track/3BFiCotqzff1FAu9OLxrGO"
@@ -745,10 +763,28 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 266800,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM"
+    },
+    {
+      "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249973,
+      "name": "Entra en Mi Vida",
+      "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
     },
     {
       "album": {
@@ -1015,7 +1051,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 304786,
       "name": "I Want to Know What Love Is - 1999 Remaster",
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
@@ -1033,7 +1069,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
@@ -1149,6 +1185,28 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177791,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
     },
     {
       "album": {
@@ -1843,7 +1901,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 269786,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o"
@@ -2009,7 +2067,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"

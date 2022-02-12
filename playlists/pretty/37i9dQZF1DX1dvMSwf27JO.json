@@ -1,13 +1,29 @@
 {
   "description": "and why aren't you in uniform?",
-  "num_followers": 394345,
+  "num_followers": 394655,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDAzMDI4OSwwMDAwMDA3NzAwMDAwMTdlYzdkNzY1MGMwMDAwMDE3YjE3N2MzMWU3",
+  "snapshot_id": "MTY0NDU5Nzg0NSwwMDAwMDA3ODAwMDAwMTdlZTlhYjlmYmMwMDAwMDE3YjE3N2MzMWU3",
   "tracks": [
+    {
+      "added_at": "2021-08-05 18:08:26",
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL"
+    },
     {
       "added_at": "2022-01-11 14:57:38",
       "album": {
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3"
     },
     {
-      "added_at": "2021-08-05 18:08:26",
-      "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "The Spins",
-      "url": "https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL"
-    },
-    {
       "added_at": "2021-12-03 15:22:54",
       "album": {
         "name": "I Hate U",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
-      "added_at": "2022-02-01 15:58:14",
-      "album": {
-        "name": "I Look Good",
-        "url": "https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo"
-      },
-      "artists": [
-        {
-          "name": "O.T. Genasis",
-          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
-        }
-      ],
-      "duration_ms": 101635,
-      "name": "I Look Good",
-      "url": "https://open.spotify.com/track/79aQX5Uq6t8apowFe5uueL"
-    },
-    {
       "added_at": "2022-01-04 16:21:50",
       "album": {
         "name": "I Feel Fantastic",
@@ -119,6 +103,22 @@
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
+    },
+    {
+      "added_at": "2022-02-11 16:44:05",
+      "album": {
+        "name": "clam chowder",
+        "url": "https://open.spotify.com/album/74KH6zHFgqwLC0V7oorWcd"
+      },
+      "artists": [
+        {
+          "name": "Shy High",
+          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "clam chowder",
+      "url": "https://open.spotify.com/track/6vEIhmMgzQMDdUwPNWqzSG"
     },
     {
       "added_at": "2021-11-04 19:21:08",
@@ -167,6 +167,26 @@
       "duration_ms": 230000,
       "name": "Hypnotize - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+    },
+    {
+      "added_at": "2022-02-11 16:44:05",
+      "album": {
+        "name": "to hell with it (Remixes)",
+        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        }
+      ],
+      "duration_ms": 311066,
+      "name": "All my friends know - Anz Remix",
+      "url": "https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp"
     },
     {
       "added_at": "2021-08-05 18:08:26",
@@ -301,6 +321,22 @@
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
     },
     {
+      "added_at": "2022-02-11 16:44:05",
+      "album": {
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
+    },
+    {
       "added_at": "2021-12-16 17:45:06",
       "album": {
         "name": "Premiers \u00e9mois",
@@ -391,6 +427,22 @@
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV"
+    },
+    {
+      "added_at": "2022-02-11 16:44:05",
+      "album": {
+        "name": "Nightcrawler",
+        "url": "https://open.spotify.com/album/27cBacBiyauBUk0z6kQuCn"
+      },
+      "artists": [
+        {
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Nightcrawler",
+      "url": "https://open.spotify.com/track/5Vv84O4hpfW3yVJokveL0b"
     },
     {
       "added_at": "2022-02-05 03:04:49",

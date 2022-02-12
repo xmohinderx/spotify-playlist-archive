@@ -1,11 +1,51 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Red Hot Chili Peppers",
+  "description": "The hottest tunes in rock. Crank it up! Cover: L\u00d8L\u00d8",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "CANDU :: AB Bride",
+        "url": "https://open.spotify.com/album/1AH4y5LvN3Fv3MT2VqppFA"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227114,
+      "name": "AB Bride",
+      "url": "https://open.spotify.com/track/008o3F2Bvkb6F7WgWGG9DS"
+    },
+    {
+      "album": {
+        "name": "4 (feat. Myles Kennedy and The Conspirators)",
+        "url": "https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241954,
+      "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
+    },
     {
       "album": {
         "name": "adding up",
@@ -279,7 +319,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 262226,
       "name": "Brother the Cloud",
       "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
@@ -301,7 +341,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 195910,
       "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/4Ejf3NzTDbWdRGdjDq3KG4"
@@ -507,6 +547,28 @@
       "duration_ms": 218403,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/0PDjruEbiCY7sy2VVd0mPG"
+    },
+    {
+      "album": {
+        "name": "debbie downer",
+        "url": "https://open.spotify.com/album/6incXes5C4tio1Y08EhFJW"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159617,
+      "name": "debbie downer",
+      "url": "https://open.spotify.com/track/738ea6GnnVj6w8RiiX3B47"
     },
     {
       "album": {
@@ -732,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3sYkBlospe8hXvJxeNUfdN"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122901,
+      "name": "Fear Of The Dawn",
+      "url": "https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw"
+    },
+    {
+      "album": {
         "name": "Fill My World (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/4zBCquAHyZuELJfNx2CJL5"
       },
@@ -855,7 +935,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
@@ -1093,7 +1173,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 165916,
       "name": "hurt less",
       "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
@@ -1173,6 +1253,24 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "name": "Earthling",
+        "url": "https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286950,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM"
     },
     {
       "album": {
@@ -1455,7 +1553,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 186505,
       "name": "Life",
       "url": "https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF"
@@ -2097,7 +2195,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 216013,
       "name": "Robot Writes A Love Song",
       "url": "https://open.spotify.com/track/0uLCToYxTtdsOiDUhCUZ4Z"
@@ -2270,6 +2368,24 @@
     },
     {
       "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/1jNfYTMnromITdfUbvtwfu"
+      },
+      "artists": [
+        {
+          "name": "Ellevator",
+          "url": "https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206854,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/7rKmdNlYcVJZ0OFPmXZ5li"
+    },
+    {
+      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/4Ha96DYTUm4ln6dnTqMVkf"
       },
@@ -2379,7 +2495,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 238870,
       "name": "Surviving The Game",
       "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
@@ -2433,7 +2549,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 259323,
       "name": "Symphony Of Lights",
       "url": "https://open.spotify.com/track/65uoNTX681VJpRyuVSWSdd"
@@ -2491,6 +2607,24 @@
       "duration_ms": 259173,
       "name": "Temple Of Ekur",
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+    },
+    {
+      "album": {
+        "name": "The Actor",
+        "url": "https://open.spotify.com/album/50B0wJmn0HNY2x10RbwRhk"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240893,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/2TyHTGdwx7uOdxsq1e8DEt"
     },
     {
       "album": {
@@ -2769,6 +2903,24 @@
       "duration_ms": 190973,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf"
+    },
+    {
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "album": {

@@ -774,6 +774,24 @@
     },
     {
       "album": {
+        "name": "Made Me Cry",
+        "url": "https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4"
+      },
+      "artists": [
+        {
+          "name": "Andrea Vasquez",
+          "url": "https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204987,
+      "name": "Made Me Cry",
+      "url": "https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv"
+    },
+    {
+      "album": {
         "name": "Mal Necesario",
         "url": "https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1"
       },

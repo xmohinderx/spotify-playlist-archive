@@ -932,6 +932,24 @@
     },
     {
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
+      },
+      "artists": [
+        {
+          "name": "Wake Up Hate",
+          "url": "https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204765,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
+    },
+    {
+      "album": {
         "name": "Monster Truck",
         "url": "https://open.spotify.com/album/0v4RSjqKmZn6lorB7HymsC"
       },

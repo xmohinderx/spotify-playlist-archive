@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Love's A Conspiracy",
+        "url": "https://open.spotify.com/album/5OmVtGjKCHNnN0QBXSrKvx"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95876,
+      "name": "Love's A Conspiracy",
+      "url": "https://open.spotify.com/track/4frcZxbHs4PagQTHBdTfWA"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/07cOFlQroUMNyS6Tq4f0Ds"
       },

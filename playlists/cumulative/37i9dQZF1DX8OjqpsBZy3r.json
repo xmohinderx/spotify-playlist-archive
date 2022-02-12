@@ -542,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Freight Train",
+        "url": "https://open.spotify.com/album/6oCWzZ0s3QMp1MJLKUV8QG"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/6oo0HD3mrcYtzApYeYsS4L"
+    },
+    {
+      "album": {
         "name": "Gone Too Soon",
         "url": "https://open.spotify.com/album/7gWVQxnmBpNv9ZacenAgd8"
       },
@@ -1007,6 +1025,24 @@
       "duration_ms": 166933,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/6Xb3wtPsUcUUFoVikf3J1U"
+    },
+    {
+      "album": {
+        "name": "Born in July",
+        "url": "https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Not Supposed To Know Each Other",
+      "url": "https://open.spotify.com/track/5B5ToRmXjXYXdShfi8Yx0s"
     },
     {
       "album": {

@@ -164,6 +164,24 @@
     },
     {
       "album": {
+        "name": "Across Long Lakes",
+        "url": "https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Spring",
+          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148416,
+      "name": "Across Long Lakes",
+      "url": "https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu"
+    },
+    {
+      "album": {
         "name": "Paces",
         "url": "https://open.spotify.com/album/5A9A7MG3cXrgnZz0tpU3Eo"
       },
@@ -323,6 +341,24 @@
       "duration_ms": 194166,
       "name": "Attesa",
       "url": "https://open.spotify.com/track/6GKQ8BYoRJxlE4cJJf4xw7"
+    },
+    {
+      "album": {
+        "name": "Ave",
+        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
     },
     {
       "album": {
@@ -717,6 +753,42 @@
       "duration_ms": 105120,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/2a858f2BMm5VEeXUk4sIm8"
+    },
+    {
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
+      },
+      "artists": [
+        {
+          "name": "Ky\u016bka",
+          "url": "https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110466,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
+    },
+    {
+      "album": {
+        "name": "In Breath",
+        "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
+      },
+      "artists": [
+        {
+          "name": "Luke Gajdus",
+          "url": "https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
     },
     {
       "album": {
@@ -1129,7 +1201,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 187013,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg"
@@ -2091,6 +2163,24 @@
       "duration_ms": 273160,
       "name": "Strata",
       "url": "https://open.spotify.com/track/6cIiJmwWKCgfxo7qKLRbLd"
+    },
+    {
+      "album": {
+        "name": "Summer Flowers",
+        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144654,
+      "name": "Summer Flowers",
+      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
     },
     {
       "album": {

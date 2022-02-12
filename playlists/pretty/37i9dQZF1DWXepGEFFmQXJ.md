@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,255 likes - 66 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,382 likes - 66 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

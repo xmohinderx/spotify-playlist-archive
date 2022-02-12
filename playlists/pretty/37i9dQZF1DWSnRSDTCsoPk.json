@@ -1,29 +1,13 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 191159,
+  "num_followers": 191678,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU0MDEwNSwwMDAwMDAwMGJkZmQyZDQ1ZTc3ZDBiZGUyZDE1YmJhYmZhZDI1NWNm",
+  "snapshot_id": "MTY0NDYyNjUwMiwwMDAwMDAwMDg5NjAyYjM1MDMyNzI4MjM3NzZkY2RiYmFiNTAzMjMx",
   "tracks": [
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/4DrS5uqr2LBqfTF5nsRtyT"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 192765,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/0u5FYJWJLcLzSN9S1Wb2ag"
-    },
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
@@ -41,6 +25,38 @@
       "url": "https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA"
     },
     {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/4DrS5uqr2LBqfTF5nsRtyT"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 192765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/0u5FYJWJLcLzSN9S1Wb2ag"
+    },
+    {
+      "added_at": "2021-06-11 05:42:39",
+      "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164441,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
+    },
+    {
       "added_at": "2021-11-19 14:36:59",
       "album": {
         "name": "Summer Nights",
@@ -55,54 +71,6 @@
       "duration_ms": 208240,
       "name": "What is Love",
       "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
-    },
-    {
-      "added_at": "2021-07-23 09:44:27",
-      "album": {
-        "name": "Butter / Permission to Dance",
-        "url": "https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
-    },
-    {
-      "added_at": "2021-09-23 13:07:25",
-      "album": {
-        "name": "1+1=1",
-        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
-      },
-      "artists": [
-        {
-          "name": "HyunA&DAWN",
-          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "PING PONG",
-      "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "What You Waiting For",
-        "url": "https://open.spotify.com/album/6kTEvkf2rAFrnWUx7IezfC"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 175327,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/5tXdUaMqWa15Rs2frNQMwX"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -123,6 +91,38 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/6kTEvkf2rAFrnWUx7IezfC"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/5tXdUaMqWa15Rs2frNQMwX"
+    },
+    {
+      "added_at": "2021-09-23 13:07:25",
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
+      },
+      "artists": [
+        {
+          "name": "HyunA&DAWN",
+          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "PING PONG",
+      "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
       },
@@ -135,54 +135,6 @@
       "duration_ms": 189286,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "I'm Not Cool",
-        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "I'm Not Cool",
-      "url": "https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Feel Special",
-        "url": "https://open.spotify.com/album/5MmndGNrJgTLd5W7HNmVST"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Feel Special",
-      "url": "https://open.spotify.com/track/2HtcPHFdo7eu4Ilbvb0BVI"
-    },
-    {
-      "added_at": "2021-06-11 05:42:39",
-      "album": {
-        "name": "Butter",
-        "url": "https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 164441,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
     },
     {
       "added_at": "2021-07-23 09:44:27",
@@ -199,6 +151,54 @@
       "duration_ms": 201120,
       "name": "PTT (Paint The Town)",
       "url": "https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh"
+    },
+    {
+      "added_at": "2021-07-23 09:44:27",
+      "album": {
+        "name": "Butter / Permission to Dance",
+        "url": "https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/0W5hTAWn8Tq0Qfhg1XP3YW"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "I'm Not Cool",
+      "url": "https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf"
     },
     {
       "added_at": "2021-10-08 07:23:54",
@@ -241,52 +241,20 @@
       "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
     },
     {
-      "added_at": "2021-04-27 06:23:28",
+      "added_at": "2021-06-11 05:42:39",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 179156,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/0W5hTAWn8Tq0Qfhg1XP3YW"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+      "duration_ms": 176546,
+      "name": "Don't fight the feeling",
+      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -307,6 +275,70 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/5MmndGNrJgTLd5W7HNmVST"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/2HtcPHFdo7eu4Ilbvb0BVI"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "TREASURE EPILOGUE : Action To Answer",
+        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 179156,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
         "name": "IT'z Different",
         "url": "https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C"
       },
@@ -319,38 +351,6 @@
       "duration_ms": 199873,
       "name": "\ub2ec\ub77c\ub2ec\ub77c (DALLA DALLA)",
       "url": "https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT"
-    },
-    {
-      "added_at": "2021-06-11 05:42:39",
-      "album": {
-        "name": "DON'T FIGHT THE FEELING - Special Album",
-        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Don't fight the feeling",
-      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "White Wind",
-        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 195855,
-      "name": "gogobebe",
-      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -371,18 +371,34 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "2009, Year Of Us - The Third Mini Album",
-        "url": "https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC"
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         }
       ],
-      "duration_ms": 233280,
-      "name": "Ring Ding Dong",
-      "url": "https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx"
+      "duration_ms": 213666,
+      "name": "90's Love",
+      "url": "https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 217051,
+      "name": "Blood Sweat & Tears",
+      "url": "https://open.spotify.com/track/5RGf8qn1TBWVplLyyKUsuV"
     },
     {
       "added_at": "2021-11-19 14:36:59",
@@ -403,18 +419,82 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy"
+        "name": "White Wind",
+        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 217051,
-      "name": "Blood Sweat & Tears",
-      "url": "https://open.spotify.com/track/5RGf8qn1TBWVplLyyKUsuV"
+      "duration_ms": 195855,
+      "name": "gogobebe",
+      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/71vPAjlG1x606483GTJNhY"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "[12:00]",
+        "url": "https://open.spotify.com/album/0AfLJ1yEWYlFPabxu1kmht"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/227y7s5IZ5TWN17Pkte5tc"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -443,22 +523,6 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
-        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "90's Love",
-      "url": "https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
         "name": "HUSH",
         "url": "https://open.spotify.com/album/7tMpbKXDLlHPSCoPdF2OBv"
       },
@@ -471,118 +535,6 @@
       "duration_ms": 189146,
       "name": "Adios",
       "url": "https://open.spotify.com/track/5uHl2eYaITSX6xEX8bmaXy"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "TREASURE EPILOGUE : Action To Answer",
-        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "[12:00]",
-        "url": "https://open.spotify.com/album/0AfLJ1yEWYlFPabxu1kmht"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "Why Not?",
-      "url": "https://open.spotify.com/track/227y7s5IZ5TWN17Pkte5tc"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Oh! - The Second Album",
-        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Gee",
-      "url": "https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm"
-      },
-      "artists": [
-        {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs"
-    },
-    {
-      "added_at": "2021-08-09 05:50:21",
-      "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "DIVE",
-      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/71vPAjlG1x606483GTJNhY"
-    },
-    {
-      "added_at": "2021-10-08 07:23:54",
-      "album": {
-        "name": "Why Why Why",
-        "url": "https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 206856,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
     },
     {
       "added_at": "2021-12-17 07:42:37",
@@ -619,50 +571,34 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0yz5ipZ8LshvZl1nxcUpBE"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 189355,
-      "name": "Energetic",
-      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+      "duration_ms": 256360,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/0qQBuGsT79rKtmmfC0V38x"
     },
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "IT'z ICY",
-        "url": "https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1"
+        "name": "2009, Year Of Us - The Third Mini Album",
+        "url": "https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 191142,
-      "name": "ICY",
-      "url": "https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu"
-    },
-    {
-      "added_at": "2021-07-23 09:44:27",
-      "album": {
-        "name": "TURN OVER",
-        "url": "https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI"
-      },
-      "artists": [
-        {
-          "name": "SF9",
-          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
-        }
-      ],
-      "duration_ms": 197309,
-      "name": "Tear Drop",
-      "url": "https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7"
+      "duration_ms": 233280,
+      "name": "Ring Ding Dong",
+      "url": "https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -683,34 +619,34 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "DUMDi DUMDi",
-        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 210640,
-      "name": "DUMDi DUMDi",
-      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
+      "duration_ms": 191142,
+      "name": "ICY",
+      "url": "https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu"
     },
     {
-      "added_at": "2021-09-23 13:07:25",
+      "added_at": "2021-10-08 07:23:54",
       "album": {
-        "name": "HIDE & SEEK",
-        "url": "https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8"
+        "name": "Why Why Why",
+        "url": "https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q"
       },
       "artists": [
         {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK"
+      "duration_ms": 206856,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -731,34 +667,50 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/0yz5ipZ8LshvZl1nxcUpBE"
+        "name": "DUMDi DUMDi",
+        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 256360,
-      "name": "Haru Haru",
-      "url": "https://open.spotify.com/track/0qQBuGsT79rKtmmfC0V38x"
+      "duration_ms": 210640,
+      "name": "DUMDi DUMDi",
+      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
     },
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4F8XrBym6NyfDnvlxI69aL"
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
       "artists": [
         {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
         }
       ],
-      "duration_ms": 206653,
-      "name": "BE MINE",
-      "url": "https://open.spotify.com/track/2offXFLPgX8MdU72dXDw34"
+      "duration_ms": 189355,
+      "name": "Energetic",
+      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+    },
+    {
+      "added_at": "2021-08-09 05:50:21",
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "DIVE",
+      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -779,50 +731,18 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "Fiction And Fact",
-        "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
+        "name": "[#]",
+        "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
       },
       "artists": [
         {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
         }
       ],
-      "duration_ms": 234586,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv"
-    },
-    {
-      "added_at": "2021-10-08 07:23:54",
-      "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "DO or NOT",
-      "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "SNOWFLAKE",
-        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 209104,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
+      "duration_ms": 198040,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m"
     },
     {
       "added_at": "2021-08-09 05:50:21",
@@ -839,6 +759,22 @@
       "duration_ms": 232333,
       "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
       "url": "https://open.spotify.com/track/5R6OW0wrjn94lOGF5cxVP3"
+    },
+    {
+      "added_at": "2021-09-23 13:07:25",
+      "album": {
+        "name": "HIDE & SEEK",
+        "url": "https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -859,18 +795,34 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "The Classic",
-        "url": "https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567"
+        "name": "Fiction And Fact",
+        "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 220346,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs"
+      "duration_ms": 234586,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv"
+    },
+    {
+      "added_at": "2021-07-23 09:44:27",
+      "album": {
+        "name": "TURN OVER",
+        "url": "https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "duration_ms": 197309,
+      "name": "Tear Drop",
+      "url": "https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7"
     },
     {
       "added_at": "2021-12-17 07:42:37",
@@ -907,34 +859,18 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "D-D-DANCE",
-        "url": "https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g"
+        "name": "SNOWFLAKE",
+        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
         }
       ],
-      "duration_ms": 205066,
-      "name": "D-D-DANCE",
-      "url": "https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "[#]",
-        "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m"
+      "duration_ms": 209104,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
     },
     {
       "added_at": "2021-06-11 05:42:39",
@@ -955,34 +891,34 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "So Hot",
-        "url": "https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe"
+        "name": "D-D-DANCE",
+        "url": "https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g"
       },
       "artists": [
         {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 181328,
-      "name": "So Hot",
-      "url": "https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD"
+      "duration_ms": 205066,
+      "name": "D-D-DANCE",
+      "url": "https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy"
     },
     {
-      "added_at": "2021-04-27 06:23:28",
+      "added_at": "2021-10-08 07:23:54",
       "album": {
-        "name": "Lucifer - The 2nd Album",
-        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 233986,
-      "name": "LUCIFER",
-      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+      "duration_ms": 188240,
+      "name": "DO or NOT",
+      "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1003,210 +939,18 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "The Red - The 1st Album",
-        "url": "https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd"
+        "name": "Lucifer - The 2nd Album",
+        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 202543,
-      "name": "Dumb Dumb",
-      "url": "https://open.spotify.com/track/64iDjAuWDogVhuoWhKklF9"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "New Challenge",
-        "url": "https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA"
-      },
-      "artists": [
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Man In Love",
-      "url": "https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "INSANE LOVE",
-        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 221371,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "miss me?",
-        "url": "https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r"
-      },
-      "artists": [
-        {
-          "name": "I.O.I",
-          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Very Very Very",
-      "url": "https://open.spotify.com/track/0BhMw9r3eOLMLXRFBLCt6O"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "IN THE WIND",
-        "url": "https://open.spotify.com/album/14uRVwwLjCIq9UZjfdccDF"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Tried to walk",
-      "url": "https://open.spotify.com/track/6UYc8n6PjvN6vrrNTSDM51"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "SS501 / Rebirth",
-        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Member's Selection",
-        "url": "https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3"
-      },
-      "artists": [
-        {
-          "name": "2PM",
-          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
-        }
-      ],
-      "duration_ms": 203148,
-      "name": "10 Out of 10",
-      "url": "https://open.spotify.com/track/2oJumvALZrts4rOI3c5nGL"
-    },
-    {
-      "added_at": "2021-12-17 07:42:37",
-      "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/7DYlr2x4oRyg23zFQOsGG9"
-      },
-      "artists": [
-        {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
-        }
-      ],
-      "duration_ms": 198243,
-      "name": "DIVA",
-      "url": "https://open.spotify.com/track/2zpQSMe7xEFeSdGNoFLWl8"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "John Travolta Wanna Be",
-        "url": "https://open.spotify.com/album/6dCsrXRW9GqW1N1Vwk2dMC"
-      },
-      "artists": [
-        {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
-        }
-      ],
-      "duration_ms": 214427,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/36r4cTfmjVo5JYqNBIcjk6"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "HER",
-        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 179053,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
-    },
-    {
-      "added_at": "2021-10-08 07:23:54",
-      "album": {
-        "name": "Red Diary Page.2",
-        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 220980,
-      "name": "Travel",
-      "url": "https://open.spotify.com/track/2gat9tFMWBID4SmoPmQrFQ"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "A (Digital Single)",
-        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
-      },
-      "artists": [
-        {
-          "name": "RAINBOW",
-          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
-        }
-      ],
-      "duration_ms": 201737,
-      "name": "A",
-      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Afterschool 3rd Single BANG",
-        "url": "https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h"
-      },
-      "artists": [
-        {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
-        }
-      ],
-      "duration_ms": 198243,
-      "name": "bang",
-      "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
+      "duration_ms": 233986,
+      "name": "LUCIFER",
+      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1227,18 +971,82 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "\uae30\ub300",
-        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+        "name": "John Travolta Wanna Be",
+        "url": "https://open.spotify.com/album/6dCsrXRW9GqW1N1Vwk2dMC"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
         }
       ],
-      "duration_ms": 196826,
-      "name": "\uae30\ub300\ud574",
-      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+      "duration_ms": 214427,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/36r4cTfmjVo5JYqNBIcjk6"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "IN THE WIND",
+        "url": "https://open.spotify.com/album/14uRVwwLjCIq9UZjfdccDF"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Tried to walk",
+      "url": "https://open.spotify.com/track/6UYc8n6PjvN6vrrNTSDM51"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4F8XrBym6NyfDnvlxI69aL"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "BE MINE",
+      "url": "https://open.spotify.com/track/2offXFLPgX8MdU72dXDw34"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "miss me?",
+        "url": "https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Very Very Very",
+      "url": "https://open.spotify.com/track/0BhMw9r3eOLMLXRFBLCt6O"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "The Red - The 1st Album",
+        "url": "https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 202543,
+      "name": "Dumb Dumb",
+      "url": "https://open.spotify.com/track/64iDjAuWDogVhuoWhKklF9"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1259,8 +1067,8 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
+        "name": "INSANE LOVE",
+        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
       },
       "artists": [
         {
@@ -1268,9 +1076,89 @@
           "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 208506,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+      "duration_ms": 221371,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+    },
+    {
+      "added_at": "2021-10-08 07:23:54",
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 220980,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/2gat9tFMWBID4SmoPmQrFQ"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Afterschool 3rd Single BANG",
+        "url": "https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "duration_ms": 198243,
+      "name": "bang",
+      "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "SS501 / Rebirth",
+        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "So Hot",
+        "url": "https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 181328,
+      "name": "So Hot",
+      "url": "https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 179053,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1291,18 +1179,114 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
+        "name": "Thumbs Up",
+        "url": "https://open.spotify.com/album/6MXn7TTeSnLuF179cWlm4F"
       },
       "artists": [
         {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
         }
       ],
-      "duration_ms": 218566,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
+      "duration_ms": 198200,
+      "name": "Thumbs Up",
+      "url": "https://open.spotify.com/track/2X1zCTkwxQRMkloiVlQ55e"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "A (Digital Single)",
+        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
+      },
+      "artists": [
+        {
+          "name": "RAINBOW",
+          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
+        }
+      ],
+      "duration_ms": 201737,
+      "name": "A",
+      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
+      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2R2SusHMCwhf0ed78ajJUM"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Fantastic Baby",
+      "url": "https://open.spotify.com/track/7bB3eTpZ7ecuN7C7dTQomt"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "The Classic",
+        "url": "https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "SHAKE IT",
+        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+    },
+    {
+      "added_at": "2021-12-17 07:42:37",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/7DYlr2x4oRyg23zFQOsGG9"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "duration_ms": 198243,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/2zpQSMe7xEFeSdGNoFLWl8"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1323,6 +1307,86 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "\uae30\ub300\ud574",
+      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "New Challenge",
+        "url": "https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Man In Love",
+      "url": "https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+      },
+      "artists": [
+        {
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+        }
+      ],
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Sound G.",
+        "url": "https://open.spotify.com/album/2CEzjLWQOcGxkorwL99n6p"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 182308,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/4q4iT3zXglsNjzFsArxBUv"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
         "name": "Bluelove",
         "url": "https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU"
       },
@@ -1335,6 +1399,86 @@
       "duration_ms": 227996,
       "name": "Love",
       "url": "https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
+      },
+      "artists": [
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+        }
+      ],
+      "duration_ms": 218566,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "The Nocturne",
+        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "I'm in Trouble",
+      "url": "https://open.spotify.com/track/2Holdh01TKUWI2HN3t3fLV"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Member's Selection",
+        "url": "https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3"
+      },
+      "artists": [
+        {
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
+        }
+      ],
+      "duration_ms": 203148,
+      "name": "10 Out of 10",
+      "url": "https://open.spotify.com/track/2oJumvALZrts4rOI3c5nGL"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
+        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "\ubbf8\uc778\uc544 Bonamana",
+      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+    },
+    {
+      "added_at": "2021-04-27 06:23:28",
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 217887,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1369,84 +1513,36 @@
       "url": "https://open.spotify.com/track/5dpeWuKckXE4j1QPBc8rXl"
     },
     {
-      "added_at": "2021-04-27 06:23:28",
+      "added_at": "2021-08-09 05:50:21",
       "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu"
       },
       "artists": [
         {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 217887,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
+      "duration_ms": 217171,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF"
     },
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "The Nocturne",
-        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+        "name": "SO COOL",
+        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
       },
       "artists": [
         {
-          "name": "NU'EST",
-          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 184200,
-      "name": "I'm in Trouble",
-      "url": "https://open.spotify.com/track/2Holdh01TKUWI2HN3t3fLV"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/2R2SusHMCwhf0ed78ajJUM"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Fantastic Baby",
-      "url": "https://open.spotify.com/track/7bB3eTpZ7ecuN7C7dTQomt"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Lights Go On Again",
-        "url": "https://open.spotify.com/album/5r0br4nupSu65kd5TzNQEe"
-      },
-      "artists": [
-        {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/6CDtmm9IbYYKnWWRgUmVRo"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Sound G.",
-        "url": "https://open.spotify.com/album/2CEzjLWQOcGxkorwL99n6p"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 182308,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/4q4iT3zXglsNjzFsArxBUv"
+      "duration_ms": 201273,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
     },
     {
       "added_at": "2021-12-17 07:42:37",
@@ -1467,18 +1563,18 @@
     {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "Bubble Pop!",
-        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+        "name": "Lights Go On Again",
+        "url": "https://open.spotify.com/album/5r0br4nupSu65kd5TzNQEe"
       },
       "artists": [
         {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 212244,
-      "name": "Bubble Pop!",
-      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+      "duration_ms": 217746,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6CDtmm9IbYYKnWWRgUmVRo"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1497,84 +1593,20 @@
       "url": "https://open.spotify.com/track/2gVUU6cUYgsExc7X70FrTo"
     },
     {
-      "added_at": "2021-08-09 05:50:21",
-      "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 217171,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF"
-    },
-    {
       "added_at": "2021-04-27 06:23:28",
       "album": {
-        "name": "THE THIRD SINGLE CATALLENA",
-        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ"
       },
       "artists": [
         {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 193153,
-      "name": "Catallena",
-      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 227021,
-      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
-      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "Thumbs Up",
-        "url": "https://open.spotify.com/album/6MXn7TTeSnLuF179cWlm4F"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Thumbs Up",
-      "url": "https://open.spotify.com/track/2X1zCTkwxQRMkloiVlQ55e"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "SO COOL",
-        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 201273,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
+      "duration_ms": 196920,
+      "name": "Crayon",
+      "url": "https://open.spotify.com/track/1HMbjnCFGOWd8Sqou4maxM"
     },
     {
       "added_at": "2021-04-27 06:23:28",
@@ -1607,38 +1639,6 @@
       "duration_ms": 186775,
       "name": "What's your name?",
       "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "One of a Kind",
-        "url": "https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Crayon",
-      "url": "https://open.spotify.com/track/1HMbjnCFGOWd8Sqou4maxM"
-    },
-    {
-      "added_at": "2021-04-27 06:23:28",
-      "album": {
-        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
-        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "\ubbf8\uc778\uc544 Bonamana",
-      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
     }
   ],
   "unique_name": "Energy Booster: K-Pop",

@@ -1,29 +1,13 @@
 {
-  "description": "The hottest new pop with the all the drops. Cover: Sofi Tukker",
-  "num_followers": 74732,
+  "description": "The hottest new pop with the all the drops. Cover: TWICE",
+  "num_followers": 74766,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDA2OTAwMDAwMTdlYzMxYjY3NzcwMDAwMDE3ZWMxNTBjZTU0",
+  "snapshot_id": "MTY0NDU1NTcyMCwwMDAwMDA2YTAwMDAwMTdlZTcyOGQ1YTkwMDAwMDE3ZWRkNDM4YWIw",
   "tracks": [
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
-    },
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
@@ -47,6 +31,58 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "duration_ms": 189628,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "Honest (feat. Slayyyter)",
         "url": "https://open.spotify.com/album/46vmaiRCmEHYavivCY1r68"
       },
@@ -63,6 +99,22 @@
       "duration_ms": 178689,
       "name": "Honest (feat. Slayyyter)",
       "url": "https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/6Lj8Q6AxJVURUuGGGl5EeD"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2PkIMHlkRJjG0saAcQRZPO"
     },
     {
       "added_at": "2022-01-28 05:01:32",
@@ -119,6 +171,22 @@
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU"
+      },
+      "artists": [
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "duration_ms": 118392,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx"
     },
     {
       "added_at": "2022-01-21 05:00:00",

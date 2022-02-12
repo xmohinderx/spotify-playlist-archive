@@ -1,12 +1,12 @@
 {
   "description": "Ingratax y Sael tienen el ritmo que mueve Latinoam\u00e9rica.",
-  "num_followers": 410148,
+  "num_followers": 410260,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDM2MDQ1OSwwMDAwMDE2YTAwMDAwMTdlZGI4NTYzZWMwMDAwMDE3ZWMxOWY5ODY5",
+  "snapshot_id": "MTY0NDU1NTYwMCwwMDAwMDE2YjAwMDAwMTdlZTcyNzAxNTQwMDAwMDE3ZWMxOWY5ODY5",
   "tracks": [
     {
       "added_at": "2022-02-03 23:00:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
     },
     {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Caprichoso",
+        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Caprichoso",
+      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
+    },
+    {
       "added_at": "2022-01-17 15:29:17",
       "album": {
         "name": "12x3",
@@ -59,26 +75,6 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
-    },
-    {
-      "added_at": "2022-01-17 15:29:17",
-      "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
     },
     {
       "added_at": "2022-01-28 04:00:00",
@@ -99,6 +95,26 @@
       "duration_ms": 208960,
       "name": "Otro",
       "url": "https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-02-03 23:00:00",
@@ -123,30 +139,6 @@
     {
       "added_at": "2022-01-17 15:29:17",
       "album": {
-        "name": "Regres\u00e9",
-        "url": "https://open.spotify.com/album/1IvX6AN3z7OH8iXKRw3rXw"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Regres\u00e9",
-      "url": "https://open.spotify.com/track/7mftg8God1V8NdHIukbGgx"
-    },
-    {
-      "added_at": "2022-01-17 15:29:17",
-      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd"
       },
@@ -159,6 +151,42 @@
       "duration_ms": 218391,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp"
+    },
+    {
+      "added_at": "2022-01-17 15:29:17",
+      "album": {
+        "name": "Morad: Bzrp Music Sessions, Vol. 47",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "El Amor y Yo",
+        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 176010,
+      "name": "So\u00f1ando Despierto",
+      "url": "https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep"
     },
     {
       "added_at": "2022-01-17 15:29:17",
@@ -193,36 +221,20 @@
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/1On0NRpliRWFNf1lI6hL7h"
+        "name": "NO SE OLVIDA",
+        "url": "https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA"
       },
       "artists": [
         {
-          "name": "Alex Sensation",
-          "url": "https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 209333,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/5px2CcFnmRJecJMNPYz4Io"
+      "duration_ms": 250841,
+      "name": "NO SE OLVIDA",
+      "url": "https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv"
     },
     {
       "added_at": "2022-01-17 15:29:17",
@@ -277,20 +289,24 @@
       "url": "https://open.spotify.com/track/1SLLQv5od5CwfyiuN3mrWu"
     },
     {
-      "added_at": "2022-01-17 15:29:17",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "NUEVE",
-        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+        "name": "Despues De Las 12",
+        "url": "https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 171661,
-      "name": "NEGRO MATE",
-      "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
+      "duration_ms": 194218,
+      "name": "Despues De Las 12",
+      "url": "https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H"
     },
     {
       "added_at": "2022-01-17 15:29:17",
@@ -363,6 +379,70 @@
     {
       "added_at": "2022-01-17 15:29:17",
       "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 171661,
+      "name": "NEGRO MATE",
+      "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/6HsEKcwOLhcZkqZNRCMmHy"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 187831,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/66mYdj1nlbGJ03L314VsrL"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/1On0NRpliRWFNf1lI6hL7h"
+      },
+      "artists": [
+        {
+          "name": "Alex Sensation",
+          "url": "https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/5px2CcFnmRJecJMNPYz4Io"
+    },
+    {
+      "added_at": "2022-01-17 15:29:17",
+      "album": {
         "name": "23 Preguntas",
         "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
@@ -375,50 +455,6 @@
       "duration_ms": 251221,
       "name": "23 Preguntas",
       "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
-    },
-    {
-      "added_at": "2022-02-08 22:47:39",
-      "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
-    },
-    {
-      "added_at": "2022-01-17 15:29:17",
-      "album": {
-        "name": "Buenos D\u00edas",
-        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Buenos D\u00edas",
-      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
     },
     {
       "added_at": "2022-01-28 04:00:00",
@@ -579,6 +615,50 @@
       "duration_ms": 233600,
       "name": "Alejarme de Ti",
       "url": "https://open.spotify.com/track/4SVrkrtAeQLXoNOfQdmSAw"
+    },
+    {
+      "added_at": "2022-01-17 15:29:17",
+      "album": {
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2022-02-08 22:47:39",
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
     },
     {
       "added_at": "2022-01-17 15:29:17",
@@ -783,22 +863,6 @@
       "duration_ms": 192422,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq"
-    },
-    {
-      "added_at": "2022-01-28 04:00:00",
-      "album": {
-        "name": "Maki",
-        "url": "https://open.spotify.com/album/0TSNlfj9WQD3NwiqcjaUwb"
-      },
-      "artists": [
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Maki",
-      "url": "https://open.spotify.com/track/5HpD4DWQegIhaZlMCBTTEV"
     },
     {
       "added_at": "2022-01-17 15:29:17",
@@ -1011,22 +1075,6 @@
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
-    },
-    {
-      "added_at": "2022-01-17 15:29:17",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi"
-      },
-      "artists": [
-        {
-          "name": "Igna",
-          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
-        }
-      ],
-      "duration_ms": 185699,
-      "name": "Buen Rato",
-      "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
     },
     {
       "added_at": "2022-01-17 15:29:17",
@@ -1663,22 +1711,6 @@
     {
       "added_at": "2022-01-17 15:29:17",
       "album": {
-        "name": "Ma\u00f1anero",
-        "url": "https://open.spotify.com/album/1DrYNadwai9D9rocbIXu2e"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Man\u0303anero",
-      "url": "https://open.spotify.com/track/21U0Wbps9UZrPrjZDxPtYq"
-    },
-    {
-      "added_at": "2022-01-17 15:29:17",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/5A9mItuPjhWffKpSUhCihV"
       },
@@ -1855,26 +1887,6 @@
     {
       "added_at": "2022-01-17 15:29:17",
       "album": {
-        "name": "Santa No Es",
-        "url": "https://open.spotify.com/album/0NyQ0PtPvQEbvCNPP98qWD"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Santa No Es",
-      "url": "https://open.spotify.com/track/6QzKzBn40maMxLs5jdTYsG"
-    },
-    {
-      "added_at": "2022-01-17 15:29:17",
-      "album": {
         "name": "Cu\u00e1ntas veces",
         "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
       },
@@ -1891,26 +1903,6 @@
       "duration_ms": 157594,
       "name": "Cu\u00e1ntas veces",
       "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
-    },
-    {
-      "added_at": "2022-01-17 15:29:17",
-      "album": {
-        "name": "Oh Mama (Premium)",
-        "url": "https://open.spotify.com/album/0MGVcqP9pH0t0JthM9xuC2"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Oh Mama - Premium",
-      "url": "https://open.spotify.com/track/1En6OzqLa2XWiY1We4jHms"
     },
     {
       "added_at": "2022-01-17 15:29:17",

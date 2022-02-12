@@ -1110,6 +1110,24 @@
     },
     {
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/2Oonubif3OmZ3nyvIxo3UR"
+      },
+      "artists": [
+        {
+          "name": "ROWKA",
+          "url": "https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144770,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/2ORHJvrvkdEWqLpbTdYJEI"
+    },
+    {
+      "album": {
         "name": "Soda Pop",
         "url": "https://open.spotify.com/album/6Tlma5hptae75mA5jSMWfG"
       },
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 114214,
       "name": "Taste - Remix",
       "url": "https://open.spotify.com/track/5jzvi4Vt4QvCgDMF3jO7u9"

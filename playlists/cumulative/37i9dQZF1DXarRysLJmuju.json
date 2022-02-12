@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Keep up with all the latest pop hits. Cover: Michael Bubl\u00e9",
+  "description": "Keep up with all the latest pop hits. Cover: Ed Sheeran, Taylor Swift",
   "name": "Pop All Day",
   "published_playlist_ids": [
     "72ei0AA5JxKKu1O5OfW8cY"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 123395,
       "name": "Broken",
       "url": "https://open.spotify.com/track/13F6f6z3sDjylX4yvkT8RK"
@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Hate Me If It Helps",
+        "url": "https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194540,
+      "name": "Hate Me If It Helps",
+      "url": "https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216"
+    },
+    {
+      "album": {
         "name": "Head on Fire",
         "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
       },
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 235428,
       "name": "HIT IT (feat. Saweetie & Lele Pons)",
       "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 257368,
       "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
       "url": "https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ"
@@ -1848,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Post Breakup Bender",
+        "url": "https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6"
+      },
+      "artists": [
+        {
+          "name": "Sean Watson Graham",
+          "url": "https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224010,
+      "name": "Post Breakup Bender",
+      "url": "https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G"
+    },
+    {
+      "album": {
         "name": "The Hating Game (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
@@ -2009,6 +2045,24 @@
       "duration_ms": 172721,
       "name": "redruM",
       "url": "https://open.spotify.com/track/0pnG6sIThf9kp9ebTqn44L"
+    },
+    {
+      "album": {
+        "name": "roses",
+        "url": "https://open.spotify.com/album/3UqQa5s6XDUlTxnM1wlGFd"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Reid",
+          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189515,
+      "name": "roses",
+      "url": "https://open.spotify.com/track/3PmaqkHQLWpxKhSpo6yJip"
     },
     {
       "album": {
@@ -2412,6 +2466,28 @@
     },
     {
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -2445,7 +2521,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181013,
       "name": "Tired",
       "url": "https://open.spotify.com/track/7u3Jn3uehu2mFCf1ETkrc2"
@@ -2533,6 +2609,24 @@
       "duration_ms": 123135,
       "name": "Wait",
       "url": "https://open.spotify.com/track/46z6ENU51UUGeRam2fWrQW"
+    },
+    {
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150230,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI"
     },
     {
       "album": {

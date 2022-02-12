@@ -1892,6 +1892,28 @@
     },
     {
       "album": {
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/0o6BEeeV5E3a8pCubnPBm4"
+      },
+      "artists": [
+        {
+          "name": "Isak Thomas and The Stoop Boys",
+          "url": "https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa"
+        },
+        {
+          "name": "connor",
+          "url": "https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/1kmG1FzXoSMO0ud1lbdYef"
+    },
+    {
+      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/2mJeeTdHdYNwyB2xdKT4fj"
       },

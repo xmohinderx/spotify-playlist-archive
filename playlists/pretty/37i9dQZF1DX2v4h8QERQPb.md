@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,907 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,982 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Dance Crip](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
+| 1 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
 | 2 | [DISCIPLINA](https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [DISCIPLINA](https://open.spotify.com/album/1PecmtWamLOvWahwn4aFbX) | 3:40 |
 | 3 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 |
 | 4 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 |

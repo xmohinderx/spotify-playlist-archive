@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: ATEEZ",
+  "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: Jung Kook",
   "name": "K-Pop Daebak",
   "published_playlist_ids": [
     "12lAZQWLG8b3pM25Gnfv99"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 213960,
       "name": "Devil",
       "url": "https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn"
@@ -910,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk"
+    },
+    {
+      "album": {
         "name": "[REC.]",
         "url": "https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi"
       },
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181760,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
@@ -1091,6 +1109,24 @@
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
+    },
+    {
+      "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
     },
     {
       "album": {

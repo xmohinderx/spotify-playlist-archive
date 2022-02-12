@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 382339,
       "name": "Jola",
       "url": "https://open.spotify.com/track/7iUEGVJWIvWP98odIfuQ2p"
@@ -2573,7 +2573,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 432366,
       "name": "Sharp",
       "url": "https://open.spotify.com/track/2n5OQxQArx6lFvT8hokNzl"
@@ -3617,6 +3617,36 @@
       "duration_ms": 365027,
       "name": "Yini Sdakwa",
       "url": "https://open.spotify.com/track/6RXF8afghRd2Ha6npUg8jk"
+    },
+    {
+      "album": {
+        "name": "Zula Zula (Hub Way)",
+        "url": "https://open.spotify.com/album/0ZPO0PGzqCQhTMUwdOW1my"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Villosoul",
+          "url": "https://open.spotify.com/artist/0FHhvenQRrT7rXAowL3GJX"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Acutedose",
+          "url": "https://open.spotify.com/artist/59cBgFfIKC6v5lRPaq5lGU"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454285,
+      "name": "Zula Zula (Hub Way)",
+      "url": "https://open.spotify.com/track/250LeBpQ03TW3VHZdg4YiC"
     },
     {
       "album": {

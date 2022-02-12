@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,441,253 likes - 496 songs - 21 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,441,914 likes - 496 songs - 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 31 | [Nocturnes op.3](https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE) | 2:34 |
 | 32 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscolli](https://open.spotify.com/artist/4Nx5aqahlikF5jNbcXHiED) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 |
 | 33 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 |
-| 34 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 |
+| 34 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 |
 | 35 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 |
 | 36 | [Luz](https://open.spotify.com/track/16LPouz5bGb5gh4jerSRYi) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Luz](https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd) | 2:33 |
 | 37 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 |

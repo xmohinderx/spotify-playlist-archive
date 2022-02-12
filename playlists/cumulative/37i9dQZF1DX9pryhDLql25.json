@@ -181,7 +181,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 226101,
       "name": "Bottomless Mimosas",
       "url": "https://open.spotify.com/track/1iUrILDOtKAunjb2cWjUFl"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 193244,
       "name": "Call Me In The Afternoon",
       "url": "https://open.spotify.com/track/5vVHhJr6OpVuHMt1TuHT35"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 170840,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX"
@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
+        "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126920,
+      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
+      "url": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o"
+    },
+    {
+      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -437,10 +455,28 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/52duG8ozTHVfGR87UGuqUt"
+    },
+    {
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Drinkin' and Dreamin'",
+      "url": "https://open.spotify.com/track/4HVBh3BdsdhjdYCyckd4W6"
     },
     {
       "album": {
@@ -455,7 +491,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 264038,
       "name": "Dusty Trails",
       "url": "https://open.spotify.com/track/4U9aINkQtATpGe9sDUfGx0"
@@ -473,7 +509,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 264040,
       "name": "Dusty Trails",
       "url": "https://open.spotify.com/track/6RjDBZC6xyTEbavDbFrYOE"
@@ -607,7 +643,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 246670,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6qUGqE3cmrQ2AapgzYKVp3"
@@ -661,7 +697,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 258640,
       "name": "Goodbye Earl",
       "url": "https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM"
@@ -697,7 +733,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
@@ -1079,7 +1115,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 290706,
       "name": "Love Ain't Enough",
       "url": "https://open.spotify.com/track/2cNxCW2Sas3PA4LKfDc6lY"
@@ -1115,7 +1151,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 145758,
       "name": "Million Dollar Secret",
       "url": "https://open.spotify.com/track/4p6PR5DSLxoWYiKyFuv1De"
@@ -1187,7 +1223,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS"
@@ -1587,7 +1623,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 242137,
       "name": "The Devil Is All Around",
       "url": "https://open.spotify.com/track/5zILnyMhgATe9WMFDMhTMe"
@@ -1605,10 +1641,28 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 191581,
       "name": "The Dream's In The Ditch",
       "url": "https://open.spotify.com/track/2A9Zm100yFB3CHQd6kFaB7"
+    },
+    {
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/4sDd5S7zxj1MFN0pBq7LP5"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/1y8gu7j1sGCHxgz2O2Hr0u"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del momento en Centroam\u00e9rica, con Sebasti\u00e1n Yatra en portada.",
-  "num_followers": 204873,
+  "num_followers": 204972,
   "original_name": "\u00c9xitos Centroam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzkzOTEyNCwwMDAwMDA2OTAwMDAwMTdlYzI2ODU0NTAwMDAwMDE3ZWMwNTBiMzM4",
+  "snapshot_id": "MTY0NDYwNDIwMiwwMDAwMDA2YTAwMDAwMTdlZWEwYzllMDgwMDAwMDE3ZWMwNTBiMzM4",
   "tracks": [
     {
       "added_at": "2021-10-28 22:44:50",
@@ -633,6 +633,30 @@
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
     },
     {
+      "added_at": "2022-02-11 18:30:02",
+      "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "El Barbel",
+          "url": "https://open.spotify.com/artist/25YqrmSu24cBZkz90V34ib"
+        },
+        {
+          "name": "El Tachi",
+          "url": "https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "TUS FALLOS",
+      "url": "https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF"
+    },
+    {
       "added_at": "2022-01-06 23:30:20",
       "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
@@ -747,26 +771,6 @@
     {
       "added_at": "2021-10-08 04:44:13",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2021-10-08 04:44:13",
-      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -779,6 +783,30 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2022-02-11 18:30:02",
+      "album": {
+        "name": "TOP MODEL",
+        "url": "https://open.spotify.com/album/78jgM3gvcgqdo6dJn42Fij"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "TOP MODEL",
+      "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
     },
     {
       "added_at": "2021-10-08 04:44:13",
@@ -987,26 +1015,6 @@
       "duration_ms": 189572,
       "name": "Amarrau",
       "url": "https://open.spotify.com/track/110wE8SC4g65RkoyhpNy1T"
-    },
-    {
-      "added_at": "2021-12-02 16:28:38",
-      "album": {
-        "name": "Salimo de Noche",
-        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Salimo de Noche",
-      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     }
   ],
   "unique_name": "\u00c9xitos Centroam\u00e9rica",

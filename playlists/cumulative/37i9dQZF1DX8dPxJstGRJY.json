@@ -260,6 +260,32 @@
     },
     {
       "album": {
+        "name": "Forever You and Me",
+        "url": "https://open.spotify.com/album/2si30di9Qn7r1KuNhZ6jXj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "\u96f7\u4f73",
+          "url": "https://open.spotify.com/artist/4DnnLhz0Zq7YqNa8jU71wo"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239620,
+      "name": "Forever You and Me",
+      "url": "https://open.spotify.com/track/6PilVqdlecQR7zXEA6YWpb"
+    },
+    {
+      "album": {
         "name": "10 Years - The Best Of",
         "url": "https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2"
       },
@@ -355,6 +381,24 @@
       "duration_ms": 240293,
       "name": "I Believe in You (Je crois en toi)",
       "url": "https://open.spotify.com/track/2x3IkNv39smZqUBmOo7Ors"
+    },
+    {
+      "album": {
+        "name": "I Rest My Eyes",
+        "url": "https://open.spotify.com/album/3D857PXK7oDv8GAHdRXx9h"
+      },
+      "artists": [
+        {
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289080,
+      "name": "I Rest My Eyes",
+      "url": "https://open.spotify.com/track/1Sic4S5VMmHmFi8hWJsF2x"
     },
     {
       "album": {

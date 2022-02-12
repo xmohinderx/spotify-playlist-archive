@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 272826,
       "name": "1984",
       "url": "https://open.spotify.com/track/0uWi7R2U6HVXOA1NhCAeQU"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 193049,
       "name": "bad friend",
       "url": "https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 290129,
       "name": "Bamboo",
       "url": "https://open.spotify.com/track/7aJGnriGYMhFONUgC4yDFh"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 170008,
       "name": "Bless The Telephone",
       "url": "https://open.spotify.com/track/2IYQFoDLbQuw8DVNv9ej3B"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 197559,
       "name": "Clueless In Suburbia",
       "url": "https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 179387,
       "name": "Come, Cry",
       "url": "https://open.spotify.com/track/7BLPoLN4Y2zL37WtSAnpsy"
@@ -765,6 +765,24 @@
       "duration_ms": 234754,
       "name": "dance in the mirror",
       "url": "https://open.spotify.com/track/3m2e3LEMygUgU2JbJ420Iu"
+    },
+    {
+      "album": {
+        "name": "degree",
+        "url": "https://open.spotify.com/album/31JzMN121QUIzt6nxQz93c"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192054,
+      "name": "degree",
+      "url": "https://open.spotify.com/track/497KalbUMS3DGzUwfua4wm"
     },
     {
       "album": {
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 216638,
       "name": "fitt (with Amaarae)",
       "url": "https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 205994,
       "name": "If You Ever Change Your Mind",
       "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 272573,
       "name": "Love Will Be Waiting",
       "url": "https://open.spotify.com/track/1ZQc5Dr7qom1s24yK1hFDi"
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 210375,
       "name": "Queer",
       "url": "https://open.spotify.com/track/5urhxXrAA3lyKucdA2Cm5M"
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 197243,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F"
@@ -3025,7 +3043,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 267031,
       "name": "squares",
       "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
@@ -3557,7 +3575,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 203670,
       "name": "Your Side of It",
       "url": "https://open.spotify.com/track/63M3e3sKF6Zp5u6Vmg0iv7"

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain](/playlists/plain/37i9dQZF1DXb7WmotStdsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7WmotStdsj)
 
-### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
+### [Rai Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,111 likes - 48 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,229 likes - 48 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 47 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 |
 | 48 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 |
 
-Snapshot ID: `MTY0MzYyNzkzMiwwMDAwMDA5NjAwMDAwMTdlYWZkYmU5ZjcwMDAwMDE3OWUwOTUyYzFl`
+Snapshot ID: `MTY0NDU3MjQ3OCwwMDAwMDA5NzAwMDAwMTdlZTgyODhkYjQwMDAwMDE3OWUwOTUyYzFl`

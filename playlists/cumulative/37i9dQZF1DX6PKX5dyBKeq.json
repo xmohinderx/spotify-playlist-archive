@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "6am on the Island",
+        "url": "https://open.spotify.com/album/2pLiHH0rrxCd5tOPcClRDh"
+      },
+      "artists": [
+        {
+          "name": "Youngs Teflon",
+          "url": "https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205032,
+      "name": "6am on the Island",
+      "url": "https://open.spotify.com/track/1TTGOYBfXgRrTrEJmifKoQ"
+    },
+    {
+      "album": {
         "name": "7 Days",
         "url": "https://open.spotify.com/album/0vBo605SlP4LW0yppE1edf"
       },
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 174000,
       "name": "Authentic Drill",
       "url": "https://open.spotify.com/track/6Qw7FhgDxkrMpnCWbkupCh"
@@ -11367,7 +11385,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 191897,
       "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
       "url": "https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk"
@@ -15177,6 +15195,24 @@
       "duration_ms": 196666,
       "name": "Roley (feat. Swarmz)",
       "url": "https://open.spotify.com/track/28JUattIyQ0Z2YpZLCPZyN"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Rollin Stone",
+      "url": "https://open.spotify.com/track/2o5njMc2yUKRyXezphrlnS"
     },
     {
       "album": {
@@ -19051,7 +19087,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 174545,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/32pPek0KsHsMSSFogNu49f"

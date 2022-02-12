@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 282026,
       "name": "All Mirrors",
       "url": "https://open.spotify.com/track/4ZQdynvfiayhdoq5lcuCQ1"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 196082,
       "name": "Call Your Name",
       "url": "https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ"
@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Clementine",
+        "url": "https://open.spotify.com/album/0Rn7zIvRdlXAcODx7C7IoX"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216635,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/5rpxIbX4f1q9ZpiIxGPeSl"
+    },
+    {
+      "album": {
         "name": "Clovers",
         "url": "https://open.spotify.com/album/6n3JvVTmEAUS6uM33ZwLfq"
       },
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 259213,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 204160,
       "name": "Deadbody",
       "url": "https://open.spotify.com/track/6gwoimUi2WI7MzWLQTeMGb"
@@ -664,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Doesn't Matter",
+        "url": "https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203685,
+      "name": "Doesn't Matter",
+      "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"
+    },
+    {
+      "album": {
         "name": "Don't Judge Me",
         "url": "https://open.spotify.com/album/12xYnvNkZWg4yPn2edO0cm"
       },
@@ -683,7 +719,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 213679,
       "name": "Don't Judge Me",
       "url": "https://open.spotify.com/track/2ixabSVbccs9np9r5CpbWW"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 164524,
       "name": "El Astronauta",
       "url": "https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0"
@@ -1007,7 +1043,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
@@ -1133,7 +1169,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
@@ -1259,7 +1295,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 233364,
       "name": "Internet Religion",
       "url": "https://open.spotify.com/track/4oicjE1qZcs6NpAAQ3QNhC"
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5sVf6iEfRPyyxaVyGSYHUO"
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 244946,
       "name": "Lemon Glow",
       "url": "https://open.spotify.com/track/3Fd7afY38ng56uHQJ1bbWr"
@@ -1407,7 +1443,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 177818,
       "name": "Lindos Problemas",
       "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
@@ -1443,7 +1479,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 281346,
       "name": "Los Ageless",
       "url": "https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw"
@@ -1501,7 +1537,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 229910,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/0qqAx9YnwIEZ8y9OyTjZRc"
@@ -1603,10 +1639,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 239744,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
+    },
+    {
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225862,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1"
     },
     {
       "album": {
@@ -1855,7 +1909,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/0TCRoG3C8ItxMC4VYtN1La"
@@ -1927,7 +1981,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 221533,
       "name": "On + Off",
       "url": "https://open.spotify.com/track/4JTbXALrXVYabZKZ9gr8M7"
@@ -1981,7 +2035,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 298720,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ"
@@ -2197,7 +2251,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 265920,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw"
@@ -2356,6 +2410,24 @@
     },
     {
       "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213976,
+      "name": "Street You Live On",
+      "url": "https://open.spotify.com/track/0Rg7gsv3kLviC7jW6Jemv3"
+    },
+    {
+      "album": {
         "name": "sucks 4 u",
         "url": "https://open.spotify.com/album/6EqK6gDuQDc43k2kvh83TR"
       },
@@ -2403,7 +2475,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
@@ -2555,7 +2627,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 292440,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/0TA4r8kEKQz0one72rIv7f"
@@ -2681,7 +2753,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 194173,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
@@ -2771,7 +2843,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 172881,
       "name": "\u0412\u0441\u0451 \u0438\u0441\u0447\u0435\u0437\u043b\u043e",
       "url": "https://open.spotify.com/track/4Z7CDMJJcW1wNGxfPdVZHq"

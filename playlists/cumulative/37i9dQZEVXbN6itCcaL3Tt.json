@@ -503,12 +503,12 @@
           "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
         },
         {
-          "name": "Flexxy 2115",
+          "name": "flexxy2115",
           "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
         },
         {
-          "name": "Blacha",
-          "url": "https://open.spotify.com/artist/2oKq1qKPxxSBSgkPPHjRBb"
+          "name": "BLACHA",
+          "url": "https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza"
         },
         {
           "name": "Lanek",
@@ -1417,6 +1417,28 @@
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/27gknDBOqYJmOFYyaOBAfa"
+    },
+    {
+      "album": {
+        "name": "W samo po\u0142udnie (Deluxe)",
+        "url": "https://open.spotify.com/album/68vOoh6kzluqI6XpnOqX4H"
+      },
+      "artists": [
+        {
+          "name": "Reto",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146465,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0e9dWwZD9EemG1w92C3JLp"
     },
     {
       "album": {
@@ -2557,7 +2579,7 @@
           "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
         },
         {
-          "name": "Flexxy 2115",
+          "name": "flexxy2115",
           "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
         },
         {
@@ -2565,8 +2587,8 @@
           "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
         },
         {
-          "name": "Blacha",
-          "url": "https://open.spotify.com/artist/2oKq1qKPxxSBSgkPPHjRBb"
+          "name": "BLACHA",
+          "url": "https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza"
         },
         {
           "name": "White 2115",
@@ -8349,7 +8371,7 @@
           "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
         },
         {
-          "name": "Flexxy 2115",
+          "name": "flexxy2115",
           "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
         },
         {
@@ -9959,7 +9981,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -10713,7 +10735,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 227933,
       "name": "WROOBEL DAJ TO G\u0141O\u015aNIEJ",
       "url": "https://open.spotify.com/track/1J65gRsPfVuQm9b7V8JbKF"
@@ -11203,7 +11225,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 172564,
       "name": "Zero Calorie Cookie",
       "url": "https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf"

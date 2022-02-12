@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb7WmotStdsj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7WmotStdsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7WmotStdsj)
 
-### [Raï Hits](https://open.spotify.com/playlist/67jwsyLvORnWG0UuL6dj4n)
+### [Rai Hits](https://open.spotify.com/playlist/67jwsyLvORnWG0UuL6dj4n)
 
 > The very best Rai hits\. Cover: Cheb Bello.
 

@@ -2,7 +2,7 @@
 
 ### [Cumbia 420](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
 
-> Suena en el barrio, suena acá {L\-Gante & Bizarrap}
+> Suena en el barrio, suena acá {John C}
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Nueva Era](https://open.spotify.com/track/428ETEZ9q0ZMcvXQXeziMr) | [Anthony MM](https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8), [Nahuel one23](https://open.spotify.com/artist/7szpfJlobAlM8CDVXziu05), [Lucho23](https://open.spotify.com/artist/77GkTRXzckRvljR84wWvYh) | [Nueva Era](https://open.spotify.com/album/7jxvZI2YCGpKdr1x9VdtNK) | 3:14 | 2021-12-24 |  |
 | [Pa Abajo](https://open.spotify.com/track/1OsoyX2TCicWp2xWBoXFrU) | [El Sobrino](https://open.spotify.com/artist/4ZFQYgdqBZqxUP0MAlswlJ), [Yamir antiman](https://open.spotify.com/artist/3inxgDqlKI4Feu0hPK7pU9) | [Pa Abajo](https://open.spotify.com/album/3HZZmyhilSKEdR0zzNJm2i) | 3:34 | 2021-12-24 |  |
 | [Pacto](https://open.spotify.com/track/6wYP9kb4lxaj7GL6Khf3X9) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Pacto](https://open.spotify.com/album/4gkZxIXnqQlUYYWdHMTjuZ) | 2:31 | 2022-01-28 |  |
+| [PELIKULON](https://open.spotify.com/track/6GBmsnc0nyHoirMPmgFnSZ) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [PELIKULON](https://open.spotify.com/album/3NFdz4Cl4t5cgPLQa0TdNj) | 2:43 | 2022-02-11 |  |
 | [Perrito Malvado](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Marita](https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ) | [Perrito Malvado](https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ) | 4:40 | 2021-12-24 |  |
 | [PICA](https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [PICA](https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN) | 2:44 | 2022-01-19 |  |
 | [Pinta](https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Pinta](https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha) | 2:57 | 2022-01-19 |  |

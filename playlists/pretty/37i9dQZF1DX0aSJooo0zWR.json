@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 148189,
+  "num_followers": 148250,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQ2MCwwMDAwMDA0NTAwMDAwMTdlNTZmNWRiNjYwMDAwMDE3ZDk1ZTVkN2E3",
+  "snapshot_id": "MTY0NDYwNjY5NSwwMDAwMDA0NzAwMDAwMTdlZWEzMmE3MGEwMDAwMDE3ZDk1ZTVkN2E3",
   "tracks": [
     {
       "added_at": "2021-10-29 04:02:00",
@@ -119,6 +119,22 @@
       "duration_ms": 321693,
       "name": "As the Spirit Sings",
       "url": "https://open.spotify.com/track/4qpKhfmO5O46ljDGSWR2vc"
+    },
+    {
+      "added_at": "2022-02-11 19:09:35",
+      "album": {
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+        }
+      ],
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -275,6 +291,26 @@
       "duration_ms": 292899,
       "name": "TB",
       "url": "https://open.spotify.com/track/3hPVtMhgSYWioG9Q8ikl4N"
+    },
+    {
+      "added_at": "2022-02-11 19:11:35",
+      "album": {
+        "name": "All Roads Lead To Los Angeles",
+        "url": "https://open.spotify.com/album/4ikNxWCnCYNwBg2c8BwQgn"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "All Roads Lead To Los Angeles",
+      "url": "https://open.spotify.com/track/4lAZgA07GReOs9Vf1rpcbl"
     },
     {
       "added_at": "2021-08-06 04:01:00",

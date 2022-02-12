@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 412266,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/6Jws7Ip1lI09JNDGppRHRv"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2020-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 258839,
       "name": "Grandmother's Dream",
       "url": "https://open.spotify.com/track/1q9lbtvwfAekaD6ScD7h2t"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 222996,
       "name": "Impression E Minor",
       "url": "https://open.spotify.com/track/5eIUDdG5pFjmshH9CsJgTV"
@@ -2481,7 +2481,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 335866,
       "name": "Reflections in D",
       "url": "https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju"
@@ -2641,7 +2641,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 372493,
       "name": "Ruby My Dear",
       "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
@@ -2739,7 +2739,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 284529,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
@@ -3388,6 +3388,36 @@
     },
     {
       "album": {
+        "name": "Theme for Ernie",
+        "url": "https://open.spotify.com/album/2nT1hom1JGnM6Z1RQCCPxs"
+      },
+      "artists": [
+        {
+          "name": "G\u00e1bor Bolla",
+          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
+        },
+        {
+          "name": "R\u00f3bert Lakatos",
+          "url": "https://open.spotify.com/artist/5sGpH9552Y13uJp6wi7bm1"
+        },
+        {
+          "name": "Daniel Franck",
+          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
+        },
+        {
+          "name": "Billy Drummond",
+          "url": "https://open.spotify.com/artist/1P5JD0ocEllsCSrj0fgBA1"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307370,
+      "name": "Theme for Ernie",
+      "url": "https://open.spotify.com/track/5hUMi6pb2Gy6QQAruGgedc"
+    },
+    {
+      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -3531,7 +3561,7 @@
       ],
       "date_added": "2020-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 462106,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3EeUl7XZAqrU2NoDTZjfdU"
@@ -3607,7 +3637,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 356586,
       "name": "Vashkar",
       "url": "https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29"
@@ -3737,7 +3767,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 488693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn"
@@ -3763,7 +3793,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 347146,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/5QdGSxicWhfhvJCkkVrXoh"

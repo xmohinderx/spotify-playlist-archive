@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 114000,
       "name": "2022",
       "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 239973,
       "name": "2:30",
       "url": "https://open.spotify.com/track/0Y11DN73FpoOS8EfFrt2Kw"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 175217,
       "name": "97",
       "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 241661,
       "name": "A Painting Of Peace (feat. Mariah Anae)",
       "url": "https://open.spotify.com/track/1CnBGNdzEq6lgyfLOoKyd3"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
@@ -287,6 +287,36 @@
       "duration_ms": 171093,
       "name": "All In the Wrist",
       "url": "https://open.spotify.com/track/13cM3Tbw3vs0hEwTi3JwJx"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5h8DeBSqee6IroPXGAVlgj"
+      },
+      "artists": [
+        {
+          "name": "Patrick McMillan",
+          "url": "https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC"
+        },
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        },
+        {
+          "name": "Jack Tyler",
+          "url": "https://open.spotify.com/artist/0FCsfmDhqQxvgkcnOXuua9"
+        },
+        {
+          "name": "HYLEM",
+          "url": "https://open.spotify.com/artist/4YOVgsinUGu3wwyOlD7pDh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259375,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/71Sjke4TVQxDYAkdR8jA2D"
     },
     {
       "album": {
@@ -645,7 +675,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 229982,
       "name": "Bars Hill",
       "url": "https://open.spotify.com/track/3aPzoTiciNzXuqCaqzFzLp"
@@ -663,7 +693,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 190489,
       "name": "Battling",
       "url": "https://open.spotify.com/track/6I0rujKTC8XN2KzQgxTWnP"
@@ -977,7 +1007,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 162025,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6Xrk1n7PqfRTnkKoLJGMzI"
@@ -1021,7 +1051,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 185260,
       "name": "Bluetooth",
       "url": "https://open.spotify.com/track/21muuUFqxOkUWSDxb1sLa9"
@@ -1175,7 +1205,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 132786,
       "name": "Busta Bussin",
       "url": "https://open.spotify.com/track/1nUHJkTaHZXwaMF6NNoo3f"
@@ -1227,7 +1257,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 300939,
       "name": "Calibrate (feat. Jacob G & Sam Hackett)",
       "url": "https://open.spotify.com/track/63wdAnPmHvsqoNQIlvvLdT"
@@ -1311,6 +1341,28 @@
       "duration_ms": 162416,
       "name": "Can't Tell It All",
       "url": "https://open.spotify.com/track/4bvNwqjzJbbmUDClgpCTG0"
+    },
+    {
+      "album": {
+        "name": "Catch Me If You Can (feat. Deuces)",
+        "url": "https://open.spotify.com/album/5R47KD9aQmmXumlBAK333I"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        },
+        {
+          "name": "Deuces",
+          "url": "https://open.spotify.com/artist/7nbV86re4AiI8C726Efapf"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142644,
+      "name": "Catch Me If You Can (feat. Deuces)",
+      "url": "https://open.spotify.com/track/3U8RSjBoIeaKrZflJkzPNd"
     },
     {
       "album": {
@@ -1483,7 +1535,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 132669,
       "name": "COME THROUGH",
       "url": "https://open.spotify.com/track/3t2VmTs6GNkPEGwB7wkOyh"
@@ -1579,7 +1631,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 166000,
       "name": "Copacetic",
       "url": "https://open.spotify.com/track/4Ruz004Up9H5sPPeLs7JLe"
@@ -1663,7 +1715,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 202500,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3cYEVwZXZpdFAYSFhQVnKN"
@@ -1787,7 +1839,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 197489,
       "name": "Don't Leave - Remix",
       "url": "https://open.spotify.com/track/7n8Fh5KiQB13NgCi8mYrRX"
@@ -1929,7 +1981,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Edicius.",
       "url": "https://open.spotify.com/track/6qPZ3JckEYNbskPjLgiyBg"
@@ -2015,7 +2067,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 238875,
       "name": "Even With The Stars",
       "url": "https://open.spotify.com/track/0INh3yIK22UDF6wMtn0l9o"
@@ -2161,7 +2213,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 144000,
       "name": "Feast",
       "url": "https://open.spotify.com/track/41fSkEBJPhZC0SsBqgDX2p"
@@ -2183,7 +2235,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 157640,
       "name": "Feelin\u2019 Blessed",
       "url": "https://open.spotify.com/track/2ra2e3dUMbtZj9c6H7NGqV"
@@ -2355,7 +2407,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 216659,
       "name": "for you",
       "url": "https://open.spotify.com/track/5xL6DkIAXfYkEV9aIf2yNA"
@@ -2501,7 +2553,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 195004,
       "name": "FRONT ROW",
       "url": "https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73"
@@ -2567,7 +2619,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 192003,
       "name": "Glory To God",
       "url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB"
@@ -2835,7 +2887,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 112592,
       "name": "Holy Flow",
       "url": "https://open.spotify.com/track/2AVFpcbFBquVEFZhcnnjIP"
@@ -2853,7 +2905,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 156097,
       "name": "Honest",
       "url": "https://open.spotify.com/track/03V7oDfD1ms6spgLgtrZnI"
@@ -3039,7 +3091,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 204055,
       "name": "i'll hold on (feat. Kurtis Hoppie)",
       "url": "https://open.spotify.com/track/60MEJZs3ob1RdvWG4ZHo3Z"
@@ -3335,7 +3387,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 245713,
       "name": "Keep Your Word (feat. Mariah Anae)",
       "url": "https://open.spotify.com/track/6jTl8ASbM9j4Ap0lpIIt8t"
@@ -3427,7 +3479,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 136019,
       "name": "LAY UP - Remix",
       "url": "https://open.spotify.com/track/38pbS8owf1QHYBxtyuQhZa"
@@ -3449,7 +3501,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 218400,
       "name": "Lean Widdit",
       "url": "https://open.spotify.com/track/2Z47y00M2zSXT1lbdKZaJy"
@@ -3471,7 +3523,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 280234,
       "name": "Leave This Place",
       "url": "https://open.spotify.com/track/55Ch8PlRjVmenIaEaPdxql"
@@ -3493,7 +3545,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 216888,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/3zQfJr7VTWaYXVJsPviyoj"
@@ -4475,7 +4527,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 149508,
       "name": "Nothin to Do with It",
       "url": "https://open.spotify.com/track/0Topatv6lvMQE8DKtETF3e"
@@ -4665,7 +4717,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 135000,
       "name": "Out With a Bang",
       "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
@@ -4727,7 +4779,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 189130,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/1kBvcW28lal4JwmPD6aMQv"
@@ -4863,7 +4915,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 172872,
       "name": "Patek",
       "url": "https://open.spotify.com/track/6cxg5uaRx7AAZQWTcDOH28"
@@ -4907,7 +4959,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 223636,
       "name": "Personal",
       "url": "https://open.spotify.com/track/7wzjV1g96YNN44Nfi6RFnl"
@@ -5033,7 +5085,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 196266,
       "name": "Price (feat. Eshon Burgundy)",
       "url": "https://open.spotify.com/track/3yeXapHL4Seqxx02IEocw8"
@@ -5449,7 +5501,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 169656,
       "name": "Rooftop Freestyle",
       "url": "https://open.spotify.com/track/51BxmYU98SZRH4v7G4aZDn"
@@ -5485,7 +5537,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 102347,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/6psPHYuC6pYJY3lNrO09lS"
@@ -5661,10 +5713,36 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 157780,
       "name": "Single & I Love It",
       "url": "https://open.spotify.com/track/68MMQ3Gbf1n8uQqqNaNbuZ"
+    },
+    {
+      "album": {
+        "name": "Siyahamba",
+        "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
+      },
+      "artists": [
+        {
+          "name": "Tay Collier",
+          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
+        },
+        {
+          "name": "Sy-1",
+          "url": "https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP"
+        },
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Siyahamba",
+      "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
     },
     {
       "album": {
@@ -5727,7 +5805,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 148235,
       "name": "Soul Trap",
       "url": "https://open.spotify.com/track/3oUj6nEXcl777P126zeAeP"
@@ -5745,7 +5823,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Spare A Dollar",
       "url": "https://open.spotify.com/track/0B8ktOpKDPtiqA9TGVHuLj"
@@ -6151,7 +6229,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 209293,
       "name": "The Art of Flying",
       "url": "https://open.spotify.com/track/1i9Mq7XyeY4xE00ADR1UO9"
@@ -6459,7 +6537,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Trade It All",
       "url": "https://open.spotify.com/track/7ss4s3jFOUjMUqNZXaUkWn"
@@ -6711,7 +6789,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 177230,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt"
@@ -6953,7 +7031,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 161032,
       "name": "Weak",
       "url": "https://open.spotify.com/track/6I8QRmOo5zmfxXUDVKMAMt"
@@ -7011,7 +7089,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 227004,
       "name": "Why Should I (feat. Quinten Coblentz)",
       "url": "https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u"
@@ -7219,7 +7297,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 187400,
       "name": "XSTNL Frequencies - Live",
       "url": "https://open.spotify.com/track/6GM50AmqhiDV74Ktix5JIx"
@@ -7241,7 +7319,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 284466,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/7zTN5XcEXUHOI3m3jk0iZF"
@@ -7281,7 +7359,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 176039,
       "name": "YKTV",
       "url": "https://open.spotify.com/track/4BQjvcFbLv6tgQp1V42hCr"
@@ -7387,7 +7465,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 194064,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7kVIqu3ZbvK5iwLtludPFP"
@@ -7405,7 +7483,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/4SFF3yfErafpFtVVfjkXTk"

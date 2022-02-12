@@ -1,12 +1,12 @@
 {
   "description": "shake it up and let it pop! cover: Hippo Campus",
-  "num_followers": 187818,
+  "num_followers": 187956,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDgwMCwwMDAwMDA5MjAwMDAwMTdlYzMxYTdkNDMwMDAwMDE3ZWI1ZThjZjk0",
+  "snapshot_id": "MTY0NDU1NTY2MCwwMDAwMDA5MzAwMDAwMTdlZTcyN2ViN2MwMDAwMDE3ZWI1ZThjZjk0",
   "tracks": [
     {
       "added_at": "2022-01-14 20:45:04",
@@ -41,6 +41,102 @@
       "url": "https://open.spotify.com/track/7eQ6R9XSNfbLSExXggYbmY"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Silver Crane (Deluxe)",
+        "url": "https://open.spotify.com/album/5JOOOZyK4GYTkxWgZbn0o9"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 206956,
+      "name": "Live For You, Die With You",
+      "url": "https://open.spotify.com/track/6AK6tQ5MZUbA7MI8tcq606"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Straightjacket",
+      "url": "https://open.spotify.com/track/51LIqkda3pTeECZUhMnool"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Cleanse",
+        "url": "https://open.spotify.com/album/0WHBKdvUJFdklfNhZYHKkV"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "We Are All We Need",
+      "url": "https://open.spotify.com/track/6GITd9tdOOiBvT9sfqNHTu"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "it's a little complicated, but i'm okay.",
+        "url": "https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "duration_ms": 197035,
+      "name": "no excuses",
+      "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Give Me Your Shoulders, Pt. 1",
+        "url": "https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Figure You Out (Remix)",
+        "url": "https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Figure You Out (Remix)",
+      "url": "https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP"
+    },
+    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "Record Player (with AJR)",
@@ -59,6 +155,74 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm"
+      },
+      "artists": [
+        {
+          "name": "Leland Blue",
+          "url": "https://open.spotify.com/artist/4TgfkZEpcjkYgRBKeqy1Mh"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "After the Tone",
+        "url": "https://open.spotify.com/album/7MfUuta1xlJMFfNZh3TAPT"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 142636,
+      "name": "After the Tone",
+      "url": "https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Psycho (When I Wake Up)",
+        "url": "https://open.spotify.com/album/0Dy3T55bzxYvsND1rpYuLa"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Psycho (When I Wake Up)",
+      "url": "https://open.spotify.com/track/2WW9X7mc7lE8DbE4WbTNwI"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "body goes",
+        "url": "https://open.spotify.com/album/3BfU5W65mj2eQAR2JjHrVU"
+      },
+      "artists": [
+        {
+          "name": "Yam Haus",
+          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
+        }
+      ],
+      "duration_ms": 140277,
+      "name": "body goes",
+      "url": "https://open.spotify.com/track/5UiYm9CRlk2h4IHX1112nF"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -127,42 +291,6 @@
       "duration_ms": 202199,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "After the Tone",
-        "url": "https://open.spotify.com/album/7MfUuta1xlJMFfNZh3TAPT"
-      },
-      "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 142636,
-      "name": "After the Tone",
-      "url": "https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "it's a little complicated, but i'm okay.",
-        "url": "https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q"
-      },
-      "artists": [
-        {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
-        }
-      ],
-      "duration_ms": 197035,
-      "name": "no excuses",
-      "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -239,22 +367,6 @@
       "duration_ms": 196400,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "The Story of Us",
-        "url": "https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Straightjacket",
-      "url": "https://open.spotify.com/track/51LIqkda3pTeECZUhMnool"
     },
     {
       "added_at": "2022-01-28 05:00:00",

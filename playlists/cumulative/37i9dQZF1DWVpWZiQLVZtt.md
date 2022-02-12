@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVpWZiQLVZtt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVpWZiQLVZtt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVpWZiQLVZtt)
 
-### Clásicos del Pop Latino
+### [Clásicos del Pop Latino](https://open.spotify.com/playlist/4TPOg4z7ow0pMjivOY7ryi)
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 

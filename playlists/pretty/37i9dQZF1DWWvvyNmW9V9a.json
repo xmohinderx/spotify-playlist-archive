@@ -1,12 +1,12 @@
 {
-  "description": "the songs you need rn - cover: Melanie Martinez",
-  "num_followers": 1114106,
+  "description": "the songs you need rn - cover: Jung Kook",
+  "num_followers": 1126914,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDMzODY2MCwwMDAwMDEzNzAwMDAwMTdlZGEzOGM0YWYwMDAwMDE3ZTk4YmE3NDFj",
+  "snapshot_id": "MTY0NDU1NTcyMCwwMDAwMDEzODAwMDAwMTdlZTcyOGQ1OWQwMDAwMDE3ZWQ5YzdmMjVk",
   "tracks": [
     {
       "added_at": "2022-01-14 16:03:17",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
       "added_at": "2022-01-14 16:03:17",
       "album": {
         "name": "Dandelions (slowed + reverb)",
@@ -61,38 +77,6 @@
       "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Fat Funny Friend",
-        "url": "https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 199764,
-      "name": "Fat Funny Friend",
-      "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "killer queen",
@@ -109,20 +93,52 @@
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
     },
     {
-      "added_at": "2022-02-01 05:18:53",
+      "added_at": "2021-09-24 04:06:50",
       "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+        "name": "this is what falling in love feels like",
+        "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 157497,
-      "name": "Mount Everest",
-      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -139,22 +155,6 @@
       "duration_ms": 215280,
       "name": "Jenny (I Wanna Ruin Our Friendship)",
       "url": "https://open.spotify.com/track/7lgA34nFXxjqQgyLkPUcLv"
-    },
-    {
-      "added_at": "2021-09-24 04:06:50",
-      "album": {
-        "name": "this is what falling in love feels like",
-        "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 120308,
-      "name": "this is what falling in love feels like",
-      "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -177,6 +177,38 @@
       "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
     },
     {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Fat Funny Friend",
+        "url": "https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 199764,
+      "name": "Fat Funny Friend",
+      "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
+    },
+    {
+      "added_at": "2022-02-01 05:18:53",
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 157497,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
+    },
+    {
       "added_at": "2022-01-28 18:20:54",
       "album": {
         "name": "Numb Little Bug",
@@ -191,6 +223,22 @@
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Hate Me If It Helps",
+        "url": "https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 194540,
+      "name": "Hate Me If It Helps",
+      "url": "https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216"
     },
     {
       "added_at": "2021-11-10 20:59:05",
@@ -209,20 +257,20 @@
       "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
     },
     {
-      "added_at": "2022-01-06 03:36:29",
+      "added_at": "2022-02-11 05:02:00",
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "see you later",
+        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
       },
       "artists": [
         {
-          "name": "Jessica Darrow",
-          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Surface Pressure",
-      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+      "duration_ms": 207740,
+      "name": "2%",
+      "url": "https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg"
     },
     {
       "added_at": "2022-02-02 18:20:24",
@@ -239,22 +287,6 @@
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
-    },
-    {
-      "added_at": "2022-02-04 05:38:51",
-      "album": {
-        "name": "Futureproof",
-        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
     },
     {
       "added_at": "2022-02-08 16:44:20",
@@ -305,6 +337,22 @@
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
     },
     {
+      "added_at": "2022-01-06 03:36:29",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "emo girl (feat. WILLOW)",
@@ -341,6 +389,22 @@
       "url": "https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "i h8 that i still feel bad for u",
+        "url": "https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 175029,
+      "name": "i h8 that i still feel bad for u",
+      "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
+    },
+    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Toxic Pony",
@@ -365,36 +429,92 @@
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
-      "added_at": "2021-10-15 04:00:00",
+      "added_at": "2022-02-04 05:38:51",
       "album": {
-        "name": "see you later (ten years)",
-        "url": "https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x"
+        "name": "Futureproof",
+        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
+    },
+    {
+      "added_at": "2021-12-21 22:19:04",
+      "album": {
+        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Garfield",
+          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
+        },
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        },
+        {
+          "name": "Robin de Jesus",
+          "url": "https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32"
+        },
+        {
+          "name": "Alexandra Shipp",
+          "url": "https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF"
+        },
+        {
+          "name": "MJ Rodriguez",
+          "url": "https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig"
+        }
+      ],
+      "duration_ms": 262505,
+      "name": "30/90 (from \"tick, tick... BOOM!\" Soundtrack from the Netflix Film)",
+      "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "see you later",
+        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
       },
       "artists": [
         {
           "name": "Jenna Raine",
           "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 188160,
-      "name": "see you later (ten years)",
-      "url": "https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE"
+      "duration_ms": 189514,
+      "name": "see you later (ten years) [feat. JVKE]",
+      "url": "https://open.spotify.com/track/2o3ccWnRPr7xiwDTMgXJMu"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
+      "added_at": "2022-02-07 15:17:09",
       "album": {
-        "name": "Jigsaw",
-        "url": "https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ"
+        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An Original HBO Series)",
+        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 208969,
-      "name": "Jigsaw",
-      "url": "https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D"
+      "duration_ms": 131720,
+      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An Original HBO Series",
+      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
     },
     {
       "added_at": "2022-01-25 19:26:42",
@@ -481,6 +601,22 @@
       "url": "https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "do all my friends hate me?",
+        "url": "https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "do all my friends hate me?",
+      "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
+    },
+    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Lover",
@@ -549,22 +685,6 @@
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
     },
     {
-      "added_at": "2022-02-07 15:17:09",
-      "album": {
-        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An Original HBO Series)",
-        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 131720,
-      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An Original HBO Series",
-      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Cigarettes After Sex",
@@ -611,6 +731,22 @@
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Jigsaw",
+        "url": "https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 208969,
+      "name": "Jigsaw",
+      "url": "https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D"
     },
     {
       "added_at": "2022-01-11 22:15:23",
@@ -735,42 +871,6 @@
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
-    },
-    {
-      "added_at": "2021-12-21 22:19:04",
-      "album": {
-        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Garfield",
-          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
-        },
-        {
-          "name": "Joshua Henry",
-          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
-        },
-        {
-          "name": "Vanessa Hudgens",
-          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
-        },
-        {
-          "name": "Robin de Jesus",
-          "url": "https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32"
-        },
-        {
-          "name": "Alexandra Shipp",
-          "url": "https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF"
-        },
-        {
-          "name": "MJ Rodriguez",
-          "url": "https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig"
-        }
-      ],
-      "duration_ms": 262505,
-      "name": "30/90 (from \"tick, tick... BOOM!\" Soundtrack from the Netflix Film)",
-      "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1073,38 +1173,6 @@
       "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
     },
     {
-      "added_at": "2022-01-28 05:00:18",
-      "album": {
-        "name": "2021 Winter SMTOWN : SMCU EXPRESS",
-        "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        },
-        {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
-        },
-        {
-          "name": "HENDERY",
-          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
-        },
-        {
-          "name": "YANGYANG",
-          "url": "https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L"
-        },
-        {
-          "name": "GISELLE",
-          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "ZOO",
-      "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
-    },
-    {
       "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
@@ -1193,22 +1261,6 @@
       "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
     },
     {
-      "added_at": "2021-12-10 05:10:43",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
       "added_at": "2021-12-01 00:08:33",
       "album": {
         "name": "God Must Hate Me",
@@ -1223,22 +1275,6 @@
       "duration_ms": 149802,
       "name": "God Must Hate Me",
       "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
-    },
-    {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "GO TO HELL",
-        "url": "https://open.spotify.com/album/32boQRfLOkEfXznZtudRrS"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "GO TO HELL",
-      "url": "https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz"
     },
     {
       "added_at": "2022-01-28 05:00:18",
@@ -1389,22 +1425,6 @@
       "url": "https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV"
     },
     {
-      "added_at": "2022-01-14 16:03:17",
-      "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/5WsYjwaDitv4Yqsr8fqhGj"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        }
-      ],
-      "duration_ms": 212101,
-      "name": "LOUD",
-      "url": "https://open.spotify.com/track/1DiDwTApBRcmxV1Cw2JBc0"
-    },
-    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "The Perfect Girl",
@@ -1507,22 +1527,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "It's Been So Long",
-        "url": "https://open.spotify.com/album/14kh9qb1ZnqAFnshjFS4vO"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 174394,
-      "name": "It's Been So Long",
-      "url": "https://open.spotify.com/track/463r5bsN1VqGXtaMctn4Rr"
     },
     {
       "added_at": "2022-01-14 16:03:17",

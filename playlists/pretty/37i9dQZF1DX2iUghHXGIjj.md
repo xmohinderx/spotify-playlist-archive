@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,493 likes - 98 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,528 likes - 98 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 97 | [Seven Hours Of Light](https://open.spotify.com/track/1dsdV2Rjbc69aQKCWvUAjH) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/0ApfREM6XMT4MQpgme6ynU) | 3:35 |
 | 98 | [Outside In](https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Train Home](https://open.spotify.com/album/6SEWmobZYy2j8oHGWC70na) | 4:11 |
 
-Snapshot ID: `MTY0MjEzNjQ2MCwwMDAwMDA0ZDAwMDAwMTdlNTZmNWRiNTcwMDAwMDE3ZDk1ZDVhYTJm`
+Snapshot ID: `MTY0NDU1NTcyMCwwMDAwMDA0ZTAwMDAwMTdlZTcyOGQ1YTUwMDAwMDE3ZDk1ZDVhYTJm`

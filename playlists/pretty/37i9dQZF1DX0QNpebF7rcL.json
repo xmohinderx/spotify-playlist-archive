@@ -1,13 +1,29 @@
 {
-  "description": "The best in blues right now. Cover: Eric Gales",
-  "num_followers": 34970,
+  "description": "The best in blues right now. Cover: Fantastic Negrito",
+  "num_followers": 34991,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAzYzAwMDAwMTdlYzMxYzUxYTUwMDAwMDE3ZTlkOTlkZDAz",
+  "snapshot_id": "MTY0NDU1NTcyMCwwMDAwMDAzZDAwMDAwMTdlZTcyOGQ1YTkwMDAwMDE3ZWQ5ZWQwNzZm",
   "tracks": [
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Highest Bidder",
+        "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Highest Bidder",
+      "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
+    },
     {
       "added_at": "2021-12-10 05:01:00",
       "album": {

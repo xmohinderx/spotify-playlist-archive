@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of classic and new piano rock and pop.",
-  "num_followers": 142744,
+  "num_followers": 142773,
   "original_name": "The Piano Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU0MDE3NiwwMDAwMDAwMDZkYjZmMzhmOGJkMWJiOTgyZDY5MTY2NzM4YjRjNjM4",
+  "snapshot_id": "MTY0NDYyNjU5MywwMDAwMDAwMGRiZjEwNWFjNTVhODFlMjU1NzNkYThjYjM2MzdiMTcx",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Come Away With Me",
-        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Tapestry (Legacy Edition)",
         "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
       },
@@ -87,6 +71,38 @@
       "duration_ms": 308973,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/4Dykq1tU6xnLnlaniVH4hv"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Thunder Road",
+      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -123,82 +139,18 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 288720,
-      "name": "Thunder Road",
-      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Retrospective 1990-2005 [Ltd. Deluxe Version]",
-        "url": "https://open.spotify.com/album/7HmJbm1e1f0BkwyjBwGiGJ"
-      },
-      "artists": [
-        {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
-        }
-      ],
-      "duration_ms": 167146,
-      "name": "One Fine Day - Remastered",
-      "url": "https://open.spotify.com/track/2CA4geWmbThuxj1BDaeBfy"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 336093,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Rocket Man (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Candle In The Wind",
-      "url": "https://open.spotify.com/track/04FU70tKvDYpJ8MZLh8MU2"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 293120,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+      "duration_ms": 198146,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -219,6 +171,54 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
+        "name": "Retrospective 1990-2005 [Ltd. Deluxe Version]",
+        "url": "https://open.spotify.com/album/7HmJbm1e1f0BkwyjBwGiGJ"
+      },
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+        }
+      ],
+      "duration_ms": 167146,
+      "name": "One Fine Day - Remastered",
+      "url": "https://open.spotify.com/track/2CA4geWmbThuxj1BDaeBfy"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Rocket Man (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Candle In The Wind",
+      "url": "https://open.spotify.com/track/04FU70tKvDYpJ8MZLh8MU2"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
         "name": "The Best Bette",
         "url": "https://open.spotify.com/album/2aBNewGpx5XIAdSFKvEKGw"
       },
@@ -231,38 +231,6 @@
       "duration_ms": 215026,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/7iLXXTLIaguiWCTRJNU1Tv"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Little Earthquakes",
-        "url": "https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 251226,
-      "name": "Silent All These Years",
-      "url": "https://open.spotify.com/track/3IZXUxoL1Q7yUj5mh3Tmqp"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Marc Cohn",
-        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
-      },
-      "artists": [
-        {
-          "name": "Marc Cohn",
-          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Walking in Memphis",
-      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -283,38 +251,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "The Luckiest",
-      "url": "https://open.spotify.com/track/2HlRYsFHmIwdBK2nUHVrzK"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Adia",
-      "url": "https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Where the Night Goes",
         "url": "https://open.spotify.com/album/1wXi0HujQLB92MmBYJmUIG"
       },
@@ -331,50 +267,18 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 256746,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/46AKrc7rPuEXL9QYr9eqFR"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "On Your Shore",
-        "url": "https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Martin",
-          "url": "https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Little Earthquakes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 341813,
-      "name": "Winter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
+      "duration_ms": 336093,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -395,18 +299,146 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+        "name": "Little Earthquakes",
+        "url": "https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+      "duration_ms": 251226,
+      "name": "Silent All These Years",
+      "url": "https://open.spotify.com/track/3IZXUxoL1Q7yUj5mh3Tmqp"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 256746,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/46AKrc7rPuEXL9QYr9eqFR"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Marc Cohn",
+        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
+      },
+      "artists": [
+        {
+          "name": "Marc Cohn",
+          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Walking in Memphis",
+      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Adia",
+      "url": "https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "The Luckiest",
+      "url": "https://open.spotify.com/track/2HlRYsFHmIwdBK2nUHVrzK"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "On Your Shore",
+        "url": "https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Martin",
+          "url": "https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Vibrate: The Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Little Earthquakes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 341813,
+      "name": "Winter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -443,42 +475,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Hunky Dory",
-        "url": "https://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
-          "name": "Ken Scott",
-          "url": "https://open.spotify.com/artist/6itMJ1OJ3xL3LsxWb7xm28"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Life On Mars? - 1999 Remastered Version",
-      "url": "https://open.spotify.com/track/1C9NuEa1wOF15EOBuWaaxS"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Vibrate: The Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS"
-      },
-      "artists": [
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2u6fRGcaBhpI4uNBHpGv0b"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -511,38 +507,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Happenstance (Deluxe Version)",
-        "url": "https://open.spotify.com/album/66p6CIMdxQFO3Igg9xo14a"
-      },
-      "artists": [
-        {
-          "name": "Rachael Yamagata",
-          "url": "https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/234AYE6GUkpgfruH5S4z3E"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X"
       },
@@ -555,38 +519,6 @@
       "duration_ms": 318653,
       "name": "Blue Sky Blues",
       "url": "https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Mott (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s"
-      },
-      "artists": [
-        {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
-        }
-      ],
-      "duration_ms": 302560,
-      "name": "All the Way from Memphis",
-      "url": "https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -607,6 +539,82 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
+        "name": "Hunky Dory",
+        "url": "https://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Ken Scott",
+          "url": "https://open.spotify.com/artist/6itMJ1OJ3xL3LsxWb7xm28"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Life On Mars? - 1999 Remastered Version",
+      "url": "https://open.spotify.com/track/1C9NuEa1wOF15EOBuWaaxS"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "For Free",
+      "url": "https://open.spotify.com/track/2lhfd0CF0dFlwRVH8NG8vv"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN"
       },
@@ -623,34 +631,34 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Tidal",
-        "url": "https://open.spotify.com/album/0FjSKIL4J4eJM7GnkJNtWL"
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 341533,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/516f6F9Zd3AbWJnFHwtDF9"
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH"
     },
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+        "name": "Mott (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+      "duration_ms": 302560,
+      "name": "All the Way from Memphis",
+      "url": "https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT"
     }
   ],
   "unique_name": "The Piano Lounge",

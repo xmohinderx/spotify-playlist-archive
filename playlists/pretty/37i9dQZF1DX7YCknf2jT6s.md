@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: GoGo Penguin
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,118 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,283 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ascent](https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Ascent](https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0) | 4:40 |
-| 2 | [Something's Going On](https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML) | [KOKOROKO](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Something's Going On](https://open.spotify.com/album/6KYX5imbTj5YxXqhwa9WSl) | 5:12 |
+| 2 | [Something's Going On](https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Something's Going On](https://open.spotify.com/album/6KYX5imbTj5YxXqhwa9WSl) | 5:12 |
 | 3 | [Two Chords & the Truth \- Soho Radio Vinyl Sessions](https://open.spotify.com/track/5zNvrpPnAq6vtBs1cr9APR) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd) | [Two Chords & the Truth \(Soho Radio Vinyl Sessions\)](https://open.spotify.com/album/3a9eoXTcYbI6A1uI9lDlNX) | 8:31 |
 | 4 | [Unrest II](https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Unrest](https://open.spotify.com/album/6QaENtltIJqJg14EvwvtfO) | 4:08 |
 | 5 | [Reste un oiseau](https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [Reste un oiseau](https://open.spotify.com/album/6803wHGAlnx5ABcWhjgmJy) | 3:15 |

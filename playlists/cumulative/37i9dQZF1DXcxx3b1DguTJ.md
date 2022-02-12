@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcxx3b1DguTJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcxx3b1DguTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcxx3b1DguTJ)
 
-### Pa Planchar
+### [Pa Planchar](https://open.spotify.com/playlist/5BZpjfAsenVsYue4wUAkkk)
 
 > Grandes clásicos del pop en español\. ¡Todo limpio y ordenado!
 

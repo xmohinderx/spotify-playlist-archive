@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 199322,
       "name": "Ahorita",
       "url": "https://open.spotify.com/track/1OzdGvZ6iSzTHVu9QF7dpT"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 290386,
       "name": "Amor Narcotico",
       "url": "https://open.spotify.com/track/1UqyF5I7vz3gfk0Zc4L4HU"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 191960,
       "name": "Amor Sensible",
       "url": "https://open.spotify.com/track/4ERDIJmue9ZZY4nOdNZ7KR"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 291000,
       "name": "Azul (with Rodrigo Amarante)",
       "url": "https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 202173,
       "name": "Caf\u00e9 Con Chocolate",
       "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 274653,
       "name": "Colores",
       "url": "https://open.spotify.com/track/2COmtOUw9l3ZKgQnK9Zx1b"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 187013,
       "name": "Coraz\u00f3n Amargo",
       "url": "https://open.spotify.com/track/2JazgzpNBZj0d7bANPnX6W"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 226200,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 127543,
       "name": "Diablo De Un Segundo",
       "url": "https://open.spotify.com/track/0f2AQr7tUre0BIGxx6RxX7"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 160106,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
@@ -1267,10 +1267,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 160213,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
+    },
+    {
+      "album": {
+        "name": "Evaluna",
+        "url": "https://open.spotify.com/album/5gC3NrSJCCB2MDmEVoHivD"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "Evaluna",
+      "url": "https://open.spotify.com/track/0RlmVqnKUjxxDx8cZ3VQm8"
     },
     {
       "album": {
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Fin de Semana - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 226107,
       "name": "Gameboi",
       "url": "https://open.spotify.com/track/6T1N9aCrsS2l3JjxsuQVLt"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 230026,
       "name": "Ganando el Tiempo (with Jorge Drexler)",
       "url": "https://open.spotify.com/track/6vcggsPzVC9qWikamING0g"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 217761,
       "name": "No Me Gustan los Grises",
       "url": "https://open.spotify.com/track/7nwDOqPRUqHqlIwXpgRIIx"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 234425,
       "name": "No S\u00e9 Decirte No",
       "url": "https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 182053,
       "name": "Para Verte",
       "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "Pell\u00edzquenme",
       "url": "https://open.spotify.com/track/0VYWDJokuyS8K354XdaBuq"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 140975,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4UgxaVgMFnoZfAkoDqLwjE"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 201480,
       "name": "Ri\u00e9ndose de M\u00ed",
       "url": "https://open.spotify.com/track/0ZnmpuDFDqokEM0gget638"
@@ -3385,7 +3403,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 192267,
       "name": "Te Quiero y Nada M\u00e1s",
       "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
@@ -3403,7 +3421,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 220927,
       "name": "Te Tengo Que Meter En Mi Vida - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1uVCCp3y3kdwmM41r3fsw7"
@@ -3617,7 +3635,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 157522,
       "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
       "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
@@ -3657,7 +3675,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 198917,
       "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
@@ -3751,7 +3769,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 175445,
       "name": "Vernos Crecer",
       "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
@@ -3769,7 +3787,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 190006,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
@@ -3787,7 +3805,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 206751,
       "name": "V\u00e9rtigo",
       "url": "https://open.spotify.com/track/1VgQ6AZ8tVV0uhvhH9usuj"

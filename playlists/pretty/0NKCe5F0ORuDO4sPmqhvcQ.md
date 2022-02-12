@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,488 likes - 40 songs - 2 hr 18 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,488 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,11 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 38 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 |
 | 39 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:59 |
 | 40 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
+| 41 | [Lucky Ones \- Wilde Things Remix](https://open.spotify.com/track/2xlR5f4A5RGabqodlkaGVI) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle), [WILDE THINGS](https://open.spotify.com/artist/2Tdyg0TzUTuZrJJ4Gs7eeQ) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:08 |
+| 42 | [To Be Alone \- informal\. Remix](https://open.spotify.com/track/4B5tICQBF6KUXlEq7cH9li) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 4:23 |
+| 43 | [Distant Lands](https://open.spotify.com/track/0YeaRKy0gwdUI1d68RvefB) | [Leena](https://open.spotify.com/artist/2mEHiTKHiOWzrLPReJDoAD), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Labyrinth of the Subconscious](https://open.spotify.com/album/0Hj5xbQWBeWOMwoOqsqk4F) | 3:33 |
+| 44 | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63) | 2:59 |
+| 45 | [Breath of Fresh Air](https://open.spotify.com/track/0ikr85ckI4rmk5iEnLjweB) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Breath of Fresh Air](https://open.spotify.com/album/17CEhenABEIxCElZiKiTYp) | 3:31 |
+| 46 | [Move Up](https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Move Up](https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK) | 2:59 |
 
-Snapshot ID: `OTQzNSxmMDZhN2QxNzQwNTdmNDhhNzgwMDdjYjZjOWRkYjE3YTFlZmM5NzI1`
+Snapshot ID: `OTQ0MSxjYzgxNzU1Mjg2NGNkZDBkMDkxNjY2MWMwZDU3OWIyZTViOWI3NjFh`

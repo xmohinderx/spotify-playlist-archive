@@ -1,162 +1,514 @@
 {
-  "description": "For all the beautiful queens! Guest curated by Halle Berry.",
-  "num_followers": 207669,
+  "description": "For all the beautiful queens! Guest curated by Mary J. Blige",
+  "num_followers": 208399,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzczMDAwMCwwMDAwMDAxODAwMDAwMTdkNTA1MDljZGEwMDAwMDE3ZDRlYjdjMjc4",
+  "snapshot_id": "MTY0NDU1NTY2MCwwMDAwMDAxOTAwMDAwMTdlZTcyN2ViNTcwMDAwMDE3ZWU1M2VlYzdh",
   "tracks": [
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Automatic Woman (from the \"Bruised\" Soundtrack)",
-        "url": "https://open.spotify.com/album/1FboinsGK9BvoEcYvUynfv"
+        "name": "Good Morning Gorgeous",
+        "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 174728,
+      "name": "Good Morning Gorgeous",
+      "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
       },
       "artists": [
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 223414,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 288531,
+      "name": "Whipped Cream",
+      "url": "https://open.spotify.com/track/56IszkEOG5lFShWevvEH3R"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "On One",
+        "url": "https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
         },
         {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 238003,
-      "name": "Automatic Woman - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/76he7a2rF6Ot9eiA61GZFW"
+      "duration_ms": 205808,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6"
     },
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Bad Bitch Holiday",
-        "url": "https://open.spotify.com/album/3QzehyYYw02gXaA5OtglfK"
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
       "artists": [
         {
-          "name": "David Sabastian",
-          "url": "https://open.spotify.com/artist/3hb8905DjGbSMnBfrh09rL"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 142997,
-      "name": "Bad Bitch Holiday",
-      "url": "https://open.spotify.com/track/0u0YUYgsHrlyLEbSyyrw89"
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
-        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 160130,
-      "name": "Bet It - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9"
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Attitude (from the \"Bruised\" Soundtrack)",
-        "url": "https://open.spotify.com/album/7AQasdBcwHRxcKZLyd7FMR"
+        "name": "Rent Money (feat. Dave East)",
+        "url": "https://open.spotify.com/album/2e6qv6myguUFVoLfsjHZ1w"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         },
         {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
         }
       ],
-      "duration_ms": 116085,
-      "name": "Attitude - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/0ZlPqSmpq7lUJ77RbVyCpZ"
+      "duration_ms": 229884,
+      "name": "Rent Money (feat. Dave East)",
+      "url": "https://open.spotify.com/track/2lFIxJbGfhcAIz5tzacZdK"
     },
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Cool Grey \"Gemini Love\"",
-        "url": "https://open.spotify.com/album/6aapxmG4W5XbeL8eGb5JcV"
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
       "artists": [
         {
-          "name": "DLisia",
-          "url": "https://open.spotify.com/artist/5ZSR3KBI0N6IQN7pcCzxU8"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "Cool Grey \"Gemini Love\"",
-      "url": "https://open.spotify.com/track/6pw5DPxhtYzvuCusjhfPwC"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Dungarees (from the \"Bruised\" Soundtrack)",
-        "url": "https://open.spotify.com/album/7qUDXCcRJh6MBiBil8TUWg"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         },
         {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Dungarees - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/4lneCPW4VDt2ySqcDJMi9I"
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "RETRO 10'S",
-        "url": "https://open.spotify.com/album/57Nmh5X0uInF9ZasO5LEbE"
+        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
+        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
       },
       "artists": [
         {
-          "name": "THEARTISTJADE",
-          "url": "https://open.spotify.com/artist/57RNgEPI3W3Xamvg8kYrJ9"
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 165813,
-      "name": "RETRO 10'S",
-      "url": "https://open.spotify.com/track/10JOURyDQf9Ui3gNAHDm09"
+      "duration_ms": 205453,
+      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
     },
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/0d9OEvT4UQYqmTWDGkQUyz"
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
       "artists": [
         {
-          "name": "Akbar V",
-          "url": "https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 195047,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/1YPlzmEG2yjwEu1AmOAEYR"
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
-      "added_at": "2021-11-24 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/06KGWP0CRqWNQ4i7RkcFXN"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/0gpYL1he4OGJxv42tT747l"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Amazing (feat. DJ Khaled)",
+        "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 160017,
+      "name": "Amazing (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "Forget Me Nots - Remastered",
+      "url": "https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Whoa",
+      "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
+        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 356760,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6kJCdvd2zzATIxudQzAq2l"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Do Right Woman, Do Right Man",
+      "url": "https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 326533,
+      "name": "Ex-Factor",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Supa Dupa Fly",
+        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Rain (Supa Dupa Fly)",
+      "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155497,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
         {
@@ -164,385 +516,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 173325,
+      "duration_ms": 173306,
       "name": "Truth Hurts",
-      "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Trina",
-          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
-        }
-      ],
-      "duration_ms": 224119,
-      "name": "B*tch From Da Souf (Remix) (feat. Trina)",
-      "url": "https://open.spotify.com/track/39GH3B0XsTd4SsqT7DJijs"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Herstory",
-        "url": "https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl"
-      },
-      "artists": [
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
-        }
-      ],
-      "duration_ms": 234649,
-      "name": "OOOUUU",
-      "url": "https://open.spotify.com/track/7JYsArznYOjX2jsrT3UEnL"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Chacin (from the \"Bruised\" Soundtrack)",
-        "url": "https://open.spotify.com/album/50nTbW8ZkZXYAFgA69riGy"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        },
-        {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
-        }
-      ],
-      "duration_ms": 115410,
-      "name": "Chacin - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/0kAQvfAhAPXCJaJlpkP4rh"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Tap In",
-        "url": "https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Tap In",
-      "url": "https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "She Bad",
-        "url": "https://open.spotify.com/album/2XEqj3vkavc4fyVIdPJeqM"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "She Bad",
-      "url": "https://open.spotify.com/track/23dK8Cue1FvIDX4yRtXkNO"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Check On It (Remix 5 Pak) (feat. Bun B & Slim Thug)",
-        "url": "https://open.spotify.com/album/7rzuaWl7eker4dHdJsBfGr"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        },
-        {
-          "name": "Slim Thug",
-          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Check On It (feat. Bun B & Slim Thug)",
-      "url": "https://open.spotify.com/track/56mAv6TVHL4QXcD4B4Ezvg"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Twerkulator",
-        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 138541,
-      "name": "Twerkulator",
-      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Tha Fuck (from the \"Bruised\" Soundtrack)",
-        "url": "https://open.spotify.com/album/62K2UfOrTETyXgbKVXAvTl"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
-        }
-      ],
-      "duration_ms": 134801,
-      "name": "Tha Fuck - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/5uIVb6uru0v4yYZlfPrMOX"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 234413,
-      "name": "Flawless Remix (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Black Reign",
-        "url": "https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ"
-      },
-      "artists": [
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "U.N.I.T.Y.",
-      "url": "https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "The Best of Brandy",
-        "url": "https://open.spotify.com/album/2W8fU1wJz9sGDmwMBcQBRX"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
-        },
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        },
-        {
-          "name": "Yo Yo",
-          "url": "https://open.spotify.com/artist/7ryn5ZubA9mvjd1EJsFLHY"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "I Wanna Be Down (feat. Queen Latifah, Yo-Yo & MC Lyte) - Remix",
-      "url": "https://open.spotify.com/track/3OZs6tgXsBmb3TWPn07YCF"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Ill Na Na",
-        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
-      },
-      "artists": [
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Ill Na Na",
-      "url": "https://open.spotify.com/track/1ig3239FhKsYUnu86O1rXY"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "The Makings Of Me",
-        "url": "https://open.spotify.com/album/7JD7E5nrRc4XSBYXqIAYk7"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        },
-        {
-          "name": "Dem Franchize Boyz",
-          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Everytime Tha Beat Drop (feat. Dem Franchize Boyz)",
-      "url": "https://open.spotify.com/track/1ydffhoWtTxKDrc5zi7p0M"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Scared (from the \"Bruised\" Soundtrack)",
-        "url": "https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
-        }
-      ],
-      "duration_ms": 159326,
-      "name": "Scared - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Savage Remix (feat. Beyonc\u00e9)",
-        "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Savage Remix (feat. Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Not Tonight EP",
-        "url": "https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Angie Martinez",
-          "url": "https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy"
-        },
-        {
-          "name": "Lisa \"Left Eye\" Lopes",
-          "url": "https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha"
-        },
-        {
-          "name": "Da Brat",
-          "url": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Not Tonight (feat. Da Brat, Left Eye, Missy \"Misdemeanor\" Elliott and Angie Martinez) - Remix",
-      "url": "https://open.spotify.com/track/42OhQBFNIbMyxRGxyPOvQA"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
-    },
-    {
-      "added_at": "2021-11-24 05:00:00",
-      "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/0hbSQvosqCvCFaiSRPEUYP"
+      "url": "https://open.spotify.com/track/4JazDcr295JjClPNnks5WL"
     }
   ],
   "unique_name": "Queen",

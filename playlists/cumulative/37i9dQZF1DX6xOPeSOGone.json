@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 225426,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 277733,
       "name": "Black Hole Sun - Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011",
       "url": "https://open.spotify.com/track/5p0s4na5wJHnaNw9azmiQm"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5PsUB0ISfQxRLhF5DmI5Ks"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 261880,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 277386,
       "name": "Handbags And Gladrags",
       "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 304213,
       "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
       "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 226680,
       "name": "In My Place",
       "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 252760,
       "name": "Just Around the Corner",
       "url": "https://open.spotify.com/track/1EMXG7xTHOwp08FNwDcQeX"
@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 212306,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/4Oiztg8nd9FOrBoSmvSzrB"
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 221160,
       "name": "More Than Words - Radio Edit",
       "url": "https://open.spotify.com/track/4sagNFI6iRtqK0bYxZ1yQY"
@@ -2001,6 +2001,24 @@
       "duration_ms": 395826,
       "name": "New York Minute",
       "url": "https://open.spotify.com/track/2cMAc5wh3j8bs0qpWOtlIS"
+    },
+    {
+      "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
     },
     {
       "album": {
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj"
@@ -3049,7 +3067,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
@@ -3157,7 +3175,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"

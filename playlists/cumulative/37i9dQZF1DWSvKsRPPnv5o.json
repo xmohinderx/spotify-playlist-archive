@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 231771,
       "name": "Back 2 Basics",
       "url": "https://open.spotify.com/track/2a8W8GMf5AuMaAYpSB8f65"
@@ -212,6 +212,24 @@
     },
     {
       "album": {
+        "name": "Bet It Back",
+        "url": "https://open.spotify.com/album/65FSEScNKeIccB0YQuhLAy"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152149,
+      "name": "Bet It Back",
+      "url": "https://open.spotify.com/track/4LUCzWbzWRwzNC59XhrjZy"
+    },
+    {
+      "album": {
         "name": "Big Dog",
         "url": "https://open.spotify.com/album/3cOUFMXKF1qvc01woJnjkP"
       },
@@ -301,7 +319,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 199245,
       "name": "Bogus (feat. BlueBucksClan)",
       "url": "https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 144000,
       "name": "Chances",
       "url": "https://open.spotify.com/track/66Hyl64xeJ95DLs9oZXkxo"
@@ -370,6 +388,28 @@
     },
     {
       "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "album": {
         "name": "Come Through (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B"
       },
@@ -392,6 +432,32 @@
     },
     {
       "album": {
+        "name": "BODR",
+        "url": "https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        },
+        {
+          "name": "Nefertitti Avani",
+          "url": "https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211361,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U"
+    },
+    {
+      "album": {
         "name": "Fortunate",
         "url": "https://open.spotify.com/album/0ers0MVtoezFlwTeUYSgfu"
       },
@@ -411,6 +477,42 @@
       "duration_ms": 197647,
       "name": "Control Problems (with YG)",
       "url": "https://open.spotify.com/track/6UorQ3toyCFLVDcExIkCYT"
+    },
+    {
+      "album": {
+        "name": "Covenant",
+        "url": "https://open.spotify.com/album/0COAiol8gZ3kcdlviRKzOz"
+      },
+      "artists": [
+        {
+          "name": "Rory Fresco",
+          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151808,
+      "name": "Covenant",
+      "url": "https://open.spotify.com/track/7L9ype3HUCdH1AjJ3lyA8I"
+    },
+    {
+      "album": {
+        "name": "BODR",
+        "url": "https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218637,
+      "name": "Crip Ya Enthusiasm",
+      "url": "https://open.spotify.com/track/35tDfJl8QOSgXV2wN2B9j8"
     },
     {
       "album": {
@@ -671,7 +773,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 155224,
       "name": "How's Life?",
       "url": "https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V"
@@ -725,7 +827,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 203662,
       "name": "IN THE MIDDLE",
       "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
@@ -939,7 +1041,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -1154,6 +1256,28 @@
     },
     {
       "album": {
+        "name": "Options (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128810,
+      "name": "Options (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6"
+    },
+    {
+      "album": {
         "name": "Party Roccin",
         "url": "https://open.spotify.com/album/0fjOjmZkqlmU5vppIb9OYa"
       },
@@ -1169,6 +1293,28 @@
       "duration_ms": 234653,
       "name": "Party Roccin",
       "url": "https://open.spotify.com/track/3CHvCHtu3dIFVns6yK2Jl7"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2NQWkiIPcvCG9ykCPuTdc7"
+      },
+      "artists": [
+        {
+          "name": "Derek King",
+          "url": "https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E"
+        },
+        {
+          "name": "Shaun Sloan",
+          "url": "https://open.spotify.com/artist/4bbKZi7t8CaAYqrpe37asy"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200063,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq"
     },
     {
       "album": {
@@ -1286,6 +1432,24 @@
     },
     {
       "album": {
+        "name": "Still Countin",
+        "url": "https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "Still Countin",
+      "url": "https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI"
+    },
+    {
+      "album": {
         "name": "From the Westside With Love Three",
         "url": "https://open.spotify.com/album/32N4rOq6seLb4TLkb4dfuL"
       },
@@ -1297,7 +1461,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 184026,
       "name": "Still Grind'n",
       "url": "https://open.spotify.com/track/7BJTpAu00SVaYVkcXq4oFa"
@@ -1432,6 +1596,24 @@
     },
     {
       "album": {
+        "name": "Valentine's Day",
+        "url": "https://open.spotify.com/album/1Bmfr6pi5ut9X0hTJ1H4Bm"
+      },
+      "artists": [
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120217,
+      "name": "Valentine's Day",
+      "url": "https://open.spotify.com/track/24ikOcZ8s0n7vnXbntYT0d"
+    },
+    {
+      "album": {
         "name": "Money Bags",
         "url": "https://open.spotify.com/album/1L8HxyYlmretDqwSWzuZCS"
       },
@@ -1461,7 +1643,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 148800,
       "name": "You're A Jerk 2",
       "url": "https://open.spotify.com/track/5aXplC3gYU14i6HW5Fpaer"

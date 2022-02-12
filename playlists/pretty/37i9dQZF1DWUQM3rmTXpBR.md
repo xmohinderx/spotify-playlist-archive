@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Dana Hourani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,016 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,050 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 15 | [La Tlou' El Daw](https://open.spotify.com/track/0pHL3idFQ7AT944IFJQVH6) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [La Tlou' El Daw](https://open.spotify.com/album/3iyIcDBdCVnRHsN0zb6Q5h) | 3:50 |
 | 16 | [Nettat](https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Nettat](https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B) | 3:45 |
 | 17 | [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 |
-| 18 | [Ha'oud \(I Will Return\)](https://open.spotify.com/track/1OExzy9fGc3TGP5zFvp0AH) | [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Ha'oud \(I Will Return\)](https://open.spotify.com/album/2sp15C7t9ATNj3TuJKDtWF) | 3:45 |
+| 18 | [Ha'oud \(I Will Return\)](https://open.spotify.com/track/1OExzy9fGc3TGP5zFvp0AH) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Ha'oud \(I Will Return\)](https://open.spotify.com/album/2sp15C7t9ATNj3TuJKDtWF) | 3:45 |
 | 19 | [Al Fajer Al Kazeb](https://open.spotify.com/track/75f1DWsH7SzOHQbtURZf0u) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Polylog](https://open.spotify.com/album/68PRVUPTJsIygqpuDKrgXG) | 6:04 |
 | 20 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/1GsARczxaleCcAzZinTcjK) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
 | 21 | [GRAND CASABLANCA](https://open.spotify.com/track/0XSH8YUaehYghWI5Mw2FYC) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [GRAND CASABLANCA](https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY) | 3:08 |

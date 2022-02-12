@@ -2,7 +2,7 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
-> The best in blues right now\. Cover: Eric Gales
+> The best in blues right now\. Cover: Fantastic Negrito
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Giving Up On Your Love](https://open.spotify.com/track/1b4iMXi38xiZM6emdMlU0O) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [The Big Sound of Lil' Ed & The Blues Imperials](https://open.spotify.com/album/0bgCN0pFtQMEfoaiNRaoCR) | 3:39 | 2021-04-13 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-01-14 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 |  |
+| [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 | 2022-02-11 |  |
 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 | 2021-05-28 |  |
 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2020-12-14 |  |
 | [Holding on with One Hand](https://open.spotify.com/track/6Zi5U36NiSzt0xp5OoXPzu) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Holler If You Hear Me](https://open.spotify.com/album/13Bf7tzevJNc8iqYysngFy) | 3:56 | 2021-09-03 |  |

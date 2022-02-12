@@ -1,28 +1,36 @@
 {
-  "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a Mont. \ud83c\udf0a\u2728 ",
-  "num_followers": 18721,
+  "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ, Alex Luna y Christian Nodal. \ud83c\udf0a\u2728 ",
+  "num_followers": 18790,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk5MzQzMywwMDAwMDAzNTAwMDAwMTdlYzVhNTA1MDkwMDAwMDE3ZWExYWQ3NTI3",
+  "snapshot_id": "MTY0NDU1OTIwMCwwMDAwMDAzNjAwMDAwMTdlZTc1ZGVmODQwMDAwMDE3ZWU0ZTM5NGM4",
   "tracks": [
     {
-      "added_at": "2022-01-28 06:00:00",
+      "added_at": "2022-02-11 06:00:00",
       "album": {
-        "name": "f**k u (La Devoluci\u00f3n)",
-        "url": "https://open.spotify.com/album/6TRFMEdEhR5VJtINuFekU5"
+        "name": "Te Marqu\u00e9 Pedo (Remix)",
+        "url": "https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 136826,
-      "name": "f**k u (La Devoluci\u00f3n)",
-      "url": "https://open.spotify.com/track/2mquxyPnVCHcfIY45mR5Sz"
+      "duration_ms": 217797,
+      "name": "Te Marqu\u00e9 Pedo - Remix",
+      "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
     },
     {
       "added_at": "2022-01-28 06:00:00",
@@ -43,6 +51,58 @@
     {
       "added_at": "2022-02-04 16:50:33",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "f**k u (La Devoluci\u00f3n)",
+        "url": "https://open.spotify.com/album/6TRFMEdEhR5VJtINuFekU5"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "f**k u (La Devoluci\u00f3n)",
+      "url": "https://open.spotify.com/track/2mquxyPnVCHcfIY45mR5Sz"
+    },
+    {
+      "added_at": "2022-02-04 16:50:33",
+      "album": {
+        "name": "Solo Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/73au3D856ZW0HVfvwY3OEe"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        },
+        {
+          "name": "Dany & Dary",
+          "url": "https://open.spotify.com/artist/7AUFlop6Gy9FC9VlQfkxTt"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Solo Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/6HOf9TzBeYZcqnzU7K8Ooa"
+    },
+    {
+      "added_at": "2022-02-04 16:50:33",
+      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
       },
@@ -55,6 +115,26 @@
       "duration_ms": 177426,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
+    },
+    {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 193239,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
     },
     {
       "added_at": "2022-01-28 06:00:00",
@@ -89,6 +169,26 @@
       "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
     },
     {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Despues De Las 12",
+        "url": "https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 194218,
+      "name": "Despues De Las 12",
+      "url": "https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H"
+    },
+    {
       "added_at": "2022-02-04 16:50:33",
       "album": {
         "name": "Noche en LA",
@@ -107,6 +207,58 @@
       "duration_ms": 209891,
       "name": "Noche en LA",
       "url": "https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS"
+    },
+    {
+      "added_at": "2022-01-20 16:51:32",
+      "album": {
+        "name": "Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
+      },
+      "artists": [
+        {
+          "name": "Aldo Carpes",
+          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q"
+    },
+    {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Ll\u00e1mame",
+        "url": "https://open.spotify.com/album/0fnmpFDb8x8qUkNgFJRvem"
+      },
+      "artists": [
+        {
+          "name": "Axel Olloqui",
+          "url": "https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ll\u00e1mame",
+      "url": "https://open.spotify.com/track/6pUOXwDOMBTIsYKP87urb6"
+    },
+    {
+      "added_at": "2021-12-17 14:15:50",
+      "album": {
+        "name": "Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/60xAWeqKZNdc5DqovBot9G"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 228442,
+      "name": "Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/4z7RsNkzKOG3Ki8eUKDnzY"
     },
     {
       "added_at": "2022-02-04 16:50:33",
@@ -145,6 +297,38 @@
       "url": "https://open.spotify.com/track/4cK0cDb8RSBRIaC0kr7lOx"
     },
     {
+      "added_at": "2021-12-10 06:00:00",
+      "album": {
+        "name": "A Donde Quiero Estar",
+        "url": "https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "A Donde Quiero Estar",
+      "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
+    },
+    {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Jodido",
+        "url": "https://open.spotify.com/album/3LXfwJbgciZfXUMOLiTpTs"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 246587,
+      "name": "Qu\u00e9 Jodido",
+      "url": "https://open.spotify.com/track/5ILOjHzlwbtGC2mfxh7nHn"
+    },
+    {
       "added_at": "2022-01-28 06:00:00",
       "album": {
         "name": "seguiremos siendo",
@@ -165,6 +349,26 @@
       "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"
     },
     {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Navegantes",
+        "url": "https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC"
+      },
+      "artists": [
+        {
+          "name": "Daniela Calvario",
+          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        }
+      ],
+      "duration_ms": 243664,
+      "name": "Navegantes",
+      "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
+    },
+    {
       "added_at": "2021-12-10 06:00:00",
       "album": {
         "name": "efectos secundarios",
@@ -181,22 +385,6 @@
       "url": "https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD"
     },
     {
-      "added_at": "2021-12-17 14:15:50",
-      "album": {
-        "name": "Se Jodi\u00f3",
-        "url": "https://open.spotify.com/album/60xAWeqKZNdc5DqovBot9G"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 228442,
-      "name": "Se Jodi\u00f3",
-      "url": "https://open.spotify.com/track/4z7RsNkzKOG3Ki8eUKDnzY"
-    },
-    {
       "added_at": "2021-12-10 06:00:00",
       "album": {
         "name": "Mon Amour",
@@ -211,42 +399,6 @@
       "duration_ms": 173895,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP"
-    },
-    {
-      "added_at": "2022-01-20 16:51:32",
-      "album": {
-        "name": "Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
-      },
-      "artists": [
-        {
-          "name": "Aldo Carpes",
-          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q"
-    },
-    {
-      "added_at": "2022-02-04 16:50:33",
-      "album": {
-        "name": "Solo Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/73au3D856ZW0HVfvwY3OEe"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        },
-        {
-          "name": "Dany & Dary",
-          "url": "https://open.spotify.com/artist/7AUFlop6Gy9FC9VlQfkxTt"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Solo Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/6HOf9TzBeYZcqnzU7K8Ooa"
     },
     {
       "added_at": "2022-01-28 06:00:00",
@@ -299,38 +451,6 @@
       "duration_ms": 162178,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH"
-    },
-    {
-      "added_at": "2021-12-10 06:00:00",
-      "album": {
-        "name": "A Donde Quiero Estar",
-        "url": "https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "A Donde Quiero Estar",
-      "url": "https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2"
-    },
-    {
-      "added_at": "2022-02-04 16:50:33",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
     },
     {
       "added_at": "2021-12-10 06:00:00",
@@ -819,26 +939,6 @@
     {
       "added_at": "2021-12-10 06:00:00",
       "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 181221,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
-    },
-    {
-      "added_at": "2021-12-10 06:00:00",
-      "album": {
         "name": "Ant\u00edtesis",
         "url": "https://open.spotify.com/album/05PPWZrJxJGPOYr9vkCDqP"
       },
@@ -851,46 +951,6 @@
       "duration_ms": 185472,
       "name": "Ant\u00edtesis",
       "url": "https://open.spotify.com/track/2sOE1BdMO5iW9WTG4yWSJU"
-    },
-    {
-      "added_at": "2021-12-10 06:00:00",
-      "album": {
-        "name": "Demos y Feelings",
-        "url": "https://open.spotify.com/album/288gjWevdtKqpsUWkTA1OI"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Se Me Olvida",
-      "url": "https://open.spotify.com/track/11h8rm2aWPvPdfMc2tLaJN"
-    },
-    {
-      "added_at": "2021-12-10 06:00:00",
-      "album": {
-        "name": "C.A.T.",
-        "url": "https://open.spotify.com/album/1Vj9qMFet03QxbDwdptIms"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        },
-        {
-          "name": "Typow",
-          "url": "https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "C.A.T.",
-      "url": "https://open.spotify.com/track/11glgfo3N4w5QKuUJKLnzH"
     },
     {
       "added_at": "2021-12-10 06:00:00",
@@ -1159,22 +1219,6 @@
     {
       "added_at": "2021-12-10 06:00:00",
       "album": {
-        "name": "B\u00e1jale (Suceso 5)",
-        "url": "https://open.spotify.com/album/6IXzvNBhmqp18vz1f5ekOq"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "B\u00e1jale (Suceso 5)",
-      "url": "https://open.spotify.com/track/2vAjXgBr5VlIJ50E6OqDNu"
-    },
-    {
-      "added_at": "2021-12-10 06:00:00",
-      "album": {
         "name": "Y Te Lo Digo Yo",
         "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
       },
@@ -1187,22 +1231,6 @@
       "duration_ms": 163546,
       "name": "180 km/h",
       "url": "https://open.spotify.com/track/1jsFcYiyt05OXqLnjXxmPe"
-    },
-    {
-      "added_at": "2021-12-10 06:00:00",
-      "album": {
-        "name": "Calamidad",
-        "url": "https://open.spotify.com/album/6y1vBRKPKLwgKlVin1kvdO"
-      },
-      "artists": [
-        {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Calamidad",
-      "url": "https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3"
     },
     {
       "added_at": "2021-12-10 06:00:00",
@@ -1239,26 +1267,6 @@
       "duration_ms": 202400,
       "name": "Sopa de Letritas",
       "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
-    },
-    {
-      "added_at": "2021-12-10 06:00:00",
-      "album": {
-        "name": "Psicod\u00e9lico",
-        "url": "https://open.spotify.com/album/32NylJJcCTzZbH821CtedC"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        },
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 258354,
-      "name": "Psicod\u00e9lico",
-      "url": "https://open.spotify.com/track/7GprGO8qLpEV3siK25CJV1"
     },
     {
       "added_at": "2021-12-10 06:00:00",

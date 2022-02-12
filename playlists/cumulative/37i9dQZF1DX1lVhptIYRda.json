@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Danielle Bradbery",
+  "description": "Today's top country hits of the week, worldwide! Cover: Dustin Lynch",
   "name": "Hot Country",
   "published_playlist_ids": [
     "6kgRyUaLssWEGETpjboDD4"
@@ -1336,6 +1336,28 @@
     },
     {
       "album": {
+        "name": "Can't Do Without Me",
+        "url": "https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        },
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "Can't Do Without Me",
+      "url": "https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP"
+    },
+    {
+      "album": {
         "name": "Can't Say I Ain't Country",
         "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
       },
@@ -2441,7 +2463,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 180025,
       "name": "First Light",
       "url": "https://open.spotify.com/track/6zuVzhogxotQnXIxr2wLE5"
@@ -3243,7 +3265,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
@@ -4293,7 +4315,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 166800,
       "name": "It\u2019s \u2018Cause I Am",
       "url": "https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg"
@@ -5011,6 +5033,24 @@
       "duration_ms": 194866,
       "name": "Lovin' On You",
       "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
+    },
+    {
+      "album": {
+        "name": "Made",
+        "url": "https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Made",
+      "url": "https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b"
     },
     {
       "album": {
@@ -6304,6 +6344,24 @@
     },
     {
       "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211986,
+      "name": "Party Mode",
+      "url": "https://open.spotify.com/track/7ivOkXLuP1182ZtzA54Vbw"
+    },
+    {
+      "album": {
         "name": "Paying For It",
         "url": "https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX"
       },
@@ -6341,6 +6399,24 @@
       "duration_ms": 169440,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
+    },
+    {
+      "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
     },
     {
       "album": {

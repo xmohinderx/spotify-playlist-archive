@@ -1276,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Love Letter (At Home)",
+        "url": "https://open.spotify.com/album/5rarhRbEr3haebB2GT02rT"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Love Letter - At Home",
+      "url": "https://open.spotify.com/track/289CYS8Ws26XGrg1dbeY6d"
+    },
+    {
+      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
       },

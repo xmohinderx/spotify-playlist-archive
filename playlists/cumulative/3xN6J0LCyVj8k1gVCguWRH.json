@@ -3407,7 +3407,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 420040,
       "name": "Bye-Ya",
       "url": "https://open.spotify.com/track/3V5sNDS0lWlpXmznn9ICi6"
@@ -5874,6 +5874,28 @@
     },
     {
       "album": {
+        "name": "Easy Like That",
+        "url": "https://open.spotify.com/album/2m6A9dP4XBKjVp9VOy1km7"
+      },
+      "artists": [
+        {
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        },
+        {
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138851,
+      "name": "Easy Like That",
+      "url": "https://open.spotify.com/track/1KAk87ki1jhm6TLPtxzFby"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0YnR8And3GQKesjdB3v7J6"
       },
@@ -6831,6 +6853,24 @@
       "duration_ms": 173750,
       "name": "First",
       "url": "https://open.spotify.com/track/61e6RuiuvaUwmpC0oNLgmI"
+    },
+    {
+      "album": {
+        "name": "First in Line",
+        "url": "https://open.spotify.com/album/21ActYFVm8KqcLvZDFbNMd"
+      },
+      "artists": [
+        {
+          "name": "Partial Sum",
+          "url": "https://open.spotify.com/artist/1CTt2Zy8O0dyxviUr2wJ4w"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "First in Line",
+      "url": "https://open.spotify.com/track/3iG6x2yVIUc7Qzn825U7xW"
     },
     {
       "album": {
@@ -10432,6 +10472,24 @@
     },
     {
       "album": {
+        "name": "Monotronic",
+        "url": "https://open.spotify.com/album/04qJjkoONgBtVYXwwKX1hp"
+      },
+      "artists": [
+        {
+          "name": "Monotronic",
+          "url": "https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291039,
+      "name": "In Your Head",
+      "url": "https://open.spotify.com/track/1uAN0osR1nGVefLLMhoiwA"
+    },
+    {
+      "album": {
         "name": "Vitamin D",
         "url": "https://open.spotify.com/album/2beqBEAovZSsMCW7IdfOJI"
       },
@@ -10559,6 +10617,24 @@
       "duration_ms": 246000,
       "name": "It'll Be",
       "url": "https://open.spotify.com/track/41fLR0yl9She9Ji99WwhPD"
+    },
+    {
+      "album": {
+        "name": "It's a Dream!",
+        "url": "https://open.spotify.com/album/2T565vrx61D9qlU8wZFTSc"
+      },
+      "artists": [
+        {
+          "name": "Hembree",
+          "url": "https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177772,
+      "name": "It's a Dream!",
+      "url": "https://open.spotify.com/track/5A0NFSzCHzsVBisMzgAB7c"
     },
     {
       "album": {
@@ -15789,7 +15865,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-14",
+      "date_removed": null,
       "duration_ms": 218958,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/7HyAOHj2GhpB64rlrUEClA"
@@ -17580,6 +17656,24 @@
     },
     {
       "album": {
+        "name": "Say That",
+        "url": "https://open.spotify.com/album/1oxTCUHmB8L8eLp2c5RRNL"
+      },
+      "artists": [
+        {
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208380,
+      "name": "Say That",
+      "url": "https://open.spotify.com/track/25arvmrYvFkTti9WHhSnlS"
+    },
+    {
+      "album": {
         "name": "Sea Salt",
         "url": "https://open.spotify.com/album/6zXUfzIz4w4MaoS5ed88tA"
       },
@@ -18761,6 +18855,28 @@
       "duration_ms": 227974,
       "name": "Stages",
       "url": "https://open.spotify.com/track/4oElBWNxGX0Lg8wD1k5uHx"
+    },
+    {
+      "album": {
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily"
     },
     {
       "album": {
@@ -21129,7 +21245,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 166683,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6uIhiWsucUZpfuyNkBB0RF"
@@ -22051,6 +22167,24 @@
       "duration_ms": 247025,
       "name": "Walking On Water",
       "url": "https://open.spotify.com/track/38diyT1cH8ig7nWfz6p7cf"
+    },
+    {
+      "album": {
+        "name": "Walking True",
+        "url": "https://open.spotify.com/album/013ocIBiftqcSA7dhobZjf"
+      },
+      "artists": [
+        {
+          "name": "Sage of New England",
+          "url": "https://open.spotify.com/artist/3NDOUslDAgkXJJHa8sELaJ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302389,
+      "name": "Walking True",
+      "url": "https://open.spotify.com/track/3mdK59MBIoYnQ3VA3SU2Xm"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
-> The hottest Hip\-Hop of today all over the world\.  \(Cover: Nicki Minaj\)
+> The hottest Hip\-Hop of today all over the world\.  \(Cover: Future\)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ALL DAY](https://open.spotify.com/track/4HGr20bh7ZPDNe18sbzF83) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [ALL DAY](https://open.spotify.com/album/3x61bPtqBAELQHAQXl29hS) | 3:09 | 2022-01-27 |  |
 | [All Eyes On Me](https://open.spotify.com/track/3EgG8FCbyTpVBU0BgDpiMF) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [All Eyes On Me](https://open.spotify.com/album/29k0P1t3FOjhpQqBI1Ovza) | 4:00 | 2022-01-20 | 2022-02-11 |
 | [ALL NIGHT](https://open.spotify.com/track/1kZs4gceUzWIvW2WIyqete) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [CHAPTER II: SELF](https://open.spotify.com/album/3RGxtqcYERL88PX0FmNw4A) | 2:41 | 2022-01-20 | 2022-01-28 |
+| [ALONE \(feat\. Trippie Redd\)](https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:16 | 2022-02-11 |  |
 | [Apartment 308](https://open.spotify.com/track/33gReiJb6djL4Dq0ImETti) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [Young Jin](https://open.spotify.com/artist/5GEcTlDT5qgsxEBBMoKyhY) | [Apartment 308](https://open.spotify.com/album/3h6TXRBmzftPfqvKf0XuL3) | 3:28 | 2022-01-20 | 2022-02-04 |
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-01-28 |  |
 | [Back It Up](https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Back It Up](https://open.spotify.com/album/1lIkzEoKntwg8tmg16xLXL) | 2:38 | 2022-01-20 | 2022-02-04 |
@@ -26,6 +27,7 @@
 | [Bloodclarrt Business](https://open.spotify.com/track/0x3VmItOxAzDKLOT94FQSv) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Bloodclarrt Business](https://open.spotify.com/album/1FDLloitdAEUB1LP27EroI) | 2:27 | 2022-02-10 |  |
 | [Boyhood](https://open.spotify.com/track/2UEgAnfbTUrJleVsPhC7jQ) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Boyhood](https://open.spotify.com/album/3dcpBQwL48JiyP7BRRd4Yr) | 3:36 | 2022-01-27 |  |
 | [Breaking Atoms](https://open.spotify.com/track/2L129W9YLmn2ml4mTyHMSK) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Breaking Atoms](https://open.spotify.com/album/7vintMZSK8CcpOCakiowwy) | 2:24 | 2022-01-20 | 2022-02-11 |
+| [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-02-11 |  |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-27 |  |
 | [Channel Zero](https://open.spotify.com/track/5yPOxCrlFlNuNnv8OYA50h) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Channel Zero](https://open.spotify.com/album/2rkyeEPGwWiD1lyD3QRbvm) | 3:50 | 2022-02-10 |  |
 | [Chitty Bang](https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Chitty Bang](https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW) | 2:26 | 2022-01-20 | 2022-01-28 |
@@ -151,6 +153,7 @@
 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 | 2022-01-20 | 2022-02-11 |
 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 | 2022-02-10 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/7CpE2CsvHRuae5HkC3MikN) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [WITHOUT YOU](https://open.spotify.com/album/0oeqrRKgLSFWqzBFq9Wo72) | 2:51 | 2022-02-10 |  |
+| [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 | 2022-02-11 |  |
 | [XXX](https://open.spotify.com/track/7zXg6aMisyvvpn9T3D7XlS) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [XXX](https://open.spotify.com/album/7HrBySrCbevh4XVJXFvp6n) | 2:52 | 2022-02-10 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

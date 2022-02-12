@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 204467,
       "name": "Apple",
       "url": "https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 146917,
       "name": "COCO PEBBLES",
       "url": "https://open.spotify.com/track/7dxb2v1b5WLv9F7aYCRoUS"
@@ -616,6 +616,24 @@
     },
     {
       "album": {
+        "name": "Crying In The Club",
+        "url": "https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170877,
+      "name": "Crying In The Club",
+      "url": "https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU"
+    },
+    {
+      "album": {
         "name": "Hi, My Name Is Pily!",
         "url": "https://open.spotify.com/album/0BY889b9xuODwIoLkB49oM"
       },
@@ -670,7 +688,7 @@
     },
     {
       "album": {
-        "name": "Dance Crip",
+        "name": "DANCE CRIP",
         "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
       },
       "artists": [
@@ -823,7 +841,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 166548,
       "name": "Demasiado Loco",
       "url": "https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 184941,
       "name": "I've Seen Better Days",
       "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
@@ -1735,6 +1753,28 @@
       "duration_ms": 244666,
       "name": "If I Should Die",
       "url": "https://open.spotify.com/track/7brlxQj9clMkwWtnd5gguZ"
+    },
+    {
+      "album": {
+        "name": "Invincible (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Invincible (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
     },
     {
       "album": {
@@ -1845,6 +1885,24 @@
       "duration_ms": 223448,
       "name": "KEEP ME WAITING",
       "url": "https://open.spotify.com/track/6lCoAPuGvwbWKcwD5LBg7f"
+    },
+    {
+      "album": {
+        "name": "Kelede",
+        "url": "https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159306,
+      "name": "Kelede",
+      "url": "https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL"
     },
     {
       "album": {
@@ -2527,7 +2585,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 237106,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
@@ -2873,7 +2931,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 209542,
       "name": "Regret",
       "url": "https://open.spotify.com/track/31ukS4CiKvL4fORCLpxu9I"
@@ -2931,7 +2989,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 379047,
       "name": "Ritmo - Sergio Gaytan Remix",
       "url": "https://open.spotify.com/track/1CXosMEcYuewtcjidkKHTf"
@@ -3072,6 +3130,28 @@
     },
     {
       "album": {
+        "name": "Skin Tight (feat. Steve Lacy)",
+        "url": "https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227001,
+      "name": "Skin Tight (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs"
+    },
+    {
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546"
       },
@@ -3119,7 +3199,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 265225,
       "name": "Something About Us",
       "url": "https://open.spotify.com/track/1d24IsT8Vx0sENM2Oof4V2"
@@ -3155,7 +3235,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
@@ -3543,7 +3623,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 179094,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"

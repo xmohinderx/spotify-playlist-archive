@@ -376,6 +376,28 @@
     },
     {
       "album": {
+        "name": "CELULAR",
+        "url": "https://open.spotify.com/album/7zpODfVIHAMlfw0wNXWRFN"
+      },
+      "artists": [
+        {
+          "name": "KAZE KENZO",
+          "url": "https://open.spotify.com/artist/73pLtWPm3Lw8ikjuX6BX0P"
+        },
+        {
+          "name": "Max Valenzuela",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155552,
+      "name": "CELULAR",
+      "url": "https://open.spotify.com/track/0g0Ipiv8a9kWSq4acp8L1H"
+    },
+    {
+      "album": {
         "name": "CHAINZ",
         "url": "https://open.spotify.com/album/6JKli5Wrp3272NFOpyapVO"
       },

@@ -1,12 +1,12 @@
 {
   "description": "we are so lucky for these beautiful tracks of the week. cover: omar apollo & daniel caesar",
-  "num_followers": 911553,
+  "num_followers": 911614,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzODY4NywwMDAwMDMzNzAwMDAwMTdlZTYyNGVlZmIwMDAwMDE3ZWU2MjQxMzQ5",
+  "snapshot_id": "MTY0NDU5ODY2OSwwMDAwMDMzODAwMDAwMTdlZTliODMwMWMwMDAwMDE3ZWU2MjQxMzQ5",
   "tracks": [
     {
       "added_at": "2022-02-11 00:18:07",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/6zlIN2RRLiNzitagYR44m0"
     },
     {
+      "added_at": "2022-02-11 16:57:49",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
+    },
+    {
       "added_at": "2022-02-11 00:18:07",
       "album": {
         "name": "A\u00e7a\u00ed Bowl",
@@ -143,6 +159,26 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2022-02-11 16:57:49",
+      "album": {
+        "name": "La Novela",
+        "url": "https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 291750,
+      "name": "La Novela",
+      "url": "https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG"
     },
     {
       "added_at": "2022-02-11 00:18:07",
@@ -1891,22 +1927,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "Pack a Punch",
-        "url": "https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8"
-      },
-      "artists": [
-        {
-          "name": "Luke Wild",
-          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
-        }
-      ],
-      "duration_ms": 222489,
-      "name": "Pack a Punch",
-      "url": "https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "Sunny Boy",
         "url": "https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv"
       },
@@ -1935,38 +1955,6 @@
       "duration_ms": 171653,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/6IQUj5eSse9rXx2WHUHg8p"
-      },
-      "artists": [
-        {
-          "name": "Chloe Lilac",
-          "url": "https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "19",
-      "url": "https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Double Superfine",
-        "url": "https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 162946,
-      "name": "Holly Holly",
-      "url": "https://open.spotify.com/track/2oyo5qekqSCfN0OlJGfQhq"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -2051,22 +2039,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
       },
@@ -2079,22 +2051,6 @@
       "duration_ms": 194693,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "how i'm feeling",
-        "url": "https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC"
-      },
-      "artists": [
-        {
-          "name": "Ryan Woods",
-          "url": "https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "how i'm feeling",
-      "url": "https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -2143,22 +2099,6 @@
       "duration_ms": 202248,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Shit Show",
-        "url": "https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Shit Show",
-      "url": "https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -2375,22 +2315,6 @@
       "duration_ms": 115800,
       "name": "Just for me",
       "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "From These Heights",
-        "url": "https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "From These Heights",
-      "url": "https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4"
     },
     {
       "added_at": "2021-12-01 14:26:10",

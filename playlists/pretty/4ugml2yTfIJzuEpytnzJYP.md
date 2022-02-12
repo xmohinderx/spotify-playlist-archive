@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,084 likes - 53 songs - 3 hr 10 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,085 likes - 58 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,10 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 51 | [Karthaus](https://open.spotify.com/track/4ULsnDkqQlVugbOLHUYy0O) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Karthaus](https://open.spotify.com/album/53dUyF69IMlnx2Vhrgl9PZ) | 6:05 |
 | 52 | [Nihil](https://open.spotify.com/track/5YVgl0hVPItJHtXXRdlfFD) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [NCDIG006](https://open.spotify.com/album/6WwwcYvNRf7e7VrdMrq5lB) | 4:40 |
 | 53 | [Get Bun](https://open.spotify.com/track/5X8W307Uv6qa69GUXubD5y) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Time Is Now White, Vol.10](https://open.spotify.com/album/2QRu4xj67JLGINTazmeCRU) | 3:35 |
+| 54 | [Holla](https://open.spotify.com/track/5ZXKxQWkDCm8RI0JWnBaam) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Holla](https://open.spotify.com/album/4icJQ3JuZV3PW6RVVVvU1A) | 3:02 |
+| 55 | [Careless](https://open.spotify.com/track/55EsRl8Q16Q73P74ymPoG3) | [UNKNWN](https://open.spotify.com/artist/5wZEqM64b8lzsEvDTPclv9) | [Mysterium](https://open.spotify.com/album/2YdWrIM0TS7rHmcK2Gul2i) | 2:40 |
+| 56 | [Tapping in Boyd Hill](https://open.spotify.com/track/14h2xjYyzgxqM3CxRFE6JO) | [Somatoast](https://open.spotify.com/artist/6TgxNzWMXI7y4dhm5sPBL5) | [Tapping in Boyd Hill](https://open.spotify.com/album/3Y5wYJebF1ABImA0rPF6Yo) | 3:12 |
+| 57 | [Gone'd Off That Ooee \- Vide & EAZYBAKED Remix](https://open.spotify.com/track/4cjLj63HqtAx775vqM0TJ2) | [Bricksquash](https://open.spotify.com/artist/2p86MlyUomQNCpi3vfPGYM), [Vide](https://open.spotify.com/artist/2zuL2fhF4xRzyCikWcmlea), [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Skreet Force One / Re\-Bricked](https://open.spotify.com/album/4nBogeQ6jJMYwKilTxZ2lp) | 3:41 |
+| 58 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 |
 
-Snapshot ID: `MTgwMCw0MDJjNmQwNjU4ZjhhZmQzYzJhMDI1YWFkNGNlODY5MTJiZDg3ZTBm`
+Snapshot ID: `MTgwNSw5YjA1N2JkMmE3OTllM2QxMjFjYzBlOGI0OTI1N2Q3YmY3NDQyMDgw`

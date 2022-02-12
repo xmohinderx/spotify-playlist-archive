@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/5XpjhYHq0iDhDcPyjEEb4A"
+      },
+      "artists": [
+        {
+          "name": "Dexter Mars",
+          "url": "https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/2PdsoiM7FtggHQTYicpQMi"
+    },
+    {
+      "album": {
         "name": "Dosages",
         "url": "https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0"
       },

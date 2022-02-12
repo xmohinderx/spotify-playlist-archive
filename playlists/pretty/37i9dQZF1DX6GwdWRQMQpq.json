@@ -1,18 +1,54 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Nicki Minaj\n",
-  "num_followers": 2083149,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Saweetie\n",
+  "num_followers": 2084328,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDAxMzI3MSwwMDAwMDQ3YTAwMDAwMTdlYzZkM2I4MjEwMDAwMDE3ZWMwYWI4Y2I4",
+  "snapshot_id": "MTY0NDU1NTYwMCwwMDAwMDQ3YjAwMDAwMTdlZTcyNzAxNWQwMDAwMDE3ZWUwNzdiZjkz",
   "tracks": [
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Do We Have A Problem?",
-        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "added_at": "2021-09-24 04:00:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Bussin",
+        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
       },
       "artists": [
         {
@@ -24,9 +60,41 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 207065,
-      "name": "Do We Have A Problem?",
-      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+      "duration_ms": 136760,
+      "name": "Bussin",
+      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+    },
+    {
+      "added_at": "2021-11-29 23:38:41",
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 113429,
+      "name": "Megan's Piano",
+      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 146597,
+      "name": "CAN'T TOUCH THIS",
+      "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -81,22 +149,6 @@
       "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Pop Sh*t Queen",
-        "url": "https://open.spotify.com/album/6c546bspygDHi7quOrZ2Du"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Pop Sh*t Queen",
-      "url": "https://open.spotify.com/track/68EFrsoC3TbilZBQe7XRHP"
-    },
-    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "The Best",
@@ -111,22 +163,6 @@
       "duration_ms": 152647,
       "name": "The Best",
       "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
-    },
-    {
-      "added_at": "2021-11-29 23:38:41",
-      "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 113429,
-      "name": "Megan's Piano",
-      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -149,38 +185,6 @@
       "url": "https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp"
     },
     {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2021-09-13 17:38:47",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
       "added_at": "2021-10-29 16:00:21",
       "album": {
         "name": "Something for Thee Hotties",
@@ -195,54 +199,6 @@
       "duration_ms": 169420,
       "name": "Eat It",
       "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 146597,
-      "name": "CAN'T TOUCH THIS",
-      "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
-    },
-    {
-      "added_at": "2021-09-10 04:00:00",
-      "album": {
-        "name": "Have Mercy",
-        "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -265,20 +221,136 @@
       "url": "https://open.spotify.com/track/108CRSzSnhShMbNgNHWrjU"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2021-12-08 03:11:25",
       "album": {
-        "name": "Keep Going",
-        "url": "https://open.spotify.com/album/2daeZKCpqIqpHJoOt12lyJ"
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
       "artists": [
         {
-          "name": "Bella Blaq",
-          "url": "https://open.spotify.com/artist/5fVqCTmEK6KwE54TdziL3R"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/5WFS94mQU8LHIlejXYpKP2"
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "UonU (feat. Yung Bleu)",
+        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 218205,
+      "name": "UonU (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 156737,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
     },
     {
       "added_at": "2021-09-10 04:00:00",
@@ -295,22 +367,6 @@
       "duration_ms": 113327,
       "name": "The Assignment",
       "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
-    },
-    {
-      "added_at": "2021-12-08 03:11:25",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -357,72 +413,20 @@
       "url": "https://open.spotify.com/track/47wtu7foA0yMcbsfX8FPmQ"
     },
     {
-      "added_at": "2022-02-04 22:21:11",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Rap?",
-        "url": "https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm"
+        "name": "Fuck It Up",
+        "url": "https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX"
       },
       "artists": [
         {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+          "name": "Bali Baby",
+          "url": "https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY"
         }
       ],
-      "duration_ms": 178266,
-      "name": "Meagan Good",
-      "url": "https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2022-02-04 06:36:38",
-      "album": {
-        "name": "Winter in New York City",
-        "url": "https://open.spotify.com/album/35kZs9bouKM60ym7EDqOoF"
-      },
-      "artists": [
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 102530,
-      "name": "Hey Stranger",
-      "url": "https://open.spotify.com/track/6KNXTW9dcRUbRH9D7uUZZW"
+      "duration_ms": 132989,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf"
     },
     {
       "added_at": "2021-10-29 21:27:47",
@@ -443,58 +447,34 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Fuck It Up",
-        "url": "https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX"
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/2daeZKCpqIqpHJoOt12lyJ"
       },
       "artists": [
         {
-          "name": "Bali Baby",
-          "url": "https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY"
+          "name": "Bella Blaq",
+          "url": "https://open.spotify.com/artist/5fVqCTmEK6KwE54TdziL3R"
         }
       ],
-      "duration_ms": 132989,
-      "name": "Fuck It Up",
-      "url": "https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf"
+      "duration_ms": 128000,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/5WFS94mQU8LHIlejXYpKP2"
     },
     {
-      "added_at": "2021-11-19 05:00:00",
+      "added_at": "2021-09-24 04:00:00",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs and Hrs",
-      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": "2022-02-04 21:57:08",
@@ -511,22 +491,6 @@
       "duration_ms": 193279,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
-    },
-    {
-      "added_at": "2021-10-08 23:40:09",
-      "album": {
-        "name": "Beating Down Yo Block",
-        "url": "https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Beating Down Yo Block",
-      "url": "https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -561,26 +525,6 @@
       "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
     },
     {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 153618,
-      "name": "BIG DEAL (feat. Sevyn Streeter)",
-      "url": "https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf"
-    },
-    {
       "added_at": "2021-11-19 05:00:00",
       "album": {
         "name": "Money (feat. Flo Milli)",
@@ -599,22 +543,6 @@
       "duration_ms": 150652,
       "name": "Money (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "Icy Chain",
-        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 110790,
-      "name": "Icy Chain",
-      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -651,26 +579,6 @@
       "duration_ms": 110769,
       "name": "Soufside",
       "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Break The Bank",
-        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        },
-        {
-          "name": "Trina",
-          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
-        }
-      ],
-      "duration_ms": 183436,
-      "name": "Freaky Dancer (feat. Trina)",
-      "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -757,22 +665,6 @@
       "url": "https://open.spotify.com/track/40gDaWBsieyvULRBTYECY4"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Don't Talk",
-        "url": "https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx"
-      },
-      "artists": [
-        {
-          "name": "Cuban Doll",
-          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
-        }
-      ],
-      "duration_ms": 135381,
-      "name": "Don't Talk",
-      "url": "https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1"
-    },
-    {
       "added_at": "2021-10-29 04:00:00",
       "album": {
         "name": "Pedi",
@@ -787,22 +679,6 @@
       "duration_ms": 125272,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Rap Freaks",
-        "url": "https://open.spotify.com/album/1UKJRFSWbzO0IcBKLoXxka"
-      },
-      "artists": [
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 104064,
-      "name": "Rap Freaks",
-      "url": "https://open.spotify.com/track/1hiouKTKyZ7CcKWAoofkkg"
     },
     {
       "added_at": "2022-01-11 16:02:49",
@@ -837,6 +713,54 @@
       "url": "https://open.spotify.com/track/4F0flTfcEU2ZcStYhJsaRy"
     },
     {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Ice Baby",
+        "url": "https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 169679,
+      "name": "Ice Baby",
+      "url": "https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
+    },
+    {
+      "added_at": "2022-02-04 06:36:38",
+      "album": {
+        "name": "Winter in New York City",
+        "url": "https://open.spotify.com/album/35kZs9bouKM60ym7EDqOoF"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "duration_ms": 102530,
+      "name": "Hey Stranger",
+      "url": "https://open.spotify.com/track/6KNXTW9dcRUbRH9D7uUZZW"
+    },
+    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "Moncler Coat",
@@ -855,18 +779,102 @@
     {
       "added_at": "2021-10-29 04:00:00",
       "album": {
-        "name": "Ice Baby",
-        "url": "https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK"
+        "name": "Rap Freaks",
+        "url": "https://open.spotify.com/album/1UKJRFSWbzO0IcBKLoXxka"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
         }
       ],
-      "duration_ms": 169679,
-      "name": "Ice Baby",
-      "url": "https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2"
+      "duration_ms": 104064,
+      "name": "Rap Freaks",
+      "url": "https://open.spotify.com/track/1hiouKTKyZ7CcKWAoofkkg"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 153618,
+      "name": "BIG DEAL (feat. Sevyn Streeter)",
+      "url": "https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf"
+    },
+    {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "Icy Chain",
+        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 110790,
+      "name": "Icy Chain",
+      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+    },
+    {
+      "added_at": "2022-02-04 22:21:11",
+      "album": {
+        "name": "Rap?",
+        "url": "https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Meagan Good",
+      "url": "https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Don't Talk",
+        "url": "https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx"
+      },
+      "artists": [
+        {
+          "name": "Cuban Doll",
+          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+        }
+      ],
+      "duration_ms": 135381,
+      "name": "Don't Talk",
+      "url": "https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Pop Sh*t Queen",
+        "url": "https://open.spotify.com/album/6c546bspygDHi7quOrZ2Du"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Pop Sh*t Queen",
+      "url": "https://open.spotify.com/track/68EFrsoC3TbilZBQe7XRHP"
     }
   ],
   "unique_name": "Feelin' Myself",

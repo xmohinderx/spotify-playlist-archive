@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Celebrating Black Girl Magic✨ in Canada, at full volume\. Happy Black History Month! Cover: Jully Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,362 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,373 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 42 | [DNA](https://open.spotify.com/track/2pynCI5GBvS41YlbkA7Yhh) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 3:17 |
 | 43 | [Notice](https://open.spotify.com/track/1d8NaDZjTmhrK37QPoEhQ8) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [Detour](https://open.spotify.com/album/0KlHnk9uAnCNFHwtc66L3o) | 2:41 |
 | 44 | [Appreciate](https://open.spotify.com/track/4C8k8q2qdW8wyMyXE7OoXN) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [Unloved](https://open.spotify.com/album/2gU20Y29JJwRqua7w1AkCZ) | 3:17 |
-| 45 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 |
+| 45 | [Only With Time](https://open.spotify.com/track/0xTZ5PCUersxLyUiLgNp2U) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/2lq4xT9TgZb6Rcio6x4P0N) | 5:06 |
 | 46 | [It Kills Me](https://open.spotify.com/track/6qU37BgVfPhpb2rhYzZWrF) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The Bridge](https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z) | 4:10 |
 | 47 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 |
 | 48 | [Stay In Luv](https://open.spotify.com/track/7BkyJod32Yoocn72Jj2JYS) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Stay In Luv](https://open.spotify.com/album/7kmPzrAYg0lTax8XIfDNjM) | 3:22 |
 | 49 | [Honey](https://open.spotify.com/track/6Syx4A5TCsEWGwXktOVcHg) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 3:21 |
 | 50 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 
-Snapshot ID: `MTY0Mzk1MDgwMCwwMDAwMDAxNjAwMDAwMTdlYzMxYTdkM2EwMDAwMDE3ZWI2ZDcxMmM4`
+Snapshot ID: `MTY0NDYxNjEzNywwMDAwMDAxNzAwMDAwMTdlZWFjMmJjMWIwMDAwMDE3ZWI2ZDcxMmM4`

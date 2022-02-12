@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUEZXXfFphen.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUEZXXfFphen) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUEZXXfFphen)
 
-### LolliPOP
+### [LolliPOP](https://open.spotify.com/playlist/56Cy6V7Uuo7ehC2UnFSsKF)
 
 > Los sonidos más dulces del pop.
 

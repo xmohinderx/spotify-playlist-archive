@@ -246,6 +246,28 @@
     },
     {
       "album": {
+        "name": "bioMACHiNA",
+        "url": "https://open.spotify.com/album/1FG5jVKV1MgWLSIUa2msk1"
+      },
+      "artists": [
+        {
+          "name": "shinigami",
+          "url": "https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA"
+        },
+        {
+          "name": "Billy Martin",
+          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157406,
+      "name": "bioMACHiNA",
+      "url": "https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX"
+    },
+    {
+      "album": {
         "name": "Karu",
         "url": "https://open.spotify.com/album/1LUk4jMz426TXcyRvd6yoa"
       },
@@ -1545,6 +1567,24 @@
       "duration_ms": 228841,
       "name": "Misguided",
       "url": "https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX"
+    },
+    {
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
+      },
+      "artists": [
+        {
+          "name": "Wake Up Hate",
+          "url": "https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204765,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
     },
     {
       "album": {

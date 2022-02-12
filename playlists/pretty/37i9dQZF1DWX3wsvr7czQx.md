@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Bryan Adams
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,592 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,603 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 |
 | 2 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 |
-| 3 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 |
-| 4 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 |
-| 5 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI) | 4:07 |
+| 3 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 |
+| 4 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 |
+| 5 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 |
 | 6 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 |
 | 7 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 |
 | 8 | [One Hell Of A Life](https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7) | 5:23 |
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 48 | [One More Time](https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [One More Time](https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y) | 3:58 |
 | 49 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 |
 | 50 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 |
-| 51 | [Scream](https://open.spotify.com/track/1X8eckB81MHBEcixZkvJW9) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 2:11 |
 
-Snapshot ID: `MTY0MzM0NjA2MCwwMDAwMDAxMDAwMDAwMTdlOWYwZWUzNmIwMDAwMDE3ZTliZGJiM2Y5`
+Snapshot ID: `MTY0NDU1NTY2MCwwMDAwMDAxMTAwMDAwMTdlZTcyN2ViN2UwMDAwMDE3ZTliZGJiM2Y5`

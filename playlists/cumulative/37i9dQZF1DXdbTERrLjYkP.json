@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lyn Lapid",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Maddie Zahm",
   "name": "Next Gen Singer-Songwriters",
   "published_playlist_ids": [
     "5yqeqnGwA3WW1b3xVN4nfp"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "see you later",
+        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207740,
+      "name": "2%",
+      "url": "https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg"
+    },
     {
       "album": {
         "name": "A Woman's World",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 158680,
       "name": "A Woman's World",
       "url": "https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 165801,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 188979,
       "name": "Bottle of Advil",
       "url": "https://open.spotify.com/track/5BTOOI9Cesm2UungR9HiWj"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 161024,
       "name": "Come On Over",
       "url": "https://open.spotify.com/track/5nIdoIyDQQOfT39DH0c5vc"
@@ -391,6 +409,24 @@
       "duration_ms": 168620,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi"
+    },
+    {
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5wSFHnE20dPUeOVE9AGx6w"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220656,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/7zF3Vmh0KRdw4lSRZtXCuP"
     },
     {
       "album": {
@@ -567,7 +603,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 158048,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/1FzXRK8g8TxVdL8UjSWaRC"
@@ -629,6 +665,24 @@
       "duration_ms": 239093,
       "name": "Fucked Up Together",
       "url": "https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7"
+    },
+    {
+      "album": {
+        "name": "girl like me",
+        "url": "https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED"
+      },
+      "artists": [
+        {
+          "name": "Blessing",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178447,
+      "name": "girl like me",
+      "url": "https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF"
     },
     {
       "album": {
@@ -866,6 +920,24 @@
     },
     {
       "album": {
+        "name": "If It's Not You",
+        "url": "https://open.spotify.com/album/5E8CU9zmc0U9Bw1QGm9oOk"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191989,
+      "name": "If It's Not You",
+      "url": "https://open.spotify.com/track/45DsipA4OgPmKUvwz2ctEH"
+    },
+    {
+      "album": {
         "name": "if you hate me, say it",
         "url": "https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r"
       },
@@ -974,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "we're all sad here",
+        "url": "https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203470,
+      "name": "life, im over you",
+      "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
+    },
+    {
+      "album": {
         "name": "London Is Lonely",
         "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
@@ -1047,6 +1137,24 @@
       "duration_ms": 154000,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
+    },
+    {
+      "album": {
+        "name": "mona lisa",
+        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190052,
+      "name": "mona lisa",
+      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
     },
     {
       "album": {
@@ -1541,7 +1649,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 141582,
       "name": "Super Glue",
       "url": "https://open.spotify.com/track/3lqCa64sI3KAbXNBNweNuf"
@@ -1595,7 +1703,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 208787,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/13Y2OvFGijnHgFEGifRgEl"
@@ -1675,6 +1783,24 @@
       "duration_ms": 216280,
       "name": "Unrecognizable",
       "url": "https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm"
+    },
+    {
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150230,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI"
     },
     {
       "album": {

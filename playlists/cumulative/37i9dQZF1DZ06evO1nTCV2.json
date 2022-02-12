@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 210240,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 204233,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1npZLnadIut8UfjsqYSOBh"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 239546,
       "name": "Do You Still Love Me?",
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 190213,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 310346,
       "name": "Hotel Chelsea Nights",
       "url": "https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 195440,
       "name": "How Much Light",
       "url": "https://open.spotify.com/track/3nXM6fSbUdWugKFCukr8ib"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 224053,
       "name": "I Wish You Would",
       "url": "https://open.spotify.com/track/7eoSnTRP8VbxcC4LvZdzn4"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 199813,
       "name": "It's So Quiet, It's Loud",
       "url": "https://open.spotify.com/track/3rX02HpSX4l5YZhdqvM4UW"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 188613,
       "name": "My Wrecking Ball",
       "url": "https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 151960,
       "name": "Oh My God, Whatever, Etc.",
       "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
@@ -1115,6 +1115,24 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/1d9M5ezx4n6D57FMG4tj1c"
+    },
+    {
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 321120,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 248280,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"

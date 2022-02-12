@@ -788,6 +788,32 @@
     },
     {
       "album": {
+        "name": "Holy Goat 2",
+        "url": "https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR"
+      },
+      "artists": [
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        },
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186302,
+      "name": "Pain in the Ghetto (feat. Trae tha Truth & Lil Jairmy)",
+      "url": "https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49"
+    },
+    {
+      "album": {
         "name": "Pallbearers",
         "url": "https://open.spotify.com/album/6calbwoH5iMDX9DhLWyqFY"
       },
@@ -1019,7 +1045,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 142853,
       "name": "Slide",
       "url": "https://open.spotify.com/track/52Yz752XxX4IgWDpC7J8f4"
@@ -1041,7 +1067,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 190863,
       "name": "Soul Ties (feat. Derez De'Shon)",
       "url": "https://open.spotify.com/track/10HzSWF46MUNO25LkqJjaW"
@@ -1081,7 +1107,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 180001,
       "name": "Thug Paradise 2",
       "url": "https://open.spotify.com/track/1wqg2VowoogPATrqPzrpi3"

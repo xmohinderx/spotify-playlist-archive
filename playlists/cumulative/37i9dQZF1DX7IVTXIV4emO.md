@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7IVTXIV4emO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7IVTXIV4emO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7IVTXIV4emO)
 
-### El Challenge
+### [El Challenge](https://open.spotify.com/playlist/2PlxD0pODH6MWxkayQF7kJ)
 
 > Desde todos los rincones de internet: Los hits más virales del momento.
 

@@ -1,13 +1,33 @@
 {
   "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Calum Scott",
-  "num_followers": 731895,
+  "num_followers": 732101,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDgwMCwwMDAwMDBkZjAwMDAwMTdlYzMxYTdkNGQwMDAwMDE3ZWMxZDBhODhj",
+  "snapshot_id": "MTY0NDU1NTcyMCwwMDAwMDBlMDAwMDAwMTdlZTcyOGQ1YTQwMDAwMDE3ZWMxZDBhODhj",
   "tracks": [
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -43,6 +63,22 @@
       "duration_ms": 159130,
       "name": "Marry Me - Kat & Bastian Duet",
       "url": "https://open.spotify.com/track/1oWXQ83ILNfQUu1cT3jTnf"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "If You Ever Change Your Mind",
+        "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 205994,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -87,22 +123,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "If You Ever Change Your Mind",
-        "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 205994,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
       },
@@ -131,6 +151,22 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 190252,
+      "name": "Don't Fade",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -327,6 +363,22 @@
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -1123,22 +1175,6 @@
       "duration_ms": 193784,
       "name": "Learning To Live Without You",
       "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I"
     },
     {
       "added_at": "2022-02-04 05:00:00",

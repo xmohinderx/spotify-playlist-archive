@@ -819,7 +819,7 @@
       ],
       "date_added": "2020-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 237800,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
@@ -3082,6 +3082,24 @@
     },
     {
       "album": {
+        "name": "JUST US TWO",
+        "url": "https://open.spotify.com/album/6NMaqBL0rfysZBo4mcyWTY"
+      },
+      "artists": [
+        {
+          "name": "Scotty Sire",
+          "url": "https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130253,
+      "name": "JUST US TWO",
+      "url": "https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A"
+    },
+    {
+      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2020-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 197448,
       "name": "Little Things (with Quinn XCII & Chelsea Cutler)",
       "url": "https://open.spotify.com/track/1OeEpViPwVi1FfdNkOoIci"
@@ -3829,6 +3847,24 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "album": {
+        "name": "mona lisa",
+        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190052,
+      "name": "mona lisa",
+      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
     },
     {
       "album": {
@@ -4726,6 +4762,24 @@
     },
     {
       "album": {
+        "name": "Rocket On My Feet",
+        "url": "https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "Rocket On My Feet",
+      "url": "https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7"
+    },
+    {
+      "album": {
         "name": "Rocky",
         "url": "https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur"
       },
@@ -5153,7 +5207,7 @@
       ],
       "date_added": "2020-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 200300,
       "name": "Someone Else\u2019s Dream",
       "url": "https://open.spotify.com/track/0N7uBJVtUegyKXKegKgjHX"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 204626,
       "name": "25 million",
       "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 207394,
       "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) - REMIX",
       "url": "https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 164579,
       "name": "Got It On Me",
       "url": "https://open.spotify.com/track/2UYGC1AQpguCOBJRQUOeeU"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 195428,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/4lzWu0lHUWhiRV9egR0i2c"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 168728,
       "name": "No Return (with The Kid LAROI & Lil Durk)",
       "url": "https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 93360,
       "name": "Prada",
       "url": "https://open.spotify.com/track/3ATol3XapQQYmtD4vFud79"
@@ -1271,6 +1271,32 @@
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK"
+    },
+    {
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv"
     },
     {
       "album": {
@@ -1329,7 +1355,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 159082,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
@@ -1369,7 +1395,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 139742,
       "name": "Rich Rich",
       "url": "https://open.spotify.com/track/4edV6rg1hj1SsTIrcEMPvi"
@@ -1405,7 +1431,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 120110,
       "name": "Rookie Of The Year",
       "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
@@ -1645,7 +1671,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
@@ -1825,7 +1851,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 204434,
       "name": "The Jackie (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
@@ -1885,7 +1911,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 267090,
       "name": "THIS IS MY YEAR (feat. A Boogie Wit Da Hoodie, Big Sean, Rick Ross & Puff Daddy)",
       "url": "https://open.spotify.com/track/3pBt8B92anUJVIllwPrIuR"
@@ -2027,7 +2053,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 121650,
       "name": "Vaccine",
       "url": "https://open.spotify.com/track/3SDCwIs4eizbx4rDIgB9Lf"
@@ -2053,6 +2079,50 @@
       "duration_ms": 192956,
       "name": "Wants and Needs (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/6rWrQmCAsrocRq5HL2dqgU"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166871,
+      "name": "War",
+      "url": "https://open.spotify.com/track/49KTdYsWNtkvOslTpgZuM1"
+    },
+    {
+      "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/5eqTka1OOCY7pYK9kZLhdy"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212801,
+      "name": "Warzone (feat. Headie One)",
+      "url": "https://open.spotify.com/track/0IJM1hkBCOibW2TJcLJTtf"
     },
     {
       "album": {
@@ -2175,6 +2245,32 @@
       "duration_ms": 279853,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
+    },
+    {
+      "album": {
+        "name": "Strick Land",
+        "url": "https://open.spotify.com/album/4Cg7mTLEXHqBm15pxVFOYV"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Strick",
+          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "WokStar (feat. Strick & Skepta)",
+      "url": "https://open.spotify.com/track/5JE9mFi2S2d8dKEXGkh93L"
     },
     {
       "album": {

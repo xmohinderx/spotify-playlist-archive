@@ -1,13 +1,29 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1042456,
+  "num_followers": 1043000,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU0MDI1NSwwMDAwMDAwMDM4MjkyOGJhMzM2Y2ZlY2Y1MGFlZTc0MWMzZjk1YWE3",
+  "snapshot_id": "MTY0NDYyNjY5NywwMDAwMDAwMDMxMGM2OTc0YjBjNjdlZDQ5YmY5NTc3MDkxYWI0OGM1",
   "tracks": [
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/7LolR1vd0KTozbF1an0SlW"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 255040,
+      "name": "When I Need You",
+      "url": "https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk"
+    },
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Barry Manilow II",
-        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/7LolR1vd0KTozbF1an0SlW"
+        "name": "Barry Manilow II",
+        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 255040,
-      "name": "When I Need You",
-      "url": "https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk"
+      "duration_ms": 213333,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Do That To Me One More Time",
-      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
         "name": "Warmer",
         "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
       },
@@ -123,50 +107,34 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Classics (Vol.4)",
-        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 162973,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7GnMeBxDvE6wJ4Iu6Xdb2a"
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
       },
       "artists": [
         {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Longer",
-      "url": "https://open.spotify.com/track/56ilrbKJF2bph5W6eZaM5E"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "The Best of Bread",
-        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
+      "duration_ms": 256666,
+      "name": "Do That To Me One More Time",
+      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -187,50 +155,66 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+        "name": "The Best of Bread",
+        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
       "artists": [
         {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
     },
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Longer Fuse",
-        "url": "https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7GnMeBxDvE6wJ4Iu6Xdb2a"
       },
       "artists": [
         {
-          "name": "Dan Hill",
-          "url": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
         }
       ],
-      "duration_ms": 252707,
-      "name": "Sometimes When We Touch",
-      "url": "https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN"
+      "duration_ms": 195066,
+      "name": "Longer",
+      "url": "https://open.spotify.com/track/56ilrbKJF2bph5W6eZaM5E"
     },
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "name": "Mud Slide Slim and the Blue Horizon",
+        "url": "https://open.spotify.com/album/0h8hazllDADHsrSpcQCltk"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 256146,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+      "duration_ms": 268706,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Favourites In Originals",
+        "url": "https://open.spotify.com/album/0Zkdg8GH6pthI7sXlmwlFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/7baEqeZB8yuAqhMqG6qepN"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -267,66 +251,34 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+        "name": "Longer Fuse",
+        "url": "https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Dan Hill",
+          "url": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
         }
       ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+      "duration_ms": 252707,
+      "name": "Sometimes When We Touch",
+      "url": "https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN"
     },
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Mud Slide Slim and the Blue Horizon",
-        "url": "https://open.spotify.com/album/0h8hazllDADHsrSpcQCltk"
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 268706,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Favourites In Originals",
-        "url": "https://open.spotify.com/album/0Zkdg8GH6pthI7sXlmwlFZ"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/7baEqeZB8yuAqhMqG6qepN"
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -347,50 +299,66 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "The Best of Bread",
-        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 176853,
-      "name": "Lost Without Your Love",
-      "url": "https://open.spotify.com/track/78DSnVdZiuakQPwV0ler7s"
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
     },
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "Touch Me In The Morning",
+        "url": "https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 308973,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
+      "duration_ms": 207413,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
     },
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -411,6 +379,22 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6"
       },
@@ -423,22 +407,6 @@
       "duration_ms": 178266,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -459,38 +427,6 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Up-Up And Away: The Definitive Collection",
-        "url": "https://open.spotify.com/album/79u80xZhib9Xr523whX9rU"
-      },
-      "artists": [
-        {
-          "name": "The 5th Dimension",
-          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Last Night I Didn't Get to Sleep at All - Remastered 1997",
-      "url": "https://open.spotify.com/track/00nCUS4wDMiWZqmpDj1b1S"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/2yhzRrIyT4X3rGZKE0MrCv"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Yesterday Once More",
-      "url": "https://open.spotify.com/track/24Qo0pcx4gjBNQNp1cTOVw"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N"
       },
@@ -503,6 +439,22 @@
       "duration_ms": 398506,
       "name": "Three Times A Lady",
       "url": "https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -523,22 +475,6 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Nilsson Schmilsson",
-        "url": "https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Without You - Remastered",
-      "url": "https://open.spotify.com/track/02gV5Zc9ctbZxD1uTNIok5"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
         "name": "The Way We Were",
         "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
       },
@@ -555,50 +491,18 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "The Best of Bread",
+        "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Eric Carmen",
-        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Rockin' Roll Baby",
-        "url": "https://open.spotify.com/album/7wb65kxx7K5nEweUPiWw5N"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 330186,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/3QgsPdDBXZKrpa2iQndFnZ"
+      "duration_ms": 176853,
+      "name": "Lost Without Your Love",
+      "url": "https://open.spotify.com/track/78DSnVdZiuakQPwV0ler7s"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -619,38 +523,6 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
-    },
-    {
-      "added_at": "2022-02-08 05:30:28",
-      "album": {
         "name": "Of A Simple Man",
         "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
       },
@@ -667,18 +539,18 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "David Soul",
-        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
+        "name": "Nilsson Schmilsson",
+        "url": "https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP"
       },
       "artists": [
         {
-          "name": "David Soul",
-          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
         }
       ],
-      "duration_ms": 218946,
-      "name": "Don't give up on us",
-      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+      "duration_ms": 203000,
+      "name": "Without You - Remastered",
+      "url": "https://open.spotify.com/track/02gV5Zc9ctbZxD1uTNIok5"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -699,6 +571,86 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Rockin' Roll Baby",
+        "url": "https://open.spotify.com/album/7wb65kxx7K5nEweUPiWw5N"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 330186,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/3QgsPdDBXZKrpa2iQndFnZ"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
         "name": "Hopelessly Devoted: The Hits",
         "url": "https://open.spotify.com/album/4LZhAy9UsJ0EiqqeKyrlts"
       },
@@ -715,18 +667,34 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/2yhzRrIyT4X3rGZKE0MrCv"
       },
       "artists": [
         {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+      "duration_ms": 233533,
+      "name": "Yesterday Once More",
+      "url": "https://open.spotify.com/track/24Qo0pcx4gjBNQNp1cTOVw"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -747,18 +715,18 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+        "name": "David Soul",
+        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
       },
       "artists": [
         {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+          "name": "David Soul",
+          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
         }
       ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+      "duration_ms": 218946,
+      "name": "Don't give up on us",
+      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
     },
     {
       "added_at": "2022-02-08 05:30:28",
@@ -779,6 +747,22 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
         "name": "Elvis (Fool)",
         "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2022-02-08 05:30:28",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
         }
       ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+      "duration_ms": 345240,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+    },
+    {
+      "added_at": "2022-02-08 05:30:28",
+      "album": {
+        "name": "Simple Dreams",
+        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 239399,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
     }
   ],
   "unique_name": "70s Love Songs",

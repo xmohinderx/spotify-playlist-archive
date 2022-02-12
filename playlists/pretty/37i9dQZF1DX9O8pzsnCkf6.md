@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8pzsnCkf6.md) - [plain]
 
 > A collection of sessions from some of the best comedians of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,915 likes - 146 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,914 likes - 146 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

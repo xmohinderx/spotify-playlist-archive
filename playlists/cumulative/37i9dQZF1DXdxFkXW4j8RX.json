@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 154672,
       "name": "$in Trono$",
       "url": "https://open.spotify.com/track/2JcW66bqlZB9VelkaZ1yaI"
@@ -223,6 +223,28 @@
       "duration_ms": 170364,
       "name": "CA",
       "url": "https://open.spotify.com/track/7mKQTOFOkOZKkRRqwycXS5"
+    },
+    {
+      "album": {
+        "name": "Cactus Jack (Crema Lirical #4)",
+        "url": "https://open.spotify.com/album/6jg2M7GCI3E5GQyjHGWi6n"
+      },
+      "artists": [
+        {
+          "name": "Claudio Bastardo",
+          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
+        },
+        {
+          "name": "Chicho Beats",
+          "url": "https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161833,
+      "name": "Cactus Jack (Crema Lirical #4)",
+      "url": "https://open.spotify.com/track/11KJuoeSk4CaobzFOWEMiI"
     },
     {
       "album": {
@@ -1570,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Rimas Bravas",
+        "url": "https://open.spotify.com/album/2aXT7tp2VhvKzY8JLFmIom"
+      },
+      "artists": [
+        {
+          "name": "Adickta Sinfon\u00eda",
+          "url": "https://open.spotify.com/artist/3McbjZPGQECT5OMujemGpi"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "Rimas Bravas",
+      "url": "https://open.spotify.com/track/3AY1xH0YVYggPz4AKajxvE"
+    },
+    {
+      "album": {
         "name": "Salsa Pa Mojar",
         "url": "https://open.spotify.com/album/2xky3eAe6BF7xkNOnoN5xQ"
       },
@@ -2261,7 +2301,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 224430,
       "name": "You Know How We Do",
       "url": "https://open.spotify.com/track/7t5qzk4RrGxZ4m7oQZKnne"

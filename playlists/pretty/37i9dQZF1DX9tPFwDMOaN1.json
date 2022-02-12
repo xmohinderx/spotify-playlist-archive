@@ -1,15 +1,31 @@
 {
-  "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: ATEEZ",
-  "num_followers": 3485304,
+  "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: Jung Kook",
+  "num_followers": 3493297,
   "original_name": "K-Pop Daebak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU0MDYwMiwwMDAwMDAwMDdkYWJmZmZmOTE4NTlmOWVhNWFmOTg0ZGVjYjNhOTZj",
+  "snapshot_id": "MTY0NDYyNzE2OCwwMDAwMDAwMDdmNDNjNWVlNGUwNjQzYWIwMTM3ZmY5NTlkODVhMGYx",
   "tracks": [
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
-      "added_at": "2022-02-10 03:48:46",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Child - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
@@ -73,7 +89,23 @@
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "2021 Winter SMTOWN : SMCU EXPRESS",
         "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/3xQH4yPHm6qVmV0JH7iaT5"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "MAMA THE IDOL",
         "url": "https://open.spotify.com/album/5vcF3WhSZFnDO6oL1A4VNR"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/4DKDfm5OLW1dIOEAH76Zmg"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Can't Control Myself",
         "url": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "IN:VITE U",
         "url": "https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "B",
         "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "[REC.]",
         "url": "https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Dreams Come True - SM STATION",
         "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Christmas EveL",
         "url": "https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Yummy Yummy Love",
         "url": "https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Street Dance Girls Fighter(SGF) Special",
         "url": "https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Happy Death Day",
         "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Cold Blooded",
         "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Return of The Girl",
         "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
@@ -645,23 +677,7 @@
       "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
-      "album": {
-        "name": "Devil - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR"
-      },
-      "artists": [
-        {
-          "name": "MAX CHANGMIN",
-          "url": "https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn"
-    },
-    {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "DISHARMONY : FIND OUT",
         "url": "https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
@@ -693,23 +709,7 @@
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
-      "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 181760,
-      "name": "Queendom",
-      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
-    },
-    {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Alcohol-Free",
         "url": "https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "4 ONLY",
         "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
     },
     {
-      "added_at": "2022-02-03 06:40:36",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"

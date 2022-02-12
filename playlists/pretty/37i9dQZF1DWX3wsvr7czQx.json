@@ -1,12 +1,12 @@
 {
   "description": "Icons only. Cover: Bryan Adams",
-  "num_followers": 2592,
+  "num_followers": 2603,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjA2MCwwMDAwMDAxMDAwMDAwMTdlOWYwZWUzNmIwMDAwMDE3ZTliZGJiM2Y5",
+  "snapshot_id": "MTY0NDU1NTY2MCwwMDAwMDAxMTAwMDAwMTdlZTcyN2ViN2UwMDAwMDE3ZTliZGJiM2Y5",
   "tracks": [
     {
       "added_at": "2022-01-28 05:01:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Blue Bonnet Breeze",
+        "url": "https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 319266,
+      "name": "Blue Bonnet Breeze",
+      "url": "https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61"
+    },
+    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Act of Love",
@@ -75,22 +91,6 @@
       "duration_ms": 235613,
       "name": "Break The Man",
       "url": "https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c"
-    },
-    {
-      "added_at": "2022-01-14 14:30:55",
-      "album": {
-        "name": "Big Dreams and Faded Jeans",
-        "url": "https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "Big Dreams and Faded Jeans",
-      "url": "https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -859,22 +859,6 @@
       "duration_ms": 217000,
       "name": "We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song",
       "url": "https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Lindsey Buckingham",
-        "url": "https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 131986,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/1X8eckB81MHBEcixZkvJW9"
     }
   ],
   "unique_name": "Classic Artists New Music",

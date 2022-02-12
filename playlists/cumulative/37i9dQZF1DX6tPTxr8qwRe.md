@@ -2,7 +2,7 @@
 
 ### [SALT](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
-> Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Mad Tsai
+> Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Cloudy June
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10,12 +10,16 @@
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 |  |
 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 | 2022-01-28 |  |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-11-12 |  |
+| [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-11 |  |
+| [Broken](https://open.spotify.com/track/6yFuexjIGUagtt3fyLgJgb) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Broken](https://open.spotify.com/album/7o1htT58cH7mxL1ow9QOB8) | 3:02 | 2022-02-11 |  |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-12-24 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 |  |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 |  |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/5KJmWpLw1VpmJDSGp9zr3y) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/20TIqhqCGg1APlKuQGmCri) | 2:48 | 2021-09-17 |  |
+| [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-11 |  |
 | [cut my fingers off](https://open.spotify.com/track/32R0306OOQN1q0XJzoi9NH) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/1saNgGCJZpAqsvnUZypMc2) | 2:19 | 2021-11-12 |  |
 | [Dark Side](https://open.spotify.com/track/2vvMmPGdcZPOXZycjGEqja) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Dark Side](https://open.spotify.com/album/1QJaDupeRe0iuHCijci8f6) | 2:51 | 2021-12-31 |  |
+| [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 |  |
 | [Dirty Thoughts](https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil) | 2:09 | 2021-11-05 |  |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 |  |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 |  |
@@ -43,6 +47,7 @@
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-09-10 |  |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2021-10-29 |  |
 | [Kind of Love](https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Kind of Love](https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0) | 3:38 | 2022-01-14 |  |
+| [Kiss And Tell](https://open.spotify.com/track/5Zi2tbxAaZQGkFWU8QdSqU) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Kiss And Tell](https://open.spotify.com/album/6iOn23WerrBcb3rSLRqMlT) | 2:32 | 2022-02-11 |  |
 | [LEVITATE](https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LEVITATE](https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay) | 3:03 | 2022-01-14 |  |
 | [Lilith](https://open.spotify.com/track/697u6iOThAZBF8mx2MhPSU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 2:47 | 2022-02-04 |  |
 | [little boy](https://open.spotify.com/track/7xe5j7CnB63ejlzg5Y5H9Q) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:46 | 2022-01-28 |  |
@@ -57,6 +62,8 @@
 | [Queen Of Ice](https://open.spotify.com/track/0PzcMfqECraaBGxX7zr7wV) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Queen of Ice](https://open.spotify.com/album/3lKrTWon6PLcdzIjgTAOWm) | 4:04 | 2021-11-05 |  |
 | [R.I.P.](https://open.spotify.com/track/2NsT14VbcsVEZksjccxkvH) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [R.I.P.](https://open.spotify.com/album/6AIk8FOlSBxFtJik5iuyBq) | 2:56 | 2021-12-10 |  |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 |  |
+| [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 |  |
+| [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/track/47mzGm0Jp2OzKOuK1T7mYI) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/album/6NcKtumpdHtY6Mbcmb4nci) | 2:42 | 2022-02-11 |  |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-04 |  |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-07 |  |
 | [She Knows It](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [She Knows It](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 |  |
@@ -70,7 +77,7 @@
 | [Sugared Up](https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Sugared Up](https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my) | 2:33 | 2021-11-12 |  |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 |  |
 | [sweet and sour](https://open.spotify.com/track/6HxDuyJRMGCTogdIjzZTNl) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [sweet and sour](https://open.spotify.com/album/2iajLyL99sPi81AaxMR6SJ) | 2:58 | 2021-12-10 |  |
-| [Tangled Up In Me](https://open.spotify.com/track/0Z7NAD9A7qQS9WpYvMh5gL) | [Skye Sweetnam](https://open.spotify.com/artist/6GmanMVkSuu0Dsn86ZW9lK) | [Tangled Up In Me](https://open.spotify.com/album/7f0Az4nWIf7sRvBPyooafw) | 2:52 | 2022-02-04 |  |
+| [Tangled Up In Me](https://open.spotify.com/track/0Z7NAD9A7qQS9WpYvMh5gL) | [Skye Sweetnam](https://open.spotify.com/artist/6GmanMVkSuu0Dsn86ZW9lK) | [Tangled Up In Me](https://open.spotify.com/album/7f0Az4nWIf7sRvBPyooafw) | 2:52 | 2022-02-04 | 2022-02-12 |
 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 | 2022-01-21 |  |
 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 | 2022-01-14 |  |
 | [Therapy](https://open.spotify.com/track/0wvj3kJpZIyu7eYfxeKn3g) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Therapy](https://open.spotify.com/album/5c0knxfQLKoNV5BwB7DKWH) | 2:18 | 2022-01-28 |  |

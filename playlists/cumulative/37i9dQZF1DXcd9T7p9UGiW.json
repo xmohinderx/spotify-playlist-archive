@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=SdYL_4YqTLeGftktNOmp_w\"> Adekunle Gold </a> and <a href=\"https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq?si=XVKRvFFsS262ROEK3X578A\"> Ty Dollar $ign </a>",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=GYiQiQm1RB6tHMR1E1cv0Q\"> 21 Savage </a>, <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=mlHgBMbNRPCUyHcFRFGBbw\"> Fireboy DML </a> and <a href=\"https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL?si=XO1D-NAhQlSfKvimxsNpIA\"> Blxst </a>",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 215551,
       "name": "Amnesia (with Ari Lennox & Kiddominant)",
       "url": "https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3"
@@ -1382,6 +1382,32 @@
     },
     {
       "album": {
+        "name": "Peru (with 21 Savage & Blxst)",
+        "url": "https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186952,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
+    },
+    {
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
       },
@@ -1870,6 +1896,58 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/7KBOOn3YgfxMjezktYV4Wu"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181760,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4ORAkX4CM5ErQGb65Ub5ji"
+    },
+    {
+      "album": {
+        "name": "Summer in the Ends (Juls Zikomo Remix)",
+        "url": "https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Zikomo",
+          "url": "https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225267,
+      "name": "Summer in the Ends - Juls Zikomo Remix",
+      "url": "https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn"
+    },
+    {
+      "album": {
         "name": "System (feat. WizKid)",
         "url": "https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM"
       },
@@ -2039,7 +2117,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 208968,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
@@ -2083,7 +2161,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 259306,
       "name": "Wasted Energy (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/09vOpQsWEd7lK1OYGVhPH9"

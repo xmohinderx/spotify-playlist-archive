@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Zeal & Ardor",
-  "num_followers": 570578,
+  "num_followers": 570786,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
+        "name": "bioMACHiNA",
+        "url": "https://open.spotify.com/album/1FG5jVKV1MgWLSIUa2msk1"
+      },
+      "artists": [
+        {
+          "name": "shinigami",
+          "url": "https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA"
+        },
+        {
+          "name": "Billy Martin",
+          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
+        }
+      ],
+      "duration_ms": 157406,
+      "name": "bioMACHiNA",
+      "url": "https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
         "name": "The Dragonborn Comes",
         "url": "https://open.spotify.com/album/5uL8yyLMCO7boYhFvSxgAr"
       },
@@ -259,6 +279,22 @@
       "duration_ms": 699313,
       "name": "Blood Upon Stone",
       "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
+      },
+      "artists": [
+        {
+          "name": "Wake Up Hate",
+          "url": "https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk"
+        }
+      ],
+      "duration_ms": 204765,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -387,6 +423,22 @@
       "duration_ms": 220074,
       "name": "Bury My Flame",
       "url": "https://open.spotify.com/track/1kRguNpOF4WiqJBn732Rvx"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
+        "name": "Black Omens",
+        "url": "https://open.spotify.com/album/3N8qZVoKr41nwD4BDWL0wo"
+      },
+      "artists": [
+        {
+          "name": "Dog Fashion Disco",
+          "url": "https://open.spotify.com/artist/150pf0yE8MFgrMzAplQXmq"
+        }
+      ],
+      "duration_ms": 303733,
+      "name": "Black Omens",
+      "url": "https://open.spotify.com/track/5957HymGq70So6YYScSRwI"
     },
     {
       "added_at": "2022-02-11 00:01:00",

@@ -1354,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/2xKakGV3jfL6ghykptVMpF"
+      },
+      "artists": [
+        {
+          "name": "Xenia (UA)",
+          "url": "https://open.spotify.com/artist/4Ge7e4OovxABUtAAhLhk8n"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284785,
+      "name": "Don't Stop - Original Mix",
+      "url": "https://open.spotify.com/track/4pw5gSfin1mgzW8mciI1Rr"
+    },
+    {
+      "album": {
         "name": "The Marco Faraone Remixes",
         "url": "https://open.spotify.com/album/2FntPA1J388o9Sg7aYW403"
       },
@@ -2097,6 +2115,24 @@
       "duration_ms": 437644,
       "name": "Heavy Rotation",
       "url": "https://open.spotify.com/track/3hkvpd1L1Cmf1ZvmSqXbZU"
+    },
+    {
+      "album": {
+        "name": "Hela",
+        "url": "https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305538,
+      "name": "Hela",
+      "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
     },
     {
       "album": {
@@ -2925,7 +2961,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 378181,
       "name": "Maybe I'm Wrong",
       "url": "https://open.spotify.com/track/7Azu6woSBIL0Gwj3Y79bn5"
@@ -3635,7 +3671,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 351287,
       "name": "Power",
       "url": "https://open.spotify.com/track/1VZtBR63uLVG6v0NBid5Cv"
@@ -4594,6 +4630,24 @@
     },
     {
       "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378184,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p"
+    },
+    {
+      "album": {
         "name": "Paralysis",
         "url": "https://open.spotify.com/album/2IXSswLow6vP1OPZO0jJaq"
       },
@@ -4703,7 +4757,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 407435,
       "name": "The Game",
       "url": "https://open.spotify.com/track/2ULBxi4DNecLbc9u9qUuFc"
@@ -4887,7 +4941,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 264944,
       "name": "Transformer - Original Mix",
       "url": "https://open.spotify.com/track/2VQDsarsCp6Ozz10buneOA"
@@ -5185,6 +5239,24 @@
       "duration_ms": 445530,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/55n6s78gkNHPL9NpV3eW23"
+    },
+    {
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2OMOmOG8YuYJr9ZVWqsScV"
+      },
+      "artists": [
+        {
+          "name": "Luca Agnelli",
+          "url": "https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466594,
+      "name": "Voyager - Original",
+      "url": "https://open.spotify.com/track/2zfC28DiWIP8IWGaylaTfH"
     },
     {
       "album": {

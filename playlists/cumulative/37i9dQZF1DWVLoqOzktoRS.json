@@ -328,28 +328,6 @@
     },
     {
       "album": {
-        "name": "The Complete Solo Guitar Music: Heitor Villa-Lobos",
-        "url": "https://open.spotify.com/album/1ULTJVkLSizWYzz9PqKFFa"
-      },
-      "artists": [
-        {
-          "name": "Fabio Zanon",
-          "url": "https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9"
-        },
-        {
-          "name": "Heitor Villa-Lobos",
-          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
-        }
-      ],
-      "date_added": "2022-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 278693,
-      "name": "Five Preludes, No. 1 In E Minor",
-      "url": "https://open.spotify.com/track/0hyB8nQAuNkjO4djeVbkA8"
-    },
-    {
-      "album": {
         "name": "Piazzolla / Five Tango Sensations",
         "url": "https://open.spotify.com/album/2bTSNmLE1THh68IfCqb0wO"
       },
@@ -965,6 +943,28 @@
       "duration_ms": 257279,
       "name": "Planetarium",
       "url": "https://open.spotify.com/track/70RecAVg5QudOXfJs64sM5"
+    },
+    {
+      "album": {
+        "name": "Heitor Villa-Lobos: The Complete Solo Guitar Music",
+        "url": "https://open.spotify.com/album/1ULTJVkLSizWYzz9PqKFFa"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Fabio Zanon",
+          "url": "https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278693,
+      "name": "Preludes, W419: No. 1 in E Minor",
+      "url": "https://open.spotify.com/track/0hyB8nQAuNkjO4djeVbkA8"
     },
     {
       "album": {

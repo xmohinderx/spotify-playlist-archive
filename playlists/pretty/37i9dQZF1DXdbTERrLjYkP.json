@@ -1,29 +1,13 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lyn Lapid",
-  "num_followers": 50411,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Maddie Zahm",
+  "num_followers": 50507,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQzNDc2MCwwMDAwMDA0MTAwMDAwMTdlZGZmMzIzYTAwMDAwMDE3ZWE3MTI3YTc3",
+  "snapshot_id": "MTY0NDU1NTcyMCwwMDAwMDA0MjAwMDAwMTdlZTcyOGQ1YTQwMDAwMDE3ZWRjZjBlYjBi",
   "tracks": [
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "I Guess That Was Goodbye",
-        "url": "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "I Guess That Was Goodbye",
-      "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
-    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -39,54 +23,6 @@
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Symphony Sessions",
-        "url": "https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6"
-      },
-      "artists": [
-        {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "More Than the Day Before",
-      "url": "https://open.spotify.com/track/2Rj8dzTs5H0vjCf6Aqlkyf"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Terrified",
-        "url": "https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2"
-      },
-      "artists": [
-        {
-          "name": "Brynn Elliott",
-          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
-        }
-      ],
-      "duration_ms": 145361,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Remember me Happy",
-        "url": "https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 141096,
-      "name": "Remember me Happy",
-      "url": "https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -105,6 +41,70 @@
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "see you later",
+        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 207740,
+      "name": "2%",
+      "url": "https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "mona lisa",
+        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 190052,
+      "name": "mona lisa",
+      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "I Guess That Was Goodbye",
+        "url": "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "I Guess That Was Goodbye",
+      "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5wSFHnE20dPUeOVE9AGx6w"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 220656,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/7zF3Vmh0KRdw4lSRZtXCuP"
+    },
+    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
@@ -121,6 +121,118 @@
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "we're all sad here",
+        "url": "https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "life, im over you",
+      "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "If It's Not You",
+        "url": "https://open.spotify.com/album/5E8CU9zmc0U9Bw1QGm9oOk"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 191989,
+      "name": "If It's Not You",
+      "url": "https://open.spotify.com/track/45DsipA4OgPmKUvwz2ctEH"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2"
+      },
+      "artists": [
+        {
+          "name": "Brynn Elliott",
+          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
+        }
+      ],
+      "duration_ms": 145361,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "girl like me",
+        "url": "https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED"
+      },
+      "artists": [
+        {
+          "name": "Blessing",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 178447,
+      "name": "girl like me",
+      "url": "https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Symphony Sessions",
+        "url": "https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "More Than the Day Before",
+      "url": "https://open.spotify.com/track/2Rj8dzTs5H0vjCf6Aqlkyf"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Remember me Happy",
+        "url": "https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 141096,
+      "name": "Remember me Happy",
+      "url": "https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw"
+    },
+    {
       "added_at": "2022-01-28 05:15:10",
       "album": {
         "name": "I Lost Myself In Loving You",
@@ -135,6 +247,38 @@
       "duration_ms": 201306,
       "name": "I Lost Myself In Loving You",
       "url": "https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V"
+    },
+    {
+      "added_at": "2022-02-09 19:26:00",
+      "album": {
+        "name": "Only Emotion",
+        "url": "https://open.spotify.com/album/6UxOg4nG9oarhtHFQghmbC"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 205965,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/55tJrxAsKjmkFK1PMSY5Uh"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 150230,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -169,20 +313,36 @@
       "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
     },
     {
-      "added_at": "2022-02-09 19:26:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Only Emotion",
-        "url": "https://open.spotify.com/album/6UxOg4nG9oarhtHFQghmbC"
+        "name": "The New Me",
+        "url": "https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF"
       },
       "artists": [
         {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 205965,
-      "name": "Your World",
-      "url": "https://open.spotify.com/track/55tJrxAsKjmkFK1PMSY5Uh"
+      "duration_ms": 143774,
+      "name": "The New Me",
+      "url": "https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "drunk text me",
+        "url": "https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -219,6 +379,26 @@
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "this house is not a home",
+        "url": "https://open.spotify.com/album/4sfBi3CDkc1y3k5MiReoLJ"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        },
+        {
+          "name": "Delanie Leclerc",
+          "url": "https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "this house is not a home",
+      "url": "https://open.spotify.com/track/7CKDmTfTBNp6cezLioRqRs"
     },
     {
       "added_at": "2022-01-28 05:15:10",
@@ -269,22 +449,6 @@
       "url": "https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "drunk text me",
-        "url": "https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Til Death Do Us Part",
@@ -299,26 +463,6 @@
       "duration_ms": 190119,
       "name": "Til Death Do Us Part",
       "url": "https://open.spotify.com/track/4HkyqRGphINv1xhlP7xPEC"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "this house is not a home",
-        "url": "https://open.spotify.com/album/4sfBi3CDkc1y3k5MiReoLJ"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        },
-        {
-          "name": "Delanie Leclerc",
-          "url": "https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "this house is not a home",
-      "url": "https://open.spotify.com/track/7CKDmTfTBNp6cezLioRqRs"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -479,22 +623,6 @@
       "duration_ms": 215783,
       "name": "What Did I Do?",
       "url": "https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -675,22 +803,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "The New Me",
-        "url": "https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 143774,
-      "name": "The New Me",
-      "url": "https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Brooklyn (Stripped)",
         "url": "https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods"
       },
@@ -719,22 +831,6 @@
       "duration_ms": 187941,
       "name": "I Love My Birthday",
       "url": "https://open.spotify.com/track/7n7hPWER2dtJovBznJHa8W"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Girls In Purgatory (Full Moon Edition)",
-        "url": "https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 188979,
-      "name": "Bottle of Advil",
-      "url": "https://open.spotify.com/track/5BTOOI9Cesm2UungR9HiWj"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -911,42 +1007,6 @@
       "duration_ms": 114352,
       "name": "another guy",
       "url": "https://open.spotify.com/track/7GFVTeKjOqzUHFDleIKSg4"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Chaos In My Court",
-        "url": "https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 208787,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/13Y2OvFGijnHgFEGifRgEl"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Super Glue",
-        "url": "https://open.spotify.com/album/2uFLfUj0fJMwV0ZCWGiFGv"
-      },
-      "artists": [
-        {
-          "name": "Garrett Nash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        },
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 141582,
-      "name": "Super Glue",
-      "url": "https://open.spotify.com/track/3lqCa64sI3KAbXNBNweNuf"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1331,22 +1391,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/2igSIienylWy0mgiUDWQAz"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/1FzXRK8g8TxVdL8UjSWaRC"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad"
       },
@@ -1419,22 +1463,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99"
-      },
-      "artists": [
-        {
-          "name": "Victoria Bigelow",
-          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
-        }
-      ],
-      "duration_ms": 165801,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Raining in June",
         "url": "https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc"
       },
@@ -1479,38 +1507,6 @@
       "duration_ms": 131641,
       "name": "If I Had Stayed",
       "url": "https://open.spotify.com/track/2C84D0vtpGcohO5yqEnF9o"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "A Woman's World",
-        "url": "https://open.spotify.com/album/6FARllTFyAyPTIhowt7GlX"
-      },
-      "artists": [
-        {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "A Woman's World",
-      "url": "https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/2mEhOdeOpA8kaUjjUTtv5l"
-      },
-      "artists": [
-        {
-          "name": "Tadhg Daly",
-          "url": "https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1"
-        }
-      ],
-      "duration_ms": 161024,
-      "name": "Come On Over",
-      "url": "https://open.spotify.com/track/5nIdoIyDQQOfT39DH0c5vc"
     },
     {
       "added_at": "2022-01-14 05:00:00",

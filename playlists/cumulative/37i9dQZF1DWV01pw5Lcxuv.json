@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-10",
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
   "name": "Mam\u00e1 80era",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2bFb9aU7QO0KHEjsEO6R11"
+  ],
   "tracks": [
     {
       "album": {
@@ -925,7 +927,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 203293,
       "name": "Me He Quedado Solo",
       "url": "https://open.spotify.com/track/6mKVbX1PQ7G6fhkm78V81M"
@@ -1231,7 +1233,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 294720,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"

@@ -376,6 +376,28 @@
     },
     {
       "album": {
+        "name": "Estar contigo (feat. La Oreja de Van Gogh)",
+        "url": "https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237662,
+      "name": "Estar contigo (feat. La Oreja de Van Gogh)",
+      "url": "https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd"
+    },
+    {
+      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 264098,
       "name": "Yo No Quiero Suerte",
       "url": "https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ"

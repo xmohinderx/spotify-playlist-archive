@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Fuerza Regida",
+  "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Blessd",
   "name": "Rompiendo: Los Angeles",
   "published_playlist_ids": [
     "0bH4Nye50v2mRRde9njJas"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
     {
       "album": {
         "name": "VICE VERSA",
@@ -372,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Chambeando Recio",
+        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157749,
+      "name": "Chambeando Recio",
+      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
+    },
+    {
+      "album": {
         "name": "Cheke",
         "url": "https://open.spotify.com/album/5UmOV738LE6vxICB1PFA4x"
       },
@@ -395,10 +431,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 173472,
       "name": "Cheke",
       "url": "https://open.spotify.com/track/4wW6kTYioZi3bgV3515bun"
+    },
+    {
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "album": {
@@ -485,7 +539,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
@@ -631,7 +685,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 211933,
       "name": "El Valor De Un Var\u00f3n",
       "url": "https://open.spotify.com/track/40Q8hCWZLdaGGrNakSXD84"
@@ -1106,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -1179,10 +1255,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 162548,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/2AlHpf178cwGhoBUEyhBUv"
+    },
+    {
+      "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY"
     },
     {
       "album": {
@@ -1197,7 +1291,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 148943,
       "name": "Mi Virgencita - En vivo",
       "url": "https://open.spotify.com/track/1oqDXucn9xq9w0Yh6jdwCi"
@@ -1314,6 +1408,46 @@
     },
     {
       "album": {
+        "name": "Otra Noche en L.A.",
+        "url": "https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211474,
+      "name": "Otra Noche en L.A.",
+      "url": "https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu"
+    },
+    {
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslab\u00f3n Armado",
+          "url": "https://open.spotify.com/artist/45Pi75TeplUCTpuGBgliTf"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233096,
+      "name": "Pa Que Te Duela",
+      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+    },
+    {
+      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1351,6 +1485,24 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "album": {
+        "name": "PobreDiablo (Interlude)",
+        "url": "https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134659,
+      "name": "PobreDiablo - Interlude",
+      "url": "https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS"
     },
     {
       "album": {
@@ -1453,10 +1605,50 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 146776,
       "name": "Sangre Poderosa",
       "url": "https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM"
+    },
+    {
+      "album": {
+        "name": "SAOKO",
+        "url": "https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"
+    },
+    {
+      "album": {
+        "name": "Se Me Olvid\u00f3",
+        "url": "https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220300,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg"
     },
     {
       "album": {
@@ -1791,7 +1983,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 290032,
       "name": "Until the Day - Remix",
       "url": "https://open.spotify.com/track/0Nrl6CH3oNL6QcnLOQlGVV"

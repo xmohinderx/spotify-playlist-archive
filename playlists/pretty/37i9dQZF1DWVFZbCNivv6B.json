@@ -1,12 +1,12 @@
 {
   "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de La Santa Grifa.",
-  "num_followers": 507627,
+  "num_followers": 507983,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQ3MTEwMCwwMDAwMDQ2MTAwMDAwMTdlZTIxZGE2M2YwMDAwMDE3ZWRiMDJkZDI0",
+  "snapshot_id": "MTY0NDU1OTIwMCwwMDAwMDQ2MjAwMDAwMTdlZTc1ZGVmN2UwMDAwMDE3ZWRiMDJkZDI0",
   "tracks": [
     {
       "added_at": "2022-02-04 06:00:00",
@@ -277,30 +277,6 @@
       "url": "https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum"
     },
     {
-      "added_at": "2022-02-09 00:18:00",
-      "album": {
-        "name": "Qui\u00e9n Ganar\u00e1?",
-        "url": "https://open.spotify.com/album/6pjL3hvLxhizEOEDOw1DGp"
-      },
-      "artists": [
-        {
-          "name": "Phul King Fu",
-          "url": "https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "duration_ms": 189007,
-      "name": "Qui\u00e9n Ganar\u00e1?",
-      "url": "https://open.spotify.com/track/7uZQXmWOuvBYDTnH0l5BO0"
-    },
-    {
       "added_at": "2022-01-28 06:00:00",
       "album": {
         "name": "Pesadilla en el Cielo",
@@ -545,6 +521,30 @@
       "url": "https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq"
     },
     {
+      "added_at": "2022-02-09 00:18:00",
+      "album": {
+        "name": "Qui\u00e9n Ganar\u00e1?",
+        "url": "https://open.spotify.com/album/6pjL3hvLxhizEOEDOw1DGp"
+      },
+      "artists": [
+        {
+          "name": "Phul King Fu",
+          "url": "https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "duration_ms": 189007,
+      "name": "Qui\u00e9n Ganar\u00e1?",
+      "url": "https://open.spotify.com/track/7uZQXmWOuvBYDTnH0l5BO0"
+    },
+    {
       "added_at": "2022-01-28 06:00:00",
       "album": {
         "name": "IceWeed-Man",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
     },
     {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/0soiuiHXyRXTH1aKinhlWr"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Soy Asi",
+      "url": "https://open.spotify.com/track/1VNMggElvX8fUMew6v2ZIr"
+    },
+    {
       "added_at": "2022-01-28 06:00:00",
       "album": {
         "name": "Entre la Muerte y el Peligro",
@@ -799,22 +815,6 @@
     {
       "added_at": "2022-01-28 06:00:00",
       "album": {
-        "name": "Flight 0006",
-        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Flight 0006",
-      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
-    },
-    {
-      "added_at": "2022-01-28 06:00:00",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -831,6 +831,30 @@
       "duration_ms": 108266,
       "name": "Tocando Tierra",
       "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+    },
+    {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Lo Que Quieran (feat. Trono Mob & Missound)",
+        "url": "https://open.spotify.com/album/3NiACEHYJQM5Q0S8ZlBOA7"
+      },
+      "artists": [
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        },
+        {
+          "name": "Missound",
+          "url": "https://open.spotify.com/artist/4AJLZNWNpf8VNWrqutPPn4"
+        },
+        {
+          "name": "Trono Mob",
+          "url": "https://open.spotify.com/artist/3MSrv1HfO1PwOKUd2KBMji"
+        }
+      ],
+      "duration_ms": 174182,
+      "name": "Lo Que Quieran (feat. Trono Mob & Missound)",
+      "url": "https://open.spotify.com/track/6obWjfZr74XXedeLCpMVBB"
     },
     {
       "added_at": "2022-01-28 06:00:00",
@@ -921,20 +945,40 @@
       "url": "https://open.spotify.com/track/2ZBlDOQlq043eg34LwW54c"
     },
     {
-      "added_at": "2022-01-28 06:00:00",
+      "added_at": "2022-02-11 06:00:00",
       "album": {
-        "name": "Bien Volao",
-        "url": "https://open.spotify.com/album/2cXh1YpUWLQb38qr6hNw8j"
+        "name": "M Mali",
+        "url": "https://open.spotify.com/album/4r4kTWbJvqrEETc05r4ZOb"
       },
       "artists": [
         {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+          "name": "La Malilla",
+          "url": "https://open.spotify.com/artist/3voqS9NIqDdoJ87bSs9bwL"
+        },
+        {
+          "name": "Pinky06",
+          "url": "https://open.spotify.com/artist/3IaOQV2tg0ZxEbN6UyYF1E"
+        },
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        },
+        {
+          "name": "Doce",
+          "url": "https://open.spotify.com/artist/6UyUVW2wU4bfMxJwdkSPcA"
+        },
+        {
+          "name": "Jay Lee",
+          "url": "https://open.spotify.com/artist/1EASZJsqr25342e8iX3CPT"
+        },
+        {
+          "name": "Adrian Be",
+          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
         }
       ],
-      "duration_ms": 202984,
-      "name": "Bien Volao",
-      "url": "https://open.spotify.com/track/6TUKepB1r3nO83EopKBV5o"
+      "duration_ms": 245647,
+      "name": "M Mali",
+      "url": "https://open.spotify.com/track/6Z6LEBDZBMTvCpRaZNkwVc"
     },
     {
       "added_at": "2022-01-28 06:00:00",
@@ -1299,22 +1343,6 @@
       "duration_ms": 170322,
       "name": "Peligro a la Redonda",
       "url": "https://open.spotify.com/track/6bQGXITO7qz0yuXSF4eGKX"
-    },
-    {
-      "added_at": "2022-01-28 06:00:00",
-      "album": {
-        "name": "Cuando Huele",
-        "url": "https://open.spotify.com/album/2zToNcX1Rn7Y1LQI8BP3HD"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Cuando Huele",
-      "url": "https://open.spotify.com/track/4QhOpSey4O0bnYVzXBcjtz"
     },
     {
       "added_at": "2022-01-28 06:00:00",

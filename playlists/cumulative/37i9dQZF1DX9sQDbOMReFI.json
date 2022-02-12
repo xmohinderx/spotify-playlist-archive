@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The best side! Cover: E40",
+  "description": "The best side! Cover: Snoop Dogg & Dr. Dre",
   "name": "I Love My West Coast Classics",
   "published_playlist_ids": [
     "46WKAAHiPrNpOK0uN1C8qu"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 286440,
       "name": "93 'Til Infinity",
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
@@ -101,7 +101,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 276813,
       "name": "All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)",
       "url": "https://open.spotify.com/track/6tYL1tBaqTcaqXIykzfF7M"
@@ -119,10 +119,28 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 278386,
       "name": "Ambitionz Az A Ridah",
       "url": "https://open.spotify.com/track/3ssX20QT5c3nA9wk78V1LQ"
+    },
+    {
+      "album": {
+        "name": "Ahmad",
+        "url": "https://open.spotify.com/album/1oRFXTDboyfWXB0c1z6QiT"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Lewis",
+          "url": "https://open.spotify.com/artist/4X3nIh5dynzfAQmy1Z5hXI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303373,
+      "name": "Back in the Day - Remix",
+      "url": "https://open.spotify.com/track/5gUVdjfPWoaKoRiEMHBX6P"
     },
     {
       "album": {
@@ -137,7 +155,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 259181,
       "name": "Backyard Boogie",
       "url": "https://open.spotify.com/track/0Bbd5inN2znpGQkxZbqmmU"
@@ -159,7 +177,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 234533,
       "name": "Bitch Please",
       "url": "https://open.spotify.com/track/5Sm1X46tna50RstHZvw072"
@@ -195,7 +213,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 163133,
       "name": "Blow the Whistle",
       "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
@@ -231,7 +249,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 206826,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/2Vpj5colB0MPy3Zg5SITEC"
@@ -249,7 +267,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 339893,
       "name": "Boyz-N-The-Hood",
       "url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq"
@@ -267,7 +285,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 284200,
       "name": "Cali Iz Active",
       "url": "https://open.spotify.com/track/1n7CcZ5x0IbCW0FDzbJW0j"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 284906,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
@@ -359,10 +377,36 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 239066,
       "name": "Do You See",
       "url": "https://open.spotify.com/track/2e3YoddL43UkaSqhYGqfKz"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        },
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338813,
+      "name": "Doggy Dogg World (feat. Tha Dogg Pound & The Dramatics)",
+      "url": "https://open.spotify.com/track/4JGed8NOXDTHmcwvGuqDiw"
     },
     {
       "album": {
@@ -381,6 +425,54 @@
       "duration_ms": 352906,
       "name": "Dollaz + Sense",
       "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
+    },
+    {
+      "album": {
+        "name": "Labcabincalifornia",
+        "url": "https://open.spotify.com/album/25TUVygHpPTMBO4qq22MI0"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336293,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/1OtuQOXXwUlVtANl1FeYZg"
+    },
+    {
+      "album": {
+        "name": "In A Major Way",
+        "url": "https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Mac Mall",
+          "url": "https://open.spotify.com/artist/18jS3V7OkXYfDu3CEK6a0T"
+        },
+        {
+          "name": "Spice 1",
+          "url": "https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269733,
+      "name": "Dusted 'N' Disgusted (feat. 2Pac, Mac Mall & Spice 1)",
+      "url": "https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7"
     },
     {
       "album": {
@@ -457,7 +549,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
@@ -475,7 +567,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 345717,
       "name": "Fuck Tha Police",
       "url": "https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"
@@ -515,7 +607,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 273466,
       "name": "G'd Up",
       "url": "https://open.spotify.com/track/1zIXpzuCC7FM4kECt2eEzu"
@@ -533,7 +625,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 293053,
       "name": "Gangsta Nation",
       "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
@@ -555,7 +647,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 341426,
       "name": "Gettin' It (feat. Parliament Funkadelic)",
       "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
@@ -573,10 +665,32 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 259279,
       "name": "Getto Jam",
       "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "Gin N Juice (feat. Dat Nigga Daz)",
+      "url": "https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i"
     },
     {
       "album": {
@@ -595,7 +709,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -635,7 +749,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 312626,
       "name": "Hit 'Em Up - Single Version",
       "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
@@ -653,7 +767,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 252240,
       "name": "How I Could Just Kill a Man",
       "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
@@ -762,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+    },
+    {
+      "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
       },
@@ -780,6 +912,24 @@
     },
     {
       "album": {
+        "name": "No One Can Do It Better",
+        "url": "https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD"
+      },
+      "artists": [
+        {
+          "name": "The D.O.C.",
+          "url": "https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "It's Funky Enough - Remastered Single",
+      "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
+    },
+    {
+      "album": {
         "name": "Killa Kali",
         "url": "https://open.spotify.com/album/47eDm7TkEc7Z2t37rnUBDK"
       },
@@ -791,7 +941,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 324706,
       "name": "It's Goin' Down",
       "url": "https://open.spotify.com/track/6QdZhhQc4wYEi7amJKuWqu"
@@ -838,6 +988,24 @@
     },
     {
       "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
       },
@@ -871,10 +1039,72 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 204440,
       "name": "Let's Play House",
       "url": "https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez"
+    },
+    {
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
+    },
+    {
+      "album": {
+        "name": "2nd II None",
+        "url": "https://open.spotify.com/album/0xwxoALWTPNBxB6Xq9Fy66"
+      },
+      "artists": [
+        {
+          "name": "2nd II None",
+          "url": "https://open.spotify.com/artist/1rlHVdoyfG6pQkzcMWI4dr"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "More Than A Player",
+      "url": "https://open.spotify.com/track/3dEOHQ7KHzgBSStXvj6Df1"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218186,
+      "name": "Murder Was The Case (feat. Dat Nigga Daz)",
+      "url": "https://open.spotify.com/track/1wb83NCHLygI2dofCeVP2c"
     },
     {
       "album": {
@@ -907,7 +1137,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 290440,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/3ooAjhyOZ1xttGD0iq1GVO"
@@ -929,7 +1159,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 241360,
       "name": "Nothin' But The Cavi Hit",
       "url": "https://open.spotify.com/track/2rwmKpWW6o6anOhvcyiJOw"
@@ -967,9 +1197,27 @@
           "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
         }
       ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321506,
+      "name": "Otha Fish",
+      "url": "https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx"
+    },
+    {
+      "album": {
+        "name": "Bizarre Ride II The Pharcyde",
+        "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 303493,
       "name": "Passin' Me By",
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
@@ -1096,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239226,
+      "name": "So Many Tears",
+      "url": "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
+    },
+    {
+      "album": {
         "name": "In A Major Way",
         "url": "https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw"
       },
@@ -1111,7 +1377,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Sprinkle Me (feat. Suga-T)",
       "url": "https://open.spotify.com/track/5C0LRpVmi4h5pIwAnujiw0"
@@ -1169,7 +1435,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 274306,
       "name": "Straight Up Menace",
       "url": "https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO"
@@ -1187,7 +1453,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 287066,
       "name": "Strap On The Side",
       "url": "https://open.spotify.com/track/3sfAumzy0rGj6WEhuuRqz6"
@@ -1205,7 +1471,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "Summertime In The LBC",
       "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
@@ -1230,6 +1496,42 @@
     },
     {
       "album": {
+        "name": "AmeriKKKa's Most Wanted",
+        "url": "https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "The Nigga Ya Love To Hate",
+      "url": "https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ"
+    },
+    {
+      "album": {
+        "name": "Curb Servin'",
+        "url": "https://open.spotify.com/album/5ZG9lsrp6Dw9nYH7V2Jsuh"
+      },
+      "artists": [
+        {
+          "name": "Wc And The Maad Circle",
+          "url": "https://open.spotify.com/artist/2BNJSSIoivoAWGlyRb6nhq"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4tx7dIsrwf5fICyePU8NFk"
+    },
+    {
+      "album": {
         "name": "Ghetto Heisman",
         "url": "https://open.spotify.com/album/6oFqjPc6qSFepKCWgO8BGw"
       },
@@ -1249,7 +1551,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 227866,
       "name": "The Streets - Re-Twist",
       "url": "https://open.spotify.com/track/5a251qN4R86hro8UZGuO4E"
@@ -1369,7 +1671,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 250040,
       "name": "We Can Freak It",
       "url": "https://open.spotify.com/track/2OCTC6cPRdI3Dvdb25jRDC"
@@ -1413,7 +1715,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 260026,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/3wQ8RcbLwNRH53FelAVCkX"
@@ -1449,7 +1751,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 265000,
       "name": "Why U Bullshittin'?",
       "url": "https://open.spotify.com/track/3zb1zBmkrPF6VW8RhlSYA1"
@@ -1483,7 +1785,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 215200,
       "name": "Xxplosive",
       "url": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1"
@@ -1501,7 +1803,7 @@
       ],
       "date_added": "2020-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 232773,
       "name": "You Know How We Do It",
       "url": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo"

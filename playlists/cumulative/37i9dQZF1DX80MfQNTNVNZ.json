@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 144567,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 216330,
       "name": "FADED",
       "url": "https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ"
@@ -702,6 +702,28 @@
     },
     {
       "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/19qPt0RZapWvOKsACyvfQF"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Get By (feat. Tank and The Bangas)",
+      "url": "https://open.spotify.com/track/3MEnUZCTYBvvsCFnciFFUD"
+    },
+    {
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
       },
@@ -801,7 +823,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 187134,
       "name": "Here to Dance",
       "url": "https://open.spotify.com/track/5ElEhRmLYwWWyUtGrMgRwi"
@@ -1098,6 +1120,28 @@
     },
     {
       "album": {
+        "name": "Lemon Squeeze",
+        "url": "https://open.spotify.com/album/5GEcEjaGF0fGXUmd8psXuh"
+      },
+      "artists": [
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        },
+        {
+          "name": "YEO CIG",
+          "url": "https://open.spotify.com/artist/3OwLFw3VPQXWMa7WmLvQIE"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182032,
+      "name": "Lemon Squeeze",
+      "url": "https://open.spotify.com/track/14LgwZInulRb4IDix4jiBE"
+    },
+    {
+      "album": {
         "name": "Life Vest",
         "url": "https://open.spotify.com/album/31aRS632oWnSjqYFvA4eve"
       },
@@ -1255,7 +1299,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 244861,
       "name": "Move Like This",
       "url": "https://open.spotify.com/track/3Jw0dL0zh6zAYHpXa0sbrA"
@@ -1295,7 +1339,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 231273,
       "name": "My Baby Just Cares For Me - HONNE Remix",
       "url": "https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m"
@@ -1313,7 +1357,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 265056,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe"
@@ -1361,7 +1405,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 255818,
       "name": "No Other Feeling",
       "url": "https://open.spotify.com/track/77V4RwChUT3LFMyhulCOdp"
@@ -1405,7 +1449,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 224881,
       "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
       "url": "https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7"
@@ -1729,7 +1773,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 265714,
       "name": "Sweeter, More Bitter - Oscar Jerome Remix",
       "url": "https://open.spotify.com/track/5UuI9nJTR2mgOKejOZTYtq"
@@ -1769,7 +1813,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 228853,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la"
@@ -1791,7 +1835,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 294445,
       "name": "Tangerine - Channel Tres Remix",
       "url": "https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8"
@@ -1885,7 +1929,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 234017,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/6NbLghSV5wmjGINBeSo1xA"
@@ -1903,7 +1947,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 120022,
       "name": "THINKING",
       "url": "https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM"
@@ -2199,7 +2243,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"

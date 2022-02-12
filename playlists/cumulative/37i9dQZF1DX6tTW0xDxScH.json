@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 228626,
       "name": "Awake (with Mahalia)",
       "url": "https://open.spotify.com/track/16X7VHcGISwJ93ott9RHeC"
@@ -95,10 +95,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 210565,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/0W6XPogEpsX8BLZxU6AQDv"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
     },
     {
       "album": {
@@ -117,7 +135,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 203906,
       "name": "Before We Make It Real",
       "url": "https://open.spotify.com/track/6N0aQvnu2lc73bVznVm2h2"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
@@ -308,6 +326,42 @@
     },
     {
       "album": {
+        "name": "Dream Nation",
+        "url": "https://open.spotify.com/album/2bJ8k4Qe5vmC7uEBJ1sgOV"
+      },
+      "artists": [
+        {
+          "name": "HAERTS",
+          "url": "https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/6PhqFutjkq3tzchjqS5nF7"
+    },
+    {
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Easily",
+      "url": "https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM"
+    },
+    {
+      "album": {
         "name": "either side",
         "url": "https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX"
       },
@@ -319,7 +373,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m"
@@ -474,6 +528,42 @@
     },
     {
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+    },
+    {
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG"
+    },
+    {
+      "album": {
         "name": "Hannah Sun",
         "url": "https://open.spotify.com/album/0tStaUHZtXWjzqZepPJ5eG"
       },
@@ -575,7 +665,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 325145,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/6yPfoOEeB6F7lvmzkV5oTK"
@@ -817,7 +907,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "Let's Move To The Country",
       "url": "https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG"
@@ -1085,10 +1175,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
+    },
+    {
+      "album": {
+        "name": "Other You / Reflection",
+        "url": "https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343253,
+      "name": "Other You",
+      "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
     },
     {
       "album": {
@@ -1175,7 +1283,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP"
@@ -1229,7 +1337,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
@@ -1247,7 +1355,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "River",
       "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
@@ -1316,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/2zTSbq3fr49X6ovALSo1yH"
       },
@@ -1345,7 +1471,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 256151,
       "name": "scared",
       "url": "https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN"
@@ -1677,7 +1803,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 323906,
       "name": "The Past And Pending",
       "url": "https://open.spotify.com/track/406DlQKEhXubIyV4bgH2nM"
@@ -1713,7 +1839,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
@@ -1919,7 +2045,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 311226,
       "name": "When the Night is Over",
       "url": "https://open.spotify.com/track/7GN6EEENu7xnl2lEipjN4X"
@@ -1937,7 +2063,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 229666,
       "name": "Woman",
       "url": "https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib"
@@ -1955,7 +2081,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 194911,
       "name": "Years Ago",
       "url": "https://open.spotify.com/track/5UxUkbybJ8nroGVC9tIKat"
@@ -1989,9 +2115,9 @@
           "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "date_added": "2021-10-29",
+      "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"

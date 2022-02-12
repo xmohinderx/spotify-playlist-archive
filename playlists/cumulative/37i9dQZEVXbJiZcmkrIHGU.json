@@ -9248,6 +9248,28 @@
     },
     {
       "album": {
+        "name": "Manila",
+        "url": "https://open.spotify.com/album/04G5svGohksmXulzf6BbK3"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144621,
+      "name": "Manila",
+      "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
+    },
+    {
+      "album": {
         "name": "Marilyn",
         "url": "https://open.spotify.com/album/0r01OVrWKzN05MYWpa2U0Y"
       },
@@ -14615,7 +14637,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 129610,
       "name": "UDSSR",
       "url": "https://open.spotify.com/track/4fy4sOdkHWBY3APxR8vGY5"

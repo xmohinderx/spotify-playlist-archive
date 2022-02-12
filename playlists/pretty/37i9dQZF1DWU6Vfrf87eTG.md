@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,901 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,863 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 88 | [Green Arrow](https://open.spotify.com/track/43x3Mgyfiw2XZJ48quyA15) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/0BpCcCe0SbfFybKzo6mGOF) | 5:43 |
 | 89 | [Steady Proof](https://open.spotify.com/track/7tKNwkWyhRUalXj9K8Q0Zv) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 2:59 |
 | 90 | [Sonata No\. 2 in A minor, BWV 1003: I\. Grave](https://open.spotify.com/track/1aoUb50Wbn7Fk7jhwgCTrT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Bach: Sonatas and Partitas, Vol\. 1](https://open.spotify.com/album/1uKnB6lenFCpzRK04cIa80) | 4:46 |
-| 91 | [Less Is Moi](https://open.spotify.com/track/4iGmKntLtyPe18ZOzMC2FL) | [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [The Goat Rodeo Sessions](https://open.spotify.com/album/7tSgsZ1ATPHDzUOqAmapTZ) | 7:27 |
+| 91 | [Less Is Moi](https://open.spotify.com/track/4iGmKntLtyPe18ZOzMC2FL) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [The Goat Rodeo Sessions](https://open.spotify.com/album/7tSgsZ1ATPHDzUOqAmapTZ) | 7:27 |
 | 92 | [Her Smoke Rose Up Forever](https://open.spotify.com/track/7Ko4so8MIU5HBwrCMcOI1c) | [James Blackshaw](https://open.spotify.com/artist/0v3A74qYtkL8Wjj1rzLe9Z) | [Love Is the Plan, The Plan Is Death](https://open.spotify.com/album/0Hs9ZPAGmekggdUCj4g6e9) | 7:06 |
 | 93 | [Rickover's Dream](https://open.spotify.com/track/3rbanyAxECNBbFFi2IM0S2) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Aerial Boundaries](https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH) | 4:50 |
 | 94 | [California Traveler](https://open.spotify.com/track/0FMkEykWCe2vpzv6H3Dsx5) | [California](https://open.spotify.com/artist/0UBBCi1bn7VkMnNPh3NEfi) | [United States Bluegrass Songs](https://open.spotify.com/album/4hfc6HPyUgo3AwevUahukM) | 5:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Lewis Capaldi, Miguel, and Maggie Rogers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,155 likes - 703 songs - 1 day 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,157 likes - 703 songs - 1 day 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 202 | [Buena Sera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 3:14 |
 | 203 | [Love Is Here To Stay \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:42 |
 | 204 | [I've Got The World On A String \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:58 |
-| 205 | [Unaccompanied Cello Suite No\. 2 in D Minor, BWV 1008: II\. Allemande \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7tnbEAlS7WfWPZT8bqSZ2K) | [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 3:40 |
-| 206 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
+| 205 | [Unaccompanied Cello Suite No\. 2 in D Minor, BWV 1008: II\. Allemande \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7tnbEAlS7WfWPZT8bqSZ2K) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 3:40 |
+| 206 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
 | 207 | [Let Me Down Slowly \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1qlc10Iyy8AhJ4zJqwzx4Z) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 2:49 |
 | 208 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 |
 | 209 | [Mercy \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 4:13 |

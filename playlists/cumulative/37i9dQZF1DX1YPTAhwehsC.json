@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 188486,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/35uYYHfPcA5zcl8IeVXxOb"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 153964,
       "name": "Being Honest",
       "url": "https://open.spotify.com/track/0fiHDOKTOFnAPekgXYGErK"
@@ -220,6 +220,28 @@
     },
     {
       "album": {
+        "name": "Bussin",
+        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "Bussin",
+      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+    },
+    {
+      "album": {
         "name": "Chitty Bang",
         "url": "https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW"
       },
@@ -235,6 +257,32 @@
       "duration_ms": 146213,
       "name": "Chitty Bang",
       "url": "https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR"
+    },
+    {
+      "album": {
+        "name": "City of Gods",
+        "url": "https://open.spotify.com/album/0Nzff60OICCUBrtr980elH"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "City of Gods",
+      "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
     },
     {
       "album": {
@@ -265,6 +313,24 @@
       "duration_ms": 222870,
       "name": "Crunk Muzik",
       "url": "https://open.spotify.com/track/0am3GdTDO0aboRv8CHZfMi"
+    },
+    {
+      "album": {
+        "name": "Damier Duffle Freestyle",
+        "url": "https://open.spotify.com/album/06eIzgfIFTGDIIuWk6FnGX"
+      },
+      "artists": [
+        {
+          "name": "Tunji Ige",
+          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88457,
+      "name": "Damier Duffle Freestyle",
+      "url": "https://open.spotify.com/track/5N3djwv6KUbzoN7B7Mb9GS"
     },
     {
       "album": {
@@ -471,7 +537,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 121877,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
@@ -515,6 +581,42 @@
       "duration_ms": 233544,
       "name": "For You",
       "url": "https://open.spotify.com/track/0FoUK4tAVUfArhVMcCKhFn"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/6RdO1MGip6pQfmEpUxjXzV"
+      },
+      "artists": [
+        {
+          "name": "Ron Suno",
+          "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108048,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/3MOHNr11nWpj6JkMyLZDTJ"
+    },
+    {
+      "album": {
+        "name": "Just For You",
+        "url": "https://open.spotify.com/album/5gl8AaOhNL60AcYk2JLEE3"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155585,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE"
     },
     {
       "album": {
@@ -585,6 +687,24 @@
       "duration_ms": 170887,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/7cZxllNvqJrFaU4op9YvK6"
+    },
+    {
+      "album": {
+        "name": "Hoop Earrings",
+        "url": "https://open.spotify.com/album/43KYrCZVk4uR7g1ttmqK5j"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Hoop Earrings",
+      "url": "https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ"
     },
     {
       "album": {
@@ -773,7 +893,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 150996,
       "name": "LBS",
       "url": "https://open.spotify.com/track/58WSRZe9jL2zTMyHsPA11g"
@@ -953,7 +1073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 170435,
       "name": "Mr. Pyrex Man",
       "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
@@ -1036,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "Non Judgmental",
+        "url": "https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182487,
+      "name": "Non Judgmental",
+      "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
+    },
+    {
+      "album": {
         "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
         "url": "https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7"
       },
@@ -1073,10 +1211,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 93096,
       "name": "Oh Shhh",
       "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
+    },
+    {
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/4GfWSqLG2egaWii11rMC0b"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206813,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/2UdWZt2fxKf0UCakVzGYpG"
     },
     {
       "album": {
@@ -1331,7 +1487,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 145714,
       "name": "Sim Simma",
       "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
@@ -1497,7 +1653,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 114600,
       "name": "Trust Myself",
       "url": "https://open.spotify.com/track/154OhuXRpU9JsUGCUMQPsd"

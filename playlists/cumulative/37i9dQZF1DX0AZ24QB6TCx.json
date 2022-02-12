@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 287986,
       "name": "AvA",
       "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 319915,
       "name": "Birth",
       "url": "https://open.spotify.com/track/1rLy27e43WOwySy7U8JaRb"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 284800,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/303c3Z3xF0KgPJkqy7U9bK"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 343278,
       "name": "Clarion - Kiasmos Remix",
       "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 226104,
       "name": "Cuiva",
       "url": "https://open.spotify.com/track/1E5R36jOL7AQ5hhox7yr4X"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 441056,
       "name": "Dan",
       "url": "https://open.spotify.com/track/3VSpNmnDxDjebe87gWn6cM"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 442480,
       "name": "De\u00eda",
       "url": "https://open.spotify.com/track/6K8gTgpcrmfINZKRiZuVAM"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 197796,
       "name": "Don't Go Asking - Radio Edit",
       "url": "https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 152653,
       "name": "Dust",
       "url": "https://open.spotify.com/track/4t0kzH6m8iryHqbFrLs5Nc"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 394834,
       "name": "Feeling Down",
       "url": "https://open.spotify.com/track/2oy7IzuyTJqIG1OvUsmMsz"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 367564,
       "name": "Follow the Light - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 264827,
       "name": "I Am Still Here",
       "url": "https://open.spotify.com/track/3Ccmq7nxS8y44m8HKf3deW"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 236180,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 340206,
       "name": "Kenger",
       "url": "https://open.spotify.com/track/6naCXLqx0qvSnYWkrbioFm"
@@ -1363,8 +1363,8 @@
           "url": "https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg"
         },
         {
-          "name": "Zara",
-          "url": "https://open.spotify.com/artist/7L8a4XTzzBHolV2T6A9s9p"
+          "name": "Zara Taylor",
+          "url": "https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38"
         },
         {
           "name": "Nils Hoffmann",
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 241607,
       "name": "Lost - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/6m2jWjTE6CmYfWpMtp8V1u"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 322034,
       "name": "No Room - Johannes Klingebiel Remix",
       "url": "https://open.spotify.com/track/4i9ILIeksvaDAYnimKjCw0"
@@ -1697,7 +1697,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/0zIdKrHlJMD7C0BnrUIsvE"
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 323302,
       "name": "Selbst",
       "url": "https://open.spotify.com/track/7zrGXNJu4nPoNQji9j8DcB"
@@ -2209,7 +2209,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm"
@@ -2253,7 +2253,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 230239,
       "name": "The Center Will Not Hold",
       "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 508091,
       "name": "The Tribe",
       "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
@@ -2377,7 +2377,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 331137,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/6dy5GFgwpLfw3DqGFNeoHE"
@@ -2421,7 +2421,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 402520,
       "name": "Un R\u00eave \u00c9trange - Rodriguez Jr. Remix",
       "url": "https://open.spotify.com/track/2bT2dwrc9YzyhVAK48IZ77"
@@ -2497,7 +2497,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 221479,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/5UpFOpt2FnYpgKfmlw2NVf"

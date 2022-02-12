@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: <a href="spotify:artist:4LX0KCPnH7gvxEbVXqXmAE">Molly Tuttle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,452 likes - 86 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,475 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 81 | [Whirlwind](https://open.spotify.com/track/4iyzKBDP4JlMbYvHYwaHOV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Volunteer](https://open.spotify.com/album/1hSUUe3NM9HWTSMRWPZK6l) | 4:04 |
 | 82 | [Real World](https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Real World](https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy) | 3:17 |
 | 83 | [A Ghost Whispers](https://open.spotify.com/track/0UZ1zFXfrsRIVVoz1AvNWJ) | [Red Tail Ring](https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3) | [Fall Away Blues](https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr) | 3:13 |
-| 84 | [Troubled Waltz](https://open.spotify.com/track/1pcyOZei4BnZ0RRljDoylz) | [The Howlin' Brothers](https://open.spotify.com/artist/2Ya197LjC2pz0ZXl0rwAgl) | [Trouble](https://open.spotify.com/album/7pYtZKjHhWshTqLyBuQXmY) | 3:41 |
-| 85 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 |
-| 86 | [Ohio](https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu) | [Haunted Like Human](https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI) | [Tall Tales & Fables](https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr) | 2:57 |
+| 84 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 |
+| 85 | [Ohio](https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu) | [Haunted Like Human](https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI) | [Tall Tales & Fables](https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr) | 2:57 |
 
-Snapshot ID: `MTY0Mzk1MzA4MCwwMDAwMDAzNTAwMDAwMTdlYzMzZDQ3MjUwMDAwMDE2ZDE1MjM1Zjkw`
+Snapshot ID: `MTY0NDU0MzE4NCwwMDAwMDAzNjAwMDAwMTdlZTY2OThlN2IwMDAwMDE2ZDE1MjM1Zjkw`

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 75346,
       "name": "'Till Forever",
       "url": "https://open.spotify.com/track/7vVywc6HuOtPzwdMkSxhI2"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 225514,
       "name": "(Love Is Love Is Love) Why Isn't Love Enough?",
       "url": "https://open.spotify.com/track/1oaiPXcPUGlhfSZrXwu78c"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 243506,
       "name": "Dreamer - 2006 Remaster",
       "url": "https://open.spotify.com/track/4gV1QbhEUbgvHnvSSxyrZH"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 245013,
       "name": "Entertainment Value",
       "url": "https://open.spotify.com/track/0zEyPZnf4NRddO2lRWaC1g"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 224706,
       "name": "Fool Me a Good Night",
       "url": "https://open.spotify.com/track/1GxCJ6QRoRv1BHUDto1mGn"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 179960,
       "name": "Get to the Country",
       "url": "https://open.spotify.com/track/1HUCAIw6lVFNS17tTX1s9J"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 576440,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/1iB4hNYD8FUYdK9P182FAM"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 178573,
       "name": "Love-A-Love-A-Love-A-Love-A-Love",
       "url": "https://open.spotify.com/track/011IzFkQzXmOJCB39BKVjY"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 220199,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/7peWB3RK5kHtSCjHLoKTa1"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 221346,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/2tN2vlqY6BlwGVxP8xFSsN"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 223933,
       "name": "Nothin's Gonna Change",
       "url": "https://open.spotify.com/track/2UPPvu8zpvQCjKFMiskO8V"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 241600,
       "name": "Odds & Ends",
       "url": "https://open.spotify.com/track/1wX3vEINaJqDMddr1SjSqk"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 290546,
       "name": "Old Time Song - 2006 Remaster",
       "url": "https://open.spotify.com/track/5SeTPjaVXFW6uzhAvKd3XE"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 180733,
       "name": "Pristine Verses",
       "url": "https://open.spotify.com/track/3OEltAYEQ0CMPi7Plafi0J"
@@ -909,6 +909,24 @@
       "duration_ms": 361893,
       "name": "Remember My Song - 2006 Remaster",
       "url": "https://open.spotify.com/track/0PiQMQuR9Gqr0ll0eFUzFk"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "Rocking Chair",
+      "url": "https://open.spotify.com/track/53qn0116gOP48ns8zcr0sL"
     },
     {
       "album": {
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 158226,
       "name": "Something on My Mind",
       "url": "https://open.spotify.com/track/2tUZ1KhS4t4Oame9Z8Ed1S"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 262800,
       "name": "Staride to Nowhere",
       "url": "https://open.spotify.com/track/1R9zMVwsFqnKnuYZrnZob3"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 193186,
       "name": "Summer Is Coming",
       "url": "https://open.spotify.com/track/580oXJE0NpJqVusRiJcOt4"

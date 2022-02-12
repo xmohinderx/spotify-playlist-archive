@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317362,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9"
+    },
+    {
+      "album": {
         "name": "772 Love (Remix)",
         "url": "https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 281899,
       "name": "A Lo Mejor",
       "url": "https://open.spotify.com/track/2IKqLawv6gYOhhunhgjWCl"
@@ -120,6 +138,24 @@
     },
     {
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/6bgTAXtrLQjAAq8ynzcRWZ"
+      },
+      "artists": [
+        {
+          "name": "El Proyecto",
+          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183045,
+      "name": "Algo Que Nunca Tendre",
+      "url": "https://open.spotify.com/track/0WOVJTL1qY6K2Wk7rlx01d"
+    },
+    {
+      "album": {
         "name": "856 para el Mundo",
         "url": "https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ"
       },
@@ -157,6 +193,24 @@
       "duration_ms": 216149,
       "name": "Amor Con Detalle",
       "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
+    },
+    {
+      "album": {
+        "name": "Proximo Paso",
+        "url": "https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163126,
+      "name": "Amor De Cuentos",
+      "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
     },
     {
       "album": {
@@ -345,7 +399,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 173476,
       "name": "Cinderella de Mis Noches",
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
@@ -489,7 +543,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 217703,
       "name": "Dejame Decir",
       "url": "https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK"
@@ -633,7 +687,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 149074,
       "name": "El Humillado",
       "url": "https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA"
@@ -651,7 +705,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 176226,
       "name": "El Mundo a Tus Pies",
       "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
@@ -691,7 +745,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 182152,
       "name": "Ella Tiene Novio (Shhhh)",
       "url": "https://open.spotify.com/track/5t8BwSNW5kXSL3eEQjBE3k"
@@ -785,7 +839,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 205634,
       "name": "Eres Tu / </3",
       "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
@@ -955,7 +1009,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 222112,
       "name": "FUCK THE LOVE",
       "url": "https://open.spotify.com/track/2BoFGTBvBA2jhxIGq8Q1xi"
@@ -1045,7 +1099,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 254968,
       "name": "Hasta Que Arrimas",
       "url": "https://open.spotify.com/track/3AqahkFz2OzqOBx6pXFTmf"
@@ -1375,7 +1429,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 214359,
       "name": "Los Secretos",
       "url": "https://open.spotify.com/track/4EJOpErvTO28XW1SONatmB"
@@ -1397,10 +1451,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 214804,
       "name": "Maldito Olvido",
       "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
+    },
+    {
+      "album": {
+        "name": "Marc\u00e1ndote",
+        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Marc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     },
     {
       "album": {
@@ -1469,7 +1541,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
@@ -1523,7 +1595,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 228075,
       "name": "Mi Guerita",
       "url": "https://open.spotify.com/track/2LrH7pQnZTQvxXWgf52wBx"
@@ -1736,6 +1808,42 @@
     },
     {
       "album": {
+        "name": "No Te Quiero",
+        "url": "https://open.spotify.com/album/7MOOGT46ED3uzZdCDbhggc"
+      },
+      "artists": [
+        {
+          "name": "Doble J",
+          "url": "https://open.spotify.com/artist/1LDX5jGGNPuegrnecFikow"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "No Te Quiero",
+      "url": "https://open.spotify.com/track/2QfltGe7dLyxbX0WaIC1iu"
+    },
+    {
+      "album": {
+        "name": "Lluvia Y Sol (En Vivo)",
+        "url": "https://open.spotify.com/album/5a9QaQ88rAoJixZB8nzwec"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288500,
+      "name": "Noches Sin Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/71uooiX4Jcq9j9u1lYoReq"
+    },
+    {
+      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/5PTgOHWRNRrgxZSiuXMSKt"
       },
@@ -1772,6 +1880,24 @@
     },
     {
       "album": {
+        "name": "Ojos Avellana",
+        "url": "https://open.spotify.com/album/6qbu0lcrZK62LXFGxn2Af7"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Y Su Equipo Escoltado",
+          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Ojos Avellana",
+      "url": "https://open.spotify.com/track/0zn4NLvBxAxhpfvRwL6WEY"
+    },
+    {
+      "album": {
         "name": "Olvida El Pasado (J.R.) [Con Tololoche]",
         "url": "https://open.spotify.com/album/5r1K8nHQSzv8K3c4kpwYlH"
       },
@@ -1783,7 +1909,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 246658,
       "name": "Olvida El Pasado (J.R.) - Con Tololoche",
       "url": "https://open.spotify.com/track/6s3JSsk3dDVKBPMjh33awl"
@@ -1805,6 +1931,28 @@
       "duration_ms": 195239,
       "name": "Olvidarte",
       "url": "https://open.spotify.com/track/14fysanCY4W2wJlsp8wtl7"
+    },
+    {
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslab\u00f3n Armado",
+          "url": "https://open.spotify.com/artist/45Pi75TeplUCTpuGBgliTf"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233096,
+      "name": "Pa Que Te Duela",
+      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
     },
     {
       "album": {
@@ -1913,6 +2061,24 @@
       "duration_ms": 166437,
       "name": "Perfecta en Mis Ojos",
       "url": "https://open.spotify.com/track/2an1crKGNWXdviPTzWyH0I"
+    },
+    {
+      "album": {
+        "name": "Perro Abandonado",
+        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211198,
+      "name": "Perro Abandonado",
+      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
     },
     {
       "album": {
@@ -2046,6 +2212,24 @@
     },
     {
       "album": {
+        "name": "Querido San Valentin",
+        "url": "https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261910,
+      "name": "Querido San Valentin",
+      "url": "https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY"
+    },
+    {
+      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
       },
@@ -2079,6 +2263,24 @@
       "duration_ms": 209633,
       "name": "Quiero Ser",
       "url": "https://open.spotify.com/track/2vYYytKYc2MJN6MvkFL7fY"
+    },
+    {
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "album": {
@@ -2165,7 +2367,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 241838,
       "name": "San Valentin",
       "url": "https://open.spotify.com/track/7vCzhTTYStL1bfYz6W90lD"
@@ -2201,7 +2403,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 174752,
       "name": "Siempre Te Voy a Amar",
       "url": "https://open.spotify.com/track/45lBHDg7x2hQoYjCms9aDb"
@@ -2381,7 +2583,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 207000,
       "name": "Sue\u00f1o En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/45M9YvXjUb3SpxXn2qSg0r"
@@ -2497,7 +2699,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 215295,
       "name": "Te Presumo",
       "url": "https://open.spotify.com/track/5qKxoH9I2u5lfc7pbepXLa"
@@ -2555,7 +2757,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 190000,
       "name": "Te Quiero Aqui (Live Session)",
       "url": "https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld"
@@ -2761,7 +2963,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 199237,
       "name": "Vamonos",
       "url": "https://open.spotify.com/track/43jJLJrnFzYdYZOn618RTs"
@@ -2797,7 +2999,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 210280,
       "name": "Vas A Llorar Por M\u00ed",
       "url": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"

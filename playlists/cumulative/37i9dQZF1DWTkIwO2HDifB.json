@@ -648,6 +648,28 @@
     },
     {
       "album": {
+        "name": "Joga na Cara",
+        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109846,
+      "name": "Joga na Cara",
+      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
+    },
+    {
+      "album": {
         "name": "Lelalaue",
         "url": "https://open.spotify.com/album/26MhDBUUMpXkgEXII4FsWI"
       },
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 161730,
       "name": "Preta do Cabelo Cacheado",
       "url": "https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx"

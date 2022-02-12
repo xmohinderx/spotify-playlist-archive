@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,332 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,764 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Debussy: Suite bergamasque, L\. 75, 3\. Clair de lune](https://open.spotify.com/album/4Ll3RGpn0eVY6MMKPTP99C) | 4:54 |
-| 2 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 |
+| 2 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 |
 | 3 | [Satie / Orch\. Ducros: Gymnopédie No\. 1](https://open.spotify.com/track/7hyq9VKysg8g1L5R0y41dt) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Adrien Perruchon](https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Emotions \- Satie: Gymnopédie No\. 1 \(Orch\. Ducros\)](https://open.spotify.com/album/2QUR7PQq8WZoKxQtKaehLF) | 2:52 |
 | 4 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 |
 | 5 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 |

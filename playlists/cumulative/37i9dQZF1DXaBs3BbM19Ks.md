@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaBs3BbM19Ks.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaBs3BbM19Ks) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaBs3BbM19Ks)
 
-### Modo Señora
+### [Modo Señora](https://open.spotify.com/playlist/5RQGt8XcW2ruWJf3X4E6Y2)
 
 > Bonitas, orgullosas y empoderadas, así somos las señoras.
 

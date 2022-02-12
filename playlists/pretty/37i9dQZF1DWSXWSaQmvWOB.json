@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Samm Henshaw",
-  "num_followers": 401108,
+  "num_followers": 401281,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNDAwMCwwMDAwMDExMjAwMDAwMTdlZTVkZDZhNzAwMDAwMDE3ZTlkNjdhMjRl",
+  "snapshot_id": "MTY0NDU3MzI5OCwwMDAwMDExMzAwMDAwMTdlZTgzNTEwMzIwMDAwMDE3ZTlkNjdhMjRl",
   "tracks": [
     {
       "added_at": "2022-02-10 23:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 204909,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Good Morning Gorgeous",
+        "url": "https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 139630,
+      "name": "Here With Me (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -483,6 +503,22 @@
       "duration_ms": 225461,
       "name": "Love Will Work It Out",
       "url": "https://open.spotify.com/track/0BZVAlUSCoG2U4ejyPfK58"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7"
+      },
+      "artists": [
+        {
+          "name": "Shishani",
+          "url": "https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -1495,22 +1531,6 @@
       "duration_ms": 193070,
       "name": "Running Blind - From \"Liberated / Music For the Movement Vol. 3\"",
       "url": "https://open.spotify.com/track/7ALUF2i2FCiRCx9OqBJ5Ot"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7"
-      },
-      "artists": [
-        {
-          "name": "Shishani",
-          "url": "https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa"
     },
     {
       "added_at": "2022-02-10 23:00:00",

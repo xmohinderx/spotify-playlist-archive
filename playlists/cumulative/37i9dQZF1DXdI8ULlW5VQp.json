@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. En portada: Jesse & Joy",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. En portada: Reyli Barba",
   "name": "Cantamores",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7uQBD2uEj9JYWsbOq2NLVj"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 196609,
       "name": "Acu\u00e9rdate",
       "url": "https://open.spotify.com/track/2tCDLxHGG00lRgvYNH9SGT"
@@ -107,7 +109,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 211456,
       "name": "Antes de Partir - Cap.1",
       "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
@@ -241,7 +243,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 202720,
       "name": "Como de Costumbre",
       "url": "https://open.spotify.com/track/6gqIYxbFZxK7goiflCYc9Q"
@@ -422,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g"
+      },
+      "artists": [
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
+    },
+    {
+      "album": {
         "name": "Donde Nunca Has Llegado (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/0wWB8sacO5fY7yuxA8FJxf"
       },
@@ -520,6 +540,28 @@
     },
     {
       "album": {
+        "name": "Estar contigo (feat. La Oreja de Van Gogh)",
+        "url": "https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237662,
+      "name": "Estar contigo (feat. La Oreja de Van Gogh)",
+      "url": "https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd"
+    },
+    {
+      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/7hQwxDJyHrHmSkw6ceGDVc"
       },
@@ -539,6 +581,24 @@
       "duration_ms": 191153,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/16PqxLDKhV4By0dhNMZAW7"
+    },
+    {
+      "album": {
+        "name": "FUE",
+        "url": "https://open.spotify.com/album/7agivcohsBICoHafttM2j7"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242833,
+      "name": "FUE",
+      "url": "https://open.spotify.com/track/7EzMotErPHP0TJ2Gv987q7"
     },
     {
       "album": {
@@ -659,6 +719,28 @@
       "duration_ms": 238262,
       "name": "Lenguas Muertas",
       "url": "https://open.spotify.com/track/5C9T6pqEEUhKAuIFSc38i7"
+    },
+    {
+      "album": {
+        "name": "Ley De Gravedad",
+        "url": "https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142813,
+      "name": "Ley De Gravedad",
+      "url": "https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda"
     },
     {
       "album": {
@@ -919,7 +1001,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 268714,
       "name": "No te echo de menos",
       "url": "https://open.spotify.com/track/0CI9BCWPEd7MK9GM84J65W"

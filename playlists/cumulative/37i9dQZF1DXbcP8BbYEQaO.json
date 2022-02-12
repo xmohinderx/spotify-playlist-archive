@@ -268,7 +268,7 @@
     },
     {
       "album": {
-        "name": "Altar",
+        "name": "altar",
         "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
       },
       "artists": [
@@ -281,7 +281,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 243090,
-      "name": "Altar",
+      "name": "altar",
       "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
     },
     {
@@ -569,6 +569,24 @@
       "duration_ms": 294520,
       "name": "betty",
       "url": "https://open.spotify.com/track/3IhtE4fkytdrtEfV34UzkD"
+    },
+    {
+      "album": {
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296554,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm"
     },
     {
       "album": {
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 191029,
       "name": "CORDUROY",
       "url": "https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf"
@@ -1359,6 +1377,24 @@
       "duration_ms": 158939,
       "name": "Daze Inn",
       "url": "https://open.spotify.com/track/1AnXtAoYd2YhSNQXMHhqTu"
+    },
+    {
+      "album": {
+        "name": "De l'air",
+        "url": "https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "De l'air",
+      "url": "https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU"
     },
     {
       "album": {
@@ -1849,7 +1885,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 169453,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"

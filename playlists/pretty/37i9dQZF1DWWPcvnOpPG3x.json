@@ -1,12 +1,12 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 581567,
+  "num_followers": 581616,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU0MDIwNiwwMDAwMDAwMGE4MzE3ZWJlYmIzMWZiMzY0MzgxNTE1NDczY2ZmNjUx",
+  "snapshot_id": "MTY0NDYyNjYzMiwwMDAwMDAwMDhmODkxZjFhNTg3NzUxYWFmM2U3NjdkZDE3OGNjYzY2",
   "tracks": [
     {
       "added_at": "2022-01-21 10:12:41",
@@ -31,6 +31,22 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
+        "name": "Up (Instrumental)",
+        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -51,34 +67,18 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "Up (Instrumental)",
-        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
+        "name": "Theater Of The Mind (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4zK2YeF922VXfzyxFteIfT"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "THE REV3NGE",
-        "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 147213,
-      "name": "THE REV3NGE",
-      "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
+      "duration_ms": 239813,
+      "name": "Press The Start Button",
+      "url": "https://open.spotify.com/track/1YCGoXU7dCNz1F7iFoZSUl"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -99,18 +99,18 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "Theater Of The Mind (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4zK2YeF922VXfzyxFteIfT"
+        "name": "THE REV3NGE",
+        "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
       },
       "artists": [
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 239813,
-      "name": "Press The Start Button",
-      "url": "https://open.spotify.com/track/1YCGoXU7dCNz1F7iFoZSUl"
+      "duration_ms": 147213,
+      "name": "THE REV3NGE",
+      "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -131,18 +131,22 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "NEVER LEFT",
-        "url": "https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp"
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/68E0atuSszPQYckBQ6cQnv"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 168727,
-      "name": "NEVER LEFT",
-      "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"
+      "duration_ms": 338853,
+      "name": "Live Your Life - feat. Rihanna",
+      "url": "https://open.spotify.com/track/16GHcGtW9Io7AuVdNmTjv3"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -163,26 +167,6 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/1fLdeDTrJWNkwOeFyAVLvF"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
         "name": "Lasers",
         "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 239613,
       "name": "The Show Goes On",
       "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "NEVER LEFT",
+        "url": "https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "NEVER LEFT",
+      "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -235,6 +235,26 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1fLdeDTrJWNkwOeFyAVLvF"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -251,38 +271,34 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/68E0atuSszPQYckBQ6cQnv"
+        "name": "Big Boi & Dre Present...OutKast",
+        "url": "https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 338853,
-      "name": "Live Your Life - feat. Rihanna",
-      "url": "https://open.spotify.com/track/16GHcGtW9Io7AuVdNmTjv3"
+      "duration_ms": 278906,
+      "name": "B.O.B. - Bombs Over Baghdad",
+      "url": "https://open.spotify.com/track/2xt7zAxDIExfwiivFb0o2O"
     },
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/2ixev48xYzspaWS6mxTPRU"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+      "duration_ms": 287000,
+      "name": "Country Grammar (Hot Shit)",
+      "url": "https://open.spotify.com/track/5pZrTiyyerSGHUJExDCOxZ"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -315,42 +331,6 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "Big Boi & Dre Present...OutKast",
-        "url": "https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "B.O.B. - Bombs Over Baghdad",
-      "url": "https://open.spotify.com/track/2xt7zAxDIExfwiivFb0o2O"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
         "name": "Donald Trump - Single",
         "url": "https://open.spotify.com/album/6eFkuEfykAUpthUiUeu3zw"
       },
@@ -363,6 +343,22 @@
       "duration_ms": 165851,
       "name": "Donald Trump",
       "url": "https://open.spotify.com/track/2cAmsZQwOuWBFhdBr0Za9C"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -391,18 +387,26 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "This Is Not a Test!",
-        "url": "https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK"
+        "name": "In A Perfect World...",
+        "url": "https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Bomb Intro / Pass That Dutch",
-      "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo"
+      "duration_ms": 326186,
+      "name": "Knock You Down",
+      "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -423,38 +427,18 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "Passion, Pain & Pleasure",
-        "url": "https://open.spotify.com/album/5Qex4ioxOJfHrnsWbt8Zlj"
+        "name": "This Is Not a Test!",
+        "url": "https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK"
       },
       "artists": [
         {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Bottoms Up (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2IpGdrWvIZipmaxo1YRxw5"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Tambourine",
-      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
+      "duration_ms": 217200,
+      "name": "Bomb Intro / Pass That Dutch",
+      "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -471,58 +455,6 @@
       "duration_ms": 236733,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6RGvWCHTS6BC46TsMyN0WM"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Black Skinhead",
-      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "The R.E.D. Album",
-        "url": "https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "Good Girls Go Bad",
-      "url": "https://open.spotify.com/track/7vf8yaBjR5LK9xoArmfWkA"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/2ixev48xYzspaWS6mxTPRU"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Country Grammar (Hot Shit)",
-      "url": "https://open.spotify.com/track/5pZrTiyyerSGHUJExDCOxZ"
     },
     {
       "added_at": "2022-01-21 10:12:41",
@@ -571,6 +503,166 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
+        "name": "Passion, Pain & Pleasure",
+        "url": "https://open.spotify.com/album/5Qex4ioxOJfHrnsWbt8Zlj"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Bottoms Up (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2IpGdrWvIZipmaxo1YRxw5"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Tambourine",
+      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/4ImL3v98u2BLkwnyQDjfRm"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "The R.E.D. Album",
+        "url": "https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "Good Girls Go Bad",
+      "url": "https://open.spotify.com/track/7vf8yaBjR5LK9xoArmfWkA"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/68E0atuSszPQYckBQ6cQnv"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/3tvWMBIblzT5FSjKtIeRR1"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "4:44",
+        "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 231760,
+      "name": "The Story of O.J.",
+      "url": "https://open.spotify.com/track/6JpN5w95em8SODPiM7W2PH"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy)",
+        "url": "https://open.spotify.com/album/5uKz6gPL6fyzUH9JkZ0VBU"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Joey Galaxy",
+          "url": "https://open.spotify.com/artist/1HvYwEbfOUhm2F4g9nH0vP"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy)",
+      "url": "https://open.spotify.com/track/4gdx3sBwgfZTZAqxKzQVTA"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/5w20MGXSiMtloeXjRqO8Kn"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 263146,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/26IRvCz5UZYTbLH4FrWe2L"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
         "name": "Rich Gang (Deluxe Version)",
         "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
       },
@@ -599,274 +691,6 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "TESTING",
-        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
-      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy)",
-        "url": "https://open.spotify.com/album/5uKz6gPL6fyzUH9JkZ0VBU"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Joey Galaxy",
-          "url": "https://open.spotify.com/artist/1HvYwEbfOUhm2F4g9nH0vP"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy)",
-      "url": "https://open.spotify.com/track/4gdx3sBwgfZTZAqxKzQVTA"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/4ImL3v98u2BLkwnyQDjfRm"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "In A Perfect World...",
-        "url": "https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ"
-      },
-      "artists": [
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 326186,
-      "name": "Knock You Down",
-      "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Under Ground Kings",
-      "url": "https://open.spotify.com/track/5bUwUQKGNnTE20kb3MTqHD"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Frick Park Market - Single",
-        "url": "https://open.spotify.com/album/2lhwdoEYaumz1ook0qKfzJ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 197559,
-      "name": "Frick Park Market",
-      "url": "https://open.spotify.com/track/24YpJsdgTYhUmVbAE8spH4"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "4:44",
-        "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 231760,
-      "name": "The Story of O.J.",
-      "url": "https://open.spotify.com/track/6JpN5w95em8SODPiM7W2PH"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/68E0atuSszPQYckBQ6cQnv"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Whatever You Like",
-      "url": "https://open.spotify.com/track/3tvWMBIblzT5FSjKtIeRR1"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Mastermind (Deluxe)",
-        "url": "https://open.spotify.com/album/6a4HHZe13SySfC50BGy8Hm"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 310666,
-      "name": "The Devil Is A Lie",
-      "url": "https://open.spotify.com/track/1FfxSgLHUkNCCLdZ7wrCTY"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/5w20MGXSiMtloeXjRqO8Kn"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/26IRvCz5UZYTbLH4FrWe2L"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
-    },
-    {
-      "added_at": "2022-01-21 10:12:41",
-      "album": {
         "name": "Man On The Moon: The End Of Day (Deluxe)",
         "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
       },
@@ -891,34 +715,226 @@
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "EVERYTHING IS LOVE",
-        "url": "https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46"
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
       "artists": [
         {
-          "name": "The Carters",
-          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 264853,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/62GXGpd73vslqIBHq8XqOx"
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2022-01-21 10:12:41",
       "album": {
-        "name": "The Recession",
-        "url": "https://open.spotify.com/album/0U54jjqJhihezshU9t9cuO"
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
       },
       "artists": [
         {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 247080,
-      "name": "Welcome Back",
-      "url": "https://open.spotify.com/track/14kevJV2wz3niMSxiQNPrZ"
+      "duration_ms": 212120,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Frick Park Market - Single",
+        "url": "https://open.spotify.com/album/2lhwdoEYaumz1ook0qKfzJ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 197559,
+      "name": "Frick Park Market",
+      "url": "https://open.spotify.com/track/24YpJsdgTYhUmVbAE8spH4"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/3mlWm7YnHF2DZmNP669oVS"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 320160,
+      "name": "Poppin Bottles (feat. Drake)",
+      "url": "https://open.spotify.com/track/7JNybNPTQfrbyjvH2jghkb"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Mastermind (Deluxe)",
+        "url": "https://open.spotify.com/album/6a4HHZe13SySfC50BGy8Hm"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "The Devil Is A Lie",
+      "url": "https://open.spotify.com/track/1FfxSgLHUkNCCLdZ7wrCTY"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "TESTING",
+        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Quality Street Music",
+        "url": "https://open.spotify.com/album/5qpXengyG9MHYWsRHY8bbK"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "We In This 1.5 (feat. Drake and Future)",
+      "url": "https://open.spotify.com/track/4U5ZMiy7JRhgfh2AC2UX3h"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+    },
+    {
+      "added_at": "2022-01-21 10:12:41",
+      "album": {
+        "name": "Hurtin' Me",
+        "url": "https://open.spotify.com/album/5HWdfsIN1ixzkWpKHib5Dd"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 212815,
+      "name": "Hurtin' Me",
+      "url": "https://open.spotify.com/track/2VoJe7vkKkigs7C3CGnSXL"
     }
   ],
   "unique_name": "Run This Town",

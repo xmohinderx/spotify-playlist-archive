@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Dorothy
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,608 likes - 129 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,930 likes - 129 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 82 | [No One Listened](https://open.spotify.com/track/5DNf9rLyJp4j63Ko7xev2U) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [No One Listened](https://open.spotify.com/album/6O9VCjGZCiRnsUquWCCzBd) | 3:11 |
 | 83 | [She Loves Me Not](https://open.spotify.com/track/5HQqtwfb3UtZSJUzvoSiVl) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7CKujk9GsIiPldom4TUvZN) | 2:38 |
 | 84 | [i can't get high](https://open.spotify.com/track/3OEi89tc0xveSTHAhwrFKT) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [i can't get high](https://open.spotify.com/album/7JhOqoGnIfgcHJxNq5ZnCx) | 3:08 |
-| 85 | [Nothing Else Matters](https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [Nothing Else Matters](https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w) | 6:35 |
+| 85 | [Nothing Else Matters](https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [Nothing Else Matters](https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w) | 6:35 |
 | 86 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 |
 | 87 | [The One That You Love](https://open.spotify.com/track/5NnWdv3GTcCNG5lVeB7H57) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The One That You Love](https://open.spotify.com/album/3d7Y5CW8OianRAsS74L3Hd) | 3:43 |
 | 88 | [Summer Never Dies](https://open.spotify.com/track/7ppyG40pUDh915fSp4qqBo) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Summer Never Dies](https://open.spotify.com/album/6xy0ww0FjRTIVSxwOSrPid) | 3:01 |

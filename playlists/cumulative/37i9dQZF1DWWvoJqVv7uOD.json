@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: George Ezra",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Vance Joy",
   "name": "Everyday Favorites ",
   "published_playlist_ids": [
     "57Nh8OaYOKSlXPXupFKB2E"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Background Music",
+        "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Background Music",
+      "url": "https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h"
+    },
+    {
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/6XrF9flkOo2jQuCTXPitha"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 273662,
       "name": "Birdy",
       "url": "https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 195401,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx"
@@ -428,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190252,
+      "name": "Don't Fade",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "album": {
         "name": "Don't Mess With Love",
         "url": "https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7"
       },
@@ -443,6 +479,24 @@
       "duration_ms": 202666,
       "name": "Don't Mess With Love",
       "url": "https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0ajrIRYzVQ3srvWYtlWOp5"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163095,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4mXPA7pFHil9wtWk6LaGmT"
     },
     {
       "album": {
@@ -909,7 +963,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
@@ -1047,7 +1101,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 215213,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq"
@@ -1163,7 +1217,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 208906,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7CHNIK6EGjnwpWkSpx6JZe"
@@ -1261,6 +1315,24 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "My Valentine",
+        "url": "https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208865,
+      "name": "My Valentine",
+      "url": "https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB"
     },
     {
       "album": {
@@ -1417,7 +1489,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 204216,
       "name": "Second Hand Love (feat. Ruben)",
       "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
@@ -1540,6 +1612,28 @@
     },
     {
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/0j1wU0GZ4LbqqXxiYQN2Jn"
       },
@@ -1645,7 +1739,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 174827,
       "name": "without you with me",
       "url": "https://open.spotify.com/track/0WqHYUiGuqkC7koA2l5Ou1"

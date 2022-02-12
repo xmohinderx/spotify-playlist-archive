@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Raitiere",
+          "url": "https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221533,
+      "name": "For the Birds",
+      "url": "https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn"
       },
@@ -1357,6 +1375,24 @@
       "duration_ms": 192520,
       "name": "Just Tell Me",
       "url": "https://open.spotify.com/track/5LgmjIU908hABiSPk3Ibuy"
+    },
+    {
+      "album": {
+        "name": "Learn Myself",
+        "url": "https://open.spotify.com/album/1bFjQhSYFc2pMFxZgypnJ2"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177390,
+      "name": "Learn Myself",
+      "url": "https://open.spotify.com/track/2R3PX9sHmjO8wJFMbMx9N9"
     },
     {
       "album": {
@@ -2523,6 +2559,24 @@
       "duration_ms": 167280,
       "name": "The Kind You Write Songs About",
       "url": "https://open.spotify.com/track/5cKZILs3OqtMJqMxTGlCcL"
+    },
+    {
+      "album": {
+        "name": "The Rest Of Us",
+        "url": "https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG"
+      },
+      "artists": [
+        {
+          "name": "Shy Carter",
+          "url": "https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "The Rest Of Us",
+      "url": "https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72"
     },
     {
       "album": {

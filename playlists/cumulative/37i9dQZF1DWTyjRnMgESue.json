@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 214391,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/3gZlq8DvTfgpsiAMRgtZwT"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 225614,
       "name": "back to back",
       "url": "https://open.spotify.com/track/0SQKYOdKg5bvNCbvhty9r7"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 222628,
       "name": "Before You Let Me Go",
       "url": "https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 208972,
       "name": "Being Together",
       "url": "https://open.spotify.com/track/36BRklzOXj53qpt7sXEVQR"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 222150,
       "name": "Black Boots And Leather Rebellion",
       "url": "https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 200603,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/3vutFeUl31fjJyPpAGmLGf"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 132134,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0mkkpDTCXoXWbLd9I1ThV1"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 210280,
       "name": "Control",
       "url": "https://open.spotify.com/track/2AQG1Jv6M9Ln47usagKN8z"
@@ -659,6 +659,24 @@
       "duration_ms": 271518,
       "name": "DIM",
       "url": "https://open.spotify.com/track/6wTliafSJi7OgSmVugTYwS"
+    },
+    {
+      "album": {
+        "name": "do all my friends hate me?",
+        "url": "https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "do all my friends hate me?",
+      "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
     },
     {
       "album": {
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 260338,
       "name": "Edge Of The Dark",
       "url": "https://open.spotify.com/track/5LAgxVviiDTPQNc3cvInAU"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 172626,
       "name": "Forget I Exist",
       "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 220171,
       "name": "Happier Without Me",
       "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
@@ -1359,6 +1377,24 @@
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
+    },
+    {
+      "album": {
+        "name": "Hate Me If It Helps",
+        "url": "https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194540,
+      "name": "Hate Me If It Helps",
+      "url": "https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216"
     },
     {
       "album": {
@@ -1557,7 +1593,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 196333,
       "name": "Hurt Like That",
       "url": "https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz"
@@ -1669,7 +1705,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 211533,
       "name": "I Still Believe in You",
       "url": "https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8"
@@ -1781,7 +1817,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 168186,
       "name": "Into You",
       "url": "https://open.spotify.com/track/38gXTVJbL0PuLu2D5TsnDp"
@@ -1817,7 +1853,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 245813,
       "name": "Jersey on the Wall - I'm Just Asking",
       "url": "https://open.spotify.com/track/4Ii1EFQX6EZXkojk4CO9pm"
@@ -1929,7 +1965,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 186601,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/04ZNuBUb2OAM4RUPi6s67q"
@@ -2103,7 +2139,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
@@ -2269,7 +2305,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
@@ -2327,6 +2363,24 @@
       "duration_ms": 184000,
       "name": "Molly",
       "url": "https://open.spotify.com/track/2XLQJSuY0JIVItivadN84f"
+    },
+    {
+      "album": {
+        "name": "mona lisa",
+        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190052,
+      "name": "mona lisa",
+      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
     },
     {
       "album": {
@@ -2493,7 +2547,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 229076,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/12pAzc2hvw5kCsVlGKIlD5"
@@ -2605,7 +2659,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 163636,
       "name": "Pick and Choose",
       "url": "https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo"
@@ -2717,7 +2771,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 197348,
       "name": "Rain Like This",
       "url": "https://open.spotify.com/track/5UoqxnKXdzJW609IsL0w4G"
@@ -3027,7 +3081,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 229131,
       "name": "Slow Separation",
       "url": "https://open.spotify.com/track/02hJFdZllz45ysp4caZh3z"
@@ -3063,10 +3117,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 252640,
       "name": "So Are We",
       "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+    },
+    {
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "album": {
@@ -3280,6 +3352,28 @@
     },
     {
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
         "name": "The Man Who Sees Tomorrow / Lodarore",
         "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
       },
@@ -3439,7 +3533,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 282793,
       "name": "Things I Won't Forget",
       "url": "https://open.spotify.com/track/6QLWLpbZ67om3gUNBcDFs7"
@@ -3533,7 +3627,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 206360,
       "name": "Tractor",
       "url": "https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR"
@@ -3569,7 +3663,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
@@ -3783,7 +3877,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 191572,
       "name": "Wholeheartedly",
       "url": "https://open.spotify.com/track/57Gcs9Mo5wvO8gvp3fsle5"
@@ -3949,7 +4043,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"

@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127701,
+  "num_followers": 127697,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIzOSw5Njk3ZmQwYWY5MWVhZWY2MzZjMjIxYjg1OTBlZDVkOTlhNDhhNTE0",
+  "snapshot_id": "MzI0MyxkOThjNTJhNTAzNWNlYzQ1MTI3YmE3ZjRmOWI5YzA3MGNlMWZiMzdl",
   "tracks": [
+    {
+      "added_at": "2022-02-11 17:56:52",
+      "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE"
+    },
+    {
+      "added_at": "2022-02-11 17:56:39",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S"
+      },
+      "artists": [
+        {
+          "name": "Odsen",
+          "url": "https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V"
+        },
+        {
+          "name": "Katrine Stenbekk",
+          "url": "https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp"
+    },
     {
       "added_at": "2022-02-10 17:38:43",
       "album": {
@@ -1075,46 +1115,6 @@
       "duration_ms": 223255,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/4deqAXqtabM0PUskQUelxt"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/0D1uc3g7ceS0gZWjAkEjUe"
-      },
-      "artists": [
-        {
-          "name": "Haen",
-          "url": "https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g"
-        },
-        {
-          "name": "Banaati",
-          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/7nxBtfw37vfNSV95pC8uzt"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Dream Theory",
-        "url": "https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg"
-      },
-      "artists": [
-        {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

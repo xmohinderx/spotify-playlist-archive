@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 208875,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3QjuJWCHmzJi8w3o6AT1Fq"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 236000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/3F932JvnxZiSXwwIXq6fFC"
@@ -978,6 +978,28 @@
     },
     {
       "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167186,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
+    },
+    {
+      "album": {
         "name": "Simmer (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
       },
@@ -993,7 +1015,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 167680,
       "name": "Simmer (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"

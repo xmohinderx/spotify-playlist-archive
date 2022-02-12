@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Jon Batiste",
+  "description": "Featuring that new vintage. Cover: Aiyana-Lee",
   "name": "Retro Pop",
   "published_playlist_ids": [
     "3Icin3X1CyEouQNp33mzQK"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 271054,
       "name": "9",
       "url": "https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N"
@@ -1313,10 +1313,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 224638,
       "name": "Madison",
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
+    },
+    {
+      "album": {
+        "name": "WEDNESDAY'S CHILD (SIDE A)",
+        "url": "https://open.spotify.com/album/0Xab1cM6Bk1KxUBpn3cCtC"
+      },
+      "artists": [
+        {
+          "name": "Aiyana-Lee",
+          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Make You Love Me",
+      "url": "https://open.spotify.com/track/2HQM8xlOk1K7cGsCmnfKEn"
     },
     {
       "album": {
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 233600,
       "name": "No News No Blues feat. Sunset Rollercoaster",
       "url": "https://open.spotify.com/track/7bxogppnXd6dJB2rSCjegk"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 221249,
       "name": "No Wifey",
       "url": "https://open.spotify.com/track/4NlOOhdYDA1pIksaZ7TmpB"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/1Zi74xhSWk5R13oGceGsfm"
@@ -1660,6 +1678,42 @@
     },
     {
       "album": {
+        "name": "Please Baby Please",
+        "url": "https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Please Baby Please",
+      "url": "https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Precious Love (Refreshed)",
+      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj"
       },
@@ -1671,7 +1725,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 198762,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3"
@@ -1843,6 +1897,24 @@
       "duration_ms": 150994,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/2217ssMvgWOyaZmvTWP9IA"
+    },
+    {
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb"
     },
     {
       "album": {
@@ -2023,7 +2095,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 208106,
       "name": "Sweet Chamomile",
       "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
@@ -2113,7 +2185,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 244536,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"

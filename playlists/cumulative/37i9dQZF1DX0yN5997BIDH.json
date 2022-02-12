@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-10",
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
   "name": "Tarea Casual",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6RF1E793gGxvwvWp2MLyJS"
+  ],
   "tracks": [
     {
       "album": {
@@ -195,6 +197,24 @@
       "duration_ms": 140250,
       "name": "Be Okay (with HRVY) - Acoustic",
       "url": "https://open.spotify.com/track/7mJ9bSSLbI3jeVArPtJYPK"
+    },
+    {
+      "album": {
+        "name": "Beach Boy",
+        "url": "https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192694,
+      "name": "Beach Boy",
+      "url": "https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT"
     },
     {
       "album": {
@@ -534,6 +554,24 @@
     },
     {
       "album": {
+        "name": "Freaks & Geeks",
+        "url": "https://open.spotify.com/album/6cn8UgYmHfsNr6tCQM3xud"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140824,
+      "name": "Freaks & Geeks",
+      "url": "https://open.spotify.com/track/3ZGQI9j7Sal0lMXeNlr0Da"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY"
       },
@@ -552,6 +590,24 @@
     },
     {
       "album": {
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
+    },
+    {
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -567,6 +623,24 @@
       "duration_ms": 208906,
       "name": "Golden",
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+    },
+    {
+      "album": {
+        "name": "Beg For You (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136614,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/2UluJnY6YsujKTXYHnVbvv"
     },
     {
       "album": {
@@ -635,7 +709,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 207404,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/69Ec7jd3bnV9zn2CmsurqV"
@@ -743,7 +817,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 184638,
       "name": "IDK You Yet",
       "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
@@ -809,7 +883,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 212866,
       "name": "Intentions (feat. Quavo)",
       "url": "https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV"
@@ -929,10 +1003,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 220051,
       "name": "Level of Concern",
       "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
+    },
+    {
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
+      },
+      "artists": [
+        {
+          "name": "Will Joseph Cook",
+          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
     },
     {
       "album": {
@@ -969,7 +1061,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 309666,
       "name": "Look For The Good",
       "url": "https://open.spotify.com/track/05Ysei8K5zQxvLRzHcEhhe"
@@ -1041,7 +1133,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 142773,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/50wetCP0Nsx5sIaFHCYlCe"
@@ -1143,10 +1235,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 214087,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm"
+    },
+    {
+      "album": {
+        "name": "mona lisa",
+        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190052,
+      "name": "mona lisa",
+      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
     },
     {
       "album": {
@@ -1285,7 +1395,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 240233,
       "name": "Palms (with Channel Tres)",
       "url": "https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO"
@@ -1523,7 +1633,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 170093,
       "name": "Skeletons (From \"Control Z\" Soundtrack)",
       "url": "https://open.spotify.com/track/5DpdYyyLZAD7xHJvVz1UCI"
@@ -1559,7 +1669,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 172454,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
@@ -1610,6 +1720,24 @@
     },
     {
       "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196433,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
       },
@@ -1639,7 +1767,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181480,
       "name": "stfu (i got u)",
       "url": "https://open.spotify.com/track/3hxu1tXtwME8VVAx1zENk5"

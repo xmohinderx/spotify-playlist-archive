@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 182120,
       "name": "Amor De Colegio",
       "url": "https://open.spotify.com/track/14TM4GQDBc7uQfBq1tzd78"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 233013,
       "name": "Ay Amor - Reggaeton",
       "url": "https://open.spotify.com/track/1bPhMDHk9Ry5vBs2WVuM2o"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 217066,
       "name": "Felina",
       "url": "https://open.spotify.com/track/7q3LolFezXFZttcirStxsD"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 237960,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/3FwSgJI8kdxuBJXHGRLhOi"
@@ -584,6 +584,28 @@
     },
     {
       "album": {
+        "name": "Los Bandoleros Reloaded",
+        "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265586,
+      "name": "La Vecinita",
+      "url": "https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu"
+    },
+    {
+      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
       },
@@ -625,6 +647,32 @@
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
+    },
+    {
+      "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        },
+        {
+          "name": "Gocho \"El L\u00e1piz De Platino\"",
+          "url": "https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA"
+        },
+        {
+          "name": "John Eric",
+          "url": "https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "Na De Na",
+      "url": "https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf"
     },
     {
       "album": {
@@ -815,6 +863,28 @@
     {
       "album": {
         "name": "La Melodia De La Calle",
+        "url": "https://open.spotify.com/album/49Ff1eCn22aFRuI5avDtZ6"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Permitame",
+      "url": "https://open.spotify.com/track/4uJSxi5beZ9GSzq5OKH09h"
+    },
+    {
+      "album": {
+        "name": "La Melodia De La Calle",
         "url": "https://open.spotify.com/album/26uxqzo94VkVRJDYUDi3uT"
       },
       "artists": [
@@ -927,6 +997,28 @@
       "duration_ms": 315293,
       "name": "Sali\u00f3 El Sol",
       "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "album": {
+        "name": "El Sobreviviente",
+        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Saoco",
+      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
     },
     {
       "album": {

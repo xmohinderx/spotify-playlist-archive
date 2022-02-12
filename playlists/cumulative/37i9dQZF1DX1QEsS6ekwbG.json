@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-10",
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
   "name": "Lluvia y Pop",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3LAT7fgBI9wboBNVEnAWEK"
+  ],
   "tracks": [
     {
       "album": {
@@ -263,7 +265,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 335773,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/1f6XyjXx6wUb7zdk9JWzl9"
@@ -443,7 +445,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 310400,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4X4eypK7U3nCtOegosnciD"
@@ -461,7 +463,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 202853,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe"
@@ -479,7 +481,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 172309,
       "name": "Mi Razon De Ser",
       "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
@@ -573,7 +575,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 269120,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
@@ -591,7 +593,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 240480,
       "name": "No Podras",
       "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
@@ -681,7 +683,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 250066,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5nDWALUZxhEzwbmIbjk2ZZ"
@@ -699,7 +701,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 227493,
       "name": "Para Volver a Amar",
       "url": "https://open.spotify.com/track/7kfbejwVkpfeInZ8I6fN3V"
@@ -800,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Bos\u00e9",
         "url": "https://open.spotify.com/album/22bqL24CaHAULpscOV3Dup"
       },
@@ -815,6 +835,42 @@
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7Cz6YbX8X6WNZNn2en1pUk"
+    },
+    {
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266893,
+      "name": "Sirena",
+      "url": "https://open.spotify.com/track/0jBxmxlS1YJza0SDEyTp5d"
+    },
+    {
+      "album": {
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/4f0jYdCQUUR7tEWj1vETuL"
     },
     {
       "album": {
@@ -851,7 +907,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/3bCuNSiaBHqxdevMYEnGpe"
@@ -894,6 +950,24 @@
     },
     {
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -905,7 +979,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
@@ -996,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
+    },
+    {
+      "album": {
         "name": "Tranzas Por Siempre",
         "url": "https://open.spotify.com/album/1pxJu9lc85EhtNYUczga8H"
       },
@@ -1025,7 +1117,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 236586,
       "name": "Una Emocion para Siempre",
       "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"

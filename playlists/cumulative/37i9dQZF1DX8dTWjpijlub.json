@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 200168,
       "name": "Coming In Hot",
       "url": "https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "Dreams and Nightmares",
       "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
@@ -630,6 +630,24 @@
     },
     {
       "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157506,
+      "name": "Floor Seats",
+      "url": "https://open.spotify.com/track/6AomCkEOQUODCYzQwH4SWC"
+    },
+    {
+      "album": {
         "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]",
         "url": "https://open.spotify.com/album/6k3hqPsGKPCSyBmmvCXd7B"
       },
@@ -693,7 +711,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 189306,
       "name": "From The Garden (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ONKRd9fnjK2olJ3VTFf9G"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/56AMYGJzxBO6p8v0wEe9de"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 256226,
       "name": "Many Men (Wish Death)",
       "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 142520,
       "name": "Money On Me",
       "url": "https://open.spotify.com/track/2OAZWC4eQR6b1DWrjmZldh"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 188563,
       "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
       "url": "https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 180805,
       "name": "On Go (feat. Polo G)",
       "url": "https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 120110,
       "name": "Rookie Of The Year",
       "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 131333,
       "name": "SALUTE (feat. Big Sean and Fivio Foreign)",
       "url": "https://open.spotify.com/track/7MqHj83TEQk9VOhCsbAKIO"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 158691,
       "name": "Start Wit Me (feat. Gunna)",
       "url": "https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 121650,
       "name": "Vaccine",
       "url": "https://open.spotify.com/track/3SDCwIs4eizbx4rDIgB9Lf"

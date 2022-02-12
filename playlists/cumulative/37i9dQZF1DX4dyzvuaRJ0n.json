@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Featuring new music from Flume & MAY-A, MNEK & Jax Jones, Joel Corry & Da Hool, Sofi Tukker & more!",
+  "description": "The world's biggest dance hits. Featuring new music from ODESZA, \nWilkinson & Becky Hill, Diplo & Miguel and more!",
   "name": "mint",
   "published_playlist_ids": [
     "2lDweGgvQhwyQi5R55ct4Y"
@@ -400,6 +400,28 @@
     },
     {
       "album": {
+        "name": "Color Of Your Soul",
+        "url": "https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Color Of Your Soul",
+      "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
+    },
+    {
+      "album": {
         "name": "CTRL + ALT + DEL",
         "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
       },
@@ -521,10 +543,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
     },
     {
       "album": {
@@ -837,7 +881,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 220223,
       "name": "GOOD PUSS",
       "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
@@ -881,6 +925,28 @@
       "duration_ms": 202320,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/0LqsRKslKSndc3oDiTjn9a"
+    },
+    {
+      "album": {
+        "name": "Cognition",
+        "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
     },
     {
       "album": {
@@ -1211,7 +1277,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 131065,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
@@ -1347,7 +1413,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 193720,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
@@ -1380,7 +1446,7 @@
     },
     {
       "album": {
-        "name": "Lauren",
+        "name": "Lauren (I Can't Stay Forever)",
         "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
       },
       "artists": [
@@ -1393,7 +1459,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200550,
-      "name": "Lauren",
+      "name": "Lauren (I Can't Stay Forever)",
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
@@ -1760,6 +1826,28 @@
     },
     {
       "album": {
+        "name": "Nothing Good Comes Easy",
+        "url": "https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174344,
+      "name": "Nothing Good Comes Easy",
+      "url": "https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw"
+    },
+    {
+      "album": {
         "name": "Nuclear Lethargy",
         "url": "https://open.spotify.com/album/1IrOPaGt16r7H2TYbVH83c"
       },
@@ -2035,7 +2123,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 131906,
       "name": "Reason",
       "url": "https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK"
@@ -2488,6 +2576,28 @@
     },
     {
       "album": {
+        "name": "The Last Goodbye (feat. Bettye LaVette)",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359126,
+      "name": "The Last Goodbye (feat. Bettye LaVette)",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -2719,7 +2829,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
@@ -2815,6 +2925,24 @@
       "duration_ms": 200163,
       "name": "Wherever You Go (feat. John Martin)",
       "url": "https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r"
+    },
+    {
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230945,
+      "name": "Won't Forget You - Edit",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "album": {

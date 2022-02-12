@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 208133,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/4zzzZIHr6AHXsivUku2WwU"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 209105,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
@@ -824,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Closer (IMITATION X LA LIMA)",
+        "url": "https://open.spotify.com/album/0lN6IiUrohIUJUHNggH95p"
+      },
+      "artists": [
+        {
+          "name": "LA LIMA",
+          "url": "https://open.spotify.com/artist/1IpLSlC7UpsLFoc540kvU8"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215823,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/00ETLVvFrGn5ewHWjdlkbZ"
+    },
+    {
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 189000,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 220173,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 176546,
       "name": "Don't fight the feeling",
       "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 212962,
       "name": "Fallin\u2019 (Adrenaline) - AB6IX Remix",
       "url": "https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 201786,
       "name": "Fire Saturday",
       "url": "https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 237076,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 183090,
       "name": "Given-Taken",
       "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 169506,
       "name": "Going Dumb (with Stray Kids)",
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 184426,
       "name": "HOME;RUN",
       "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 195813,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 205493,
       "name": "I CAN'T STOP ME",
       "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 203893,
       "name": "Just Breath",
       "url": "https://open.spotify.com/track/68U6oSUCvqk4MiTULbYCEd"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 214253,
       "name": "LILAC",
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 199133,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 199026,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 244089,
       "name": "No Air",
       "url": "https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma"
@@ -2615,7 +2633,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 180560,
       "name": "Paint Me Naked",
       "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
@@ -2871,6 +2889,24 @@
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt"
+    },
+    {
+      "album": {
+        "name": "Red Light, Green Light",
+        "url": "https://open.spotify.com/album/7AOjftp6myCoxMR7pnoGLB"
+      },
+      "artists": [
+        {
+          "name": "T1419",
+          "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "Red Light, Green Light",
+      "url": "https://open.spotify.com/track/4xgBVNYwDQNhtpeyxQWP8s"
     },
     {
       "album": {
@@ -3181,7 +3217,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3ndCsZfq8OVwwkz9mmZvUz"
@@ -3199,7 +3235,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
@@ -3239,7 +3275,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 210346,
       "name": "Strawberry Gum",
       "url": "https://open.spotify.com/track/2QUwkd0f6XcqwOuYpNUuBD"
@@ -3333,7 +3369,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 202313,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne"
@@ -3517,7 +3553,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181106,
       "name": "UNNATURAL",
       "url": "https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt"

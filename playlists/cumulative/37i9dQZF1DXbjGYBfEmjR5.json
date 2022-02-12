@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 213125,
       "name": "Archangel-99",
       "url": "https://open.spotify.com/track/52FMjaRWX2mHy1tPVne9c0"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 124363,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 271793,
       "name": "CATCH ME (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 345053,
       "name": "Cygnus",
       "url": "https://open.spotify.com/track/4Vcmrf9gfHvjs3Y5ZDVGH4"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Dancing All Night",
       "url": "https://open.spotify.com/track/659mVnG0vnPHRcGLly0GyK"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 303148,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 294459,
       "name": "DO YOU REMEMBER",
       "url": "https://open.spotify.com/track/0yBSPz5uyiPnciDuJb6CRi"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 142497,
       "name": "DUCK GROOVE",
       "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 132485,
       "name": "Funk Dust",
       "url": "https://open.spotify.com/track/3bx3HqxlPUfINHB3UdZGun"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 238048,
       "name": "Galactica Airlines",
       "url": "https://open.spotify.com/track/2o7IjLDnjj6g837R0dKOQJ"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 236065,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/24yzI42u0NBWMytUrR0yU9"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 192000,
       "name": "Gotta Go Crazy",
       "url": "https://open.spotify.com/track/6KZy61Sm4nT7u0klehF6OU"
@@ -1255,6 +1255,24 @@
       "duration_ms": 191274,
       "name": "Hear What They Say",
       "url": "https://open.spotify.com/track/3EsjE6KcW1uv9cUy85T7Bz"
+    },
+    {
+      "album": {
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
+      },
+      "artists": [
+        {
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/0QY7Q9fg445Q8T8bSej8tP"
     },
     {
       "album": {
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 223129,
       "name": "I Must Be Dreamin'",
       "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "If you want it",
       "url": "https://open.spotify.com/track/3qjIreg2b4kQuuerzpd06w"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 154714,
       "name": "INTEREST",
       "url": "https://open.spotify.com/track/6UdlzMokOxI2PhDi6fl9HF"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 180465,
       "name": "Little bit of your love sensation",
       "url": "https://open.spotify.com/track/333weGzkNPRuwq837OGsVI"
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 201285,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4mkq5l1EVz9FHf83RuYqi6"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 221250,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/68bgd0hTguW8GtufImrhFh"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 135019,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5QOhIyCkKcHzBSHLHZaF39"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 198105,
       "name": "Morale",
       "url": "https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 213689,
       "name": "NeoVintage",
       "url": "https://open.spotify.com/track/5zmIchjonu23srAtaV32Lx"
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 145920,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 222889,
       "name": "One World Style",
       "url": "https://open.spotify.com/track/3E39kROovCgOemHDjs2h2v"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 189545,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/02nuHFoIUqCIIo4QV2H09v"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 217500,
       "name": "Positive",
       "url": "https://open.spotify.com/track/0E2A3EhNsvWYWVqSaqisep"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 161495,
       "name": "Prague",
       "url": "https://open.spotify.com/track/2Q7yRdk1M9dqyYjWeX7iud"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 209529,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1iWY5c6rZ1Nb7THshcuf6l"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 223255,
       "name": "Selfish Earrings",
       "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
@@ -2779,7 +2797,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 226500,
       "name": "Selfish High Heels (feat. Macross 82-99 & Harrison)",
       "url": "https://open.spotify.com/track/4zFDDTSInTkLg0d0KzxqJj"
@@ -2797,7 +2815,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 151260,
       "name": "Shall We Dance?",
       "url": "https://open.spotify.com/track/4qYD74gqSIc4RZffHZl0be"
@@ -2873,7 +2891,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 219135,
       "name": "Sonic Boom",
       "url": "https://open.spotify.com/track/5HooTABpv8hlCKCzJ74LTo"
@@ -2963,7 +2981,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 225230,
       "name": "Starcatcher",
       "url": "https://open.spotify.com/track/6zlnBXuKPuGtfemZyMGdha"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 183750,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
@@ -3021,7 +3039,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 269752,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
@@ -3057,7 +3075,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 156097,
       "name": "Summer Cruise",
       "url": "https://open.spotify.com/track/6Bijp8wdLHU6bbShrQoZiT"
@@ -3151,7 +3169,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 227184,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/7ffZSO8kwi6QtF9lB56zOc"
@@ -3187,7 +3205,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 140692,
       "name": "THANK YOU",
       "url": "https://open.spotify.com/track/5xkt8vnh8OBCrnzeL9dxGs"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 149508,
       "name": "The Way U Make Me Feel",
       "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
@@ -3299,7 +3317,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6a9LRx9D3CsZ0HDP0YI3A1"
@@ -3357,7 +3375,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 292939,
       "name": "Tropical Feeling",
       "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
@@ -3433,7 +3451,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 245901,
       "name": "Virtual World",
       "url": "https://open.spotify.com/track/7GPDzEooNtmz60F7imV1jQ"
@@ -3473,7 +3491,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 273321,
       "name": "Want Cha Luv",
       "url": "https://open.spotify.com/track/7MnlsSbv1piRgRYrfQbJsK"
@@ -3491,7 +3509,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 251610,
       "name": "Want To Be Free",
       "url": "https://open.spotify.com/track/2GNiINqe4dtdqKnznDw0XF"
@@ -3561,7 +3579,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 195274,
       "name": "Welcome to the Disco",
       "url": "https://open.spotify.com/track/4idgNC6Y7rd2XRfzPphIBw"
@@ -3619,7 +3637,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 234151,
       "name": "Wonka Street",
       "url": "https://open.spotify.com/track/3SFNgDdQVYzNH62Zbohj6F"
@@ -3673,7 +3691,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 204094,
       "name": "You and I",
       "url": "https://open.spotify.com/track/4HTPKh1NpsqYOwJtw4Y68b"
@@ -3811,7 +3829,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 260625,
       "name": "\u541bKimi (You Came Along)",
       "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"

@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Bet It Back",
+        "url": "https://open.spotify.com/album/65FSEScNKeIccB0YQuhLAy"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152149,
+      "name": "Bet It Back",
+      "url": "https://open.spotify.com/track/4LUCzWbzWRwzNC59XhrjZy"
+    },
+    {
+      "album": {
         "name": "War & Wonders",
         "url": "https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN"
       },
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 223298,
       "name": "Manufacturing Consent",
       "url": "https://open.spotify.com/track/00AjxIFsPaUDwZgSemKNA2"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 91406,
       "name": "Robert Horry Freestyle",
       "url": "https://open.spotify.com/track/1YqWbETAgGG8sKS5yEFDHB"
@@ -1403,6 +1421,24 @@
       "duration_ms": 251799,
       "name": "Tabula Rasa (feat. Armand Hammer)",
       "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
+    },
+    {
+      "album": {
+        "name": "The Happy",
+        "url": "https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "The Happy",
+      "url": "https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH"
     },
     {
       "album": {

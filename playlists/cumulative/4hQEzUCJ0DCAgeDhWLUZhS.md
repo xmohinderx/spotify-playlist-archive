@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
-> GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Muse
+> GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Growing Up](https://open.spotify.com/track/01MGjcd27q8hqHiv3jztV3) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Growing Up](https://open.spotify.com/album/3Edg3KMG3X3IqQUvO2tQEl) | 4:50 | 2021-11-19 |  |
 | [Guilty Love](https://open.spotify.com/track/4RGXedMqIrohHTmhMXPnLc) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Guilty Love](https://open.spotify.com/album/3nIzN4pn6G17EXctMPCSNS) | 3:00 | 2021-03-08 |  |
 | [Hard Luck](https://open.spotify.com/track/7Cpn5JqDJR22FoF6c94lHd) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:59 | 2020-10-10\* | 2021-02-25 |
+| [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-11 |  |
 | [Hazy](https://open.spotify.com/track/1UwYheYpzp3PvBEoBmyFtd) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Hazy](https://open.spotify.com/album/433aNFBpLGYYqWzx5lY9b0) | 4:04 | 2021-09-10 |  |
 | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/track/0klnCzWGjoRQBjoPYe44Gl) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/album/6FiV1sKS2tKXj82g2iWEPv) | 3:31 | 2020-10-10\* | 2021-05-13 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-13 |  |
@@ -265,6 +266,7 @@
 | [We Should Give A Shit](https://open.spotify.com/track/172xiAGGROQByW3XkXXE2U) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [We Should Give A Shit](https://open.spotify.com/album/1Nq0s4UmUuR6xVPKYtBElZ) | 2:55 | 2021-01-29 |  |
 | [Weapons](https://open.spotify.com/track/38CuzyPnlcDIi2zLA33v9a) | [Villainy](https://open.spotify.com/artist/3TGyAB5Aa7rjP6roX8eSHe) | [Beggar EP](https://open.spotify.com/album/15Sk15EX96mIb7A2CkHe0m) | 2:28 | 2020-10-10\* | 2021-05-13 |
 | [What Do You Say?](https://open.spotify.com/track/049uE7zpFZXEKmEKnwfBei) | [DUAL](https://open.spotify.com/artist/4fgzUG6sFpomNM6sf4xOIV) | [Lately I Don't Know](https://open.spotify.com/album/6J8EUP1OEo2wDPmJ8gb7Wu) | 3:08 | 2021-02-25 |  |
+| [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-11 |  |
 | [Will You Return / When You Come Down](https://open.spotify.com/track/5cqpQ09fCDFz0YnEA8AwMo) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Will You Return / When You Come Down](https://open.spotify.com/album/4r5FnNurDlX2iVW1cunE7I) | 5:21 | 2020-10-10\* |  |
 | [Winning Hand](https://open.spotify.com/track/6vNbyb90Mo87d46ht9Fb6s) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Winning Hand](https://open.spotify.com/album/5IOgnKAgpT35nn4g7mntpy) | 3:16 | 2021-02-19 |  |
 | [Wired](https://open.spotify.com/track/6nHF7jsK6CdynJokdLK4Pe) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:11 | 2020-10-10\* | 2021-05-13 |

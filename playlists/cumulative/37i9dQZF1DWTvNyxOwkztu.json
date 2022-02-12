@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 146309,
       "name": "Africa to the World",
       "url": "https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 144000,
       "name": "Agoura Eyes",
       "url": "https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 168607,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/56AuxQI50J898m8QTtHxQR"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 161454,
       "name": "All Roads Lead Here (Edit)",
       "url": "https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 168521,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 229830,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 183529,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 205423,
       "name": "Fugue State",
       "url": "https://open.spotify.com/track/19YsbHChoiVouSEJHuWFxm"
@@ -885,6 +885,24 @@
       "duration_ms": 258559,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1p9cjLG43MuaenXlUMvzgP"
+    },
+    {
+      "album": {
+        "name": "Hands Together",
+        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
+      },
+      "artists": [
+        {
+          "name": "SOL LOS",
+          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189289,
+      "name": "Hands Together",
+      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
     },
     {
       "album": {
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 124736,
       "name": "Ipanema",
       "url": "https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 400500,
       "name": "Lost a Little",
       "url": "https://open.spotify.com/track/0jLVrPpkmHpnqaPj6yzSyK"
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 350929,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 200697,
       "name": "Lupino",
       "url": "https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 264449,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1FofRLPW08PcSxX9EEXFrI"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 132857,
       "name": "NiteGlow",
       "url": "https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 251593,
       "name": "Ocean of Love",
       "url": "https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 217043,
       "name": "Palm Beach",
       "url": "https://open.spotify.com/track/6nR1DVH1bd69bmDlrjDNvf"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 152727,
       "name": "Romance",
       "url": "https://open.spotify.com/track/22wyV35EezfLo1x4ppf1dq"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 199714,
       "name": "Romantic Seas",
       "url": "https://open.spotify.com/track/1Y24a9yOtzQsd27w8RtJNk"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 200510,
       "name": "Rose - Edit",
       "url": "https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 154419,
       "name": "Standing with You",
       "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 144905,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 160166,
       "name": "Sunny Cruisin",
       "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 203657,
       "name": "The K\u00e1rm\u00e1n Line",
       "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 198260,
       "name": "Unhappy Alien",
       "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 144444,
       "name": "Wasted Heart",
       "url": "https://open.spotify.com/track/6id4Mr1gebIDtrRpGU3kMa"
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
@@ -2573,7 +2591,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 187075,
       "name": "Wings",
       "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"

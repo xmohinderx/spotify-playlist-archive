@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-10",
   "description": "Tesoros musicales del ayer.",
   "name": "Viejitas pero Bonitas",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1j70WbpeB1BVZqorFbKNd4"
+  ],
   "tracks": [
     {
       "album": {
@@ -604,6 +606,24 @@
     },
     {
       "album": {
+        "name": "14 Exitos de Mocedades",
+        "url": "https://open.spotify.com/album/2tGvIIw2UoG502m1ARRgmd"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/7pBsUhpBTklrSv7xYsbEAn"
+    },
+    {
+      "album": {
         "name": "Juanello",
         "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
       },
@@ -802,6 +822,24 @@
     },
     {
       "album": {
+        "name": "Discograf\u00eda en Castellano",
+        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "La Mujer Que Yo Quiero",
+      "url": "https://open.spotify.com/track/3GuUtxubpUewt8tckD79Bl"
+    },
+    {
+      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -893,6 +931,24 @@
       "duration_ms": 188917,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/1OVUW7Ube0RTZIFoRRCsPE"
+    },
+    {
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/6eD6RGKhnI6AZhGPRXMGGd"
     },
     {
       "album": {
@@ -1015,7 +1071,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 152508,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ"
@@ -1109,7 +1165,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "No",
       "url": "https://open.spotify.com/track/4b4YBpIEiGsSZ0Y7v8F8DG"
@@ -1315,7 +1371,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
@@ -1387,7 +1443,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 275600,
       "name": "Quererte a Ti",
       "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
@@ -1405,7 +1461,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 181586,
       "name": "Quien",
       "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
@@ -1517,7 +1573,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 190807,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
@@ -1733,7 +1789,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 187000,
       "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
       "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"

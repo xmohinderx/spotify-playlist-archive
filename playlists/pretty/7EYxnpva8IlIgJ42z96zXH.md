@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,092 likes - 60 songs - 3 hr 0 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,088 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 29 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 |
 | 30 | [Too Much \(feat\. Usher\)](https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Too Much \(feat\. Usher\)](https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz) | 2:45 |
 | 31 | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5) | 2:50 |
-| 32 | [Lauren](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 |
+| 32 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 |
 | 33 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 |
 | 34 | [Losing My Mind](https://open.spotify.com/track/0WNjZebEUjiPEdVqfYjlcZ) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A) | [Losing My Mind](https://open.spotify.com/album/5jCXJQBJ5mZyS2pSAEqDtP) | 3:24 |
 | 35 | [Price Tags \(feat\. Anderson .Paak\) \- kryptogram Remix](https://open.spotify.com/track/417n6UbUWOdel5iXcROCd0) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Price Tags \(feat\. Anderson .Paak\) \[kryptogram Remix\]](https://open.spotify.com/album/3DXHEA8WETwFkHTlptI9Z7) | 3:41 |

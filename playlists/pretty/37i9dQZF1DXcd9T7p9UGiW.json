@@ -1,13 +1,37 @@
 {
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=SdYL_4YqTLeGftktNOmp_w\"> Adekunle Gold </a> and <a href=\"https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq?si=XVKRvFFsS262ROEK3X578A\"> Ty Dollar $ign </a>",
-  "num_followers": 2190,
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=GYiQiQm1RB6tHMR1E1cv0Q\"> 21 Savage </a>, <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=mlHgBMbNRPCUyHcFRFGBbw\"> Fireboy DML </a> and <a href=\"https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL?si=XO1D-NAhQlSfKvimxsNpIA\"> Blxst </a>",
+  "num_followers": 2205,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzkyOTMyMCwwMDAwMDAwZTAwMDAwMTdlYzFkMmJhYWEwMDAwMDE3ZWI5OWU3OTIw",
+  "snapshot_id": "MTY0NDU4NDg0MywwMDAwMDAwZjAwMDAwMTdlZThlNTM5YjIwMDAwMDE3ZWUzNTA2MjQ3",
   "tracks": [
+    {
+      "added_at": "2022-02-11 13:07:23",
+      "album": {
+        "name": "Peru (with 21 Savage & Blxst)",
+        "url": "https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 186952,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
+    },
     {
       "added_at": "2022-02-03 23:02:00",
       "album": {
@@ -195,6 +219,30 @@
       "duration_ms": 154909,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/7KPPWcM6D8ERyyOsZVoD6z"
+    },
+    {
+      "added_at": "2022-02-11 13:07:23",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/7KBOOn3YgfxMjezktYV4Wu"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4ORAkX4CM5ErQGb65Ub5ji"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -427,6 +475,30 @@
       "duration_ms": 224986,
       "name": "Try",
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
+    },
+    {
+      "added_at": "2022-02-11 13:07:23",
+      "album": {
+        "name": "Summer in the Ends (Juls Zikomo Remix)",
+        "url": "https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Zikomo",
+          "url": "https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 225267,
+      "name": "Summer in the Ends - Juls Zikomo Remix",
+      "url": "https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1535,26 +1607,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "Wasted Energy (feat. Diamond Platnumz)",
-      "url": "https://open.spotify.com/track/09vOpQsWEd7lK1OYGVhPH9"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -1647,50 +1699,6 @@
       "duration_ms": 214015,
       "name": "Take Care of You (feat. King Princess, Amaarae & Meshell Ndegeocello) - Remix",
       "url": "https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Spilled Milk 1",
-        "url": "https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
-        }
-      ],
-      "duration_ms": 215551,
-      "name": "Amnesia (with Ari Lennox & Kiddominant)",
-      "url": "https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 208968,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
     },
     {
       "added_at": "2022-01-13 23:01:00",

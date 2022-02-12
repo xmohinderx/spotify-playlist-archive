@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 198586,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 209333,
       "name": "Get Me Out of Here",
       "url": "https://open.spotify.com/track/2ODqwVvfhMZlzivpr4q07w"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 186533,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 192743,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 205604,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 212471,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 255978,
       "name": "Peaceful Ambassador",
       "url": "https://open.spotify.com/track/7wY1vzDUjDiuyq0N7otph4"
@@ -1865,10 +1865,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 222251,
       "name": "Prodigal Daughter",
       "url": "https://open.spotify.com/track/6oNmOMYzjES85AH0EJ786u"
+    },
+    {
+      "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/5nps8HamV8gstkbUzHZxoG"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R"
     },
     {
       "album": {
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 190000,
       "name": "Secret - Acoustic",
       "url": "https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 272894,
       "name": "Transatlantic",
       "url": "https://open.spotify.com/track/18pyoFqtp4BeZat5hPELtz"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 192160,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX"
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 255652,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/71iWjFGvH1mnBZiMziR6cu"

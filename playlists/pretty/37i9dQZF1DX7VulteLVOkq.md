@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,595 likes - 51 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,035 likes - 51 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 11 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
 | 12 | [Don't Let The Sun Go Down On Me \- Live At Wembley Arena / 1991](https://open.spotify.com/track/5X5jeTWAS0zzm4VN3lvqGH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Duets](https://open.spotify.com/album/5Lv4IZbfcdeAzljFwY8gzO) | 5:47 |
 | 13 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
-| 14 | [Nothing Else Matters](https://open.spotify.com/track/54OjiOo0P2qro91GkZOQxp) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 6:35 |
+| 14 | [Nothing Else Matters](https://open.spotify.com/track/54OjiOo0P2qro91GkZOQxp) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 6:35 |
 | 15 | [Circle Of Life](https://open.spotify.com/track/7em38Hh2sKwnZ1HDgxvg82) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:50 |
 | 16 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies \(Remastered\)](https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x) | 4:35 |
 | 17 | [Song For Guy](https://open.spotify.com/track/71zJRiAG1f817v9R9tYMvg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 6:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 50 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts \(Remastered\)](https://open.spotify.com/album/7jKGIW8OzSkaHUuEINdGE3) | 3:33 |
 | 51 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 
-Snapshot ID: `MTY0NDU0MDUzOCwwMDAwMDAwMDlhNTc5YWQ1YjRkODVlMTU4YjliZTE2ZmZjNWZlMTg5`
+Snapshot ID: `MTY0NDYyNzA4MCwwMDAwMDAwMDlhNTc5YWQ1YjRkODVlMTU4YjliZTE2ZmZjNWZlMTg5`

@@ -1,29 +1,13 @@
 {
-  "description": "The perfect mix of Punk, Rock, Alt  & Indie. Cover: Dry Cleaning",
-  "num_followers": 188917,
+  "description": "The perfect mix of Punk, Rock, Alt  & Indie. Cover: Fontaines D.C.",
+  "num_followers": 188999,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc0MjAzMCwwMDAwMDBhNzAwMDAwMTdlYjZhOGVhNzkwMDAwMDE3ZGE1Zjc3NWI4",
+  "snapshot_id": "MTY0NDU1NTYwMCwwMDAwMDBhODAwMDAwMTdlZTcyNzAxNDUwMDAwMDE3ZWU2MWJiNTQ1",
   "tracks": [
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
     {
       "added_at": "2022-01-14 17:48:06",
       "album": {
@@ -41,20 +25,20 @@
       "url": "https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "Million Miles of Fun",
-        "url": "https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 130399,
-      "name": "Million Miles of Fun",
-      "url": "https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n"
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2021-12-07 22:49:19",
@@ -73,58 +57,6 @@
       "url": "https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3"
     },
     {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "New Long Leg",
-        "url": "https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Scratchcard Lanyard",
-      "url": "https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Low Era",
-        "url": "https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 218887,
-      "name": "Low Era - Edit",
-      "url": "https://open.spotify.com/track/5RuSAk0rjCUXmZPGDxZf0w"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "Design (Beck Remix)",
-        "url": "https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 156338,
-      "name": "Design - Beck Remix",
-      "url": "https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6"
-    },
-    {
       "added_at": "2021-11-12 04:00:00",
       "album": {
         "name": "CRAWLER",
@@ -139,6 +71,22 @@
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "New Long Leg",
+        "url": "https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Scratchcard Lanyard",
+      "url": "https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -175,6 +123,58 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
+        "name": "AHHHH!",
+        "url": "https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "duration_ms": 144538,
+      "name": "AHHHH!",
+      "url": "https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Design (Beck Remix)",
+        "url": "https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 156338,
+      "name": "Design - Beck Remix",
+      "url": "https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 297906,
+      "name": "Good Will Hunting",
+      "url": "https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
         "name": "Bunny Man",
         "url": "https://open.spotify.com/album/03sH5Msxg1MRYmmXlbUhO2"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 178133,
       "name": "Bunny Man",
       "url": "https://open.spotify.com/track/6EBOq3nyD5vfZAHE7sGlaj"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "A Real Thing",
+        "url": "https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 215180,
+      "name": "A Real Thing",
+      "url": "https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1"
     },
     {
       "added_at": "2021-11-12 04:00:00",
@@ -205,6 +221,38 @@
       "url": "https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf"
     },
     {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "The Way It Shatters",
+        "url": "https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "duration_ms": 262105,
+      "name": "The Way It Shatters",
+      "url": "https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Million Miles of Fun",
+        "url": "https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Million Miles of Fun",
+      "url": "https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n"
+    },
+    {
       "added_at": "2022-01-07 05:01:00",
       "album": {
         "name": "Dreamsickle",
@@ -219,6 +267,22 @@
       "duration_ms": 147005,
       "name": "Dreamsickle",
       "url": "https://open.spotify.com/track/5hhYYTvx7PkLMCABivfYVS"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Low Era",
+        "url": "https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 218887,
+      "name": "Low Era - Edit",
+      "url": "https://open.spotify.com/track/5RuSAk0rjCUXmZPGDxZf0w"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -237,20 +301,36 @@
       "url": "https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw"
     },
     {
-      "added_at": "2022-01-14 22:15:32",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Jump!! (Or Get Jumped!!!)((by the future))",
-        "url": "https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8"
+        "name": "What A Memorable Night",
+        "url": "https://open.spotify.com/album/3Ez2o1q5xtJcN77qVOE7L6"
       },
       "artists": [
         {
-          "name": "Soul Glo",
-          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
         }
       ],
-      "duration_ms": 206245,
-      "name": "Jump!! (Or Get Jumped!!!)((by the future))",
-      "url": "https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv"
+      "duration_ms": 171773,
+      "name": "What A Memorable Night",
+      "url": "https://open.spotify.com/track/2k6m3RpKsAJJfRJZ1jqoTk"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -271,18 +351,18 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "Just For Love",
-        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci"
       },
       "artists": [
         {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Just For Love",
-      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
+      "duration_ms": 227600,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -303,38 +383,6 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "Weights",
-        "url": "https://open.spotify.com/album/2xiG70X5SAFIb8YOtMPpMA"
-      },
-      "artists": [
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 156459,
-      "name": "Weights",
-      "url": "https://open.spotify.com/track/0GGqqihnFeI2asyfdHhXmV"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "Comfort To Me",
-        "url": "https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Security",
-      "url": "https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
         "name": "Welfare Jazz",
         "url": "https://open.spotify.com/album/6Kni5BJN0cqBMXqANtHGG8"
       },
@@ -351,18 +399,50 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "AHHHH!",
-        "url": "https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F"
+        "name": "Weights",
+        "url": "https://open.spotify.com/album/2xiG70X5SAFIb8YOtMPpMA"
       },
       "artists": [
         {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
         }
       ],
-      "duration_ms": 144538,
-      "name": "AHHHH!",
-      "url": "https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q"
+      "duration_ms": 156459,
+      "name": "Weights",
+      "url": "https://open.spotify.com/track/0GGqqihnFeI2asyfdHhXmV"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Let Me Do One More",
+        "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "duration_ms": 184756,
+      "name": "MMMOOOAAAAAYAYA",
+      "url": "https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk"
+    },
+    {
+      "added_at": "2022-01-14 22:15:32",
+      "album": {
+        "name": "Jump!! (Or Get Jumped!!!)((by the future))",
+        "url": "https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8"
+      },
+      "artists": [
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        }
+      ],
+      "duration_ms": 206245,
+      "name": "Jump!! (Or Get Jumped!!!)((by the future))",
+      "url": "https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv"
     },
     {
       "added_at": "2021-10-22 19:19:32",
@@ -379,6 +459,38 @@
       "duration_ms": 220285,
       "name": "TV or Not TV",
       "url": "https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2"
+    },
+    {
+      "added_at": "2022-01-18 16:47:46",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/6P35XBAEzdCPgbMuP49cxC"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Just For Love",
+        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Just For Love",
+      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -431,6 +543,22 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
+        "name": "i'm gonna tell my therapist on you",
+        "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 161062,
+      "name": "i'm gonna tell my therapist on you",
+      "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
         "name": "Mirror II",
         "url": "https://open.spotify.com/album/06swqSES9WCGwO1LRhXrxw"
       },
@@ -443,6 +571,38 @@
       "duration_ms": 247051,
       "name": "In the Stone",
       "url": "https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Lava Lamp Pisco",
+        "url": "https://open.spotify.com/album/6OxduyVLmp55HliX26j59W"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 241859,
+      "name": "Lava Lamp Pisco",
+      "url": "https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE"
+    },
+    {
+      "added_at": "2022-02-01 19:00:30",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk"
+      },
+      "artists": [
+        {
+          "name": "Mattiel",
+          "url": "https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs"
     },
     {
       "added_at": "2021-10-07 23:14:15",
@@ -459,22 +619,6 @@
       "duration_ms": 173573,
       "name": "Alphabet",
       "url": "https://open.spotify.com/track/32Xy5JWUdXb4GLZ0Eug06N"
-    },
-    {
-      "added_at": "2022-01-18 16:47:46",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/6P35XBAEzdCPgbMuP49cxC"
     },
     {
       "added_at": "2021-10-07 23:14:15",
@@ -507,22 +651,6 @@
       "duration_ms": 143706,
       "name": "Handheld",
       "url": "https://open.spotify.com/track/5HKd4zf5JNQAdna8bt3e92"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "Let Me Do One More",
-        "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
-      },
-      "artists": [
-        {
-          "name": "illuminati hotties",
-          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
-        }
-      ],
-      "duration_ms": 184756,
-      "name": "MMMOOOAAAAAYAYA",
-      "url": "https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -573,20 +701,20 @@
       "url": "https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV"
     },
     {
-      "added_at": "2022-02-01 19:00:30",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk"
+        "name": "Criminal Nah",
+        "url": "https://open.spotify.com/album/3dYbpYSo9QSBVstX4ZJtXo"
       },
       "artists": [
         {
-          "name": "Mattiel",
-          "url": "https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q"
+          "name": "Punkband",
+          "url": "https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos"
         }
       ],
-      "duration_ms": 223760,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs"
+      "duration_ms": 123699,
+      "name": "Criminal Nah",
+      "url": "https://open.spotify.com/track/03861A0DheRnNMgTnD1bT3"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -607,22 +735,6 @@
       "duration_ms": 508733,
       "name": "Narrator",
       "url": "https://open.spotify.com/track/7huadpt8KliYzrj38MXTp6"
-    },
-    {
-      "added_at": "2021-10-07 23:14:15",
-      "album": {
-        "name": "Motel #27",
-        "url": "https://open.spotify.com/album/5R6iPKAslcZJBhP9r6IqNJ"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Motel #27",
-      "url": "https://open.spotify.com/track/74e2qzhkn66GvgTLJAicFR"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -707,22 +819,6 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "i'm gonna tell my therapist on you",
-        "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 161062,
-      "name": "i'm gonna tell my therapist on you",
-      "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
         "name": "Gum",
         "url": "https://open.spotify.com/album/59vxZFROZPhQWwJGdJlLYH"
       },
@@ -751,6 +847,22 @@
       "duration_ms": 194010,
       "name": "Dirty Water",
       "url": "https://open.spotify.com/track/45YxYUys5nuXLwrV4DnxFF"
+    },
+    {
+      "added_at": "2021-10-07 23:14:15",
+      "album": {
+        "name": "Motel #27",
+        "url": "https://open.spotify.com/album/5R6iPKAslcZJBhP9r6IqNJ"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Motel #27",
+      "url": "https://open.spotify.com/track/74e2qzhkn66GvgTLJAicFR"
     },
     {
       "added_at": "2021-10-07 23:14:15",
@@ -943,22 +1055,6 @@
       "duration_ms": 130329,
       "name": "four days",
       "url": "https://open.spotify.com/track/24S8SDMXhsdqtDYTubh5po"
-    },
-    {
-      "added_at": "2021-10-07 23:14:15",
-      "album": {
-        "name": "High Risk Behaviour",
-        "url": "https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7"
-      },
-      "artists": [
-        {
-          "name": "The Chats",
-          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
-        }
-      ],
-      "duration_ms": 75760,
-      "name": "Drunk n Disorderly",
-      "url": "https://open.spotify.com/track/4NyQwUbqvKp9RQAdhqAHX0"
     },
     {
       "added_at": "2021-10-07 23:14:15",
@@ -1687,38 +1783,6 @@
       "duration_ms": 227261,
       "name": "Keep The Lights On Me",
       "url": "https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5"
-    },
-    {
-      "added_at": "2021-10-07 23:14:15",
-      "album": {
-        "name": "See-Thru",
-        "url": "https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6"
-      },
-      "artists": [
-        {
-          "name": "LURK",
-          "url": "https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR"
-        }
-      ],
-      "duration_ms": 186977,
-      "name": "See-Thru",
-      "url": "https://open.spotify.com/track/634FJRZsXbx849oSoClH4f"
-    },
-    {
-      "added_at": "2021-10-07 23:14:15",
-      "album": {
-        "name": "Metaphor",
-        "url": "https://open.spotify.com/album/78JxJZ9mOOUKyWPeXhGDE3"
-      },
-      "artists": [
-        {
-          "name": "Mt. Eddy",
-          "url": "https://open.spotify.com/artist/5gtaNT5WUXaEQsD0wyCKiq"
-        }
-      ],
-      "duration_ms": 211086,
-      "name": "Metaphor",
-      "url": "https://open.spotify.com/track/1PK5qU40CnH8RKrudFyo6t"
     }
   ],
   "unique_name": "Noisy",

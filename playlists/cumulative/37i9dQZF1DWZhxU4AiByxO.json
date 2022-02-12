@@ -1678,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 34",
         "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
       },

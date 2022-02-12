@@ -9468,6 +9468,24 @@
     },
     {
       "album": {
+        "name": "Tataki",
+        "url": "https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328780,
+      "name": "Tataki",
+      "url": "https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG"
+    },
+    {
+      "album": {
         "name": "Are You Alright?",
         "url": "https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR"
       },
@@ -10811,7 +10829,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/48q0vSHcJdhK3IiXH8C5WJ"

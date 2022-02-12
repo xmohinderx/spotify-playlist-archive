@@ -1496,6 +1496,24 @@
     },
     {
       "album": {
+        "name": "El Amor y Yo",
+        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176010,
+      "name": "So\u00f1ando Despierto",
+      "url": "https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep"
+    },
+    {
+      "album": {
         "name": "Su Payita (Gramos)",
         "url": "https://open.spotify.com/album/2kCottSg9MVr1WU5284qM4"
       },

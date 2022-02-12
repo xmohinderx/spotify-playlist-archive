@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 188014,
       "name": "Another",
       "url": "https://open.spotify.com/track/16ayXVtAftZYobyrNsZUQv"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 223129,
       "name": "Breakups",
       "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 221240,
       "name": "Country Again",
       "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
@@ -433,10 +433,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 162885,
       "name": "Fill Them Boots",
       "url": "https://open.spotify.com/track/4RBcYEl3yD9gYQE94LxFmE"
+    },
+    {
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/0voFHUrIEBk7lmD24SY9kp"
+      },
+      "artists": [
+        {
+          "name": "BROWN & GRAY",
+          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180025,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/6zuVzhogxotQnXIxr2wLE5"
     },
     {
       "album": {
@@ -535,6 +553,24 @@
       "duration_ms": 231832,
       "name": "half of my hometown (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
+    },
+    {
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "album": {
@@ -676,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Real To Me",
+        "url": "https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "It\u2019s \u2018Cause I Am",
+      "url": "https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg"
+    },
+    {
+      "album": {
         "name": "Just About Over You",
         "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
       },
@@ -709,7 +763,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D"
@@ -951,7 +1005,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
@@ -1341,7 +1395,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 178461,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,865 likes - 134 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,038 likes - 134 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 63 | [You Give Me A Feeling](https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12) | 3:05 |
 | 64 | [Come Get it](https://open.spotify.com/track/6jmIzibtPrsbjEWypEtoXB) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Come Get It](https://open.spotify.com/album/47c58jhddUNepNOMFsIr4b) | 2:49 |
 | 65 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
-| 66 | [Lauren](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 |
+| 66 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 |
 | 67 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
 | 68 | [POPPIN](https://open.spotify.com/track/2zQDHAgYLtXRLhxY2gVc1N) | [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy), [Danny Quest](https://open.spotify.com/artist/3F3uRvVluLsFqBrGaeJP3p) | [POPPIN](https://open.spotify.com/album/5G7GKIuDwEPmiqBHKoSnkM) | 3:07 |
 | 69 | [Walking](https://open.spotify.com/track/123zeArT5tWf1bQ5slqkwW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Running](https://open.spotify.com/album/16Kon7rTm0D4jOwEu2me2c) | 5:03 |

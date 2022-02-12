@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136600,
+      "name": "ALONE (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -157,6 +179,24 @@
       "duration_ms": 186720,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5n7vs4XFi3JWZLJpcxLthV"
+    },
+    {
+      "album": {
+        "name": "Bentley Bentayga!",
+        "url": "https://open.spotify.com/album/2f6729ADgDdc5Sfhu7GMmK"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115927,
+      "name": "Bentley Bentayga!",
+      "url": "https://open.spotify.com/track/34eGc2hu8Ye6AuRJWvq0ES"
     },
     {
       "album": {
@@ -359,7 +399,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 192021,
       "name": "Cold December",
       "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
@@ -557,7 +597,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 186462,
       "name": "Don't Miss",
       "url": "https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW"
@@ -601,6 +641,28 @@
       "duration_ms": 219660,
       "name": "Faith",
       "url": "https://open.spotify.com/track/122br9dGnrQQgo5j19qeif"
+    },
+    {
+      "album": {
+        "name": "Falling Off",
+        "url": "https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264272,
+      "name": "Falling Off (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381"
     },
     {
       "album": {
@@ -699,7 +761,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 130169,
       "name": "Free Mason",
       "url": "https://open.spotify.com/track/4kisEdLXmdb4MVr25XZV9B"
@@ -721,6 +783,42 @@
       "duration_ms": 109852,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/7hN02og1TARl5EER4wURPb"
+    },
+    {
+      "album": {
+        "name": "Grinding All Season",
+        "url": "https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "Grinding All Season",
+      "url": "https://open.spotify.com/track/1p2AbhtzG2Njx2x0JB83zA"
+    },
+    {
+      "album": {
+        "name": "HANDSOMER",
+        "url": "https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "HANDSOMER",
+      "url": "https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc"
     },
     {
       "album": {
@@ -943,6 +1041,28 @@
       "duration_ms": 173423,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/4XfkvrC5rmOYqeTP2ft7lj"
+    },
+    {
+      "album": {
+        "name": "Leveled Up (with Lil Keed)",
+        "url": "https://open.spotify.com/album/4fPY2RYlB8LGzJKEKbAm6X"
+      },
+      "artists": [
+        {
+          "name": "Lil PJ",
+          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
+        },
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159647,
+      "name": "Leveled Up (with Lil Keed)",
+      "url": "https://open.spotify.com/track/4aVYveKcpY3eA5EQE63ZF6"
     },
     {
       "album": {
@@ -1253,7 +1373,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 151285,
       "name": "NO TRENDS",
       "url": "https://open.spotify.com/track/3ItezvVKyAyy0nxf6yJpcx"
@@ -1448,6 +1568,32 @@
     },
     {
       "album": {
+        "name": "Holy Goat 2",
+        "url": "https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR"
+      },
+      "artists": [
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        },
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186302,
+      "name": "Pain in the Ghetto (feat. Trae tha Truth & Lil Jairmy)",
+      "url": "https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49"
+    },
+    {
+      "album": {
         "name": "ALIEN",
         "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
       },
@@ -1485,7 +1631,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 125373,
       "name": "Pop Music (feat. Moneybagg Yo & Beatking)",
       "url": "https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour"
@@ -1718,6 +1864,50 @@
     },
     {
       "album": {
+        "name": "Truth Season: The United Streets of America",
+        "url": "https://open.spotify.com/album/2fdB12wI8rq06FOkwz2YRc"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202012,
+      "name": "Shake Em Off (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/7JkFYCGtKLrpXMkLuzGCfh"
+    },
+    {
+      "album": {
+        "name": "She Luv Me",
+        "url": "https://open.spotify.com/album/3WtDxiYCu5F2fLaSinmpgF"
+      },
+      "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122276,
+      "name": "She Luv Me",
+      "url": "https://open.spotify.com/track/7FVLHsRf12tO36rfeD2mXr"
+    },
+    {
+      "album": {
         "name": "Silent (feat. Blac Youngsta)",
         "url": "https://open.spotify.com/album/2GyvzytHS3KJ3E9HZmtViD"
       },
@@ -1857,7 +2047,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 149903,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN"
@@ -1945,10 +2135,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 216357,
       "name": "Too Hot (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9"
+    },
+    {
+      "album": {
+        "name": "UonU (feat. Yung Bleu)",
+        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218205,
+      "name": "UonU (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
     },
     {
       "album": {
@@ -1981,7 +2193,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 280004,
       "name": "Walkin",
       "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
@@ -1999,7 +2211,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 70104,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/1kWjuuleSkjjdncR75pGcj"
@@ -2053,7 +2265,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 169340,
       "name": "WIN",
       "url": "https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK"
@@ -2075,6 +2287,24 @@
       "duration_ms": 154291,
       "name": "WOKEUPTHINKINBOUT",
       "url": "https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9"
+    },
+    {
+      "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
     },
     {
       "album": {
@@ -2133,7 +2363,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 157714,
       "name": "YEET (feat. Yeat)",
       "url": "https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk"

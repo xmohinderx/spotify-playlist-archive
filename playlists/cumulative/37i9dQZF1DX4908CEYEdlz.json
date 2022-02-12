@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "4 (feat. Myles Kennedy and The Conspirators)",
+        "url": "https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241954,
+      "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
+    },
+    {
+      "album": {
         "name": "Alone Again",
         "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
       },
@@ -312,6 +334,24 @@
     },
     {
       "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
+    },
+    {
+      "album": {
         "name": "Dad Vibes",
         "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
       },
@@ -575,7 +615,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 256838,
       "name": "Errors In The History Of God",
       "url": "https://open.spotify.com/track/4EgZsimoWRGu3TtqqoQSMZ"
@@ -1491,7 +1531,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 195661,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA"

@@ -158,6 +158,28 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136600,
+      "name": "ALONE (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK"
+    },
+    {
+      "album": {
         "name": "American Horror Story",
         "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
       },
@@ -253,7 +275,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 252373,
       "name": "Black Tame",
       "url": "https://open.spotify.com/track/2nAEYxNIEC5vh1HrLUbH7L"
@@ -333,7 +355,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 296048,
       "name": "BYE",
       "url": "https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd"
@@ -377,6 +399,24 @@
       "duration_ms": 161306,
       "name": "CAMBRIDGE",
       "url": "https://open.spotify.com/track/03roJhRO5AbUy0UGiukxQm"
+    },
+    {
+      "album": {
+        "name": "Channel Zero",
+        "url": "https://open.spotify.com/album/2rkyeEPGwWiD1lyD3QRbvm"
+      },
+      "artists": [
+        {
+          "name": "Raury",
+          "url": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230170,
+      "name": "Channel Zero",
+      "url": "https://open.spotify.com/track/5yPOxCrlFlNuNnv8OYA50h"
     },
     {
       "album": {
@@ -535,7 +575,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 280500,
       "name": "CULT",
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
@@ -597,7 +637,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 171453,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
@@ -615,7 +655,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 186462,
       "name": "Don't Miss",
       "url": "https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW"
@@ -721,7 +761,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 187669,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4NpGQqfAGuIkMVRgVD5VRX"
@@ -965,7 +1005,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 193109,
       "name": "Kimbo Slice",
       "url": "https://open.spotify.com/track/1uRvYHBetRUQNsHrSlrlUi"
@@ -1023,7 +1063,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 170161,
       "name": "Lockheed Martin",
       "url": "https://open.spotify.com/track/2erIahu8nnIHe4gKtwmxYY"
@@ -1157,7 +1197,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 145466,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1ayd7oWv0DPtwY4dZGMwbt"
@@ -1277,7 +1317,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/4ROzAiT7TDnLNwZm1LWepl"
@@ -1313,7 +1353,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 179200,
       "name": "No Kure",
       "url": "https://open.spotify.com/track/7lptWvJDvjipxGWUm2nsfS"
@@ -1353,7 +1393,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 182512,
       "name": "NOHO (feat. ICECOLDBISHOP)",
       "url": "https://open.spotify.com/track/0BkyTpyhncIxJMmYPZZOcV"
@@ -1436,6 +1476,28 @@
     },
     {
       "album": {
+        "name": "Options (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128810,
+      "name": "Options (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/2xIwaswWMyUtM5h8wxA5gH"
       },
@@ -1487,7 +1549,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 190838,
       "name": "Peso",
       "url": "https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO"
@@ -1695,7 +1757,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 108045,
       "name": "riddle",
       "url": "https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM"
@@ -1717,7 +1779,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -1981,7 +2043,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -2061,7 +2123,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 270670,
       "name": "trademark usa",
       "url": "https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF"
@@ -2251,7 +2313,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-12",
       "duration_ms": 154291,
       "name": "WOKEUPTHINKINBOUT",
       "url": "https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9"
@@ -2335,7 +2397,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 236337,
       "name": "Youtube2MP3",
       "url": "https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ"

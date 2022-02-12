@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Mi Tambien",
+        "url": "https://open.spotify.com/album/3oGNeC63uyqRudbdsM5LUM"
+      },
+      "artists": [
+        {
+          "name": "Twinjabi",
+          "url": "https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163608,
+      "name": "A Mi Tambien",
+      "url": "https://open.spotify.com/track/547U8y8hkL0VwiGWQIawVi"
+    },
+    {
+      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/3VnubNDl7WjNDmXTjOdyXG"
       },

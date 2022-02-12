@@ -1904,6 +1904,28 @@
     },
     {
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272527,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB"
+    },
+    {
+      "album": {
         "name": "Gemini (Octave Remastered Series)",
         "url": "https://open.spotify.com/album/41sYqKPEygmvQrLXKpzWJU"
       },

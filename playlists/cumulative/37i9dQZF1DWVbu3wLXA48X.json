@@ -504,6 +504,32 @@
     },
     {
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/40FZJu1z9sHJD8qYLqifUm"
+      },
+      "artists": [
+        {
+          "name": "CHARLES.",
+          "url": "https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV"
+        },
+        {
+          "name": "Kim Chi Sun",
+          "url": "https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh"
+        },
+        {
+          "name": "Jsdrmns",
+          "url": "https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/6SQJyYv6qZHhneGddKRdT0"
+    },
+    {
+      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/2WbV33yIUttsYS4sk5Zcom"
       },
