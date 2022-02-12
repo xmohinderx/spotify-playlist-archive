@@ -1506,6 +1506,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [New Music Friday Latin](/playlists/pretty/37i9dQZF1DX1hVRardJ30X.md)
 - [New Music Friday Malaysia](/playlists/pretty/37i9dQZF1DWZMWLrh2UzwC.md)
 - [New Music Friday Sweden](/playlists/pretty/37i9dQZF1DXcecv7ESbOPu.md)
+- [New Music Friday Switzerland](/playlists/pretty/37i9dQZF1DX3crNbt46mRU.md)
 - [New Music Friday: The Popjustice Edit](/playlists/pretty/5s7cNVeGfehrRfCatNN43P.md)
 - [New Music Holiday](/playlists/pretty/37i9dQZF1DX5vMTfJy5XKE.md)
 - [New Music Nashville](/playlists/pretty/37i9dQZF1DWVn8zvR5ROMB.md)
