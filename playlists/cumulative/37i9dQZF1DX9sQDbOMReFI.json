@@ -184,6 +184,24 @@
     },
     {
       "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288560,
+      "name": "Bitches Ain't Shit",
+      "url": "https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU"
+    },
+    {
+      "album": {
         "name": "Uncle Sam's Curse",
         "url": "https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb"
       },
@@ -362,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Dear Mama",
+      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    {
+      "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
@@ -439,7 +475,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 336293,
       "name": "Drop",
       "url": "https://open.spotify.com/track/1OtuQOXXwUlVtANl1FeYZg"
@@ -665,7 +701,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 259279,
       "name": "Getto Jam",
       "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
@@ -756,6 +792,24 @@
     },
     {
       "album": {
+        "name": "Music To Driveby",
+        "url": "https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS"
+      },
+      "artists": [
+        {
+          "name": "Compton's Most Wanted",
+          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Hood Took Me Under",
+      "url": "https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F"
+    },
+    {
+      "album": {
         "name": "Cypress Hill",
         "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
       },
@@ -833,7 +887,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 174600,
       "name": "I Wanna Get High",
       "url": "https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd"
@@ -923,7 +977,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 269973,
       "name": "It's Funky Enough - Remastered Single",
       "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
@@ -967,6 +1021,24 @@
       "duration_ms": 257600,
       "name": "It's Okay (One Blood)",
       "url": "https://open.spotify.com/track/5hg3xm9mxcz9Xb6r59y9Ow"
+    },
+    {
+      "album": {
+        "name": "Get In Where You Fit In",
+        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441826,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE"
     },
     {
       "album": {
@@ -1079,7 +1151,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 196466,
       "name": "More Than A Player",
       "url": "https://open.spotify.com/track/3dEOHQ7KHzgBSStXvj6Df1"
@@ -1144,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Death Certificate",
+        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313546,
+      "name": "No Vaseline",
+      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
+    },
+    {
+      "album": {
         "name": "Best Of Mack 10",
         "url": "https://open.spotify.com/album/2esSqztHIhZfXup4PihEoD"
       },
@@ -1199,7 +1289,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 321506,
       "name": "Otha Fish",
       "url": "https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx"
@@ -1435,7 +1525,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 274306,
       "name": "Straight Up Menace",
       "url": "https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO"
@@ -1453,7 +1543,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 287066,
       "name": "Strap On The Side",
       "url": "https://open.spotify.com/track/3sfAumzy0rGj6WEhuuRqz6"
@@ -1493,6 +1583,24 @@
       "duration_ms": 302133,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
+    },
+    {
+      "album": {
+        "name": "Sex Packets",
+        "url": "https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391693,
+      "name": "The Humpty Dance",
+      "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu"
     },
     {
       "album": {

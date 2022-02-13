@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: Becky G, KAROL G \- MAMIII](https://open.spotify.com/playlist/0XKuKfe6wE2BiHuZmRcrHV)
+### [HOT NOW: Becky G, KAROL G \- MAMIII](https://open.spotify.com/playlist/0hka2nmidPwwKg7Sq9Vcr2)
 
 > ¡No busques más! La música del momento está aquí.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sabaton on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,721 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,020 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 17 | [Bastards](https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k) | 5:25 |
 | 18 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
 | 19 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
-| 20 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break the Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
+| 20 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
 | 21 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 |
 | 22 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 |
 | 23 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 |

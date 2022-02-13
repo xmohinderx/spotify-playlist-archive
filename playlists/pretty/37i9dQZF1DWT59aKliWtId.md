@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Spoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,599 likes - 119 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,644 likes - 119 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 159011,
       "name": "Good as Hell (feat. Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 191611,
       "name": "I Miss Myself (with HRVY)",
       "url": "https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 138282,
       "name": "Kiss Somebody",
       "url": "https://open.spotify.com/track/17XU1PTSv4OfcBUE8rNYWm"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 174779,
       "name": "Live Forever (With Cheat Codes)",
       "url": "https://open.spotify.com/track/4D3IIkBWnpL097OkljGnRW"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
@@ -2201,7 +2201,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 190360,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
@@ -2318,6 +2318,24 @@
     },
     {
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/53DrBEDi1AvhWOtCdljUiu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/3SPDQfj2UfWq6A2NllZnzn"
+    },
+    {
+      "album": {
         "name": "Where The Lights Are Low",
         "url": "https://open.spotify.com/album/5ymCqifRmYTEyN4dlZf7Vq"
       },
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 180840,
       "name": "With You",
       "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"

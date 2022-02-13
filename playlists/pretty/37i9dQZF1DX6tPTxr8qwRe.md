@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,888 likes - 86 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,100 likes - 86 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 18 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 |
 | 19 | [Dirty Thoughts](https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil) | 2:09 |
 | 20 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 |
-| 21 | [She Knows It](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [She Knows It](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 |
+| 21 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 |
 | 22 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 |
 | 23 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 |
 | 24 | [SUCKER4PAIN](https://open.spotify.com/track/5pZdqQTXSH5A1tLYg3JiPw) | [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [Jxve](https://open.spotify.com/artist/2WupjRbsK0tgRY3pFyF37o) | [SUCKER4PAIN](https://open.spotify.com/album/7wMQoZWDeXJBeldAlKWMs2) | 2:32 |

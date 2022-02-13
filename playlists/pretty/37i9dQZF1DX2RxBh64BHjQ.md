@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: Mike Dimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,600,839 likes - 99 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,601,190 likes - 99 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Still Countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still Countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
+| 1 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
 | 2 | [Said It’s Lit](https://open.spotify.com/track/4sw5u1NAL7Wd1WaPBEHOFj) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Said It’s Lit](https://open.spotify.com/album/7vkA6H43oTStJyxEJeyIiI) | 2:30 |
 | 3 | [Nobody \(feat\. Dreezy\)](https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Time is Muney](https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt) | 3:15 |
 | 4 | [Evil](https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil](https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0) | 2:19 |

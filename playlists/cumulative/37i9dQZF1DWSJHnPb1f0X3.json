@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 159924,
       "name": "Can't Get Over You (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/46BIpPudYCyNxUTz4f2E8k"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 195079,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 159045,
       "name": "Feels In My Body",
       "url": "https://open.spotify.com/track/6wzwvyZ4kVPoUYDYjgErWJ"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 149032,
       "name": "Gotta Be You",
       "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 185750,
       "name": "Hold Me Close (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6"
@@ -2110,6 +2110,32 @@
     },
     {
       "album": {
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/7fJDWjb2TIPYJGq3vA9xrf"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "Mannymore",
+          "url": "https://open.spotify.com/artist/4nJ7nW0IQpvHymuih4y6OC"
+        },
+        {
+          "name": "Alex Fraser",
+          "url": "https://open.spotify.com/artist/303NssdQ2KNi8fBhKkpfKL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "Moth To A Flame",
+      "url": "https://open.spotify.com/track/3NxKX7IZKiFdC73zO4UnnJ"
+    },
+    {
+      "album": {
         "name": "My Head & My Heart (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
       },
@@ -2279,7 +2305,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 167222,
       "name": "No Chill (feat. Lil Xxel)",
       "url": "https://open.spotify.com/track/5oh6lXsQ3mhw5PvcsJqvXg"
@@ -2471,7 +2497,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 183859,
       "name": "Psycho - Joel Corry Remix",
       "url": "https://open.spotify.com/track/3XPl3dGn1oWe7VmKoB8nhU"
@@ -2563,7 +2589,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198946,
       "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
       "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
@@ -2581,7 +2607,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 193018,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
@@ -2695,7 +2721,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 197419,
       "name": "S.I.L.W.U. - Bynon Remix",
       "url": "https://open.spotify.com/track/5PhxtyE2zWyZ3P7nmmeLxZ"
@@ -2735,7 +2761,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 149279,
       "name": "Safe With Me",
       "url": "https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7"
@@ -2827,7 +2853,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 165916,
       "name": "Set Me Free (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/1uGsxm2hkpBHiPvn8g2zwH"
@@ -2853,7 +2879,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 193364,
       "name": "Set Me Free (feat. MAX)",
       "url": "https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U"
@@ -3015,7 +3041,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 208570,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/3d5sy82qemYO5B5TljeoBs"
@@ -3295,7 +3321,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 167213,
       "name": "that way - Jonasu Remix",
       "url": "https://open.spotify.com/track/6Asu7oyQxcmONn4HypXV7n"
@@ -3339,7 +3365,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 132884,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/2bYfO0qhqwtrhbmxeLnVMF"
@@ -3531,7 +3557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 186264,
       "name": "We're Good - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/5Ja8ZlVexmTQKbWAQgZ3f0"

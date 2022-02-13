@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new core at its finest\. Cover: Smash Into Pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,324 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,453 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Obsession](https://open.spotify.com/track/1yR2RjmQ2SuFp33KnEOXEk) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Obsession](https://open.spotify.com/album/5f9suvoGnZN8k4h55sVJLt) | 3:30 |
 | 2 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 |
 | 3 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 |
-| 4 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break the Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
+| 4 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
 | 5 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 |
 | 6 | [The Prophet](https://open.spotify.com/track/7hbyBiX9EMUHFwDywq5xbn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Boxes](https://open.spotify.com/album/2WpKNIxZkJGUyJuKsYD306) | 4:16 |
 | 7 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 |

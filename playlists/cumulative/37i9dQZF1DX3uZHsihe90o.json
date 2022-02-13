@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "All I Need Is Your Smile",
+        "url": "https://open.spotify.com/album/0fNZ0lr45AD8IZJBdnxSTF"
+      },
+      "artists": [
+        {
+          "name": "Sonia De Los Santos",
+          "url": "https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143653,
+      "name": "All I Need Is Your Smile",
+      "url": "https://open.spotify.com/track/7jax7ShpqTK4khC0Ixzeyk"
+    },
+    {
+      "album": {
         "name": "Tumble Bee",
         "url": "https://open.spotify.com/album/41bFok4mb7CrZlC8NioTGe"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 159546,
       "name": "Awesome Blossom",
       "url": "https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 195553,
       "name": "Cloud Watching (Sky's the Limit)",
       "url": "https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 201055,
       "name": "Every Pigeon Is a Dove",
       "url": "https://open.spotify.com/track/2zFjsuLzDzHnGo5lTA6NSK"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 155966,
       "name": "Hambone",
       "url": "https://open.spotify.com/track/0wFFx8vFTw1tPHMnAjCnxe"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 128744,
       "name": "In the Kitchen",
       "url": "https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198200,
       "name": "La Le Too Dum Day",
       "url": "https://open.spotify.com/track/4MNLnqzsdMNcycrR3h5Lf5"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 152634,
       "name": "Let's Start a Band",
       "url": "https://open.spotify.com/track/4850WYwK4qMlBfSZDF8GBE"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 192866,
       "name": "Little Bee",
       "url": "https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 93888,
       "name": "Round Robin",
       "url": "https://open.spotify.com/track/2rdQhu26wrbICsrxjNRwvY"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 145426,
       "name": "The Farmer Is The One",
       "url": "https://open.spotify.com/track/2RSMt7gFKGY6aL7K0JNM3N"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 139693,
       "name": "This Land is Your Land",
       "url": "https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT"

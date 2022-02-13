@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 166459,
       "name": "Avantgarde",
       "url": "https://open.spotify.com/track/5nB3zVeuHoAHmwHQuQqhzD"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 196493,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy"
@@ -4214,6 +4214,24 @@
     },
     {
       "album": {
+        "name": "Hensigt",
+        "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Hensigt",
+      "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
+    },
+    {
+      "album": {
         "name": "HERE (For Christmas)",
         "url": "https://open.spotify.com/album/0i2Nwoa1gnjMmD6s6TLPiT"
       },
@@ -4559,6 +4577,24 @@
       "duration_ms": 169845,
       "name": "Hva' Du V\u00e6rd (feat. Smiley)",
       "url": "https://open.spotify.com/track/4pCB7A8b8ERNaZ1p7SJHoF"
+    },
+    {
+      "album": {
+        "name": "Hvad For Noget",
+        "url": "https://open.spotify.com/album/4MtuQgVBlF4IFWlYDi9P9J"
+      },
+      "artists": [
+        {
+          "name": "Miklo",
+          "url": "https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184420,
+      "name": "Hvad For Noget",
+      "url": "https://open.spotify.com/track/68b470gtdGLB9SmxO64T4P"
     },
     {
       "album": {
@@ -4992,6 +5028,24 @@
     },
     {
       "album": {
+        "name": "IGANG",
+        "url": "https://open.spotify.com/album/3kpYuYZ8jnwEzAZQ2y5uM2"
+      },
+      "artists": [
+        {
+          "name": "RH",
+          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140274,
+      "name": "IGANG",
+      "url": "https://open.spotify.com/track/2zI0pVpdDf4sWrN7nBVGGE"
+    },
+    {
+      "album": {
         "name": "Mere End Musik",
         "url": "https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9"
       },
@@ -5271,7 +5325,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -7226,6 +7280,24 @@
     },
     {
       "album": {
+        "name": "Mucki Bar",
+        "url": "https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180294,
+      "name": "Mucki Bar",
+      "url": "https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp"
+    },
+    {
+      "album": {
         "name": "Ny Agenda",
         "url": "https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW"
       },
@@ -8709,7 +8781,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198400,
       "name": "Savnet Pt. II",
       "url": "https://open.spotify.com/track/14zbKdFRsPos1poo9J3aDp"
@@ -9812,6 +9884,28 @@
     },
     {
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -10273,7 +10367,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 179170,
       "name": "Ur\u00f8rlig",
       "url": "https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt"

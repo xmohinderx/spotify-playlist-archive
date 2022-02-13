@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Movie",
+        "url": "https://open.spotify.com/album/1ix6B1qgK6mfxMt7Zsi7Vg"
+      },
+      "artists": [
+        {
+          "name": "Bizzonthetrack",
+          "url": "https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "A Movie",
+      "url": "https://open.spotify.com/track/3YLuTTlfYiuNSPl9gNIRPY"
+    },
+    {
+      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -211,7 +229,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 141125,
       "name": "Baptism",
       "url": "https://open.spotify.com/track/7GQD96UoFYpqinM6O44TBE"
@@ -259,7 +277,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 149031,
       "name": "Be Gone",
       "url": "https://open.spotify.com/track/4dWQPivfUCTOp5ihmq8Yxc"
@@ -295,10 +313,32 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 174500,
       "name": "Before You Wake Up",
       "url": "https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV"
+    },
+    {
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "album": {
@@ -379,7 +419,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198635,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/2lQLYR3RrKK0xSO9xqkW7s"
@@ -419,7 +459,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 224837,
       "name": "Can You See Her",
       "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
@@ -659,7 +699,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 136170,
       "name": "Do You",
       "url": "https://open.spotify.com/track/5vy09xIeMnSBMzSMFORP4G"
@@ -933,7 +973,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 149243,
       "name": "Glowanna",
       "url": "https://open.spotify.com/track/5SFRU2eoNzXEuFnzsHD17y"
@@ -1057,7 +1097,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 172235,
       "name": "I Won't",
       "url": "https://open.spotify.com/track/6ohlE4CmBQitfRvvB5aBuy"
@@ -1075,7 +1115,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 218823,
       "name": "In My Dreams Last Night",
       "url": "https://open.spotify.com/track/0Tupq0XA3sxGgbqMHsqVM7"
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 180294,
       "name": "In Those Eyes",
       "url": "https://open.spotify.com/track/1UcXNUYzMaAwwbMrh1eiJ0"
@@ -1155,7 +1195,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 224225,
       "name": "Journey Back Home",
       "url": "https://open.spotify.com/track/3YoHYLrPxsEyOPtnzZso0n"
@@ -1267,10 +1307,32 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 147487,
       "name": "Loud",
       "url": "https://open.spotify.com/track/5JHZt404UXlozqWc1opVkt"
+    },
+    {
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "album": {
@@ -1289,7 +1351,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
@@ -1351,7 +1413,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 152723,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR"
@@ -1439,7 +1501,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 176400,
       "name": "Make Sense (feat. Oxlade)",
       "url": "https://open.spotify.com/track/7Moq2DLFyS8e1IVl35nAR3"
@@ -1519,7 +1581,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 176583,
       "name": "Minor Notes",
       "url": "https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4"
@@ -1588,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/7BxNfBhoI2rlXYJeoAjlyx"
+      },
+      "artists": [
+        {
+          "name": "BemiSoul",
+          "url": "https://open.spotify.com/artist/3plhRccR9ys3hl9ctCPRn8"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186067,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/1rXzcrYcx3NKABg3WeCJ6R"
+    },
+    {
+      "album": {
         "name": "Riddim 5",
         "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
       },
@@ -1599,7 +1679,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 164210,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
@@ -1621,7 +1701,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 206032,
       "name": "Odo (Love)",
       "url": "https://open.spotify.com/track/0qLvPreK4QLCyiTx5wt65P"
@@ -1683,7 +1763,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "OMG",
       "url": "https://open.spotify.com/track/1rykDqcJdmTcr8xqpkbEnc"
@@ -1705,7 +1785,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 206333,
       "name": "One Time",
       "url": "https://open.spotify.com/track/7J4dbVmwZs7MoZD8A8EkFb"
@@ -1811,10 +1891,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 122020,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/6NtOTnvDhbzaxpxkjBEx8x"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2E7XGBsMRwSvpvY2O6OuPB"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167981,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/5ssk3dDkHdrwmPveDQivd7"
     },
     {
       "album": {
@@ -1833,7 +1931,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
@@ -1913,7 +2011,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 186873,
       "name": "Searching",
       "url": "https://open.spotify.com/track/7AKiA7fmXGjBqozZzKhhDu"
@@ -2178,6 +2276,32 @@
     },
     {
       "album": {
+        "name": "Summer in the Ends (Juls Zikomo Remix)",
+        "url": "https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Zikomo",
+          "url": "https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225267,
+      "name": "Summer in the Ends - Juls Zikomo Remix",
+      "url": "https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn"
+    },
+    {
+      "album": {
         "name": "Was It Something I Said?",
         "url": "https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi"
       },
@@ -2339,7 +2463,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 180800,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/6c2umqQ4F1T25KnEmMHdH2"
@@ -2397,7 +2521,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
@@ -2430,6 +2554,28 @@
     },
     {
       "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/1UFB4rx4pD2A93XxU1Ff5w"
+      },
+      "artists": [
+        {
+          "name": "Maradona",
+          "url": "https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135157,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5"
+    },
+    {
+      "album": {
         "name": "Trobul",
         "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
       },
@@ -2445,7 +2591,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
@@ -2587,7 +2733,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 143484,
       "name": "Up",
       "url": "https://open.spotify.com/track/5GTXa4WXtncHY5Ztbb8yX2"

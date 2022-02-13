@@ -62,6 +62,28 @@
     },
     {
       "album": {
+        "name": "30 personer",
+        "url": "https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        },
+        {
+          "name": "Elias Hurtig",
+          "url": "https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "30 personer",
+      "url": "https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug"
+    },
+    {
+      "album": {
         "name": "TUTTI FRUTTI - fr\u00e5n lokalen under sushin",
         "url": "https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ"
       },
@@ -73,7 +95,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 192946,
       "name": "91:an",
       "url": "https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR"
@@ -253,7 +275,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 153716,
       "name": "Bananas",
       "url": "https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT"
@@ -311,7 +333,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 174613,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5tLiS8p0h4bvKzfXZQRuHR"
@@ -329,7 +351,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 223208,
       "name": "Bra ihop",
       "url": "https://open.spotify.com/track/1V8ZCGO852CLJmj0qhNXwh"
@@ -365,7 +387,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 160940,
       "name": "Buried",
       "url": "https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE"
@@ -463,7 +485,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 181373,
       "name": "CHAMPION",
       "url": "https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC"
@@ -525,7 +547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 211333,
       "name": "Coldtrain",
       "url": "https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX"
@@ -561,7 +583,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 170066,
       "name": "Cry over me",
       "url": "https://open.spotify.com/track/5HdoVX4952B9unJEjoemUI"
@@ -579,7 +601,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198882,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/6gohkTYsaQDvrcD6sMUxq2"
@@ -597,7 +619,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 237312,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk"
@@ -637,7 +659,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 177893,
       "name": "Dear Havanna",
       "url": "https://open.spotify.com/track/1Sd8I2aucIUkPHja16CDu1"
@@ -931,7 +953,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 210493,
       "name": "Dr\u00f6mmer om andetag",
       "url": "https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 238481,
       "name": "Dumba Nengue",
       "url": "https://open.spotify.com/track/2PBWMips0ip5rBS5rhzpjI"
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 171315,
       "name": "Farstaglitter",
       "url": "https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB"
@@ -1285,7 +1307,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 209772,
       "name": "F\u00f6r Snabbt",
       "url": "https://open.spotify.com/track/2LUp7yM0n43fma1PZMT1Jf"
@@ -1321,7 +1343,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 186301,
       "name": "F\u00f6rlorat mot v\u00e4rlden",
       "url": "https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 197626,
       "name": "Ghost Killer",
       "url": "https://open.spotify.com/track/04l6PAC8SUtEPTY3IdRuT7"
@@ -1469,7 +1491,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 184828,
       "name": "Happy New Year - Spotify Singles: Holiday",
       "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
@@ -1625,7 +1647,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
@@ -1665,7 +1687,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 186408,
       "name": "I Need Love (feat. Trevor Daniel)",
       "url": "https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG"
@@ -1827,7 +1849,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 163348,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT"
@@ -1863,7 +1885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 160327,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a"
@@ -2047,7 +2069,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 303311,
       "name": "Love And Appreciation",
       "url": "https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy"
@@ -2253,7 +2275,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 178024,
       "name": "Missing You Sucks",
       "url": "https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA"
@@ -2379,7 +2401,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 169717,
       "name": "Moving Like That",
       "url": "https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3"
@@ -2451,7 +2473,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 152736,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH"
@@ -2683,7 +2705,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 216160,
       "name": "Pengar",
       "url": "https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i"
@@ -2863,7 +2885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 162576,
       "name": "Ringar p\u00e5 vattnet",
       "url": "https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC"
@@ -2903,7 +2925,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 200436,
       "name": "Rom-Com",
       "url": "https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS"
@@ -2957,7 +2979,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 161221,
       "name": "Sad boy",
       "url": "https://open.spotify.com/track/4PkP9bwUUDOy616Ve9qEid"
@@ -2975,7 +2997,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 225842,
       "name": "Safety Lines",
       "url": "https://open.spotify.com/track/324ZhICCs6FW3cGag9dcgg"
@@ -3083,7 +3105,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 180340,
       "name": "Se mig, bara se mig",
       "url": "https://open.spotify.com/track/7qZRHmZgslebCewAQPR3Vz"
@@ -3159,7 +3181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 180234,
       "name": "Sista g\u00e5ngen",
       "url": "https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm"
@@ -3213,7 +3235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 198071,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/3WYeza72Tw4pyEZ6T1jEwC"
@@ -3267,7 +3289,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 212262,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC"
@@ -3405,7 +3427,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 194836,
       "name": "Start Walking",
       "url": "https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z"
@@ -3697,7 +3719,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 271160,
       "name": "Tenerife Sea",
       "url": "https://open.spotify.com/track/5bimLyQiJGIphZSs1e0HPB"
@@ -3863,7 +3885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 176895,
       "name": "Vaskar mina t\u00e5rar",
       "url": "https://open.spotify.com/track/1qUYbmIfoIDVRaRuDUlVZ3"
@@ -3953,7 +3975,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 222497,
       "name": "VIKOMMER\u00c5D\u00d6",
       "url": "https://open.spotify.com/track/0GdhtbBV4AWM3QTL09OFPF"

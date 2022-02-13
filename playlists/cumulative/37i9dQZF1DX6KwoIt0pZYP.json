@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 207399,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/7pNVvWVYZd0ivOBIXK8gH3"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 159906,
       "name": "cold these days",
       "url": "https://open.spotify.com/track/63iD8vONVMBVvxR02dSzoE"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 186000,
       "name": "Do You Feel Like You Have No One to Turn to?",
       "url": "https://open.spotify.com/track/7IM7JCGA6lNktX9ORtyQS8"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 223913,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 176000,
       "name": "i'm having a hard time being myself",
       "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
@@ -1326,6 +1326,28 @@
     },
     {
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/2MJhau1UjgYtvQJ6LTxYqN"
+      },
+      "artists": [
+        {
+          "name": "Lowhi",
+          "url": "https://open.spotify.com/artist/3KUPWfQpnvly6W1yogx267"
+        },
+        {
+          "name": "Helen Hong",
+          "url": "https://open.spotify.com/artist/4q4YgMpzLs9xevRBfEhY5s"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Know Me so Well (feat. Helen Hong)",
+      "url": "https://open.spotify.com/track/6yW1wqoGkABqhM6MlVK9eI"
+    },
+    {
+      "album": {
         "name": "kodak",
         "url": "https://open.spotify.com/album/3IKAESdzFil1Ka7GNQdbTJ"
       },
@@ -1409,7 +1431,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 170215,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/4GvPsXWhlf4VhudJwDQtZT"
@@ -1609,7 +1631,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 128727,
       "name": "ok bye",
       "url": "https://open.spotify.com/track/233XcBvOmiwJNANsDLjc2q"
@@ -1671,7 +1693,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 180341,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/0I6I6yRkVnw0f0QhLR2jOn"
@@ -1707,7 +1729,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Pause + Reset",
       "url": "https://open.spotify.com/track/52mKGhgm1VQiGIkos3EFY6"
@@ -1887,7 +1909,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
@@ -1927,7 +1949,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 214124,
       "name": "Solace",
       "url": "https://open.spotify.com/track/237S0tOk45SdG23Oh0bZBA"
@@ -2091,7 +2113,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6oFFjz1MwyU3qtaXnyqQ8X"
@@ -2261,7 +2283,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 155037,
       "name": "Too Many Tears",
       "url": "https://open.spotify.com/track/0Ko21U3NgFGiUL73N89kbv"
@@ -2489,7 +2511,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 350357,
       "name": "Wine",
       "url": "https://open.spotify.com/track/1sp745hELNnYUHowtyvAvn"
@@ -2663,7 +2685,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 171195,
       "name": "\uadf8\ub9ac\uc6c0 (Rindu)",
       "url": "https://open.spotify.com/track/32owsT82fuFexAND08A5sS"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,104 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,360 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 |
 | 2 | [Shoulder](https://open.spotify.com/track/52qyAdSzwJUJIAjNTF6w7K) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:33 |
-| 3 | [Waada Kar](https://open.spotify.com/track/4l9fXPF7SHlAOXGg5CdQMm) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Waada Kar](https://open.spotify.com/album/4pDwbQcGqmzc1Qy6u8vP0a) | 3:08 |
+| 3 | [Waada Kar](https://open.spotify.com/track/4l9fXPF7SHlAOXGg5CdQMm) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Divya Bhatt](https://open.spotify.com/artist/2dwNUvIo6j1fBisV0WNSWt) | [Waada Kar](https://open.spotify.com/album/4pDwbQcGqmzc1Qy6u8vP0a) | 3:08 |
 | 4 | [Main Viyah Nahi Karona Tere Naal \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [Main Viyah Nahi Karona Tere Naal \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood) | 2:35 |
 | 5 | [Diamond](https://open.spotify.com/track/4GPygMUqEhPyYUosLKmvCK) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Diamond](https://open.spotify.com/album/2pIDaUHfZ1BcK3Es4ptDBb) | 3:39 |
 | 6 | [Ki Karde Je](https://open.spotify.com/track/5DnZcwhgXYlUxGOMk348Sz) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/2jMiqYFIEdD5vvMHcmgXFJ?si=blpC84OqTf6SQCVeJYJyXg">DJ Hlo</a> , <a href="https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x?si=4d\-i8SLgSWGbJGigBZgofw">Lady Du</a> and <a href="https://open.spotify.com/artist/64AibK7iJaFyzaWdx2t09W?si=3mTfp8epQ6OvTjWC\_lUI\-A">Bob Mabena</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,137 likes - 73 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,733 likes - 73 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

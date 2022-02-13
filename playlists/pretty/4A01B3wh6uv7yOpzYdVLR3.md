@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 
 > Weekly Selects of the best music chosen by the TeamSupremeCrew themselves..\. Turn the Volume up to 100.
 
-[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 13,039 likes - 40 songs - 2 hr 28 min
+[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 13,038 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 | 18 | [Frolyfe](https://open.spotify.com/track/2DWd2u4YIc7ArWlkwW1BYu) | [GANZ](https://open.spotify.com/artist/6sUbCA1obWzdoJ1FM3I9Ks), [Digitzz](https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3) | [GAO](https://open.spotify.com/album/6eNYUWPWrcucJ4KqXprvx1) | 3:46 |
 | 19 | [Timtams](https://open.spotify.com/track/3rF8PItN35qH9y27KoayXV) | [Blake Skowron](https://open.spotify.com/artist/5TjySSb3LXfqe0zvyrmFgf), [Hue Honey](https://open.spotify.com/artist/4hSvPV7YleQJSDk4oOk32X) | [Timtams](https://open.spotify.com/album/0MPo5IzLvZ6k9y5vdZYsXr) | 3:04 |
 | 20 | [This Is Our Last Song](https://open.spotify.com/track/0ocN9jNvz3J91PLtMajurv) | [um..](https://open.spotify.com/artist/4aTmeAJQIHvOYEpc5KxJ8x) | [This Is Our Last Song](https://open.spotify.com/album/2CxvIZ5UVv6xwcOhEFLwnU) | 2:49 |
-| 21 | [On the Regular \(feat\. Elujay, Mr\. Carmack & Mikos Da Gawd\)](https://open.spotify.com/track/042SU58HqnUp6dPoiRJ3xO) | [JULiA LEWiS](https://open.spotify.com/artist/2qcYVZNPHcOpwMUYZvA7Lw), [Elujay](https://open.spotify.com/artist/2u8IUANsvFJlnVmKhGulKt), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Mikos Da Gawd](https://open.spotify.com/artist/0LK5WvQVQgLZFU4Qc9XtXl) | [On the Regular \(feat\. Elujay, Mr\. Carmack & Mikos Da Gawd\)](https://open.spotify.com/album/0lpjfXj2HoV5uiJezxSqqm) | 3:19 |
+| 21 | [On the Regular \(feat\. Elujay, Mr\. Carmack & Mikos Da Gawd\)](https://open.spotify.com/track/042SU58HqnUp6dPoiRJ3xO) | [JULiA LEWiS](https://open.spotify.com/artist/2qcYVZNPHcOpwMUYZvA7Lw), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Mikos Da Gawd](https://open.spotify.com/artist/0LK5WvQVQgLZFU4Qc9XtXl) | [On the Regular \(feat\. Elujay, Mr\. Carmack & Mikos Da Gawd\)](https://open.spotify.com/album/0lpjfXj2HoV5uiJezxSqqm) | 3:19 |
 | 22 | [Dans la radio \- Canblaster, Ö, Jacques Remix](https://open.spotify.com/track/3138qQwXQSTKOMzk36IYis) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh), [Canblaster](https://open.spotify.com/artist/0IUKzbO8Ak6iMVUae225Wk), [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y) | [Dans la radio \(Canblaster, Ö, Jacques Remix\)](https://open.spotify.com/album/0WqDjA9cxkpX7cqXL7tt5Q) | 6:18 |
 | 23 | [Spirals \(Feat\. Kareful\)](https://open.spotify.com/track/3pqbQcQSXkXp4CUKYsBQST) | [Glacci](https://open.spotify.com/artist/1vmPXcKvniaZvX8u0KrdfS), [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK) | [Lifeforce](https://open.spotify.com/album/6t6iYQ7I9QEApanLY1WSbb) | 3:53 |
 | 24 | [MOVING MASSES \- AIRSPACE Remix](https://open.spotify.com/track/7167TQnxX8v3W1WQLO3ZSp) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Airspace](https://open.spotify.com/artist/1cTz7eRiaYjmpCpZORhiG8) | [MOVING MASSES \(AIRSPACE Remix\)](https://open.spotify.com/album/7GHmMWx7eNOa7Een15py21) | 5:27 |

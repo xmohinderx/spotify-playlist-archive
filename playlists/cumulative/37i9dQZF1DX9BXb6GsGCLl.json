@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 194013,
       "name": "Beast and Beauty",
       "url": "https://open.spotify.com/track/2rVyuYkkxF3VIW47Aq5tEG"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 188946,
       "name": "betterman",
       "url": "https://open.spotify.com/track/2mvGl0m5Pg87PJzKzssPdi"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 170356,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/6KgZeNR9fab84NbLXa81cY"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 185660,
       "name": "Can't Be Happier",
       "url": "https://open.spotify.com/track/3Ckog39sKyHfXaIwNASV5J"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 155250,
       "name": "Don't Know Shit",
       "url": "https://open.spotify.com/track/0DUwcYoJl25u8YWMzfCtNH"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 206293,
       "name": "Hotel Walls",
       "url": "https://open.spotify.com/track/0IZoBFaTUG79KBfKlv8zmG"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 171427,
       "name": "I'm Just Feelin' (Du Du Du) - MOTi Remix",
       "url": "https://open.spotify.com/track/2Pgm12sMZieZZHw7G3MU9H"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 156987,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/2IaMy0anocqVCj9vMe8elL"
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 169700,
       "name": "Over It",
       "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
@@ -1909,7 +1909,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 176517,
       "name": "Perfect (feat. Haris)",
       "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
@@ -1927,7 +1927,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 193829,
       "name": "Physical",
       "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
@@ -2053,6 +2053,24 @@
     {
       "album": {
         "name": "Roots",
+        "url": "https://open.spotify.com/album/2wB5S1pUyZi2lj4Tc1i1bX"
+      },
+      "artists": [
+        {
+          "name": "Kaputu",
+          "url": "https://open.spotify.com/artist/3mLzrw1unXzLIYUv53ZRQH"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/227obph8Fs4fsBaz8XJRwy"
+    },
+    {
+      "album": {
+        "name": "Roots",
         "url": "https://open.spotify.com/album/4p0nrJ3SXAtZVaCnY0C0kM"
       },
       "artists": [
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 215714,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/3PGYOWmCia5R4iLRnGHwyf"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 173122,
       "name": "Sun Seeker",
       "url": "https://open.spotify.com/track/1Xt1WkY9gAtUJl8AaFWKzd"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
@@ -2721,7 +2739,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 187510,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/0TgSQ4AWBShqMjYww6D8Yf"
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 171386,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 194720,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"

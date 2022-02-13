@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Saweetie & H.E.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,098 likes - 98 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,200 likes - 98 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 22 | [The Actor](https://open.spotify.com/track/2TyHTGdwx7uOdxsq1e8DEt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Actor](https://open.spotify.com/album/50B0wJmn0HNY2x10RbwRhk) | 4:00 |
 | 23 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 |
 | 24 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 |
-| 25 | [Still Countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still Countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
+| 25 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
 | 26 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:19 |
 | 27 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
 | 28 | [Again](https://open.spotify.com/track/2gbRN3a575oCrxMPoLNyu2) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Again](https://open.spotify.com/album/5GAeLTsSoRFgz4bQcvqd7G) | 2:24 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 90 | [Your Tongue](https://open.spotify.com/track/00WQxluVREF12JZkKWvio4) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue](https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz) | 2:37 |
 | 91 | [Hoop Earrings](https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Hoop Earrings](https://open.spotify.com/album/43KYrCZVk4uR7g1ttmqK5j) | 2:23 |
 | 92 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 |
-| 93 | [Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 |
+| 93 | [Con Un Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Con Un Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 |
 | 94 | [Hold You](https://open.spotify.com/track/1cXhJOnf6n1Ed7kbdFd4hq) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB) | 4:42 |
 | 95 | [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 |
 | 96 | [No Guidance](https://open.spotify.com/track/4F4wYSh0Fwjjj0JMgZ0QP5) | [MIMI](https://open.spotify.com/artist/4GCwfakdZdo3KkBNtzU5vn) | [No Guidance](https://open.spotify.com/album/0s1f9hVKKUGpLoYBRlNaD2) | 3:35 |

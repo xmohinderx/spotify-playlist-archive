@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Tayrone com Lauana Prado, Gloria Groove e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725,344 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,725,692 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 53 | [Simplesmente Ela](https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ) | 2:41 |
 | 54 | [Uh Damn](https://open.spotify.com/track/4WHBGJn6UDWq4B5WXpy8vE) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ), [Pedro Senna](https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 3:04 |
 | 55 | [Casa da Vizinha](https://open.spotify.com/track/5sqE610tA2dXUUsF76mz15) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Casa da Vizinha](https://open.spotify.com/album/72h7mJiyg7kSmW1RuIdhox) | 2:10 |
-| 56 | [Quer Ibope](https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU) | [Mariah Denaro](https://open.spotify.com/artist/1sUtvC0zTyspC9b7H9uynN), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Quer Ibope](https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x) | 3:43 |
+| 56 | [Quer Ibope](https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU) | [Mariah Denaro](https://open.spotify.com/artist/1sUtvC0zTyspC9b7H9uynN), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Quer Ibope](https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x) | 3:43 |
 | 57 | [Pantera Negra](https://open.spotify.com/track/4nP70jlHDZa6VtWOK2tcI6) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Pantera Negra](https://open.spotify.com/album/2yZERSvmHgjh3ZWURpvhl9) | 2:28 |
 | 58 | [Coming Back](https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [Nefertitti Avani](https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn) | [BODR](https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE) | 3:31 |
 | 59 | [Grinding All Season](https://open.spotify.com/track/1p2AbhtzG2Njx2x0JB83zA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 2:50 |

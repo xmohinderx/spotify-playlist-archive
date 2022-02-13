@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Tank and The Bangas
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,204 likes - 104 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,346 likes - 104 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

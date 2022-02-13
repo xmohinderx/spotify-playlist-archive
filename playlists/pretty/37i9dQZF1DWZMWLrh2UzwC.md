@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Ed Sheeran, Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,457 likes - 84 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,460 likes - 84 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 29 | [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 |
 | 30 | [no bad vibes](https://open.spotify.com/track/5UGItqf6dcDAsNaoaTuRwY) | [Qis Maraj](https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv) | [no bad vibes](https://open.spotify.com/album/4PNfpkpHYk83OnQ6EBKUIn) | 2:34 |
 | 31 | [SAUCE!](https://open.spotify.com/track/7nqGdKjlt1X4hBuPB2Ccm4) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [SAUCE!](https://open.spotify.com/album/7wKL6WBL0lxZlo8h8thdDf) | 2:27 |
-| 32 | [2 + 2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2 + 2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
+| 32 | [2+2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2 + 2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
 | 33 | [Making Me Sick!](https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5) | 3:22 |
 | 34 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 |
 | 35 | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM) | 2:08 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 59 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 |
 | 60 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 |
 | 61 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 |
-| 62 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/5xiDPchmaJ9F7Y3NUb6bZn) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
+| 62 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
 | 63 | [On The Sunny Side Of The Street \(feat\. Phum Viphurit\)](https://open.spotify.com/track/0INug61AM5EKWqMDRJzCdB) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [On The Sunny Side Of The Street \(feat\. Phum Viphurit\)](https://open.spotify.com/album/5ziRa4EerzbxvO0d1oL0ZR) | 4:12 |
 | 64 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
 | 65 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 |

@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 155933,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 192986,
       "name": "All For Us - from the HBO Original Series Euphoria",
       "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Eazt",
       "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
@@ -890,6 +890,36 @@
     },
     {
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "YESAN",
+          "url": "https://open.spotify.com/artist/7HBwf5iH17b2684DyxhjtN"
+        },
+        {
+          "name": "Percii",
+          "url": "https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Eres Para M\u00ed",
+      "url": "https://open.spotify.com/track/2WXh1CfW58AFWgxfIRz1qg"
+    },
+    {
+      "album": {
         "name": "Eres Para M\u00ed",
         "url": "https://open.spotify.com/album/7JuFM0b8eP6FGTVvyQMfNP"
       },
@@ -913,7 +943,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 174857,
       "name": "Eres Para M\u00ed",
       "url": "https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG"
@@ -1119,7 +1149,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198739,
       "name": "Hola Como Vas",
       "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
@@ -2323,7 +2353,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 189333,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
@@ -2579,6 +2609,28 @@
       "duration_ms": 213373,
       "name": "Toca",
       "url": "https://open.spotify.com/track/6BPWCe8Leba1QvcZFBuBqp"
+    },
+    {
+      "album": {
+        "name": "Tofu Delivery",
+        "url": "https://open.spotify.com/album/0Wd4SYA398J2882hzvBSwV"
+      },
+      "artists": [
+        {
+          "name": "Orslok",
+          "url": "https://open.spotify.com/artist/2TzPi0fPdqVesjZ3Y2wY43"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Tofu Delivery",
+      "url": "https://open.spotify.com/track/3CDGdnri4kiyWKlcl25bYJ"
     },
     {
       "album": {

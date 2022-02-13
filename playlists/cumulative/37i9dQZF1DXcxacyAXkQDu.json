@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 229052,
       "name": "Blowin' In the Wind",
       "url": "https://open.spotify.com/track/0k9RKhN4MFzaon1u5jmZnh"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 241399,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/282p5nzzWitBct4l5NXoYz"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 185357,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/1wtrJ0dcTjqP8PMRTczdSi"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 147367,
       "name": "Don't Ever Wonder",
       "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
@@ -1427,7 +1427,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 188220,
       "name": "Endless (feat. Tove Styrke) - Acoustic Version",
       "url": "https://open.spotify.com/track/5eDTMtx8lpbKjZhriTVsi9"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 201116,
       "name": "Fickle Heart",
       "url": "https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 185227,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/39b57sOdT2Rq8dV73tXLnQ"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 235292,
       "name": "Fine",
       "url": "https://open.spotify.com/track/5sZEXPUEOp0pp5yeS4HeCz"
@@ -1763,7 +1763,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB"
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 178000,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3lQXz1n5etCVVrazQLEPGt"
@@ -2435,6 +2435,24 @@
       "duration_ms": 144830,
       "name": "How Long Will I Love You",
       "url": "https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3"
+    },
+    {
+      "album": {
+        "name": "How Would You Feel (Paean)",
+        "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280533,
+      "name": "How Would You Feel (Paean)",
+      "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
     },
     {
       "album": {
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 189793,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/3JNCFaTBMGPaXNGfsfrirX"
@@ -3541,7 +3559,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 222586,
       "name": "Most of Us Are Strangers",
       "url": "https://open.spotify.com/track/7jVRAVYEckMldApsscdFDn"
@@ -3859,7 +3877,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 214959,
       "name": "Off to Save the World Replayed",
       "url": "https://open.spotify.com/track/1IIf0jjOv6XEDAd7IMLxpG"
@@ -3931,7 +3949,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 211760,
       "name": "Opposite Of Loving Me - Stripped",
       "url": "https://open.spotify.com/track/4qMu6LIImRJVbxB70bdFJj"
@@ -4021,7 +4039,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 179200,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2ozaVXDiuyTq4mesytqk6i"
@@ -4057,7 +4075,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW"
@@ -4403,7 +4421,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 208906,
       "name": "Saturdays",
       "url": "https://open.spotify.com/track/2YED9VicGdL1YlRW0T16oN"
@@ -4493,7 +4511,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 275786,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/2rFfIKpcNVG9pRHVe2CR04"
@@ -5187,7 +5205,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 208173,
       "name": "The Night We Met (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l"
@@ -5205,7 +5223,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 172400,
       "name": "The Time Has Come",
       "url": "https://open.spotify.com/track/688PTE0V0ccAzjjul4tSA0"
@@ -5469,7 +5487,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
@@ -5935,7 +5953,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 253773,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/78VUV0gkoeKo0MxUmYiFbJ"
@@ -5971,7 +5989,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 154650,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za"
@@ -6051,7 +6069,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 210459,
       "name": "You Are",
       "url": "https://open.spotify.com/track/3ko2GsgvCSvblmrc5zpMT2"

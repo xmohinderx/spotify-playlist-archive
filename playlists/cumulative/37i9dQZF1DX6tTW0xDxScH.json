@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135802,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4k4mhm30I8pOn2k7O19pms"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/4ETTgOOvLI2Kc5Qc4kckhO"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
@@ -326,6 +344,28 @@
     },
     {
       "album": {
+        "name": "Crescent Moon",
+        "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199041,
+      "name": "Crescent Moon",
+      "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
+    },
+    {
+      "album": {
         "name": "Dream Nation",
         "url": "https://open.spotify.com/album/2bJ8k4Qe5vmC7uEBJ1sgOV"
       },
@@ -355,7 +395,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 210240,
       "name": "Easily",
       "url": "https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM"
@@ -461,9 +501,9 @@
           "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "date_added": "2021-10-29",
+      "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -539,7 +579,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 245826,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
@@ -557,7 +597,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 214573,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG"
@@ -690,6 +730,24 @@
     },
     {
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105933,
+      "name": "I Will - Remastered 2009",
+      "url": "https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp"
+    },
+    {
+      "album": {
         "name": "I'll Be Loving You",
         "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
       },
@@ -705,6 +763,24 @@
       "duration_ms": 246144,
       "name": "I'll Be Loving You",
       "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+    },
+    {
+      "album": {
+        "name": "idea of u.",
+        "url": "https://open.spotify.com/album/4BOX3R0eTZch5ztySiaYRz"
+      },
+      "artists": [
+        {
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "idea of u.",
+      "url": "https://open.spotify.com/track/5zqIzKIIjGmYZR9R5gFzY6"
     },
     {
       "album": {
@@ -741,7 +817,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 227906,
       "name": "It's Our Love",
       "url": "https://open.spotify.com/track/2ZA4tDZvsxFO6Yw5OENin7"
@@ -1142,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7l6WtR1PQw7lw2K1uwd5Jv"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6pcED19DVN2Coh4tmmgHH6"
+    },
+    {
+      "album": {
         "name": "Neil Young on High",
         "url": "https://open.spotify.com/album/1S0sGRopjEF7cQ7HfTJF7P"
       },
@@ -1193,7 +1287,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 343253,
       "name": "Other You",
       "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
@@ -1209,9 +1303,9 @@
           "url": "https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv"
         }
       ],
-      "date_added": "2021-10-29",
+      "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 186760,
       "name": "Our Breath",
       "url": "https://open.spotify.com/track/0Ia3BtutPx8e961q8XEQTr"
@@ -1435,7 +1529,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
@@ -2081,7 +2175,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 194911,
       "name": "Years Ago",
       "url": "https://open.spotify.com/track/5UxUkbybJ8nroGVC9tIKat"
@@ -2117,7 +2211,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"

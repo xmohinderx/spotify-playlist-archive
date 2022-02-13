@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -4609,7 +4609,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 221227,
       "name": "Ibiza Stories",
       "url": "https://open.spotify.com/track/4YU0biJZXmOT2dWLyiTt5O"
@@ -4995,6 +4995,24 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Je Blik Richting Mij",
+        "url": "https://open.spotify.com/album/7998gDHXVMiM73j6f6j3oY"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145502,
+      "name": "Je Blik Richting Mij",
+      "url": "https://open.spotify.com/track/3mafhqH8nGsvyZTN86IEOc"
     },
     {
       "album": {
@@ -6234,6 +6252,24 @@
     },
     {
       "album": {
+        "name": "MIJ ZIJN",
+        "url": "https://open.spotify.com/album/46zQHhhOG0BqZ3t0HBcn22"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "MIJ ZIJN",
+      "url": "https://open.spotify.com/track/0vxrr6DoV0k1xoM0rX3b2q"
+    },
+    {
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -6883,7 +6919,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 170106,
       "name": "Nog Een Dans",
       "url": "https://open.spotify.com/track/0Hzjf8BFxy6ziZowmNVFgf"
@@ -7325,7 +7361,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 142742,
       "name": "Over",
       "url": "https://open.spotify.com/track/2z87XlLINvV8a2Xnb8mQ2v"
@@ -10487,6 +10523,42 @@
       "duration_ms": 124909,
       "name": "Zo Ben Jij",
       "url": "https://open.spotify.com/track/1P4dmXqi9GzQTxEe51INvM"
+    },
+    {
+      "album": {
+        "name": "Zo Zijn",
+        "url": "https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192878,
+      "name": "Zo Zijn",
+      "url": "https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI"
+    },
+    {
+      "album": {
+        "name": "Zoveel Takkies",
+        "url": "https://open.spotify.com/album/3K97I78QTGy2nVJLPwM94a"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176978,
+      "name": "Zoveel Takkies",
+      "url": "https://open.spotify.com/track/3iabh1D7hKB9a81EfvxBat"
     },
     {
       "album": {

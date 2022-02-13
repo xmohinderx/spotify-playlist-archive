@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-11",
   "description": "you up?",
   "name": "goosebumps",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6GUFuO0Q1XAMf72LhfZhhe"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 228866,
       "name": "Alone",
       "url": "https://open.spotify.com/track/45Nc6nYgV3yBvAeRaZt689"
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 214325,
       "name": "Amber",
       "url": "https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G"
@@ -154,6 +156,24 @@
     },
     {
       "album": {
+        "name": "None Of The Clocks Work",
+        "url": "https://open.spotify.com/album/1k3MYSTe3zls106XkVRhuW"
+      },
+      "artists": [
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "CIGARETTES",
+      "url": "https://open.spotify.com/track/3TfTZ3fGLYtR1azsY8iEp4"
+    },
+    {
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },
@@ -241,7 +261,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 197517,
       "name": "DFMU",
       "url": "https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d"
@@ -632,6 +652,24 @@
     },
     {
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
+    },
+    {
+      "album": {
         "name": "High Enough (Slowed)",
         "url": "https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR"
       },
@@ -727,7 +765,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 216160,
       "name": "Invincible (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
@@ -883,7 +921,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 233069,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
@@ -927,7 +965,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 228453,
       "name": "Mystery Lady",
       "url": "https://open.spotify.com/track/0Ifg6sEGK8dH0XDD4pzKTl"
@@ -1002,7 +1040,7 @@
       "artists": [
         {
           "name": "Nova",
-          "url": "https://open.spotify.com/artist/55Sm62RihVq5W0XGmjZdxK"
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
         }
       ],
       "date_added": "2022-02-04",
@@ -1097,7 +1135,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 185692,
       "name": "Put On Repeat",
       "url": "https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8"
@@ -1391,7 +1429,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 267270,
       "name": "Sweater Weather - Young Saab Remix",
       "url": "https://open.spotify.com/track/5YCPqMoXNlPeUJ9fm1dlz3"
@@ -1434,6 +1472,28 @@
     },
     {
       "album": {
+        "name": "tears in the club (feat. the weeknd)",
+        "url": "https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "tears in the club (feat. the weeknd)",
+      "url": "https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P"
+    },
+    {
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -1449,6 +1509,24 @@
       "duration_ms": 219692,
       "name": "Teenage Fever",
       "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
+    },
+    {
+      "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,274 likes - 150 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,388 likes - 150 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 139 | [Phoenix](https://open.spotify.com/track/0iQTeVvJNmp6Hqo4DBwICQ) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Marriage](https://open.spotify.com/album/2QMlNg1qJW43CXQiYfCJBF) | 2:57 |
 | 140 | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/track/4Qcu1voWmc5vXrpNZI6PGf) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/album/1uAHVkRPGVP52UhGs5cSES) | 3:07 |
 | 141 | [Boy](https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz) | 3:21 |
-| 142 | [She Knows It](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [She Knows It](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 |
+| 142 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 |
 | 143 | [Three Chords](https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Three Chords](https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt) | 3:47 |
 | 144 | [5AM](https://open.spotify.com/track/4C62NziSPR0BQXTFFM7fx9) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [5AM](https://open.spotify.com/album/4eOki9HrH4okzCbkpMWNMQ) | 3:06 |
 | 145 | [Do You Really Feel? \- Single Version](https://open.spotify.com/track/4nPIXaRoAqXdIlTLwAGplT) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Do You Really Feel? \- Single Version](https://open.spotify.com/album/21KnJGv5spKlqW2ATt2VSF) | 3:56 |

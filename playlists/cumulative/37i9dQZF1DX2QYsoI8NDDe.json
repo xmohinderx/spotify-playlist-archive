@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 239031,
       "name": "El Consejo",
       "url": "https://open.spotify.com/track/4EH7cPGRU91CWPkVpRrTI4"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 211712,
       "name": "Enga\u00f1\u00e9moslo",
       "url": "https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 244440,
       "name": "Equivocada - Live Version",
       "url": "https://open.spotify.com/track/7yc7bnIJpmecG0Jp1rhDyJ"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 250440,
       "name": "La Gran Se\u00f1ora",
       "url": "https://open.spotify.com/track/1cKabdMoqvB3XAMxX6mHG7"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 231693,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/3zzlzmcV08EkLTTdwtK98o"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 192946,
       "name": "No Llega El Olvido",
       "url": "https://open.spotify.com/track/6GKGBJYBmRGJ6QarBjhmVM"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 226986,
       "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 258453,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 184666,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/3yJPDtrII0EVSQFdpSZIQR"
@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 184120,
       "name": "T\u00fa a M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/6PblaBoFvMNh3x4gbTV0zU"
@@ -1961,6 +1961,24 @@
       "duration_ms": 224906,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
+    },
+    {
+      "album": {
+        "name": "Y Qu\u00e9 Tal Si Te Vas",
+        "url": "https://open.spotify.com/album/281LwsXkBDbHed6HKJcWQz"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Y Qu\u00e9 Tal Si Te Vas",
+      "url": "https://open.spotify.com/track/0eqEjWFMFMooZTyU0BdE1T"
     },
     {
       "album": {

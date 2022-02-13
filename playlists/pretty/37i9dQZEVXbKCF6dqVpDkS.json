@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 860133,
+  "num_followers": 860820,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk3ODg4ODczLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk3OTczMTU5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Je Blik Richting Mij",
+        "url": "https://open.spotify.com/album/7998gDHXVMiM73j6f6j3oY"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 145502,
+      "name": "Je Blik Richting Mij",
+      "url": "https://open.spotify.com/track/3mafhqH8nGsvyZTN86IEOc"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
@@ -37,23 +53,7 @@
       "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Dat heb jij gedaan",
-        "url": "https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 211174,
-      "name": "Dat heb jij gedaan",
-      "url": "https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Dat heb jij gedaan",
+        "url": "https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 211174,
+      "name": "Dat heb jij gedaan",
+      "url": "https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Ibiza Stories",
         "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
@@ -97,7 +113,23 @@
       "url": "https://open.spotify.com/track/50xUHMCmsbBOp6aaihNYyg"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Zoveel Takkies",
+        "url": "https://open.spotify.com/album/3K97I78QTGy2nVJLPwM94a"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 176978,
+      "name": "Zoveel Takkies",
+      "url": "https://open.spotify.com/track/3iabh1D7hKB9a81EfvxBat"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -117,7 +149,7 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/7KHdVm9HMTNUfdeyUO1zeW"
@@ -133,7 +165,7 @@
       "url": "https://open.spotify.com/track/7lP1zUASWfS5TLBdQDj3DA"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -177,7 +209,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -193,7 +225,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "L\u2019enfer",
         "url": "https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM"
@@ -209,55 +241,7 @@
       "url": "https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Ibiza Stories",
-        "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 179978,
-      "name": "Honderd Ruggen",
-      "url": "https://open.spotify.com/track/3oQaT7XX1MpFtDABwHtYoo"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Zij Wil Mij",
-        "url": "https://open.spotify.com/album/463bjptI7QogsQjWLw566S"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Zij Wil Mij",
-      "url": "https://open.spotify.com/track/01F3XjTDNiB5v3hfAPi7qT"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer-Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -277,23 +261,55 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Zij Wil Mij",
+        "url": "https://open.spotify.com/album/463bjptI7QogsQjWLw566S"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+      "duration_ms": 156000,
+      "name": "Zij Wil Mij",
+      "url": "https://open.spotify.com/track/01F3XjTDNiB5v3hfAPi7qT"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Ibiza Stories",
+        "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 179978,
+      "name": "Honderd Ruggen",
+      "url": "https://open.spotify.com/track/3oQaT7XX1MpFtDABwHtYoo"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -317,7 +333,23 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -341,7 +373,39 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "Emiliana",
+      "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Zo Zijn",
+        "url": "https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        }
+      ],
+      "duration_ms": 192878,
+      "name": "Zo Zijn",
+      "url": "https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "In M'n Bloed",
         "url": "https://open.spotify.com/album/4koKtBIFT0l7okXvUz5mB9"
@@ -357,7 +421,23 @@
       "url": "https://open.spotify.com/track/3hzxm5yFiOKeZ5f24Q9hsq"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Hard To Say Goodbye",
         "url": "https://open.spotify.com/album/0DZ46L4j2aobagYvXWQ8GI"
@@ -373,7 +453,23 @@
       "url": "https://open.spotify.com/track/3AT0yKs2cWdKII3JBxzmqv"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -393,71 +489,7 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Emiliana",
-        "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "Emiliana",
-      "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
@@ -477,7 +509,7 @@
       "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -497,23 +529,39 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Leven",
         "url": "https://open.spotify.com/album/0Fixqp0C0A2NQfvSMeHjl9"
@@ -529,23 +577,7 @@
       "url": "https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Heilig Water",
         "url": "https://open.spotify.com/album/5qZ3b7w4956bKObKxtXSTY"
@@ -565,7 +597,39 @@
       "url": "https://open.spotify.com/track/2z43Tcnc82QqrOCHv5GG9J"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "MIJ ZIJN",
+        "url": "https://open.spotify.com/album/46zQHhhOG0BqZ3t0HBcn22"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "MIJ ZIJN",
+      "url": "https://open.spotify.com/track/0vxrr6DoV0k1xoM0rX3b2q"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Hoe Niet?",
         "url": "https://open.spotify.com/album/1u4d7f9agF6T97auRE8tiT"
@@ -585,7 +649,43 @@
       "url": "https://open.spotify.com/track/6aYVLuOO66f5LGDR9rjnOe"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Bon Gepakt",
+        "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "duration_ms": 173283,
+      "name": "Bon Gepakt",
+      "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -605,23 +705,23 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Ibiza Stories",
         "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
@@ -641,23 +741,23 @@
       "url": "https://open.spotify.com/track/52MVSHsKwzelfcrY4UOFXa"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "El Mehdi",
         "url": "https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r"
@@ -677,23 +777,39 @@
       "url": "https://open.spotify.com/track/4wIhjMTomtYhOy1GAg8SSC"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+      "duration_ms": 236906,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
+      "album": {
+        "name": "In De Nacht",
+        "url": "https://open.spotify.com/album/6fyLVAtPIAPNc4twVtiyXo"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 206405,
+      "name": "In De Nacht",
+      "url": "https://open.spotify.com/track/5Epo9KIQxMprDVCaPzfnys"
+    },
+    {
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Ibiza Stories",
         "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
@@ -713,39 +829,7 @@
       "url": "https://open.spotify.com/track/7s7g2Ti4kXH6MsfskWxHKc"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "In De Nacht",
-        "url": "https://open.spotify.com/album/6fyLVAtPIAPNc4twVtiyXo"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 206405,
-      "name": "In De Nacht",
-      "url": "https://open.spotify.com/track/5Epo9KIQxMprDVCaPzfnys"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Was Er Nooit",
-        "url": "https://open.spotify.com/album/0UPzl3G2bGzMwJE7O5qaPt"
-      },
-      "artists": [
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        }
-      ],
-      "duration_ms": 195562,
-      "name": "Was Er Nooit",
-      "url": "https://open.spotify.com/track/4braSYttpuk18fJZ7YQWBj"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -785,39 +869,23 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "Was Er Nooit",
+        "url": "https://open.spotify.com/album/0UPzl3G2bGzMwJE7O5qaPt"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
         }
       ],
-      "duration_ms": 236906,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+      "duration_ms": 195562,
+      "name": "Was Er Nooit",
+      "url": "https://open.spotify.com/track/4braSYttpuk18fJZ7YQWBj"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Monaco",
         "url": "https://open.spotify.com/album/7GRX6iKOaD0fJ8V3m43JpX"
@@ -841,27 +909,7 @@
       "url": "https://open.spotify.com/track/43ZTCU7w4d9JUOCT7JSdm4"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Bon Gepakt",
-        "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 173283,
-      "name": "Bon Gepakt",
-      "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
         "name": "Vreemde Voor Mij",
         "url": "https://open.spotify.com/album/53kdqVn3CpeE1YCjuHpq2e"
@@ -881,72 +929,20 @@
       "url": "https://open.spotify.com/track/2wCZt5PKfSE81iXdRlRhaU"
     },
     {
-      "added_at": "2022-02-11 10:01:13",
+      "added_at": "2022-02-12 09:25:59",
       "album": {
-        "name": "Ibiza Stories",
-        "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
       "artists": [
         {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 142742,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/2z87XlLINvV8a2Xnb8mQ2v"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Ibiza Stories",
-        "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Nog Een Dans",
-      "url": "https://open.spotify.com/track/0Hzjf8BFxy6ziZowmNVFgf"
-    },
-    {
-      "added_at": "2022-02-11 10:01:13",
-      "album": {
-        "name": "Ibiza Stories",
-        "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 221227,
-      "name": "Ibiza Stories",
-      "url": "https://open.spotify.com/track/4YU0biJZXmOT2dWLyiTt5O"
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

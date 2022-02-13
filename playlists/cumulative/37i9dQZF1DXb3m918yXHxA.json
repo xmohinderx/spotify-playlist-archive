@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "album": {
         "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
         "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 253653,
       "name": "All Right",
       "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
@@ -99,6 +117,28 @@
       "duration_ms": 253733,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/2bwYGPDCC31QTdFca1mQRh"
+    },
+    {
+      "album": {
+        "name": "From Q, With Love",
+        "url": "https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r"
+      },
+      "artists": [
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Baby, Come To Me",
+      "url": "https://open.spotify.com/track/0jqPIQVhfULwm81K7jlNeC"
     },
     {
       "album": {
@@ -301,7 +341,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 218066,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/6p3HuYPoRBzhyBPErnyNbr"
@@ -593,7 +633,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 269653,
       "name": "Is It You",
       "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
@@ -662,6 +702,42 @@
     },
     {
       "album": {
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
+      },
+      "artists": [
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+    },
+    {
+      "album": {
+        "name": "Ross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4AyA2xN6aVVDaGfGqFIDfQ"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Let's Go Up",
+      "url": "https://open.spotify.com/track/0cP6MyvBwQwYnGqNAS3lkf"
+    },
+    {
+      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -677,6 +753,24 @@
       "duration_ms": 221613,
       "name": "Lido Shuffle",
       "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
+    },
+    {
+      "album": {
+        "name": "A Special Part of Me (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/67p4rsyWvjZp7Wsvnj3xPK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258106,
+      "name": "Love Never Felt so Good",
+      "url": "https://open.spotify.com/track/7l5S791OPaOUQPWnQcN4AS"
     },
     {
       "album": {
@@ -767,6 +861,24 @@
       "duration_ms": 315640,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+    },
+    {
+      "album": {
+        "name": "Love Life",
+        "url": "https://open.spotify.com/album/5SIj1XbgMnWPAbBSJ9nii4"
+      },
+      "artists": [
+        {
+          "name": "Brenda Russell",
+          "url": "https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170920,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0QASzWME81nAbhjV1Tdjie"
     },
     {
       "album": {
@@ -1127,7 +1239,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 239240,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj"
@@ -1207,7 +1319,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 222333,
       "name": "The Girl Is Mine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
@@ -1279,7 +1391,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 295160,
       "name": "Too Hot",
       "url": "https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB"
@@ -1405,7 +1517,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/7dL8FCLzEaWC2A3qWQuz1q"
@@ -1463,7 +1575,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 237466,
       "name": "You Can Do Magic",
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"

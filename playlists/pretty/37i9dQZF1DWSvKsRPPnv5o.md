@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,388 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,438 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Still Countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still Countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
+| 1 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
 | 2 | [ETA \(with Snoop Dogg, Busta Rhymes & Anderson .Paak\)](https://open.spotify.com/track/0bzX26mfmUi0djOLemE2b8) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [ETA \(with Snoop Dogg, Busta Rhymes & Anderson .Paak\)](https://open.spotify.com/album/6F7pAFd441t7xmlYit9I9L) | 3:57 |
 | 3 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
 | 4 | [Coming Back](https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [Nefertitti Avani](https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn) | [BODR](https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE) | 3:31 |

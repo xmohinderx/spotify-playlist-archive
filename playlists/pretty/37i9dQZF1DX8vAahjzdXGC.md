@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Marion Jola
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,865 likes - 114 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,887 likes - 114 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 38 | [Masih Sama](https://open.spotify.com/track/50n7O5N4B1K25jiRXXcy7z) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Masih Sama](https://open.spotify.com/album/2v3xt1GboNn4UpLacJr2KB) | 3:45 |
 | 39 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 |
 | 40 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
-| 41 | [2 + 2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2 + 2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
+| 41 | [2+2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2 + 2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
 | 42 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 |
 | 43 | [still trying](https://open.spotify.com/track/01ysBEvsyXrIbaemFbZ4vK) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [still trying](https://open.spotify.com/album/1MsR5Q72YMzxDjZi7B56Lj) | 3:04 |
 | 44 | [Bangkit \(OST\. Ashiap Man\)](https://open.spotify.com/track/0nLoEtB0aCIuWyMyoH42am) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67) | [Bangkit \(OST\. Ashiap Man\)](https://open.spotify.com/album/0auPIRq5bzQFXgCkir8F50) | 2:55 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 84 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 |
 | 85 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 |
 | 86 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 |
-| 87 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/5xiDPchmaJ9F7Y3NUb6bZn) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
+| 87 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
 | 88 | [On The Sunny Side Of The Street \(feat\. Phum Viphurit\)](https://open.spotify.com/track/0INug61AM5EKWqMDRJzCdB) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [On The Sunny Side Of The Street \(feat\. Phum Viphurit\)](https://open.spotify.com/album/5ziRa4EerzbxvO0d1oL0ZR) | 4:12 |
 | 89 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
 | 90 | [Berkasih Denganmu](https://open.spotify.com/track/2TKBM4rOWSqmdPx9siqFQX) | [SUARASA](https://open.spotify.com/artist/4xyRcr0252yIoj1Rzjokc4), [Cacha Scholastica](https://open.spotify.com/artist/4lA0kkdCi2U5KxSq49dvMO) | [Berkasih Denganmu](https://open.spotify.com/album/37STjVHfCVJc3tFupRrDRo) | 3:41 |

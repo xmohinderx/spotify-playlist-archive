@@ -2462,6 +2462,36 @@
     },
     {
       "album": {
+        "name": "My Life (Vol. 1)",
+        "url": "https://open.spotify.com/album/10wEGkuy9mJXVt5byNbbW1"
+      },
+      "artists": [
+        {
+          "name": "Trouf",
+          "url": "https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl"
+        },
+        {
+          "name": "Spave",
+          "url": "https://open.spotify.com/artist/2rDf12GPPndtQlKnxfKj3m"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Daimones",
+      "url": "https://open.spotify.com/track/0E7Y1ZxWaEH3FvHiIsIjTW"
+    },
+    {
+      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/1Ir91nN1hecPp4pfaLTkWt"
       },
@@ -5029,7 +5059,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -6425,7 +6455,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 188041,
       "name": "Love Stories",
       "url": "https://open.spotify.com/track/1nWlOOQdYHMCiHKLy2VBWi"
@@ -11469,7 +11499,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 247200,
       "name": "XILIOMETRA",
       "url": "https://open.spotify.com/track/0Az2D1ByNU09je0ZtzDcHm"

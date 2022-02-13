@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,356 likes - 94 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,412 likes - 94 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/5xiDPchmaJ9F7Y3NUb6bZn) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
+| 1 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 |
 | 2 | [Birdy](https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/77yXxEndm5eQyRQUQweAsY) | 4:33 |
 | 3 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 |
-| 4 | [2 + 2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2 + 2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
+| 4 | [2+2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2 + 2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
 | 5 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 |
 | 6 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
 | 7 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Becky G, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,627 likes - 95 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,633 likes - 95 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 7 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
 | 8 | [Zorn & Liebe \(feat\. Nina Chuba\)](https://open.spotify.com/track/2wFSzqRuZ6PhLlwuxHUvCA) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Zorn & Liebe \(feat\. Nina Chuba\)](https://open.spotify.com/album/26nWDMmcYYmZZwXirMjHE4) | 2:56 |
 | 9 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 |
-| 10 | [Baby OG](https://open.spotify.com/track/0cs0fAzuRrMsG085tIwnOL) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Bawer](https://open.spotify.com/artist/59bfHKyYGYh5BlY7DSfF03) | [Baby OG](https://open.spotify.com/album/6nmWNCjP3sQphreMHAv0JB) | 2:08 |
+| 10 | [Baby OG](https://open.spotify.com/track/0cs0fAzuRrMsG085tIwnOL) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Bawer](https://open.spotify.com/artist/0hL2YMWhS1RHJxrPDyilMg) | [Baby OG](https://open.spotify.com/album/6nmWNCjP3sQphreMHAv0JB) | 2:08 |
 | 11 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
 | 12 | [Millionär](https://open.spotify.com/track/6UU88rM7Deah45o6WHIJH7) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Millionär](https://open.spotify.com/album/26W6QtSPXKmBBEqDe4F6IS) | 2:41 |
 | 13 | [Hate Me If It Helps](https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Hate Me If It Helps](https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk) | 3:14 |

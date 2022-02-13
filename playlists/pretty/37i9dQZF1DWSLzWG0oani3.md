@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá {John C}
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,344 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,610 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PELIKULON](https://open.spotify.com/track/6GBmsnc0nyHoirMPmgFnSZ) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [PELIKULON](https://open.spotify.com/album/3NFdz4Cl4t5cgPLQa0TdNj) | 2:43 |
 | 2 | [Pinta](https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Pinta](https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha) | 2:57 |
 | 3 | [Tamo Chelo](https://open.spotify.com/track/2Y7v7XjZV1FcQprRV6VLpt) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/2alcg2C46hoRfhO9hcFEV0) | 1:52 |
-| 4 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [DJ Plaga](https://open.spotify.com/artist/08u4ziTkV9VIYmKqRcbdFK), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
+| 4 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
 | 5 | [Rin Tin Tin](https://open.spotify.com/track/5yJsDz8c16INrVtoN9hdyW) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Rin Tin Tin](https://open.spotify.com/album/2xbjaXObO74HQU530db1bX) | 2:49 |
 | 6 | [Perrito Malvado](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Marita](https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ) | [Perrito Malvado](https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ) | 4:40 |
 | 7 | [Tiki Taka](https://open.spotify.com/track/5QDFTP24z4dXNsk8FWHAMA) | [SK GoldenBoy](https://open.spotify.com/artist/7vsHwzX51HutOI0wfI1kix), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Tiki Taka](https://open.spotify.com/album/2KU8ZqTdisGV3QSB1kDDxw) | 2:29 |

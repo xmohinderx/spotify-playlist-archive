@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > For those who like the newest songs loud\. Very loud\. Cover: Slash with Myles Kennedy & the Conspirators
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,048 likes - 149 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,231 likes - 149 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

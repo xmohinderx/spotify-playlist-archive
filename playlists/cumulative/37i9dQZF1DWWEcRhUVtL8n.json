@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 174857,
       "name": "1 2 365 4 Me",
       "url": "https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 155560,
       "name": "and it sounds like (ice cream)",
       "url": "https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 143667,
       "name": "Better On Your Own",
       "url": "https://open.spotify.com/track/1Zj4Z2gQP0jgQMqxdi8gcr"
@@ -1927,7 +1927,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 186672,
       "name": "Body And Mind",
       "url": "https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj"
@@ -3561,7 +3561,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 148778,
       "name": "Cure",
       "url": "https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd"
@@ -3759,7 +3759,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 150792,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu"
@@ -4529,7 +4529,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 177415,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ"
@@ -4865,6 +4865,24 @@
       "duration_ms": 135976,
       "name": "Enough",
       "url": "https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6"
+    },
+    {
+      "album": {
+        "name": "Every Shade of Blue",
+        "url": "https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Every Shade of Blue",
+      "url": "https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c"
     },
     {
       "album": {
@@ -5341,7 +5359,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 154115,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u"
@@ -5507,7 +5525,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 176946,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
@@ -5669,7 +5687,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 157042,
       "name": "Fuzzy",
       "url": "https://open.spotify.com/track/6js5G0CuansIF9BHyXk4uV"
@@ -6023,7 +6041,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 174680,
       "name": "Gone (with Jensen McRae)",
       "url": "https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b"
@@ -6351,7 +6369,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 191830,
       "name": "happy for me",
       "url": "https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv"
@@ -6561,7 +6579,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 166613,
       "name": "help herself (with BENEE)",
       "url": "https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi"
@@ -7135,7 +7153,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 165533,
       "name": "i deserve 2 b alone",
       "url": "https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD"
@@ -7261,7 +7279,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 162866,
       "name": "I Eat Boys",
       "url": "https://open.spotify.com/track/4LkCyp4LxvfLUWbRz1em5y"
@@ -7521,7 +7539,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 213501,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm"
@@ -8789,7 +8807,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 185744,
       "name": "Like 1999 - Late Night Mix",
       "url": "https://open.spotify.com/track/7s0X4wWySiulPPh8EXnjyn"
@@ -9455,7 +9473,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 155695,
       "name": "Make of It",
       "url": "https://open.spotify.com/track/1JhAUdnlUyUqZocC2mvpwH"
@@ -9799,7 +9817,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 229173,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
@@ -10603,7 +10621,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 130575,
       "name": "no friends (feat. spill tab & MIA GLADSTONE)",
       "url": "https://open.spotify.com/track/0c5eyxgiDJGS48ZCfmLabb"
@@ -10733,7 +10751,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 230000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
@@ -10845,7 +10863,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 163800,
       "name": "not okay (feat. mazie)",
       "url": "https://open.spotify.com/track/3hf7tTSZ6jgIdLIiT9Kgq0"
@@ -11523,7 +11541,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 186146,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3OSgKpb2c1VbFqDOqiz8tZ"
@@ -11773,7 +11791,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 175263,
       "name": "Peachi",
       "url": "https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1"
@@ -12257,7 +12275,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 249078,
       "name": "Prom",
       "url": "https://open.spotify.com/track/0jDly7CyGCcPWGw5LNr7KL"
@@ -12293,7 +12311,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
@@ -13105,7 +13123,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 196226,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk"
@@ -14059,7 +14077,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 131408,
       "name": "spinnin",
       "url": "https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm"
@@ -15121,7 +15139,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 214724,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo"
@@ -16693,7 +16711,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 177186,
       "name": "What's Wrong",
       "url": "https://open.spotify.com/track/1C5YO3ItmCjO2lUtLQmYYO"
@@ -17097,7 +17115,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Wrong with u",
       "url": "https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ"

@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1zuKjpp4t7BS8JPKi6mkQr"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 190840,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/083cgOBzPBFBrqYFJDWPis"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 265666,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/7ctRAoCbcpOusbm3w3E6mn"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 186106,
       "name": "Couldn't Love You More",
       "url": "https://open.spotify.com/track/6saaAftAvHFzQwPlFK78zt"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 223986,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3dvvQrTIzBbPh5egjpSs1n"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 237346,
       "name": "Eyes Off You",
       "url": "https://open.spotify.com/track/6mORViCZpO5JLkxN9NWgHM"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 242226,
       "name": "Flightless Bird, American Mouth",
       "url": "https://open.spotify.com/track/6iWwfN1euztxZi1OK38HbU"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 222426,
       "name": "From Eden",
       "url": "https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 168533,
       "name": "I Just Don't Know What to Do With Myself",
       "url": "https://open.spotify.com/track/6nRn2Or5IGJXfRZLUFtQ8g"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 230026,
       "name": "I Melt with You (7\" Mix)",
       "url": "https://open.spotify.com/track/0XGyBJ0tNebqppbNEyCAcM"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 238973,
       "name": "If You Ever Want To Be In Love",
       "url": "https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 174013,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 164466,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/22goEULcezLAiENbgpJw7k"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 274760,
       "name": "Linger",
       "url": "https://open.spotify.com/track/1aLNpg2kKvUncflV8xE5AA"
@@ -985,6 +985,24 @@
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "album": {
+        "name": "Life Is Strange",
+        "url": "https://open.spotify.com/album/20mePxbWih3MnyZiT0eozP"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/5X3XgU9OCFXxJo3C8if53F"
     },
     {
       "album": {
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 258573,
       "name": "Many of Horror",
       "url": "https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31"
@@ -1151,6 +1169,24 @@
       "duration_ms": 236280,
       "name": "Mountain To Move",
       "url": "https://open.spotify.com/track/5Dqovi7RKxIcwgfi73C5AK"
+    },
+    {
+      "album": {
+        "name": "no song without you",
+        "url": "https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161536,
+      "name": "no song without you",
+      "url": "https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR"
     },
     {
       "album": {
@@ -1219,7 +1255,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/3MdYFBIzPf7lSJnI8wi3Ka"
@@ -1327,7 +1363,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 308360,
       "name": "Rent - 2001 Remaster",
       "url": "https://open.spotify.com/track/79p7mYGJC9IgybmPsZf5HP"
@@ -1399,7 +1435,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8"
@@ -1417,7 +1453,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 226440,
       "name": "Seasons (Waiting On You)",
       "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
@@ -1435,7 +1471,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 277266,
       "name": "Seven Words",
       "url": "https://open.spotify.com/track/74WubJcYTCD1CGhfTgr3ix"
@@ -1471,7 +1507,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
@@ -1489,7 +1525,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 284706,
       "name": "Silent Sigh",
       "url": "https://open.spotify.com/track/0Wo8AS78mXmVnfBNcvdxuO"
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 255400,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 266346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/0vD4P4669qdPvVQbNclFZR"
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 226666,
       "name": "That Kiss",
       "url": "https://open.spotify.com/track/4dUkzMogVb3Hh1tTy9iQuN"
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 290293,
       "name": "The Wild Ones",
       "url": "https://open.spotify.com/track/4Bgx5Alx9d5j3TozFwB9hr"
@@ -1756,6 +1792,24 @@
     },
     {
       "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
+    },
+    {
+      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -1767,7 +1821,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
@@ -1983,7 +2037,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198466,
       "name": "WW1 Portraits",
       "url": "https://open.spotify.com/track/3D0f0MBn3KBpLVEN7mLhhK"
@@ -2037,7 +2091,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 148706,
       "name": "You and I",
       "url": "https://open.spotify.com/track/4oeRfmp9XpKWym6YD1WvBP"
@@ -2055,7 +2109,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 199960,
       "name": "You Said Something",
       "url": "https://open.spotify.com/track/1EQBy9gTZFl0HdfcI7h7oT"

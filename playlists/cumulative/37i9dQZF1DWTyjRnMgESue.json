@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 214391,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/3gZlq8DvTfgpsiAMRgtZwT"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 225614,
       "name": "back to back",
       "url": "https://open.spotify.com/track/0SQKYOdKg5bvNCbvhty9r7"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 208972,
       "name": "Being Together",
       "url": "https://open.spotify.com/track/36BRklzOXj53qpt7sXEVQR"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 171000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 219112,
       "name": "Break Itself",
       "url": "https://open.spotify.com/track/3lIUzs8KlXQo8fuhJswAxm"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 204413,
       "name": "do all my friends hate me?",
       "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 186146,
       "name": "Easy Going",
       "url": "https://open.spotify.com/track/5YPyNorM81GcbpH4B5J2bY"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 260338,
       "name": "Edge Of The Dark",
       "url": "https://open.spotify.com/track/5LAgxVviiDTPQNc3cvInAU"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 223575,
       "name": "Fewer Ghosts - Acoustic",
       "url": "https://open.spotify.com/track/2VvX7hcWG9Ecd1olc2SQAm"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Forget I Exist",
       "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 212402,
       "name": "Forgetting",
       "url": "https://open.spotify.com/track/4gHqrWltyes1fgnHPzC9yX"
@@ -1308,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/4MczP0Zn15iUoSjXsmxYrK"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194047,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/5NqL38XhwxqF5TeNY9yr2z"
+    },
+    {
+      "album": {
         "name": "Seven Shades of Heartbreak",
         "url": "https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r"
       },
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 194540,
       "name": "Hate Me If It Helps",
       "url": "https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 196333,
       "name": "Hurt Like That",
       "url": "https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 150937,
       "name": "I Kissed Someone (It Wasn't You)",
       "url": "https://open.spotify.com/track/35NX4IIsuOOm6isMzTdqtQ"
@@ -1767,6 +1785,24 @@
       "duration_ms": 210453,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1q32AhBbgDPdBr5VyCRHq6"
+    },
+    {
+      "album": {
+        "name": "If I Didn\u2019t Love You",
+        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246350,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
     },
     {
       "album": {
@@ -1853,7 +1889,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 245813,
       "name": "Jersey on the Wall - I'm Just Asking",
       "url": "https://open.spotify.com/track/4Ii1EFQX6EZXkojk4CO9pm"
@@ -1965,7 +2001,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 186601,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/04ZNuBUb2OAM4RUPi6s67q"
@@ -1983,7 +2019,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 256092,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/5qFRPfX8KnMsnlbNrjXxHR"
@@ -2081,7 +2117,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 215213,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq"
@@ -2139,7 +2175,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
@@ -2287,7 +2323,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 201133,
       "name": "Mind of Its Own",
       "url": "https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD"
@@ -2305,7 +2341,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
@@ -2341,7 +2377,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 190878,
       "name": "Molly",
       "url": "https://open.spotify.com/track/4csMnlN5lULQ7xJtN4LBiD"
@@ -2529,7 +2565,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 142777,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN"
@@ -2547,7 +2583,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 229076,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/12pAzc2hvw5kCsVlGKIlD5"
@@ -2587,7 +2623,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
@@ -2659,7 +2695,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 163636,
       "name": "Pick and Choose",
       "url": "https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo"
@@ -2829,7 +2865,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
@@ -3081,7 +3117,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 229131,
       "name": "Slow Separation",
       "url": "https://open.spotify.com/track/02hJFdZllz45ysp4caZh3z"
@@ -3099,7 +3135,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 170720,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb"
@@ -3117,7 +3153,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 252640,
       "name": "So Are We",
       "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
@@ -3193,7 +3229,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 230200,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq"
@@ -3533,7 +3569,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 282793,
       "name": "Things I Won't Forget",
       "url": "https://open.spotify.com/track/6QLWLpbZ67om3gUNBcDFs7"
@@ -3591,7 +3627,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 200837,
       "name": "Till It Hurts",
       "url": "https://open.spotify.com/track/1du95sy36LOvI8FtkHUWT8"
@@ -3627,7 +3663,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 206360,
       "name": "Tractor",
       "url": "https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR"
@@ -3645,7 +3681,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -4007,7 +4043,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 178186,
       "name": "you make me feel alright",
       "url": "https://open.spotify.com/track/62VR8f0u8XIgDQCwT1tzNC"
@@ -4043,7 +4079,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"

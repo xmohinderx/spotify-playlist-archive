@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Omar Apollo, Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,884 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,934 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 11 | [roses](https://open.spotify.com/track/3PmaqkHQLWpxKhSpo6yJip) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [roses](https://open.spotify.com/album/3UqQa5s6XDUlTxnM1wlGFd) | 3:09 |
 | 12 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
 | 13 | [Way Up](https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Way Up](https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX) | 2:30 |
-| 14 | [Still Countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still Countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
+| 14 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
 | 15 | [Grinding All Season](https://open.spotify.com/track/1p2AbhtzG2Njx2x0JB83zA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 2:50 |
 | 16 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 |
 | 17 | [Coming Back](https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [Nefertitti Avani](https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn) | [BODR](https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE) | 3:31 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 84 | [nosedive](https://open.spotify.com/track/532neynwa0xjqPWziBjSMa) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [nosedive](https://open.spotify.com/album/3o0z53mbwaD2B3cG3M7uPd) | 3:35 |
 | 85 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 |
 | 86 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 |
-| 87 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [LUVMIND.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
+| 87 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Luvmind.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
 | 88 | [Night Scenes](https://open.spotify.com/track/0L69WWJy5ntvBopLzAUkw1) | [Vince The Messenger](https://open.spotify.com/artist/7wKTJPnPgXQ8ENAlfpM0eA), [TNA](https://open.spotify.com/artist/135FZ4psdYk6oVrWcTv0LT) | [Night Scenes](https://open.spotify.com/album/3sWSH52ckbAFt3W2llzGs8) | 3:55 |
 | 89 | [I.D.W.B.F](https://open.spotify.com/track/7oSt8IsjcckqLXWHWVI6if) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [I.D.W.B.F](https://open.spotify.com/album/7Ef4H7YXlSHQb9n5N3S6vL) | 2:38 |
 | 90 | [Thought This Was Love](https://open.spotify.com/track/75uEMKH0VewOpqLwG2VASi) | [Ex Ømerta](https://open.spotify.com/artist/0hkwsTvHfdny1bWeqW6Smv) | [Thought This Was Love](https://open.spotify.com/album/0jhOuv2H2UR4hgNGPFdiuG) | 3:04 |

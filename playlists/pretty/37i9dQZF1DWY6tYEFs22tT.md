@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > The names you know and the names you need to know in hip\-hop\. Cover: Pusha T
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,344 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,388 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 18 | [Push It \(feat\. Young Thug\)](https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:30 |
 | 19 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 |
 | 20 | [Grinding All Season](https://open.spotify.com/track/1p2AbhtzG2Njx2x0JB83zA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 2:50 |
-| 21 | [Still Countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still Countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
+| 21 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
 | 22 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 |
 | 23 | [Neighbors Know My Name](https://open.spotify.com/track/4H9pCqPKc11WCbfILZSYTt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 1:44 |
 | 24 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |

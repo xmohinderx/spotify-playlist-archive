@@ -1,12 +1,12 @@
 {
   "description": "Where all Hamilton music coexists.",
-  "num_followers": 271648,
+  "num_followers": 271817,
   "original_name": "Best of Hamilton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYyNjg0NSwwMDAwMDAwMDZiYjA3ODQyNTg5NTgzYTY5YTM5M2Q5NzRiNTc4Yzkz",
+  "snapshot_id": "MTY0NDcxMzE4MSwwMDAwMDAwMDZiYjA3ODQyNTg5NTgzYTY5YTM5M2Q5NzRiNTc4Yzkz",
   "tracks": [
     {
       "added_at": "2020-07-03 19:01:00",
@@ -18,10 +18,6 @@
         {
           "name": "Leslie Odom Jr.",
           "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
         },
         {
           "name": "Daveed Diggs",
@@ -40,8 +36,16 @@
           "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
         },
         {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
           "name": "Original Broadway Cast of Hamilton",
           "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
         }
       ],
       "duration_ms": 236737,

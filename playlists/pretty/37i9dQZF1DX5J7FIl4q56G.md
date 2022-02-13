@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Zeal & Ardor
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,786 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,905 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 6 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 |
 | 7 | [UGLY](https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [UGLY](https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS) | 3:33 |
 | 8 | [Resentment Always Simmers](https://open.spotify.com/track/1YoD30xA6djOwx65bUSgPc) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Resentment is Always Seismic \- a final throw of Throes](https://open.spotify.com/album/59yT36yNUZcv2iY84QvUP1) | 4:16 |
-| 9 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break the Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
+| 9 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
 | 10 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 |
 | 11 | [bioMACHiNA](https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [bioMACHiNA](https://open.spotify.com/album/1FG5jVKV1MgWLSIUa2msk1) | 2:37 |
 | 12 | [The Dragonborn Comes](https://open.spotify.com/track/6Z0UvPBRY2yO8qaN2oGYFq) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Lara Loft](https://open.spotify.com/artist/5joMJdp3RaxAj8xFbSLdmJ) | [The Dragonborn Comes](https://open.spotify.com/album/5uL8yyLMCO7boYhFvSxgAr) | 3:21 |

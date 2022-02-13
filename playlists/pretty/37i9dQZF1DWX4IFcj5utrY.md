@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC?si=DOZkChnsSZecVGYMsr4Tqg">Miči</a> and <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=\_ZSYI5GkR6esqjhCE1Qt4w">Sun\-El Musician</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,197 likes - 70 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,226 likes - 70 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 66 | [Zebula](https://open.spotify.com/track/2B1T1vPOYmO75WNGoqdke5) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105) | [Aluku Records Various Compilation SA Edition, Pt\. 3](https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB) | 8:19 |
 | 67 | [Maybru](https://open.spotify.com/track/2oYOcZ2IUlZvje4LSnuv8w) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Maybru](https://open.spotify.com/album/6Lw554u7NodqgueWETEy3g) | 4:25 |
 | 68 | [Kumo](https://open.spotify.com/track/1r76Z7nQMeJ0mtsDQJvAcd) | [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt) | [Kumo EP](https://open.spotify.com/album/77VnJRZfMYzNOUMe7Gjdhh) | 7:16 |
-| 69 | [Mr Ray in Cosmic](https://open.spotify.com/track/19WjST7mAnBzFi3dsUC3ql) | [Kaysoul](https://open.spotify.com/artist/0eCTrYePahyPxq2lIHpzfv) | [Frequency Rays of One Cosmic EP](https://open.spotify.com/album/75gs1DglxtddH6yfa9YHaI) | 5:51 |
+| 69 | [Mr Ray in Cosmic](https://open.spotify.com/track/19WjST7mAnBzFi3dsUC3ql) | [KaySoul](https://open.spotify.com/artist/0eCTrYePahyPxq2lIHpzfv) | [Frequency Rays of One Cosmic EP](https://open.spotify.com/album/75gs1DglxtddH6yfa9YHaI) | 5:51 |
 | 70 | [All of This \- Lemon & Herb Remix](https://open.spotify.com/track/0DOtmC7j40TKOu8V7VaCkN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [All of This Remixes, Vol\. 2](https://open.spotify.com/album/4kMV75bbEkiTRDne9xbqa8) | 7:19 |
 
 Snapshot ID: `MTY0NDUzMDM0MCwwMDAwMDMzMTAwMDAwMTdlZTVhNTkxMzEwMDAwMDE3ZWU0MjgzN2Jh`

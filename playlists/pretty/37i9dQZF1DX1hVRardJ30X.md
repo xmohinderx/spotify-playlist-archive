@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Wisin & Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,869 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,991 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 6 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 |
 | 7 | [Soñando Despierto](https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 2:56 |
 | 8 | [Despues De Las 12](https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Despues De Las 12](https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW) | 3:14 |
-| 9 | [Mírame \(Bilmem mi? Remix\)](https://open.spotify.com/track/05vrfZ9MXAnE80Z5NQG6wa) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mírame \(Bilmem mi? Remix\)](https://open.spotify.com/album/0Z1bPOA0FbVGrwFLvwvhUi) | 3:05 |
+| 9 | [Mírame \(Bilmem mi? Remix\)](https://open.spotify.com/track/05vrfZ9MXAnE80Z5NQG6wa) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Mírame \(Bilmem mi? Remix\)](https://open.spotify.com/album/0Z1bPOA0FbVGrwFLvwvhUi) | 3:05 |
 | 10 | [Istanbul](https://open.spotify.com/track/5OFdEs9eJVcwIh6dhSNi0q) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Istanbul](https://open.spotify.com/album/3ABBjz0LWeVcKhAuQMkJBE) | 2:28 |
-| 11 | [Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 |
+| 11 | [Con Un Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Con Un Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 |
 | 12 | [Vamos Que Nos Vamos](https://open.spotify.com/track/0hORtnhLfemUP1TKZK4rHS) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Vamos Que Nos Vamos](https://open.spotify.com/album/5j2h3zGJECqfdf7zKxTn3J) | 3:34 |
 | 13 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 |
 | 14 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 |
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [Lo Primero](https://open.spotify.com/track/62wcs7NhqaDGt9PILwW2AG) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Lo Primero](https://open.spotify.com/album/2NaWsKweNrktENSMR12255) | 3:04 |
 | 55 | [Space](https://open.spotify.com/track/0RsiltHAfyiNrHOVcsTQzO) | [Manuel La Joya](https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P) | [Space](https://open.spotify.com/album/1NmhtFg9o1o1cOnGQXHIuF) | 2:10 |
 | 56 | [Interrogante](https://open.spotify.com/track/2edL5LFoXBdrCKFWnehW81) | [SMS](https://open.spotify.com/artist/2XLPKlfrFm6beJw5k6zGJ2), [Elisama](https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU) | [Interrogante](https://open.spotify.com/album/25kfFrzNzmDi2USWe1eg3f) | 2:36 |
-| 57 | [Sentimiento \(feat\. Izzy\)](https://open.spotify.com/track/6JxAgSykWOGaDdV1Hdxlup) | [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4), [Joovan](https://open.spotify.com/artist/4DhFjWf3UqjPYmVUeBLDYs), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Izzy](https://open.spotify.com/artist/2MrFzh6z5Ngw4PAnFzgrLN) | [Sentimiento \(feat\. Izzy\)](https://open.spotify.com/album/7N3Aby4Hv6zH3WULxwHs4k) | 4:22 |
+| 57 | [Sentimiento \(feat\. Izzy\)](https://open.spotify.com/track/6JxAgSykWOGaDdV1Hdxlup) | [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Izzy](https://open.spotify.com/artist/2MrFzh6z5Ngw4PAnFzgrLN) | [Sentimiento \(feat\. Izzy\)](https://open.spotify.com/album/7N3Aby4Hv6zH3WULxwHs4k) | 4:22 |
 
 Snapshot ID: `MTY0NDYxMjExOSwwMDAwMDM1NTAwMDAwMTdlZWE4NTZiZDcwMDAwMDE3ZWRhYWJmOTFl`

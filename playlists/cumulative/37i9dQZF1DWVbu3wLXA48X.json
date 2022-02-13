@@ -8,24 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "2 + 2",
-        "url": "https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ"
-      },
-      "artists": [
-        {
-          "name": "Cupnoodle",
-          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
-        }
-      ],
-      "date_added": "2022-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168533,
-      "name": "2 + 2",
-      "url": "https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI"
-    },
-    {
-      "album": {
         "name": "2 late",
         "url": "https://open.spotify.com/album/2nHdxmdxwHvL17UzryM7fl"
       },
@@ -41,6 +23,24 @@
       "duration_ms": 149368,
       "name": "2 late",
       "url": "https://open.spotify.com/track/0UbJlumqvzFPZJjEvDlXc3"
+    },
+    {
+      "album": {
+        "name": "2 + 2",
+        "url": "https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI"
     },
     {
       "album": {
@@ -470,7 +470,7 @@
         },
         {
           "name": "Andrew Kang",
-          "url": "https://open.spotify.com/artist/5xiDPchmaJ9F7Y3NUb6bZn"
+          "url": "https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ"
         }
       ],
       "date_added": "2022-02-10",

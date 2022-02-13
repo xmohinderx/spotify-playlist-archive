@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 273533,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/62oCnK99vT8HOgwPsvXuiM"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
@@ -471,6 +471,24 @@
       "duration_ms": 233973,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/2KCqAdd2ad0hpJc5ySoTE8"
+    },
+    {
+      "album": {
+        "name": "Devotion (Be Kind Version)",
+        "url": "https://open.spotify.com/album/681jRm3uCBZSRnW207fNh9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Devotion - Be Kind Version",
+      "url": "https://open.spotify.com/track/4df7nLF1o8PweFcvCJznHf"
     },
     {
       "album": {
@@ -655,7 +673,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 164773,
       "name": "Fisher Island Sound",
       "url": "https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 171906,
       "name": "Half Truths",
       "url": "https://open.spotify.com/track/6yFKwqwi0l6jpGQzKEswFB"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 194365,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
@@ -781,7 +799,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 210421,
       "name": "Hypochondriac - acoustic",
       "url": "https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 199333,
       "name": "Pel\u00e9 Pel\u00e9",
       "url": "https://open.spotify.com/track/2k7eqTkF1xicjj1yLEEdGA"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 210196,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 234080,
       "name": "Repeat Until Death",
       "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 211940,
       "name": "Shine",
       "url": "https://open.spotify.com/track/00r8JL55INeWH0qQfiEhsl"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
@@ -1895,7 +1913,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 153000,
       "name": "Sometimes (Backwood)",
       "url": "https://open.spotify.com/track/5ysFFsqJFcsX8Rez67j2tv"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/61E4DgklZb36Oxn8el9NNy"

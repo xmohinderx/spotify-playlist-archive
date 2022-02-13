@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 209238,
       "name": "Afternoon Haze",
       "url": "https://open.spotify.com/track/5MIuvuUpnOUlr7QDgOxWbZ"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 194682,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/5raHB5HD8ISjhhw8D6yHFz"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 200558,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/4aDYEx4grZSAQWoGsfjUTK"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 247050,
       "name": "Godlight",
       "url": "https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 260760,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/2SnU0h8f6LlxvSycvfcCQQ"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198093,
       "name": "Hymn for Her (feat. Lydia Clowes)",
       "url": "https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 180314,
       "name": "Less Of A Man",
       "url": "https://open.spotify.com/track/3613WqZRMMxo5yAKfGxFQd"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 180653,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/7xY9gEPJPhFwjlvsQpVboG"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 198004,
       "name": "Medicine Boy",
       "url": "https://open.spotify.com/track/0O8Ba5nHqD7kQcgNe7sFO7"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 170811,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 183070,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs"
@@ -1695,6 +1695,24 @@
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+    },
+    {
+      "album": {
+        "name": "Perfect on Me",
+        "url": "https://open.spotify.com/album/087PPC2a2PpjNQ22d62ACQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164536,
+      "name": "Perfect on Me",
+      "url": "https://open.spotify.com/track/38zR7iGnoSlGuKTJqREVAc"
     },
     {
       "album": {
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 200248,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/0fou77hmsWazzftndSr9Vn"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 156684,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 150967,
       "name": "The Hurt You Gave Me",
       "url": "https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 176630,
       "name": "THE REASON I'M BREATHING (minute)",
       "url": "https://open.spotify.com/track/0EkvkSPnQ6a2ctZE1yNkc7"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 193650,
       "name": "Time Alone",
       "url": "https://open.spotify.com/track/0sjl9UqTccGjKBu0RAhGyZ"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 186935,
       "name": "too many feelings",
       "url": "https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd"

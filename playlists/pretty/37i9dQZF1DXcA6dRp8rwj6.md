@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Future\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,571 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,691 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 18 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
 | 19 | [Channel Zero](https://open.spotify.com/track/5yPOxCrlFlNuNnv8OYA50h) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Channel Zero](https://open.spotify.com/album/2rkyeEPGwWiD1lyD3QRbvm) | 3:50 |
 | 20 | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM) | 2:08 |
-| 21 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [LUVMIND.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
+| 21 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Luvmind.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
 | 22 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 |
 | 23 | [Organize](https://open.spotify.com/track/7hfo7qeQZqTFwBUOmczMod) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [Organize](https://open.spotify.com/album/0D2PEmYzGoOPCfmm8c7ibe) | 3:42 |
 | 24 | [WITHOUT YOU](https://open.spotify.com/track/7CpE2CsvHRuae5HkC3MikN) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [WITHOUT YOU](https://open.spotify.com/album/0oeqrRKgLSFWqzBFq9Wo72) | 2:51 |
-| 25 | [Still Countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still Countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
+| 25 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
 | 26 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 |
 | 27 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
 | 28 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Nicki Minaj, Future, Yeat, and more\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,264 likes - 47 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,445 likes - 47 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 | 7 | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM) | 2:08 |
 | 8 | [ALONE \(feat\. Trippie Redd\)](https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:16 |
-| 9 | [Still Countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still Countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
+| 9 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 |
 | 10 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 |
 | 11 | [Real Ones \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2MyXR1s4usYNULsxZ85r44) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Real Ones \(feat\. Roddy Ricch\)](https://open.spotify.com/album/1a0y6qoyFpBjyy4ARIUU6o) | 3:03 |
 | 12 | [Threat \(feat\. 42 Dugg\)](https://open.spotify.com/track/6MX0kAiiEKVU68F9IIuofQ) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Threat \(feat\. 42 Dugg\)](https://open.spotify.com/album/1Bp8ycSKYJQkPE8ZITIPps) | 2:26 |

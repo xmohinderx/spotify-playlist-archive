@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Maddie & Tae
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,978 likes - 111 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,165 likes - 111 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

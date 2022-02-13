@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 217560,
       "name": "1, 2, 3, 4",
       "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 245426,
       "name": "Derri\u00e8re le bruit",
       "url": "https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 153860,
       "name": "Dormance",
       "url": "https://open.spotify.com/track/0ah1tf7hgCCPoj78OSZB9E"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "Entre deux montagnes",
       "url": "https://open.spotify.com/track/7CmCroVZ8z3c2UtwK2XiXi"
@@ -1478,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+    },
+    {
+      "album": {
         "name": "H\u00f4tel W",
         "url": "https://open.spotify.com/album/2OHrWg2fgiBqDTbpi97yYD"
       },
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 235960,
       "name": "J'ai tout oubli\u00e9",
       "url": "https://open.spotify.com/track/1k1WXy8A5NjSMaTB5ibcO3"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 140251,
       "name": "J'm'en sors pas",
       "url": "https://open.spotify.com/track/5qNV1GAcGCPfUJfDkUNF5E"
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 205515,
       "name": "Km Z\u00e9ro",
       "url": "https://open.spotify.com/track/5i5Ukdzaq3UoXXhuinnWAi"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 241941,
       "name": "L'eau vive",
       "url": "https://open.spotify.com/track/5LIEYSV0w4kg0VYQFJCuCf"
@@ -2085,6 +2103,24 @@
       "duration_ms": 234593,
       "name": "La flamme",
       "url": "https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl"
+    },
+    {
+      "album": {
+        "name": "Ta th\u00e9orie sur la lumi\u00e8re",
+        "url": "https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC"
+      },
+      "artists": [
+        {
+          "name": "Juste Robert",
+          "url": "https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204649,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W"
     },
     {
       "album": {
@@ -2531,7 +2567,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 371949,
       "name": "Les eaux de Mars",
       "url": "https://open.spotify.com/track/6tY5zdiIkwKNSveyQjRG1t"
@@ -2567,7 +2603,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 175633,
       "name": "Les grands naufrages",
       "url": "https://open.spotify.com/track/45CkjTsUmsCTZjdBxImpjy"
@@ -2621,7 +2657,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 232893,
       "name": "Les longues migrations",
       "url": "https://open.spotify.com/track/6NB5YYtXAzfZOu2vTflAHA"
@@ -2711,7 +2747,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 230773,
       "name": "Les travaux",
       "url": "https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ"
@@ -2729,7 +2765,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 141360,
       "name": "Les vents aimants",
       "url": "https://open.spotify.com/track/7hknXKrXWA2l4DKO1L9W31"
@@ -2747,7 +2783,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 158480,
       "name": "Les \u00e9pousailles",
       "url": "https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx"
@@ -2885,7 +2921,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 197728,
       "name": "Lubie",
       "url": "https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE"
@@ -2975,7 +3011,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 236133,
       "name": "Madeleine",
       "url": "https://open.spotify.com/track/7DQ2KNEBrVb9W2QosU8GbL"
@@ -3119,7 +3155,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 191108,
       "name": "Merci de rien",
       "url": "https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh"
@@ -3245,7 +3281,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 307297,
       "name": "Mon \u00eele",
       "url": "https://open.spotify.com/track/27sfdhX5ndVTQoscsB50LY"
@@ -3382,6 +3418,24 @@
     },
     {
       "album": {
+        "name": "nina",
+        "url": "https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "nina",
+      "url": "https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx"
+    },
+    {
+      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -3465,7 +3519,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 219344,
       "name": "Nos visages",
       "url": "https://open.spotify.com/track/4lLctkMLQJAlg8sTzfBFGY"
@@ -3667,7 +3721,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 233213,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1ynGfPDC0MP63LWQPUtPVS"
@@ -3739,7 +3793,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 224312,
       "name": "Partir en mer",
       "url": "https://open.spotify.com/track/5YKJV6k3PKiXGYW0mda6X0"
@@ -3775,7 +3829,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
@@ -4231,7 +4285,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 226172,
       "name": "Reste",
       "url": "https://open.spotify.com/track/4WeVwfij7xULEKzgSIgVai"
@@ -4303,7 +4357,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 244214,
       "name": "Sagesse",
       "url": "https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq"
@@ -4451,7 +4505,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 175217,
       "name": "Souffle court",
       "url": "https://open.spotify.com/track/6hMZvq2jUNbxQNicH92fNu"
@@ -5075,7 +5129,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-13",
       "duration_ms": 179073,
       "name": "Vol plan\u00e9",
       "url": "https://open.spotify.com/track/1SaSWoU2n74qoGG4TXDWiz"
