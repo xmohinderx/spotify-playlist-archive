@@ -11108,6 +11108,24 @@
     },
     {
       "album": {
+        "name": "Life is Beautiful",
+        "url": "https://open.spotify.com/album/3iRUzIFtcoNyOlv9YMjL5g"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        }
+      ],
+      "date_added": "2022-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135613,
+      "name": "Life is Beautiful",
+      "url": "https://open.spotify.com/track/5DKsy3BjyMcvBrDkb2NPpI"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/7qVUy5fGz035kykfY1VGpj"
       },

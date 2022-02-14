@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 138223,
       "name": "A letter to my younger self",
       "url": "https://open.spotify.com/track/325e3Lkx4AodxGNsqHiaG4"
@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Be Sweet",
+        "url": "https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
+    },
+    {
+      "album": {
         "name": "Before You Gotta Go",
         "url": "https://open.spotify.com/album/2Ezwhfk2dT0ZDfFzqThwV1"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 243533,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/4yYixO4SqiqqWqWA9uSXDq"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 254160,
       "name": "Clovers",
       "url": "https://open.spotify.com/track/3KCFmeudK7tTzshjxDl6m4"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 259213,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 204160,
       "name": "Deadbody",
       "url": "https://open.spotify.com/track/6gwoimUi2WI7MzWLQTeMGb"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 229952,
       "name": "desastre natural",
       "url": "https://open.spotify.com/track/5MFYjx5Ba0NuyL1TUQVI69"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 231670,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1OkCqIuPJeaLksbOcZXVaz"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 164524,
       "name": "El Astronauta",
       "url": "https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 215402,
       "name": "Good Girls (Don't Get Used)",
       "url": "https://open.spotify.com/track/4ASZdm6CLLu0BnId42l5Gz"
@@ -1158,6 +1176,42 @@
     },
     {
       "album": {
+        "name": "Hold U",
+        "url": "https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256664,
+      "name": "Hold U",
+      "url": "https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "album": {
         "name": "The Greatest Part",
         "url": "https://open.spotify.com/album/3sgLYw5U3KArFr36kFCyEr"
       },
@@ -1223,7 +1277,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
@@ -1403,7 +1457,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 187185,
       "name": "Knock Me Off My Feet",
       "url": "https://open.spotify.com/track/15GwXVerL8HSCf6zEf7aCG"
@@ -1461,7 +1515,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 196273,
       "name": "Leaning On Myself",
       "url": "https://open.spotify.com/track/20t31bYVci0qKda2XeTxSj"
@@ -1515,7 +1569,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt"
@@ -1627,7 +1681,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 197426,
       "name": "Masseduction",
       "url": "https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ"
@@ -1711,7 +1765,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1"
@@ -1999,7 +2053,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
@@ -2125,7 +2179,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 183116,
       "name": "Places/Plans",
       "url": "https://open.spotify.com/track/0v02UqGzmTJjrzJArNtt6K"
@@ -2143,7 +2197,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 215225,
       "name": "Porsche",
       "url": "https://open.spotify.com/track/5yrXka8YvshCStBMCvlvjy"
@@ -2323,7 +2377,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 265920,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw"
@@ -2359,7 +2413,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 202200,
       "name": "Shut Up Kiss Me",
       "url": "https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss"
@@ -2497,7 +2551,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
@@ -2775,7 +2829,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
@@ -2793,7 +2847,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 229848,
       "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
       "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
@@ -2865,7 +2919,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 194173,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
@@ -2991,7 +3045,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 270586,
       "name": "\u0421\u0442\u043e \u0434\u043d\u0435\u0439",
       "url": "https://open.spotify.com/track/5m5gYXYetxK0B44m2YeL3l"

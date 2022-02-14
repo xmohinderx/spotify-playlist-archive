@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 454774,
       "name": "(flake)",
       "url": "https://open.spotify.com/track/2B6fPIjcfa0Ddf06dPHE3T"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 277853,
       "name": "amour",
       "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 428453,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 278613,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/0OYYiR0CxzsXscdXH0tE2v"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
@@ -576,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Enfantillages pittoresques: II. Berceuse [Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334653,
+      "name": "Enfantillages pittoresques: II. Berceuse - Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1"
+    },
+    {
+      "album": {
         "name": "Enghave Lys (Reimagined by Alex Somers)",
         "url": "https://open.spotify.com/album/18S9WZteyvkk3pke3QM7hP"
       },
@@ -591,7 +609,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 277266,
       "name": "Enghave Lys (Reimagined by Alex Somers)",
       "url": "https://open.spotify.com/track/3fub1SpvG7w6JzIiuq72Lw"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 238223,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 294003,
       "name": "H\u00fam - Mount Alaska Remix",
       "url": "https://open.spotify.com/track/3aIh0fghG1J4enDAPSYDRF"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 247043,
       "name": "Kassel - Robot Koch Rework",
       "url": "https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 299428,
       "name": "knowledge",
       "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 173120,
       "name": "mercy seat \u2013 winterreise: Sweetheart Come (Arr. Tobias Schwencke)",
       "url": "https://open.spotify.com/track/147TW4WAGJuvTj5TG6n6Wi"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 228954,
       "name": "Midnight Bird",
       "url": "https://open.spotify.com/track/19cnp0bp1q3kclOhLAZZYm"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 393813,
       "name": "mist",
       "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 163945,
       "name": "Pattern of Water",
       "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 249813,
       "name": "Phosphenes",
       "url": "https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"

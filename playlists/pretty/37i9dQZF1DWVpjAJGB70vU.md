@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > Country that made Country Cool! Cover:  George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,205 likes - 144 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,868 likes - 144 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

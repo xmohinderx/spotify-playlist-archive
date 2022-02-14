@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rVyqO2FaN8.md) - [plain]
 
 > Recent tracks from the Hot Country playlist that are still smokin'\.  Cover: Carrie Underwood and Jason Aldean
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,863 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,005 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

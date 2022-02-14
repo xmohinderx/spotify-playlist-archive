@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/25wn6E4IiaAaTH6HBnGJ8y.md) - cumulative - [plain](/playlists/plain/25wn6E4IiaAaTH6HBnGJ8y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/25wn6E4IiaAaTH6HBnGJ8y)
 
-### VOL.4
+### [VOL.4](https://open.spotify.com/playlist/2KXt26mkrHR5yTELIC9Skp)
 
 > bangers
 

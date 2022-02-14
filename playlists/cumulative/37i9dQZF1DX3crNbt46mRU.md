@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3crNbt46mRU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3crNbt46mRU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3crNbt46mRU)
 
-### New Music Friday Switzerland
+### [New Music Friday Switzerland](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 > This week's top new releases\. Cover: Becky G, KAROL G
 
@@ -86,7 +86,7 @@
 | [Walk Me Home](https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walk Me Home](https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3) | 3:36 | 2022-02-11 |  |
 | [Warzone \(feat\. Headie One\)](https://open.spotify.com/track/0IJM1hkBCOibW2TJcLJTtf) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Warzone](https://open.spotify.com/album/5eqTka1OOCY7pYK9kZLhdy) | 3:32 | 2022-02-11 |  |
 | [We Are All We Need](https://open.spotify.com/track/6GITd9tdOOiBvT9sfqNHTu) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Cleanse](https://open.spotify.com/album/0WHBKdvUJFdklfNhZYHKkV) | 3:29 | 2022-02-11 |  |
-| [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 | 2022-02-11 |  |
+| [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 | 2022-02-11 |  |
 | [WENN DU MICH VERMISST](https://open.spotify.com/track/7EtfwHVS8FcciOBU1VnT8G) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [WENN DU MICH VERMISST](https://open.spotify.com/album/6d4QrOkN7QZd4Aay3koF7a) | 2:32 | 2022-02-11 |  |
 | [Were We Ever so Young?](https://open.spotify.com/track/2dKP2HYb1mC8ne3koOiwD9) | [Adrian Sieber](https://open.spotify.com/artist/7qD9Mt483yQTjvgE3y4dV1) | [Were We Ever so Young?](https://open.spotify.com/album/6UZly1bg73L8CyCkSJiOZr) | 3:00 | 2022-02-11 |  |
 | [What You Say Now \(feat\. Naomi Lareine\)](https://open.spotify.com/track/2Xova5uYOVxINU3Z4xzBFt) | [SANTO](https://open.spotify.com/artist/62qdQ7T1K8aby7gQWH2gWg), [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [What You Say Now \(feat\. Naomi Lareine\)](https://open.spotify.com/album/4CMbqeG7AR4fmpQRBZoUhe) | 3:01 | 2022-02-11 |  |

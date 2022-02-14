@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "The Kick",
+        "url": "https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n"
+      },
+      "artists": [
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/7KoLPLKiPCuiJ1lXzOW7v4"
+    },
+    {
+      "album": {
         "name": "Sing To Me Instead",
         "url": "https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F"
       },

@@ -82,6 +82,28 @@
     },
     {
       "album": {
+        "name": "Vault Sessions 1",
+        "url": "https://open.spotify.com/album/6HZl2GQr43KvIDKrrk6NBE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        },
+        {
+          "name": "Ron Wilson",
+          "url": "https://open.spotify.com/artist/4kVhiLOxWz73xXtBJcZ069"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378549,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/2z89w2POOafemX8yVmaA21"
+    },
+    {
+      "album": {
         "name": "Mandar All Day 001",
         "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
       },
@@ -93,10 +115,28 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 278110,
       "name": "Chantal",
       "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+    },
+    {
+      "album": {
+        "name": "Square Peg, Round Hole",
+        "url": "https://open.spotify.com/album/2g0xz5c4IF1CDqVs03dSKE"
+      },
+      "artists": [
+        {
+          "name": "Ben Gomori",
+          "url": "https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355200,
+      "name": "Choom",
+      "url": "https://open.spotify.com/track/3K1if03hKhYVnArWaoHAxi"
     },
     {
       "album": {
@@ -133,7 +173,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 337544,
       "name": "Dead End Alley",
       "url": "https://open.spotify.com/track/0BDTWTAR0DH4XWiUQ7yBWW"
@@ -169,7 +209,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
@@ -238,6 +278,78 @@
     },
     {
       "album": {
+        "name": "In And Out Of Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0ri0mljqik390Lk9FRRfAr"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443106,
+      "name": "Gigolo - 12\" Version",
+      "url": "https://open.spotify.com/track/6VrvvrY32NT1QGtFTAve8J"
+    },
+    {
+      "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405293,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/0rgGwEybYIQvqHf5qEkFOB"
+    },
+    {
+      "album": {
+        "name": "Hustle do Brasil",
+        "url": "https://open.spotify.com/album/1u6WFnkNGorTI9lTTgKJ78"
+      },
+      "artists": [
+        {
+          "name": "Aroop Roy",
+          "url": "https://open.spotify.com/artist/13ZcbaFfAsWtq989FqCXVQ"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268790,
+      "name": "Hustle do Brasil",
+      "url": "https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS"
+    },
+    {
+      "album": {
+        "name": "Sunbear",
+        "url": "https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R"
+      },
+      "artists": [
+        {
+          "name": "Sunbear",
+          "url": "https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303880,
+      "name": "I Heard the Voice of Music Say",
+      "url": "https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf"
+    },
+    {
+      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -271,10 +383,28 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 223796,
       "name": "Industry (Green Light/Fun Night Breaks Mix) - Edit",
       "url": "https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211"
+    },
+    {
+      "album": {
+        "name": "It Feels Good",
+        "url": "https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h"
+      },
+      "artists": [
+        {
+          "name": "Joel Holmes",
+          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266383,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm"
     },
     {
       "album": {
@@ -325,7 +455,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 305649,
       "name": "Like A Fool",
       "url": "https://open.spotify.com/track/511InmWye3UrDWkcE4SmT4"
@@ -365,10 +495,28 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 412257,
       "name": "Mars 500",
       "url": "https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8"
+    },
+    {
+      "album": {
+        "name": "Tide / Minnoch",
+        "url": "https://open.spotify.com/album/5xlIE5AFZb7p6eIK4exIKU"
+      },
+      "artists": [
+        {
+          "name": "Hunee",
+          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344069,
+      "name": "Minnoch",
+      "url": "https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF"
     },
     {
       "album": {
@@ -445,7 +593,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 595667,
       "name": "New York Style",
       "url": "https://open.spotify.com/track/5u8ap37n0VTRbh76ap11HA"
@@ -485,7 +633,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 353172,
       "name": "Nyame Ye",
       "url": "https://open.spotify.com/track/6ctHxfDxlMlXAIa3TG7uOe"
@@ -521,7 +669,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 258096,
       "name": "Okay Okay - Remastered",
       "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
@@ -569,6 +717,24 @@
       "duration_ms": 266806,
       "name": "Pose",
       "url": "https://open.spotify.com/track/2b06hoCTKogMazNvtbCjQC"
+    },
+    {
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/0a2iikoBJyhdqjZ5a9z6oA"
+      },
+      "artists": [
+        {
+          "name": "Stinger J.",
+          "url": "https://open.spotify.com/artist/3g9j8j65o6WhNWDlrCY7XP"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401612,
+      "name": "Pretty Face - 12\" Version",
+      "url": "https://open.spotify.com/track/574uq1y82QgKJfAX4LEO1t"
     },
     {
       "album": {
@@ -663,7 +829,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 248704,
       "name": "Soul Shoes - Edit",
       "url": "https://open.spotify.com/track/58cSF5Hp2cib67QVwExSbu"
@@ -681,7 +847,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 335480,
       "name": "Summer Grooves",
       "url": "https://open.spotify.com/track/1w2YjNjCfxRQLWEWVFzJ7Z"
@@ -707,6 +873,24 @@
       "duration_ms": 191065,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/168Wl5cpxF8G1eBeNapiu3"
+    },
+    {
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/2j0DUG3RE4cblXd58mY6NE"
+      },
+      "artists": [
+        {
+          "name": "Me & My Toothbrush",
+          "url": "https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203126,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/69zeFafjEhalju3xDjXTrm"
     },
     {
       "album": {
@@ -773,6 +957,24 @@
       "duration_ms": 207653,
       "name": "The Feeling - Honey Dijon Remix",
       "url": "https://open.spotify.com/track/6Lj4OkaEn0c5uGAsRtQrdm"
+    },
+    {
+      "album": {
+        "name": "Beyond High Demand",
+        "url": "https://open.spotify.com/album/3Oh8jr7QdDq476EtSggH2S"
+      },
+      "artists": [
+        {
+          "name": "Love Letters",
+          "url": "https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311496,
+      "name": "The Look of Accessibility",
+      "url": "https://open.spotify.com/track/3mg8dRdGN5jg0KqWqKh9pj"
     },
     {
       "album": {
@@ -848,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Blah Blah EP",
+        "url": "https://open.spotify.com/album/7tiHiUaMxHkrmvsZa1id0Y"
+      },
+      "artists": [
+        {
+          "name": "Russell E.L. Butler",
+          "url": "https://open.spotify.com/artist/4pNSJWVVUQ9bycGZ0Q8c5I"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475608,
+      "name": "Tout va bien",
+      "url": "https://open.spotify.com/track/1FdxaYM9hVePlWVGbtsdjD"
+    },
+    {
+      "album": {
         "name": "Minina Bem Li",
         "url": "https://open.spotify.com/album/54IZ4wR3HC25QXyV2bOrpQ"
       },
@@ -881,7 +1101,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 348158,
       "name": "Warm Priority",
       "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
@@ -958,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Who Got The Keys?",
+        "url": "https://open.spotify.com/album/4dP12ieegu2eT6WDlO3pEa"
+      },
+      "artists": [
+        {
+          "name": "Moodena",
+          "url": "https://open.spotify.com/artist/1YGnrgB2TrCnJkNwlhJLiy"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Who Got The Keys?",
+      "url": "https://open.spotify.com/track/2KYnrKZcYOSeLF1QlMVa5S"
+    },
+    {
+      "album": {
         "name": "Work It out / Til I Found You",
         "url": "https://open.spotify.com/album/5eAemysN30WIRISc4gJ4Ln"
       },
@@ -973,7 +1211,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 438598,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/4xWZmHNlmAtB0zgdg45pzq"

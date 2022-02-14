@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > hyperpop is a simulation\. Cover: quinn
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,888 likes - 178 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,629 likes - 178 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

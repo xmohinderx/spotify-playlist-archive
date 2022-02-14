@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 217494,
       "name": "Amor de Verdad",
       "url": "https://open.spotify.com/track/4nJ3IvzpHPCUPzQ0oUf2L2"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 145516,
       "name": "Chau",
       "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 187393,
       "name": "De Amor Voy a Morirme",
       "url": "https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 243882,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 196120,
       "name": "Fabricando Fantas\u00edas",
       "url": "https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 183066,
       "name": "Fuiste",
       "url": "https://open.spotify.com/track/4El1IIpdwvw1keVLr2oAnw"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 129229,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 217364,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/20G9tFLFSjdBSz65LlASqk"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 236801,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4"
@@ -1616,6 +1616,32 @@
     },
     {
       "album": {
+        "name": "No Estamos los Dos",
+        "url": "https://open.spotify.com/album/179afntG7NwNCrpM9kM4Ad"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Lunamar",
+          "url": "https://open.spotify.com/artist/1vVCKxWSpF9NU8MuvR7p5l"
+        },
+        {
+          "name": "Guille Scherping",
+          "url": "https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324789,
+      "name": "No Estamos los Dos",
+      "url": "https://open.spotify.com/track/4rB7If7QkuWwFgGoAFHSxB"
+    },
+    {
+      "album": {
         "name": "No Fue Culpa Mia",
         "url": "https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p"
       },
@@ -1631,7 +1657,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1685,7 +1711,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 158600,
       "name": "No Me Digas Adios",
       "url": "https://open.spotify.com/track/3Q4WdLlnbft9r8RW4dR5Xs"
@@ -1891,7 +1917,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Que Bello",
       "url": "https://open.spotify.com/track/7cSaRsCIekpL1auJQU4V4T"
@@ -2075,7 +2101,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 248600,
       "name": "Se Que Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE"
@@ -2173,6 +2199,28 @@
       "duration_ms": 260769,
       "name": "Si Tu Amor No Vuelve / Coraz\u00f3n de Acero",
       "url": "https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6"
+    },
+    {
+      "album": {
+        "name": "Sigo Enamorado de Ti",
+        "url": "https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        },
+        {
+          "name": "A Su Manera",
+          "url": "https://open.spotify.com/artist/0ZWg0OhnFL02qbG9fIVLbZ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Sigo Enamorado de Ti",
+      "url": "https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ"
     },
     {
       "album": {
@@ -2623,7 +2671,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"

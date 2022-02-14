@@ -916,6 +916,24 @@
     },
     {
       "album": {
+        "name": "Maybe This Christmas Vol 5: Songs for the Yule Log",
+        "url": "https://open.spotify.com/album/7IZ6efRavLKAXtZ1s882T5"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/0xRO7EKgYKVB8zKIoiXMDD"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t"
       },
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 132201,
       "name": "Half of Me - Acoustic",
       "url": "https://open.spotify.com/track/3qbzLMM4YTDXoFTSsxFQgE"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 185864,
       "name": "Prism of Love (Piano Acoustic)",
       "url": "https://open.spotify.com/track/6gPTlMJWFcjmY6FGjRWwYK"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 239493,
       "name": "Reason To Hate You",
       "url": "https://open.spotify.com/track/7howNTHKLqLHBjlxXv7h60"
@@ -3009,7 +3027,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
@@ -3081,7 +3099,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 232712,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb"
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 255205,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3UNuVVGosJLfLCsWHEhr5U"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 268360,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5Kwi8hF3UyV8FfmzrdkDqE"
@@ -3901,7 +3919,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 184739,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/5EKm2REw8HdwoadlQKffFJ"
@@ -3919,7 +3937,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 174730,
       "name": "Why",
       "url": "https://open.spotify.com/track/6z9VXT3rQMzY6zQaQAts2t"
@@ -3977,7 +3995,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 233640,
       "name": "Wildfire - Alternate Version",
       "url": "https://open.spotify.com/track/1afyMOxQCyfxUOSrCkStsy"
@@ -4157,7 +4175,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 253927,
       "name": "You There",
       "url": "https://open.spotify.com/track/3LSY9s9h6RmHRTXOtRA5oK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Tayrone com Lauana Prado, Gloria Groove e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725,692 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,725,934 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 57 | [Pantera Negra](https://open.spotify.com/track/4nP70jlHDZa6VtWOK2tcI6) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Pantera Negra](https://open.spotify.com/album/2yZERSvmHgjh3ZWURpvhl9) | 2:28 |
 | 58 | [Coming Back](https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [Nefertitti Avani](https://open.spotify.com/artist/5V5RsKQpLHwTCovhdCBHkn) | [BODR](https://open.spotify.com/album/4KzJG9VVC0zxlZrRqJTCvE) | 3:31 |
 | 59 | [Grinding All Season](https://open.spotify.com/track/1p2AbhtzG2Njx2x0JB83zA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 2:50 |
-| 60 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
+| 60 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
 | 61 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 | 62 | [For The Last Time](https://open.spotify.com/track/6mkX4QyscZrp2BHX67zkQ5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [For The Last Time](https://open.spotify.com/album/1GL9AvQvPCYfUsA32Vvkhr) | 3:46 |
 | 63 | [I Think I Like It](https://open.spotify.com/track/2e7ceMrKWmVe4HhxAEadYb) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [I Think I Like It](https://open.spotify.com/album/296hE8czFLJh1YuDAcnpfM) | 2:51 |

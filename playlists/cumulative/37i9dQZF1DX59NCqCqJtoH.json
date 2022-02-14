@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 205905,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/2lf0nT2QF3AXBuOLGKwLnv"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 141333,
       "name": "basketball",
       "url": "https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 148662,
       "name": "Burger King Bathroom",
       "url": "https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 114857,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/1QulgzFcNHJswXIGev88wJ"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 144000,
       "name": "emma, u up?",
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
@@ -1230,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "Heathers",
+        "url": "https://open.spotify.com/album/1poyOzNthR4GFP81cnQcgK"
+      },
+      "artists": [
+        {
+          "name": "Leo Bhanji",
+          "url": "https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157668,
+      "name": "Heathers",
+      "url": "https://open.spotify.com/track/182cdDTn18w690fru2aXvp"
+    },
+    {
+      "album": {
         "name": "highschool",
         "url": "https://open.spotify.com/album/1QupMGsA571ZOoZUa6nWjU"
       },
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 178480,
       "name": "I Can't Hate You",
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 298312,
       "name": "I Walked Right Into It",
       "url": "https://open.spotify.com/track/5maC2QGPrm1E4WYMwwpDj7"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 98638,
       "name": "just friends now",
       "url": "https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 200601,
       "name": "Laying on my porch while we watch the world end.",
       "url": "https://open.spotify.com/track/1TYF5FyxFXC6bM2VOuNWhV"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 136153,
       "name": "Leaving (feat. the bootleg boy & Heroe)",
       "url": "https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 176367,
       "name": "lose",
       "url": "https://open.spotify.com/track/74NGwGnDUHnsHWM54qAEqV"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 222885,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 179427,
       "name": "Orange Hoodie",
       "url": "https://open.spotify.com/track/7zznnb4017w7BwU5tMiBi9"
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 153717,
       "name": "perfume",
       "url": "https://open.spotify.com/track/0t52rXOiyAKx1ZoacxuB4B"
@@ -2497,7 +2515,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 141724,
       "name": "play this at my funeral",
       "url": "https://open.spotify.com/track/5gi9n31BVk5OJLu3RZq3F6"
@@ -2519,7 +2537,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 149610,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/2Wiv1ix0un7a0fx7nDrRU8"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 157929,
       "name": "Second Base",
       "url": "https://open.spotify.com/track/0krnQme22s9WqbuUq940fg"
@@ -2987,7 +3005,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/6QOv3k9RU5QA8L4obUvozE"
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 304500,
       "name": "Tears, 2016",
       "url": "https://open.spotify.com/track/1BisD4JGmDWFPbSJz25j3V"
@@ -3333,7 +3351,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 274000,
       "name": "UH-OH-ING",
       "url": "https://open.spotify.com/track/27g2FVJFgfi6M8sQTMuJal"
@@ -3369,7 +3387,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 271420,
       "name": "Ur Gonna Wish U Believed Me",
       "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
@@ -3423,7 +3441,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 177800,
       "name": "Warm Light",
       "url": "https://open.spotify.com/track/2TDglznSYnR0YB0WmpZme5"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"

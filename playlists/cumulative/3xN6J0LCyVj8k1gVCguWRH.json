@@ -3802,6 +3802,24 @@
     },
     {
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/5xrKsmZbP2sYWH5Xug8WfM"
+      },
+      "artists": [
+        {
+          "name": "F1 of FMG",
+          "url": "https://open.spotify.com/artist/2KzsvQpIXnQCEyvSS53h5W"
+        }
+      ],
+      "date_added": "2022-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179251,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/4FXRVxvHtiF3DwsqE1jIGP"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/09AFNFpM93JnlVxoz7fndo"
       },
@@ -8342,6 +8360,24 @@
     },
     {
       "album": {
+        "name": "Good Vibes Only",
+        "url": "https://open.spotify.com/album/6lTzNk7q1KoTx36csUILeE"
+      },
+      "artists": [
+        {
+          "name": "Bread Doe",
+          "url": "https://open.spotify.com/artist/1qRRe4vyF0pJT537GVreC2"
+        }
+      ],
+      "date_added": "2022-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/7f1gKMgv5jOybEeoZ29tkg"
+    },
+    {
+      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/68cJz6ckoDcAcTmy0Ovxad"
       },
@@ -11320,7 +11356,7 @@
     },
     {
       "album": {
-        "name": "Know Your Worth",
+        "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
       "artists": [
@@ -11345,7 +11381,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191067,
-      "name": "Know Your Worth",
+      "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
@@ -19585,7 +19621,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 129293,
       "name": "Superhero Music",
       "url": "https://open.spotify.com/track/17c94x0MEVS5VPHLbPCT7X"

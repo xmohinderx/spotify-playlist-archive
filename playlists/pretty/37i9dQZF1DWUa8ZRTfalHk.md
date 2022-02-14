@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: Em Beihold
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,426,760 likes - 87 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,427,579 likes - 87 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

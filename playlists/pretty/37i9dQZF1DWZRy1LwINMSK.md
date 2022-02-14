@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del Trap chileno\. Foto: Kiddtetoon & Chucky73.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,365 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,404 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 96 | [LoveDrip](https://open.spotify.com/track/31xSuB5yF3w8ZIrdK1TWtt) | [Mob 550](https://open.spotify.com/artist/6S3HYIuX1ncQQqcdHOUFqJ) | [LoveDrip](https://open.spotify.com/album/3S1aENeLvAtwusRPKZCdLf) | 2:24 |
 | 97 | [Vacaciones](https://open.spotify.com/track/0vaMFncaiDlOXqTcoLW9FR) | [Felipe Dayz](https://open.spotify.com/artist/3oVTZU4pon08EiGlzHYgL7), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Vacaciones](https://open.spotify.com/album/0U5MwvBCZyOlg5C4YhmiCm) | 3:01 |
 | 98 | [4 My Guap](https://open.spotify.com/track/3qobz0gjII9F42kAdrvueO) | [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Sander Wazz](https://open.spotify.com/artist/3O2ALOTlfmlMCabLD6YVcb) | [4 My Guap](https://open.spotify.com/album/7E83IjQpHhPok8TRvm6Fxw) | 4:09 |
-| 99 | [Kitty Eight](https://open.spotify.com/track/5Al4QIZ4IYXTliQlPOEXFq) | [Kitty8](https://open.spotify.com/artist/6uiQqbYlT1KK7llfzAat2J) | [Kitty Eight](https://open.spotify.com/album/3EPnD2YrCKV2T8eV6oCFEk) | 2:31 |
+| 99 | [Kitty Eight](https://open.spotify.com/track/5Al4QIZ4IYXTliQlPOEXFq) | [KITTY8](https://open.spotify.com/artist/6uiQqbYlT1KK7llfzAat2J) | [Kitty Eight](https://open.spotify.com/album/3EPnD2YrCKV2T8eV6oCFEk) | 2:31 |
 | 100 | [Beach with My Bix](https://open.spotify.com/track/3HgTImJQaKLT4jCOsWjrJB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 2:16 |
 | 101 | [Pa' Brillar](https://open.spotify.com/track/3hflsANR6DqnHfZ2Tiv5Jl) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Sangre Joven](https://open.spotify.com/album/2P3LeQkfS4gV91SpXEisRl) | 4:06 |
 | 102 | [Quienes Son](https://open.spotify.com/track/1BZLbcRroXQjhb3GaoYzeT) | [BMF Squad](https://open.spotify.com/artist/6NGIhWQNSCQv07Y3L8fRnE), [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Jokker Liricis](https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA), [Andrés Slater](https://open.spotify.com/artist/6F0XGx9f0asxjfG3WZj0nJ) | [Quienes Son](https://open.spotify.com/album/6ZoKBoMrztP3iffJPAwT0H) | 3:51 |

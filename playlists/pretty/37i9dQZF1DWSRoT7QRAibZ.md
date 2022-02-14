@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRoT7QRAibZ.md) - [plain]
 
 > Get to know some of the most loved comedians on Spotify with this collection of their top 5 tracks &amp; newest releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,154 likes - 102 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,149 likes - 102 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

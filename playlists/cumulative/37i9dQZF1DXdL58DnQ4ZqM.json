@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Landscapes Below",
+        "url": "https://open.spotify.com/album/1BJnBBsKEtxuvAYfBs7DiV"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366869,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/2HCRgdIF6TtqJ7PLv1tRTr"
+    },
+    {
+      "album": {
         "name": "Beautiful Being",
         "url": "https://open.spotify.com/album/1rYOp8CWjHtFmDUUXa2bK6"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 147548,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/51qdf2XksX7V5YfhS4VghX"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Deep Inside - Chill Mix",
       "url": "https://open.spotify.com/track/0r03AkMlxFV0UhQyzlzTwj"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 318000,
       "name": "Diamond Shine",
       "url": "https://open.spotify.com/track/3xcztXKdCQVxuQtPibei57"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 214945,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 352758,
       "name": "Gliding",
       "url": "https://open.spotify.com/track/6IMxaXgh0Z1G2xA6iGSOJj"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 353333,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 277894,
       "name": "Never Let Me Go - Chill Version",
       "url": "https://open.spotify.com/track/07zMzbryNCeY7NDK6xbOWD"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 270344,
       "name": "Nocturne No 20 - Chill With Me Mix",
       "url": "https://open.spotify.com/track/2cGPrSLattyj0N1FToPcmz"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 218333,
       "name": "Purple Heart",
       "url": "https://open.spotify.com/track/41hfLPgLlHIBPaiPw2q8tV"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/33iouj5bpuoi0tQBgpm3EP"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 177092,
       "name": "Reaching for Casterly",
       "url": "https://open.spotify.com/track/6NyF7cfh2R8z0E8y02rC7M"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 148236,
       "name": "St. Petersburg",
       "url": "https://open.spotify.com/track/32Tf9tvthRjnSeIdkiCvIt"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 250416,
       "name": "Times Square 6 AM",
       "url": "https://open.spotify.com/track/0uDSrKJQSzdaYFDkh502yE"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Waterfront - Focus Version",
       "url": "https://open.spotify.com/track/4ln3ZAr74imkhmEWzYFd6P"
@@ -2411,7 +2429,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 353354,
       "name": "White Rim Road",
       "url": "https://open.spotify.com/track/2O8QBB2QBXgIEgdVmUyT1N"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 202290,
       "name": "You - Spa/Relax",
       "url": "https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt"

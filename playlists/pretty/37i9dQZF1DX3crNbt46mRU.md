@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Becky G, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,633 likes - 95 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,638 likes - 95 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 67 | [365 \(feat\. Tiffany Aris\)](https://open.spotify.com/track/4GMvO5rbxS6urA3GiknwiS) | [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [365](https://open.spotify.com/album/41RP4jFQoeNMSdOFaGnFHm) | 2:28 |
 | 68 | [Never Say Never](https://open.spotify.com/track/3ILpEmptOYZqr9ZJxbfNDt) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Never Say Never](https://open.spotify.com/album/3qBVHkgwWomexZyPl85VK6) | 3:17 |
 | 69 | [Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Best Friend](https://open.spotify.com/album/026b8sTRSg4vmhz8e8p4k3) | 1:51 |
-| 70 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
+| 70 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
 | 71 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 |
 | 72 | [Emoji](https://open.spotify.com/track/09L4Or9WQbgmFY2daKGSA9) | [Die Orsons](https://open.spotify.com/artist/7EJwrZYRepsc1zHNkDcITg) | [Emoji](https://open.spotify.com/album/5giHqEJXRjHHABjlXsQDmP) | 2:26 |
 | 73 | [25/8](https://open.spotify.com/track/7rWMxeDdadl299Jb7VrX5k) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [25/8](https://open.spotify.com/album/0l9NNCberex959RpdR2y02) | 2:38 |

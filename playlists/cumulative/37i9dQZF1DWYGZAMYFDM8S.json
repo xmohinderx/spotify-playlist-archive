@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 196758,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/3V78OHkbhsmOv13MbBRnxt"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "Alps",
       "url": "https://open.spotify.com/track/5eG8QuQKOBvDeCyoOeMkhT"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 251184,
       "name": "Fever to the Form",
       "url": "https://open.spotify.com/track/6OTthGcvrclj6XUs1JRN2J"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 254920,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/4c3zxAgmvnSHRqesr14tdZ"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 282746,
       "name": "Forever Ago",
       "url": "https://open.spotify.com/track/3C9JEhvBWBhsS7ly2noNvu"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 179000,
       "name": "Fresh Water in an Empty Vase",
       "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
@@ -1356,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/2uFwQ8yiZR0NsIvzmzWf8j"
+      },
+      "artists": [
+        {
+          "name": "Xavia",
+          "url": "https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274568,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/1V34QucIbEs3XUi7SolWQE"
+    },
+    {
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 157174,
       "name": "I'll Keep You",
       "url": "https://open.spotify.com/track/753h0atsE418iQyz7Jbtci"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 185746,
       "name": "Love Brought Weight",
       "url": "https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 215998,
       "name": "Mother, Mother",
       "url": "https://open.spotify.com/track/6X0hjAJlVW9PiqQIaGsVzd"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -1939,10 +1957,28 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 178240,
       "name": "New Paint - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/5nvf3juHez844dgOnwiSjY"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195880,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/5MhQAE03rlj28eK1IymPgB"
     },
     {
       "album": {
@@ -2141,7 +2177,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 241186,
       "name": "Pain and Misery",
       "url": "https://open.spotify.com/track/6sWVwDSjW1ZtqGQc9WnjdW"
@@ -2573,7 +2609,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
@@ -2681,7 +2717,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 218160,
       "name": "Sweetpie",
       "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
@@ -2937,7 +2973,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 235030,
       "name": "Us - Acoustic",
       "url": "https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6"
@@ -3067,7 +3103,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 158386,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/0qFFiR3SiXqgnQvX6Q1WOO"
@@ -3121,7 +3157,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 234382,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6lRFrEmU09wbl8rMKpgZB6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZEwRWHSfUr.md) - [plain]
 
 > Be not afeard..\. this playlist is full of sounds and sweet airs that give delight\. These are Shakespeare's comedies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,628 likes - 50 songs - 21 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,627 likes - 50 songs - 21 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

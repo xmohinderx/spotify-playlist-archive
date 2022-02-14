@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,824 likes - 92 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,927 likes - 92 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 240626,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 162546,
       "name": "Blueberry Faygo",
       "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264746,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ"
+    },
+    {
+      "album": {
         "name": "DEMONS",
         "url": "https://open.spotify.com/album/1IG9vpowLigm4W9jbdeXbH"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 190066,
       "name": "EARFQUAKE",
       "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 261026,
       "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
       "url": "https://open.spotify.com/track/3LsKaCwIuiWcPxTOSZApmE"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 205480,
       "name": "Girl Blunt",
       "url": "https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 298026,
       "name": "GLOWED UP",
       "url": "https://open.spotify.com/track/33pDmPx2pkJ7JCAQpRDQ9B"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 155189,
       "name": "SOMETHING FROM NOTHIN' (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/37pqoamiQVw95UEiiE0viQ"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 238386,
       "name": "Surfin'",
       "url": "https://open.spotify.com/track/3f2k8op0nWDoZM4pXim6wG"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"

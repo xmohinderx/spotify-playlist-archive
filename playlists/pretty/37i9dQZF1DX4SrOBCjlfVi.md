@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Nicki Minaj, Future, Yeat, and more\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,445 likes - 47 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,581 likes - 47 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 17 | [Leveled Up \(with Lil Keed\)](https://open.spotify.com/track/4aVYveKcpY3eA5EQE63ZF6) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Leveled Up \(with Lil Keed\)](https://open.spotify.com/album/4fPY2RYlB8LGzJKEKbAm6X) | 2:39 |
 | 18 | [She Luv Me](https://open.spotify.com/track/7FVLHsRf12tO36rfeD2mXr) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [She Luv Me](https://open.spotify.com/album/3WtDxiYCu5F2fLaSinmpgF) | 2:02 |
 | 19 | [Pain in the Ghetto \(feat\. Trae tha Truth & Lil Jairmy\)](https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49) | [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Holy Goat 2](https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR) | 3:06 |
-| 20 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
+| 20 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
 | 21 | [Perfect Form Skub](https://open.spotify.com/track/4zZZkZ92eUCkmeVwzxMnnJ) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Perfect Form Skub](https://open.spotify.com/album/1g1dFDw1ctGtRHmeNS1RcY) | 3:08 |
 | 22 | [Gone](https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Just For You](https://open.spotify.com/album/5gl8AaOhNL60AcYk2JLEE3) | 2:35 |
 | 23 | [Bentley Bentayga!](https://open.spotify.com/track/34eGc2hu8Ye6AuRJWvq0ES) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Bentley Bentayga!](https://open.spotify.com/album/2f6729ADgDdc5Sfhu7GMmK) | 1:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Marion Jola
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,887 likes - 114 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,900 likes - 114 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 29 | [Antarlina](https://open.spotify.com/track/1xZWZxrcChlW5P0nOS6tZv) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [Antarlina](https://open.spotify.com/album/11g1YA9Jlrv94EswEkcHrA) | 4:13 |
 | 30 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 |
 | 31 | [Hate Me If It Helps](https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Hate Me If It Helps](https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk) | 3:14 |
-| 32 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
+| 32 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
 | 33 | [Eyes on Me](https://open.spotify.com/track/6ShynpOV5n5zZ5AEpEiNao) | [Angelo Gray](https://open.spotify.com/artist/0w0b7g9r0KS2Ws47lpECL1) | [Eyes on Me](https://open.spotify.com/album/3UI5ttd8Bgy9JMHGyO40sY) | 3:26 |
 | 34 | [Cuma Mau Kamu](https://open.spotify.com/track/3TBEqeNDMXW8lSVB0xSXEa) | [Rafael Tan](https://open.spotify.com/artist/0mKmHHvPmKvISci7gWpot3) | [Cuma Mau Kamu](https://open.spotify.com/album/2miZliJBixYGSgv4WLVjaM) | 3:42 |
 | 35 | [Lights \(feat\. Mirriam Eka\)](https://open.spotify.com/track/6lWcCK4vEOU5WXleMNHSaf) | [Alief Reynaldi](https://open.spotify.com/artist/1VZItAmnveTA52py4zb7BG), [Mirriam Eka](https://open.spotify.com/artist/245kyQmT6Bi2pNLiOSewiW) | [Lights \(feat\. Mirriam Eka\)](https://open.spotify.com/album/2vK6uS2wDslJku1DlS3cU3) | 2:52 |

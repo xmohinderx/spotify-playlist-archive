@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIuW81skHVz.md) - [plain]
 
 > The shape of jazz today\. Cover: Kamasi Washington
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,386 likes - 85 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,391 likes - 85 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

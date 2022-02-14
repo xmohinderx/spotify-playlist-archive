@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-12",
   "description": "This week's top new releases. Cover: Becky G, KAROL G",
   "name": "New Music Friday Switzerland",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5A5TXDJmpvx3pBIQ0045Lh"
+  ],
   "tracks": [
     {
       "album": {
@@ -1583,7 +1585,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211638,
-      "name": "Weak",
+      "name": "Weak (feat. BIG30)",
       "url": "https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW"
     },
     {

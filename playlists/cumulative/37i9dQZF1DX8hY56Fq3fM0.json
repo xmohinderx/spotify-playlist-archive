@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 238440,
       "name": "Breathing Underwater",
       "url": "https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 166791,
       "name": "Charlemagne",
       "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 199160,
       "name": "New Houses",
       "url": "https://open.spotify.com/track/2oJmogP5Oji56UmSh8gPeO"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 211506,
       "name": "Patience",
       "url": "https://open.spotify.com/track/6Bh20JUUsZEHsmMlkMHkRe"
@@ -1499,6 +1499,24 @@
       "duration_ms": 136562,
       "name": "Prom Queen",
       "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
+    },
+    {
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "Punching In A Dream",
+      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
     },
     {
       "album": {
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 291636,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"

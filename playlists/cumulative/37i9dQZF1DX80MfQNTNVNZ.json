@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 174230,
       "name": "ALLSTAR",
       "url": "https://open.spotify.com/track/2jzNzQibsiVIBPTeJsifby"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 216330,
       "name": "FADED",
       "url": "https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 218250,
       "name": "Fdf",
       "url": "https://open.spotify.com/track/0Mdo5gCXq9u7EgsZHzYoLj"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 222733,
       "name": "Get By (feat. Tank and The Bangas)",
       "url": "https://open.spotify.com/track/3MEnUZCTYBvvsCFnciFFUD"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 237517,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 228727,
       "name": "Mr. Midas",
       "url": "https://open.spotify.com/track/48l47x2sWBtYKkRqLQJPBs"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
@@ -1577,7 +1577,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 166200,
       "name": "Romeo (feat. Bas)",
       "url": "https://open.spotify.com/track/5sJFvB6DpUw3hBtGDOFBXE"
@@ -1649,10 +1649,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 205480,
       "name": "Slow Motion Town",
       "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq"
     },
     {
       "album": {
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 141584,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6lcVAexfyal10RpKsM6SmQ"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 172517,
       "name": "THE SUN SHINES SO BRIGHT WITH YOU",
       "url": "https://open.spotify.com/track/3oNpguc2W0QcVRJ4hGzdZa"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 120022,
       "name": "THINKING",
       "url": "https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"
@@ -2265,7 +2283,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 224459,
       "name": "Woof - Kan Sano Remix",
       "url": "https://open.spotify.com/track/1Lx9LCHfi0UZ9faIyjCGa2"
@@ -2327,7 +2345,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 236000,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/2cia8oELcnvpyIpbCDBCr1"

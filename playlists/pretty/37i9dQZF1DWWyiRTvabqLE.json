@@ -6,159 +6,23 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDcxMzA0NiwwMDAwMDAwMDE5YmY4Y2UzYjU2OTdkNDg5YWI5Mzk1YzA1ZjZkZGM0",
+  "snapshot_id": "MTY0NDc5OTE2MCwwMDAwMDAwMDYwZjI4NTU0NWI4OTc3NDI4ZDQ5YThiYzg0ZTAyNjQz",
   "tracks": [
     {
       "added_at": "2021-11-12 13:54:00",
       "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
+        "name": "Ella No Es Tuya",
+        "url": "https://open.spotify.com/album/3MnPl3sX0QZs2mYidYf0sl"
       },
       "artists": [
         {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
-      "duration_ms": 174892,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 144018,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Sonrisas Tristes",
-        "url": "https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 157767,
-      "name": "Party En Mi Casa",
-      "url": "https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Hola, \u00bfQu\u00e9 Tal?",
-        "url": "https://open.spotify.com/album/3k9BginlCEQlACX95UdAme"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1tima Pinto",
-          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
-        }
-      ],
-      "duration_ms": 168682,
-      "name": "Hola, \u00bfQu\u00e9 Tal?",
-      "url": "https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/2VKqbaRFO7wmEyVA0HiYSh"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/6XPHmlHM0es8BCMh4XPTkE"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Que Se Vengan",
-        "url": "https://open.spotify.com/album/5QB3lb9gYct2CNS3ENLZWy"
-      },
-      "artists": [
-        {
-          "name": "Fufu",
-          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
-        }
-      ],
-      "duration_ms": 173435,
-      "name": "Que Se Vengan",
-      "url": "https://open.spotify.com/track/5WRv5CFeslHJnSZUxw9fc2"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Se Te Cay\u00f3",
-        "url": "https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz"
-      },
-      "artists": [
-        {
-          "name": "Adriana Torron",
-          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
-        }
-      ],
-      "duration_ms": 172142,
-      "name": "Se Te Cay\u00f3",
-      "url": "https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Nadie Se Salva",
-        "url": "https://open.spotify.com/album/28IfFyKDKgXlS3dFGGNN3Z"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 253894,
-      "name": "Babymama",
-      "url": "https://open.spotify.com/track/77ashwth70ow3HR1IuVhiD"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "M\u00e1s Na",
-        "url": "https://open.spotify.com/album/6q60ZMNSyfuccuC1Dv7HV7"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1tima Pinto",
-          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "M\u00e1s Na",
-      "url": "https://open.spotify.com/track/2I8N1Go4hQennI48i9QaWW"
+      "duration_ms": 189126,
+      "name": "Ella No Es Tuya",
+      "url": "https://open.spotify.com/track/7vg79JZg1UZs4hVJ1ih3pC"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -183,8 +47,24 @@
     {
       "added_at": "2021-11-12 13:54:00",
       "album": {
-        "name": "MALA",
-        "url": "https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ"
+        "name": "ORIGEN",
+        "url": "https://open.spotify.com/album/69uttGVf6dDFwYEpzzOCGL"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/1BDuJupH2LXLs8IptcN7Oh"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
       "artists": [
         {
@@ -192,13 +72,29 @@
           "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         },
         {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 178176,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ"
+      "duration_ms": 144018,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "M\u00e1s Na",
+        "url": "https://open.spotify.com/album/6q60ZMNSyfuccuC1Dv7HV7"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1tima Pinto",
+          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "M\u00e1s Na",
+      "url": "https://open.spotify.com/track/2I8N1Go4hQennI48i9QaWW"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -212,61 +108,25 @@
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+      "duration_ms": 197742,
+      "name": "Antojos",
+      "url": "https://open.spotify.com/track/4R4fSJ5BMjjZPob0MlLhqB"
     },
     {
       "added_at": "2021-11-12 13:54:00",
       "album": {
-        "name": "Mi Bom Bom",
-        "url": "https://open.spotify.com/album/3YiZkLFhpyZRQNju4VjNyW"
+        "name": "Se Te Cay\u00f3",
+        "url": "https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+          "name": "Adriana Torron",
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
         }
       ],
-      "duration_ms": 175304,
-      "name": "Mi Bom Bom",
-      "url": "https://open.spotify.com/track/1iUfBsWrQejyW8cgS2zUDb"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "No Te Molestes",
-        "url": "https://open.spotify.com/album/3q28yNcuzyUnDReOTH0EBJ"
-      },
-      "artists": [
-        {
-          "name": "Fufu",
-          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
-        }
-      ],
-      "duration_ms": 192206,
-      "name": "No Te Molestes",
-      "url": "https://open.spotify.com/track/4tEqqUo4Gkx7qIv92oxr5F"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Ella No Es Tuya",
-        "url": "https://open.spotify.com/album/3MnPl3sX0QZs2mYidYf0sl"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 189126,
-      "name": "Ella No Es Tuya",
-      "url": "https://open.spotify.com/track/7vg79JZg1UZs4hVJ1ih3pC"
+      "duration_ms": 172142,
+      "name": "Se Te Cay\u00f3",
+      "url": "https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -283,70 +143,6 @@
       "duration_ms": 165000,
       "name": "La Playita",
       "url": "https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Menta",
-        "url": "https://open.spotify.com/album/50cIxtfp8ZQFmBDknO9Fsd"
-      },
-      "artists": [
-        {
-          "name": "Rosaly Rubio",
-          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
-        }
-      ],
-      "duration_ms": 168411,
-      "name": "Menta",
-      "url": "https://open.spotify.com/track/7CyMVjSFJpo3myUBhWFGMu"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Mi Regalo Mas Bonito",
-        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 151467,
-      "name": "Mi Regalo Mas Bonito",
-      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/55uacpWJsxnD9J2rgDs6Gm"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "AGAIN II",
-        "url": "https://open.spotify.com/album/5B0HFH1ohhT1IUKDHdUGqG"
-      },
-      "artists": [
-        {
-          "name": "Fufu",
-          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
-        }
-      ],
-      "duration_ms": 154157,
-      "name": "AGAIN II",
-      "url": "https://open.spotify.com/track/3FBG6jTh1WeqYZXdi6w0TP"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -375,18 +171,86 @@
     {
       "added_at": "2021-11-12 13:54:00",
       "album": {
-        "name": "(no me despegues tu boca)",
-        "url": "https://open.spotify.com/album/1zbpVc5JDwzGsnXFoCvsXo"
+        "name": "MALA",
+        "url": "https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ"
       },
       "artists": [
         {
-          "name": "Covi Quintana",
-          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
         }
       ],
-      "duration_ms": 220840,
-      "name": "(no me despegues tu boca)",
-      "url": "https://open.spotify.com/track/1k49BpZrn1SHHxYqsn9sXd"
+      "duration_ms": 178176,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 174892,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "No Te Molestes",
+        "url": "https://open.spotify.com/album/3q28yNcuzyUnDReOTH0EBJ"
+      },
+      "artists": [
+        {
+          "name": "Fufu",
+          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
+        }
+      ],
+      "duration_ms": 192206,
+      "name": "No Te Molestes",
+      "url": "https://open.spotify.com/track/4tEqqUo4Gkx7qIv92oxr5F"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Me Arrepiento",
+        "url": "https://open.spotify.com/album/21DybDkvktCpPGGOrYQSpD"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 200959,
+      "name": "Me Arrepiento",
+      "url": "https://open.spotify.com/track/6qMYjmFcBUArKeekeFpjjY"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -407,18 +271,18 @@
     {
       "added_at": "2021-11-12 13:54:00",
       "album": {
-        "name": "Llame Pa Verte",
-        "url": "https://open.spotify.com/album/0SR23EVGsxxM2mNh1bezSD"
+        "name": "Rumba",
+        "url": "https://open.spotify.com/album/0YrHyGolRAyrQ508sh4Yw4"
       },
       "artists": [
         {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
-      "duration_ms": 169109,
-      "name": "Llame Pa Verte",
-      "url": "https://open.spotify.com/track/3FSanXllfpD7nfdbSC6Vpr"
+      "duration_ms": 195291,
+      "name": "Rumba",
+      "url": "https://open.spotify.com/track/04Oynte1xZfgnPh8kXhmE7"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -447,130 +311,34 @@
     {
       "added_at": "2021-11-12 13:54:00",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+        "name": "Mi Regalo Mas Bonito",
+        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
         }
       ],
-      "duration_ms": 197742,
-      "name": "Antojos",
-      "url": "https://open.spotify.com/track/4R4fSJ5BMjjZPob0MlLhqB"
+      "duration_ms": 151467,
+      "name": "Mi Regalo Mas Bonito",
+      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
     },
     {
       "added_at": "2021-11-12 13:54:00",
       "album": {
-        "name": "Rumba",
-        "url": "https://open.spotify.com/album/0YrHyGolRAyrQ508sh4Yw4"
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/2VKqbaRFO7wmEyVA0HiYSh"
       },
       "artists": [
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
         }
       ],
-      "duration_ms": 195291,
-      "name": "Rumba",
-      "url": "https://open.spotify.com/track/04Oynte1xZfgnPh8kXhmE7"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "ORIGEN",
-        "url": "https://open.spotify.com/album/69uttGVf6dDFwYEpzzOCGL"
-      },
-      "artists": [
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/1BDuJupH2LXLs8IptcN7Oh"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "me tiene mal",
-        "url": "https://open.spotify.com/album/2IPWyKgmRk4ieMqgxaZHvp"
-      },
-      "artists": [
-        {
-          "name": "Covi Quintana",
-          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
-        },
-        {
-          "name": "Rafa Romera",
-          "url": "https://open.spotify.com/artist/5L6WDyrviuO7HkNgMdDeCa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "me tiene mal",
-      "url": "https://open.spotify.com/track/4xkUELFJCJRKEIEZdTWlAL"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Frontiar",
-        "url": "https://open.spotify.com/album/6ufmt9i0c4W8z7qNnQwxdE"
-      },
-      "artists": [
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Frontiar",
-      "url": "https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "Me Arrepiento",
-        "url": "https://open.spotify.com/album/21DybDkvktCpPGGOrYQSpD"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 200959,
-      "name": "Me Arrepiento",
-      "url": "https://open.spotify.com/track/6qMYjmFcBUArKeekeFpjjY"
-    },
-    {
-      "added_at": "2021-11-12 13:54:00",
-      "album": {
-        "name": "La Popi",
-        "url": "https://open.spotify.com/album/1RhIzoLC3C9dyDu4E2X0Sg"
-      },
-      "artists": [
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        }
-      ],
-      "duration_ms": 195616,
-      "name": "La Popi",
-      "url": "https://open.spotify.com/track/2WlmR4N8xSxDG3Adz8Wd2k"
+      "duration_ms": 201493,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/6XPHmlHM0es8BCMh4XPTkE"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -591,6 +359,74 @@
       "duration_ms": 167474,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/0ZjhDp2DAAAH5gTj8b7qBK"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "(no me despegues tu boca)",
+        "url": "https://open.spotify.com/album/1zbpVc5JDwzGsnXFoCvsXo"
+      },
+      "artists": [
+        {
+          "name": "Covi Quintana",
+          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "(no me despegues tu boca)",
+      "url": "https://open.spotify.com/track/1k49BpZrn1SHHxYqsn9sXd"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Mi Bom Bom",
+        "url": "https://open.spotify.com/album/3YiZkLFhpyZRQNju4VjNyW"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        }
+      ],
+      "duration_ms": 175304,
+      "name": "Mi Bom Bom",
+      "url": "https://open.spotify.com/track/1iUfBsWrQejyW8cgS2zUDb"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Sonrisas Tristes",
+        "url": "https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 157767,
+      "name": "Party En Mi Casa",
+      "url": "https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Llame Pa Verte",
+        "url": "https://open.spotify.com/album/0SR23EVGsxxM2mNh1bezSD"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "duration_ms": 169109,
+      "name": "Llame Pa Verte",
+      "url": "https://open.spotify.com/track/3FSanXllfpD7nfdbSC6Vpr"
     },
     {
       "added_at": "2021-11-12 13:54:00",
@@ -623,6 +459,174 @@
       "duration_ms": 198746,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/4qzG6DyIO3RZLyhrZ6oq9f"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Colombiana",
+        "url": "https://open.spotify.com/album/47OyWwj8CQLkDtM1AVrSm6"
+      },
+      "artists": [
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "Fetti031",
+          "url": "https://open.spotify.com/artist/0bsQ8jCTdRt3F8R5nNU3hw"
+        }
+      ],
+      "duration_ms": 177727,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/4APF0ZjCmwtx72WaXLQFWg"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Frontiar",
+        "url": "https://open.spotify.com/album/6ufmt9i0c4W8z7qNnQwxdE"
+      },
+      "artists": [
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Frontiar",
+      "url": "https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Que Se Vengan",
+        "url": "https://open.spotify.com/album/5QB3lb9gYct2CNS3ENLZWy"
+      },
+      "artists": [
+        {
+          "name": "Fufu",
+          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
+        }
+      ],
+      "duration_ms": 173435,
+      "name": "Que Se Vengan",
+      "url": "https://open.spotify.com/track/5WRv5CFeslHJnSZUxw9fc2"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Menta",
+        "url": "https://open.spotify.com/album/50cIxtfp8ZQFmBDknO9Fsd"
+      },
+      "artists": [
+        {
+          "name": "Rosaly Rubio",
+          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
+        }
+      ],
+      "duration_ms": 168411,
+      "name": "Menta",
+      "url": "https://open.spotify.com/track/7CyMVjSFJpo3myUBhWFGMu"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Nadie Se Salva",
+        "url": "https://open.spotify.com/album/28IfFyKDKgXlS3dFGGNN3Z"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 253894,
+      "name": "Babymama",
+      "url": "https://open.spotify.com/track/77ashwth70ow3HR1IuVhiD"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "me tiene mal",
+        "url": "https://open.spotify.com/album/2IPWyKgmRk4ieMqgxaZHvp"
+      },
+      "artists": [
+        {
+          "name": "Covi Quintana",
+          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
+        },
+        {
+          "name": "Rafa Romera",
+          "url": "https://open.spotify.com/artist/5L6WDyrviuO7HkNgMdDeCa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "me tiene mal",
+      "url": "https://open.spotify.com/track/4xkUELFJCJRKEIEZdTWlAL"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/55uacpWJsxnD9J2rgDs6Gm"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "Hola, \u00bfQu\u00e9 Tal?",
+        "url": "https://open.spotify.com/album/3k9BginlCEQlACX95UdAme"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1tima Pinto",
+          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
+        }
+      ],
+      "duration_ms": 168682,
+      "name": "Hola, \u00bfQu\u00e9 Tal?",
+      "url": "https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx"
+    },
+    {
+      "added_at": "2021-11-12 13:54:00",
+      "album": {
+        "name": "AGAIN II",
+        "url": "https://open.spotify.com/album/5B0HFH1ohhT1IUKDHdUGqG"
+      },
+      "artists": [
+        {
+          "name": "Fufu",
+          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
+        }
+      ],
+      "duration_ms": 154157,
+      "name": "AGAIN II",
+      "url": "https://open.spotify.com/track/3FBG6jTh1WeqYZXdi6w0TP"
     }
   ],
   "unique_name": "RADAR Centro & Caribe",

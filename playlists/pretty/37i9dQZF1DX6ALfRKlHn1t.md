@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > Drink up these tunes and all the feels\. Good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,313 likes - 121 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,474 likes - 121 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

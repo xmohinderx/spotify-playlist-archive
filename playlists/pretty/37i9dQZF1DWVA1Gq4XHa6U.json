@@ -1,13 +1,29 @@
 {
   "description": "Hip-Hop classics from Interscope Records. Cover: Eminem",
-  "num_followers": 2451233,
+  "num_followers": 2457886,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU1NjM0NSwwMDAwMDBiZjAwMDAwMTdlZTczMjVmMDQwMDAwMDE3ZWMyZWJlNDhm",
+  "snapshot_id": "MTY0NDc3MTU1MCwwMDAwMDBjMDAwMDAwMTdlZjQwNjIzZTEwMDAwMDE3ZWMyZWJlNDhm",
   "tracks": [
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "8 Mile (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/353HFOqGHySp027oyr3aGs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 320293,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu"
+    },
     {
       "added_at": "2020-12-06 18:59:24",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "8 Mile (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/353HFOqGHySp027oyr3aGs"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 320293,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu"
     },
     {
       "added_at": "2022-02-11 05:00:00",

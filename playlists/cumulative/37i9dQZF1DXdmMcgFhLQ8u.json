@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 193159,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/4DkA3DNGcEAh5SztzpTxPh"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 193242,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 199693,
       "name": "Break Up in the End",
       "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 186106,
       "name": "Cold As You",
       "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 248053,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
@@ -836,6 +836,24 @@
     },
     {
       "album": {
+        "name": "New Town",
+        "url": "https://open.spotify.com/album/5E0LXGmyDlFqUkLFzLdxdH"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212576,
+      "name": "I'll Never Stop",
+      "url": "https://open.spotify.com/track/6KZEHBZnEGRYIIEinjEEyD"
+    },
+    {
+      "album": {
         "name": "If I Didn't Love You",
         "url": "https://open.spotify.com/album/6gYe3uo5YjJslbXYdSzSdf"
       },
@@ -887,7 +905,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 197666,
       "name": "It Matters to Me",
       "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 262053,
       "name": "She Don't Love You",
       "url": "https://open.spotify.com/track/1B17jo7XD3lJ9AtrdE9kUd"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 242573,
       "name": "Someday When I Stop Loving You",
       "url": "https://open.spotify.com/track/0FvYbfE2siVMEoXM8j0p5u"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 190173,
       "name": "You Should Be Here",
       "url": "https://open.spotify.com/track/63thx7OANplv4I4BQsanHk"
@@ -1963,7 +1981,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 217807,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"

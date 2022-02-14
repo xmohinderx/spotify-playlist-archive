@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Bout It",
       "url": "https://open.spotify.com/track/3H4ohIbQHof4qKgrV6Fchc"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 210000,
       "name": "Dawn Rise",
       "url": "https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 182552,
       "name": "dreaming",
       "url": "https://open.spotify.com/track/6mjCfixEcMad2k7OiMLhMJ"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 289108,
       "name": "Fair Play",
       "url": "https://open.spotify.com/track/2bo0Th0LniI0U1KbwNm9mk"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "Flight 99",
       "url": "https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 194303,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 181831,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
@@ -1724,6 +1724,24 @@
     },
     {
       "album": {
+        "name": "Lost In America",
+        "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
+      },
+      "artists": [
+        {
+          "name": "Lo Village",
+          "url": "https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
+    },
+    {
+      "album": {
         "name": "Overreacting",
         "url": "https://open.spotify.com/album/1VdFWgk2E4wy3UVBrRct0D"
       },
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 112710,
       "name": "Pisonia Prologue",
       "url": "https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 203056,
       "name": "Poison",
       "url": "https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 176751,
       "name": "PRETTY.",
       "url": "https://open.spotify.com/track/0xUTuscCV7C6l7VHoqJIxo"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 232682,
       "name": "ROLLA",
       "url": "https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 213000,
       "name": "Say It",
       "url": "https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 176026,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 178066,
       "name": "Two Worlds Apart",
       "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 172240,
       "name": "Where U At?",
       "url": "https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs"
@@ -2637,7 +2655,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 195800,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
@@ -2673,7 +2691,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 71426,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d"

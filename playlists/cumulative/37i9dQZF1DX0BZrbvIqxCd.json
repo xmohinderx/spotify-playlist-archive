@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 193468,
       "name": "20/20",
       "url": "https://open.spotify.com/track/3VZZgqgrmQrWXeDKTL8Jgw"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 227200,
       "name": "Anthem Part Two",
       "url": "https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 192317,
       "name": "Break a Leg Kid",
       "url": "https://open.spotify.com/track/5J2pcBXgCL7cHPUqAyMbeT"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 181386,
       "name": "Bullfrog",
       "url": "https://open.spotify.com/track/0jDGtdVh5TM69LxqaI1mp3"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 173421,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/03y1mDlbMHZ40TBnwPvbAs"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/22aRgzwro3KIz9QWAdY2E1"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 160682,
       "name": "Don't Overdose and Drive",
       "url": "https://open.spotify.com/track/2t2WL5SXmnjA9UPSeiUOGn"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 180082,
       "name": "Drown In My Mind",
       "url": "https://open.spotify.com/track/1i2t3VyIcsAonPhK6wjuJp"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 145597,
       "name": "Favorite Everything",
       "url": "https://open.spotify.com/track/7DVBqrIgK6rc064N1Gy1Gn"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 256700,
       "name": "Fools Gold",
       "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 212892,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1UnpGQbe2SDnAtr6vAYI4K"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 185419,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 227493,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5g4ENWdp43q5ZLH5Pre7s0"
@@ -1375,6 +1375,24 @@
       "duration_ms": 206752,
       "name": "Here's To Us",
       "url": "https://open.spotify.com/track/5FPqsuveLITGgSFzJft2wn"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2mEtEDdIdlm4qNSyJu5nVe"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207977,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/0yWZcDA8KYhA6vcN8IX7sH"
     },
     {
       "album": {
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 193560,
       "name": "I Just Died In Your Arms",
       "url": "https://open.spotify.com/track/34pzs6syywbpcdBBCcLvKK"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 216696,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2x3h75zzl2IudkzFbG3UuV"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 195208,
       "name": "Minds Like Minefields",
       "url": "https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH"
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 164485,
       "name": "My Town (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/473gsXF8axYSsplgUfnbXf"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 206160,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/0Eucj02XTx0Ir10BpMgJdD"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 160831,
       "name": "Playing Fiction",
       "url": "https://open.spotify.com/track/17u52ksnAFZOWhzEvuzdG6"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 195386,
       "name": "Plus Ultra",
       "url": "https://open.spotify.com/track/5WLvGmjfyAEYCvFNsLon0i"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 210920,
       "name": "Prayers",
       "url": "https://open.spotify.com/track/6yuPyWu2I5RvuYgDIdaHWp"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 158824,
       "name": "Shh!",
       "url": "https://open.spotify.com/track/2njh4onOr3nyACxc7c8vPp"
@@ -2675,7 +2693,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
@@ -2729,7 +2747,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 191544,
       "name": "Stupid For You",
       "url": "https://open.spotify.com/track/48ocCWNlCS9kFS9Q6dCYj1"
@@ -2859,7 +2877,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 202533,
       "name": "Time-Bomb Ticking Away",
       "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 219562,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/4X1Tj3Y41B9HR4VANUBWyC"
@@ -3047,6 +3065,24 @@
       "duration_ms": 143166,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx"
+    },
+    {
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211100,
+      "name": "Want Me Around",
+      "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
     },
     {
       "album": {
@@ -3241,7 +3277,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 155733,
       "name": "Zero Remorse",
       "url": "https://open.spotify.com/track/3moomsVlUVM1oUEE5Wslsg"

@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 384444,
       "name": "Amethyst",
       "url": "https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 258148,
       "name": "Bala",
       "url": "https://open.spotify.com/track/6GXMhdGDKvheXLVZHPkNO0"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 498849,
       "name": "Breaking Hearts feat. Amos - Black Coffee Remix",
       "url": "https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 376372,
       "name": "Close",
       "url": "https://open.spotify.com/track/4PjQnCqdF2VmzGsFp2IRAt"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 226224,
       "name": "Come To Me (feat. Lucie)",
       "url": "https://open.spotify.com/track/6BSbkh0Q2f272ZjCWLz7Nf"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 203749,
       "name": "Deepest Thoughts",
       "url": "https://open.spotify.com/track/0xYiTAId8EDuHg9RSiP1QR"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 276993,
       "name": "Disappear - Short Edit",
       "url": "https://open.spotify.com/track/0dEjDFIY7aLwNj2DAcy98s"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 222031,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4N5fhC9CW1Rt4doyulBgAd"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 222096,
       "name": "Found You",
       "url": "https://open.spotify.com/track/35bMwOR3deD75uDxK6i9Nc"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 297054,
       "name": "Freedom for my People",
       "url": "https://open.spotify.com/track/7wOirxr2EhVVFeG8Rs0Jnx"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 520012,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/2g7BwK58fPL8xOnMGVYz0K"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 595837,
       "name": "High Seas",
       "url": "https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 575500,
       "name": "Kamenka",
       "url": "https://open.spotify.com/track/4abrxVPM6VkY010z7HAsBY"
@@ -1666,6 +1666,28 @@
     },
     {
       "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "album": {
         "name": "5 Years - A Bunte Kuh Collection",
         "url": "https://open.spotify.com/album/6FRKtn7RRY205WS3qdSoHm"
       },
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 238186,
       "name": "Lore",
       "url": "https://open.spotify.com/track/0QswOQrUWKn93eOYBh6wWC"
@@ -1975,7 +1997,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 410395,
       "name": "Monza",
       "url": "https://open.spotify.com/track/5RTWuFUPgvy5r6V33vmzav"
@@ -1997,7 +2019,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 470564,
       "name": "Mood - Dole & Kom Remix",
       "url": "https://open.spotify.com/track/3ErdXxidIsTKoecR0OJkhN"
@@ -2015,7 +2037,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 273719,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/74ihDIAsUwAsYPYdWZH32P"
@@ -2077,7 +2099,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
@@ -2139,7 +2161,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 286717,
       "name": "No Silence",
       "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
@@ -2165,7 +2187,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
@@ -2201,7 +2223,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 387730,
       "name": "Novella",
       "url": "https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC"
@@ -2267,7 +2289,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 326715,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/7rtkDhmjlt2CMWfMnQDi9i"
@@ -2307,7 +2329,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 158882,
       "name": "Only You (feat. Paper Idol)",
       "url": "https://open.spotify.com/track/0WPDCTtHwo1RyR47iXcdPq"
@@ -2445,7 +2467,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 402000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5juPlUFkksVaQQ0EWWPjPm"
@@ -2463,7 +2485,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 434406,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/3i1NcXMWTcRiUyDydBhZol"
@@ -2525,7 +2547,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 464132,
       "name": "Restless Mind",
       "url": "https://open.spotify.com/track/1cWqKMY9UmPen1n6XH4byq"
@@ -2579,7 +2601,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 222459,
       "name": "Route",
       "url": "https://open.spotify.com/track/2yz4C04AMcaF9E0eqOcpzm"
@@ -2801,7 +2823,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 418053,
       "name": "Sonneries de la Rose+Croix: I. Air de l'Ordre - Sascha Braemer 5pm Remix (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/0kjtIirdAUbkV2WtjElwjF"
@@ -2837,7 +2859,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 448524,
       "name": "Stellar Hearts",
       "url": "https://open.spotify.com/track/4hETDMTvvuvP9IgOnhkOVS"
@@ -2917,7 +2939,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 388783,
       "name": "Temperament of the Beat",
       "url": "https://open.spotify.com/track/2d7TJXGNI2nvyWF51CLFkJ"
@@ -2957,7 +2979,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 228561,
       "name": "The Message - Radio Edit",
       "url": "https://open.spotify.com/track/3O8b0YaIjwIXLIpintKnAX"
@@ -3019,7 +3041,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 172809,
       "name": "Torn - Mat.Joe Remix",
       "url": "https://open.spotify.com/track/5faV7DcMghEwYC0rp6HHEG"
@@ -3081,7 +3103,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 488149,
       "name": "Unforgettable Times",
       "url": "https://open.spotify.com/track/3NbnrVeAX6uL7Yy754EJ6M"
@@ -3153,7 +3175,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 399888,
       "name": "Walk in the Wild",
       "url": "https://open.spotify.com/track/5DBoyXGI3NH05wNYPK0Mpq"
@@ -3259,7 +3281,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 336212,
       "name": "What Did You Do?",
       "url": "https://open.spotify.com/track/4GCjjTHiH5QEYnmxkX837H"
@@ -3317,7 +3339,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 154605,
       "name": "Wired",
       "url": "https://open.spotify.com/track/7bmxbmer7iYIvla8exrgnv"
@@ -3361,7 +3383,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 214167,
       "name": "Woman",
       "url": "https://open.spotify.com/track/7FlEC4iKF51DIiQ6G2Lj1q"

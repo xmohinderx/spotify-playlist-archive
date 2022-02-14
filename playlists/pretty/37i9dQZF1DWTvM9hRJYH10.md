@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Josh Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,781 likes - 95 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,791 likes - 95 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never Said Sorry](https://open.spotify.com/track/1h1XBqXVBQ5wLkdoWQet9m) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Never Said Sorry](https://open.spotify.com/album/2MzUFAax9RwtKK8s6S9iXI) | 2:41 |
-| 2 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
+| 2 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown \(G010004738710A\)](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
 | 3 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
 | 4 | [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 |
 | 5 | [We'll Be](https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [We'll Be](https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI) | 3:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Machine Gun Kelly + WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,904 likes - 83 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,038 likes - 83 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

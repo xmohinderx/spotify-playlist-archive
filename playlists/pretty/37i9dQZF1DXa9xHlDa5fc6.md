@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > Chill out with these awesome alt songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,358 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,896 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 149 | [Vagabonds](https://open.spotify.com/track/1ZJmzYcbZtA3aLV1OzdLCu) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [From The Spark](https://open.spotify.com/album/5ml7RNREVYS6KUy0GyBjXU) | 3:18 |
 | 150 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 
-Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDA4MTAwMDAwMTdlYzMxYjY3NGQwMDAwMDE2ZDAwYmMwMTI5`
+Snapshot ID: `MTY0NDc4MzAyNCwwMDAwMDA4MjAwMDAwMTdlZjRiNTM5ZDcwMDAwMDE2ZDAwYmMwMTI5`

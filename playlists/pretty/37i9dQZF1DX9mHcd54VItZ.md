@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=2jUJ3TqJTsaljEbzghQbzw">Hugo Pooe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,792 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,798 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

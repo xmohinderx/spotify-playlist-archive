@@ -1,12 +1,12 @@
 {
   "description": "It's Hits - b\u00e4sta och st\u00f6rsta hitsen just nu.",
-  "num_followers": 635728,
+  "num_followers": 635732,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNDAwMCwwMDAwMDUwOTAwMDAwMTdlZTVkZDZhNDEwMDAwMDE3ZWU0YWY2NGI3",
+  "snapshot_id": "MTY0NDc2MzQ5MywwMDAwMDUwYTAwMDAwMTdlZjM4YjMzOTMwMDAwMDE3ZWU0YWY2NGI3",
   "tracks": [
     {
       "added_at": "2022-02-10 23:00:00",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/5wMUzY8FFxQ3aHdri7uuiP"
     },
     {
+      "added_at": "2022-02-13 14:44:53",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
       "added_at": "2022-02-10 23:00:00",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
@@ -623,22 +639,6 @@
       "duration_ms": 177710,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/6L6N8iogHK4BilrHG7bAJ2"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2022-02-10 23:00:00",

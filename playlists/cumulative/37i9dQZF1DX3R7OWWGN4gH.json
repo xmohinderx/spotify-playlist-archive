@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 127413,
       "name": "Call me Cruella",
       "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Cradles",
+        "url": "https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209829,
+      "name": "Cradles",
+      "url": "https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki"
       },
@@ -423,6 +441,24 @@
       "duration_ms": 135500,
       "name": "Deal With The Devil",
       "url": "https://open.spotify.com/track/7eFIg4OmtXa0Wf5eeFOLs4"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
     },
     {
       "album": {
@@ -709,7 +745,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 202950,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3MNlGZIqeH2HEcMUItoxes"
@@ -763,7 +799,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 217546,
       "name": "Girl With One Eye",
       "url": "https://open.spotify.com/track/0UdBCetwMDQO7JIhi7Waik"
@@ -1567,7 +1603,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 157940,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2f5IZC0qm02BOmKp5rbZgU"
@@ -1643,7 +1679,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9"
@@ -1683,7 +1719,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 137142,
       "name": "Sugar Mama",
       "url": "https://open.spotify.com/track/4dyAQ8PjbyInJYgTnTsIeX"

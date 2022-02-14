@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 385074,
       "name": "Admit It (U Don't Want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 212843,
       "name": "Affection",
       "url": "https://open.spotify.com/track/4SSTO88KFsMLeYF7kuMzWl"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 219622,
       "name": "Avenue Of The Fireflies",
       "url": "https://open.spotify.com/track/4sFLrUl0Omp65zLQEJZcNB"
@@ -523,6 +523,28 @@
       "duration_ms": 178420,
       "name": "Bedroom Eyes (feat. Studio Killers)",
       "url": "https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8"
+    },
+    {
+      "album": {
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "album": {
@@ -919,7 +941,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 185266,
       "name": "De Tecidos",
       "url": "https://open.spotify.com/track/5VN37zj6J0yQfTLzKGyFsQ"
@@ -1007,7 +1029,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 282610,
       "name": "Don't Cry - TSHA Remix",
       "url": "https://open.spotify.com/track/1hwjiYyitrVk04U0U96AZS"
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 263986,
       "name": "Got Me (feat. Julia Stone)",
       "url": "https://open.spotify.com/track/1EBDX2eMMsaUwLjWAde0Cm"
@@ -2029,7 +2051,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 285419,
       "name": "I Can't Go for That (No Can Do) - Nicolaas Remix",
       "url": "https://open.spotify.com/track/3g7wWCTl5C6yKUA4FrZxxH"
@@ -2247,7 +2269,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 225400,
       "name": "In My Arms - Edit",
       "url": "https://open.spotify.com/track/2S9ho4Tw8T7oyEPSVYEL2x"
@@ -2287,7 +2309,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 135516,
       "name": "Indecisive (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9"
@@ -2407,7 +2429,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 262786,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/2aE8FWURsIuFIGNFG1CHVr"
@@ -2683,7 +2705,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 230765,
       "name": "Let\u2019s Sing Let\u2019s Dance",
       "url": "https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S"
@@ -2957,7 +2979,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 170312,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/0iTUhzBbyZr1aLvPcUlyM1"
@@ -2993,7 +3015,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 269818,
       "name": "Love Divide",
       "url": "https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy"
@@ -3145,7 +3167,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7JoZ4wyCNjwCTB5GUqlz36"
@@ -3299,7 +3321,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 218728,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/5hlxswETS4FB4oCg6g7JHk"
@@ -3441,7 +3463,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
@@ -3503,7 +3525,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
@@ -3825,7 +3847,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "Paint California",
       "url": "https://open.spotify.com/track/2ZlgqiomIrjvkuWFDSVOLY"
@@ -4457,7 +4479,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 209001,
       "name": "Saving My Love",
       "url": "https://open.spotify.com/track/672thZgpcYBR1qow7EOJgC"
@@ -4573,7 +4595,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 199310,
       "name": "Sidney's Lullaby",
       "url": "https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS"
@@ -5005,7 +5027,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
@@ -5267,7 +5289,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 250578,
       "name": "The Road to Love",
       "url": "https://open.spotify.com/track/2umORTX6Xf9Gqhf3kuGLD0"
@@ -5491,7 +5513,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 169246,
       "name": "Time Is Mine",
       "url": "https://open.spotify.com/track/7qohJZZBpGDUHuUozqAwoS"
@@ -5659,7 +5681,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
@@ -5747,7 +5769,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 285821,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy"
@@ -5875,7 +5897,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 175508,
       "name": "Walk The Beat",
       "url": "https://open.spotify.com/track/1MMO7ytenCjfcWSIFhWvql"
@@ -5995,7 +6017,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 169000,
       "name": "When Will I Learn",
       "url": "https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n"
@@ -6035,7 +6057,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 174574,
       "name": "Whittier Blvd.",
       "url": "https://open.spotify.com/track/659n3ILVIMmDNUDpUd5fYg"
@@ -6151,7 +6173,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 254507,
       "name": "Year to Year",
       "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"

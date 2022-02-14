@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,100 likes - 86 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,319 likes - 86 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

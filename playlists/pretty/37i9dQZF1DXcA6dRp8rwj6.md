@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Future\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,691 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,786 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 15 | [Tempat Pulang](https://open.spotify.com/track/0u5GeVYHGRdqruncvoXQlU) | [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ), [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Tempat Pulang](https://open.spotify.com/album/45LnkhfTEfmOs5UXoRcpCl) | 3:44 |
 | 16 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEONE](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 |
 | 17 | [Night Scenes](https://open.spotify.com/track/0L69WWJy5ntvBopLzAUkw1) | [Vince The Messenger](https://open.spotify.com/artist/7wKTJPnPgXQ8ENAlfpM0eA), [TNA](https://open.spotify.com/artist/135FZ4psdYk6oVrWcTv0LT) | [Night Scenes](https://open.spotify.com/album/3sWSH52ckbAFt3W2llzGs8) | 3:55 |
-| 18 | [Weak](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
+| 18 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 |
 | 19 | [Channel Zero](https://open.spotify.com/track/5yPOxCrlFlNuNnv8OYA50h) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Channel Zero](https://open.spotify.com/album/2rkyeEPGwWiD1lyD3QRbvm) | 3:50 |
 | 20 | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Options \(feat\. 24kGoldn\)](https://open.spotify.com/album/1EZE4ij3YcQUNNG3y1AduM) | 2:08 |
 | 21 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Luvmind.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |

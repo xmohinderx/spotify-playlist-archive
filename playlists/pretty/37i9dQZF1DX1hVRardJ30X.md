@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Wisin & Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,991 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,064 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 44 | [Te Borré](https://open.spotify.com/track/6800OxJr9TE4T0bsqhiMG0) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Te Borré](https://open.spotify.com/album/2DWD0fvdAoslqJQKz2w2BJ) | 3:00 |
 | 45 | [ICE](https://open.spotify.com/track/57bVMaTxIYaSh1SHVuMQPW) | [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w) | [ICE](https://open.spotify.com/album/6iG6X7fWJcTD6yF5ewiAdU) | 3:10 |
 | 46 | [Sayonara](https://open.spotify.com/track/5T5sHUZ7z3erBVpPCUIaq8) | [Happy Face](https://open.spotify.com/artist/0ED4nwCVzVNO4epxO86cOR), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Sayonara](https://open.spotify.com/album/3osxnYIFVqIHB7BsNmN8i3) | 2:32 |
-| 47 | [Mi Mundo Entero \- Versión Bachata](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero \(Versión Bachata\)](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 |
+| 47 | [Mi Mundo Entero \- Versión Bachata](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 |
 | 48 | [La Artista](https://open.spotify.com/track/1tCDPU4ifmAhAshrLTtrQ4) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [The Yabo](https://open.spotify.com/artist/3tzSE7ZaI9Z8ZziPb5FrUa), [DJ Africa](https://open.spotify.com/artist/5x4G6zQfdOjGbkK8SkHmTf) | [La Artista](https://open.spotify.com/album/0Adwv0F1GRFXIg4sjiHLy7) | 2:32 |
 | 49 | [Te Quiero Contar](https://open.spotify.com/track/0UxeJnZAOCjDa954FxwJ7b) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Te Quiero Contar](https://open.spotify.com/album/4uLMVQ24OqOOqxqvgoOQoT) | 3:38 |
 | 50 | [MARGIELA](https://open.spotify.com/track/0dn2vcLgQNYhXyq8Xs9o4Q) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [MARGIELA](https://open.spotify.com/album/3qcepePviqGrbEKc1NPN2g) | 2:51 |

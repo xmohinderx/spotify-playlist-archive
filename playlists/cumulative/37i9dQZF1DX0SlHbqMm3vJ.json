@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 168800,
       "name": "A Movie",
       "url": "https://open.spotify.com/track/3YLuTTlfYiuNSPl9gNIRPY"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 141125,
       "name": "Baptism",
       "url": "https://open.spotify.com/track/7GQD96UoFYpqinM6O44TBE"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 149031,
       "name": "Be Gone",
       "url": "https://open.spotify.com/track/4dWQPivfUCTOp5ihmq8Yxc"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "Before You Wake Up",
       "url": "https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Caribbeana",
       "url": "https://open.spotify.com/track/77TunfSjNZ2RLAwvF77hVo"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 179080,
       "name": "CHOP N PRAY",
       "url": "https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 136170,
       "name": "Do You",
       "url": "https://open.spotify.com/track/5vy09xIeMnSBMzSMFORP4G"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 198472,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 149243,
       "name": "Glowanna",
       "url": "https://open.spotify.com/track/5SFRU2eoNzXEuFnzsHD17y"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 146400,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 186067,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/1rXzcrYcx3NKABg3WeCJ6R"
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 164210,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "One Time",
       "url": "https://open.spotify.com/track/7J4dbVmwZs7MoZD8A8EkFb"
@@ -1811,6 +1811,28 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b"
     },
     {
       "album": {
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 122020,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/6NtOTnvDhbzaxpxkjBEx8x"
@@ -1909,7 +1931,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 167981,
       "name": "Personal",
       "url": "https://open.spotify.com/track/5ssk3dDkHdrwmPveDQivd7"
@@ -1931,7 +1953,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
@@ -2029,7 +2051,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 237333,
       "name": "Selense",
       "url": "https://open.spotify.com/track/7k5p0y3ujvszuxWoeJJpxO"
@@ -2055,7 +2077,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 198333,
       "name": "She Knows",
       "url": "https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo"
@@ -2295,7 +2317,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 225267,
       "name": "Summer in the Ends - Juls Zikomo Remix",
       "url": "https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn"
@@ -2463,7 +2485,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 180800,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/6c2umqQ4F1T25KnEmMHdH2"
@@ -2521,7 +2543,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
@@ -2569,7 +2591,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-14",
       "duration_ms": 135157,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5"
@@ -2733,7 +2755,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 143484,
       "name": "Up",
       "url": "https://open.spotify.com/track/5GTXa4WXtncHY5Ztbb8yX2"
@@ -2935,7 +2957,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 187050,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/57QcTLuRqbeyd6l9MgPPNd"

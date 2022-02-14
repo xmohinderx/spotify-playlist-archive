@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=\-xYSyGAXTneDpoo8\_IoajQ">Makhadzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,109 likes - 65 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,156 likes - 65 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
