@@ -1,13 +1,29 @@
 {
   "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: Jung Kook",
-  "num_followers": 3504537,
+  "num_followers": 3508038,
   "original_name": "K-Pop Daebak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDc5OTUyMywwMDAwMDAwMDdmNDNjNWVlNGUwNjQzYWIwMTM3ZmY5NTlkODVhMGYx",
+  "snapshot_id": "MTY0NDg4NjI0OCwwMDAwMDAwMDI3MmQyOGZkYzZlZDNmMDU2NzFjNjVkMGI0MDBhNzA5",
   "tracks": [
+    {
+      "added_at": "2022-02-14 09:18:33",
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {

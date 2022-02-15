@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX"
+      },
+      "artists": [
+        {
+          "name": "Nutcase22",
+          "url": "https://open.spotify.com/artist/223shoqJ9oge1jE0QKyV1K"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214819,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/2GPh676erhgaOyMRmQNOc6"
+    },
+    {
+      "album": {
         "name": "Codinome",
         "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
       },
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ"

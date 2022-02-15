@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
-> hyperpop is a simulation\. Cover: quinn
+> hyperpop is a community\. Cover: quinn
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

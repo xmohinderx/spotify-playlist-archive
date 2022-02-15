@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 261213,
       "name": "arms",
       "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 203289,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
@@ -625,10 +625,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 204285,
       "name": "Django",
       "url": "https://open.spotify.com/track/7n8oAD5lFVciTlfPAChrCr"
+    },
+    {
+      "album": {
+        "name": "Drowning Shadows",
+        "url": "https://open.spotify.com/album/438rFTBALLEiw5CrP9dVvK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253959,
+      "name": "Drowning Shadows",
+      "url": "https://open.spotify.com/track/3JNDJyuF7JFfGnfS1gyMft"
     },
     {
       "album": {
@@ -831,6 +849,28 @@
       "duration_ms": 188546,
       "name": "Half a Heart",
       "url": "https://open.spotify.com/track/6nIE1oCE4udqMGv3bqVNVb"
+    },
+    {
+      "album": {
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
     },
     {
       "album": {
@@ -1521,7 +1561,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 217049,
       "name": "Lonely - Mahogany Sessions",
       "url": "https://open.spotify.com/track/1WVpCn4WGCrgGXhhtyUzyM"
@@ -1669,7 +1709,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 198048,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/1wiw9ZdiSm3PZfdZqCzb0A"
@@ -1759,7 +1799,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 189230,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/5Q1m46EdcNAkg0Ht0f3YgC"
@@ -2131,7 +2171,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 181408,
       "name": "Say It Again - Acoustic",
       "url": "https://open.spotify.com/track/19lJcWaqc4JSFEd8ciz00g"
@@ -2171,7 +2211,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 257483,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
@@ -2315,7 +2355,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 347520,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
@@ -2369,7 +2409,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 199647,
       "name": "Someone to Break Your Heart",
       "url": "https://open.spotify.com/track/1j1eVY0fZLQH5W0UMNz5hd"
@@ -2579,7 +2619,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 159506,
       "name": "Tee Shirt - Soundtrack Version",
       "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
@@ -2705,7 +2745,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 217167,
       "name": "The Only",
       "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
@@ -2723,7 +2763,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
@@ -2943,7 +2983,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 235920,
       "name": "When I Let Go",
       "url": "https://open.spotify.com/track/1knbAQeG852S5ebxsfYIao"
@@ -3131,7 +3171,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 196036,
       "name": "You Don't Get To - Stripped",
       "url": "https://open.spotify.com/track/6FtOjCh88PmVmDynhicvkc"

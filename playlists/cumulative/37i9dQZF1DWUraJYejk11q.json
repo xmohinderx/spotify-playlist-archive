@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 129543,
       "name": "moment",
       "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
@@ -1923,6 +1923,24 @@
       "duration_ms": 197419,
       "name": "Stories",
       "url": "https://open.spotify.com/track/5BnLFmaAm7DqeXrZy1n8Jp"
+    },
+    {
+      "album": {
+        "name": "Subscribe",
+        "url": "https://open.spotify.com/album/42p5J7pRDkQeW7lScyubyU"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277090,
+      "name": "Subscribe",
+      "url": "https://open.spotify.com/track/2iUIHIZabSIdYFj8A17cuQ"
     },
     {
       "album": {

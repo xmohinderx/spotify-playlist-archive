@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH"
+    },
+    {
+      "album": {
         "name": "Ribbed Music For The Numb Generation",
         "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
       },

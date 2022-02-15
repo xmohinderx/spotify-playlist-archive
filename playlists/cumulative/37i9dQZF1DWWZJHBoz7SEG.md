@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
-> ¡Sofía Reyes; Becky G y Karol G; Rauw Alejandro; Ed Sheeran y Taylor Swift; y más!
+> ¡Sofía Reyes; Becky G y KAROL G; Rauw Alejandro; Ed Sheeran y Taylor Swift; y más!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

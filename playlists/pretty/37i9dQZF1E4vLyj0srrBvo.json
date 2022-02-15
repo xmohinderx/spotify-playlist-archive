@@ -1,64 +1,76 @@
 {
-  "description": "With i_o, Sky Ferreira, Yves Tumor and more",
-  "num_followers": 13684,
+  "description": "With Chromatics, Wild Nothing, Alice Glass and more",
+  "num_followers": 13702,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDc5OTY0NiwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj",
+  "snapshot_id": "MTY0NDg4NjM4NCwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
+        "name": "Player Of Games",
+        "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
       },
       "artists": [
         {
           "name": "Grimes",
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "i_o",
-          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
         }
       ],
-      "duration_ms": 220616,
-      "name": "Violence - Original Mix",
-      "url": "https://open.spotify.com/track/3KeOFns3LGJuh1lapMm9eA"
+      "duration_ms": 245542,
+      "name": "Player Of Games",
+      "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/0IPR1Bmg15FsnBtZ0BNFA5"
       },
       "artists": [
         {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
         }
       ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+      "duration_ms": 245133,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/04sx4DemzEp9Dzopqge2QX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Asymptotical World EP",
-        "url": "https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7"
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
       },
       "artists": [
         {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
         }
       ],
-      "duration_ms": 197493,
-      "name": "Crushed Velvet",
-      "url": "https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm"
+      "duration_ms": 198842,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alice Glass",
+        "url": "https://open.spotify.com/album/5FXlBbOLPltg9Ix0Ri7G01"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/3WSJdIwhORCuyGNinGfAdm"
     },
     {
       "added_at": null,
@@ -83,6 +95,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "another eternity",
+        "url": "https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 217201,
+      "name": "begin again",
+      "url": "https://open.spotify.com/track/3S6qD3X5lXJEzzjzfytC5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Trash",
+        "url": "https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "drip bounce _ 7_24_18",
+      "url": "https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a woman is a god",
+        "url": "https://open.spotify.com/album/7GtdOSYKbmsBdpGCQK8Wd0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "duration_ms": 178599,
+      "name": "a woman is a god",
+      "url": "https://open.spotify.com/track/1aJwxjWEaP7SOWZ3ejaKej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ashes to Ashes",
         "url": "https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894"
       },
@@ -99,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halfaxa",
-        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
       "artists": [
         {
@@ -108,421 +200,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 270138,
-      "name": "Devon",
-      "url": "https://open.spotify.com/track/5AJkfdLjAFEKgJFDA5jYo2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2FLW1FnWZxGUuiDgsLDGOG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Super Stars",
-      "url": "https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 189370,
-      "name": "Cleo - Edit",
-      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "duration_ms": 335289,
-      "name": "We Appreciate Power",
-      "url": "https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Era Extra\u00f1a",
-        "url": "https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN"
-      },
-      "artists": [
-        {
-          "name": "Neon Indian",
-          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Polish Girl",
-      "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/2x8ac9NwclGOiseIKtVwM9"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/6ClEYQeTKFqsKnKGnCDTok"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Mercurial World",
-      "url": "https://open.spotify.com/track/30YK7cZlruEW0Clyxwk2nH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Gospel For A New Century",
-      "url": "https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Sunset",
-        "url": "https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        }
-      ],
-      "duration_ms": 224083,
-      "name": "Girl Of The Year",
-      "url": "https://open.spotify.com/track/2994N2DpvyCy4gIRS06wLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alice Glass",
-        "url": "https://open.spotify.com/album/5FXlBbOLPltg9Ix0Ri7G01"
-      },
-      "artists": [
-        {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/3WSJdIwhORCuyGNinGfAdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "\u6f58PAN",
-          "url": "https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo"
-        }
-      ],
-      "duration_ms": 224109,
-      "name": "Darkseid",
-      "url": "https://open.spotify.com/track/0TlBuH1azntROo6SCNe3Kb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BB",
-        "url": "https://open.spotify.com/album/4P1xQUR8dEHCvHkYvtfd2I"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/5LbZrfWzafeYlwzbHtpAqD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jackie",
-        "url": "https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(II)",
-        "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Baptism",
-      "url": "https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Halfaxa",
-        "url": "https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 300064,
-      "name": "Dream Fortress",
-      "url": "https://open.spotify.com/track/5S7o1CmpcxeLCdG4Ddg00K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Linda",
-        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "Even If It Hurts",
-      "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mister Mellow",
-        "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Hard To Say Goodbye",
-      "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 257130,
-      "name": "Chaeri",
-      "url": "https://open.spotify.com/track/1ZkfNNoRrgt69wTjcmJZE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Kerosene!",
-      "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Delete Forever",
-      "url": "https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(II)",
-        "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Empathy",
-      "url": "https://open.spotify.com/track/1L0EA6BegmM4KMwTHmSHux"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 366997,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 255851,
-      "name": "Time to Walk Away",
-      "url": "https://open.spotify.com/track/01AbB47Hm60LTIStyzMb2g"
+      "duration_ms": 107508,
+      "name": "laughing and not being normal",
+      "url": "https://open.spotify.com/track/0DnYvbdoVg88EF2ddh7Tn6"
     },
     {
       "added_at": null,
@@ -543,8 +223,56 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "Shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2FLW1FnWZxGUuiDgsLDGOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 189370,
+      "name": "Cleo - Edit",
+      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1asVfKGYTD8QqMAVJC5beM"
       },
       "artists": [
         {
@@ -552,83 +280,83 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         },
         {
-          "name": "Majical Cloudz",
-          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
+          "name": "Blood Diamonds",
+          "url": "https://open.spotify.com/artist/4yuvRDaF5kWkFLq6q1Fev4"
         }
       ],
-      "duration_ms": 238293,
-      "name": "Nightmusic",
-      "url": "https://open.spotify.com/track/1KIb20Sgqg4XiRIPaEBwDv"
+      "duration_ms": 240759,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6U6UC3Xg5ukTBQIy245bAo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want It At All",
-        "url": "https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 250615,
-      "name": "I Don't Want It At All",
-      "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": null,
       "album": {
-        "name": "(II)",
-        "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
+        "name": "Cape God",
+        "url": "https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae"
       },
       "artists": [
         {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
         }
       ],
-      "duration_ms": 228400,
-      "name": "Celestica",
-      "url": "https://open.spotify.com/track/5QmolkpuE6IfPdr7j2MGn5"
+      "duration_ms": 172880,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/4GSqiK9YdVNhilXMFtCiQB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+        "name": "We Must Become the Pitiless Censors of Ourselves",
+        "url": "https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof"
       },
       "artists": [
         {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+          "name": "John Maus",
+          "url": "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
         }
       ],
-      "duration_ms": 329361,
-      "name": "Limerence",
-      "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
+      "duration_ms": 248706,
+      "name": "Hey Moon",
+      "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 198842,
-      "name": "Chinatown",
-      "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
+      "duration_ms": 261946,
+      "name": "A Lot's Gonna Change",
+      "url": "https://open.spotify.com/track/5qspeKX1xBacLJMm2t3Yc0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
       "artists": [
         {
@@ -636,41 +364,93 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 161691,
-      "name": "You'll miss me when I'm not around",
-      "url": "https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR"
+      "duration_ms": 246006,
+      "name": "Kill V. Maim",
+      "url": "https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Does You Inspire You",
-        "url": "https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg"
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
       },
       "artists": [
         {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4"
+      "duration_ms": 309053,
+      "name": "Miss Camaraderie",
+      "url": "https://open.spotify.com/track/5mEkLflNw2BilpJvJ0W7UC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pang",
-        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 183861,
-      "name": "So Hot You're Hurting My Feelings",
-      "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mature Themes",
+        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 223236,
+      "name": "Girls Just Wanna Have Some",
+      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": null,
@@ -695,18 +475,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX"
+        "name": "Pang",
+        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
       "artists": [
         {
-          "name": "Warpaint",
-          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 279293,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG"
+      "duration_ms": 322562,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ordinary Guy (feat. The Mattson 2)",
+        "url": "https://open.spotify.com/album/4vhWYLYXmKNljZZckEsiQL"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "The Mattson 2",
+          "url": "https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH"
+        }
+      ],
+      "duration_ms": 217298,
+      "name": "Ordinary Guy (feat. The Mattson 2)",
+      "url": "https://open.spotify.com/track/3NXLWgZATF6TFYP70dEfcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NICE OUT",
+        "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "NICE OUT",
+      "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
     },
     {
       "added_at": null,
@@ -720,9 +536,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 252558,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/01dQHUYz6EerSF6JQDolCC"
+      "duration_ms": 212439,
+      "name": "Pin",
+      "url": "https://open.spotify.com/track/7ssKQDHJe7PhzFt0RBFlgt"
     },
     {
       "added_at": null,
@@ -743,40 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Bright",
-        "url": "https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 230719,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 149390,
-      "name": "claws",
-      "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
+        "name": "(II)",
+        "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
       },
       "artists": [
         {
@@ -784,9 +568,209 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 186373,
-      "name": "Untrust Us",
-      "url": "https://open.spotify.com/track/6RpuNjTsUQo7eByN3kWvYx"
+      "duration_ms": 251440,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "lightbeamers",
+      "url": "https://open.spotify.com/track/4c9ygoZeMOjvu3uoLpIsl6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Postman b/w Magazine",
+        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Lizzy Wizzy",
+          "url": "https://open.spotify.com/artist/4n2RbW3dIUzGI089lh9NI0"
+        }
+      ],
+      "duration_ms": 230270,
+      "name": "Delicate Weapon",
+      "url": "https://open.spotify.com/track/1hT3eaGzrcFriQtgGdvsZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dedicated to Bobby Jameson",
+        "url": "https://open.spotify.com/album/73D3fwGGKIM6DQTcjWji4w"
+      },
+      "artists": [
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        }
+      ],
+      "duration_ms": 254520,
+      "name": "Another Weekend",
+      "url": "https://open.spotify.com/track/60E2QSeE6hZe51e9VuBJSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/2x8ac9NwclGOiseIKtVwM9"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/6ClEYQeTKFqsKnKGnCDTok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(II)",
+        "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Empathy",
+      "url": "https://open.spotify.com/track/1L0EA6BegmM4KMwTHmSHux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 227401,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 247368,
+      "name": "Artangels",
+      "url": "https://open.spotify.com/track/6kh5fj610DhNF1e02og1PL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "Dawning of the Season",
+      "url": "https://open.spotify.com/track/3WkEKyrkEtbqN6mxZQi1dn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CollXtion II",
+        "url": "https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 197673,
+      "name": "Paper Love",
+      "url": "https://open.spotify.com/track/2QffgsYVZkvMQsZmQdgf2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young & Old",
+        "url": "https://open.spotify.com/album/0wyBYIcPaGBcM4hygCnWQE"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 208139,
+      "name": "Origins",
+      "url": "https://open.spotify.com/track/6TJAFFa2VaRdFB5UA4BJRt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(II)",
+        "url": "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Suffocation",
+      "url": "https://open.spotify.com/track/33ZJkoSI4m9RzT4rZUthGn"
     },
     {
       "added_at": null,
@@ -800,41 +784,57 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 232961,
-      "name": "So Heavy I Fell Through the Earth - Algorithm Mix",
-      "url": "https://open.spotify.com/track/3GLfO0jQ8NAs69nh7DdsSg"
+      "duration_ms": 243872,
+      "name": "My Name is Dark - Algorithm Mix",
+      "url": "https://open.spotify.com/track/437CZPz3PTVkbMONkEcgDX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Heads Up",
-        "url": "https://open.spotify.com/album/18REqENWyDEdkdERylgdgw"
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
       },
       "artists": [
         {
-          "name": "Warpaint",
-          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
         }
       ],
-      "duration_ms": 359373,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2t59p9y2Gth1HWmLywS3tn"
+      "duration_ms": 228066,
+      "name": "Pass This On",
+      "url": "https://open.spotify.com/track/2irCiCNN2kheis3bdovtQO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "another eternity",
-        "url": "https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn"
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
       "artists": [
         {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 217201,
-      "name": "begin again",
-      "url": "https://open.spotify.com/track/3S6qD3X5lXJEzzjzfytC5u"
+      "duration_ms": 329361,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "Mercurial World",
+      "url": "https://open.spotify.com/track/30YK7cZlruEW0Clyxwk2nH"
     }
   ],
   "unique_name": "Grimes Radio",

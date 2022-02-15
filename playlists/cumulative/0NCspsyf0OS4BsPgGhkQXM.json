@@ -408,6 +408,32 @@
     },
     {
       "album": {
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/6rHiaIkOzbiqojLjbr7TxE"
+      },
+      "artists": [
+        {
+          "name": "BB Cooper",
+          "url": "https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi"
+        },
+        {
+          "name": "Kaphy",
+          "url": "https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5"
+        },
+        {
+          "name": "S\u00d8R",
+          "url": "https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134275,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/7uB7XJT1uJVaHugbGiTEgy"
+    },
+    {
+      "album": {
         "name": "Break Off",
         "url": "https://open.spotify.com/album/2gqj7Y2hLgr68uIrjDzJYe"
       },
@@ -757,6 +783,28 @@
       "duration_ms": 186000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3"
+    },
+    {
+      "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/1REvPNymW3eMvdF6zpo8Ft"
+      },
+      "artists": [
+        {
+          "name": "Too Martian",
+          "url": "https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq"
+        },
+        {
+          "name": "Fane",
+          "url": "https://open.spotify.com/artist/4mVmOuiAaHkNp5A0a8bvBx"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/5bv92Php1ppJc4GL58KBbq"
     },
     {
       "album": {
@@ -1907,7 +1955,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 258206,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/7ikPaphh2LjopBdM7ZYUIp"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKCgD4mJwbN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKCgD4mJwbN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKCgD4mJwbN)
 
-### Pa' Pistear
+### [Pa' Pistear](https://open.spotify.com/playlist/68YjfZW6MIr31wwtg2GkfN)
 
 > Puras rolitas pa' destapar un bote y empinar el codo.
 

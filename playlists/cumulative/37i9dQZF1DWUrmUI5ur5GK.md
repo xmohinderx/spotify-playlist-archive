@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUrmUI5ur5GK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUrmUI5ur5GK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrmUI5ur5GK)
 
-### Irish Pub Songs
+### [Irish Pub Songs](https://open.spotify.com/playlist/56xGjjMt3q1sbs8rAN1t2E)
 
 > Classic drinking singalongs.
 

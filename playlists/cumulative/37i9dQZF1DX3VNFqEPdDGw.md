@@ -68,5 +68,6 @@
 | [Vibe](https://open.spotify.com/track/4cQFpei7RioqdK8BVcUN7n) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:50 | 2022-02-01 |  |
 | [Video Call](https://open.spotify.com/track/3lqOcc7LKwXwbbCAIihRPc) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 3:06 | 2022-02-01 |  |
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-01-10 |  |
+| [Youngest In Charge](https://open.spotify.com/track/2V52mICuJnWB3C4lrJZd7v) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Youngest In Charge](https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB) | 3:18 | 2022-02-14 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

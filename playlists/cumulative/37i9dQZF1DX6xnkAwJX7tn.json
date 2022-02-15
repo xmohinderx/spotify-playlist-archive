@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-13",
   "description": "The biggest party hits of the 1980s. ",
   "name": "80s Party",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3kB1Lk0bVGYiyyetIIpGyo"
+  ],
   "tracks": [
     {
       "album": {
@@ -75,7 +77,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 264253,
       "name": "A Kind Of Magic - Remastered 2011",
       "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
@@ -177,7 +179,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 285573,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/3LvwBSqRXnDeTFqxxQcBBY"
@@ -249,10 +251,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 227493,
       "name": "Annie, I'm Not Your Daddy",
       "url": "https://open.spotify.com/track/5paJLghWSGmEf6sY7LeYel"
+    },
+    {
+      "album": {
+        "name": "Body Wishes",
+        "url": "https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2021-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283493,
+      "name": "Baby Jane - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
     },
     {
       "album": {
@@ -267,7 +287,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 235506,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5AM6VOkN7ficA2O04f5JG1"
@@ -321,7 +341,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 320893,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/2vtIfsm5Qz21bqsHyARoLp"
@@ -343,6 +363,24 @@
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "album": {
+        "name": "Mecca For Moderns",
+        "url": "https://open.spotify.com/album/1Yvtmq4IVXZoLFSLsNZXVb"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222160,
+      "name": "Boy From New York City",
+      "url": "https://open.spotify.com/track/2KGTNgVuEJpcqPhxRCQhSy"
     },
     {
       "album": {
@@ -841,7 +879,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 243695,
       "name": "Gimme Hope Jo'anna",
       "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
@@ -949,7 +987,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 201866,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
@@ -1003,7 +1041,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 357026,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/01lewSOj9ZaXplh9TpNKL4"
@@ -1331,7 +1369,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 193933,
       "name": "If You Let Me Stay",
       "url": "https://open.spotify.com/track/7fPSzZmr3N0hO50JgVIFk4"
@@ -1497,7 +1535,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 205533,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
@@ -1792,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Fascination!",
+        "url": "https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230373,
+      "name": "Mirror Man",
+      "url": "https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4"
+    },
+    {
+      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -1839,7 +1895,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 253413,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/3Uyxe1fbF4zWSEwy38qgMw"
@@ -1911,7 +1967,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
@@ -1947,7 +2003,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 218306,
       "name": "Real Wild Child (Wild One)",
       "url": "https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR"
@@ -2059,7 +2115,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 222189,
       "name": "Robert De Niro's Waiting",
       "url": "https://open.spotify.com/track/0MXpsn1TiYioFpB0CJ7PDX"
@@ -2081,6 +2137,24 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "album": {
+        "name": "Level Best",
+        "url": "https://open.spotify.com/album/43lw3eUmzsmn3YSxUiMY9x"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "Running In The Family - 7\" Version",
+      "url": "https://open.spotify.com/track/1pTqpcvO02DUSzdN85loMZ"
     },
     {
       "album": {
@@ -2553,7 +2627,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 237533,
       "name": "The War Song",
       "url": "https://open.spotify.com/track/4aPvbW6R8BxNgrP53ynb1T"
@@ -2619,6 +2693,24 @@
       "duration_ms": 321106,
       "name": "There Must Be an Angel (Playing with My Heart)",
       "url": "https://open.spotify.com/track/487afb1uhQ0QHTgg5gUJos"
+    },
+    {
+      "album": {
+        "name": "The Best Of Gary U S Bonds",
+        "url": "https://open.spotify.com/album/3VU9nca5z6cELuSXkHzApG"
+      },
+      "artists": [
+        {
+          "name": "Gary U.S. Bonds",
+          "url": "https://open.spotify.com/artist/1Qw8MHpjYxm9Xf0O1ZfPiX"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "This Little Girl",
+      "url": "https://open.spotify.com/track/2Go3GgCcMjtZVdLUo2CI63"
     },
     {
       "album": {
@@ -2785,7 +2877,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 184746,
       "name": "Use It Up and Wear It Out - Radio Version",
       "url": "https://open.spotify.com/track/5lm46pyP9yPmoAJnHjgXuW"
@@ -2983,7 +3075,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 273773,
       "name": "You Came",
       "url": "https://open.spotify.com/track/4EA4ybyDidKtkER5IhasZe"

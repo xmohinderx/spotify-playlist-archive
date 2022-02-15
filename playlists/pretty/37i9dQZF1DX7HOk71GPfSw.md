@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> hyperpop is a simulation\. Cover: quinn
+> hyperpop is a community\. Cover: quinn
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,629 likes - 178 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,252 likes - 178 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 177 | [hey prentiss](https://open.spotify.com/track/2mIW33L1ycl9oqBAlkmO7l) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/38KlL9hDNslKeFJ2A0pKXC) | 2:11 |
 | 178 | [Chandeliers, Bullets and Guns](https://open.spotify.com/track/6jX7oIyuu6wVT5nzdyeAra) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Chandeliers, Bullets and Guns](https://open.spotify.com/album/008Bi2In642wqnuTjEee7Y) | 2:48 |
 
-Snapshot ID: `MTY0NDU5NDkyMSwwMDAwMDEyNjAwMDAwMTdlZTk3ZjAxZTgwMDAwMDE3ZWU5N2VjOTc0`
+Snapshot ID: `MTY0NDg1ODA1MiwwMDAwMDEyODAwMDAwMTdlZjkyZTEwNzcwMDAwMDE3ZWU5N2VjOTc0`

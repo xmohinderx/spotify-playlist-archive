@@ -163,7 +163,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 197786,
       "name": "Alone but Not Alone",
       "url": "https://open.spotify.com/track/5L4FNK53OR0qlZHcZBtosH"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 182152,
       "name": "Backpush",
       "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 175066,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/5ZmzCsLLu605RHTFqeKmop"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 257173,
       "name": "Capable",
       "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 265995,
       "name": "Cosmic Dancer",
       "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
@@ -1303,6 +1303,24 @@
       "duration_ms": 278373,
       "name": "Dirty Paws",
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
+    },
+    {
+      "album": {
+        "name": "Disposable",
+        "url": "https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217461,
+      "name": "Disposable",
+      "url": "https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p"
     },
     {
       "album": {
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 245839,
       "name": "Everything Changed",
       "url": "https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 86831,
       "name": "Full Moon Song",
       "url": "https://open.spotify.com/track/0TRcc2XjMxg8SVKp903qz6"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 296111,
       "name": "If Something Breaks",
       "url": "https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN"
@@ -2979,7 +2997,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 165213,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/0uyzIps7qIdNKOVIvR6Ex0"
@@ -3123,7 +3141,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 261440,
       "name": "I\u2019m A Stranger Now",
       "url": "https://open.spotify.com/track/5hgSvHM38XZZWTok1Eh84o"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 269083,
       "name": "Letter to Madeline",
       "url": "https://open.spotify.com/track/5dlRfWgS04e8n5oVbLJ7Q8"
@@ -3535,7 +3553,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 151906,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37"
@@ -3727,7 +3745,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
@@ -3799,7 +3817,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 243733,
       "name": "More I See",
       "url": "https://open.spotify.com/track/58iT2lT6yiTwJyN8zlXrKt"
@@ -4117,7 +4135,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 175357,
       "name": "Not Like It Was",
       "url": "https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5"
@@ -4333,7 +4351,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 244120,
       "name": "Our Remains",
       "url": "https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii"
@@ -4531,7 +4549,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 239733,
       "name": "Prospector's Blues",
       "url": "https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc"
@@ -4621,7 +4639,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 215586,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/6rwIEjx7CDIMddi9FYrKQt"
@@ -4675,7 +4693,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
@@ -5281,7 +5299,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 298466,
       "name": "Stay Wild",
       "url": "https://open.spotify.com/track/0wztvDKDM90ud9lji1acWc"
@@ -5317,7 +5335,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 203673,
       "name": "Still",
       "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
@@ -5639,7 +5657,7 @@
       ],
       "date_added": "2019-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 205948,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/1WyEIbcYvdHkovLGTGEQu7"
@@ -6443,7 +6461,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/4oe1xMMvznxdsrSKx2jL6w"
@@ -6479,7 +6497,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 229720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"

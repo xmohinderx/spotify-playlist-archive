@@ -541,7 +541,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 297466,
       "name": "Got It Goin' On",
       "url": "https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 262360,
       "name": "I Know Somethin (Bout You)",
       "url": "https://open.spotify.com/track/358XBWJ3pa71P4U89v393N"
@@ -635,6 +635,32 @@
       "duration_ms": 216733,
       "name": "John The Fisherman",
       "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Chali 2na",
+          "url": "https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293875,
+      "name": "Justice 2020",
+      "url": "https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J"
     },
     {
       "album": {
@@ -721,7 +747,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 195706,
       "name": "Movies",
       "url": "https://open.spotify.com/track/0DVxWV6V1nWa7Ml68Frd3D"
@@ -815,6 +841,48 @@
       "duration_ms": 216733,
       "name": "Pets",
       "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
+    },
+    {
+      "album": {
+        "name": "Feed the Wolf",
+        "url": "https://open.spotify.com/album/721D2mVjM26irnIos8qL6Y"
+      },
+      "artists": [
+        {
+          "name": "Miss Velvet and the Blue Wolf",
+          "url": "https://open.spotify.com/artist/4BN7XfgaoYfXuwwZk5Bd0z"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Miss Velvet",
+          "url": "https://open.spotify.com/artist/69dhX9UsXOSbt9gjxv1wAZ"
+        },
+        {
+          "name": "Nick Carbone",
+          "url": "https://open.spotify.com/artist/7KgTvOst3yl6Ec8mX7IICZ"
+        },
+        {
+          "name": "Constance Hauman",
+          "url": "https://open.spotify.com/artist/7nC3KBioN9j5rW7NnO8Tjc"
+        },
+        {
+          "name": "James Jones",
+          "url": "https://open.spotify.com/artist/3smWt8mx56gpWWxXTO3lr3"
+        },
+        {
+          "name": "Henry Ott",
+          "url": "https://open.spotify.com/artist/6dvid0Q11DXNyBHHZku14g"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287439,
+      "name": "Phat Blunt",
+      "url": "https://open.spotify.com/track/1PD0lIuQku2P5xxJ1XVUxY"
     },
     {
       "album": {
@@ -1229,7 +1297,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 262373,
       "name": "Truth'll Set You Free",
       "url": "https://open.spotify.com/track/1U3jCQJNm86HQh04TWqdFD"

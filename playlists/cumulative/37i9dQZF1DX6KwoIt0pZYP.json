@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "B",
+        "url": "https://open.spotify.com/album/1oa0yAgQb7U76deNPnzN06"
+      },
+      "artists": [
+        {
+          "name": "GJ",
+          "url": "https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh"
+        },
+        {
+          "name": "Cantika Abigail",
+          "url": "https://open.spotify.com/artist/4cqipNDGUMbuHZaS9WNFZ3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192490,
+      "name": "2am Calls",
+      "url": "https://open.spotify.com/track/3h0IvDPAvhhKkO7OlvK4No"
+    },
+    {
+      "album": {
         "name": "A Little Bit Patient",
         "url": "https://open.spotify.com/album/5KQKBocUoSXhXpqHVvUNzJ"
       },
@@ -55,7 +77,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 207399,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/7pNVvWVYZd0ivOBIXK8gH3"
@@ -167,7 +189,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "baggage",
       "url": "https://open.spotify.com/track/1S0JzPuqUbCw3Jd14fGn2b"
@@ -185,7 +207,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 175853,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 176809,
       "name": "Cheap Love",
       "url": "https://open.spotify.com/track/0DKeUso39D9UiVKqApXeNJ"
@@ -435,7 +457,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 178726,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT"
@@ -471,7 +493,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 159906,
       "name": "cold these days",
       "url": "https://open.spotify.com/track/63iD8vONVMBVvxR02dSzoE"
@@ -547,7 +569,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
@@ -627,6 +649,24 @@
       "duration_ms": 239307,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1wcKxD2fwxu0yK5SGqVJNo"
+    },
+    {
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/5WcH7hKHsz8C5rIjTa11ZP"
+      },
+      "artists": [
+        {
+          "name": "Dialog Senja",
+          "url": "https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228887,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3RCFh2ThOaWvDTiMLetFrQ"
     },
     {
       "album": {
@@ -949,7 +989,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 184545,
       "name": "Grow Old",
       "url": "https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf"
@@ -1007,10 +1047,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 187131,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
+    },
+    {
+      "album": {
+        "name": "The Hidden Tapes Vol.1",
+        "url": "https://open.spotify.com/album/5l8IfjjACyFafN13tfLjoX"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227529,
+      "name": "heartless",
+      "url": "https://open.spotify.com/track/0mnu1aFfyVpsGdYa1MfNuZ"
     },
     {
       "album": {
@@ -1138,6 +1196,28 @@
     },
     {
       "album": {
+        "name": "ALOUD",
+        "url": "https://open.spotify.com/album/1HxFcSDsWlNpQ6u8uQKjJR"
+      },
+      "artists": [
+        {
+          "name": "Daren Yuen",
+          "url": "https://open.spotify.com/artist/21HHwOv8DoFCVtBhZtzGzU"
+        },
+        {
+          "name": "Paul Neo",
+          "url": "https://open.spotify.com/artist/2IdHVYOkkpOy1IBIaUt11h"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258565,
+      "name": "I CAN'T JUST",
+      "url": "https://open.spotify.com/track/7BYWVyOkU0THnI6B81XdjO"
+    },
+    {
+      "album": {
         "name": "I Don't Like How Much I Like You",
         "url": "https://open.spotify.com/album/3ae8vmYLjucBzAXPn9VRsH"
       },
@@ -1185,7 +1265,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 184624,
       "name": "I Miss U",
       "url": "https://open.spotify.com/track/3r40QKuIBpo9b9Wv4PTkdQ"
@@ -1203,7 +1283,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 176000,
       "name": "i'm having a hard time being myself",
       "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
@@ -1221,7 +1301,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "IF I DIE ALONE",
       "url": "https://open.spotify.com/track/7cpK40AM4MOFsQdDSTYqda"
@@ -1359,7 +1439,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 221538,
       "name": "kodak",
       "url": "https://open.spotify.com/track/4DCa5XDAMffNCB3SN79YhB"
@@ -1431,7 +1511,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 170215,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/4GvPsXWhlf4VhudJwDQtZT"
@@ -1547,7 +1627,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 169386,
       "name": "Moments",
       "url": "https://open.spotify.com/track/4nDP8MKs3nv0laTOZi2r3r"
@@ -1747,7 +1827,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 193548,
       "name": "Pause + Reset",
       "url": "https://open.spotify.com/track/52mKGhgm1VQiGIkos3EFY6"
@@ -1819,7 +1899,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 160513,
       "name": "Precious",
       "url": "https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog"
@@ -1855,7 +1935,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 145000,
       "name": "Reality",
       "url": "https://open.spotify.com/track/6aYcwXnv9pKkc75yKnlUSv"
@@ -1967,7 +2047,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 214124,
       "name": "Solace",
       "url": "https://open.spotify.com/track/237S0tOk45SdG23Oh0bZBA"
@@ -2091,7 +2171,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 232997,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/0aptQ4wSF199jEdKpc6zbY"
@@ -2149,7 +2229,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 289618,
       "name": "That XX - Spotify Singles",
       "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
@@ -2167,7 +2247,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
@@ -2457,7 +2537,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "what are we?",
       "url": "https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1"
@@ -2511,7 +2591,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 273013,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/0ZOPiQDN9XoSXUjcink66H"
@@ -2547,7 +2627,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 157094,
       "name": "worst of me",
       "url": "https://open.spotify.com/track/1gfoaJKL6eZDr4w7lyboHc"
@@ -2605,7 +2685,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 95258,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/5qTX2Fi8nyg4CRbJgHpkMG"
@@ -2623,7 +2703,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 291052,
       "name": "you look so beautiful",
       "url": "https://open.spotify.com/track/1J5xz1F0BvYRJTpOJdXHJo"
@@ -2641,7 +2721,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 162500,
       "name": "you should have said so",
       "url": "https://open.spotify.com/track/5WodEIKkgtFPmfqSB7Ve8e"

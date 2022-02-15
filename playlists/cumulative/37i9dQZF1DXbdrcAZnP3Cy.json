@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-13",
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
   "name": "Mexican Party Anthems",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1Hm9a0lVPB1DfYDmLo3qLD"
+  ],
   "tracks": [
     {
       "album": {
@@ -253,7 +255,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 177053,
       "name": "Cahuates, Pistaches",
       "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
@@ -567,7 +569,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 215693,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5a8mxYdCPqyxg5IoRMMklp"
@@ -748,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos \"Reinas Y Brujas\"",
         "url": "https://open.spotify.com/album/5PMBXQeWRQgGBXfzSaYNIn"
       },
@@ -759,7 +779,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/7Eo1JOdPvYYZqveKzXh8pN"
@@ -1033,7 +1053,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 188333,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
@@ -1170,6 +1190,24 @@
     },
     {
       "album": {
+        "name": "Vida Sinaloense",
+        "url": "https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177346,
+      "name": "Mu\u00e9veme el Pollo",
+      "url": "https://open.spotify.com/track/2gnuSmoVQu8Xqi3DecCpaX"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne"
       },
@@ -1235,7 +1273,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
@@ -1611,6 +1649,24 @@
       "duration_ms": 164026,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA"
+    },
+    {
+      "album": {
+        "name": "Un Fin en Culiac\u00e1n - Single",
+        "url": "https://open.spotify.com/album/3UAfYtXQN6Nu7FczOUCiFW"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154540,
+      "name": "Un Fin en Culiacan",
+      "url": "https://open.spotify.com/track/0JTq2Zh8PQsIj0gqxnM7SY"
     },
     {
       "album": {

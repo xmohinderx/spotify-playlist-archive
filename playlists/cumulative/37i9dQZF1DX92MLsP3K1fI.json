@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "03:11",
+        "url": "https://open.spotify.com/album/7a53Fyho32g5sRYgzOgfr1"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171644,
+      "name": "03:11",
+      "url": "https://open.spotify.com/track/2AZimGGkhTrl2OVVjVRbwN"
+    },
+    {
+      "album": {
         "name": "11 Con 11",
         "url": "https://open.spotify.com/album/4wRqySjpJook4XozbCYS9S"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 163960,
       "name": "180 km/h",
       "url": "https://open.spotify.com/track/2HPpMmhV0pekb9FnH7VnAY"
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 194262,
       "name": "A Un Paso De La Luna - Remix",
       "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
@@ -169,7 +187,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 208636,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6vmhP1NKDIFT79gpz7Anzl"
@@ -307,10 +325,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 160513,
       "name": "Casita de Playa",
       "url": "https://open.spotify.com/track/1c7GIhlw4PW1jTrw8k9nXf"
+    },
+    {
+      "album": {
+        "name": "Como En El Cine",
+        "url": "https://open.spotify.com/album/0c3RX7proUtcTvEgjPKwnq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Gatti",
+          "url": "https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167236,
+      "name": "Como En El Cine",
+      "url": "https://open.spotify.com/track/6oet3uq5G8fNAluSkpubju"
     },
     {
       "album": {
@@ -343,7 +379,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 150461,
       "name": "Crayola",
       "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
@@ -477,7 +513,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 187720,
       "name": "Exclusivos",
       "url": "https://open.spotify.com/track/53NibtEaqljnpqjTRh3oNQ"
@@ -499,7 +535,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 185345,
       "name": "Feelin\u2019 U",
       "url": "https://open.spotify.com/track/2CHnGGcS7pO8SnaprKdjog"
@@ -517,7 +553,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 170253,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
@@ -539,6 +575,24 @@
       "duration_ms": 148149,
       "name": "Fue Lindo",
       "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
+    },
+    {
+      "album": {
+        "name": "Hola, \u00bfQu\u00e9 Tal?",
+        "url": "https://open.spotify.com/album/3k9BginlCEQlACX95UdAme"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1tima Pinto",
+          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168682,
+      "name": "Hola, \u00bfQu\u00e9 Tal?",
+      "url": "https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx"
     },
     {
       "album": {
@@ -619,7 +673,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 167346,
       "name": "Las Olas",
       "url": "https://open.spotify.com/track/14fD8g1pDkKe2c4RCz5wcs"
@@ -663,6 +717,28 @@
       "duration_ms": 166015,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2yPjrueRrY4svAPIxwLH6P"
+    },
+    {
+      "album": {
+        "name": "Mal Acompa\u00f1ada",
+        "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
+      },
+      "artists": [
+        {
+          "name": "Martinez",
+          "url": "https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy"
+        },
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201496,
+      "name": "Mal Acompa\u00f1ada",
+      "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
     },
     {
       "album": {
@@ -791,7 +867,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 145269,
       "name": "Mi Soledad",
       "url": "https://open.spotify.com/track/5YpuWisXx6bCrZ6jNBZTqT"
@@ -903,7 +979,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 190489,
       "name": "Nadie Te Entiende",
       "url": "https://open.spotify.com/track/3UMJzfw9Fq4gXnrJ0eCdM1"
@@ -929,6 +1005,24 @@
       "duration_ms": 229144,
       "name": "No Eres T\u00fa",
       "url": "https://open.spotify.com/track/4GStP9aSm7eAR6Q2ltRlum"
+    },
+    {
+      "album": {
+        "name": "No Es Mi Culpa",
+        "url": "https://open.spotify.com/album/1ncVCtS5Mhw26G4hBUj2OX"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168062,
+      "name": "No Es Mi Culpa",
+      "url": "https://open.spotify.com/track/6u8WHBY1SRLHQk2fXiA879"
     },
     {
       "album": {
@@ -965,7 +1059,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 158736,
       "name": "No Seas As\u00ed",
       "url": "https://open.spotify.com/track/502dC2IZ0seREbTF6OhBOQ"
@@ -1070,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Prezea",
+        "url": "https://open.spotify.com/album/56GTiqI6vHTARWl7nkGusX"
+      },
+      "artists": [
+        {
+          "name": "Las Prez",
+          "url": "https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/0CukGWJFEpaiQYic5R1iMq"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n lo dir\u00eda",
         "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
       },
@@ -1085,7 +1197,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 159497,
       "name": "Qui\u00e9n lo dir\u00eda",
       "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
@@ -1132,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "Shot de Tequila",
+        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211809,
+      "name": "Shot de Tequila",
+      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
+    },
+    {
+      "album": {
         "name": "Shot Shot",
         "url": "https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF"
       },
@@ -1161,7 +1291,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 172266,
       "name": "Si Ella Se Va",
       "url": "https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf"
@@ -1205,7 +1335,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 218666,
       "name": "Sincron\u00eda",
       "url": "https://open.spotify.com/track/1wNsiqRAWRc6xGCOEGv7li"
@@ -1231,7 +1361,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 202574,
       "name": "Solo Qu\u00e9date en Silencio",
       "url": "https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5"
@@ -1285,7 +1415,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 183066,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G"
@@ -1307,6 +1437,28 @@
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "album": {
+        "name": "Te Quieres Ir",
+        "url": "https://open.spotify.com/album/4Ymj7pfgVf3U3mYVSbZ8ZO"
+      },
+      "artists": [
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "GRECIA",
+          "url": "https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216077,
+      "name": "Te Quieres Ir",
+      "url": "https://open.spotify.com/track/5stGwgzM6HeOya3FrXrA5V"
     },
     {
       "album": {
@@ -1391,7 +1543,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 177506,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/2EUBBnxhFBYEvu9cpGQYLU"
@@ -1427,7 +1579,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 182994,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN"
@@ -1467,7 +1619,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 184440,
       "name": "Vamos A Mi Ritmo",
       "url": "https://open.spotify.com/track/4ySt3gOb6ioa2R8C9hlojC"

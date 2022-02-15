@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Priscilla Block
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,645 likes - 147 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,652 likes - 147 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

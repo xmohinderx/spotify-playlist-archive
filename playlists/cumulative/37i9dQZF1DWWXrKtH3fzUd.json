@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-13",
   "description": "Automatic floorfillers. A DJ's best friend.",
   "name": "Floorfillers",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1AA4UMyoniomo3EBnKv1jr"
+  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +183,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 291893,
       "name": "Black Beatles",
       "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"
@@ -809,7 +811,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 199906,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/6RcQOut9fWL6FSqeIr5M1r"
@@ -1201,7 +1203,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 220573,
       "name": "Middle",
       "url": "https://open.spotify.com/track/2Fn3coxd0xAZ09JtrgcgHa"
@@ -1423,7 +1425,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"

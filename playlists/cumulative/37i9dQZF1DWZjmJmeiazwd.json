@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 198204,
       "name": "11:11 - Radio Edit",
       "url": "https://open.spotify.com/track/3hTpoe9foSCDu6NS0vlHQS"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 191986,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/21qKs2K0O9MCK9qVeHpEO0"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 231106,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
@@ -2198,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Run For Cover",
+        "url": "https://open.spotify.com/album/6KbQgKUciqXi0qb2AEOfPQ"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2020-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/03YoRDLmG333y0ORu2D5A4"
+    },
+    {
+      "album": {
         "name": "Young Beauties and Fools",
         "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
       },
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA"
@@ -3173,7 +3191,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 256240,
       "name": "Youth of the Nation",
       "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"

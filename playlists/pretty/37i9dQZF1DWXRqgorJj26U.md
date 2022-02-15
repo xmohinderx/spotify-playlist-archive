@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs spanning decades, that continue to inspire generations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,013,213 likes - 175 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,015,875 likes - 175 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

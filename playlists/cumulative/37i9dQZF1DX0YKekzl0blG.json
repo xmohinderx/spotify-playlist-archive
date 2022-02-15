@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 193120,
       "name": "1901",
       "url": "https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/19503qDaxgCdPL2BhJngij"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/1KbagD47zTS1PnmS8iKPIK"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 158280,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/6vluCORdF8bV6zhXfKyKBp"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Do You Want To",
       "url": "https://open.spotify.com/track/09TpJe9jnom4mB2DDhZKkB"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 205213,
       "name": "Golden Touch - Full Length",
       "url": "https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 185266,
       "name": "Graffiti",
       "url": "https://open.spotify.com/track/7mS5J9JuB4mo6VgvUj0fDZ"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 192311,
       "name": "Nobody Move, Nobody Get Hurt",
       "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 201800,
       "name": "On Call",
       "url": "https://open.spotify.com/track/33YXSNBTg2KvbGur2E1XUw"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 232360,
       "name": "Rabbit Heart (Raise It Up)",
       "url": "https://open.spotify.com/track/4CqwfZVFedGhoVnYeAiaRH"
@@ -2111,7 +2111,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 222320,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/17DjxJJG1NHXg1VatxfFfU"
@@ -2475,6 +2475,24 @@
       "duration_ms": 278719,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/2f14Vwn28w1soYnolluueL"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265786,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1nR7LdvSAzT3LEHdWrUCt9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0YKekzl0blG"

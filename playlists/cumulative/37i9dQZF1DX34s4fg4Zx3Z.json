@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 c\u00e1c b\u00e0i h\u00e1t \u0111\u00e1ng nghe t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Winno; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 c\u00e1c b\u00e0i h\u00e1t \u0111\u00e1ng nghe t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Richie D. ICY; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "published_playlist_ids": [
     "11aHcAYmUYTKlrRmUuqYoO"
@@ -151,6 +151,24 @@
       "duration_ms": 206120,
       "name": "Anh S\u1ebd \u0110\u01b0a Em V\u1ec1",
       "url": "https://open.spotify.com/track/0TZJO7iOrtOpDOoOmiHwV4"
+    },
+    {
+      "album": {
+        "name": "Anh S\u1ebd \u0110\u1ec3 Em \u0110i",
+        "url": "https://open.spotify.com/album/1XQsi4edMX7xF9gbdoKI0s"
+      },
+      "artists": [
+        {
+          "name": "Kidz",
+          "url": "https://open.spotify.com/artist/6wZ01tGqWDyJ6vykbeaIFA"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96966,
+      "name": "Anh S\u1ebd \u0110\u1ec3 Em \u0110i",
+      "url": "https://open.spotify.com/track/2N8RSAhMMQgNUd5XcPYTC9"
     },
     {
       "album": {
@@ -519,7 +537,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 271864,
       "name": "C\u00e2u H\u1ee9a Ch\u01b0a V\u1eb9n Tr\u00f2n",
       "url": "https://open.spotify.com/track/7gwogHFBjQRjIAEqFgGfAk"
@@ -1436,7 +1454,7 @@
         },
         {
           "name": "N.A",
-          "url": "https://open.spotify.com/artist/1MPxYgFFkICLuxyYGxGvGn"
+          "url": "https://open.spotify.com/artist/3uZtIF93VSrFtkSKs6y0Yj"
         }
       ],
       "date_added": "2022-01-06",
@@ -2082,6 +2100,28 @@
     },
     {
       "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/7A6xNrC7cXNry39OdrCOr1"
+      },
+      "artists": [
+        {
+          "name": "Daduc",
+          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
+        },
+        {
+          "name": "Kiper T",
+          "url": "https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/5VvlK5HdqZTNdEVkZfPifI"
+    },
+    {
+      "album": {
         "name": "Qu\u1ea5n L\u1ea5y Nhau",
         "url": "https://open.spotify.com/album/3fJaAqw6hWal148lRFJmzp"
       },
@@ -2101,7 +2141,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 199603,
       "name": "Qu\u1ea5n L\u1ea5y Nhau",
       "url": "https://open.spotify.com/track/2vyVEglcS4DjQxvSq19Wha"
@@ -2145,10 +2185,28 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 191328,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/6Avp5CoeXEzoaE1jpbhLSs"
+    },
+    {
+      "album": {
+        "name": "Rolling",
+        "url": "https://open.spotify.com/album/4iB73n0vVBKhMHK32GtYHc"
+      },
+      "artists": [
+        {
+          "name": "Richie D. ICY",
+          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191328,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/7lCIPZCXGkm7xXRRLUwn14"
     },
     {
       "album": {
@@ -2524,6 +2582,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00f2 Chuy\u1ec7n C\u00f9ng K\u00fd \u1ee8c",
+        "url": "https://open.spotify.com/album/0ipmbHJLM8ywnGzqYYsr3W"
+      },
+      "artists": [
+        {
+          "name": "Pham Minh Thanh",
+          "url": "https://open.spotify.com/artist/1Lwn6T7n3PbLW0UjTLRL8S"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239860,
+      "name": "Tr\u00f2 Chuy\u1ec7n C\u00f9ng K\u00fd \u1ee8c",
+      "url": "https://open.spotify.com/track/4SxAv4WLzharoQSy6rBO9Y"
+    },
+    {
+      "album": {
         "name": "#Tr\u1ea7m",
         "url": "https://open.spotify.com/album/27eHKx4Ul50YQlc8IuwmhB"
       },
@@ -2847,7 +2923,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 166893,
       "name": "\u0110i Qua Th\u0103ng Tr\u1ea7m",
       "url": "https://open.spotify.com/track/3Z9JUQEyzAAJiBR1mQtZf9"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: Emma Bale",
+  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: sor",
   "name": "RADAR BNLX",
   "published_playlist_ids": [
     "5PI9N3InPPtYz6UBLMEA8w"
@@ -917,6 +917,24 @@
       "duration_ms": 241133,
       "name": "You Were in My Dream Last Night",
       "url": "https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU"
+    },
+    {
+      "album": {
+        "name": "Zo Zijn",
+        "url": "https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192878,
+      "name": "Zo Zijn",
+      "url": "https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe"

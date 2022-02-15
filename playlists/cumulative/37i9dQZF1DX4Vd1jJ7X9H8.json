@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-13",
   "description": "it's not just an indie kid with an aux, it's *chic*",
   "name": "Soir\u00e9e",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7nowwmXF5288KAzDDzHkBy"
+  ],
   "tracks": [
     {
       "album": {
@@ -101,7 +103,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 210674,
       "name": "Automatic Driver - Tyler, The Creator Remix",
       "url": "https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j"
@@ -166,6 +168,24 @@
     },
     {
       "album": {
+        "name": "SATURATION III",
+        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2020-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273151,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
+    },
+    {
+      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -195,7 +215,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
@@ -343,7 +363,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 164605,
       "name": "damn Right",
       "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
@@ -365,7 +385,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
@@ -485,7 +505,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 336659,
       "name": "FANTAZIA",
       "url": "https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM"
@@ -525,7 +545,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 199006,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
@@ -663,7 +683,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 217813,
       "name": "Go To Town",
       "url": "https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd"
@@ -739,7 +759,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 157372,
       "name": "Helen",
       "url": "https://open.spotify.com/track/5cVHcVHyFPQkG0BpJfx7Yx"
@@ -775,7 +795,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 195999,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/2a7A7T4zjoK1UxzlMLsAzQ"
@@ -921,7 +941,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
@@ -957,7 +977,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 187466,
       "name": "Krunk",
       "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
@@ -1019,7 +1039,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 134453,
       "name": "Lightwork",
       "url": "https://open.spotify.com/track/2eGJ01RM1pMZS3vAJJW0g8"
@@ -1081,7 +1101,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 408800,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf"
@@ -1139,6 +1159,28 @@
       "duration_ms": 210004,
       "name": "Naked",
       "url": "https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/1dUrO46Kk7VZW91AM6zTKT"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5"
     },
     {
       "album": {
@@ -1265,7 +1307,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 172831,
       "name": "Right Where You Like",
       "url": "https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql"
@@ -1294,6 +1336,24 @@
     },
     {
       "album": {
+        "name": "Are You Living In The Real World? - EP",
+        "url": "https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125689,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3GYZRYEqrXzl5iwxO42c2H"
+    },
+    {
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB"
       },
@@ -1313,7 +1373,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP"
@@ -1397,7 +1457,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 206586,
       "name": "Silk Chiffon (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
@@ -1543,7 +1603,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 208946,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"

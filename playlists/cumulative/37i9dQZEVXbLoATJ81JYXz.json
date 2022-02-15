@@ -804,6 +804,24 @@
     },
     {
       "album": {
+        "name": "Bananas",
+        "url": "https://open.spotify.com/album/3r787DN4WLdR9KPZVZl9m3"
+      },
+      "artists": [
+        {
+          "name": "Malou Prytz",
+          "url": "https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153716,
+      "name": "Bananas",
+      "url": "https://open.spotify.com/track/52DKkQDdw0VjvoHbIDkLmF"
+    },
+    {
+      "album": {
         "name": "Barn av v\u00e5r tid",
         "url": "https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm"
       },
@@ -3194,6 +3212,24 @@
     },
     {
       "album": {
+        "name": "Face in the Crowd",
+        "url": "https://open.spotify.com/album/0FOmYhrl1VjOowORktmh9B"
+      },
+      "artists": [
+        {
+          "name": "Browsing Collection",
+          "url": "https://open.spotify.com/artist/4ryoVY6Gmwve1PXyNtbDSC"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169669,
+      "name": "Face in the Crowd",
+      "url": "https://open.spotify.com/track/7DGVg2d7TnFty4tDNNaE6B"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -3535,7 +3571,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 195141,
       "name": "Fl\u00e4ta/Inte mitt krig",
       "url": "https://open.spotify.com/track/0QovRRlEC2IiM8UXlBKhIS"
@@ -5294,6 +5330,24 @@
     },
     {
       "album": {
+        "name": "I Want to Be Loved",
+        "url": "https://open.spotify.com/album/5akJMoN3SpKG2A10tiixVD"
+      },
+      "artists": [
+        {
+          "name": "Samira Manners",
+          "url": "https://open.spotify.com/artist/3kdwcdgnO8ocKNeFr31F9v"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "I Want to Be Loved",
+      "url": "https://open.spotify.com/track/4e5rqBjv4NfpVEeyMuWzFT"
+    },
+    {
+      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
       },
@@ -5469,7 +5523,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 196311,
       "name": "Ingen luft mellan oss",
       "url": "https://open.spotify.com/track/0GYIbrTtgj7iLKJJo1ol6c"
@@ -6919,7 +6973,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 173854,
       "name": "Lose my mind",
       "url": "https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e"
@@ -7825,7 +7879,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 169717,
       "name": "Moving Like That",
       "url": "https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3"
@@ -7909,6 +7963,24 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "album": {
@@ -8335,7 +8407,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
@@ -9689,7 +9761,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
@@ -10568,6 +10640,24 @@
     },
     {
       "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/3QXPxSvxFw7c4Pjwrt9mGD"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Estrella",
+          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5Jh0GuUTOa4ElVvBcbiRfx"
+    },
+    {
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -10945,7 +11035,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 161739,
       "name": "TALLRIKAR",
       "url": "https://open.spotify.com/track/5zjNDusjYWILUVJ3yV6XZK"
@@ -11083,7 +11173,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -11501,6 +11591,28 @@
       "duration_ms": 148965,
       "name": "TROLLKARLEN",
       "url": "https://open.spotify.com/track/5NhTe17C9qIdm3PKIZAaKr"
+    },
+    {
+      "album": {
+        "name": "Tror du att jag bryr mig",
+        "url": "https://open.spotify.com/album/2pY1J0B58xa7ZcLWiFLIqD"
+      },
+      "artists": [
+        {
+          "name": "Niello",
+          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
+        },
+        {
+          "name": "Lisa Ajax",
+          "url": "https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175513,
+      "name": "Tror du att jag bryr mig",
+      "url": "https://open.spotify.com/track/1E2reoDjfG9W2LgeZE0wrJ"
     },
     {
       "album": {

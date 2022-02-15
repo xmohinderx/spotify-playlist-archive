@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Maashar Al Oshag",
+        "url": "https://open.spotify.com/album/1nPZkWEX3bXgzfAlynB4LQ"
+      },
+      "artists": [
+        {
+          "name": "Abdulaziz Louis",
+          "url": "https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239573,
+      "name": "Gheyabi",
+      "url": "https://open.spotify.com/track/3D930igQ3knkLavFFPyijR"
+    },
+    {
+      "album": {
         "name": "Haki Jareh",
         "url": "https://open.spotify.com/album/0xIPVNzOXEp9GhpvKR2qBx"
       },
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 204800,
       "name": "Mo Eisha Haya",
       "url": "https://open.spotify.com/track/1oaD9qOBx3jQPlmOJamnWN"

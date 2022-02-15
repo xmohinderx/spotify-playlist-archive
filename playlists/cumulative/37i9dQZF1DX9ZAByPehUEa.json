@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-13",
   "description": "A happy place.",
   "name": "DISCOLAND",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2xSdTSz706asFMv9nAL1iO"
+  ],
   "tracks": [
     {
       "album": {
@@ -47,7 +49,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 205645,
       "name": "All 4 Love (feat. Tasty Lopez)",
       "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
@@ -69,7 +71,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 171428,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70"
@@ -201,10 +203,36 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 149760,
       "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
       "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
+    },
+    {
+      "album": {
+        "name": "Biscayne Lady",
+        "url": "https://open.spotify.com/album/61pCikDM91BMm3xNvv8Umo"
+      },
+      "artists": [
+        {
+          "name": "Odd Ones Out",
+          "url": "https://open.spotify.com/artist/6qjxM9NBYzEUpMecMM5tN5"
+        },
+        {
+          "name": "Coupe Melba",
+          "url": "https://open.spotify.com/artist/3rAzsXFvn46j3Mjm77Ew3u"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198601,
+      "name": "Biscayne Lady",
+      "url": "https://open.spotify.com/track/4R18x7sEMFdiCjaYzflCWu"
     },
     {
       "album": {
@@ -219,7 +247,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
@@ -267,7 +295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 422423,
       "name": "Demba - Demi Riqu\u00edsimo Remix",
       "url": "https://open.spotify.com/track/5YWYvr0ecvcz9kYpYa7xID"
@@ -395,7 +423,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 213387,
       "name": "Everything's Gonna Be Alright (feat. London Community Gospel Choir)",
       "url": "https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte"
@@ -482,6 +510,32 @@
     },
     {
       "album": {
+        "name": "Golden Gai",
+        "url": "https://open.spotify.com/album/38jp5a9VB8PAaeN5B4PGWW"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Jonoa",
+          "url": "https://open.spotify.com/artist/5LQIuS4eO4Gx8Nc2qCXhAl"
+        },
+        {
+          "name": "Rachel Shirley",
+          "url": "https://open.spotify.com/artist/5Hy4oRldFJc1zGOOrmjW0r"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352909,
+      "name": "Golden Gai",
+      "url": "https://open.spotify.com/track/2MWelWRLL1iYXlFAvAL8Km"
+    },
+    {
+      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/2HiCO9dQGz0zjzLn9vNajB"
       },
@@ -537,7 +591,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 243779,
       "name": "Hard To Find - Girls of the Internet Remix - Short Edit",
       "url": "https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw"
@@ -577,7 +631,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 500063,
       "name": "Hello Echo",
       "url": "https://open.spotify.com/track/58lrRLt4Unnb2PYtu6n1Xl"
@@ -599,10 +653,46 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1QulXWElcwft8HTaHigmtS"
+      },
+      "artists": [
+        {
+          "name": "Bruise",
+          "url": "https://open.spotify.com/artist/1cn4kgfW0aPv3te9YeT54s"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445728,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4xZiMHRjnkQJM71MJ8qHlx"
+    },
+    {
+      "album": {
+        "name": "KEEP MOVING",
+        "url": "https://open.spotify.com/album/2wI5aqAQUmv5mCbPDpV5qC"
+      },
+      "artists": [
+        {
+          "name": "Mohawk & The Kid",
+          "url": "https://open.spotify.com/artist/6M1v0scRlWdJdWkZodcPWg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183434,
+      "name": "KEEP MOVING",
+      "url": "https://open.spotify.com/track/1JYEk9hI37GQJZB2NkLQVH"
     },
     {
       "album": {
@@ -690,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/3BQBl1X24eqrxABaYhwXQH"
+      },
+      "artists": [
+        {
+          "name": "Antenna!",
+          "url": "https://open.spotify.com/artist/1M1JqfU36s2CCNGNCw6Gh4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209743,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/3351bIhasJGEk0yn5A9uLW"
+    },
+    {
+      "album": {
         "name": "Losing Touch",
         "url": "https://open.spotify.com/album/0GfYAzaPprg7myHy4OeemX"
       },
@@ -701,7 +809,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/2ryXP4NxcAPXgE7KPoZ6x4"
@@ -745,10 +853,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
+    },
+    {
+      "album": {
+        "name": "Love You Again (feat. Akua)",
+        "url": "https://open.spotify.com/album/5F3slII7s40r8LCAplnBm8"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Akua",
+          "url": "https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Love You Again (feat. Akua)",
+      "url": "https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8"
     },
     {
       "album": {
@@ -781,7 +911,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 155520,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
@@ -803,7 +933,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
@@ -825,7 +955,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
@@ -847,6 +977,28 @@
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
+    },
+    {
+      "album": {
+        "name": "Moves EP",
+        "url": "https://open.spotify.com/album/3ZkymHWkq4HgtD200354OI"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223537,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
     },
     {
       "album": {
@@ -916,6 +1068,28 @@
     },
     {
       "album": {
+        "name": "Need a Friend?",
+        "url": "https://open.spotify.com/album/2JOtPwrt3AMPw4F4r6Cnwn"
+      },
+      "artists": [
+        {
+          "name": "Another Chemical Love Story",
+          "url": "https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv"
+        },
+        {
+          "name": "MARSKE",
+          "url": "https://open.spotify.com/artist/06f3RfVr0HZzt2Wr79oTHw"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277440,
+      "name": "Need a Friend",
+      "url": "https://open.spotify.com/track/7MTvhUxHavuk1eF1Gsp2E3"
+    },
+    {
+      "album": {
         "name": "No Sleep (Phil Fuldner Remix)",
         "url": "https://open.spotify.com/album/4SOBmq7SrSy0dA5KWFXmo1"
       },
@@ -949,7 +1123,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 323012,
       "name": "No Wait",
       "url": "https://open.spotify.com/track/0drw6GcjPatpfpWSEouVVq"
@@ -967,7 +1141,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 149508,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
@@ -985,7 +1159,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 204878,
       "name": "Oh Yes It Is",
       "url": "https://open.spotify.com/track/0iOCLnMNLEdKF94pk4JBIs"
@@ -1011,10 +1185,36 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2jAaDaQ01dk74X4njfkXP3"
+    },
+    {
+      "album": {
+        "name": "One More (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/73LoqsQ1oSjNi9goNC5QCK"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213387,
+      "name": "One More - Mark Knight Remix \u2013 Edit",
+      "url": "https://open.spotify.com/track/5fboV4lAqb0MC0YPdit8o1"
     },
     {
       "album": {
@@ -1073,7 +1273,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 231031,
       "name": "Playbox",
       "url": "https://open.spotify.com/track/4PyjU6NkpXm78HRNAXg0fk"
@@ -1091,10 +1291,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/6LRy6sA127XQ8Y25aG1mUF"
+      },
+      "artists": [
+        {
+          "name": "Tom Everett",
+          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177971,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/37EKnLlRqJcb8XMgYaAbCL"
     },
     {
       "album": {
@@ -1135,10 +1353,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 335383,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm"
+    },
+    {
+      "album": {
+        "name": "Say U Luv Me",
+        "url": "https://open.spotify.com/album/4PLYvCdeBDApCHZGiOfrQB"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271168,
+      "name": "Say U Luv Me - salute Remix",
+      "url": "https://open.spotify.com/track/7uzMSnGDevJO66l5Y99OmJ"
     },
     {
       "album": {
@@ -1153,10 +1393,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "album": {
+        "name": "Shit Cant Make Anything",
+        "url": "https://open.spotify.com/album/52PiRAX8jw2CtkaEJSLZJr"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193489,
+      "name": "Shit Cant Make Anything",
+      "url": "https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO"
     },
     {
       "album": {
@@ -1171,10 +1429,46 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 218000,
       "name": "Silk Robe",
       "url": "https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8"
+    },
+    {
+      "album": {
+        "name": "Sky's the Limit (Edit)",
+        "url": "https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1"
+      },
+      "artists": [
+        {
+          "name": "Full Intention",
+          "url": "https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163294,
+      "name": "Sky's the Limit - Edit",
+      "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
+    },
+    {
+      "album": {
+        "name": "Sneak Away With Me",
+        "url": "https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Sneak Away With Me",
+      "url": "https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9"
     },
     {
       "album": {
@@ -1200,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "There\u2019s A Nightclub Inside My Head",
+        "url": "https://open.spotify.com/album/0oUyx6mrd0DgFfo1DPMfdz"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356408,
+      "name": "So Good, So Nice, So Bright",
+      "url": "https://open.spotify.com/track/1xR2hDqoEDiFj9VTEo0Y4Q"
+    },
+    {
+      "album": {
         "name": "Solid Gold (feat. bshp)",
         "url": "https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR"
       },
@@ -1215,7 +1527,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 198039,
       "name": "Solid Gold (feat. bshp)",
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
@@ -1325,7 +1637,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"

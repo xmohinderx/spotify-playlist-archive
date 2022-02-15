@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 210706,
       "name": "Asking for It",
       "url": "https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 220324,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/6h7xOKfP9YrusxKWT1jRPr"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 222040,
       "name": "Bite My Tongue",
       "url": "https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 180575,
       "name": "Ce n'est Rien",
       "url": "https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 237906,
       "name": "Check My Brain",
       "url": "https://open.spotify.com/track/795oGw2Zj4uSaiaZRQiKK2"
@@ -1138,6 +1138,28 @@
     },
     {
       "album": {
+        "name": "Imaginary Fire",
+        "url": "https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx"
+      },
+      "artists": [
+        {
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        },
+        {
+          "name": "Greg Puciato",
+          "url": "https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi"
+        }
+      ],
+      "date_added": "2022-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261186,
+      "name": "Imaginary Fire - feat. Greg Puciato",
+      "url": "https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll"
+    },
+    {
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -1323,7 +1345,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 192008,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 174253,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/5hWrXs5idMNnZMPahmsJCY"
@@ -1395,7 +1417,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 233026,
       "name": "Made For More",
       "url": "https://open.spotify.com/track/3QX8M5YOnGwsYLH0EC65oY"
@@ -1853,7 +1875,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 199706,
       "name": "Same Damn Life",
       "url": "https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz"
@@ -2069,7 +2091,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Superblood Wolfmoon",
       "url": "https://open.spotify.com/track/7gQm8pZsxA5eXCZMBGV7CA"
@@ -2459,7 +2481,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 264986,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa"
@@ -2557,7 +2579,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
@@ -2593,7 +2615,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 217826,
       "name": "Young Cardinals",
       "url": "https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr"

@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop classics from Interscope Records. Cover: Eminem",
-  "num_followers": 2457886,
+  "num_followers": 2466959,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDc3MTU1MCwwMDAwMDBjMDAwMDAwMTdlZjQwNjIzZTEwMDAwMDE3ZWMyZWJlNDhm",
+  "snapshot_id": "MTY0NDg2NjQ4OCwwMDAwMDBjMTAwMDAwMTdlZjlhZWM4NmYwMDAwMDE3ZWMyZWJlNDhm",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -199,26 +199,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Kiss Tha Game Goodbye",
-        "url": "https://open.spotify.com/album/0w0pkKJYucpsDacKMKZ3SR"
-      },
-      "artists": [
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "We Gonna Make It",
-      "url": "https://open.spotify.com/track/3FYSNSTUCqAZGfwEd8ui4l"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/7ulHRBCAipnGUHvnIEt59Z"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 310720,
       "name": "Bitch, Don\u2019t Kill My Vibe",
       "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Kiss Tha Game Goodbye",
+        "url": "https://open.spotify.com/album/0w0pkKJYucpsDacKMKZ3SR"
+      },
+      "artists": [
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "We Gonna Make It",
+      "url": "https://open.spotify.com/track/3FYSNSTUCqAZGfwEd8ui4l"
     },
     {
       "added_at": "2022-02-11 05:00:00",

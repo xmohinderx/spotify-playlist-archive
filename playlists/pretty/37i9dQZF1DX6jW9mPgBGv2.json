@@ -1,12 +1,12 @@
 {
   "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Foto: Anuel AA",
-  "num_followers": 76542,
+  "num_followers": 76751,
   "original_name": "FRONTEO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzY4NDgwOSwwMDAwMDAyMjAwMDAwMTdlYjMzZmM5ZGMwMDAwMDE3ZDc4MzBmZGFm",
+  "snapshot_id": "MTY0NDg4MzUwNiwwMDAwMDAyMzAwMDAwMTdlZmFiMjc0YWQwMDAwMDE3ZDc4MzBmZGFm",
   "tracks": [
     {
       "added_at": "2021-12-01 22:51:35",
@@ -151,22 +151,6 @@
     {
       "added_at": "2021-12-01 22:51:35",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/00Ts4S6rOgvh41hUjrrA4T"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 220341,
-      "name": "Leyenda",
-      "url": "https://open.spotify.com/track/0eNe9tTxrXzyoX3DSeJEDN"
-    },
-    {
-      "added_at": "2021-12-01 22:51:35",
-      "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
       },
@@ -203,6 +187,26 @@
       "duration_ms": 227939,
       "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
       "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
+    },
+    {
+      "added_at": "2022-02-15 00:05:06",
+      "album": {
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": "2021-12-01 22:51:35",

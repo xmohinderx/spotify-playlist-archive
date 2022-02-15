@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> ¡Sofía Reyes; Becky G y Karol G; Rauw Alejandro; Ed Sheeran y Taylor Swift; y más!
+> ¡Sofía Reyes; Becky G y KAROL G; Rauw Alejandro; Ed Sheeran y Taylor Swift; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,396 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,449 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 |
 | 50 | [Hate Me If It Helps](https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Hate Me If It Helps](https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk) | 3:14 |
 
-Snapshot ID: `MTY0NDU1OTg0OSwwMDAwMDQwOTAwMDAwMTdlZTc2N2Q3OGQwMDAwMDE3ZWU0NDFkN2Ey`
+Snapshot ID: `MTY0NDg1Nzk4OSwwMDAwMDQwYTAwMDAwMTdlZjkyZDFhNDgwMDAwMDE3ZWU0NDFkN2Ey`

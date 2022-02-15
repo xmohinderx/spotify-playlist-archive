@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZW76Iw4Lij.md) - [plain]
 
 > Medieval music from early Gregorian chants to late Ars Nova\. Secular troubadours and sacred choir music\. Colorful, gothic and beautiful\. Hear music by Wolkenstein, von Bingen, Machaut and Léonin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,095 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,138 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

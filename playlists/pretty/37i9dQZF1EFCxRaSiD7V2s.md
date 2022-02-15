@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 215 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 215 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 36 | [Into Words](https://open.spotify.com/track/10uq7ViVwEavMr7UENvJIn) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:46 |
 | 37 | [Home Away from Home](https://open.spotify.com/track/6wm32QUgErztbOXTQFP0EO) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 4:28 |
 | 38 | [Tail Lights](https://open.spotify.com/track/2kd4ZriypOQLtGsbek2Xmf) | [rüün](https://open.spotify.com/artist/0JC0YtWmlbdFr4BYmmhy1n), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Jon Green](https://open.spotify.com/artist/6zFRLMTS6x3uxRQNVO0LUc) | [Tail Lights](https://open.spotify.com/album/4XmPok1yxi5k5JNYeLBNMd) | 3:10 |
-| 39 | [Clean Break](https://open.spotify.com/track/4sjjeWP3klhoNnpRBK05Ui) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:02 |
-| 40 | [Dungeons and Dragons \- Generationals Remix](https://open.spotify.com/track/5Ji8BG6DxqoxigvwSBsat5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 3:44 |
+| 39 | [Dungeons and Dragons \- Generationals Remix](https://open.spotify.com/track/5Ji8BG6DxqoxigvwSBsat5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 3:44 |
+| 40 | [Clean Break](https://open.spotify.com/track/4sjjeWP3klhoNnpRBK05Ui) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:02 |
 | 41 | [If I Didn't Know](https://open.spotify.com/track/2tEaPaHlQcI7AkVsL4UBUZ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 4:09 |
 | 42 | [What Beats Within](https://open.spotify.com/track/1sjBxLEB2ZPIDFe5fD9zh2) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:55 |
 | 43 | [Why You Fall](https://open.spotify.com/track/4WuC0yxuU6MT71nCgWODRp) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 5:21 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 67 | [Don't Make up Your Mind](https://open.spotify.com/track/3thlN19wkDEcWLVagWN0lO) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [You're Not Alone](https://open.spotify.com/album/1oi5xjtlkmPXiETr0qp67Y) | 2:53 |
 | 68 | [Angel](https://open.spotify.com/track/1aCI3Kp5w1cj2nchSqhU3b) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 3:45 |
 | 69 | [Welcome to the Hellmouth](https://open.spotify.com/track/451CQ4GqhjpTR8LXNJ7cz2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 1:14 |
-| 70 | [Never Kill a Boy on the First Date](https://open.spotify.com/track/76I3bQkyKDsa4MZMursZVB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:24 |
-| 71 | [Skinny Dipping](https://open.spotify.com/track/3YrDgKnTujERLMSqCIX0wD) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 1:54 |
+| 70 | [Skinny Dipping](https://open.spotify.com/track/3YrDgKnTujERLMSqCIX0wD) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 1:54 |
+| 71 | [Never Kill a Boy on the First Date](https://open.spotify.com/track/76I3bQkyKDsa4MZMursZVB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:24 |
 | 72 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 |
 | 73 | [Hush](https://open.spotify.com/track/00iZlS0QNIh7Hzo4N7H5nJ) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [The One AM Radio](https://open.spotify.com/artist/38M4yfT8QisQgpCBdecFeR) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 4:02 |
 | 74 | [Great Big Plans](https://open.spotify.com/track/2PJ0ZEVGQWwtMnUgKW46S7) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Great Big Plans](https://open.spotify.com/album/2fMST4xYVfOrXy9uWzhgec) | 4:31 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 214 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 215 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc0MTMyODQsMDAwMDAwMDA1NDQwNTMwNTQ5NDI4MWI2YTI1NWY0ZDNjOWYzOTA5Mw==`
+Snapshot ID: `Mjc0MTQ3MjgsMDAwMDAwMDBlMTk1MmIxZjNmMThmYThlZTQ1YmMzOWYyOThmNzg1Yg==`

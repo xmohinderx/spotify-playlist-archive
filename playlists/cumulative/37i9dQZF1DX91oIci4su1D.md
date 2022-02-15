@@ -2,7 +2,7 @@
 
 ### [Trance Mission](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
-> Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a> with Ben Nicky.
+> Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a> with Amy Wiles.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

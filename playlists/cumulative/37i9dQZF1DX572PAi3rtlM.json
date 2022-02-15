@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-02-13",
   "description": "That summer in the city feeling, any day of the week. ",
   "name": "Rooftop Sunset",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3WIgMYDQC96eGhgOWOnDY8"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Walk In The Park",
+        "url": "https://open.spotify.com/album/4JdTOMCYQmd3hAs7rPaljc"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325880,
+      "name": "A Walk In The Park",
+      "url": "https://open.spotify.com/track/5pEhzp4WCBL1K7VKExV80d"
+    },
     {
       "album": {
         "name": "Agave Harvest",
@@ -60,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Tonic Edits Vol. 5",
+        "url": "https://open.spotify.com/album/16bCZJbli0FGp8tszt1uZl"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321703,
+      "name": "Cabrio Mango",
+      "url": "https://open.spotify.com/track/7jrJd2hRB3vDYX93SRiGad"
+    },
+    {
+      "album": {
         "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
         "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
       },
@@ -97,7 +135,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 378549,
       "name": "Chains",
       "url": "https://open.spotify.com/track/2z89w2POOafemX8yVmaA21"
@@ -296,6 +334,24 @@
     },
     {
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290152,
+      "name": "Gymnastics - Original Mix",
+      "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
+    },
+    {
+      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
       },
@@ -419,7 +475,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 550622,
       "name": "Jerky Rhythm",
       "url": "https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL"
@@ -695,7 +751,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/0gyO07e0f66Qaib1x3m5I7"
@@ -836,6 +892,24 @@
     },
     {
       "album": {
+        "name": "Stanley's Disco",
+        "url": "https://open.spotify.com/album/2X7iTmP185SzEeQyQ2tDtM"
+      },
+      "artists": [
+        {
+          "name": "George Feely",
+          "url": "https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418032,
+      "name": "Stanley's Disco",
+      "url": "https://open.spotify.com/track/0oYEtzXK2sftKizIpiTp8O"
+    },
+    {
+      "album": {
         "name": "Back Street Brit Funk compiled by Joey Negro",
         "url": "https://open.spotify.com/album/3oVHLixmU76yOp2ciXBCop"
       },
@@ -847,7 +921,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 335480,
       "name": "Summer Grooves",
       "url": "https://open.spotify.com/track/1w2YjNjCfxRQLWEWVFzJ7Z"
@@ -971,7 +1045,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 311496,
       "name": "The Look of Accessibility",
       "url": "https://open.spotify.com/track/3mg8dRdGN5jg0KqWqKh9pj"
@@ -989,7 +1063,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 230521,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/2zu3NiHJk7FXoBu1yyEAyt"
@@ -1061,10 +1135,28 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 475608,
       "name": "Tout va bien",
       "url": "https://open.spotify.com/track/1FdxaYM9hVePlWVGbtsdjD"
+    },
+    {
+      "album": {
+        "name": "Jag Trax",
+        "url": "https://open.spotify.com/album/2AEp9VZj4DdNFxIN25nfCm"
+      },
+      "artists": [
+        {
+          "name": "DJ Jenifa",
+          "url": "https://open.spotify.com/artist/6XNtr5lwjhJWMWN15dlyrP"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Trainfilters2",
+      "url": "https://open.spotify.com/track/0TF77FkwoyFJqhONmWoIBj"
     },
     {
       "album": {
@@ -1101,7 +1193,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 348158,
       "name": "Warm Priority",
       "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
@@ -1145,7 +1237,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 212554,
       "name": "We Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/2ZfkpCm1I5TxnQwedtfoW7"
@@ -1171,7 +1263,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 519224,
       "name": "What Am I Here For? (NDATL Vocal) - Danny Krivit Edit",
       "url": "https://open.spotify.com/track/6uzaR1z9FDKRPY8lF24RB7"
@@ -1211,7 +1303,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 438598,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/4xWZmHNlmAtB0zgdg45pzq"

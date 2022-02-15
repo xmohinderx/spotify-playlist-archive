@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 157873,
       "name": "30,000 ft",
       "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 171891,
       "name": "AP - Music from the film Boogie",
       "url": "https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Attachments (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4nyRXQQkM69kmaxiyCKMCr"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 198607,
       "name": "Bad Vibe (feat. A Boogie Wit da Hoodie & 2 Chainz)",
       "url": "https://open.spotify.com/track/6HPRxfAFmvHZqQHtB1OPPu"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 199866,
       "name": "Belly, The Weeknd - Die For It (ft. Nas)",
       "url": "https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 198306,
       "name": "Dennis Rodman (feat. Tyga)",
       "url": "https://open.spotify.com/track/0E72UaOjGEOHJliDjq6Ivw"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 171888,
       "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
       "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 130748,
       "name": "EUPHORIC",
       "url": "https://open.spotify.com/track/5Mt2ygfSPAEOCeZ03tbc7u"
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 168758,
       "name": "first order of business",
       "url": "https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh"
@@ -1685,6 +1685,24 @@
       "duration_ms": 201779,
       "name": "Five Stars",
       "url": "https://open.spotify.com/track/2SNf0cSVFOEBhM4x8MvtB6"
+    },
+    {
+      "album": {
+        "name": "Flawless",
+        "url": "https://open.spotify.com/album/3wmCGxvOiljnq6TNKgtbNm"
+      },
+      "artists": [
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/6nsAyDBxkvDLyq75QuQOJ6"
     },
     {
       "album": {
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 105377,
       "name": "GYALIS",
       "url": "https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF"
@@ -2377,10 +2395,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "JELLY",
+        "url": "https://open.spotify.com/album/1VhHFYY2r64PS28M4gxjuW"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139903,
+      "name": "JELLY",
+      "url": "https://open.spotify.com/track/480w0G4nN1mqJuhI1aLJ2c"
     },
     {
       "album": {
@@ -3233,7 +3269,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 140972,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/62AD9i6STX9ahXbyer7t6n"
@@ -3369,7 +3405,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 173986,
       "name": "Number 2 (feat. Future & 21 Savage)",
       "url": "https://open.spotify.com/track/0bat8wCQURNkxmzrnEnfR9"
@@ -3505,7 +3541,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 135430,
       "name": "Opp Stoppa (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW"
@@ -3523,7 +3559,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 159268,
       "name": "OPPS",
       "url": "https://open.spotify.com/track/3sGO1VGwkPaVYIB5Vbz7kT"
@@ -3745,7 +3781,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 100291,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA"
@@ -3825,7 +3861,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 161906,
       "name": "PRESS",
       "url": "https://open.spotify.com/track/4hHyxmILDhX5x7zMekpk7i"
@@ -3847,7 +3883,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 226313,
       "name": "Prospect (ft. Lil Baby)",
       "url": "https://open.spotify.com/track/4iHSE5R1U8jf84tRn52xRt"
@@ -4037,7 +4073,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 158032,
       "name": "Reminds Me Of You",
       "url": "https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my"
@@ -4407,7 +4443,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
@@ -4587,7 +4623,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 203266,
       "name": "Space Cadet (feat. Gunna)",
       "url": "https://open.spotify.com/track/5gub2bpJRgJP4m4MliqtdV"
@@ -4635,7 +4671,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 213307,
       "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
       "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
@@ -4785,7 +4821,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 189486,
       "name": "Swervin (feat. 6ix9ine)",
       "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
@@ -4861,7 +4897,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 208546,
       "name": "The Announcement (Sex Drugs & Rock and Roll)",
       "url": "https://open.spotify.com/track/4OiBN3pUfo2ykf2xaEHWA6"
@@ -5141,7 +5177,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "UGLY (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
@@ -5229,7 +5265,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 150361,
       "name": "VV's",
       "url": "https://open.spotify.com/track/2VujCKUrWKvV78kASoXM0n"
@@ -5273,7 +5309,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
@@ -5405,7 +5441,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 156013,
       "name": "What I Like (feat. FRVRFRIDAY)",
       "url": "https://open.spotify.com/track/7HspJ4PdLV4Qw6SNiQKjTf"
@@ -5651,7 +5687,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 175765,
       "name": "Woah",
       "url": "https://open.spotify.com/track/7ovsrGkfcZhLuXPtN4Z2qC"
@@ -5731,7 +5767,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 183567,
       "name": "WRONG (feat. Lil Mosey)",
       "url": "https://open.spotify.com/track/1EWkw4Fa6IlnsAihLUlFFM"

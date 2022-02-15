@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 21317,
+  "num_followers": 21343,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQ5MzQ4NiwwMDAwMDEzZTAwMDAwMTdlZTM3MzM4YjUwMDAwMDE3ZWJlOTc3N2Mx",
+  "snapshot_id": "MTY0NDg0MzYwMywwMDAwMDE0MjAwMDAwMTdlZjg1MTk4MWMwMDAwMDE3ZWJlOTc3N2Mx",
   "tracks": [
     {
       "added_at": "2022-02-03 09:54:34",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/0waGR1RuQrRP01kFaXb4Q9"
     },
     {
+      "added_at": "2022-02-14 12:35:10",
+      "album": {
+        "name": "Bettada Daari",
+        "url": "https://open.spotify.com/album/1mCVc1EN7BUB7Gp6OwzHGy"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        }
+      ],
+      "duration_ms": 232170,
+      "name": "Bellakki Salanthe",
+      "url": "https://open.spotify.com/track/1E0BWIbjxfOrhCUroeR0KJ"
+    },
+    {
       "added_at": "2022-01-16 09:09:47",
       "album": {
         "name": "Nachike Inneke - Ranchi",
@@ -433,6 +449,26 @@
       "url": "https://open.spotify.com/track/6HmWP8iJw234brBeyjlthO"
     },
     {
+      "added_at": "2022-02-14 12:31:32",
+      "album": {
+        "name": "Garuda Gamana Vrishabha Vahana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MHr14PEMcU4EGRAKsI8vq"
+      },
+      "artists": [
+        {
+          "name": "Midhun Mukundan",
+          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
+        },
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        }
+      ],
+      "duration_ms": 172015,
+      "name": "Chandrachooda",
+      "url": "https://open.spotify.com/track/32fF4pTk3aiW44SdqRwmB7"
+    },
+    {
       "added_at": "2022-01-24 08:51:01",
       "album": {
         "name": "Magale Muddu Magale (From \"Savitri\")",
@@ -451,6 +487,46 @@
       "duration_ms": 305312,
       "name": "Magale Muddu Magale (From \"Savitri\")",
       "url": "https://open.spotify.com/track/1ztbc43uWxxHLmhmQqspQH"
+    },
+    {
+      "added_at": "2022-02-14 12:51:32",
+      "album": {
+        "name": "Hudgi Ivalu - Sha LA LA LA Love (From \"Chase - In The Dark\")",
+        "url": "https://open.spotify.com/album/7kKKi2990fxJaHPjhXFy5I"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Karthik Aacharya",
+          "url": "https://open.spotify.com/artist/7FSw22CMSia3V7Y1tMWldb"
+        }
+      ],
+      "duration_ms": 269140,
+      "name": "Hudgi Ivalu - Sha LA LA LA Love (From \"Chase - In The Dark\")",
+      "url": "https://open.spotify.com/track/7CpOi5xk4d0yFhYRUrUPv2"
+    },
+    {
+      "added_at": "2022-02-14 13:00:03",
+      "album": {
+        "name": "Bangariye (From \"Ramachari 2.0\")",
+        "url": "https://open.spotify.com/album/3pbMDOY7ghEilMP0NqwvUQ"
+      },
+      "artists": [
+        {
+          "name": "Sunder Murthy",
+          "url": "https://open.spotify.com/artist/4S0V3g0wtpNCUA1WUGSttx"
+        },
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        }
+      ],
+      "duration_ms": 211055,
+      "name": "Bangariye (From \"Ramachari 2.0\")",
+      "url": "https://open.spotify.com/track/4zUMveC2iio3Ru0nwCrU5O"
     },
     {
       "added_at": "2022-01-07 08:52:49",

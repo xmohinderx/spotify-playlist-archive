@@ -2,7 +2,7 @@
 
 ### [Very Nearly Nashville](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 
-> The best music with a Nashville flavour\. Cover: Maren Morris
+> The best music with a Nashville flavour\. Cover: The Shires
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-17 |  |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-12-17 |  |
+| [I See Stars](https://open.spotify.com/track/32WnhIyvw6RGjtNFrHF68W) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [I See Stars](https://open.spotify.com/album/0Y1mySIig8YiKZrjJGXZs3) | 3:18 | 2022-02-14 |  |
 | [I Won't](https://open.spotify.com/track/5P51W99kjEeqhMr8uHdI8m) | [Lucy Blu](https://open.spotify.com/artist/0zEgohBueDJpD4E4nz8sp1) | [I Won't](https://open.spotify.com/album/0nhbhXjVhQvOH3XuOFWlMP) | 3:14 | 2021-12-17 |  |
 | [I'm Gonna Start A Fire](https://open.spotify.com/track/1f0ySWK0ztjOgMy3jevrnk) | [Jesse Walton](https://open.spotify.com/artist/4eC7zpBCLhukFXCHFTpS20) | [Pages](https://open.spotify.com/album/3Fnho10pRayzjrO3KFqEm2) | 4:35 | 2021-12-17 | 2022-01-12 |
 | [Just About Over You \- Radio Edit](https://open.spotify.com/track/7r4QGA98fNi3iPxc7umIjt) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Radio Edit\)](https://open.spotify.com/album/5daeIQFYVirEPLqnivqo6h) | 3:08 | 2021-12-17 |  |
@@ -43,7 +44,7 @@
 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 | 2022-01-11 |  |
 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 | 2021-12-17 |  |
 | [On Our Way](https://open.spotify.com/track/3xWylfRlWliWQzubJEIWV9) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [On Our Way](https://open.spotify.com/album/6U9ZFq4ZiqEdRyutUAhit8) | 3:32 | 2021-12-17 |  |
-| [On the Day I Die](https://open.spotify.com/track/3ZHdaT1QZNYmoea89BDKwv) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [On the Day I Die](https://open.spotify.com/album/1zcnNCItwSSooLfNSoAbCf) | 3:31 | 2021-12-17 |  |
+| [On the Day I Die](https://open.spotify.com/track/3ZHdaT1QZNYmoea89BDKwv) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [On the Day I Die](https://open.spotify.com/album/1zcnNCItwSSooLfNSoAbCf) | 3:31 | 2021-12-17 | 2022-02-15 |
 | [Radio](https://open.spotify.com/track/7iUd74cF2TPLC3O0ccxlCm) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Radio](https://open.spotify.com/album/7u2aFGHQDsHOBufPfg4kbO) | 2:56 | 2021-12-17 |  |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-11 |  |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2021-12-17 |  |

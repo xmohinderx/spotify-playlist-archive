@@ -1,18 +1,18 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
-  "num_followers": 478827,
+  "num_followers": 479194,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDc5OTI3NCwwMDAwMDAwMGE0ZjY2YmJiNjY0MTY3Njg0MTFjNmIxYzYzNGY0ZTNl",
+  "snapshot_id": "MTY0NDg4NTk3NSwwMDAwMDAwMDI2NmM2ZjQ2OGM0Yjk3NmY1YzI2MDA4MjUxNmY3YmRl",
   "tracks": [
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
-        "name": "Respuesta Cero",
-        "url": "https://open.spotify.com/album/1xWjLIRYerOH0xAmoYr8RM"
+        "name": "Ahora Y Siempre",
+        "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
       },
       "artists": [
         {
@@ -20,16 +20,16 @@
           "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         },
         {
-          "name": "BlueFire",
-          "url": "https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n"
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
         }
       ],
-      "duration_ms": 203951,
-      "name": "Respuesta Cero",
-      "url": "https://open.spotify.com/track/4rU3aBUWgxb8htYFwflpFc"
+      "duration_ms": 149275,
+      "name": "Ahora Y Siempre",
+      "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
@@ -49,7 +49,27 @@
       "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
+      "album": {
+        "name": "Me Gustas Natural",
+        "url": "https://open.spotify.com/album/4XSn49wF97s5ERSoQv6dJL"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "Me Gustas Natural",
+      "url": "https://open.spotify.com/track/4G0Pi1VhIgycBfq5KtP5ZY"
+    },
+    {
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
@@ -89,27 +109,7 @@
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Me Gustas Natural",
-        "url": "https://open.spotify.com/album/4XSn49wF97s5ERSoQv6dJL"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "Me Gustas Natural",
-      "url": "https://open.spotify.com/track/4G0Pi1VhIgycBfq5KtP5ZY"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Caprichoso",
         "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
@@ -125,7 +125,27 @@
       "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
+      "album": {
+        "name": "Respuesta Cero",
+        "url": "https://open.spotify.com/album/1xWjLIRYerOH0xAmoYr8RM"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "BlueFire",
+          "url": "https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n"
+        }
+      ],
+      "duration_ms": 203951,
+      "name": "Respuesta Cero",
+      "url": "https://open.spotify.com/track/4rU3aBUWgxb8htYFwflpFc"
+    },
+    {
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Bandido (Remix)",
         "url": "https://open.spotify.com/album/2rPtgNYHmXlZpKds0vIE56"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/6ExTczq02XIWJjGKoi13RJ"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
@@ -165,27 +185,27 @@
       "url": "https://open.spotify.com/track/2qyLvNLktrdc67OgaayqMW"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
-        "name": "NOW",
-        "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
+        "name": "NASTU",
+        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
       "artists": [
         {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Pablo Mas",
+          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
         }
       ],
-      "duration_ms": 192507,
-      "name": "NOW",
-      "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
+      "duration_ms": 168367,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Universitaria",
         "url": "https://open.spotify.com/album/5lgPIcUdcRbeYUONIUJhQq"
@@ -201,7 +221,27 @@
       "url": "https://open.spotify.com/track/6HOtqhx0LMZWEgJYRzdSuz"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
+      "album": {
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
@@ -237,7 +277,7 @@
       "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Si Tu Kiere",
         "url": "https://open.spotify.com/album/45h2s1SjuZjuQSzgJ8SzJ3"
@@ -253,7 +293,27 @@
       "url": "https://open.spotify.com/track/2pjoPgjETrC1LQm64aVTGp"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
+      "album": {
+        "name": "NOW",
+        "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 192507,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
+    },
+    {
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Esta Cabron",
         "url": "https://open.spotify.com/album/2wSpwIT1YllWolxOkTC94N"
@@ -273,7 +333,7 @@
       "url": "https://open.spotify.com/track/4Eyu15AuNR2MSLZiqWGxO0"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
@@ -293,7 +353,7 @@
       "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/77RnZZL53tsWQ0gTRgAFkW"
@@ -313,7 +373,7 @@
       "url": "https://open.spotify.com/track/2cVCr6Am3spuM1gPDLKxAF"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
@@ -329,7 +389,7 @@
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Oh Mi Amore",
         "url": "https://open.spotify.com/album/0KfAFALeItsNHLv4TWHyGA"
@@ -349,7 +409,7 @@
       "url": "https://open.spotify.com/track/5z90U0zUS8ihOcVkCyu5JF"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
@@ -365,7 +425,7 @@
       "url": "https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "INTERESTELAR",
         "url": "https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM"
@@ -389,7 +449,7 @@
       "url": "https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
@@ -409,7 +469,7 @@
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "El Amor y Yo",
         "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
@@ -425,7 +485,7 @@
       "url": "https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
@@ -441,7 +501,7 @@
       "url": "https://open.spotify.com/track/13Tbv4nflNxg9kYBIbJnd9"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "MOOD (Remix)",
         "url": "https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/65wccjJxugGBsPKZcsHG49"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
         "url": "https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0"
@@ -485,7 +545,7 @@
       "url": "https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Ponte Pa' Mi",
         "url": "https://open.spotify.com/album/26DBrzosCFxgTFBzhcbDPp"
@@ -509,7 +569,7 @@
       "url": "https://open.spotify.com/track/10u2iOS0r6plfb9GknD7g4"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Piel de Cordero",
         "url": "https://open.spotify.com/album/4m55xXBvpVcsO3CHXAJItH"
@@ -529,7 +589,7 @@
       "url": "https://open.spotify.com/track/43Tf6aMFSw2vP7IHBWsA1R"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Para Mi Ex",
         "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
@@ -545,7 +605,7 @@
       "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "SAOKO",
         "url": "https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If"
@@ -561,7 +621,7 @@
       "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Unfollow",
         "url": "https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB"
@@ -585,7 +645,7 @@
       "url": "https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
@@ -601,7 +661,7 @@
       "url": "https://open.spotify.com/track/5o9NxjgOMpdGDYswuNv7yu"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Los Illuminaty",
         "url": "https://open.spotify.com/album/3FW5v0kDf5qn2R5HTWVaDw"
@@ -621,7 +681,7 @@
       "url": "https://open.spotify.com/track/4WOmUK3ngIuHqqdgka0DN2"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
@@ -637,7 +697,7 @@
       "url": "https://open.spotify.com/track/5RClLxkUvnMWFUQ3VAQEHj"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Enchulao",
         "url": "https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn"
@@ -657,7 +717,7 @@
       "url": "https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "All Star Game",
         "url": "https://open.spotify.com/album/7d0hMBy98bkBVRssATx4YL"
@@ -677,7 +737,7 @@
       "url": "https://open.spotify.com/track/6h1UftIKsK3dn9RJXhx4G9"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Ella (Remix)",
         "url": "https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH"
@@ -709,7 +769,7 @@
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
@@ -725,7 +785,27 @@
       "url": "https://open.spotify.com/track/6MEBxXI2n3FzPHrGRYFdL8"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
+      "album": {
+        "name": "INTER SHIBUYA (FERXXO EDITION)",
+        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "MIONCA AL BLOQUE",
+      "url": "https://open.spotify.com/track/0mIFOa5E7widNaQ76voSN1"
+    },
+    {
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Diles",
         "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
@@ -765,7 +845,7 @@
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Alejarme de Ti",
         "url": "https://open.spotify.com/album/20gN79b9t0habJ5tWsANC8"
@@ -785,7 +865,7 @@
       "url": "https://open.spotify.com/track/4SVrkrtAeQLXoNOfQdmSAw"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "INTER SHIBUYA (FERXXO EDITION)",
         "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
@@ -809,7 +889,7 @@
       "url": "https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "En Tu Cuerpo (Remix)",
         "url": "https://open.spotify.com/album/4IoXqa2p31wSTnOIYppcG3"
@@ -837,7 +917,7 @@
       "url": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Se Menea",
         "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
@@ -857,7 +937,7 @@
       "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "787",
         "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
@@ -873,7 +953,7 @@
       "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
@@ -893,7 +973,7 @@
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Suave (Remix)",
         "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
@@ -917,23 +997,7 @@
       "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "En Mi Cuarto",
         "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
@@ -953,23 +1017,7 @@
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 156223,
-      "name": "Quien TV",
-      "url": "https://open.spotify.com/track/2ThSBT4fDS83BWu3iMjMRn"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
@@ -985,27 +1033,7 @@
       "url": "https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
@@ -1029,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
@@ -1049,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
@@ -1077,7 +1105,7 @@
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
@@ -1093,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
@@ -1113,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Pelele",
         "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
@@ -1129,23 +1157,7 @@
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Dictadura",
-        "url": "https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 208007,
-      "name": "Dictadura",
-      "url": "https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
@@ -1169,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
@@ -1189,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
@@ -1205,7 +1217,7 @@
       "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "Volando (Remix)",
         "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
@@ -1229,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
     },
     {
-      "added_at": "2022-02-10 23:01:00",
+      "added_at": "2022-02-14 17:06:56",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"

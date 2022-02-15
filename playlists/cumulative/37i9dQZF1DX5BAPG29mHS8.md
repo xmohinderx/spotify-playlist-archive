@@ -2,7 +2,7 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
 
-> Los hits de ahora en la playlist más grande de México, con Kenia Os y Snow Tha Product.
+> Los hits de ahora en la playlist más grande de México, con Kenia OS y Snow Tha Product.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

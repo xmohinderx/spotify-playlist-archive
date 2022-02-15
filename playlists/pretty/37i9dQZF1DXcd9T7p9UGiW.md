@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=GYiQiQm1RB6tHMR1E1cv0Q"> 21 Savage </a>, <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=mlHgBMbNRPCUyHcFRFGBbw"> Fireboy DML </a> and <a href="https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL?si=XO1D\-NAhQlSfKvimxsNpIA"> Blxst </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,229 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,237 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

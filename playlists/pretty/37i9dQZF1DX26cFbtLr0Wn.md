@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26cFbtLr0Wn.md) - [plain]
 
 > Selections of modern and contemporary poetry, featuring readings from the poets themselves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,153 likes - 170 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,151 likes - 170 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

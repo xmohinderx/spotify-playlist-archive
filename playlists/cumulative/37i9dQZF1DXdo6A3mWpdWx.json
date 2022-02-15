@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-13",
   "description": "The biggest party hits of the 1990s. Cover: Vengaboys. ",
   "name": "90s Party",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6TUZaOg0zmZ7RSt0SzZOvF"
+  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +109,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 233960,
       "name": "Ain't No Man",
       "url": "https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6"
@@ -549,7 +551,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 210293,
       "name": "Could It Be Magic - Rapino Radio Mix",
       "url": "https://open.spotify.com/track/7rdrTM31qw9cmlM9XyxriK"
@@ -643,7 +645,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 214666,
       "name": "Dear Jessie",
       "url": "https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu"
@@ -737,7 +739,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 210933,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/4jP1ex7l0wwogPtcvmGoIe"
@@ -867,7 +869,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
@@ -943,7 +945,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 226933,
       "name": "Flying High - Radio Mix",
       "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
@@ -1051,7 +1053,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
@@ -1203,7 +1205,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 211093,
       "name": "Happening All Over Again",
       "url": "https://open.spotify.com/track/3Ex3IhyrNTO9z9iIsAMfSx"
@@ -1261,7 +1263,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "I Give You My Heart",
       "url": "https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k"
@@ -1331,6 +1333,24 @@
       "duration_ms": 252493,
       "name": "I Turn To You - Hex Hector Radio Mix",
       "url": "https://open.spotify.com/track/5x5zRAJy1a8lSKWCCKSCIH"
+    },
+    {
+      "album": {
+        "name": "Land Of Sunshine",
+        "url": "https://open.spotify.com/album/6xMxxC7HrtAsRIRYMZwHjY"
+      },
+      "artists": [
+        {
+          "name": "Robin Cook",
+          "url": "https://open.spotify.com/artist/70N6WU2JYChGQTCWrdisae"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "I Won't Let The Sun Go Down On Me - 7\" Original Radio",
+      "url": "https://open.spotify.com/track/63anYuuPBLeU0CB52vZUAF"
     },
     {
       "album": {
@@ -1461,7 +1481,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 213546,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/1nKI0IopPWboMzMYivWi8x"
@@ -1599,7 +1619,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 216520,
       "name": "La Primavera - UK Radio Edit",
       "url": "https://open.spotify.com/track/1aepCwv2LhrYRIk9g3OAZb"
@@ -1707,7 +1727,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
@@ -1743,7 +1763,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 236026,
       "name": "Love to Hate You - 2019 - Remaster",
       "url": "https://open.spotify.com/track/4A6pPKVWcIWIBooH6nwa48"
@@ -1797,7 +1817,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 223426,
       "name": "Mamma Mia - Radio Version",
       "url": "https://open.spotify.com/track/0i2UIuXKAoDrK1LzI5qUcd"
@@ -1917,7 +1937,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 238093,
       "name": "Moving Too Fast - Radio Edit",
       "url": "https://open.spotify.com/track/4FLFm76nwepkcxzqS8PzH4"
@@ -2011,10 +2031,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 252071,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
+    },
+    {
+      "album": {
+        "name": "Check Out The Groove",
+        "url": "https://open.spotify.com/album/6OTuDBUEkoGfEYdpYr3odK"
+      },
+      "artists": [
+        {
+          "name": "Undercover",
+          "url": "https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Never Let Her Slip Away - Essential Edit",
+      "url": "https://open.spotify.com/track/7qW3zwIxGaE4LJfYJpaGjp"
     },
     {
       "album": {
@@ -2264,6 +2302,28 @@
     },
     {
       "album": {
+        "name": "Tripomatic Fairytales 2001 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt"
+      },
+      "artists": [
+        {
+          "name": "Jam & Spoon",
+          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
+        },
+        {
+          "name": "Plavka",
+          "url": "https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364400,
+      "name": "Right in the Night (Fall in Love with Music)",
+      "url": "https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z"
+    },
+    {
+      "album": {
         "name": "Saturday Night Single",
         "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
       },
@@ -2477,7 +2537,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 358226,
       "name": "Stay",
       "url": "https://open.spotify.com/track/17PIimsvVwdgFlo7SqpflK"
@@ -2517,7 +2577,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 185080,
       "name": "Step Back in Time",
       "url": "https://open.spotify.com/track/3J9604GDguYw2c3YvMJQ2a"
@@ -2586,6 +2646,60 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
+    },
+    {
+      "album": {
+        "name": "100 Store 90'er Hits",
+        "url": "https://open.spotify.com/album/7JSrqAeYDMscGw3hHQUnPB"
+      },
+      "artists": [
+        {
+          "name": "C.J. Lewis",
+          "url": "https://open.spotify.com/artist/0Vi8okOIwYznIYAMGgyJAg"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "Sweets For My Sweet",
+      "url": "https://open.spotify.com/track/1JtVKX2qjcgMHrCSkwi12i"
+    },
+    {
+      "album": {
+        "name": "Abba-Esque",
+        "url": "https://open.spotify.com/album/2K7r9s7xjJyhZUxZms4xCc"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "Take a Chance on Me",
+      "url": "https://open.spotify.com/track/3RneZfjPCh4GCk3rPqcxXp"
+    },
+    {
+      "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },
@@ -2601,6 +2715,24 @@
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
+    },
+    {
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260506,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
     },
     {
       "album": {
@@ -2849,7 +2981,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 278778,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
@@ -3045,7 +3177,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 256602,
       "name": "Welcome to Tomorrow (Are You Ready?)",
       "url": "https://open.spotify.com/track/4UHWtS08pDNTjDNhTvkEZV"
@@ -3171,7 +3303,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 279600,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/21MLFi0ISlqDBp7DQHPi7p"

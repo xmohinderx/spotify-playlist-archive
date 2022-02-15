@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "30",
       "url": "https://open.spotify.com/track/2mF0a6QdJY5WDWar4THKyi"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 207562,
       "name": "Blue Rose",
       "url": "https://open.spotify.com/track/68F0Awp8Y64KAgvYYbUFc1"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 225785,
       "name": "Can You See My Heart",
       "url": "https://open.spotify.com/track/6td501MwDVFewdz6qNOtG8"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 231259,
       "name": "Could You Be My Song \uc0c8\ubcbd\u2606",
       "url": "https://open.spotify.com/track/2N1m67XDI7V3OQ6alngjRl"
@@ -495,6 +495,24 @@
       "duration_ms": 222653,
       "name": "Dear Me",
       "url": "https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1"
+    },
+    {
+      "album": {
+        "name": "HORN",
+        "url": "https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209207,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3"
     },
     {
       "album": {
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 195386,
       "name": "ELEVATOR",
       "url": "https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 222454,
       "name": "Everybody Has",
       "url": "https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 208022,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3cs3lGvmdiksYhEn8nnslm"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 197130,
       "name": "In Your Dreams",
       "url": "https://open.spotify.com/track/7CUhiFVEFhnmCoUM2NBfgs"
@@ -1015,6 +1033,24 @@
       "duration_ms": 272386,
       "name": "INCOMPLETE",
       "url": "https://open.spotify.com/track/1YI04hmMPhmcutJm1bpp0c"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
       "album": {
@@ -1238,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190920,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/4x5l1gjNcoBhhWBPEMo7OQ"
+    },
+    {
+      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -1267,7 +1321,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 197413,
       "name": "Make Me Happy",
       "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
@@ -1361,7 +1415,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 149000,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/0vFKaaqXkeaaC2iGtKRGyt"
@@ -1523,7 +1577,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 166238,
       "name": "Piece Of Stars",
       "url": "https://open.spotify.com/track/7z2fpDv4PfwdtjIj1FxZGK"
@@ -1689,7 +1743,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
@@ -1917,7 +1971,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 217926,
       "name": "Spark",
       "url": "https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5"
@@ -2047,7 +2101,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
@@ -2087,7 +2141,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 186918,
       "name": "The Only (feat. IRENE of Red Velvet)",
       "url": "https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG"
@@ -2127,7 +2181,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 186586,
       "name": "THINK",
       "url": "https://open.spotify.com/track/7upOvB292V6qszi7M3QqD9"
@@ -2203,7 +2257,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 227198,
       "name": "Trip \uc5ec\ud589",
       "url": "https://open.spotify.com/track/78iqyVhGvzdGL1WUflBpAl"
@@ -2221,7 +2275,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 190785,
       "name": "TWIT",
       "url": "https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD"
@@ -2323,7 +2377,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 191758,
       "name": "We'll be alright",
       "url": "https://open.spotify.com/track/28b6eAJ9TMthHN7BWylfnM"
@@ -2377,7 +2431,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 240395,
       "name": "When You Come To My Heart",
       "url": "https://open.spotify.com/track/11Qfz94iFMV0CJ8yapbYZN"
@@ -2507,7 +2561,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 255496,
       "name": "X",
       "url": "https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk"
@@ -2561,7 +2615,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 199175,
       "name": "YOU AND I",
       "url": "https://open.spotify.com/track/5njElVEV4zsVdJpW9x4ujJ"

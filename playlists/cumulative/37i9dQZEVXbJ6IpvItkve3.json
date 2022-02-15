@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 180000,
       "name": "I.M",
       "url": "https://open.spotify.com/track/20Sn6oqyImTPlzXANLxtie"
@@ -3853,7 +3853,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 161485,
       "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
       "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
@@ -3963,7 +3963,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-15",
       "duration_ms": 172024,
       "name": "\u05d4\u05e9\u05de\u05dc\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/0Cq5UOSrvfzJN5pUWx8Prb"
@@ -4695,7 +4695,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 204520,
       "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
       "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
@@ -4891,6 +4891,28 @@
       "duration_ms": 201380,
       "name": "\u05de\u05d9 \u05dc\u05d0 \u05d9\u05d1\u05d5\u05d0",
       "url": "https://open.spotify.com/track/0Ap742kKOE7chXEdDZWvOq"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05e2\u05e0\u05e0\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6mbUhJZ0qDoY0mjbsNbVfZ"
+      },
+      "artists": [
+        {
+          "name": "Yuval Dayan",
+          "url": "https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA"
+        },
+        {
+          "name": "Bar Tzabary",
+          "url": "https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205900,
+      "name": "\u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05e2\u05e0\u05e0\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/0EaBbv2U2r7GUxO6YCvTjW"
     },
     {
       "album": {
