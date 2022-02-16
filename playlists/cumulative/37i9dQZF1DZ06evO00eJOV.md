@@ -7,7 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ag Shame Lovey](https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:21 | 2021-12-28 |  |
-| [Ama\-Gents](https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:28 | 2021-12-28 |  |
+| [Ama\-Gents](https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:28 | 2021-12-28 | 2022-02-16 |
 | [Black President](https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 4:30 | 2021-12-28 |  |
 | [Duma Duma](https://open.spotify.com/track/5n0eOWrxigMiLqaSdUJIk9) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 5:08 | 2022-01-01 | 2022-01-03 |
 | [Good Black Woman](https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Too Late For Mama](https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN) | 5:31 | 2021-12-28 |  |
@@ -60,6 +60,6 @@
 | [Wedding Day](https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 3:59 | 2021-12-28 |  |
 | [Weekend Special](https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:39 | 2021-12-28 |  |
 | [Wewe \(African Wedding\)](https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:48 | 2021-12-28 |  |
-| [Zola Budd](https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:00 | 2022-01-31 | 2022-02-14 |
+| [Zola Budd](https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:00 | 2022-01-31 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

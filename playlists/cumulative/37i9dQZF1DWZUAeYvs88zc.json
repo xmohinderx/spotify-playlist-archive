@@ -163,7 +163,7 @@
       ],
       "date_added": "2019-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 193293,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 201253,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/4DHvxcvurhgr0175Oeupqs"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 182000,
       "name": "crydancing",
       "url": "https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 204290,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/2g7Ey0Cm30PLdrU6FbUX1f"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 193653,
       "name": "Happy Loner",
       "url": "https://open.spotify.com/track/3aVpNPYYhmnhFl61QS56tx"
@@ -2361,7 +2361,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 268733,
       "name": "Hold No Grudge - Bonus Track",
       "url": "https://open.spotify.com/track/188rKyWMsC4WsKKZ85lnUO"
@@ -3445,7 +3445,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 179076,
       "name": "Life's a Bitch (L.A.B)",
       "url": "https://open.spotify.com/track/72Stw9ZEi73pKIQsctIb9x"
@@ -3713,7 +3713,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 164166,
       "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty"
@@ -4295,6 +4295,24 @@
       "duration_ms": 170811,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ"
+    },
+    {
+      "album": {
+        "name": "No Romeo",
+        "url": "https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "No Romeo",
+      "url": "https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB"
     },
     {
       "album": {
@@ -5781,7 +5799,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
@@ -5857,7 +5875,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 146533,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
@@ -5973,7 +5991,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "Temper",
       "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"

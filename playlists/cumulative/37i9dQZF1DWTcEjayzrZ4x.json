@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "A Smile on Your Face",
+        "url": "https://open.spotify.com/album/7EA2XJpF3Jy2LmqmRf6DNc"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lemon Jazz",
+          "url": "https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285936,
+      "name": "A Smile on Your Face",
+      "url": "https://open.spotify.com/track/3Eq2oTBtcGjEBgMCpO9QWx"
+    },
+    {
+      "album": {
         "name": "On A Misty Night",
         "url": "https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9"
       },
@@ -285,6 +303,24 @@
       "duration_ms": 266560,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/1GCnHc1M0smwc41jQQDfhc"
+    },
+    {
+      "album": {
+        "name": "Ballad For Trane",
+        "url": "https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs"
+      },
+      "artists": [
+        {
+          "name": "The Boston Four",
+          "url": "https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217031,
+      "name": "Ballad For Trane",
+      "url": "https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO"
     },
     {
       "album": {
@@ -1090,6 +1126,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Myself Anymore",
+        "url": "https://open.spotify.com/album/0jYdse5LgBxoVkMF28IaGz"
+      },
+      "artists": [
+        {
+          "name": "Len Stark Band",
+          "url": "https://open.spotify.com/artist/4u9GPWB44FwZ76cXVUnuKB"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305551,
+      "name": "I'm Not Myself Anymore",
+      "url": "https://open.spotify.com/track/6oSK13LFez9J8gCpGbtMjx"
+    },
+    {
+      "album": {
         "name": "I'm Through With Love",
         "url": "https://open.spotify.com/album/287itlXEIh2aQ2zqLZiBbE"
       },
@@ -1209,7 +1263,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 339533,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
@@ -1375,6 +1429,24 @@
       "duration_ms": 167569,
       "name": "Jazzanooga",
       "url": "https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq"
+    },
+    {
+      "album": {
+        "name": "Johnny Come Lately",
+        "url": "https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi"
+      },
+      "artists": [
+        {
+          "name": "John B. Stewart",
+          "url": "https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175030,
+      "name": "Johnny Come Lately",
+      "url": "https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR"
     },
     {
       "album": {
@@ -2371,7 +2443,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 181448,
       "name": "The Summer Rain",
       "url": "https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g"

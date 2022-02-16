@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 138013,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 156908,
       "name": "Bring Me Down (ft. Bright Sparks)",
       "url": "https://open.spotify.com/track/1VPRoO8oPV8dIW47js8EA0"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 195172,
       "name": "Catch & Release (Deepend remix)",
       "url": "https://open.spotify.com/track/4FqrgfKej2jv450UFW6PP8"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 189266,
       "name": "Ghost - Lost Kings Remix",
       "url": "https://open.spotify.com/track/4ehErMHPM40f92dks3vb2p"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 159726,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/4PwXNVqkIM8KBuEgYFqDiE"
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 173925,
       "name": "If You're Hearing This",
       "url": "https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk"
@@ -2267,7 +2267,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 217015,
       "name": "Losing U (feat. Daylight)",
       "url": "https://open.spotify.com/track/1rsn0LRt5IpGp9a2KC5bTW"
@@ -2919,7 +2919,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "One Day (Vandaag) - Radio Edit",
       "url": "https://open.spotify.com/track/0GSU6yLOJqO10ziQuBLWOE"
@@ -3415,7 +3415,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 194000,
       "name": "Riverbank",
       "url": "https://open.spotify.com/track/4eG4eNTXUDHpaWsbsTTBcU"
@@ -3693,7 +3693,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 368316,
       "name": "Sexual Healing - Kygo Remix",
       "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
@@ -4133,6 +4133,28 @@
       "duration_ms": 199322,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5jUgFofZJCuSQjcYao0VMv"
+    },
+    {
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/75VgBnyHLvSKfmWO3PRT11"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164536,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/1XRTXNP8eLpWXfso8Q4dC5"
     },
     {
       "album": {
@@ -4765,7 +4787,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 186610,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/3a4UuAErF1VMAkwqzkc1tj"

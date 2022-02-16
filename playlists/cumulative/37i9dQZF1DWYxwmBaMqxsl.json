@@ -1032,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Misty November",
+        "url": "https://open.spotify.com/album/6xxtWCf4X7qatxA0IPFWly"
+      },
+      "artists": [
+        {
+          "name": "Kevin Waters Group",
+          "url": "https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192519,
+      "name": "Misty November",
+      "url": "https://open.spotify.com/track/5LJcQXhDafjTy7GOqYLjJM"
+    },
+    {
+      "album": {
         "name": "Moment To Moment",
         "url": "https://open.spotify.com/album/3KeFD62A0IEmCOfn2CaC0K"
       },

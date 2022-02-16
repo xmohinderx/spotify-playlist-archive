@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 178677,
       "name": "A Punto",
       "url": "https://open.spotify.com/track/0i5Ocz6WdNNK5NAmT4NSEP"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 310428,
       "name": "Amor de Mis Amores",
       "url": "https://open.spotify.com/track/44BdpZjvawE8lLVgvaF8aS"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
@@ -418,6 +418,28 @@
     },
     {
       "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194931,
+      "name": "Como Una Flor Bolero",
+      "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
+    },
+    {
+      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -535,7 +557,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 232176,
       "name": "Cuando No Hay Nada Que Hablar",
       "url": "https://open.spotify.com/track/2RZ316OxGfbTPIrzIfvk7j"
@@ -575,7 +597,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 187715,
       "name": "Dos Gardenias",
       "url": "https://open.spotify.com/track/1nkYtTqALWXxuOmqY6Fg4D"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 164813,
       "name": "Drume Negrita",
       "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
@@ -611,7 +633,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 262431,
       "name": "El Amar Y El Querer",
       "url": "https://open.spotify.com/track/5qRyfjbD4VV4ZXciES4bf5"
@@ -959,7 +981,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 235746,
       "name": "Hagamos el amor a la distancia",
       "url": "https://open.spotify.com/track/3NNvVQo6CeU2bnxIKHNgHz"
@@ -1239,7 +1261,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 181493,
       "name": "La \u00daltima Noche (feat. Goyo) - En Vivo",
       "url": "https://open.spotify.com/track/1KufFlWwqD111AKQgCwJzp"
@@ -1381,7 +1403,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 182240,
       "name": "Matem\u00e1ticamente",
       "url": "https://open.spotify.com/track/0z8IqXyQnzCOvXsYyWimrD"
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 186488,
       "name": "No Ha Pasado Nada",
       "url": "https://open.spotify.com/track/2aRmyKMgtoMyg2vxNtakJw"
@@ -1791,7 +1813,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 210066,
       "name": "Palabras De Mujer",
       "url": "https://open.spotify.com/track/6dOuoQHcMfVum7s33Cj5u1"
@@ -1809,7 +1831,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
@@ -1979,7 +2001,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 330893,
       "name": "Por Siempre Lara / Popurr\u00ed",
       "url": "https://open.spotify.com/track/5TAIgpzCktJ4NhIkRZk8QU"
@@ -2073,7 +2095,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 198371,
       "name": "Que Sea para M\u00ed (Sabor a Mar)",
       "url": "https://open.spotify.com/track/4h3VRMvEiivdNsQJRBUDML"
@@ -2109,7 +2131,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 260778,
       "name": "Quien Eres Tu?",
       "url": "https://open.spotify.com/track/4tvLXOysKf9WV0Ty7OO7xh"
@@ -2149,7 +2171,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 238000,
       "name": "Sabidur\u00eda",
       "url": "https://open.spotify.com/track/26g3hJFPLImSGwyjI1n60w"
@@ -2221,7 +2243,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 138960,
       "name": "Sabor a Mi - En Vivo",
       "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
@@ -2345,7 +2367,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/3WW69emJPnNXoplzyl6W7L"
@@ -2501,7 +2523,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 210848,
       "name": "Te matan los celos",
       "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
@@ -2657,7 +2679,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 171840,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1DMiJvljMa3QwvIGDqGJtF"
@@ -2759,7 +2781,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 217879,
       "name": "Veinte An\u0303os",
       "url": "https://open.spotify.com/track/1yzW4kYSLMNzmAd4XoQiJK"
@@ -2817,7 +2839,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 275280,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"

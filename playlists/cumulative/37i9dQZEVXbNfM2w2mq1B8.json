@@ -1925,7 +1925,7 @@
       ],
       "date_added": "2021-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -8370,6 +8370,28 @@
     },
     {
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
@@ -9775,7 +9797,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/48q0vSHcJdhK3IiXH8C5WJ"
@@ -10235,7 +10257,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 187333,
       "name": "\u0411\u0430\u0448\u043c\u0430\u0439\u0441\u0442\u043e\u0440\u0441\u043a\u0430",
       "url": "https://open.spotify.com/track/1rLpf280OicMHgkl6SfGHG"
@@ -10429,7 +10451,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 217333,
       "name": "\u0414\u0430 \u0441\u0438 \u0442\u0443\u043a",
       "url": "https://open.spotify.com/track/4a0oV0MjoURyHnW1gz8qcg"
@@ -10671,6 +10693,28 @@
       "duration_ms": 168033,
       "name": "\u041b\u0435\u0432\u0447\u0435",
       "url": "https://open.spotify.com/track/4J2nfP026MZM2CAnyaURQk"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u0439\u043d\u0430\u0442\u0430 \u0442\u0438 \u0421\u0432. \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d (feat. Medi)",
+        "url": "https://open.spotify.com/album/5xzuXJlVL7fdCQC0ZsBqZv"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        },
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/2uFPwrcUFTK53TiLo6ysf9"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225166,
+      "name": "\u041c\u0430\u0439\u043d\u0430\u0442\u0430 \u0442\u0438 \u0421\u0432. \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d (feat. Medi)",
+      "url": "https://open.spotify.com/track/2dKJ9C81tTxEb9VvztEpah"
     },
     {
       "album": {
@@ -10991,7 +11035,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u043a\u0430",
       "url": "https://open.spotify.com/track/4vAqFxNqrY9M3tcMMTJmNg"
@@ -11127,6 +11171,28 @@
       "duration_ms": 213061,
       "name": "\u0421\u0430\u043c\u043e \u0441\u043f\u043e\u043a\u043e",
       "url": "https://open.spotify.com/track/2pwj1MjlVgRbVcWjk3PEBd"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043a\u0438\u0442\u043d\u0438\u043a",
+        "url": "https://open.spotify.com/album/57QikCDqxUmigCJu1ZJohH"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        },
+        {
+          "name": "Yoana Sashova",
+          "url": "https://open.spotify.com/artist/0WFMejgWiqbnkzhp3c3p3L"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "\u0421\u043a\u0438\u0442\u043d\u0438\u043a",
+      "url": "https://open.spotify.com/track/0RoJ4Ww6wiW0x7LdFScXnd"
     },
     {
       "album": {

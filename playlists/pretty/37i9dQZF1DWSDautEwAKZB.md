@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin superstars like you've never heard before\.  Cover: Nathy Peluso, Ambar Lucid & Carin Leon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,925 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,940 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

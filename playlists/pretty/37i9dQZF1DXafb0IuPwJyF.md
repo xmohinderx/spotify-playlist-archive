@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > Hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: STUTS × tofubeats
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,558 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,940 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One](https://open.spotify.com/track/77eXIA0iOeNjkYyfVFeQPk) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [One](https://open.spotify.com/album/3C76PZshjG9naA7BQofuX0) | 3:38 |
-| 2 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 |
-| 3 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
-| 4 | [心という名の不可解](https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:29 |
-| 5 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
-| 6 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 |
-| 7 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
-| 8 | [BADモード](https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 5:03 |
-| 9 | [どれにしようかな](https://open.spotify.com/track/18fNMIIjs0Hu2zozNacmad) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [どれにしようかな](https://open.spotify.com/album/3RDkKW3HQFiCqKABAFcFRP) | 2:40 |
-| 10 | [踊り子](https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM) | 3:50 |
-| 11 | [Rock The World](https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Rock The World](https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw) | 4:29 |
-| 12 | [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 |
-| 13 | [もしも、僕がいなくても。](https://open.spotify.com/track/0dCZIpFLi9I0Cu5cYbGpKX) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [もしも、僕がいなくても。](https://open.spotify.com/album/3kapfx20XdwMIcdH2oKEk2) | 3:18 |
-| 14 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 |
-| 15 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
-| 16 | [Anarchy](https://open.spotify.com/track/0ZPYvSJZ1feuhUcG17PHqP) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Anarchy](https://open.spotify.com/album/0aHdIJjwSWIKPKgZcU097P) | 4:28 |
-| 17 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
-| 18 | [ショック!](https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV) | [Sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [ショック!](https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2) | 5:05 |
-| 19 | [もしも命が描けたら](https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:21 |
+| 2 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
+| 3 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 |
+| 4 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
+| 5 | [心という名の不可解](https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:29 |
+| 6 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
+| 7 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 |
+| 8 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
+| 9 | [BADモード](https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 5:03 |
+| 10 | [どれにしようかな](https://open.spotify.com/track/18fNMIIjs0Hu2zozNacmad) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [どれにしようかな](https://open.spotify.com/album/3RDkKW3HQFiCqKABAFcFRP) | 2:40 |
+| 11 | [踊り子](https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM) | 3:50 |
+| 12 | [Rock The World](https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Rock The World](https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw) | 4:29 |
+| 13 | [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 |
+| 14 | [もしも、僕がいなくても。](https://open.spotify.com/track/0dCZIpFLi9I0Cu5cYbGpKX) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [もしも、僕がいなくても。](https://open.spotify.com/album/3kapfx20XdwMIcdH2oKEk2) | 3:18 |
+| 15 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 |
+| 16 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
+| 17 | [Anarchy](https://open.spotify.com/track/0ZPYvSJZ1feuhUcG17PHqP) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Anarchy](https://open.spotify.com/album/0aHdIJjwSWIKPKgZcU097P) | 4:28 |
+| 18 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 19 | [ショック!](https://open.spotify.com/track/1eW2WQmmYbYe1MqxEh5tsV) | [Sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [ショック!](https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2) | 5:05 |
 | 20 | [単焦点](https://open.spotify.com/track/5hSPZjxHkaMOJSPoatZrIp) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [単焦点](https://open.spotify.com/album/3SJDK6D7UJXJhaATo1ql6j) | 3:01 |
 | 21 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
 | 22 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 |
 | 50 | [The Warrior](https://open.spotify.com/track/3T0YnUKkgr17L17H12wUSD) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [The Warrior](https://open.spotify.com/album/1oZJXVW5o64KgRKB6WyOZS) | 3:14 |
 
-Snapshot ID: `MTY0NDc2NDQwMCwwMDAwMDJmOTAwMDAwMTdlZjM5OTA5ZjEwMDAwMDE3ZWYyMThkMTNi`
+Snapshot ID: `MTY0NDkzNzIwMCwwMDAwMDJmYTAwMDAwMTdlZmRlNWMyNmQwMDAwMDE3ZWYyMThkMTNi`

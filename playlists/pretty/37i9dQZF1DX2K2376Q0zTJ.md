@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアーティスト: 4s4ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,371 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,408 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [0h G0D!!](https://open.spotify.com/track/4UKQxrhRbEK4EoPhogImyX) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [0h G0D!!](https://open.spotify.com/album/3c36frCgAtPLhG6NRafhRL) | 2:40 |
+| 1 | [Punish](https://open.spotify.com/track/1lEXLt5DF69maNKPCYA8IY) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [gu^2](https://open.spotify.com/artist/43TU7U6al7Qt8VCwtgnXZX) | [Here or Hell](https://open.spotify.com/album/4WJkoiP0B2hREOq5BGsnHV) | 3:09 |
 | 2 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
 | 3 | [you too](https://open.spotify.com/track/0DMcyN8eYoh9RpcpMohTHf) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [you too](https://open.spotify.com/album/0b4L8kSanI94EiIfxT6tNs) | 4:03 |
 | 4 | [まるごと](https://open.spotify.com/track/5i0AInYjZh8TuG16HyJDMZ) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [まるごと](https://open.spotify.com/album/0do13T8rlL2pjpvWCpx9R7) | 2:52 |
-| 5 | [クロニクル](https://open.spotify.com/track/2ohUc8l3L3HtsbzlR4wOSi) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [超怒猫仔/Hyper Angry Cat](https://open.spotify.com/album/4o9MoBUqFRJctQU8OXHcr4) | 2:44 |
+| 5 | [0h G0D!!](https://open.spotify.com/track/63yJxeoqzXIwZVQAoOgnHk) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Here or Hell](https://open.spotify.com/album/4WJkoiP0B2hREOq5BGsnHV) | 2:40 |
 | 6 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 |
 | 7 | [踊](https://open.spotify.com/track/0871AdnvzzSGr5XdTJaDHC) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:30 |
 | 8 | [Comme des Garçons \(Like The Boys\)](https://open.spotify.com/track/2ECuq7NAthE5xFrOAiYtzx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:01 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 42 | [みらみら](https://open.spotify.com/track/6WU1bYbxhWwbbU51FoGyHP) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [みらみら](https://open.spotify.com/album/5UBGbQfzDczPg6rz8GrXsM) | 2:17 |
 | 43 | [天使](https://open.spotify.com/track/4DUGFp2Psn92CCCZTZGSES) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ANTI BLUE](https://open.spotify.com/album/2GMgfddCOMg5kioJOUth2C) | 4:07 |
 | 44 | [レア](https://open.spotify.com/track/4gugXIxJu3BVjFxz8XVkha) | [CYNHN](https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg) | [レア](https://open.spotify.com/album/012E9nPA4vok5Ve8FqHfjS) | 4:07 |
-| 45 | [メイビーベイビー](https://open.spotify.com/track/2nDa78IwSzJ2p1cRIojMGe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [メイビーベイビー](https://open.spotify.com/album/5wtZx8Oy2cJNgkBZCzejBD) | 3:17 |
-| 46 | [リニアモーターガール](https://open.spotify.com/track/0OKaPDf7ljRTHyEWfIEICn) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Perfume The Best "P Cubed"](https://open.spotify.com/album/2ys3daPjlHkDZqN3MuKXec) | 4:06 |
+| 45 | [STAR TRAIN](https://open.spotify.com/track/0iB3hXMWoXsBVyTpnac2EY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [STAR TRAIN](https://open.spotify.com/album/74di94ym4qompX7rxSl8kb) | 4:34 |
+| 46 | [メイビーベイビー](https://open.spotify.com/track/2nDa78IwSzJ2p1cRIojMGe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [メイビーベイビー](https://open.spotify.com/album/5wtZx8Oy2cJNgkBZCzejBD) | 3:17 |
 | 47 | [GALCHAN MODE](https://open.spotify.com/track/7pBth4KZqKJ8yynIelN7hf) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [GALCHAN MODE](https://open.spotify.com/album/4a6gI8VfXiXj3gif249p1V) | 2:52 |
 | 48 | [Gloomy Sunday](https://open.spotify.com/track/6IzP5UdwWCdIeOoWYzbi2u) | [Litsuka Aisawa](https://open.spotify.com/artist/41cgME6A74wwiWf5cYw4cW) | [Gloomy Sunday](https://open.spotify.com/album/6Judq0HVv7kxpfsz58KwRM) | 2:11 |
 | 49 | [short pants](https://open.spotify.com/track/00fzV0xE0X7u04Ii5DeImF) | [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn), [Maphie](https://open.spotify.com/artist/38oAzEhxXOHHI96zBA29WP) | [short pants](https://open.spotify.com/album/5yUGxjWsmeSgiEKUIPm1UK) | 3:14 |
 | 50 | [デコイ](https://open.spotify.com/track/0tWMnqGsfZhXtD4z40pwUM) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [デコイ](https://open.spotify.com/album/2Sv0noxXPQNMDgvprcPqGC) | 3:13 |
 
-Snapshot ID: `MTY0MzkwMDQwMCwwMDAwMDAxMzAwMDAwMTdlYzAxOTcyMWIwMDAwMDE3ZWI1OTRhNTA5`
+Snapshot ID: `MTY0NDkzNzIwMCwwMDAwMDAxNDAwMDAwMTdlZmRlNWMyNTAwMDAwMDE3ZWI1OTRhNTA5`

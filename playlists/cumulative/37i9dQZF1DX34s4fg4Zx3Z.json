@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00fang Ta S\u1ebd T\u1ed1t Th\u00f4i",
+        "url": "https://open.spotify.com/album/08OPFUEeD8j1jFoWfSQWeC"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/713suxZd6j7VN9OwVeBsBv"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376624,
+      "name": "Ch\u00fang Ta S\u1ebd T\u1ed1t Th\u00f4i",
+      "url": "https://open.spotify.com/track/1YO6myBHGujaq5mqWxaLos"
+    },
+    {
+      "album": {
         "name": "Ch\u00fang Ta T\u1eebng C\u00f3 Nhau",
         "url": "https://open.spotify.com/album/5YTYzbRGXI9WYtneJb8eKb"
       },
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 274004,
       "name": "Nguoi Choi So 1",
       "url": "https://open.spotify.com/track/6dEGRiYiiK1vKuczy89wCV"
@@ -2513,7 +2531,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 202575,
       "name": "Th\u01b0\u01a1ng C\u00e1i X\u01b0\u01a1ng Ch\u1eb3ng C\u00f2n (feat. Cashmel)",
       "url": "https://open.spotify.com/track/1zLquM72L6Ho2bbwnTEXeZ"
@@ -2807,6 +2825,28 @@
       "duration_ms": 202393,
       "name": "V\u1ea5n V\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/3TaPaPsNUyEmPvyszId32y"
+    },
+    {
+      "album": {
+        "name": "V\u1ebd",
+        "url": "https://open.spotify.com/album/6pSPnQyjqp1G5LQsFQPzML"
+      },
+      "artists": [
+        {
+          "name": "LGKH",
+          "url": "https://open.spotify.com/artist/4Zcle1oVf2bVAxRbnlEJ4i"
+        },
+        {
+          "name": "Mouse T",
+          "url": "https://open.spotify.com/artist/5aVn5DcjTAe6LMKzgCBMLv"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192513,
+      "name": "V\u1ebd",
+      "url": "https://open.spotify.com/track/5VFDQ3ZVyFMJQUjDOw8otJ"
     },
     {
       "album": {

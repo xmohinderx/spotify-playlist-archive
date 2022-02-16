@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,631 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,635 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 51 | [Rora](https://open.spotify.com/track/3FoiZ0cJwgfqY9xKHdVSnT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/7lQwqjZihf3rb4ygUgs87p) | 3:51 |
 | 52 | [Obiaa](https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/5x6h4sq7bNekBjnBoeGHaN) | 4:15 |
 | 53 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 |
-| 54 | [Good Lovin' \(feat\. Rhita Nattah\)](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
+| 54 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
 | 55 | [Amanda Pressure](https://open.spotify.com/track/0YEbAeUwfjVnJ7XHB32eEg) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Amanda Pressure](https://open.spotify.com/album/79nzFswc8DosSGcWkYxb4J) | 3:50 |
 | 56 | [Sondela \- Edit](https://open.spotify.com/track/0JSPN8S57bYOL3LSLm5yvN) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Sondela](https://open.spotify.com/album/5iTVgdXWbN2wticVSkTFsv) | 3:58 |
 | 57 | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Spotless](https://open.spotify.com/artist/7zd8O0lGS5sHftyvnhtWD1), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Soco \(feat\. Wizkid, Ceeza Milli, Spotless & Terri\)](https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo) | 4:15 |

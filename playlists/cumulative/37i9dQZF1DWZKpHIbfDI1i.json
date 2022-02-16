@@ -224,6 +224,32 @@
     },
     {
       "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0QbLKuhvOtbjeuHy1Pt68U"
       },
@@ -253,7 +279,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
@@ -378,6 +404,28 @@
     },
     {
       "album": {
+        "name": "Dile a Tu Orgullo (En Vivo)",
+        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226345,
+      "name": "Dile a Tu Orgullo - En Vivo",
+      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
+    },
+    {
+      "album": {
         "name": "Dos Mundos",
         "url": "https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA"
       },
@@ -433,7 +481,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
@@ -477,7 +525,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
@@ -571,7 +619,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 268405,
       "name": "La Barda",
       "url": "https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y"
@@ -769,7 +817,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 230776,
       "name": "Mejor Sola",
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
@@ -933,7 +981,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 214035,
       "name": "Reina de mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
@@ -1187,7 +1235,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 220493,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/2JBGoJqzvPAsGa0eo7zcNg"
@@ -1241,7 +1289,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 222133,
       "name": "Ya Solo Eres Mi Ex",
       "url": "https://open.spotify.com/track/0QBinvGHLoIFTICmySWvXG"

@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 235157,
       "name": "A story that will turn into a poem",
       "url": "https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA"
@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Celebrity (Acoustic)",
+        "url": "https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG"
+      },
+      "artists": [
+        {
+          "name": "Dragon Stone",
+          "url": "https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Celebrity - Acoustic",
+      "url": "https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 250999,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 298541,
       "name": "Early summer",
       "url": "https://open.spotify.com/track/3VOwTYieX61YALed6ovW5j"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 213800,
       "name": "Headache",
       "url": "https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 204402,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/0nF3xRy0k9fxRoi3OliAdW"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 287535,
       "name": "If",
       "url": "https://open.spotify.com/track/0zaHICE67lr13INMJggubW"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Just thinking about you",
       "url": "https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 205457,
       "name": "LONG SLEEP",
       "url": "https://open.spotify.com/track/4ceMxOgJSdfHT2Tehd6L0w"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 183840,
       "name": "My Yellow",
       "url": "https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 216493,
       "name": "Spring Flowers",
       "url": "https://open.spotify.com/track/63tzhE9woGEnPVhgWzUTtk"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "want to go to sleep",
       "url": "https://open.spotify.com/track/6h8kbx5JGBhXNaoxlZrtyE"
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"

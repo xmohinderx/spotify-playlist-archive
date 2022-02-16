@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,570 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,693 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 33 | [Chose Me](https://open.spotify.com/track/2TXPpyvAghVDKSBeyEuUEH) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Chose Me](https://open.spotify.com/album/2r3YZtNY5S5eiHHCwquxuo) | 2:24 |
 | 34 | [Numero Uno](https://open.spotify.com/track/2gw18LNTvCUs0ZTe9o5qA4) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Numero Uno](https://open.spotify.com/album/0J6j1u17JUkTGFqi9ccTiM) | 2:13 |
 | 35 | [STOP IT](https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [STOP IT](https://open.spotify.com/album/3h853f1lbotNRiJUTxwOJg) | 1:55 |
-| 36 | [Money](https://open.spotify.com/track/2c0lpkLWgSBzBbGOPXY9gk) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Money](https://open.spotify.com/album/1MKtfOtZkLq6oIL6IG569c) | 2:40 |
+| 36 | [Money](https://open.spotify.com/track/2c0lpkLWgSBzBbGOPXY9gk) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Drew Banga](https://open.spotify.com/artist/1tvDYSO4RO7bB6ClBiGCSn) | [Money](https://open.spotify.com/album/1MKtfOtZkLq6oIL6IG569c) | 2:40 |
 | 37 | [Titanic](https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Titanic](https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU) | 1:52 |
 | 38 | [Not The Same God As Mine](https://open.spotify.com/track/40UUA98SbhyPmhJJm3KgYs) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Not The Same God As Mine](https://open.spotify.com/album/6FOe6OxItoBp8M9uQKO6ke) | 2:44 |
 | 39 | [Hate To Say It](https://open.spotify.com/track/0JovAYpOGoftOSuQv3TRwO) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Hate To Say It](https://open.spotify.com/album/2MEAyPn9t8zILlTX4gIsY4) | 3:03 |

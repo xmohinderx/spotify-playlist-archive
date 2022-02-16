@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "All American",
       "url": "https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 172371,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 217184,
       "name": "California",
       "url": "https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 199413,
       "name": "Drag It Out",
       "url": "https://open.spotify.com/track/06uF7nCt1WzRjZJrOhSMu8"
@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Hate This Hometown",
+        "url": "https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193023,
+      "name": "Hate This Hometown",
+      "url": "https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP"
+    },
+    {
+      "album": {
         "name": "JoDee Messina",
         "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
       },
@@ -813,7 +831,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 209760,
       "name": "Heads Carolina, Tails California",
       "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 210213,
       "name": "Holding Out For A Cowboy",
       "url": "https://open.spotify.com/track/1q9RqY2hjH5e8U3NrrjWpN"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 196421,
       "name": "I Could Use a Love Song",
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 214160,
       "name": "i don't lovE you",
       "url": "https://open.spotify.com/track/4zeKFHz1NrJE6MQzoXp92B"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 166928,
       "name": "Me About Me",
       "url": "https://open.spotify.com/track/5T6blAaKgFyfRZ7yyK4SoQ"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/4ZwLDLTkFfy45yYA39kYOQ"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 193053,
       "name": "My Bar",
       "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 200541,
       "name": "Not Your Girl",
       "url": "https://open.spotify.com/track/6FlDHz8m1LARwqKCuDfvmF"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 166185,
       "name": "Shoulda",
       "url": "https://open.spotify.com/track/3eEPoXCE8euzeFobYQTK9M"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 211499,
       "name": "Someone's Sometimes",
       "url": "https://open.spotify.com/track/4CRM33ZzLhuJzQGAnINTtp"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 319320,
       "name": "Strawberry Wine - 2021 Version",
       "url": "https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn"
@@ -2327,7 +2345,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 200440,
       "name": "The Woman I've Become",
       "url": "https://open.spotify.com/track/3Sov5oiUCNxw1SvljM31V9"
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 172754,
       "name": "These Days",
       "url": "https://open.spotify.com/track/1EEhU59CbUAW8TaLpxqNNZ"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 203384,
       "name": "Thirties",
       "url": "https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ"
@@ -2767,7 +2785,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 206826,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh"

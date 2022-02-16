@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "album": {
         "name": "All of This (Jorja Smith x GuiltyBeatz)",
         "url": "https://open.spotify.com/album/6uOlTbRJLSTYDIieRMzcs0"
       },
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "City of Gods",
       "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -4531,7 +4549,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 498108,
       "name": "Halala (feat. Mellow & Sleazy)",
       "url": "https://open.spotify.com/track/2P22nuGMf26qeoX7P0oOuT"
@@ -5659,7 +5677,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -6091,7 +6109,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 445714,
       "name": "Izolo",
       "url": "https://open.spotify.com/track/1ix1dhMZI8cYXiyzHgun42"
@@ -7899,7 +7917,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 343589,
       "name": "Megalo",
       "url": "https://open.spotify.com/track/0tvJEr9OT2FzOYsyI8tdmh"
@@ -8099,7 +8117,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 378958,
       "name": "Mmapula",
       "url": "https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY"
@@ -8409,7 +8427,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -11057,7 +11075,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 377182,
       "name": "Sithi Shwi (feat. Big Zulu, DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/4tYw8LJySmSEopvN1AknXv"
@@ -11535,10 +11553,52 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-05",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "album": {
+        "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
+        "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2"
+        },
+        {
+          "name": "Shishiliza",
+          "url": "https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Raspy",
+          "url": "https://open.spotify.com/artist/0PK11GqQuP8esL3Tq3RugG"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246822,
+      "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
+      "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
     },
     {
       "album": {
@@ -12183,7 +12243,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 377449,
       "name": "Teka (feat. Mellow & Sleazy & Djy Ma'Ten)",
       "url": "https://open.spotify.com/track/6Cc1fSsuS2enK9YUifgnF3"
@@ -12359,6 +12419,28 @@
       "duration_ms": 204434,
       "name": "The Jackie (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
+    },
+    {
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "album": {
@@ -13293,7 +13375,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 411950,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/1Yw6QsixEyzpkZioJPq2mv"
@@ -13385,7 +13467,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 420039,
       "name": "Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/1juCUMeUqFP7oId0SR2Yfg"
@@ -13821,7 +13903,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"

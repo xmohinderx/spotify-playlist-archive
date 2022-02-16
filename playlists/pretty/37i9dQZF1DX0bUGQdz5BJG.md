@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Priscilla Block
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,652 likes - 147 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,664 likes - 147 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 12 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 |
 | 13 | [I'll Keep the Country](https://open.spotify.com/track/2dxC3ICX1Gy4IqSwutBK91) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I'll Keep the Country](https://open.spotify.com/album/1d7vUkuKj5iWcJJkZeeRR9) | 3:31 |
 | 14 | [Get You](https://open.spotify.com/track/2ZwdntJcAbaQTdbivEpakc) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Get You](https://open.spotify.com/album/1SKv7ZfLbWUkhry74XrUXw) | 3:00 |
-| 15 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown \(G010004738710A\)](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
+| 15 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
 | 16 | [Let It Burn](https://open.spotify.com/track/09MhsFYo8oqSsd4eR2F15A) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Let It Burn](https://open.spotify.com/album/1aXlGFPc8SkCkuEOMd0T6z) | 3:26 |
 | 17 | [Wherever You Are](https://open.spotify.com/track/1cHYzbf9i27FIsHj91fLIY) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [Thoughtfully Reckless](https://open.spotify.com/album/3racQkM4APWSnc2cBPrqpL) | 2:28 |
 | 18 | [Glad She Got Away](https://open.spotify.com/track/70DJhQRDuGCTWcSuqueFCB) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Glad She Got Away](https://open.spotify.com/album/0PMq7HXtjdeAYs0H8dAgIU) | 2:47 |

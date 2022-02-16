@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=72b74BypQluwufnMm3M8Cw">Focalistic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,976 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,042 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 10 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 |
 | 11 | [Dangerous \(feat\. Ayra Starr\)](https://open.spotify.com/track/0hnfvkzawEjVVxBUWDEnEL) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bravo](https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695) | 2:58 |
 | 12 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 |
-| 13 | [Good Lovin' \(feat\. Rhita Nattah\)](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
+| 13 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
 | 14 | [Summeryomuthi](https://open.spotify.com/track/3pLUJWBRx9PBdphuNxn3Ka) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summeryomuthi](https://open.spotify.com/album/23qbw9oHWVJWpBE9X02dMl) | 4:33 |
 | 15 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
 | 16 | [Over U](https://open.spotify.com/track/5SevsJvmoSo9GGVllZerpe) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Salem](https://open.spotify.com/album/5uBSHGOMcYcVSBYTWl1hKZ) | 2:56 |

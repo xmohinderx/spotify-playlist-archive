@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Dorothy
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,685 likes - 129 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,968 likes - 129 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 20 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 | 21 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
 | 22 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 |
-| 23 | [WHO DIED AND MADE YOU KING? \- Feat\. Shungudzo](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING? \(Feat\. Shungudzo\)](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 |
+| 23 | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 |
 | 24 | [TOO LITTLE TOO LATE](https://open.spotify.com/track/0MwSfAZoYz6xNDwsRovPkr) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [TOO LITTLE TOO LATE](https://open.spotify.com/album/2sDEfTzMHcVjVnB9RGXMUw) | 2:30 |
 | 25 | [Low Budget Horror](https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Low Budget Horror](https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK) | 3:01 |
 | 26 | [Strangers](https://open.spotify.com/track/1lqUv4fGpY74XMC53V9cAi) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Strangers](https://open.spotify.com/album/3H53YB8nhMo3PZmyJADCib) | 3:00 |

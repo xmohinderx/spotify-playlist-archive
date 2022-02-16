@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Tayrone com Lauana Prado, Gloria Groove e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,726,118 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,726,293 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 45 | [Vem Neném](https://open.spotify.com/track/59OylSKp6Sel27iqqUFURS) | [Anderson Neiff](https://open.spotify.com/artist/0DLzO3qfGGEJyXwLflcgXK) | [Vem Neném](https://open.spotify.com/album/4yzgTk8P9BAwXODU2wuno8) | 3:10 |
 | 46 | [Borboleta](https://open.spotify.com/track/5vt5NFhHYAxJibO7apMbkg) | [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK), [M1ka](https://open.spotify.com/artist/4wNs0345Ej2JR1YfxbSLO4) | [Borboleta](https://open.spotify.com/album/7vKyTiVFhcMCL1yEoanXoQ) | 2:57 |
 | 47 | [5 Playboy Não Faz](https://open.spotify.com/track/1FCe9RuKJOXrvXv78qyvIy) | [Dj Kevin](https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [5 Playboy Não Faz](https://open.spotify.com/album/52mnr3l0bBDOueUlGeQ1qt) | 2:38 |
-| 48 | [Banalizaram \- Ao Vivo](https://open.spotify.com/track/04VeR40RpFFscFK1NW2MJF) | [ZeZé Di Camargo](https://open.spotify.com/artist/1wT33JDD3YLC0fqFnsWo9F) | [Rústico](https://open.spotify.com/album/1kboOCFiUyZowWVVCo6IIQ) | 3:34 |
+| 48 | [Banalizaram \- Ao Vivo](https://open.spotify.com/track/04VeR40RpFFscFK1NW2MJF) | [ZeZé Di Camargo](https://open.spotify.com/artist/1wT33JDD3YLC0fqFnsWo9F) | [Rústico \(Ao Vivo\)](https://open.spotify.com/album/1kboOCFiUyZowWVVCo6IIQ) | 3:34 |
 | 49 | [Meio Fio \- Ao Vivo](https://open.spotify.com/track/5f7SZQBz6bgvbySA4B2jpf) | [Igor & Walace](https://open.spotify.com/artist/7GZIUnkqn8wTG3FjZ5wy0T) | [Ao Live \(Vol\. 2\)](https://open.spotify.com/album/4NHSDv1eUwJi6xMnAtM0aG) | 2:57 |
 | 50 | [Roda Gigante](https://open.spotify.com/track/58rlwIuidS8FWafiXgOkZk) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Roda Gigante](https://open.spotify.com/album/0zuyaL8f0GGtJERCuhtmEl) | 3:09 |
 | 51 | [Tudo Vai Dar Certo](https://open.spotify.com/track/3P382EPA2uASutnTSOWcvq) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Tudo Vai Dar Certo](https://open.spotify.com/album/0GnrDJ5s5l8WAeVuDdsUiW) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Jack Van Cleaf, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,975 likes - 71 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,291 likes - 71 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 43 | [All Good](https://open.spotify.com/track/0ohMQuYZWheaMZnVbGSQvY) | [Kiddo Dust](https://open.spotify.com/artist/3xTldyWVORsVkohxA7guSQ) | [All Good](https://open.spotify.com/album/4GUbYemdf4ctTOW9MNv3Tj) | 2:46 |
 | 44 | [Energy](https://open.spotify.com/track/0uC3y0JfGvhyLMEgLErd6e) | [MMXVII](https://open.spotify.com/artist/5GGTwq5Egc6LULIJbyiZPM) | [Energy](https://open.spotify.com/album/45QpnTMXqouwJjAnWXQ5rg) | 2:18 |
 | 45 | [all my friends](https://open.spotify.com/track/3PCf2y6XsgtVusXV2xehX7) | [ghosthands](https://open.spotify.com/artist/1wNZGB5JKkcCu4EYNws9rL) | [all my friends](https://open.spotify.com/album/54qPtI85XRiPEh6jkxgqen) | 3:21 |
-| 46 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown \(G010004738710A\)](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
+| 46 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
 | 47 | [The Way](https://open.spotify.com/track/5NfNyN8HR79ggz2XdfhNal) | [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI) | [The Way](https://open.spotify.com/album/6fx4HCstR0XKHhGtHYULEv) | 2:37 |
 | 48 | [What Do You Feel](https://open.spotify.com/track/7wSF7gxepOU1AeY1klcG9a) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [What Do You Feel](https://open.spotify.com/album/0m3GZNjNQ7qZ3WGA3HKRaE) | 4:01 |
 | 49 | [Autumn Sleep](https://open.spotify.com/track/2dXL2ARFp786NZeX7F52JS) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Autumn Sleep](https://open.spotify.com/album/2bCAV7jWL0v1maomA5ihNq) | 3:58 |

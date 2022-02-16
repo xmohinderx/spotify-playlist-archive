@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The best of UK Rap & Drill\.  Cover: Dave, Fredo, Giggs, Meekz & Ghetts
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,185 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,136 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: sor
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,698 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,699 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 47 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 | 48 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 
-Snapshot ID: `MTY0NDg3OTYwMCwwMDAwMDAzNjAwMDAwMTdlZmE3NmQ5ZjUwMDAwMDE3ZWY3ODZmMzJh`
+Snapshot ID: `MTY0NDk2NjAwMCwwMDAwMDAzODAwMDAwMTdlZmY5ZDM1ZWEwMDAwMDE3ZWZjZWYzZWU3`

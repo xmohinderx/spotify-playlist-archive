@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,336 likes - 43 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,364 likes - 43 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Madhaniya](https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Madhaniya](https://open.spotify.com/album/1PxxiGMkxPXAqVNT5IvJX8) | 2:04 |
 | 2 | [Chitta](https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Shiddat](https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9) | 3:48 |
 | 3 | [Ranjhana](https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ranjhana](https://open.spotify.com/album/5Nt2hF22SqOBga62QCh5bI) | 2:37 |
-| 4 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
-| 5 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
-| 6 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
-| 7 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Walia](https://open.spotify.com/artist/00HXgtYHCfo0SAKRg1JJl5) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
-| 8 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 |
-| 9 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 |
+| 4 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 |
+| 5 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
+| 6 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
+| 7 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
+| 8 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Walia](https://open.spotify.com/artist/00HXgtYHCfo0SAKRg1JJl5) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
+| 9 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 |
 | 10 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
 | 11 | [Mombattiye \- Folk Recreation](https://open.spotify.com/track/7CAKJJmeiQsupcz8pTQjtx) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY), [Pam Sengh](https://open.spotify.com/artist/5LSheYLF7ZnIulhPQ5aEgx) | [Mombattiye \(Folk Recreation\)](https://open.spotify.com/album/71Q135Dh7bT8eNXVz2VQYM) | 3:25 |
 | 12 | [Tere Jeya Hor Disda](https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Tere Jeya Hor Disda](https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc) | 4:35 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 42 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
 | 43 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/7nSVPEAgUFEMq84e9yIDsA) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music Of Punjab,Vol\. 1](https://open.spotify.com/album/7DVAPTaRl06o1qEMTG7jIA) | 3:22 |
 
-Snapshot ID: `MTYzNTkyNDA5NSwwMDAwMDAzMjAwMDAwMTdjZTRhY2IzNDgwMDAwMDE3MGU4MjIyYWMy`
+Snapshot ID: `MTY0NDkxNTQ1OSwwMDAwMDAzMzAwMDAwMTdlZmM5YTA2ZGIwMDAwMDE3MGU4MjIyYWMy`

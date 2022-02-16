@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "It\u2019s Never Really Over",
+        "url": "https://open.spotify.com/album/6uo1RAD4bTkbHVn1cnxaED"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182994,
+      "name": "Adelaide",
+      "url": "https://open.spotify.com/track/16NGKSGdga9PpKni7czkLl"
+    },
+    {
+      "album": {
         "name": "aftermath",
         "url": "https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 157555,
       "name": "Are you happy?",
       "url": "https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 194826,
       "name": "Beginning Middle End - From The Netflix Film \"To All The Boys: Always and Forever\"",
       "url": "https://open.spotify.com/track/2kFHjWko1il6O9L3eK9IzG"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 186129,
       "name": "Come Here and Leave Me Alone",
       "url": "https://open.spotify.com/track/2AirVCqXkrvrqs6WkN4bgp"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 152317,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 183786,
       "name": "GO TO HELL",
       "url": "https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/3EBdDNM1VcD8d8mJJEYIcJ"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 220918,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 208826,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"

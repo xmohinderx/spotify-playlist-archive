@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 217213,
       "name": "200 COPAS",
       "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 242026,
       "name": "Amor del Bueno",
       "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 199881,
       "name": "Amor en Coma",
       "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 267106,
       "name": "Color Esperanza",
       "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 200586,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
@@ -917,10 +917,32 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 195800,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (En Vivo) (feat. Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
+    },
+    {
+      "album": {
+        "name": "Deja Que Te Bese",
+        "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244353,
+      "name": "Deja Que Te Bese",
+      "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
     },
     {
       "album": {
@@ -1087,7 +1109,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
@@ -1297,7 +1319,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
@@ -1427,7 +1449,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 225239,
       "name": "Laura no est\u00e0",
       "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
@@ -1619,7 +1641,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
@@ -1703,7 +1725,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 236731,
       "name": "M\u00e1s De La Una",
       "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
@@ -1987,7 +2009,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 188438,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/2mCefaKSDuz6S50YIS57wR"
@@ -2251,6 +2273,24 @@
       "duration_ms": 247626,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1kM1BcO9nbQJtPhcbL2WU5"
+    },
+    {
+      "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "Sirena",
+      "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
     },
     {
       "album": {
@@ -2595,7 +2635,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 178613,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
@@ -2661,7 +2701,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 144351,
       "name": "Un Beso en Madrid",
       "url": "https://open.spotify.com/track/5L3kJqFfHgE0JzLqBoyQlB"
@@ -2683,7 +2723,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS"
@@ -2759,7 +2799,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 257379,
       "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
@@ -2777,7 +2817,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"

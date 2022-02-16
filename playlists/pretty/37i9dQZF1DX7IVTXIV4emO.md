@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7IVTXIV4emO.md) - [plain]
 
 > Desde todos los rincones de internet: Los hits más virales del momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,787 likes - 120 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,048 likes - 120 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

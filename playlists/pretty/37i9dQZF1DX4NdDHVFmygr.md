@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,059 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,150 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
-| 2 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal Benchlikha](https://open.spotify.com/artist/1uwLCdhUIC00oYJEXASpzP) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 |
-| 3 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 |
+| 1 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 |
+| 2 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 |
+| 3 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
 | 4 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 |
 | 5 | [Hobak Enta](https://open.spotify.com/track/6w7ZiS8QIV2LNOHSUwtM3N) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Hobak Enta](https://open.spotify.com/album/2oeYa4uHu5t0sXJZzgcHcz) | 3:01 |
 | 6 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [J’en ai marre](https://open.spotify.com/track/6VQTDVNUUeb3pcP8QbvmMa) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [J’en ai marre](https://open.spotify.com/album/00wrmWKjrzKvUpi69rYhoD) | 2:51 |
 | 50 | [Hyati Ana](https://open.spotify.com/track/0UvW5kLHvjzN4YsHGM0oai) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Hyati Ana](https://open.spotify.com/album/3ATnydBE42x10NtDiXe4mt) | 2:51 |
 
-Snapshot ID: `MTY0NDg0Mzk2NiwwMDAwMDFkZDAwMDAwMTdlZjg1NzIxZjIwMDAwMDE3MGE0ZjQyMDMw`
+Snapshot ID: `MTY0NDkzNTgxOCwwMDAwMDFkZTAwMDAwMTdlZmRkMGFkZDgwMDAwMDE3MGE0ZjQyMDMw`

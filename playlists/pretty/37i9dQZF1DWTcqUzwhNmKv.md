@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sabaton on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,658 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,147 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 |
 | 2 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
 | 3 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 |
-| 4 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
-| 5 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
-| 6 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 |
-| 7 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 |
+| 4 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
+| 5 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
+| 6 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 |
+| 7 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 |
 | 8 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 |
 | 9 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
 | 10 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 16 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 |
 | 17 | [Bastards](https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k) | 5:25 |
 | 18 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
-| 19 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
-| 20 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
+| 19 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 |
+| 20 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
 | 21 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 |
 | 22 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 |
 | 23 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 |
 | 60 | [Revelation](https://open.spotify.com/track/5wfccHW5hemTM6o1uZqETU) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [Divine Tragedy](https://open.spotify.com/album/2gl9aNQuTgeVZAwOi3gLpI) | 2:55 |
 
-Snapshot ID: `MTY0NDUzNzY2MCwwMDAwMDRjYTAwMDAwMTdlZTYxNTQyYzQwMDAwMDE3ZWUzYjAyNTFm`
+Snapshot ID: `MTY0NDkxMTkxOCwwMDAwMDRjYjAwMDAwMTdlZmM2M2ZlNDgwMDAwMDE3ZWUzYjAyNTFm`

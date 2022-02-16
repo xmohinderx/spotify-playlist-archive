@@ -1,13 +1,61 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 185041,
+  "num_followers": 185188,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NjA4NywwMDAwMDAwMDIzZTU2MmJmMDcwZmNhYjNmZmNkNzEwMjZkMjRiNGVl",
+  "snapshot_id": "MTY0NDk3MjM0MCwwMDAwMDAwMDg0NzcyNTJmMmFlYjE0N2NiMGNlMTcwYjI0YTljMGY0",
   "tracks": [
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Feels Like Today",
+        "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Bless The Broken Road",
+      "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 207506,
+      "name": "Stickwitu",
+      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
+    },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
@@ -27,18 +75,34 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Come Away With Me",
-        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
+        "name": "O-Town",
+        "url": "https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "O-Town",
+          "url": "https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
+      "duration_ms": 281426,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "A Moment Like This",
+      "url": "https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -75,38 +139,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Feels Like Today",
-        "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Bless The Broken Road",
-      "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "A Moment Like This",
-      "url": "https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
       },
@@ -119,22 +151,6 @@
       "duration_ms": 283506,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/2Dp2LRrY71XIfLe3co2Qnh"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "O-Town",
-        "url": "https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV"
-      },
-      "artists": [
-        {
-          "name": "O-Town",
-          "url": "https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx"
-        }
-      ],
-      "duration_ms": 281426,
-      "name": "All or Nothing",
-      "url": "https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -171,66 +187,34 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 207506,
-      "name": "Stickwitu",
-      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
       "artists": [
         {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Goodbye to You",
-      "url": "https://open.spotify.com/track/6NSJOIyKYcRZh28Kf0URTw"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/1mLK9n3KBlgsRgPX3nlSwf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/7cCulnTCDYdGiSmTKmvJJe"
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -267,34 +251,34 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+        "name": "Stop All The World Now",
+        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
+      "duration_ms": 249120,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/1mLK9n3KBlgsRgPX3nlSwf"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+      "duration_ms": 249146,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/7cCulnTCDYdGiSmTKmvJJe"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -315,6 +299,38 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Goodbye to You",
+      "url": "https://open.spotify.com/track/6NSJOIyKYcRZh28Kf0URTw"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
+      "duration_ms": 223066,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -363,22 +379,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Something to Be",
         "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 256600,
       "name": "Ever the Same",
       "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5VWfJgnfq2bOmsDNjH5gsi"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3OYfhC3sMZu5NviiNre0bh"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -427,34 +443,34 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 223066,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/5VWfJgnfq2bOmsDNjH5gsi"
+        "name": "The Best of Mandy Moore",
+        "url": "https://open.spotify.com/album/551186Jr75bHrh58ZdEMhW"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
         }
       ],
-      "duration_ms": 252160,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/3OYfhC3sMZu5NviiNre0bh"
+      "duration_ms": 222466,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7068X4wz4hhlhzj0cTlXU4"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -475,18 +491,34 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/4XbSwLzvznYCophbz8ElMV"
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
       "artists": [
         {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 252600,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/4du0TY3NTgvQGlelrBHfDL"
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -507,118 +539,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Hey There Delilah",
-        "url": "https://open.spotify.com/album/6wOPQzEA9fRfJ3BAXziGha"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/52mdL9k7mOCbKfL54Bw8Tq"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Not a Girl, Not Yet a Woman",
-      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 247440,
-      "name": "Footprints in the Sand",
-      "url": "https://open.spotify.com/track/4QOJF00kfJNF5qqM4U669Z"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix"
       },
@@ -631,22 +551,6 @@
       "duration_ms": 264600,
       "name": "Hero",
       "url": "https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "The Best of Mandy Moore",
-        "url": "https://open.spotify.com/album/551186Jr75bHrh58ZdEMhW"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/7068X4wz4hhlhzj0cTlXU4"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -671,34 +575,50 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "In My Own Words",
-        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/4XbSwLzvznYCophbz8ElMV"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
         }
       ],
-      "duration_ms": 207186,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
+      "duration_ms": 252600,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/4du0TY3NTgvQGlelrBHfDL"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+      "duration_ms": 267933,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "I'm Not a Girl, Not Yet a Woman",
+      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -719,34 +639,34 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/48JsbOoVdwVMARvLKoYZYY"
+        "name": "Hey There Delilah",
+        "url": "https://open.spotify.com/album/6wOPQzEA9fRfJ3BAXziGha"
       },
       "artists": [
         {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
         }
       ],
-      "duration_ms": 258693,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4YOnfHpTFC9e2E5JI8lUA2"
+      "duration_ms": 232293,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/52mdL9k7mOCbKfL54Bw8Tq"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/0QVA6D8Aq0jx5aAH14lD2F"
+        "name": "In My Own Words",
+        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
       },
       "artists": [
         {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 236813,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/1g3c5wrIZHEx8gUWYHJTfn"
+      "duration_ms": 207186,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -760,31 +680,31 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 249093,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
+        "name": "Celebrity",
+        "url": "https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE"
       },
       "artists": [
         {
@@ -792,25 +712,9 @@
           "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 288760,
-      "name": "That's When I'll Stop Loving You",
-      "url": "https://open.spotify.com/track/5FsFmOGGYvfUkpmHPNunYj"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "The Breakthrough",
-        "url": "https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Be Without You - Kendu Mix",
-      "url": "https://open.spotify.com/track/2YegxR5As7BeQuVp2U6pek"
+      "duration_ms": 292000,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5efcmnfzIROJ5Aj7EGSDm8"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -831,66 +735,82 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "In This Skin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1tCJPKhKa3j1OBgz0MhBUV"
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
       "artists": [
         {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/7AHZb0GnILBBitj0MxObO5"
+      "duration_ms": 247440,
+      "name": "Footprints in the Sand",
+      "url": "https://open.spotify.com/track/4QOJF00kfJNF5qqM4U669Z"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
+      "duration_ms": 249093,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
     },
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+        "name": "X",
+        "url": "https://open.spotify.com/album/48JsbOoVdwVMARvLKoYZYY"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
         }
       ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+      "duration_ms": 258693,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4YOnfHpTFC9e2E5JI8lUA2"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "That's When I'll Stop Loving You",
+      "url": "https://open.spotify.com/track/5FsFmOGGYvfUkpmHPNunYj"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -911,6 +831,86 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/0QVA6D8Aq0jx5aAH14lD2F"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/1g3c5wrIZHEx8gUWYHJTfn"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "In This Skin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1tCJPKhKa3j1OBgz0MhBUV"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/7AHZb0GnILBBitj0MxObO5"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Be Without You - Kendu Mix",
+      "url": "https://open.spotify.com/track/2YegxR5As7BeQuVp2U6pek"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -927,8 +927,40 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Celebrity",
-        "url": "https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE"
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
       },
       "artists": [
         {
@@ -936,9 +968,9 @@
           "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/5efcmnfzIROJ5Aj7EGSDm8"
+      "duration_ms": 202333,
+      "name": "I Thought She Knew",
+      "url": "https://open.spotify.com/track/1ppDgqS367qa6BKS3QTjvQ"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -968,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 198200,
-      "name": "The Heart of Life",
-      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
+      "duration_ms": 285053,
+      "name": "Stop This Train",
+      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -991,6 +1023,38 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -1003,38 +1067,6 @@
       "duration_ms": 230933,
       "name": "Don't Let Me Be the Last to Know",
       "url": "https://open.spotify.com/track/3OitWDgR4SzAUOm3TBmvhw"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "I Thought She Knew",
-      "url": "https://open.spotify.com/track/1ppDgqS367qa6BKS3QTjvQ"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -1055,22 +1087,6 @@
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -1120,25 +1136,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 285053,
-      "name": "Stop This Train",
-      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Never Gone",
-        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
+      "duration_ms": 198200,
+      "name": "The Heart of Life",
+      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
     }
   ],
   "unique_name": "00s Ballads",

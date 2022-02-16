@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6iDnezR8vmo7aF7k2BsMzD"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 180893,
       "name": "Bro Hymn",
       "url": "https://open.spotify.com/track/4ksd5zvWtM0CHCyK1brHWL"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 209626,
       "name": "City Of Angels",
       "url": "https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 133293,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2XTggG0CO00DkQy3U9rj1e"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 130933,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/2sj6shokFZofFW0VaygHAA"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 241908,
       "name": "Diamonds And Guns",
       "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 145466,
       "name": "Franco Un-American",
       "url": "https://open.spotify.com/track/00AgttKx4gRJghhPETFrOE"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/6YjciGk65aCrZAXjaQVG6C"
@@ -635,6 +635,24 @@
       "duration_ms": 200573,
       "name": "Insects Destroy",
       "url": "https://open.spotify.com/track/3h0cVQlafBKn2dHPIiCmBb"
+    },
+    {
+      "album": {
+        "name": "Who Is, This Is?",
+        "url": "https://open.spotify.com/album/0xQkQHaAt66O0hqsA7gQAV"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "Insubordination",
+      "url": "https://open.spotify.com/track/1WIhQj1Bv1XTscWNCgmQvX"
     },
     {
       "album": {
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 160893,
       "name": "My Girlfriend's Dead",
       "url": "https://open.spotify.com/track/2JzI278tX8YUCelGMZjPO8"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 149506,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2gAJ6xYuJ2N6DdtDOhsL3y"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 171375,
       "name": "Scream Out",
       "url": "https://open.spotify.com/track/7uL9lk6JQI9qY5qCkjMdxP"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 150293,
       "name": "True Believers",
       "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 130133,
       "name": "Turncoat",
       "url": "https://open.spotify.com/track/3fL2RGr1SAZT3wJObAEiDG"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 150573,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/66jV8hWqB055htIgQ2j7Ni"

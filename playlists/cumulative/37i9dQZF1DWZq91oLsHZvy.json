@@ -1006,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Neighbours",
+        "url": "https://open.spotify.com/album/0N60u530504ckzajD27TD5"
+      },
+      "artists": [
+        {
+          "name": "Shybits",
+          "url": "https://open.spotify.com/artist/3RpiuODlxLEzGTjoKa2qW7"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161707,
+      "name": "Neighbours",
+      "url": "https://open.spotify.com/track/2dq0ObirVZitz767MsOvnA"
+    },
+    {
+      "album": {
         "name": "Futureproof",
         "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
       },
@@ -1173,6 +1191,24 @@
       "duration_ms": 262521,
       "name": "Say It (feat. Tove Lo)",
       "url": "https://open.spotify.com/track/4sQMalN597HdggTu196aL0"
+    },
+    {
+      "album": {
+        "name": "Sex & Rage",
+        "url": "https://open.spotify.com/album/117DECkURJ4JhxYdiOxCug"
+      },
+      "artists": [
+        {
+          "name": "Body Type",
+          "url": "https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162294,
+      "name": "Sex & Rage",
+      "url": "https://open.spotify.com/track/4bHt1bK5dDSUm2YEVO0MXc"
     },
     {
       "album": {

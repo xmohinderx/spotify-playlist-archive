@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 286250,
       "name": "Beneath Your Smile",
       "url": "https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7"
@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f"
+    },
+    {
+      "album": {
         "name": "Dharma's Dream",
         "url": "https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk"
       },
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 173520,
       "name": "Cradled",
       "url": "https://open.spotify.com/track/1qd4Sh0mSSWbB0CCYp7dfj"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 249624,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 178625,
       "name": "I Will Be Right Here",
       "url": "https://open.spotify.com/track/3Qn8i6Z3KvtiWNnxGrGWO4"
@@ -3159,7 +3177,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 122625,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/5GuS3tJuRwbdNObPdCEVfI"

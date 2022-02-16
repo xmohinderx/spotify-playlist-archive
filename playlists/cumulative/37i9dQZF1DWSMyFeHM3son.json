@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 321280,
       "name": "Anna Sun",
       "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 248720,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/0SG3beN2W0xyWqtyrDJiNB"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 198466,
       "name": "Collar Full",
       "url": "https://open.spotify.com/track/1zN3CZlafjfEiMR9uXQGrW"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 174093,
       "name": "Don't Wanna Be Your Girl",
       "url": "https://open.spotify.com/track/3JBB92odunFru2gOvI91x9"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 209520,
       "name": "Female Robbery",
       "url": "https://open.spotify.com/track/4BDnfINTlfJPmLp1UV6CXt"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 194840,
       "name": "Forrest Gump",
       "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "Girls / Girls / Boys",
       "url": "https://open.spotify.com/track/2wEjPgOCEczmjlvq60LyQi"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 234813,
       "name": "Heavydirtysoul",
       "url": "https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 215960,
       "name": "Hermit the Frog",
       "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 245172,
       "name": "idfc",
       "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 160886,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5QldjuXcxplhjjUqLrzl6H"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
@@ -1129,6 +1129,24 @@
       "duration_ms": 244266,
       "name": "Lights",
       "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
+    },
+    {
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/5GXrievxdXgabSPY9gVq5J"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229934,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/5WJscNQpctIdiu94bFesLW"
     },
     {
       "album": {
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 207965,
       "name": "Sex",
       "url": "https://open.spotify.com/track/7va4DfhB8BsfYTWTEQOnno"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 211053,
       "name": "Stuck on the puzzle",
       "url": "https://open.spotify.com/track/7w6QlKAOcNEnqRgrnJvQtr"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Teen Idle",
       "url": "https://open.spotify.com/track/5B8N5rPOmTVVGpuBMK2Vby"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 244586,
       "name": "There Is a Light That Never Goes Out - 2011 Remaster",
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 279067,
       "name": "Tyrants",
       "url": "https://open.spotify.com/track/1q6qol2S6DVzblAZuXT02K"

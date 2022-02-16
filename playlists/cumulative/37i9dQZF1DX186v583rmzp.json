@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 275640,
       "name": "Crush on You",
       "url": "https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Dear Mama",
       "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 339826,
       "name": "Fakin Jax",
       "url": "https://open.spotify.com/track/3ioow4HRcH86Jfx4NC4fmV"
@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Terrorist Threats",
+        "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Gangsta Nation",
+      "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
+    },
+    {
+      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 260799,
       "name": "Halftime",
       "url": "https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 274093,
       "name": "Hell on Earth (Front Lines)",
       "url": "https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 239933,
       "name": "How High - Remix",
       "url": "https://open.spotify.com/track/4FDbLUb5SDKy3rnRtS02q1"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 246493,
       "name": "Let's Ride",
       "url": "https://open.spotify.com/track/4UZlEcQmkAeh4mYokk8TNs"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 275090,
       "name": "Live at the Barbeque - 2017 Remastered Version",
       "url": "https://open.spotify.com/track/4PvcavllGpo6lB8VkIgXIZ"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 322066,
       "name": "Nappy Heads - Remix",
       "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
@@ -2132,6 +2150,28 @@
     },
     {
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
         "name": "Capital Punishment (Explicit Version)",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -2241,7 +2281,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
@@ -2357,7 +2397,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
@@ -2473,7 +2513,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
@@ -2617,7 +2657,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 233199,
       "name": "Wreckonize - Remix Vocal",
       "url": "https://open.spotify.com/track/22Yq5tkMN8JE7h1Bq3pWHS"

@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Ag\u00fcita e Coco",
+        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176759,
+      "name": "Ag\u00fcita e Coco",
+      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
+    },
+    {
+      "album": {
         "name": "Ahora Y Siempre",
         "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
       },
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 277424,
       "name": "Batalla Espiritual",
       "url": "https://open.spotify.com/track/7IkxmYR7rmoyjkVo7qr4D5"
@@ -617,6 +635,44 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "album": {
+        "name": "Distancia (Remix)",
+        "url": "https://open.spotify.com/album/3cXQsuHQYfSTfr4HgI3v74"
+      },
+      "artists": [
+        {
+          "name": "Jean Kala",
+          "url": "https://open.spotify.com/artist/4fHIspqJ3qTfWvK3UAbOl9"
+        },
+        {
+          "name": "Pranz",
+          "url": "https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av"
+        },
+        {
+          "name": "DEEIKEL",
+          "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
+        },
+        {
+          "name": "Estradda",
+          "url": "https://open.spotify.com/artist/6ZpJOi9O7SxsmQjMe7vhoZ"
+        },
+        {
+          "name": "Alejandro Luna",
+          "url": "https://open.spotify.com/artist/7BQztWKKXfsayOCFxt4LxV"
+        },
+        {
+          "name": "Bogaa",
+          "url": "https://open.spotify.com/artist/0ECnuHpIHvNfbpOdR7pIOY"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263269,
+      "name": "Distancia - Remix",
+      "url": "https://open.spotify.com/track/7K3MP841Z0yq9mcKWL0sNB"
     },
     {
       "album": {
@@ -1465,7 +1521,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 165550,
       "name": "Maytag (Tax Free)",
       "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
@@ -1535,7 +1591,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
@@ -1933,7 +1989,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
@@ -2079,7 +2135,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 156798,
       "name": "Shake",
       "url": "https://open.spotify.com/track/7rdIKBTAQm4nLlpA5E8DBI"
@@ -2273,7 +2329,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 202226,
       "name": "Surface Pressure - From \"Encanto\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5"
@@ -2653,7 +2709,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "TOP MODEL",
       "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
@@ -2805,6 +2861,24 @@
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
+    },
+    {
+      "album": {
+        "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
+        "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211613,
+      "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
+      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
     },
     {
       "album": {

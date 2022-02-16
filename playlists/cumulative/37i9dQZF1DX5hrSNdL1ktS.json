@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 136000,
       "name": "ALGO TRANQUI",
       "url": "https://open.spotify.com/track/6KAaBhdoWkKwq6TVNmsGMr"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 162037,
       "name": "efectos secundarios",
       "url": "https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD"
@@ -293,10 +293,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 224727,
       "name": "FUGAZ",
       "url": "https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4"
+    },
+    {
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3E5kxpDUSFKT7SjJY1DOqw"
+      },
+      "artists": [
+        {
+          "name": "Chel Maya",
+          "url": "https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG"
     },
     {
       "album": {
@@ -355,7 +373,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 190416,
       "name": "Intentar",
       "url": "https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw"
@@ -377,6 +395,24 @@
       "duration_ms": 198058,
       "name": "Ir por Ti",
       "url": "https://open.spotify.com/track/65S5ZhV3ATRA4iHrTIj6mz"
+    },
+    {
+      "album": {
+        "name": "Jake Long",
+        "url": "https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Jake Long",
+      "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
     },
     {
       "album": {
@@ -781,7 +817,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 198680,
       "name": "NO CONF\u00cdO EN EL INSTA",
       "url": "https://open.spotify.com/track/6XMATi0vt6UMEu244ykCyf"
@@ -1074,6 +1110,24 @@
     },
     {
       "album": {
+        "name": "Tu Foto",
+        "url": "https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ"
+      },
+      "artists": [
+        {
+          "name": "Daishan",
+          "url": "https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tu Foto",
+      "url": "https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD"
+    },
+    {
+      "album": {
         "name": "Uy K Raro",
         "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
       },
@@ -1089,6 +1143,24 @@
       "duration_ms": 127264,
       "name": "Uy K Raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK"
+      },
+      "artists": [
+        {
+          "name": "Luisa Ferss",
+          "url": "https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1"
     },
     {
       "album": {

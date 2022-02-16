@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Watain
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,064 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,125 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 |
-| 2 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 |
+| 1 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 |
+| 2 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 |
 | 3 | [Dream Cull](https://open.spotify.com/track/6egSfQ3dDoQjaD06KnM4Fe) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Dream Cull](https://open.spotify.com/album/7nuXTkFRkZ6hwNAsFIN3hV) | 4:15 |
 | 4 | [Sovereign](https://open.spotify.com/track/0LH8EFWl3v3T7YtSFB7Jbr) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2aQu2K5LfwOBed3T1DGojg) | 6:14 |
 | 5 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 |
-| 6 | [Wilde Kinder](https://open.spotify.com/track/5j9LuICwwmUbts1A4rxmhu) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Wilde Kinder](https://open.spotify.com/album/1sdmnVWndpvGblDOcjbj1D) | 4:22 |
-| 7 | [The Fall Of Jotunheim](https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [The Fall Of Jotunheim](https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL) | 4:02 |
-| 8 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 |
-| 9 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 |
-| 10 | [Elle se répète froidement](https://open.spotify.com/track/5H8PhktLFt4WdeMPF8xQfy) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Assassine\(s\)](https://open.spotify.com/album/5f5PjyjsKK4fsYFVJVox62) | 4:08 |
-| 11 | [Nocturnal Molestation](https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nocturnal Molestation](https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1) | 3:41 |
-| 12 | [Fn .380 Acp\#19074](https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Fn .380 Acp\#19074](https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf) | 5:54 |
-| 13 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 |
-| 14 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 |
-| 15 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 |
-| 16 | [Reborn Paradise](https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Reborn Paradise](https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa) | 4:58 |
+| 6 | [Fn .380 Acp\#19074](https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Fn .380 Acp\#19074](https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf) | 5:54 |
+| 7 | [Wilde Kinder](https://open.spotify.com/track/5j9LuICwwmUbts1A4rxmhu) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Wilde Kinder](https://open.spotify.com/album/1sdmnVWndpvGblDOcjbj1D) | 4:22 |
+| 8 | [The Fall Of Jotunheim](https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [The Fall Of Jotunheim](https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL) | 4:02 |
+| 9 | [Reborn Paradise](https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Reborn Paradise](https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa) | 4:58 |
+| 10 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 |
+| 11 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 |
+| 12 | [Elle se répète froidement](https://open.spotify.com/track/5H8PhktLFt4WdeMPF8xQfy) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Assassine\(s\)](https://open.spotify.com/album/5f5PjyjsKK4fsYFVJVox62) | 4:08 |
+| 13 | [Nocturnal Molestation](https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nocturnal Molestation](https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1) | 3:41 |
+| 14 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 |
+| 15 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 |
+| 16 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 |
 | 17 | [Worthless](https://open.spotify.com/track/0P9Eascqqk3l4rqw6kYF2z) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Worthless](https://open.spotify.com/album/3E4ImGoMJqqEs3dRROZEMj) | 3:39 |
 | 18 | [On the Shore of Eternity](https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [Neither Moth nor Rust](https://open.spotify.com/album/1QVMTChYOhXsAyRC949Nkt) | 4:13 |
 | 19 | [Slaves Shall Serve](https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [In Absentia Dei](https://open.spotify.com/album/3LAuN7xpQgqsrcA6q3oJd5) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 79 | [End of Message](https://open.spotify.com/track/6A3nqk46YXwdTj0rpkJuLG) | [Wormwood](https://open.spotify.com/artist/2CltEmcrT4ypj6WxaBej5c) | [Arkivet](https://open.spotify.com/album/0Bop7oTyR1SBRNiNjkNz65) | 6:32 |
 | 80 | [Cursed](https://open.spotify.com/track/1TaLL0z52wvVRNcmLl0HJF) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [Cursed](https://open.spotify.com/album/3KWgXdrDm75vJbSxWwZvf2) | 5:11 |
 
-Snapshot ID: `MTY0NDUzNzY2MCwwMDAwMDEzODAwMDAwMTdlZTYxNTQyYjIwMDAwMDE3ZWUzZTYzMzA5`
+Snapshot ID: `MTY0NDkxMjAxOSwwMDAwMDEzOTAwMDAwMTdlZmM2NTg3MmYwMDAwMDE3ZWUzZTYzMzA5`

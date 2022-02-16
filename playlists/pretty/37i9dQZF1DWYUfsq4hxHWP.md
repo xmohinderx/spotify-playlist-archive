@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Matt Schuster, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,706 likes - 123 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,775 likes - 123 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 3 | [Haunted House](https://open.spotify.com/track/3iJDynPzFTxo9gRbA8yxiu) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Haunted House](https://open.spotify.com/album/6V5dB7SO9sWXrv6QSrhH4R) | 3:23 |
 | 4 | [Rest of Texas](https://open.spotify.com/track/6kyteAG65BjF6KH1eCht7r) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Rest of Texas](https://open.spotify.com/album/74WcvgHzoOcsU85iiAEl9a) | 3:28 |
 | 5 | [Lost And Found](https://open.spotify.com/track/7MiZtyWIupECavDnxRyCVr) | [Jon Wood](https://open.spotify.com/artist/3etFu1t5miZTfUJGVB0yTh) | [Lost And Found](https://open.spotify.com/album/2iOxmjPnzIi8OyP71NYa8x) | 3:45 |
-| 6 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown \(G010004738710A\)](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
+| 6 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 |
 | 7 | [Mess This Up](https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Mess This Up](https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK) | 3:07 |
 | 8 | [Easy](https://open.spotify.com/track/0dEbQltCk0qxTSTzQBIvy4) | [Kacy Moon](https://open.spotify.com/artist/4yCDlGLH4zfJHp400hMAwg) | [Easy](https://open.spotify.com/album/688ekhkqWDwZITvDQUZFqt) | 4:02 |
 | 9 | [One Plus One](https://open.spotify.com/track/0ZbnAuryxWxK7iCROg6MRa) | [TracieLynn](https://open.spotify.com/artist/0mPEljpx3NF2bWuBQdlF2v), [Cody Purvis](https://open.spotify.com/artist/3uVEo0XTel7WqHQlSnRehM) | [One Plus One](https://open.spotify.com/album/4SqKoLRm931mluvoXhlFCz) | 3:04 |

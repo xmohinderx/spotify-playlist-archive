@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Maybe it's punk, maybe it's not. Cover: Lynks",
+  "description": "Maybe it's punk, maybe it's not. Cover: LIA LIA",
   "name": "Punk Unleashed",
   "published_playlist_ids": [
     "4Fx7H5bue0NPuMWQvcMhLl"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 132786,
       "name": "2 MUCH",
       "url": "https://open.spotify.com/track/5rStXNNkYIN1GMq8OIWrOy"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 193106,
       "name": "BFS",
       "url": "https://open.spotify.com/track/7IrqBe8gXzN5DPm98SIIQ1"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/7yp84j0ivUrkeEWtYUxvKp"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 175161,
       "name": "Energie",
       "url": "https://open.spotify.com/track/7zrzlGk7w1SfmonIYC953p"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 272712,
       "name": "G.A.F.F. - Edit",
       "url": "https://open.spotify.com/track/0XKak5xVKPYWe6iUP0I8vj"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 133762,
       "name": "hey! - Spotify Singles",
       "url": "https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 214079,
       "name": "I Hate The Radio",
       "url": "https://open.spotify.com/track/6bbO183bi7BtzE9ceSccwu"
@@ -763,6 +763,24 @@
       "duration_ms": 160000,
       "name": "I just wanna be silent",
       "url": "https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng"
+    },
+    {
+      "album": {
+        "name": "I Raise You (The Price of Your Head)",
+        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231336,
+      "name": "I Raise You (The Price of Your Head)",
+      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
     },
     {
       "album": {
@@ -799,6 +817,24 @@
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh"
+    },
+    {
+      "album": {
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
     },
     {
       "album": {
@@ -925,7 +961,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 214928,
       "name": "Look",
       "url": "https://open.spotify.com/track/0FpPPwgS31lNP6DQTq8JVH"
@@ -943,10 +979,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 214440,
       "name": "Love Me Do Again",
       "url": "https://open.spotify.com/track/0T4hPBqUrXIY3BGUh3sYgF"
+    },
+    {
+      "album": {
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72"
+      },
+      "artists": [
+        {
+          "name": "THICK",
+          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146490,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx"
     },
     {
       "album": {
@@ -1134,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "pity party (hyperpunk remix)",
+        "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156879,
+      "name": "pity party (hyperpunk remix)",
+      "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
+    },
+    {
+      "album": {
         "name": "Pizza",
         "url": "https://open.spotify.com/album/6nVDvtVPgEqj1bqLKL8xB7"
       },
@@ -1145,7 +1217,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 155968,
       "name": "Pizza",
       "url": "https://open.spotify.com/track/3a1Xbl2cvJIMSpU3oMf4Vq"
@@ -1351,7 +1423,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 344213,
       "name": "Shifting Basslines of the Cornucopians",
       "url": "https://open.spotify.com/track/5OKDRfioiU3wmMERM1RfJq"
@@ -1521,7 +1593,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 274933,
       "name": "Tropic",
       "url": "https://open.spotify.com/track/3bbPxO1xTChWg6wVHDUl4T"
@@ -1539,7 +1611,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 175048,
       "name": "Turin",
       "url": "https://open.spotify.com/track/2XlOU18A3RfGNELlvH1Bqe"
@@ -1665,7 +1737,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 177100,
       "name": "You Never Looked So Cool",
       "url": "https://open.spotify.com/track/1RX3QGA8CLfMj1Vr6CSluM"

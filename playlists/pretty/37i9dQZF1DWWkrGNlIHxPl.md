@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Hajaj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,081 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,103 likes - 101 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 56 | [Amazing](https://open.spotify.com/track/79jaXPnfIMOQj5Qj6j8D1p) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [IQ](https://open.spotify.com/artist/5TblKpRNNIvsQoYPAQDVoB) | [Amazing](https://open.spotify.com/album/1F7f8nnfVVFTcEZbV4XRYJ) | 3:17 |
 | 57 | [Shouting At The Wall](https://open.spotify.com/track/2mG7R3NJdDBfxfx1ETqv0Q) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Shouting At The Wall](https://open.spotify.com/album/5eSyQjHQfYQTIU02ONTdzC) | 2:47 |
 | 58 | [The Big Chill](https://open.spotify.com/track/6tL9rtiton1r2DtYlDBsJo) | [Wissam Saliba](https://open.spotify.com/artist/4JsF5yPm0LMwklPWuevclZ), [Roytivation](https://open.spotify.com/artist/6Dvzm58lrSbewSyv3apxuC) | [The Big Chill](https://open.spotify.com/album/1b8kYFz37yZth7uArXBf5u) | 3:21 |
-| 59 | [Good Lovin' \(feat\. Rhita Nattah\)](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
+| 59 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
 | 60 | [Mirror A Dream](https://open.spotify.com/track/1dggnsaeC1YvX8njTczWPc) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/70NtCjv3g5kGSDohd1rqJC) | 3:27 |
 | 61 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 | 62 | [Look At That](https://open.spotify.com/track/0F8gOhtQtS5qB3mt1fPYTY) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [N1YAH](https://open.spotify.com/artist/6ELQ5765WA0hjpXSriZfU7) | [Look At That](https://open.spotify.com/album/4K2HpZ7tLBxtub1KrfpRiV) | 3:42 |

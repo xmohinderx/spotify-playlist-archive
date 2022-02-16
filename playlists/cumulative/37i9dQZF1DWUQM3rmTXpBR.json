@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Lahali",
+        "url": "https://open.spotify.com/album/4pRNXnc15ezxYlvUDoeMW9"
+      },
+      "artists": [
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212214,
+      "name": "Lahali",
+      "url": "https://open.spotify.com/track/5QHKRsNsL8c6sXCSNnIhAc"
+    },
+    {
+      "album": {
         "name": "Lan Ansa",
         "url": "https://open.spotify.com/album/3loPFrWppE0ACpiRGXBrIG"
       },
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 241381,
       "name": "\u0631\u062c\u0639\u0646\u0627 \u0627\u0644\u062a\u0642\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8"

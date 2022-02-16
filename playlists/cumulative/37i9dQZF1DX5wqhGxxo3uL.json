@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 209360,
       "name": "4ever",
       "url": "https://open.spotify.com/track/1Ci7oic2gpYknc5TujzCUd"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 207133,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 177322,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 227346,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 234133,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2YhE6xeWN0R9RVwEOG9lR1"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 244506,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
@@ -481,7 +499,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 176786,
       "name": "Do It",
       "url": "https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3"
@@ -557,6 +575,24 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
+    },
+    {
+      "album": {
+        "name": "S Club",
+        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
+      },
+      "artists": [
+        {
+          "name": "S Club 7",
+          "url": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "Everybody Wants You",
+      "url": "https://open.spotify.com/track/3uGh0nrl1HLCwkFkz7xJ9T"
     },
     {
       "album": {
@@ -625,7 +661,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 284480,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
@@ -679,7 +715,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 236220,
       "name": "Glowing in the Dark",
       "url": "https://open.spotify.com/track/37CeMeSFSYwXX0Uw2XdLvk"
@@ -704,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
+    },
+    {
+      "album": {
         "name": "From The Outside",
         "url": "https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y"
       },
@@ -715,7 +769,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 219183,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/410smJMzhna1ADC2ldqVHu"
@@ -733,7 +787,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/25ZttbpeUKDOm3aghD2oBJ"
@@ -751,7 +805,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 204763,
       "name": "I Really Like You",
       "url": "https://open.spotify.com/track/2hHLbkatPwOOmrNxTiD41L"
@@ -773,7 +827,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 162582,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI"
@@ -791,7 +845,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 257560,
       "name": "Imma Be",
       "url": "https://open.spotify.com/track/16sbugRbf9xEKlekuQ7Whm"
@@ -845,7 +899,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
@@ -867,7 +921,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
@@ -885,7 +939,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 234146,
       "name": "Just the Girl",
       "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
@@ -921,7 +975,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 219773,
       "name": "Lip Gloss",
       "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
@@ -957,7 +1011,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
@@ -1011,7 +1065,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 206226,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt"
@@ -1051,7 +1105,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 232906,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g"
@@ -1069,10 +1123,32 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 185786,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP"
+    },
+    {
+      "album": {
+        "name": "Battle Of The Sexes (Deluxe)",
+        "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "My Chick Bad",
+      "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
     },
     {
       "album": {
@@ -1123,7 +1199,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 205920,
       "name": "no tears left to cry",
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
@@ -1141,10 +1217,32 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 196315,
       "name": "Oldest Teenager",
       "url": "https://open.spotify.com/track/0PNVMcb2Y6q4SHnKQLl4b5"
+    },
+    {
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203786,
+      "name": "One, Two Step (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
       "album": {
@@ -1217,7 +1315,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 186480,
       "name": "Past Life (with Selena Gomez)",
       "url": "https://open.spotify.com/track/4P6IttK2PRBjyr3fm0pP7t"
@@ -1372,6 +1470,28 @@
     },
     {
       "album": {
+        "name": "Love Angel Music Baby",
+        "url": "https://open.spotify.com/album/1HduTydfaUY3idi2YgT3mb"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/39qcvV4f0uqDMHxIkSb7tE"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -1387,7 +1507,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Savage Remix (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/2Z71PZlOeF9YVze4hy1A1a"
@@ -1459,7 +1579,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 246240,
       "name": "Shout Out to My Ex",
       "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
@@ -1517,7 +1637,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
@@ -1553,7 +1673,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 203760,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/7gvd8xj4QgPqbQSsn5pV7d"
@@ -1571,7 +1691,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 231428,
       "name": "Space Girl",
       "url": "https://open.spotify.com/track/5tfZ1uYrArdbDqiZ7z1aCE"
@@ -1647,7 +1767,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -1683,7 +1803,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 162346,
       "name": "Tangled Up In Me",
       "url": "https://open.spotify.com/track/4Cxv2kXttElzn4wD3U7pho"
@@ -1813,7 +1933,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
@@ -1831,7 +1951,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 204733,
       "name": "Touch My Body",
       "url": "https://open.spotify.com/track/2H1l4JczUDbiWfQtQElB05"
@@ -1885,7 +2005,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 186866,
       "name": "Ultimate - From \"Freaky Friday\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/69Zl2MdeQE8twZdiMXJXxZ"
@@ -1903,7 +2023,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 189384,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/5AHv9EwEWsUdddO47VGDSN"
@@ -1921,7 +2041,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 197386,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
@@ -1957,10 +2077,28 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "album": {
@@ -1979,7 +2117,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 187541,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
@@ -2051,7 +2189,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 245680,
       "name": "When I Grow Up",
       "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
@@ -2087,7 +2225,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 224400,
       "name": "Womanizer",
       "url": "https://open.spotify.com/track/1CrxDKnx34D9zoAIvf7B9H"
@@ -2181,7 +2319,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"

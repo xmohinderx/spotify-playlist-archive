@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Ain't Nothing But A Mistake",
+        "url": "https://open.spotify.com/album/2dOWa0Ss7pgUtBa6x0pPSE"
+      },
+      "artists": [
+        {
+          "name": "Dawn Geller",
+          "url": "https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201363,
+      "name": "Ain't Nothing But A Mistake",
+      "url": "https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2"
+    },
+    {
+      "album": {
         "name": "All Those Things",
         "url": "https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o"
       },
@@ -513,7 +531,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 154000,
       "name": "Chapada Dos Veadeiros",
       "url": "https://open.spotify.com/track/7c8pKCt8CzPbCRli2og1bL"
@@ -1471,6 +1489,24 @@
       "duration_ms": 130830,
       "name": "Hou Van Me",
       "url": "https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0"
+    },
+    {
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4"
+      },
+      "artists": [
+        {
+          "name": "Dean M Parker",
+          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "I Still Believe In You",
+      "url": "https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea"
     },
     {
       "album": {
@@ -3329,7 +3365,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 181616,
       "name": "Through The Clouds",
       "url": "https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ"

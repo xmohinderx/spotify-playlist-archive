@@ -450,6 +450,28 @@
     },
     {
       "album": {
+        "name": "Flirtin'",
+        "url": "https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4"
+      },
+      "artists": [
+        {
+          "name": "Petric",
+          "url": "https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh"
+        },
+        {
+          "name": "Hayley Jensen",
+          "url": "https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222751,
+      "name": "Flirtin'",
+      "url": "https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU"
+    },
+    {
+      "album": {
         "name": "Flower Shops (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },

@@ -1,29 +1,13 @@
 {
   "description": "A collection of recent tracks from the world of black and dark metal. Cover: Watain",
-  "num_followers": 276064,
+  "num_followers": 276125,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNzY2MCwwMDAwMDEzODAwMDAwMTdlZTYxNTQyYjIwMDAwMDE3ZWUzZTYzMzA5",
+  "snapshot_id": "MTY0NDkxMjAxOSwwMDAwMDEzOTAwMDAwMTdlZmM2NTg3MmYwMDAwMDE3ZWUzZTYzMzA5",
   "tracks": [
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "The howling",
-        "url": "https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "The howling",
-      "url": "https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz"
-    },
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 282500,
       "name": "Worship",
       "url": "https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
+        "name": "The howling",
+        "url": "https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "The howling",
+      "url": "https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
+        "name": "Fn .380 Acp#19074",
+        "url": "https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf"
+      },
+      "artists": [
+        {
+          "name": "1914",
+          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
+        }
+      ],
+      "duration_ms": 354249,
+      "name": "Fn .380 Acp#19074",
+      "url": "https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
         "name": "Wilde Kinder",
         "url": "https://open.spotify.com/album/1sdmnVWndpvGblDOcjbj1D"
       },
@@ -119,6 +135,22 @@
       "duration_ms": 242452,
       "name": "The Fall Of Jotunheim",
       "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
+        "name": "Reborn Paradise",
+        "url": "https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa"
+      },
+      "artists": [
+        {
+          "name": "Deserted Fear",
+          "url": "https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "Reborn Paradise",
+      "url": "https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -187,22 +219,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Fn .380 Acp#19074",
-        "url": "https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf"
-      },
-      "artists": [
-        {
-          "name": "1914",
-          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
-        }
-      ],
-      "duration_ms": 354249,
-      "name": "Fn .380 Acp#19074",
-      "url": "https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "Pipe Dreams",
         "url": "https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 699313,
       "name": "Blood Upon Stone",
       "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Reborn Paradise",
-        "url": "https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa"
-      },
-      "artists": [
-        {
-          "name": "Deserted Fear",
-          "url": "https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "Reborn Paradise",
-      "url": "https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1"
     },
     {
       "added_at": "2022-02-11 00:01:00",

@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Histoires Sur Le Flash",
+        "url": "https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33"
+      },
+      "artists": [
+        {
+          "name": "Thibaut Loz\u00e9",
+          "url": "https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110712,
+      "name": "Atmosph\u00e8re Nord",
+      "url": "https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO"
+    },
+    {
+      "album": {
         "name": "Rain & Thunder",
         "url": "https://open.spotify.com/album/6R3irvC35SviITh36UxCWr"
       },
@@ -2615,6 +2633,24 @@
       "duration_ms": 167047,
       "name": "Storm During Night",
       "url": "https://open.spotify.com/track/0DhLvC2rnUUEffwwHYoCt6"
+    },
+    {
+      "album": {
+        "name": "Storm From The North",
+        "url": "https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd"
+      },
+      "artists": [
+        {
+          "name": "Stormie",
+          "url": "https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Storm From The North",
+      "url": "https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN"
     },
     {
       "album": {

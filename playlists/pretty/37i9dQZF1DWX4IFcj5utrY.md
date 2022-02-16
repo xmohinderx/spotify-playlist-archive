@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC?si=DOZkChnsSZecVGYMsr4Tqg">Miči</a> and <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=\_ZSYI5GkR6esqjhCE1Qt4w">Sun\-El Musician</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,270 likes - 70 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,278 likes - 70 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

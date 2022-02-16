@@ -4054,6 +4054,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49 (BFF)",
+        "url": "https://open.spotify.com/album/1xoOdcpmOYbkLxHLvvt4Uk"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261500,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49 - BFF",
+      "url": "https://open.spotify.com/track/0WP8Hwr2s3Fhwu14ehgUUT"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e01\u0e48\u0e07 (Slipped Your Mind)",
         "url": "https://open.spotify.com/album/2BKeUulZXv8hntkksz0V0w"
       },
@@ -4327,7 +4345,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 240250,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e08\u0e23\u0e34\u0e07",
       "url": "https://open.spotify.com/track/3kVApGWaoR48GzDagnY55b"

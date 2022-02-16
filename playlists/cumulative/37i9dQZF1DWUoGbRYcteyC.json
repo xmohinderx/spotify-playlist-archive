@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 208567,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Eazt",
       "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 198040,
       "name": "Ella",
       "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 218853,
       "name": "Estoy Hecho De Pedacitos De Ti",
       "url": "https://open.spotify.com/track/6ZBpPT6EuJuO3DvOY71goV"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 225072,
       "name": "Llegaste t\u00fa (feat. Reykon)",
       "url": "https://open.spotify.com/track/2SwJ4KvVGxfv1myROwkUHb"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 205369,
       "name": "Mejores Amigos",
       "url": "https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 205031,
       "name": "M\u00e1s De Lo Que Apost\u00e9",
       "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
@@ -1773,6 +1773,24 @@
       "duration_ms": 210373,
       "name": "Nada Es Como T\u00fa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz"
+    },
+    {
+      "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171661,
+      "name": "NEGRO MATE",
+      "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
     },
     {
       "album": {
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 226132,
       "name": "Perderme en ti",
       "url": "https://open.spotify.com/track/4Iak0UOzYRjHNMMxMajkz3"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 244040,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 274106,
       "name": "Te Vuelvo A Besar",
       "url": "https://open.spotify.com/track/2Sn0tmMS89iAzD2jpUI7Y3"
@@ -2996,6 +3014,24 @@
     },
     {
       "album": {
+        "name": "Una Chica Como T\u00fa",
+        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167640,
+      "name": "Una Chica Como T\u00fa",
+      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
+    },
+    {
+      "album": {
         "name": "Loco De Amor (Tour Edition)",
         "url": "https://open.spotify.com/album/3htJFw3Ad4OaE30FbwO5nu"
       },
@@ -3007,7 +3043,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 227586,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/18sWPBeCwhEDv87OnY43gV"
@@ -3119,7 +3155,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"

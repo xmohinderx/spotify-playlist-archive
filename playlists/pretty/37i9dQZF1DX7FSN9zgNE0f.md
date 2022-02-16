@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FSN9zgNE0f.md) - [plain]
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,609 likes - 32 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,810 likes - 32 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6K9D6JN1rY.md) - [plain]
 
 > Learn some essential Irish and listen along to poetry, prose, and songs in Irish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,160 likes - 71 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,155 likes - 71 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

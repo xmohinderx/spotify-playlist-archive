@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Marion Jola
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,917 likes - 114 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,920 likes - 114 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 41 | [2+2](https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [2 + 2](https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ) | 2:48 |
 | 42 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 |
 | 43 | [still trying](https://open.spotify.com/track/01ysBEvsyXrIbaemFbZ4vK) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [still trying](https://open.spotify.com/album/1MsR5Q72YMzxDjZi7B56Lj) | 3:04 |
-| 44 | [Bangkit \(OST\. Ashiap Man\)](https://open.spotify.com/track/0nLoEtB0aCIuWyMyoH42am) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67) | [Bangkit \(OST\. Ashiap Man\)](https://open.spotify.com/album/0auPIRq5bzQFXgCkir8F50) | 2:55 |
+| 44 | [Bangkit \(OST\. Ashiap Man\)](https://open.spotify.com/track/0nLoEtB0aCIuWyMyoH42am) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67) | [Bangkit \(OST\. Ashiap Man\)](https://open.spotify.com/album/0auPIRq5bzQFXgCkir8F50) | 2:56 |
 | 45 | [Aku Pakai Hati](https://open.spotify.com/track/3NhCeoEIoat5oqLDA2YxXW) | [Wika Salim](https://open.spotify.com/artist/3vFI2HEB3XoNjT9KSYb7OP) | [Aku Pakai Hati](https://open.spotify.com/album/0IyZRsZuurPUOySS5wCZRy) | 3:17 |
 | 46 | [Making Me Sick!](https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5) | 3:22 |
 | 47 | [What Can I Do](https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/6P1dIrYEUtd2zGtgqdUvLL) | 4:16 |

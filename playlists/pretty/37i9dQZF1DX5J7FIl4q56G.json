@@ -1,12 +1,12 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Zeal & Ardor",
-  "num_followers": 571134,
+  "num_followers": 571279,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNzY2MCwwMDAwMDRkZDAwMDAwMTdlZTYxNTQyYmQwMDAwMDE3ZWQ5MzhjZjli",
+  "snapshot_id": "MTY0NDkxMTk0OCwwMDAwMDRkZTAwMDAwMTdlZmM2NDczOTUwMDAwMDE3ZWQ5MzhjZjli",
   "tracks": [
     {
       "added_at": "2022-02-11 00:01:00",
@@ -39,6 +39,38 @@
       "duration_ms": 168391,
       "name": "Peace That Starts the War",
       "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A"
+      },
+      "artists": [
+        {
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+        }
+      ],
+      "duration_ms": 330813,
+      "name": "Northwards",
+      "url": "https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "duration_ms": 213181,
+      "name": "UGLY",
+      "url": "https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -79,22 +111,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A"
-      },
-      "artists": [
-        {
-          "name": "Amorphis",
-          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
-        }
-      ],
-      "duration_ms": 330813,
-      "name": "Northwards",
-      "url": "https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "Lord Of Chaos",
         "url": "https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        }
-      ],
-      "duration_ms": 213181,
-      "name": "UGLY",
-      "url": "https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -1323,22 +1323,6 @@
       "duration_ms": 222120,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4roKpz8Lr3mrTynVrFOD70"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu"
-      },
-      "artists": [
-        {
-          "name": "VRSTY",
-          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3"
     },
     {
       "added_at": "2022-02-11 00:01:00",

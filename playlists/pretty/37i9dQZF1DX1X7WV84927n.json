@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full volume lovers. Cover: Slash feat. Myles Kennedy & The Conspirators",
-  "num_followers": 242667,
+  "num_followers": 242771,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNzY2MCwwMDAwMDE5NjAwMDAwMTdlZTYxNTQyYjIwMDAwMDE3ZWUzZDg5MGE5",
+  "snapshot_id": "MTY0NDkxMTk3MywwMDAwMDE5NzAwMDAwMTdlZmM2NGQ2NDcwMDAwMDE3ZWUzZDg5MGE5",
   "tracks": [
     {
       "added_at": "2022-02-11 00:01:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
+        "name": "Let's Go Crazy",
+        "url": "https://open.spotify.com/album/5RkKSnnXB0SuulSEGtDMmW"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 274329,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/5ebdC8lHL3AHNd4FOnk59R"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
         "name": "So Called Life",
         "url": "https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 202453,
       "name": "Roses on Your Grave",
       "url": "https://open.spotify.com/track/2xMEKnHsZLusGWXSCaKkh9"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Let's Go Crazy",
-        "url": "https://open.spotify.com/album/5RkKSnnXB0SuulSEGtDMmW"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 274329,
-      "name": "Let's Go Crazy",
-      "url": "https://open.spotify.com/track/5ebdC8lHL3AHNd4FOnk59R"
     },
     {
       "added_at": "2022-02-11 00:01:00",

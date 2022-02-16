@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Score all the hottest hits from your favourite hallyu star and check out your one true K\-Pop playlist! \#kdaebak Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,508,038 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,511,277 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 50 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 |
 | 51 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
 
-Snapshot ID: `MTY0NDg4NjI0OCwwMDAwMDAwMDI3MmQyOGZkYzZlZDNmMDU2NzFjNjVkMGI0MDBhNzA5`
+Snapshot ID: `MTY0NDk3MjQ4OSwwMDAwMDAwMDI3MmQyOGZkYzZlZDNmMDU2NzFjNjVkMGI0MDBhNzA5`

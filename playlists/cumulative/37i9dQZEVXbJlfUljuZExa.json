@@ -5850,6 +5850,24 @@
     },
     {
       "album": {
+        "name": "Sempurna",
+        "url": "https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251714,
+      "name": "Sempurna",
+      "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"
+    },
+    {
+      "album": {
         "name": "Salam Aidilfitri Untuk Semua",
         "url": "https://open.spotify.com/album/5BcML59c6LOnCLF7wYw7JB"
       },
@@ -7137,7 +7155,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"

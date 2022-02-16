@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 237173,
       "name": "Acu\u00e9rdate de M\u00ed",
       "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 227407,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/5rpQcu6N5omwxP8ai4UYmO"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 194226,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 235306,
       "name": "D\u00e9jenme Llorar",
       "url": "https://open.spotify.com/track/61paDgouceUmuVTsoUO5TD"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 229107,
       "name": "Enam\u00f3rate De Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 239240,
       "name": "Jueves",
       "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 251146,
       "name": "La De La Mala Suerte",
       "url": "https://open.spotify.com/track/40qGH4aiVeaFW7qIPCyTVa"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 247693,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 227613,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 197906,
       "name": "Ropa De Bazar",
       "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
@@ -997,6 +997,24 @@
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "album": {
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 252560,
       "name": "Se Fuerte Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 239920,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/6HOXOKhUxRvrGUM7aDeF0Q"

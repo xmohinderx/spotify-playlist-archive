@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-16",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -4421,6 +4421,28 @@
       "duration_ms": 154285,
       "name": "Polizei",
       "url": "https://open.spotify.com/track/2WDRZdUzRYiv3JkdaMXU9p"
+    },
+    {
+      "album": {
+        "name": "Polkka",
+        "url": "https://open.spotify.com/album/40ppythwrT6pLkihMhZ8tr"
+      },
+      "artists": [
+        {
+          "name": "DJ Parafa",
+          "url": "https://open.spotify.com/artist/1hwxSoe3ivkMKLFSyBCYWe"
+        },
+        {
+          "name": "Zelena",
+          "url": "https://open.spotify.com/artist/41LTbHwvnDncBYGO13WHKI"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193297,
+      "name": "Polkka",
+      "url": "https://open.spotify.com/track/5hBVnCeqCkxx8UbbmXaMf7"
     },
     {
       "album": {

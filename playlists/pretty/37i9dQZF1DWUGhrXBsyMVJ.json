@@ -1,29 +1,13 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 85081,
+  "num_followers": 85314,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NTc2MywwMDAwMDAwMGQyZmNhNGZhNjA0YjFiM2YyOWVmOTZlNGE3MGQzNGIw",
+  "snapshot_id": "MTY0NDk3MjA0MCwwMDAwMDAwMDM0MjZhNGU4NzAwODQ1MTE2ZmQwMDVkMGQyY2RjZDQw",
   "tracks": [
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
@@ -43,38 +27,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 162066,
-      "name": "Love Me Tender",
-      "url": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
-        "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
-      "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -95,6 +59,38 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "True Love Ways",
+      "url": "https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Love Me Tender",
+      "url": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -107,22 +103,6 @@
       "duration_ms": 162840,
       "name": "Love Is Here To Stay - Remastered 1998",
       "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -147,34 +127,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 191266,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+      "duration_ms": 222733,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -195,18 +159,34 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Songs For Young Lovers",
-        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 150666,
-      "name": "My Funny Valentine - Remastered",
-      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+      "duration_ms": 160933,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -231,18 +211,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2"
+        "name": "Songs For Young Lovers",
+        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 168706,
-      "name": "True Love Ways",
-      "url": "https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu"
+      "duration_ms": 150666,
+      "name": "My Funny Valentine - Remastered",
+      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -267,22 +247,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/44ZAlAAn0bAEzUJgZky04H"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Ricky Sings Again (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
       },
@@ -295,6 +259,58 @@
       "duration_ms": 136266,
       "name": "Never Be Anyone Else But You - Remastered",
       "url": "https://open.spotify.com/track/0snHlyyyUp2hKYEz7ffmkx"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
+        "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
+      "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/44ZAlAAn0bAEzUJgZky04H"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -319,22 +335,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Fabulous Favorites",
         "url": "https://open.spotify.com/album/3KzeH6j8lksLOBLCqqSiQT"
       },
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/5Iv3gyBXFrdiXzrV7zHmdq"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
         }
       ],
-      "duration_ms": 133866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
+      "duration_ms": 187826,
+      "name": "No One But You",
+      "url": "https://open.spotify.com/track/4MjPbzry4T4JjJsNaNIe58"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Romance: Songs From The Heart",
         "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 172546,
       "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -435,18 +435,34 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/5Iv3gyBXFrdiXzrV7zHmdq"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
       },
       "artists": [
         {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 187826,
-      "name": "No One But You",
-      "url": "https://open.spotify.com/track/4MjPbzry4T4JjJsNaNIe58"
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Most of All",
+        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
+      },
+      "artists": [
+        {
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -467,22 +483,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Today & Yesterday",
         "url": "https://open.spotify.com/album/29LVsHDQnohvzRrKerq5t3"
       },
@@ -499,50 +499,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 117213,
-      "name": "Words Of Love",
-      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "A Teenager's Romance",
-      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+      "duration_ms": 215466,
+      "name": "It's Always You - Vocal Version",
+      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -563,50 +531,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Sings His Favorites",
-        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 155080,
-      "name": "Put Your Head on My Shoulder",
-      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "It's Always You - Vocal Version",
-      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
+      "duration_ms": 117213,
+      "name": "Words Of Love",
+      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -631,50 +567,34 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Best Of Doo Wop",
-        "url": "https://open.spotify.com/album/4MvO5fM1slzCWGzDFtklka"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 178667,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/7fWo4TRloCEOl12sMX2sNq"
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6GLTTJoBUOBz34zOYq0MjA"
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 125000,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/406RedcyUEOwpVQSM1cpsh"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Most of All",
-        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
-      },
-      "artists": [
-        {
-          "name": "Don Cornell",
-          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -695,6 +615,70 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
+        "name": "30th Anniversary Collection",
+        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
+      },
+      "artists": [
+        {
+          "name": "michael holliday",
+          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
+        }
+      ],
+      "duration_ms": 135826,
+      "name": "The Story of My Life",
+      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Sings His Favorites",
+        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Put Your Head on My Shoulder",
+      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "A Teenager's Romance",
+      "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 128840,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4BT0ShbzEpeo4j9JQWrfZk"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Best Of Doo Wop",
+        "url": "https://open.spotify.com/album/4MvO5fM1slzCWGzDFtklka"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 178667,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/7fWo4TRloCEOl12sMX2sNq"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -727,38 +727,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "30th Anniversary Collection",
-        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
-      },
-      "artists": [
-        {
-          "name": "michael holliday",
-          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
-        }
-      ],
-      "duration_ms": 135826,
-      "name": "The Story of My Life",
-      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Platters",
         "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
@@ -775,18 +743,34 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F"
+        "name": "Classic Tracks",
+        "url": "https://open.spotify.com/album/2vIHqYPo6mizY4GQYHWGZ5"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 201333,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH"
+      "duration_ms": 142680,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/4cc3zjk4JbQ89PdmdBudzy"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6GLTTJoBUOBz34zOYq0MjA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/406RedcyUEOwpVQSM1cpsh"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -807,6 +791,38 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 151866,
       "name": "What A Diff'rence A Day Made",
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Classic Tracks",
-        "url": "https://open.spotify.com/album/2vIHqYPo6mizY4GQYHWGZ5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 142680,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/4cc3zjk4JbQ89PdmdBudzy"
     },
     {
       "added_at": "2022-01-10 11:46:31",

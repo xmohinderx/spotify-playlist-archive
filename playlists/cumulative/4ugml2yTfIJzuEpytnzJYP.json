@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Gaijin 3000",
+        "url": "https://open.spotify.com/album/4kECrTbpyg9xMrWqiuEtvV"
+      },
+      "artists": [
+        {
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182855,
+      "name": "C L O U D 7 7 7",
+      "url": "https://open.spotify.com/track/58SIAW30UAUQUgBC9X374H"
+    },
+    {
+      "album": {
         "name": "Mysterium",
         "url": "https://open.spotify.com/album/2YdWrIM0TS7rHmcK2Gul2i"
       },
