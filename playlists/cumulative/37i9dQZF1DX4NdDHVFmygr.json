@@ -398,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Goulo Lhabibi",
+        "url": "https://open.spotify.com/album/0h2Uhhf98ZSqkcVensqc9y"
+      },
+      "artists": [
+        {
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Goulo Lhabibi",
+      "url": "https://open.spotify.com/track/7ERaNCwzEUT8AOrFsKLWmm"
+    },
+    {
+      "album": {
         "name": "Hickey",
         "url": "https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj"
       },
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 160010,
       "name": "Safe safe",
       "url": "https://open.spotify.com/track/5LyViLHbmjbJgQwwNgKEEH"

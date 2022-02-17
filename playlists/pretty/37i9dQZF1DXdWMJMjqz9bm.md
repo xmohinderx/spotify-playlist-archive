@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of rap & a little bit of pop\. Featuring new music by Arizona Zervas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,085 likes - 126 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,224 likes - 126 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

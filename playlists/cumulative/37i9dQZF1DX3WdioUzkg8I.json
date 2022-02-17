@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 168500,
       "name": "Alba",
       "url": "https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 180250,
       "name": "Aurore",
       "url": "https://open.spotify.com/track/0Qdj3Fw4Jn71PtIksAuEGD"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 224370,
       "name": "Cloudless",
       "url": "https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS"
@@ -819,6 +819,24 @@
       "duration_ms": 215770,
       "name": "Convince Me",
       "url": "https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo"
+    },
+    {
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f"
     },
     {
       "album": {
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 153500,
       "name": "Lyrebird",
       "url": "https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ"

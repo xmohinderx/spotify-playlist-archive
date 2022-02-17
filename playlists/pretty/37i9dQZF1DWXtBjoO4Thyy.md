@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Magdalena Hoffmann continues The Classical Takeover with her all\-time favourite tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,330 likes - 24 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,349 likes - 24 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

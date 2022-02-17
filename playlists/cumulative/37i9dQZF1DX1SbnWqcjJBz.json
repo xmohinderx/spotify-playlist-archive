@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 212333,
       "name": "Applause",
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 156581,
       "name": "Bop!",
       "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/0S6sjNANUq2WBlGbwPmAN9"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 162585,
       "name": "Boys",
       "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 226452,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/15hut9fX33giUAMyycwvsV"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 227741,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/3TrZIu2AF6fzbeYyvsjWhR"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 252033,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0cNH1IsjBVRdeDcpwHAfve"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 277666,
       "name": "Do The Television",
       "url": "https://open.spotify.com/track/0AZFnIhyFJ6TmV8Vw6njdJ"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 200400,
       "name": "Don't Let Me Stop You",
       "url": "https://open.spotify.com/track/5XP17NAwTW3BNQtPA8OgHG"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 229346,
       "name": "Ego",
       "url": "https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 331324,
       "name": "Froot",
       "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 251293,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/6dRj3dDseKfeIBfBMRboGN"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 202226,
       "name": "Gimmie Love",
       "url": "https://open.spotify.com/track/24Kh0nzBsFEenB80Ud1wSN"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 221153,
       "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
       "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
@@ -1564,6 +1564,24 @@
     },
     {
       "album": {
+        "name": "Alexis Jordan",
+        "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/7spFEoLxDv20MEg9paKaQ5"
+    },
+    {
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 208133,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 461737,
       "name": "Greatest Hits Megamix",
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 199546,
       "name": "Green Light - Freemasons Remix",
       "url": "https://open.spotify.com/track/5XyPQLgbrwSvVpfU1Uwn9T"
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 248706,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/2BnfMbmWbfqi7ac5y7GHXn"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 205666,
       "name": "I Said Never Again (But Here We Are)",
       "url": "https://open.spotify.com/track/4SRnUTHBvjUEA8TN1TNXQm"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 220417,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/3pvwgs4ce6SzIW9ZM4UGsp"
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 239213,
       "name": "Kill the Lights",
       "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 241866,
       "name": "Leave Get Out",
       "url": "https://open.spotify.com/track/1bYubJyLO1fCa6umTXpUeJ"
@@ -2357,7 +2375,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 191808,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/31k41EAntOsjbRBcAASfiL"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 191808,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 264520,
       "name": "Marry The Night",
       "url": "https://open.spotify.com/track/4tB0UIYNWsUYsIR3r6a8zY"
@@ -2631,7 +2649,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
@@ -2725,7 +2743,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU"
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 200733,
       "name": "New York City",
       "url": "https://open.spotify.com/track/130hhZowWzkA4bypB0dtgc"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 189933,
       "name": "Nothing in This World",
       "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 171693,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/7mTgsbq7n8jgnwLswpgugB"
@@ -3199,7 +3217,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 228413,
       "name": "Radar",
       "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
@@ -3257,7 +3275,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 199213,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1I0k04eIuAYfd4ObZ1POli"
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 196306,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 221451,
       "name": "Screwed",
       "url": "https://open.spotify.com/track/6YhyLXlXUIR6CZCP9x5Crj"
@@ -3437,7 +3455,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 210813,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3Sfz97E5X6dm1172XOZ8wO"
@@ -3499,7 +3517,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 212933,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
@@ -3521,7 +3539,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Song 4 Mutya (Out Of Control)",
       "url": "https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV"
@@ -3611,7 +3629,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 250693,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6MF6ZR5nTWFWii3eBlkS8b"
@@ -3651,7 +3669,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 189666,
       "name": "Stuttering",
       "url": "https://open.spotify.com/track/7HzfdxXTZJLrec5mrtFDk6"
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 219213,
       "name": "Tonight I\u2019m Getting Over You",
       "url": "https://open.spotify.com/track/471JtpRQ0oox9OoZcbB8OO"
@@ -3831,7 +3849,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 213306,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z"
@@ -3867,7 +3885,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 214386,
       "name": "U + Ur Hand",
       "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
@@ -4011,7 +4029,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 154786,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
@@ -4239,7 +4257,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 239853,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
@@ -4275,7 +4293,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 211346,
       "name": "Your Disco Needs You",
       "url": "https://open.spotify.com/track/7zaOQVHSOW3mt8T5rafz5B"

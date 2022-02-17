@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring pinkpantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,720 likes - 111 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,390 likes - 111 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

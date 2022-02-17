@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "Eye On You",
+      "url": "https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7"
+    },
+    {
+      "album": {
         "name": "Favorite - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy"
       },

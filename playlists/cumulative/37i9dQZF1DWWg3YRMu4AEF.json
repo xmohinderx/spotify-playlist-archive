@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 246026,
       "name": "Are You Old Enough",
       "url": "https://open.spotify.com/track/659uoDxjIVHj61UmPyNG0y"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 218706,
       "name": "Best of My Love - Single Version",
       "url": "https://open.spotify.com/track/7bznzicO9bLBhe6SufE0Vw"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 209573,
       "name": "Chuck E's in Love - 45 Version",
       "url": "https://open.spotify.com/track/3F1MiFu5a1Y3Z9dQZhLTAo"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 243920,
       "name": "Isn't It Time",
       "url": "https://open.spotify.com/track/3pyoAvbBO4kDKkh999Miyj"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 257532,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 204337,
       "name": "Listen to the Music - Single Version",
       "url": "https://open.spotify.com/track/72sHB1oKxtDxoRwmwyI3A8"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 212306,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 214080,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 202573,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 354240,
       "name": "Silly Love Songs - Remastered 2014",
       "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Seals & Crofts' Greatest Hits",
+        "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
+    },
+    {
+      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 266133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 229866,
       "name": "Sweet Talkin' Woman",
       "url": "https://open.spotify.com/track/0xAhbD6lCf5re1RXl5yiTm"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 217466,
       "name": "You Make Me Feel Like Dancing - 2010 Remaster",
       "url": "https://open.spotify.com/track/5ot4t0BInDsxEGZ2aOitYo"

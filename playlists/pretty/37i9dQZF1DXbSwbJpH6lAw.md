@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 
 > The most exciting new Latin artists and tracks, handpicked by our curators featuring Chavi Leons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,812 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,811 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 | 19 | [Contactos \- TDH´s Version](https://open.spotify.com/track/3jeQKFldhSg69JDdXeQfFP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Contactos \(TDH´s Version\)](https://open.spotify.com/album/3aJX9ZyNMFr5CZfIZROpaq) | 5:06 |
 | 20 | [Mariposas](https://open.spotify.com/track/5Ci3Ru41bcPDdFO9NGzF8t) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Mariposas](https://open.spotify.com/album/02Nw3ZrfnzNK9Auu7LNuI6) | 3:02 |
 | 21 | [NACÍ PARA BRILLAR](https://open.spotify.com/track/1IYiOYIAMCZf8KhOO0UTM2) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [333](https://open.spotify.com/album/09zewDHNQMvYoIM3Mn9xcV) | 2:23 |
-| 22 | [Casualidad \(feat\. Lāsh\)](https://open.spotify.com/track/6Nu5Ivo7ZrfKu7TtdGPbTr) | [Jay Menez](https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs), [LASH](https://open.spotify.com/artist/3A6EnD5cRkVQdHsHeKcWV6) | [Casualidad \(feat\. Lāsh\)](https://open.spotify.com/album/7JQkTcXrPwzJDSP4ZDlP1V) | 2:46 |
+| 22 | [Casualidad \(feat\. Lāsh\)](https://open.spotify.com/track/6Nu5Ivo7ZrfKu7TtdGPbTr) | [Jay Menez](https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs), [Lash](https://open.spotify.com/artist/29yIRv8gkNZbAX1J1RlfXx) | [Casualidad \(feat\. Lāsh\)](https://open.spotify.com/album/7JQkTcXrPwzJDSP4ZDlP1V) | 2:46 |
 | 23 | [Amor \- Live Sesion, Prestado](https://open.spotify.com/track/2UfNcPRQKHoZfuzT5txo94) | [Dani Barranco](https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6) | [Amor \(Live Sesion, Prestado\)](https://open.spotify.com/album/4qbkpPBrEMSdRRBY67qz9T) | 3:32 |
 | 24 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
 | 25 | [can't let go](https://open.spotify.com/track/0gtcZLTnVK1J7lio8tiokt) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [can't let go](https://open.spotify.com/album/3EnwhcJTOMd33wtVTivVMl) | 2:26 |

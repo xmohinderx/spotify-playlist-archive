@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Eleonora Zouganeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,833 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,843 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 34 | [Zo Ti Zoi](https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ) | [Zo Ti Zoi](https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K) | 3:22 |
 | 35 | [Who Are They](https://open.spotify.com/track/5R4ByJnuX8FqBEnH7zq4rD) | [Danai Nielsen](https://open.spotify.com/artist/1V81ZJyFmiadP8c8ra4kDa) | [Who Are They](https://open.spotify.com/album/4nsrfHKmnYyS7iUa3MqVQx) | 4:02 |
 | 36 | [Petra](https://open.spotify.com/track/1FrZIMZWk9IaSYikIcD9uT) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [Petra](https://open.spotify.com/album/7LEaQPgQK1He4m1HTFQsg0) | 3:49 |
-| 37 | [Palia Pligi \- Original Tv Series "Sasmos" Soundtrack](https://open.spotify.com/track/1TTbdZFPGr9HPI3bpYKPOo) | [Melina Kana](https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT) | [Palia Pligi \(Original Tv Series "Sasmos" Soundtrack\)](https://open.spotify.com/album/7ALslO5cOYArHie3y7SVTY) | 3:56 |
+| 37 | [Palia Pligi \- Original Tv Series "Sasmos" Soundtrack](https://open.spotify.com/track/1TTbdZFPGr9HPI3bpYKPOo) | [Melina Kana](https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT), [Nicos Terzis](https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j) | [Palia Pligi \(Original Tv Series "Sasmos" Soundtrack\)](https://open.spotify.com/album/7ALslO5cOYArHie3y7SVTY) | 3:56 |
 | 38 | [Gia Pia Agapi](https://open.spotify.com/track/7w0zx7VMwEMzx1I989hA46) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF) | [Gia Pia Agapi](https://open.spotify.com/album/1ojT65aRHA2q8UY4xfsFbb) | 3:26 |
 | 39 | [Savvatovrada](https://open.spotify.com/track/3xBhplDzLDMJxxmUrIJgjb) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Savvatovrada](https://open.spotify.com/album/3SELPNptUHterDArBg1EKt) | 3:03 |
 | 40 | [To tragoudi tou Vageli](https://open.spotify.com/track/7gXHDD6FqwUVsybycAbyJB) | [SKIADARESES](https://open.spotify.com/artist/3ZUI362BbNMdNjI3GiGMPo) | [To tragoudi tou Vageli](https://open.spotify.com/album/7jrugBUfEdbEA8IIpfoNst) | 2:17 |

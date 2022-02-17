@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Tomás Roca
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Berto y Marinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,112 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,135 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hierbabuena](https://open.spotify.com/track/6lP6zHndkRhqRPqxUGdGQ8) | [DELFEO](https://open.spotify.com/artist/12ux35By3cWheYSZVR5GsD), [MAD\-G](https://open.spotify.com/artist/4jBGQ4vpmF4OW91I5q01Mh) | [Hierbabuena](https://open.spotify.com/album/0iZbxGdVR3zMZAJTAXz1SG) | 3:45 |
-| 2 | [Quiero](https://open.spotify.com/track/6mfPsNRFm60Vv0X8XHUd0Y) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A) | [Quiero](https://open.spotify.com/album/1zUhgHtiJ7B3N7Q3PxcGoL) | 2:58 |
-| 3 | [Acho!](https://open.spotify.com/track/1Dp4VcI0XaaQXCjBd2u5VD) | [Mala Cotton](https://open.spotify.com/artist/17mQMqtiJVWFebnFbcHo8C) | [Acho!](https://open.spotify.com/album/1AZAuLrenirON8XrrHLEwc) | 2:32 |
-| 4 | [Nighttime](https://open.spotify.com/track/4XmYs05gBKDkJV2W6DwO79) | [Borja Niut](https://open.spotify.com/artist/6xshgsarzzdqRVJZ2mmzOR), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Nighttime](https://open.spotify.com/album/1iWdUqXFsiRACPHO8Cmbte) | 3:12 |
-| 5 | [O teu Mandil](https://open.spotify.com/track/3gjRHXBqfMw1uv0x5rpWB4) | [Berto](https://open.spotify.com/artist/7AKh8HXKj8nJqm8xUcJJAy), [Marinha](https://open.spotify.com/artist/3xlKFRIya0HeR4T3wePklX) | [O teu Mandil](https://open.spotify.com/album/6Ly6XN0yEY1z5IlpCFGkHY) | 2:16 |
+| 1 | [O teu Mandil](https://open.spotify.com/track/3gjRHXBqfMw1uv0x5rpWB4) | [Berto](https://open.spotify.com/artist/7AKh8HXKj8nJqm8xUcJJAy), [Marinha](https://open.spotify.com/artist/3xlKFRIya0HeR4T3wePklX) | [O teu Mandil](https://open.spotify.com/album/6Ly6XN0yEY1z5IlpCFGkHY) | 2:16 |
+| 2 | [Hierbabuena](https://open.spotify.com/track/6lP6zHndkRhqRPqxUGdGQ8) | [DELFEO](https://open.spotify.com/artist/12ux35By3cWheYSZVR5GsD), [MAD\-G](https://open.spotify.com/artist/4jBGQ4vpmF4OW91I5q01Mh) | [Hierbabuena](https://open.spotify.com/album/0iZbxGdVR3zMZAJTAXz1SG) | 3:45 |
+| 3 | [Quiero](https://open.spotify.com/track/6mfPsNRFm60Vv0X8XHUd0Y) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A) | [Quiero](https://open.spotify.com/album/1zUhgHtiJ7B3N7Q3PxcGoL) | 2:58 |
+| 4 | [Acho!](https://open.spotify.com/track/1Dp4VcI0XaaQXCjBd2u5VD) | [Mala Cotton](https://open.spotify.com/artist/17mQMqtiJVWFebnFbcHo8C) | [Acho!](https://open.spotify.com/album/1AZAuLrenirON8XrrHLEwc) | 2:32 |
+| 5 | [Nighttime](https://open.spotify.com/track/4XmYs05gBKDkJV2W6DwO79) | [Borja Niut](https://open.spotify.com/artist/6xshgsarzzdqRVJZ2mmzOR), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Nighttime](https://open.spotify.com/album/1iWdUqXFsiRACPHO8Cmbte) | 3:12 |
 | 6 | [Tot tan clar](https://open.spotify.com/track/7MqVLJ4G1MhGMOiqDOPvyt) | [Martín Puig](https://open.spotify.com/artist/5MuQEG2Y67zsYbZ2SV5k6D) | [La taula del racó](https://open.spotify.com/album/3z6vwodLKK27CeOl9AJAZS) | 2:46 |
 | 7 | [Tibidabo](https://open.spotify.com/track/0xXkacmLWX6d6VHQOYN3J9) | [Pararrayos](https://open.spotify.com/artist/4CM6sPsv7KiYQ1uM3NtOna) | [Tibidabo](https://open.spotify.com/album/1pQnui7tAnAUQJcY82IRif) | 3:19 |
 | 8 | [Distopia Domèstica](https://open.spotify.com/track/4eIhUINxK7v1rkya6esyhU) | [Mareta Bufona](https://open.spotify.com/artist/5ra24fdFLZoDjlJiebjJku) | [La Novetat](https://open.spotify.com/album/3kVZZlNxpO8FL1PHlV0vRT) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [com estimar un mirall](https://open.spotify.com/track/7wF8W5Guo4rhQJYDy2gFnO) | [Salvatge Cor](https://open.spotify.com/artist/7hDw0AROOXmgMncAfcfgJi) | [com estimar un mirall](https://open.spotify.com/album/38YgwvhkJw8lNgkj1sgWsP) | 2:39 |
 | 50 | [Telarañas](https://open.spotify.com/track/6HenGBcxo6Fwd40PsmnBBm) | [Mario Palma](https://open.spotify.com/artist/4dlnxiJQPalfOpJQpurqDK) | [Telarañas](https://open.spotify.com/album/6i7RMbY3keusLoaXe9oMTY) | 3:08 |
 
-Snapshot ID: `MTY0NDk2NjAwMCwwMDAwMDAzYjAwMDAwMTdlZmY5ZDM1ZWQwMDAwMDE3ZWRkZTgzMDcy`
+Snapshot ID: `MTY0NTAyMzEzOCwwMDAwMDAzYzAwMDAwMTdmMDMwNTEzYTIwMDAwMDE3ZjAzMDRhODdm`

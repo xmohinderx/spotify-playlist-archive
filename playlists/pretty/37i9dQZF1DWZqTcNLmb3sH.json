@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 21382,
+  "num_followers": 21421,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDkyODk2MSwwMDAwMDE0NTAwMDAwMTdlZmQ2ODBiNTkwMDAwMDE3ZWJlOTc3N2Mx",
+  "snapshot_id": "MTY0NTAxNTE0MSwwMDAwMDE0NzAwMDAwMTdmMDI4YjBjMWYwMDAwMDE3ZWJlOTc3N2Mx",
   "tracks": [
     {
       "added_at": "2022-02-03 09:54:34",
@@ -241,6 +241,26 @@
       "url": "https://open.spotify.com/track/6oS5cQgo2W1XvzdknsQLxP"
     },
     {
+      "added_at": "2022-02-16 10:18:06",
+      "album": {
+        "name": "Biddalappo (From \"Family Pack\")",
+        "url": "https://open.spotify.com/album/1LV06666sX2qQpfdOqYspP"
+      },
+      "artists": [
+        {
+          "name": "Guru Kiran",
+          "url": "https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0"
+        },
+        {
+          "name": "Chintan Vikas",
+          "url": "https://open.spotify.com/artist/6h6Iie2GsKWKWKqbe80nEL"
+        }
+      ],
+      "duration_ms": 252926,
+      "name": "Biddalappo (From \"Family Pack\")",
+      "url": "https://open.spotify.com/track/0HSpFU4C66a8btQtPhDo9p"
+    },
+    {
       "added_at": "2022-02-15 12:33:03",
       "album": {
         "name": "Raana",
@@ -275,6 +295,30 @@
       "duration_ms": 106968,
       "name": "Hoove Haaridanthe",
       "url": "https://open.spotify.com/track/2SxLem0pOHyc4YUIvWZW69"
+    },
+    {
+      "added_at": "2022-02-16 12:39:01",
+      "album": {
+        "name": "Jopana Jopana (From \"Dear Sathya\")",
+        "url": "https://open.spotify.com/album/5HkDJT73ycdhpJPGEkznU9"
+      },
+      "artists": [
+        {
+          "name": "Sridhar V Sambhram",
+          "url": "https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Shwetha Devanahally",
+          "url": "https://open.spotify.com/artist/5FD2EKVNcrtZSxxo0UywQU"
+        }
+      ],
+      "duration_ms": 232624,
+      "name": "Jopana Jopana (From \"Dear Sathya\")",
+      "url": "https://open.spotify.com/track/429kjIyw141PNJDRKZ2Cvv"
     },
     {
       "added_at": "2022-02-01 02:50:32",

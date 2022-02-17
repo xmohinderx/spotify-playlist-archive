@@ -837,10 +837,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "album": {
+        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
+        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Doo Wop (That Thing) - Edit",
+      "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
     },
     {
       "album": {
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 271000,
       "name": "Hard as a Rock",
       "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 299826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 221626,
       "name": "Independent Women, Pt. 1",
       "url": "https://open.spotify.com/track/5EDUIiDf1Sp6nVnmCMRxa2"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 243893,
       "name": "Just the Way It Is, Baby",
       "url": "https://open.spotify.com/track/35keiknicSk7ZiEl1Wa4Hg"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 243893,
       "name": "Just the Way It Is, Baby",
       "url": "https://open.spotify.com/track/4AgtVP8QGgkqYbVeLJCWDz"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 295957,
       "name": "Let's Get Rocked",
       "url": "https://open.spotify.com/track/11C6xtJLOaKqqMrl9hQwQ0"
@@ -2527,7 +2545,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 253773,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/6hmtNel4OKlBpBcTO7ao3o"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
@@ -3501,7 +3519,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 301466,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx"
@@ -4169,7 +4187,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM"
@@ -4187,7 +4205,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/79RUMZfMNMpqZnswovvTqv"

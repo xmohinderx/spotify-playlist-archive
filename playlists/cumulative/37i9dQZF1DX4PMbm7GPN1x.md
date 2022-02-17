@@ -2,7 +2,7 @@
 
 ### [Disco Deewane](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
 
-> Relive the 80s disco era with these hits
+> Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

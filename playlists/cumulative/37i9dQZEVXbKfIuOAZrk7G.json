@@ -424,7 +424,7 @@
     },
     {
       "album": {
-        "name": "Captain",
+        "name": "Captain (whistle)",
         "url": "https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX"
       },
       "artists": [
@@ -437,7 +437,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214819,
-      "name": "Captain",
+      "name": "Captain (whistle)",
       "url": "https://open.spotify.com/track/2GPh676erhgaOyMRmQNOc6"
     },
     {
@@ -740,6 +740,36 @@
     },
     {
       "album": {
+        "name": "Gehraiyaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1n3IiQK8urUhPw8wsfWluX"
+      },
+      "artists": [
+        {
+          "name": "OAFF",
+          "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
+        },
+        {
+          "name": "Savera",
+          "url": "https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb"
+        },
+        {
+          "name": "Lothika",
+          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219686,
+      "name": "Doobey",
+      "url": "https://open.spotify.com/track/7k6QR9YHyW258yVN6FHO1T"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -769,7 +799,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 152717,
       "name": "Dovni",
       "url": "https://open.spotify.com/track/7uLX9oIvIJPCykyygTkiyo"

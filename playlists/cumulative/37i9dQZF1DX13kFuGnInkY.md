@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX13kFuGnInkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX13kFuGnInkY)
 
-### [ACM Awards 2022](https://open.spotify.com/playlist/2abNicU5x5EpZu7AnrWZEQ)
+### [ACM Awards 2022](https://open.spotify.com/playlist/2O2A0u2oMemfyiWYSMET6A)
 
 > Congratulations to all of this year's nominees!
 

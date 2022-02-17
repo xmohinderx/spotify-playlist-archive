@@ -12486,6 +12486,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u041b\u041e\u0425\u041e\u0419 \u041f\u041e\u0426",
+        "url": "https://open.spotify.com/album/3o1EvRhjmJs59fAA54sANJ"
+      },
+      "artists": [
+        {
+          "name": "PLOHOYPAREN",
+          "url": "https://open.spotify.com/artist/4mVClR51ezgcGmBnInzFum"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89806,
+      "name": "\u0422\u0430\u0431\u043b\u0435\u0442\u043a\u0430",
+      "url": "https://open.spotify.com/track/0fLampmh4qsOLGitXM171a"
+    },
+    {
+      "album": {
         "name": "\u0422\u0410\u0419\u041c\u0410\u0423\u0422",
         "url": "https://open.spotify.com/album/72D3RPXL2bbpIWpYrGdOqb"
       },
@@ -13659,7 +13677,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 200985,
       "name": "\u0428\u041e\u041f\u041b\u0418\u0424\u0422\u0415\u0420",
       "url": "https://open.spotify.com/track/3lx2dHPS44NhqKkncoeQ5F"

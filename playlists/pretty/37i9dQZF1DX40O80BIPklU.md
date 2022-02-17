@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: MC Davo, La Santa Grifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,009 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,103 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 16 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 |
 | 17 | [Nunca Imaginé](https://open.spotify.com/track/07XudW9mstFnVTESabbOUu) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/09T8DBQY3aDVDLgWckmNxb) | 2:48 |
 | 18 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 |
-| 19 | [Clase G](https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [CashMoneyAp](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri) | [Clase G](https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ) | 2:07 |
+| 19 | [CLASE G](https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [CashMoneyAp](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri) | [CLASE G](https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ) | 2:07 |
 | 20 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 |
 | 21 | [A 120](https://open.spotify.com/track/5UaxYPAJvLc5uuV9sbTZjP) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [A 120](https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx) | 3:53 |
 | 22 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 |

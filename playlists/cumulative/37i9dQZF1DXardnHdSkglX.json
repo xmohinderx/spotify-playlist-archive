@@ -2460,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/5BWVKUG7LCkIiHGpa9zakC"
+      },
+      "artists": [
+        {
+          "name": "Rio Branco",
+          "url": "https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/7uHTIGEgTr7QfSAnH8OGZL"
+    },
+    {
+      "album": {
         "name": "Relaxing Bossa Lounge 4",
         "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
       },
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 206811,
       "name": "Viva La Vida (Bossa Version)",
       "url": "https://open.spotify.com/track/6b6v8xyc1HV7UANEBT5Ck1"

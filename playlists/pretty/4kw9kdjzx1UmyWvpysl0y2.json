@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127689,
+  "num_followers": 127681,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI0NywwMTZhZmYwNzg2MGUzZGM1ODlmODNmMWEzNTYzYTBkM2UwNWJkYTNk",
+  "snapshot_id": "MzI0OCw1ODA4OGE5ODg0NDM0Nzk3MzYzZGVjMTE5YzEyZWRmNmNmZWNhMzdj",
   "tracks": [
+    {
+      "added_at": "2022-02-16 17:17:23",
+      "album": {
+        "name": "Spaced Out",
+        "url": "https://open.spotify.com/album/1XHf7B0DwZTIMzSxeRKJEv"
+      },
+      "artists": [
+        {
+          "name": "Jay FM",
+          "url": "https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs"
+        }
+      ],
+      "duration_ms": 162250,
+      "name": "Spaced Out",
+      "url": "https://open.spotify.com/track/4cG0DczmM59OoR7Pcoc9Mx"
+    },
     {
       "added_at": "2022-02-15 17:56:51",
       "album": {

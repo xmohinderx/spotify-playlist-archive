@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,125 likes - 81 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,226 likes - 81 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

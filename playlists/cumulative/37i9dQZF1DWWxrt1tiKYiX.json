@@ -656,6 +656,28 @@
     },
     {
       "album": {
+        "name": "Head on Fire (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4XXBWeAI6h6Ymh0zlBHNCb"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197597,
+      "name": "Head on Fire - Acoustic Version",
+      "url": "https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
@@ -685,7 +707,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 214427,
       "name": "Higher Power - Acoustic Version",
       "url": "https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH"

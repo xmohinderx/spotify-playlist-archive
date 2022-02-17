@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Flo Perlin",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Lexie Carroll",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "(i'm not good at writing) love songs",
+        "url": "https://open.spotify.com/album/3CsDMRNsMF04EajD7JpTpR"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188208,
+      "name": "(i'm not good at writing) love songs",
+      "url": "https://open.spotify.com/track/2p3u3IMdlGydHw20tXHtQs"
+    },
     {
       "album": {
         "name": "5am in tokyo",
@@ -297,7 +315,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 180368,
       "name": "Bigger Than Anything Ever",
       "url": "https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO"
@@ -391,7 +409,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 160466,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/7GnLlEPQSRTHvv7IXcvE4h"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 139967,
       "name": "Espresso Martini",
       "url": "https://open.spotify.com/track/0hXCsn1ypfVmqCcrQ73Ctw"
@@ -730,6 +748,24 @@
     },
     {
       "album": {
+        "name": "GMT",
+        "url": "https://open.spotify.com/album/1itCVDohgU3WtNYW9eBTYM"
+      },
+      "artists": [
+        {
+          "name": "Jaish",
+          "url": "https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177961,
+      "name": "GMT",
+      "url": "https://open.spotify.com/track/4lQEzIqGYZVftxR9VZVgPv"
+    },
+    {
+      "album": {
         "name": "Go Back in Time",
         "url": "https://open.spotify.com/album/4ACBzGxI6ykzsMnFMQSQD3"
       },
@@ -850,6 +886,24 @@
     },
     {
       "album": {
+        "name": "Grey Dublin",
+        "url": "https://open.spotify.com/album/4OL6wr8MFyZRYxcg1Jm6fi"
+      },
+      "artists": [
+        {
+          "name": "Nagam",
+          "url": "https://open.spotify.com/artist/6RfUxJHuVIllzy1KE8rLiu"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Grey Dublin",
+      "url": "https://open.spotify.com/track/2N5w9dgr53pDEOVlSOXyVG"
+    },
+    {
+      "album": {
         "name": "hana",
         "url": "https://open.spotify.com/album/608VtYcmazceNYxGEHbC9O"
       },
@@ -865,6 +919,24 @@
       "duration_ms": 216807,
       "name": "hana",
       "url": "https://open.spotify.com/track/5YLviATJ2VdwBrVtal5Z4t"
+    },
+    {
+      "album": {
+        "name": "Mazzalean / Headtop Buss From Luss",
+        "url": "https://open.spotify.com/album/5OfHvGj353NSGT7bdUVc5h"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165659,
+      "name": "Headtop Buss From Luss",
+      "url": "https://open.spotify.com/track/53UjIJ47Uf6B7pFs7Mwf1L"
     },
     {
       "album": {
@@ -933,7 +1005,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 176223,
       "name": "Hope That You Know",
       "url": "https://open.spotify.com/track/2M2b0V0CvV8KtwI9kEqaYk"
@@ -1225,7 +1297,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 129975,
       "name": "Kids",
       "url": "https://open.spotify.com/track/2eEDSiImAlmr8403EChK0R"
@@ -1283,6 +1355,24 @@
       "duration_ms": 210480,
       "name": "Lanzarote Howl",
       "url": "https://open.spotify.com/track/6kaBmYQgjE8eOBq7pLLfV8"
+    },
+    {
+      "album": {
+        "name": "Lava Lamp",
+        "url": "https://open.spotify.com/album/3BslIURcOWD0lj608GaUgD"
+      },
+      "artists": [
+        {
+          "name": "FLISS",
+          "url": "https://open.spotify.com/artist/3WRXRa5f0yaXLfbtwpY79v"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Lava Lamp",
+      "url": "https://open.spotify.com/track/3thsvz8m59Z8iksGcCrde7"
     },
     {
       "album": {
@@ -1363,7 +1453,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 176500,
       "name": "lose yourself.",
       "url": "https://open.spotify.com/track/6Y02Lvx6q0vqxMZ6qJMOJo"
@@ -1407,6 +1497,24 @@
       "duration_ms": 151185,
       "name": "Love Me No One Else",
       "url": "https://open.spotify.com/track/1Ii2Axxjdjn73lvLuqND0t"
+    },
+    {
+      "album": {
+        "name": "LS6",
+        "url": "https://open.spotify.com/album/2bHSohYUor3kXKSKpHyklF"
+      },
+      "artists": [
+        {
+          "name": "Speak // Demetrius",
+          "url": "https://open.spotify.com/artist/5ay8yb6Kq43K0oAgBiRfYI"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151110,
+      "name": "LS6",
+      "url": "https://open.spotify.com/track/0km9KTXFmx9tXNkyRnk0t2"
     },
     {
       "album": {
@@ -1519,7 +1627,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 226874,
       "name": "Mixed Signals",
       "url": "https://open.spotify.com/track/58dsUAdLsJ3LLXuFFFwgh0"
@@ -1742,6 +1850,24 @@
     },
     {
       "album": {
+        "name": "Nothing to Something",
+        "url": "https://open.spotify.com/album/7q2jCrSm2cpo6mpSuKag30"
+      },
+      "artists": [
+        {
+          "name": "Nolay",
+          "url": "https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225245,
+      "name": "Nothing to Something",
+      "url": "https://open.spotify.com/track/0jy6xqf66xAccJWPg1db5e"
+    },
+    {
+      "album": {
         "name": "OBiNRiN",
         "url": "https://open.spotify.com/album/2IKoeMAEUBOvnkLwx3h8v4"
       },
@@ -1779,10 +1905,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 80613,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+    },
+    {
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3h4Yu6OPqYqh7VvMWMvkQX"
+      },
+      "artists": [
+        {
+          "name": "Tarun Puri",
+          "url": "https://open.spotify.com/artist/5KB05NrNS3ns9mDIfPj65D"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/11LWZ84MDmH3HLveORzySL"
     },
     {
       "album": {
@@ -1873,6 +2017,24 @@
       "duration_ms": 210750,
       "name": "Pizza",
       "url": "https://open.spotify.com/track/1x40V7AwLM9deNunj9bwU9"
+    },
+    {
+      "album": {
+        "name": "Popular Loner",
+        "url": "https://open.spotify.com/album/5JkBe7aLVMVqDesIXFzmIh"
+      },
+      "artists": [
+        {
+          "name": "Ninety9",
+          "url": "https://open.spotify.com/artist/5n2h7BqH2slKPTNItnAfHx"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Popular Loner",
+      "url": "https://open.spotify.com/track/1V6d5jHw6eAE5tJbe0uO8X"
     },
     {
       "album": {
@@ -2017,10 +2179,32 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 155520,
       "name": "Rice And Peas",
       "url": "https://open.spotify.com/track/6UgAx9ilu2DbqTi8650kz5"
+    },
+    {
+      "album": {
+        "name": "See You",
+        "url": "https://open.spotify.com/album/3jSx2lc7LRk5KqQ3eDWhBQ"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232945,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/3MIIOWKkWySNmVe0v8JYQs"
     },
     {
       "album": {
@@ -2071,7 +2255,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 165000,
       "name": "she only likes it when im acting",
       "url": "https://open.spotify.com/track/6RYWkmfaxmuVVIJeICQEMw"
@@ -2328,6 +2512,24 @@
     },
     {
       "album": {
+        "name": "Sundai Interlude",
+        "url": "https://open.spotify.com/album/1q300F5FhxgzW5LTHmFIvW"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198904,
+      "name": "Sundai Interlude",
+      "url": "https://open.spotify.com/track/6npbLMWe8HreNeAYJd2eAj"
+    },
+    {
+      "album": {
         "name": "Take the Pain",
         "url": "https://open.spotify.com/album/4GnqZ5Y6vTKzeHVgkoOKvt"
       },
@@ -2383,7 +2585,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 151875,
       "name": "To Be Loved By You",
       "url": "https://open.spotify.com/track/64zQmnokm59t3xTahGeXQF"
@@ -2459,7 +2661,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 146666,
       "name": "Up (feat. KiLLOWEN)",
       "url": "https://open.spotify.com/track/5B9WeXJ1T4nAOSpfIx9onz"
@@ -2481,6 +2683,24 @@
       "duration_ms": 200586,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk"
+    },
+    {
+      "album": {
+        "name": "Want You To Know EP",
+        "url": "https://open.spotify.com/album/3TEfMOJw4s49e1ZrGN3uLN"
+      },
+      "artists": [
+        {
+          "name": "Zar",
+          "url": "https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331551,
+      "name": "Want You To Know",
+      "url": "https://open.spotify.com/track/34tJ9TMKTojbTwaiDBhtoh"
     },
     {
       "album": {

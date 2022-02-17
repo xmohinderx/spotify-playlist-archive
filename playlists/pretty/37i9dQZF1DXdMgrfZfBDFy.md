@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMgrfZfBDFy.md) - [plain]
 
 > Höj volymen och happy EuroPride 2018!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,626 likes - 47 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,625 likes - 47 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

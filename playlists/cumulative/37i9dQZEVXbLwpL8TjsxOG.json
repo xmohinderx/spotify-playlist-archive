@@ -1432,6 +1432,24 @@
     },
     {
       "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -4032,6 +4050,24 @@
     },
     {
       "album": {
+        "name": "\u5831\u5fa9\u5f0f\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/0eCNcbQPLF8HNXE2iOsOR1"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204772,
+      "name": "\u5831\u5fa9\u5f0f\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/6N47H7GFm8SBwdJMkS9sqj"
+    },
+    {
+      "album": {
         "name": "\u5875\u4e16\u7f8e",
         "url": "https://open.spotify.com/album/0yBWVChnY7Yp8QSdasyyAh"
       },
@@ -5015,7 +5051,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 307873,
       "name": "\u7406\u6027\u8207\u4efb\u6027\u4e4b\u9593",
       "url": "https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir"
@@ -5569,7 +5605,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 200162,
       "name": "\u9006\u6642\u8eca\u7ad9",
       "url": "https://open.spotify.com/track/2EU1uVEUCgSA5aiBiHJDAk"

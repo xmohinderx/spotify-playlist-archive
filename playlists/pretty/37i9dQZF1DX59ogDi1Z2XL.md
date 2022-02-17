@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The sounds of hip\-hop coming out of Canada\. Cover: Charmaine
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,728 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,743 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 17 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 |
 | 18 | [Tribeca Nights](https://open.spotify.com/track/2cOjtf392yEyKdjk56VHaZ) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Tribeca Nights](https://open.spotify.com/album/0g6TZedkxClPZI966LMzJJ) | 2:56 |
 | 19 | [Night Scenes](https://open.spotify.com/track/0L69WWJy5ntvBopLzAUkw1) | [Vince The Messenger](https://open.spotify.com/artist/7wKTJPnPgXQ8ENAlfpM0eA), [TNA](https://open.spotify.com/artist/135FZ4psdYk6oVrWcTv0LT) | [Night Scenes](https://open.spotify.com/album/3sWSH52ckbAFt3W2llzGs8) | 3:55 |
-| 20 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Luvmind.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
+| 20 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [LUVMIND.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
 | 21 | [PHOENIX](https://open.spotify.com/track/1JjP2oYeFS5L2mWkc9abJl) | [Busy Nasa](https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi), [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe) | [333](https://open.spotify.com/album/7LyH1QSSk3ougLo55qXcGK) | 2:30 |
 | 22 | [Hank McCoy](https://open.spotify.com/track/5kai4nEavM92J8EfPOqduG) | [Casino Costa](https://open.spotify.com/artist/6PP4RwYACkvUAgfVc1Qgae) | [Smuv Operator](https://open.spotify.com/album/1UsMVARNy6aMNjovmFvyle) | 2:33 |
 | 23 | [Fast Life](https://open.spotify.com/track/6qv2lBdSdFof7UY0FLQMvu) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Fast Life](https://open.spotify.com/album/5w5Qyq7m9ZpQPmoRPx0IkF) | 1:55 |

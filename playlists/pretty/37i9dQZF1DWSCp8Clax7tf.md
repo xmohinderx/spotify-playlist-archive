@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > The Women who put Country Music on the map.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,836 likes - 91 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,000 likes - 91 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

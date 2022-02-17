@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Becky G, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,644 likes - 95 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,652 likes - 95 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

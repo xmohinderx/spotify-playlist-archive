@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > we are so lucky for these beautiful tracks of the week\. cover: omar apollo & daniel caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,477 likes - 143 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,481 likes - 143 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

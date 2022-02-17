@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Dorothy
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,968 likes - 129 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,210 likes - 129 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

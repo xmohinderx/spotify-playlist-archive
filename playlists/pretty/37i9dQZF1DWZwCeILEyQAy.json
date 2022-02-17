@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Erica Banks",
-  "num_followers": 8896,
+  "num_followers": 8913,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk3MjE5MSwwMDAwMDAwMDVhN2FiMDNjZTY2Nzk5ZmEyN2JhYTc3YWZlNDk2NzVk",
+  "snapshot_id": "MTY0NTA1ODM3MywwMDAwMDAwMGY2OGU3YTAzOGMxNTgwMTFmOTk0MDU4M2U5MTE2YTVk",
   "tracks": [
     {
       "added_at": "2022-02-04 05:00:00",
@@ -27,34 +27,42 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "BESITO (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/6i5ouzNtTZ0x9V5M00EN3d"
       },
       "artists": [
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 146597,
-      "name": "CAN'T TOUCH THIS",
-      "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
+        },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 154389,
-      "name": "Girls in the Hood",
-      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3AY7IDVkXawRLm28SQ5SOW"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -79,74 +87,70 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Beating Down Yo Block",
-        "url": "https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK"
+        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
+        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
       },
       "artists": [
         {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Beating Down Yo Block",
-      "url": "https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/6SJDmsoNuteasF86EPiZQK"
-      },
-      "artists": [
-        {
-          "name": "Renni Rucci",
-          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
-        }
-      ],
-      "duration_ms": 121248,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1r1s3410xYexj6RHM670dc"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "Bruised Soundtrack",
+          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
         }
       ],
-      "duration_ms": 173752,
-      "name": "Female Goat",
-      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+      "duration_ms": 160130,
+      "name": "Bet It - from the \"Bruised\" Soundtrack",
+      "url": "https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9"
     },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Do We Have A Problem?",
-        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 207065,
-      "name": "Do We Have A Problem?",
-      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+      "duration_ms": 154389,
+      "name": "Girls in the Hood",
+      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Do Too Much",
+        "url": "https://open.spotify.com/album/4kJuPrQSvRi66p3JbuH9qu"
+      },
+      "artists": [
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        }
+      ],
+      "duration_ms": 193775,
+      "name": "Do Too Much",
+      "url": "https://open.spotify.com/track/5LeHigT7pl8owmXu1rQMYR"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Soufside",
+        "url": "https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Soufside",
+      "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -187,22 +191,54 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
-        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
+        "name": "Break The Bank",
+        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
         },
         {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
         }
       ],
-      "duration_ms": 134801,
-      "name": "Tha Fuck - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/4atXiThjKGDzHmJFUQq16I"
+      "duration_ms": 183436,
+      "name": "Freaky Dancer (feat. Trina)",
+      "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Rose Gold Stripper Pole",
+        "url": "https://open.spotify.com/album/4r2vHhtN23zIdYTdD0F27s"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 131256,
+      "name": "Rose Gold Stripper Pole",
+      "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Could Never",
+        "url": "https://open.spotify.com/album/6yCkQrOOdMMdpYqQvnvjDJ"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Could Never",
+      "url": "https://open.spotify.com/track/5T4gMIgA9HS9lt3x0S1z1m"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -219,42 +255,6 @@
       "duration_ms": 125661,
       "name": "M$. Hardbody",
       "url": "https://open.spotify.com/track/7mnkT43jt8l9Cpg3UYRy8G"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "BESITO (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/6i5ouzNtTZ0x9V5M00EN3d"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/3AY7IDVkXawRLm28SQ5SOW"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Oh Shhh",
-        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        }
-      ],
-      "duration_ms": 93096,
-      "name": "Oh Shhh",
-      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -299,34 +299,18 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Pretty & Paid 2.0",
-        "url": "https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2"
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/6SJDmsoNuteasF86EPiZQK"
       },
       "artists": [
         {
-          "name": "Pap Chanel",
-          "url": "https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed"
+          "name": "Renni Rucci",
+          "url": "https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz"
         }
       ],
-      "duration_ms": 146497,
-      "name": "Apple Jacks",
-      "url": "https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Soufside",
-        "url": "https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Soufside",
-      "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
+      "duration_ms": 121248,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1r1s3410xYexj6RHM670dc"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -347,6 +331,26 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
+        "name": "You know My body (feat. Capella Grey)",
+        "url": "https://open.spotify.com/album/2TJan1yGyJ1Rq6IissY9Gu"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        },
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "duration_ms": 155881,
+      "name": "You know My body (feat. Capella Grey)",
+      "url": "https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
         "name": "Suck It Up",
         "url": "https://open.spotify.com/album/1cNGvkYmxFKI4hTS4pidxM"
       },
@@ -363,6 +367,378 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
+        "name": "Beam Me Up Scotty",
+        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 181690,
+      "name": "Fractions",
+      "url": "https://open.spotify.com/track/28PeqNMnFfVQnXvXmyf88G"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 173752,
+      "name": "Female Goat",
+      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Trappin For The 99 & 2021",
+        "url": "https://open.spotify.com/album/68h4gucuothIPoXXwOcXYK"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "duration_ms": 70429,
+      "name": "If I Want To",
+      "url": "https://open.spotify.com/track/3mulIJBXRtnCCyrhEmQnUT"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/6WGZFEreLnBdrNvjVcVIeS"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/09LxIFJONw78nrmzA6sAfB"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Ken The Man",
+          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ain't FWM (feat. Ken the Man)",
+      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 146597,
+      "name": "CAN'T TOUCH THIS",
+      "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Nunnadet Shit (Remix)",
+        "url": "https://open.spotify.com/album/1loyx1hQOMMyI2fZsIst7R"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/2yYkiWf3rovtdrvqiaLV1m"
+        },
+        {
+          "name": "Dream Doll",
+          "url": "https://open.spotify.com/artist/4zObDORMaBODHRPMRKuWzH"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        },
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5kiOT8NdmUdCgB9l94GaYz"
+        }
+      ],
+      "duration_ms": 256368,
+      "name": "Nunnadet Shit - Remix",
+      "url": "https://open.spotify.com/track/58cqFvlwb5uljBwtDgpJg9"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Beating Down Yo Block",
+        "url": "https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Beating Down Yo Block",
+      "url": "https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "313-414 (feat. Tee Grizzley)",
+        "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 149938,
+      "name": "313-414 (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Oh Shhh",
+        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "duration_ms": 93096,
+      "name": "Oh Shhh",
+      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "The Biggest",
+        "url": "https://open.spotify.com/album/1uEXYHpsTQBHG5c6lRVaSE"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "The Biggest",
+      "url": "https://open.spotify.com/track/2b3mMAnExnoWf9UM2VnTYt"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Miss Understood",
+        "url": "https://open.spotify.com/album/60F353R0WRwp8meusGnKcQ"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        }
+      ],
+      "duration_ms": 109534,
+      "name": "Miss Understood",
+      "url": "https://open.spotify.com/track/5WFTXayaoxsc3WO9GNSBNd"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "TBH",
+        "url": "https://open.spotify.com/album/4U3RNjH7iKyqC0xwYtIUFk"
+      },
+      "artists": [
+        {
+          "name": "Bri Steves",
+          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "duration_ms": 164611,
+      "name": "Like You Should (feat. Symba)",
+      "url": "https://open.spotify.com/track/1uJnboxCR1HKn8k2L3Wygp"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Pedi",
+        "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125272,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Don't Play With It",
+        "url": "https://open.spotify.com/album/3373Pl3x4uwUPXh0UMRw8N"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Billy B",
+          "url": "https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY"
+        }
+      ],
+      "duration_ms": 131082,
+      "name": "Don't Play With It",
+      "url": "https://open.spotify.com/track/6GbrejIjCnfVzkNTxyMYFF"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "Check (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Different (Freestyle)",
+        "url": "https://open.spotify.com/album/1z5Gg335y9A2W7pd152qFT"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "duration_ms": 108068,
+      "name": "Different - Freestyle",
+      "url": "https://open.spotify.com/track/3VRlnEG1YXsuMCiaf1ybY0"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "We Not Humping",
+        "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 144195,
+      "name": "We Not Humping",
+      "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "GodMother",
+        "url": "https://open.spotify.com/album/3aW6FJfy8Pp4qxhHQ3THYh"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "duration_ms": 202119,
+      "name": "GodMother",
+      "url": "https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -375,6 +751,38 @@
       "duration_ms": 170870,
       "name": "Shots Fired",
       "url": "https://open.spotify.com/track/3yhhv0VCmKkAWD9ysDLpTE"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Want Sum",
+        "url": "https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        }
+      ],
+      "duration_ms": 127946,
+      "name": "Want Sum",
+      "url": "https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Rap Freaks",
+        "url": "https://open.spotify.com/album/1UKJRFSWbzO0IcBKLoXxka"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 104064,
+      "name": "Rap Freaks",
+      "url": "https://open.spotify.com/track/1hiouKTKyZ7CcKWAoofkkg"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -419,38 +827,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Want Sum",
-        "url": "https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU"
-      },
-      "artists": [
-        {
-          "name": "Enchanting",
-          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
-        }
-      ],
-      "duration_ms": 127946,
-      "name": "Want Sum",
-      "url": "https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "The Biggest",
-        "url": "https://open.spotify.com/album/1uEXYHpsTQBHG5c6lRVaSE"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "The Biggest",
-      "url": "https://open.spotify.com/track/2b3mMAnExnoWf9UM2VnTYt"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "Pretty Bitch Freestyle",
         "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
       },
@@ -467,310 +843,34 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Pink Molly",
-        "url": "https://open.spotify.com/album/0vI5zb496wmxzbRXD8JKCS"
-      },
-      "artists": [
-        {
-          "name": "Molly Brazy",
-          "url": "https://open.spotify.com/artist/6apXk5PGvEVbgXOTyk6fP1"
-        },
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 187144,
-      "name": "Boss Up (feat. Mozzy)",
-      "url": "https://open.spotify.com/track/46rnwA4fDYt7uqZNbuxS7m"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Ken The Man",
-          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ain't FWM (feat. Ken the Man)",
-      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Miss Understood",
-        "url": "https://open.spotify.com/album/60F353R0WRwp8meusGnKcQ"
-      },
-      "artists": [
-        {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
-        }
-      ],
-      "duration_ms": 109534,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/5WFTXayaoxsc3WO9GNSBNd"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Nunnadet Shit (Remix)",
-        "url": "https://open.spotify.com/album/1loyx1hQOMMyI2fZsIst7R"
-      },
-      "artists": [
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        },
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/2yYkiWf3rovtdrvqiaLV1m"
-        },
-        {
-          "name": "Dream Doll",
-          "url": "https://open.spotify.com/artist/4zObDORMaBODHRPMRKuWzH"
-        },
-        {
-          "name": "Dreezy",
-          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
-        },
-        {
-          "name": "Ivorian Doll",
-          "url": "https://open.spotify.com/artist/5kiOT8NdmUdCgB9l94GaYz"
-        }
-      ],
-      "duration_ms": 256368,
-      "name": "Nunnadet Shit - Remix",
-      "url": "https://open.spotify.com/track/58cqFvlwb5uljBwtDgpJg9"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Don't Play With It",
-        "url": "https://open.spotify.com/album/3373Pl3x4uwUPXh0UMRw8N"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Billy B",
-          "url": "https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY"
-        }
-      ],
-      "duration_ms": 131082,
-      "name": "Don't Play With It",
-      "url": "https://open.spotify.com/track/6GbrejIjCnfVzkNTxyMYFF"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Beam Me Up Scotty",
-        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 181690,
-      "name": "Fractions",
-      "url": "https://open.spotify.com/track/28PeqNMnFfVQnXvXmyf88G"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Trappin For The 99 & 2021",
-        "url": "https://open.spotify.com/album/68h4gucuothIPoXXwOcXYK"
-      },
-      "artists": [
-        {
-          "name": "Connie Diiamond",
-          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
-        }
-      ],
-      "duration_ms": 70429,
-      "name": "If I Want To",
-      "url": "https://open.spotify.com/track/3mulIJBXRtnCCyrhEmQnUT"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Rose Gold Stripper Pole",
-        "url": "https://open.spotify.com/album/4r2vHhtN23zIdYTdD0F27s"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 131256,
-      "name": "Rose Gold Stripper Pole",
-      "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "We Not Humping",
-        "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 144195,
-      "name": "We Not Humping",
-      "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Heavy Steppers (Remix)",
-        "url": "https://open.spotify.com/album/5U6PsUxmiTvOKxsS54t5fA"
-      },
-      "artists": [
-        {
-          "name": "9ina",
-          "url": "https://open.spotify.com/artist/1sbXueC2f1AS634qGiyZFw"
-        },
-        {
-          "name": "Bidney Blood",
-          "url": "https://open.spotify.com/artist/4bJCIoav4AKcHaLMIYXKhF"
-        }
-      ],
-      "duration_ms": 120111,
-      "name": "Heavy Steppers - Remix",
-      "url": "https://open.spotify.com/track/0jbzP7LQDrRlDSS8x3mAPe"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "313-414 (feat. Tee Grizzley)",
-        "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
       "artists": [
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 149938,
-      "name": "313-414 (feat. Tee Grizzley)",
-      "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
+      "duration_ms": 186837,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/39IE3DOPyQkpX5IKoSzHHL"
     },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+        "name": "Baby Goat",
+        "url": "https://open.spotify.com/album/5X1HkCHCIaR5IfWVFPdJ0x"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "Young Devyn",
+          "url": "https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb"
         }
       ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
-        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
-        }
-      ],
-      "duration_ms": 160130,
-      "name": "Bet It - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Smack a Bitch",
-        "url": "https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Smack a Bitch",
-      "url": "https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Break The Bank",
-        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        },
-        {
-          "name": "Trina",
-          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
-        }
-      ],
-      "duration_ms": 183436,
-      "name": "Freaky Dancer (feat. Trina)",
-      "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "GodMother",
-        "url": "https://open.spotify.com/album/3aW6FJfy8Pp4qxhHQ3THYh"
-      },
-      "artists": [
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        }
-      ],
-      "duration_ms": 202119,
-      "name": "GodMother",
-      "url": "https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8"
+      "duration_ms": 112845,
+      "name": "Straight To It",
+      "url": "https://open.spotify.com/track/1BgyAPxLr60xUYNbvg7my6"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -795,134 +895,22 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Do Too Much",
-        "url": "https://open.spotify.com/album/4kJuPrQSvRi66p3JbuH9qu"
+        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
+        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
       },
       "artists": [
         {
-          "name": "Omeretta the Great",
-          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
-        }
-      ],
-      "duration_ms": 193775,
-      "name": "Do Too Much",
-      "url": "https://open.spotify.com/track/5LeHigT7pl8owmXu1rQMYR"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Fuck It Up",
-        "url": "https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX"
-      },
-      "artists": [
-        {
-          "name": "Bali Baby",
-          "url": "https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY"
-        }
-      ],
-      "duration_ms": 132989,
-      "name": "Fuck It Up",
-      "url": "https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Bruised Soundtrack",
+          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
         }
       ],
-      "duration_ms": 172714,
-      "name": "Check (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 138549,
-      "name": "City On Lock",
-      "url": "https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Pedi",
-        "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125272,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "You know My body (feat. Capella Grey)",
-        "url": "https://open.spotify.com/album/2TJan1yGyJ1Rq6IissY9Gu"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        }
-      ],
-      "duration_ms": 155881,
-      "name": "You know My body (feat. Capella Grey)",
-      "url": "https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Could Never (Remix) [feat. Moneybagg Yo]",
-        "url": "https://open.spotify.com/album/65a4xOJ9i58wpUnqy2Pyyj"
-      },
-      "artists": [
-        {
-          "name": "Jucee Froot",
-          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 208358,
-      "name": "Could Never (Remix) [feat. Moneybagg Yo]",
-      "url": "https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz"
+      "duration_ms": 134801,
+      "name": "Tha Fuck - from the \"Bruised\" Soundtrack",
+      "url": "https://open.spotify.com/track/4atXiThjKGDzHmJFUQq16I"
     }
   ],
   "unique_name": "Pressure",

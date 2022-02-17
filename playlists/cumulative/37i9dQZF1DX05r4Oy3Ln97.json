@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 138263,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5uMCXikeX6Z8p10rtYgop8"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 183092,
       "name": "Bora",
       "url": "https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 159152,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6fpvMHuOB3C9SCrtMGzJaO"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 182654,
       "name": "High",
       "url": "https://open.spotify.com/track/3bQ16DLr1K3mZS1j49Czql"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 134168,
       "name": "I Love Your Smile",
       "url": "https://open.spotify.com/track/0tFvZDDjgzoIrWaLykgvRa"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 175624,
       "name": "I Should Go Home (feat. Philip Rustad)",
       "url": "https://open.spotify.com/track/2IH2C9uhbhvfMnUbfvdHlL"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 119217,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 151101,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 156900,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hJzh7MhYDQxP33adTYPGZ"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 159669,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 160295,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 228250,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 166080,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 157141,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU"
@@ -1629,6 +1629,28 @@
       "duration_ms": 156428,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/6fSwN09SuOX7nnkOXyUvH7"
+    },
+    {
+      "album": {
+        "name": "Purple Sands",
+        "url": "https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        },
+        {
+          "name": "David Harks",
+          "url": "https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191518,
+      "name": "Purple Sands",
+      "url": "https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ"
     },
     {
       "album": {
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 145321,
       "name": "Running Through the Night",
       "url": "https://open.spotify.com/track/4nrFhh3yvOyhTkQBUC3Xyd"
@@ -1757,7 +1779,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 146017,
       "name": "Safe To Say",
       "url": "https://open.spotify.com/track/5S9uRQ803fJlDnW2GCeuCK"
@@ -1911,7 +1933,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 132571,
       "name": "Sun Screen",
       "url": "https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q"
@@ -1929,7 +1951,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 190138,
       "name": "Sunspray",
       "url": "https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU"
@@ -2121,7 +2143,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 134005,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C"

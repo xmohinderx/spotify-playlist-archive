@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Daphne's Couch | Artwork: Jim Klok",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Rotten Mind | Artwork: Jim Klok",
   "name": "Fresh Finds Rock",
   "published_playlist_ids": [
     "0kwhXxf6pq44hUjEkufg4R"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "#1 Sound",
+        "url": "https://open.spotify.com/album/5JDS99SebPq9aU2Rfm8ChD"
+      },
+      "artists": [
+        {
+          "name": "Transistor",
+          "url": "https://open.spotify.com/artist/5zAkY89UrU2KFnh8CmdOU0"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279148,
+      "name": "#1 Sound",
+      "url": "https://open.spotify.com/track/5fG6kyIVKdzlYQ9RVkazwB"
+    },
     {
       "album": {
         "name": "(tired of) always getting older",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 223250,
       "name": "(tired of) always getting older",
       "url": "https://open.spotify.com/track/5ti0oUrS07aaHFR7w1Phjg"
@@ -44,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/6kqo9EfVnQzYHhTCVQ2Krt"
+      },
+      "artists": [
+        {
+          "name": "STRAiD",
+          "url": "https://open.spotify.com/artist/0m4RiZPaWSTvbkwjHbCFI5"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228152,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/60T79EcrT5xFx6KAaETOFo"
+    },
+    {
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/55xWXid6e6N5XRNrMU6LT1"
       },
@@ -55,7 +91,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 188833,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/0dNFDH75xW54lBuBbS4T2L"
@@ -77,6 +113,24 @@
       "duration_ms": 237648,
       "name": "American Holy Spirit",
       "url": "https://open.spotify.com/track/6zrllqKVzbAuZuNzFSLplz"
+    },
+    {
+      "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/6LHOkhtR0fcO2aa956pzCa"
+      },
+      "artists": [
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/6WyvmCWjro91321hPs2YKB"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226183,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/1JVgayveX474W9SZFME4P9"
     },
     {
       "album": {
@@ -109,7 +163,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 151893,
       "name": "Baby Let's Pretend",
       "url": "https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb"
@@ -307,7 +361,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 247659,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/7arXfYCNzQzgNpryNgJDCk"
@@ -534,6 +588,60 @@
     },
     {
       "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/3FzEBhREe3LfEg2mtu9lNI"
+      },
+      "artists": [
+        {
+          "name": "Jasmyn",
+          "url": "https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/0XDRRKprgUpyk1RLKNTLJ3"
+    },
+    {
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/2Fp2nN5Jriaag1RaQtYW7q"
+      },
+      "artists": [
+        {
+          "name": "Vero",
+          "url": "https://open.spotify.com/artist/2LsDmxmf4PpOYXeHYOuWKD"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190798,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3y9rDgEdATAwgFX2NPKGw7"
+    },
+    {
+      "album": {
+        "name": "Dancing to The Smiths",
+        "url": "https://open.spotify.com/album/0gSXurqwCt0sZcgUncufAO"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "Dancing to The Smiths",
+      "url": "https://open.spotify.com/track/6RSDI2ms9CHIvOnrYzxluR"
+    },
+    {
+      "album": {
         "name": "Day In The Life",
         "url": "https://open.spotify.com/album/51iGoWMV4jpde8LHDPAvl6"
       },
@@ -617,7 +725,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 205417,
       "name": "Die Happily",
       "url": "https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ"
@@ -707,7 +815,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 147005,
       "name": "Dreamsickle",
       "url": "https://open.spotify.com/track/5hhYYTvx7PkLMCABivfYVS"
@@ -815,7 +923,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 186941,
       "name": "Escape Route",
       "url": "https://open.spotify.com/track/0U7hIjgAtWOYNigf20XV9N"
@@ -1071,7 +1179,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 247466,
       "name": "Girlfriend Song",
       "url": "https://open.spotify.com/track/0zUXxoYhlpb2j3SEquyP0C"
@@ -1197,7 +1305,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 198080,
       "name": "Hey Sis",
       "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
@@ -1219,6 +1327,24 @@
       "duration_ms": 136766,
       "name": "Hi-Vis Baby",
       "url": "https://open.spotify.com/track/02vUBgTQYcwK9s7kM7zTm5"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0CV6bKxdpGsfim5ivxKKSc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Tides",
+          "url": "https://open.spotify.com/artist/5a94ihfgkkItCundHIPxP4"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0ighGqqk2uCRqcDUAbQHkv"
     },
     {
       "album": {
@@ -1345,6 +1471,24 @@
       "duration_ms": 135270,
       "name": "I Don't Give a Shit",
       "url": "https://open.spotify.com/track/1ZrByYhoip5QsQNIsvWe6m"
+    },
+    {
+      "album": {
+        "name": "I'm Always Thinking About You",
+        "url": "https://open.spotify.com/album/1JW4bCJA99KFi2Cumv00dZ"
+      },
+      "artists": [
+        {
+          "name": "Carpool Tunnel",
+          "url": "https://open.spotify.com/artist/1Gzl5Z2qCVDIYnlR1q6EjM"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181524,
+      "name": "I'm Always Thinking About You",
+      "url": "https://open.spotify.com/track/0I4PagWjjVNR2IAzMEJ0SU"
     },
     {
       "album": {
@@ -1503,7 +1647,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 243478,
       "name": "In the Clear",
       "url": "https://open.spotify.com/track/2aBVrfdatDO2h4UCuiXFaY"
@@ -1557,7 +1701,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 206373,
       "name": "it all comes down to this",
       "url": "https://open.spotify.com/track/7rNSLbWIUgCCjrQrR3axjD"
@@ -1766,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/5vh02rgthxYG5ARTcHCPI5"
+      },
+      "artists": [
+        {
+          "name": "Byrd Dhillon",
+          "url": "https://open.spotify.com/artist/5GC7Crmo4qTtTGXRpBsYQx"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235253,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/0NuNJGgP3Qq0sFGPB8BaQP"
+    },
+    {
+      "album": {
         "name": "Moving Car",
         "url": "https://open.spotify.com/album/6Y9KARTO9vqiLN1h55GuSy"
       },
@@ -1817,6 +1979,24 @@
       "duration_ms": 181320,
       "name": "Nostalgia Seed",
       "url": "https://open.spotify.com/track/64eJOf186peUV6FZaGbWGf"
+    },
+    {
+      "album": {
+        "name": "Not In Love",
+        "url": "https://open.spotify.com/album/5VpqsXpQ4RjGSTroJAMJbh"
+      },
+      "artists": [
+        {
+          "name": "Lady Dan",
+          "url": "https://open.spotify.com/artist/5FflDIlGvj2Mqrptpa1dHF"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208384,
+      "name": "Not In Love",
+      "url": "https://open.spotify.com/track/1fmmgQIiz6i0F44LrgwDs8"
     },
     {
       "album": {
@@ -1957,7 +2137,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 219200,
       "name": "Patch",
       "url": "https://open.spotify.com/track/1WaKD5cNCYS7EgcJETMh2g"
@@ -1993,7 +2173,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 123103,
       "name": "Portal",
       "url": "https://open.spotify.com/track/2jqEkryEQLNykrJXJIqGka"
@@ -2105,7 +2285,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 180778,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/1J8hzisGJohDGZH6zvNoSi"
@@ -2181,6 +2361,24 @@
       "duration_ms": 188842,
       "name": "Round The Bend",
       "url": "https://open.spotify.com/track/1ViwUAv7xkPCbac8XmTzgH"
+    },
+    {
+      "album": {
+        "name": "Same For You",
+        "url": "https://open.spotify.com/album/4punCjjZ1bhf4JYHLO7HkZ"
+      },
+      "artists": [
+        {
+          "name": "Karl Fitzgerald",
+          "url": "https://open.spotify.com/artist/0MiWU3Y7Wr37o0J947GtLP"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Same For You",
+      "url": "https://open.spotify.com/track/2KwuATLlg48tUEdEYWTWTj"
     },
     {
       "album": {
@@ -2390,6 +2588,24 @@
     },
     {
       "album": {
+        "name": "Songs of Love",
+        "url": "https://open.spotify.com/album/1o0RcnUh2J4bSLKBQElOJk"
+      },
+      "artists": [
+        {
+          "name": "Island of Love",
+          "url": "https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252644,
+      "name": "Songs of Love",
+      "url": "https://open.spotify.com/track/1Xdc2qkxnV6oZ2Gf3PeGxN"
+    },
+    {
+      "album": {
         "name": "Lets It In",
         "url": "https://open.spotify.com/album/3QzntBBr8tvtUG3f86j9lM"
       },
@@ -2516,6 +2732,24 @@
     },
     {
       "album": {
+        "name": "The Perfect Life",
+        "url": "https://open.spotify.com/album/5GqVTkArRf7qxyfEkvtYvR"
+      },
+      "artists": [
+        {
+          "name": "adam brian paul",
+          "url": "https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "The Perfect Life",
+      "url": "https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri"
+    },
+    {
+      "album": {
         "name": "The Rope",
         "url": "https://open.spotify.com/album/29Mw3EwNTcmV3Qal8zYu0R"
       },
@@ -2549,6 +2783,24 @@
       "duration_ms": 172312,
       "name": "Tired",
       "url": "https://open.spotify.com/track/4WL9FC3SIM0FkvbGX8XvoG"
+    },
+    {
+      "album": {
+        "name": "Trainspotting",
+        "url": "https://open.spotify.com/album/3qjMBkAwYu7cg8Owarm6Ac"
+      },
+      "artists": [
+        {
+          "name": "Full Flower Moon Band",
+          "url": "https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138773,
+      "name": "Trainspotting",
+      "url": "https://open.spotify.com/track/3DM05JaGLdsyusPp4ThbtG"
     },
     {
       "album": {
@@ -2635,7 +2887,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 190590,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/2nJfQVq2Psp09kWnKX8Kvt"

@@ -1,13 +1,45 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Aretha Franklin",
-  "num_followers": 438242,
+  "num_followers": 438363,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk3MjI1NiwwMDAwMDAwMGNiMTg3ZGYzOWFiZDZmY2IzOTA5NjBlNGUyMzk0YTQx",
+  "snapshot_id": "MTY0NTA1ODQzOCwwMDAwMDAwMDY5NDQwOWY1ZTQxZGRmODM2ZmI2Zjc4YmI5MDIwMGE1",
   "tracks": [
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+    },
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
@@ -47,38 +79,6 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "So Gone",
-      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
         "name": "Over It (Complete Set)",
         "url": "https://open.spotify.com/album/7xILMK2dqawf30xGvHQvQC"
       },
@@ -91,38 +91,6 @@
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/72ZrqClOsbyE8gdeW28EMy"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Tamia",
-        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -147,18 +115,46 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+        "name": "The Best Of Brandy (with bonus track)",
+        "url": "https://open.spotify.com/album/3Wp3pDoipERYHTH020cbQk"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        },
+        {
+          "name": "Yo-Yo",
+          "url": "https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS"
+        },
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
         }
       ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+      "duration_ms": 256666,
+      "name": "I Wanna Be Down (feat. Queen Latifah, Yoyo & McLyte) - Remix",
+      "url": "https://open.spotify.com/track/5HQwoi47vjLNqaOc329VNM"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Tamia",
+        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -203,102 +199,18 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Wake Up Love",
-        "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Iman.",
-          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "duration_ms": 215329,
-      "name": "Wake Up Love",
-      "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Girls Need Love (with Drake) [Remix]",
-        "url": "https://open.spotify.com/album/3i9w4RgUuxBxUVaarH91kx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 222374,
-      "name": "Girls Need Love (with Drake) - Remix",
-      "url": "https://open.spotify.com/track/0mfCH4nfpshBQR9ueZP5eP"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "The Best Of Brandy (with bonus track)",
-        "url": "https://open.spotify.com/album/3Wp3pDoipERYHTH020cbQk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
-        },
-        {
-          "name": "Yo-Yo",
-          "url": "https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS"
-        },
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "I Wanna Be Down (feat. Queen Latifah, Yoyo & McLyte) - Remix",
-      "url": "https://open.spotify.com/track/5HQwoi47vjLNqaOc329VNM"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+      "duration_ms": 278333,
+      "name": "I'm So Into You",
+      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -323,22 +235,90 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "All Me (feat. Keyshia Cole)",
-        "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 178347,
-      "name": "All Me (feat. Keyshia Cole)",
-      "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Girls Need Love (with Drake) [Remix]",
+        "url": "https://open.spotify.com/album/3i9w4RgUuxBxUVaarH91kx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 222374,
+      "name": "Girls Need Love (with Drake) - Remix",
+      "url": "https://open.spotify.com/track/0mfCH4nfpshBQR9ueZP5eP"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Wake Up Love",
+        "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Iman.",
+          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
+        }
+      ],
+      "duration_ms": 215329,
+      "name": "Wake Up Love",
+      "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -359,34 +339,18 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Beautiful Ballads",
-        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 286653,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/2fH13RdhsEIc11X0o9enUX"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Sending My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -407,6 +371,62 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
+        "name": "All Me (feat. Keyshia Cole)",
+        "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 178347,
+      "name": "All Me (feat. Keyshia Cole)",
+      "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Intruded",
+        "url": "https://open.spotify.com/album/0keWJvznKYYVSmxjYnWd0L"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 186368,
+      "name": "Intruded",
+      "url": "https://open.spotify.com/track/0sWSdNGH0bsD3NqjXvSacf"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Sending My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of Teena Marie",
         "url": "https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo"
       },
@@ -423,34 +443,34 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+        "name": "Beautiful Ballads",
+        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
         }
       ],
-      "duration_ms": 201609,
-      "name": "Shot Clock",
-      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+      "duration_ms": 286653,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/2fH13RdhsEIc11X0o9enUX"
     },
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 278333,
-      "name": "I'm So Into You",
-      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
+      "duration_ms": 275706,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -471,6 +491,22 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 201609,
+      "name": "Shot Clock",
+      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
         "name": "Off The Hook",
         "url": "https://open.spotify.com/album/6lwTyWDtJbJ3czkIkUBPoj"
       },
@@ -483,6 +519,54 @@
       "duration_ms": 216333,
       "name": "Who Can I Run To",
       "url": "https://open.spotify.com/track/0wdaPticLmmqJdhgLDJ9zI"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Girl Disrupted",
+        "url": "https://open.spotify.com/album/3rnhvfgbXmDAcESeGp69Tx"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 237037,
+      "name": "Before I Do",
+      "url": "https://open.spotify.com/track/0eWkGHUqc5a19PIzJ1v6E4"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/2Uu8IiLkLY0UXhCHka4Dlr"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Toni Braxton",
+        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 288093,
+      "name": "How Many Ways",
+      "url": "https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -523,50 +607,34 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+        "name": "Do Me Baby",
+        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
         }
       ],
-      "duration_ms": 275706,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
+      "duration_ms": 300733,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
     },
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/13AioFwH1nNynbyO8AZW6L"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
         }
       ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/2Uu8IiLkLY0UXhCHka4Dlr"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Toni Braxton",
-        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 288093,
-      "name": "How Many Ways",
-      "url": "https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012"
+      "duration_ms": 176075,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3qmm9AdG0TnShv0drgXNIQ"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -587,42 +655,6 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Intruded",
-        "url": "https://open.spotify.com/album/0keWJvznKYYVSmxjYnWd0L"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 186368,
-      "name": "Intruded",
-      "url": "https://open.spotify.com/track/0sWSdNGH0bsD3NqjXvSacf"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Hard Place",
-        "url": "https://open.spotify.com/album/0EaFVtpOZwiLHalJrHAAMf"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 210303,
-      "name": "Hard Place - Single Version",
-      "url": "https://open.spotify.com/track/56Rmib5mhCfiaSJqhLgEdW"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
         "name": "Love Train 2",
         "url": "https://open.spotify.com/album/4WggHiQe90qGYWlcNlUa5P"
       },
@@ -635,22 +667,6 @@
       "duration_ms": 184032,
       "name": "Like You",
       "url": "https://open.spotify.com/track/0q2bjrLKP9FAGQalGgrk1P"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Do Me Baby",
-        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
-      },
-      "artists": [
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -687,38 +703,6 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/13AioFwH1nNynbyO8AZW6L"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 176075,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3qmm9AdG0TnShv0drgXNIQ"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Girl Disrupted",
-        "url": "https://open.spotify.com/album/3rnhvfgbXmDAcESeGp69Tx"
-      },
-      "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "Before I Do",
-      "url": "https://open.spotify.com/track/0eWkGHUqc5a19PIzJ1v6E4"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -735,34 +719,74 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Soul Sisters",
-        "url": "https://open.spotify.com/album/5VljSlqVFj6AlttWE82WC2"
+        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
+        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
       },
       "artists": [
         {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
         }
       ],
-      "duration_ms": 252533,
-      "name": "Hey Mr. DJ",
-      "url": "https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ"
+      "duration_ms": 404213,
+      "name": "I Wonder If I Take You Home",
+      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
     },
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Women of Soul",
-        "url": "https://open.spotify.com/album/7yefJns55BlGXxxOMiLTeZ"
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/79OBBymbNYRof6aNHRCV6F"
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Hard Place",
+        "url": "https://open.spotify.com/album/0EaFVtpOZwiLHalJrHAAMf"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 210303,
+      "name": "Hard Place - Single Version",
+      "url": "https://open.spotify.com/track/56Rmib5mhCfiaSJqhLgEdW"
+    },
+    {
+      "added_at": "2021-03-01 23:18:24",
+      "album": {
+        "name": "Waves (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/0vwWltI5IYadfWBU1A1gou"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 215670,
+      "name": "Waves (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/2qHk6Nz5glNQrjW8Rhd5kv"
     },
     {
       "added_at": "2021-03-01 23:18:24",
@@ -799,42 +823,18 @@
     {
       "added_at": "2021-03-01 23:18:24",
       "album": {
-        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
-        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
+        "name": "Women of Soul",
+        "url": "https://open.spotify.com/album/7yefJns55BlGXxxOMiLTeZ"
       },
       "artists": [
         {
-          "name": "Lisa Lisa & Cult Jam",
-          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
-        },
-        {
-          "name": "Full Force",
-          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 404213,
-      "name": "I Wonder If I Take You Home",
-      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
-    },
-    {
-      "added_at": "2021-03-01 23:18:24",
-      "album": {
-        "name": "Waves (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/0vwWltI5IYadfWBU1A1gou"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 215670,
-      "name": "Waves (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/2qHk6Nz5glNQrjW8Rhd5kv"
+      "duration_ms": 266173,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/79OBBymbNYRof6aNHRCV6F"
     },
     {
       "added_at": "2021-03-01 23:18:24",

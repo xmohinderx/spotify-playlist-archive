@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 404247,
       "name": "African Love Song",
       "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 348518,
       "name": "Bluff Dance",
       "url": "https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 231533,
       "name": "Boys (Summertime Love)",
       "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 393773,
       "name": "Caf\u00e8 - Original 1979 Version",
       "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 376000,
       "name": "Feels Good - Carrots & Beets",
       "url": "https://open.spotify.com/track/4XagBRVqOiMShocifucrgd"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 369168,
       "name": "Forever Lovers - Vocal",
       "url": "https://open.spotify.com/track/1OpQlPuUHPBXRAZzROt4Sk"
@@ -1062,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "Past Present Perfect",
+        "url": "https://open.spotify.com/album/4YyAuCQZUz9WNuT8P6oj9z"
+      },
+      "artists": [
+        {
+          "name": "Mario Moretti",
+          "url": "https://open.spotify.com/artist/7qCGYOwQPMZLIlxc08Ue9j"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386560,
+      "name": "In Love With Nebula",
+      "url": "https://open.spotify.com/track/5tYcZUC5qnhXIKx1vlRz4s"
+    },
+    {
+      "album": {
         "name": "Future Disco: Visions of Love",
         "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 229999,
       "name": "Let Me Love Tonight - Radio Version",
       "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 254973,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 231691,
       "name": "Melody (1983 Radio Version)",
       "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
@@ -1339,6 +1357,24 @@
       "duration_ms": 218708,
       "name": "Microwave Photon",
       "url": "https://open.spotify.com/track/2Sv9T375D6IzJ1ymGHAZjx"
+    },
+    {
+      "album": {
+        "name": "Mirage (Aka la Luna Aka Stasera la Luna)",
+        "url": "https://open.spotify.com/album/3HV72AZKJEbWm1LEwOvtXF"
+      },
+      "artists": [
+        {
+          "name": "Scotch",
+          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "Mirage (Aka la Luna Aka Stasera la Luna) - Original Version",
+      "url": "https://open.spotify.com/track/3GbtdNYdHNJZlYDqsyN2iC"
     },
     {
       "album": {
@@ -1397,7 +1433,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 396435,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
@@ -1415,7 +1451,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 214466,
       "name": "One for You, One for Me",
       "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 248093,
       "name": "People Are Still Having Sex (Made Famous by Latour)",
       "url": "https://open.spotify.com/track/3lfS6Zex44M0ciJv0jo5L6"
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 306626,
       "name": "People from Ibiza",
       "url": "https://open.spotify.com/track/5U2OVqASaLEjVYkQ4Z7Q1b"
@@ -1667,7 +1703,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 276840,
       "name": "Sequenzer Dream",
       "url": "https://open.spotify.com/track/7fdfRaVdkyheun62BMDLth"
@@ -1739,7 +1775,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 451500,
       "name": "Stranger in a Strange Land - Club Mix 1983",
       "url": "https://open.spotify.com/track/6eqW2BVJj5YvaCa4zPh4zz"
@@ -1775,7 +1811,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 194221,
       "name": "Super Snooper",
       "url": "https://open.spotify.com/track/6ZlOBxdbQwRBWUTThWiwvg"
@@ -1995,7 +2031,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 326896,
       "name": "Turbo Diesel",
       "url": "https://open.spotify.com/track/3JUW3DtozkLgWkf5F49KIP"
@@ -2133,7 +2169,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 467869,
       "name": "Volpi Polari",
       "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"

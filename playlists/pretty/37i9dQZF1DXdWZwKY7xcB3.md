@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWZwKY7xcB3.md) - [plain]
 
 > Comedians ponder all things music, including their favorite celebrities and pop culture icons\. \[Warning: Explicit Content\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,805 likes - 71 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,804 likes - 71 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

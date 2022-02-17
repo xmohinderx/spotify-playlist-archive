@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > The best in alt, folk, and indie rock\. Cover: Wilderado
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,650 likes - 106 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,677 likes - 106 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

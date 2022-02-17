@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 230148,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 189546,
       "name": "Dear DREAM",
       "url": "https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 207274,
       "name": "Erase You",
       "url": "https://open.spotify.com/track/4mi8Q8B3mrYcDa6eF8VRxU"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 206868,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 200246,
       "name": "Find the Light",
       "url": "https://open.spotify.com/track/1hCyRUev20DLQX1gV1pLwY"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 215880,
       "name": "Future",
       "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 205859,
       "name": "Hard to Start",
       "url": "https://open.spotify.com/track/2MxlULOEyapHB4RBRd344M"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 189306,
       "name": "Holiday Party",
       "url": "https://open.spotify.com/track/1oVEVmVaI590kt8bCZ90uU"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 234177,
       "name": "HOME",
       "url": "https://open.spotify.com/track/7lthOBXNue2IvedLRfkod8"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 201295,
       "name": "I want to see you again",
       "url": "https://open.spotify.com/track/1kVjixoK9haTO1NxlBf6hh"
@@ -1272,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "album": {
         "name": "It's Okay to Not Be Okay",
         "url": "https://open.spotify.com/album/7GOUuqfkBJYK47pqea8jAt"
       },
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "It's Okay to Not Be Okay",
       "url": "https://open.spotify.com/track/0TmFsWTadkiSy6A7fjvqbB"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 218822,
       "name": "Light",
       "url": "https://open.spotify.com/track/2KnNV0Ahhb5qkK83LKymZE"
@@ -1616,6 +1634,28 @@
     },
     {
       "album": {
+        "name": "MOON",
+        "url": "https://open.spotify.com/album/31o11lMzKx6RGHqpss0VUA"
+      },
+      "artists": [
+        {
+          "name": "\uc2b9\uc624",
+          "url": "https://open.spotify.com/artist/7mHz1G1J0CoJ6LwDuecN9e"
+        },
+        {
+          "name": "WR",
+          "url": "https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141521,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/2sv3Z9j2c7HW2UL6ye6osi"
+    },
+    {
+      "album": {
         "name": "Man on the Moon",
         "url": "https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T"
       },
@@ -1681,7 +1721,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 261866,
       "name": "No, I don\u2019t..",
       "url": "https://open.spotify.com/track/070PKOpPT0xngPOM3b1V33"
@@ -1797,7 +1837,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 163026,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
@@ -1985,7 +2025,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 186666,
       "name": "See you - with Noair, Nason",
       "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
@@ -2068,6 +2108,24 @@
     },
     {
       "album": {
+        "name": "Twenty-Five Twenty-One OST Part 1",
+        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225817,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
+    },
+    {
+      "album": {
         "name": "strawberry moon",
         "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
       },
@@ -2101,7 +2159,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 214203,
       "name": "Sugar Cake (feat. Microdot)",
       "url": "https://open.spotify.com/track/6J43QczgdKNrQQtwxv3spo"
@@ -2325,7 +2383,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 198266,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/5Hvi3XSS00txHgZB6UZhFl"
@@ -2351,7 +2409,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 161176,
       "name": "Throw (Feat. Jayci Yucca, Mirani)",
       "url": "https://open.spotify.com/track/22UCPW2RO81TQl4sMApDlj"
@@ -2423,7 +2481,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 199586,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
@@ -2553,7 +2611,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 236816,
       "name": "Wind flower",
       "url": "https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O"
@@ -2571,7 +2629,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 235386,
       "name": "Winter Falls",
       "url": "https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD"
@@ -2589,7 +2647,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/1xo0SABqJrTriyMb2JMtLg"
@@ -2661,7 +2719,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA"
@@ -2701,7 +2759,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 206430,
       "name": "\ubd88\uba74\uc99d Insomnia",
       "url": "https://open.spotify.com/track/5VeE1rkmE6GHH7bcAs7STp"
@@ -2719,7 +2777,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

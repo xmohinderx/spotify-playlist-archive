@@ -4066,6 +4066,28 @@
     },
     {
       "album": {
+        "name": "Color Of Your Soul",
+        "url": "https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Color Of Your Soul",
+      "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
+    },
+    {
+      "album": {
         "name": "come over (Chico Rose Remix)",
         "url": "https://open.spotify.com/album/652FNQ5C8g9EkFlp7E3wtd"
       },
@@ -7453,7 +7475,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
@@ -9225,7 +9247,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 145748,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
@@ -9511,7 +9533,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 156000,
       "name": "I Feel Good (R3HAB Remix)",
       "url": "https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi"
@@ -12733,7 +12755,7 @@
       ],
       "date_added": "2020-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2020-10-05",
+      "date_removed": null,
       "duration_ms": 277112,
       "name": "Lovers In The Making",
       "url": "https://open.spotify.com/track/2bwjSBsyiR0OWN8dKS0w1v"
@@ -13587,7 +13609,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
@@ -14143,7 +14165,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
@@ -20401,7 +20423,7 @@
       ],
       "date_added": "2021-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-07",
+      "date_removed": null,
       "duration_ms": 172101,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/4AHev1XQrEMMX8xN9mBXUv"

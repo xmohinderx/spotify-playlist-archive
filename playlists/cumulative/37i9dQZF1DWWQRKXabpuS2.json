@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Kheira",
+        "url": "https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253676,
+      "name": "Kheira",
+      "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"
+    },
+    {
+      "album": {
         "name": "Letak Maey",
         "url": "https://open.spotify.com/album/15yFJycGjc78gXyO8TsUHt"
       },
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 202562,
       "name": "\u064a\u0639\u0646\u064a \u0634\u0646\u0648",
       "url": "https://open.spotify.com/track/6q8j0K2yFOA9e7iTcl0SmS"

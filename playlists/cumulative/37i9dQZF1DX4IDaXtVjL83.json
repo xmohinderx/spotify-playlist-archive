@@ -52,6 +52,46 @@
     },
     {
       "album": {
+        "name": "A WOO!!",
+        "url": "https://open.spotify.com/album/5hptDtgFSlWscXePYAYyio"
+      },
+      "artists": [
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223040,
+      "name": "A WOO!!",
+      "url": "https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn"
+    },
+    {
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/7c0ZJvTLEC3IRWyFdssXab"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167454,
+      "name": "About Time (feat. Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/3J7hHQpqeaAcjJfSwMtRyG"
+    },
+    {
+      "album": {
         "name": "All Good-JP Ver.-",
         "url": "https://open.spotify.com/album/7HUcINwctfzAmaDrXiZm71"
       },
@@ -177,7 +217,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 197075,
       "name": "Bubble Up!",
       "url": "https://open.spotify.com/track/75aw9YHGiQ5wIfe4oNRlnn"
@@ -611,6 +651,24 @@
       "duration_ms": 324880,
       "name": "Love me once again",
       "url": "https://open.spotify.com/track/7bfquwu5xobFp4axJkXVdg"
+    },
+    {
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "LUNATIC (English Ver.)",
+      "url": "https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY"
     },
     {
       "album": {

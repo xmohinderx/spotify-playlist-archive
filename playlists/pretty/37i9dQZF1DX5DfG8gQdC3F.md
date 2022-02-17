@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Omar Apollo, Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,910 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,891 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 84 | [nosedive](https://open.spotify.com/track/532neynwa0xjqPWziBjSMa) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [nosedive](https://open.spotify.com/album/3o0z53mbwaD2B3cG3M7uPd) | 3:35 |
 | 85 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 |
 | 86 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 |
-| 87 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Luvmind.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
+| 87 | [FOLLOW](https://open.spotify.com/track/56LGhJxrVqCJ9eMmLgHet4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7), [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [LUVMIND.](https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY) | 3:31 |
 | 88 | [Night Scenes](https://open.spotify.com/track/0L69WWJy5ntvBopLzAUkw1) | [Vince The Messenger](https://open.spotify.com/artist/7wKTJPnPgXQ8ENAlfpM0eA), [TNA](https://open.spotify.com/artist/135FZ4psdYk6oVrWcTv0LT) | [Night Scenes](https://open.spotify.com/album/3sWSH52ckbAFt3W2llzGs8) | 3:55 |
 | 89 | [I.D.W.B.F](https://open.spotify.com/track/7oSt8IsjcckqLXWHWVI6if) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [I.D.W.B.F](https://open.spotify.com/album/7Ef4H7YXlSHQb9n5N3S6vL) | 2:38 |
 | 90 | [Thought This Was Love](https://open.spotify.com/track/75uEMKH0VewOpqLwG2VASi) | [Ex Ømerta](https://open.spotify.com/artist/0hkwsTvHfdny1bWeqW6Smv) | [Thought This Was Love](https://open.spotify.com/album/0jhOuv2H2UR4hgNGPFdiuG) | 3:04 |

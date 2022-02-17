@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 155862,
       "name": "2 The Weekend",
       "url": "https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 221779,
       "name": "aliens",
       "url": "https://open.spotify.com/track/5hsSyGlzcF4BVXi9eAUMKj"
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 288386,
       "name": "Breathe Deeper - Lil Yachty Remix",
       "url": "https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV"
@@ -4133,7 +4133,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 283403,
       "name": "Doing Really Well Thanks",
       "url": "https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5"
@@ -4815,7 +4815,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 155382,
       "name": "Ew",
       "url": "https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju"
@@ -6013,7 +6013,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 186462,
       "name": "god sent me as karma",
       "url": "https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3"
@@ -7971,7 +7971,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 143529,
       "name": "if u wanna",
       "url": "https://open.spotify.com/track/6mEK3cHEpff9eFfdoWMzns"
@@ -8925,7 +8925,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 269464,
       "name": "LEMON SWAYZE - Miami Horror Lemonade Remix",
       "url": "https://open.spotify.com/track/0ZqvqklMVDxbyaIsNIdO4c"
@@ -10414,6 +10414,24 @@
     },
     {
       "album": {
+        "name": "Mr Valentine",
+        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157875,
+      "name": "Mr Valentine",
+      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
+    },
+    {
+      "album": {
         "name": "my fuckin birthday",
         "url": "https://open.spotify.com/album/3qLe2UuUhONvPtMBBe0W1u"
       },
@@ -10425,7 +10443,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 114482,
       "name": "my fuckin birthday",
       "url": "https://open.spotify.com/track/5I6VzAAwuPtbHmnwODDb50"
@@ -11563,7 +11581,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 209813,
       "name": "Our Little World",
       "url": "https://open.spotify.com/track/1n8JThYIQZXrCBC5pODu1y"
@@ -11743,7 +11761,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 168159,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/6LfzViiIqsweZi9V8A2BvG"
@@ -12507,7 +12525,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 187831,
       "name": "rapunzel",
       "url": "https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl"
@@ -13382,6 +13400,24 @@
     },
     {
       "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+    },
+    {
+      "album": {
         "name": "Sharlene",
         "url": "https://open.spotify.com/album/5Qa3ylKtLtOQfaGrKWPMnU"
       },
@@ -13646,7 +13682,7 @@
     },
     {
       "album": {
-        "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
+        "name": "Silver and Gold",
         "url": "https://open.spotify.com/album/5RG5m64csMJpvGF0wZkQrS"
       },
       "artists": [
@@ -15249,7 +15285,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 179871,
       "name": "Take A Chance",
       "url": "https://open.spotify.com/track/46d67vPhehiB0xlvfa7zn7"
@@ -15645,7 +15681,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 160020,
       "name": "the fractal song",
       "url": "https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e"

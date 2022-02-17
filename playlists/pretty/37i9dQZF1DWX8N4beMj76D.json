@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk3MjExOCwwMDAwMDAwMDk2ZGRhMGI4ZGFjYWEyMDRlZjllYzUwYTUxN2VkYmE4",
+  "snapshot_id": "MTY0NTA1ODI5OCwwMDAwMDAwMGIxMDYwYWQ4OTViODAwODk1ZWYyMDY2NjE4ZjU3ZGM3",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -23,6 +23,38 @@
       "duration_ms": 245493,
       "name": "Passing Through - Live",
       "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Live In London",
+        "url": "https://open.spotify.com/album/6fxtsivPKNtNAAaMwfjP1K"
+      },
+      "artists": [
+        {
+          "name": "The Webb Sisters",
+          "url": "https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "If It Be Your Will - Live in London",
+      "url": "https://open.spotify.com/track/3KHOvvqXEy6jjh2x32wxsv"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "So Real: Songs From Jeff Buckley",
+        "url": "https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 414586,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -47,182 +79,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen Songs",
-        "url": "https://open.spotify.com/album/3qsupmBvSnaBFalgjKKGkp"
-      },
-      "artists": [
-        {
-          "name": "Avalanche Quartet",
-          "url": "https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Lover, Lover, Lover",
-      "url": "https://open.spotify.com/track/4DDEnYmk3KXcLRlaKjcwTe"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Live In London",
-        "url": "https://open.spotify.com/album/6fxtsivPKNtNAAaMwfjP1K"
-      },
-      "artists": [
-        {
-          "name": "The Webb Sisters",
-          "url": "https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7"
-        }
-      ],
-      "duration_ms": 322600,
-      "name": "If It Be Your Will - Live in London",
-      "url": "https://open.spotify.com/track/3KHOvvqXEy6jjh2x32wxsv"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Chelsea Hotel No. 2",
-      "url": "https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "The Mayor Of MacDougal Street: Rarities 1957-1969",
-        "url": "https://open.spotify.com/album/7ppsSKyut4ssQyxbju7itg"
-      },
-      "artists": [
-        {
-          "name": "Dave Van Ronk",
-          "url": "https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/3UvXtf3ZXjmFDB3QSY4iXL"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "So Real: Songs From Jeff Buckley",
-        "url": "https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 414586,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Varshons",
-        "url": "https://open.spotify.com/album/3SCGLOlBFQ7Xkml5r1m4nL"
-      },
-      "artists": [
-        {
-          "name": "The Lemonheads",
-          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "Hey, That's No Way to Say Goodbye",
-      "url": "https://open.spotify.com/track/37SOCw0xhKNYTKza2Qxils"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen Songs",
-        "url": "https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j"
-      },
-      "artists": [
-        {
-          "name": "Avalanche Quartet",
-          "url": "https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd"
-        }
-      ],
-      "duration_ms": 358306,
-      "name": "Take This Waltz",
-      "url": "https://open.spotify.com/track/5HbdrCvl89PkwNoOI0sBdZ"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Live In Dublin",
-        "url": "https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 249055,
-      "name": "Save the Last Dance for Me - Live in Dublin",
-      "url": "https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Sings Leonard Cohen",
-        "url": "https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B"
-      },
-      "artists": [
-        {
-          "name": "Mia Dyson",
-          "url": "https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "In My Secret Life",
-      "url": "https://open.spotify.com/track/32F81jpaJG7O6EZuXQDvrk"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Illuminations",
-        "url": "https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "God Is Alive Magic Is Afoot",
-      "url": "https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Songs III: Bird On The Water",
         "url": "https://open.spotify.com/album/2bZk1KTJIY6LmnQN7QIqF5"
       },
@@ -239,50 +95,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2kul45D9k88GoXTx5Bm1YK"
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 363933,
-      "name": "First We Take Manhattan",
-      "url": "https://open.spotify.com/track/49xcRJXZJpdXC7eqtmWRti"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
-        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 259546,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Bird on the Wire: The Songs of Leonard Cohen",
-        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
-      },
-      "artists": [
-        {
-          "name": "Perla Batalla",
-          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
-        }
-      ],
-      "duration_ms": 376946,
-      "name": "Ballad of the Absent Mare",
-      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
+      "duration_ms": 339133,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/23LCJxdqRMYlnVj5Qg5JuU"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -303,6 +127,166 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Leonard Cohen Songs",
+        "url": "https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j"
+      },
+      "artists": [
+        {
+          "name": "Avalanche Quartet",
+          "url": "https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd"
+        }
+      ],
+      "duration_ms": 358306,
+      "name": "Take This Waltz",
+      "url": "https://open.spotify.com/track/5HbdrCvl89PkwNoOI0sBdZ"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2kul45D9k88GoXTx5Bm1YK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 363933,
+      "name": "First We Take Manhattan",
+      "url": "https://open.spotify.com/track/49xcRJXZJpdXC7eqtmWRti"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Mayor Of MacDougal Street: Rarities 1957-1969",
+        "url": "https://open.spotify.com/album/7ppsSKyut4ssQyxbju7itg"
+      },
+      "artists": [
+        {
+          "name": "Dave Van Ronk",
+          "url": "https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/3UvXtf3ZXjmFDB3QSY4iXL"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Ain't No Cure For Love",
+      "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Illuminations",
+        "url": "https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "God Is Alive Magic Is Afoot",
+      "url": "https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Kelly Sessions",
+        "url": "https://open.spotify.com/album/3PeIUnA8sZ1lubjS1zjE8D"
+      },
+      "artists": [
+        {
+          "name": "Harvey Milk",
+          "url": "https://open.spotify.com/artist/0U06WlIl1leJMEHBf7WAwR"
+        }
+      ],
+      "duration_ms": 142262,
+      "name": "One of Us Cannot Be Wrong",
+      "url": "https://open.spotify.com/track/611gH5bqdrgHpNf7JkcE1V"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Bird on the Wire: The Songs of Leonard Cohen",
+        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
+      },
+      "artists": [
+        {
+          "name": "Perla Batalla",
+          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
+        }
+      ],
+      "duration_ms": 376946,
+      "name": "Ballad of the Absent Mare",
+      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "Hey, That's No Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Varshons",
+        "url": "https://open.spotify.com/album/3SCGLOlBFQ7Xkml5r1m4nL"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "Hey, That's No Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/37SOCw0xhKNYTKza2Qxils"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Sings Leonard Cohen",
         "url": "https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B"
       },
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Waiting for the Miracle",
-      "url": "https://open.spotify.com/track/1uLscO7IxLWSBmgLbMObBw"
+      "duration_ms": 263466,
+      "name": "In My Secret Life",
+      "url": "https://open.spotify.com/track/32F81jpaJG7O6EZuXQDvrk"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -351,54 +335,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Kelly Sessions",
-        "url": "https://open.spotify.com/album/3PeIUnA8sZ1lubjS1zjE8D"
-      },
-      "artists": [
-        {
-          "name": "Harvey Milk",
-          "url": "https://open.spotify.com/artist/0U06WlIl1leJMEHBf7WAwR"
-        }
-      ],
-      "duration_ms": 142262,
-      "name": "One of Us Cannot Be Wrong",
-      "url": "https://open.spotify.com/track/611gH5bqdrgHpNf7JkcE1V"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 248213,
-      "name": "Hey, That's No Way to Say Goodbye",
-      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Can't Forget: A Souvenir of the Grand Tour",
-        "url": "https://open.spotify.com/album/7yUDBh0Q2IjPctdv5pFP6b"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Choices - Live at Christchurch Soundcheck, 2013",
-      "url": "https://open.spotify.com/track/6E5SfanYXrXyRgeUobIeWQ"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -408,73 +344,57 @@
           "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
         }
       ],
-      "duration_ms": 284973,
-      "name": "The Traitor",
-      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
+      "duration_ms": 224746,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Hymns of the 49th Parallel",
-        "url": "https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX"
+        "name": "Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s",
+        "url": "https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR"
       },
       "artists": [
         {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 268733,
-      "name": "Bird on a Wire",
-      "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
+      "duration_ms": 259546,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Tower Of Song - The Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/3yrnapvgTqeYGZKPxozcUl"
       },
       "artists": [
         {
-          "name": "Martin Gore",
-          "url": "https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 214093,
-      "name": "Coming Back To You",
-      "url": "https://open.spotify.com/track/5PWUPQ1WHgG7Hk6MIShMd1"
+      "duration_ms": 241666,
+      "name": "Bird On A Wire",
+      "url": "https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "20 ODD YEARS",
-        "url": "https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj"
+        "name": "Sings Leonard Cohen",
+        "url": "https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B"
       },
       "artists": [
         {
-          "name": "Buck 65",
-          "url": "https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz"
+          "name": "Mia Dyson",
+          "url": "https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Who by Fire (feat. Jenn Grant)",
-      "url": "https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Taller Children",
-        "url": "https://open.spotify.com/album/3qvwnnpiuuknpvB451r2IS"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth & the Catapult",
-          "url": "https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/0W4ALYvdQZfpiOG3wyfZ0f"
+      "duration_ms": 235200,
+      "name": "Waiting for the Miracle",
+      "url": "https://open.spotify.com/track/1uLscO7IxLWSBmgLbMObBw"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -499,66 +419,86 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+        "name": "Recollection",
+        "url": "https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
         }
       ],
-      "duration_ms": 273106,
-      "name": "Ain't No Cure For Love",
-      "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
+      "duration_ms": 308440,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5S0pF13mOsTnYweFwFy4D0"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Tower Of Song - The Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
+        "name": "Granada",
+        "url": "https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV"
       },
       "artists": [
         {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Ra\u00fcl Fernandez Mir\u00f3",
+          "url": "https://open.spotify.com/artist/1jIEmZJNXh1TT7hBjCMSy2"
         }
       ],
-      "duration_ms": 339133,
-      "name": "Famous Blue Raincoat",
-      "url": "https://open.spotify.com/track/23LCJxdqRMYlnVj5Qg5JuU"
+      "duration_ms": 334320,
+      "name": "Peque\u00f1o Vals Vien\u00e9s",
+      "url": "https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+        "name": "Leonard Cohen Songs",
+        "url": "https://open.spotify.com/album/3qsupmBvSnaBFalgjKKGkp"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Avalanche Quartet",
+          "url": "https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd"
         }
       ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
+      "duration_ms": 293853,
+      "name": "Lover, Lover, Lover",
+      "url": "https://open.spotify.com/track/4DDEnYmk3KXcLRlaKjcwTe"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Judy Collins Sings Leonard Cohen: Democracy",
-        "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
       "artists": [
         {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
         }
       ],
-      "duration_ms": 342160,
-      "name": "A Thousand Kisses Deep - New Recording",
-      "url": "https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9"
+      "duration_ms": 284973,
+      "name": "The Traitor",
+      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0PZoALjcGxhwDdIQzpESsO"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        }
+      ],
+      "duration_ms": 242461,
+      "name": "Joan Of Arc",
+      "url": "https://open.spotify.com/track/4TtTWypT6b5usypltgEMvn"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -579,82 +519,146 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Cowgirl's Prayer",
-        "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
+        "name": "Judy Collins Sings Leonard Cohen: Democracy",
+        "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
         }
       ],
-      "duration_ms": 335906,
-      "name": "Ballad of a Runaway Horse",
-      "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+      "duration_ms": 342160,
+      "name": "A Thousand Kisses Deep - New Recording",
+      "url": "https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+        "name": "Can't Forget: A Souvenir of the Grand Tour",
+        "url": "https://open.spotify.com/album/7yUDBh0Q2IjPctdv5pFP6b"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus) - Bonus Track",
-      "url": "https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje"
+      "duration_ms": 211160,
+      "name": "Choices - Live at Christchurch Soundcheck, 2013",
+      "url": "https://open.spotify.com/track/6E5SfanYXrXyRgeUobIeWQ"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Songs I Love Vol.1",
-        "url": "https://open.spotify.com/album/6Vo8N124C1PP8kTXhICyyP"
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
       },
       "artists": [
         {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+          "name": "Martin Gore",
+          "url": "https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F"
         }
       ],
-      "duration_ms": 180106,
-      "name": "Who By Fire",
-      "url": "https://open.spotify.com/track/706Fe7B2pM3nC5IFGjp5EQ"
+      "duration_ms": 214093,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/5PWUPQ1WHgG7Hk6MIShMd1"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 295280,
-      "name": "One of Us Cannot Be Wrong",
-      "url": "https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj"
+      "duration_ms": 225213,
+      "name": "Chelsea Hotel No. 2",
+      "url": "https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq"
     },
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "American Recordings",
-        "url": "https://open.spotify.com/album/3yrnapvgTqeYGZKPxozcUl"
+        "name": "20 ODD YEARS",
+        "url": "https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Buck 65",
+          "url": "https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz"
         }
       ],
-      "duration_ms": 241666,
-      "name": "Bird On A Wire",
-      "url": "https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ"
+      "duration_ms": 215853,
+      "name": "Who by Fire (feat. Jenn Grant)",
+      "url": "https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Thompson",
+          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
+        }
+      ],
+      "duration_ms": 409333,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/6vqrmRZ0t2T5WLc2EIs0ar"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Complete Cass Elliot Solo Collection 1968-71",
+        "url": "https://open.spotify.com/album/2TUNlZmOj0mzu9oLR9D3Gb"
+      },
+      "artists": [
+        {
+          "name": "Cass Elliot",
+          "url": "https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "You Know Who I Am",
+      "url": "https://open.spotify.com/track/2XGxZZpv8pae2CY18mVK6P"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Live In Dublin",
+        "url": "https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 249055,
+      "name": "Save the Last Dance for Me - Live in Dublin",
+      "url": "https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp"
     }
   ],
   "unique_name": "Leonard Cohen: Covered",

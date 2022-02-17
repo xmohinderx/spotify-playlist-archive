@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Fantastic Negrito
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,046 likes - 129 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,061 likes - 129 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 12 | [Stop Draggin' That Chain Around](https://open.spotify.com/track/2J1fKycjwpQvxJHQMcyOoL) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [The Real Deal](https://open.spotify.com/album/1aI7k455fkWA6fKq0UrUGV) | 4:14 |
 | 13 | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/40W7GqrM3klsP4bHSxGrBT) | 4:19 |
 | 14 | [If Only We Could](https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc) | [Clarence Spady](https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU) | [If Only We Could](https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL) | 3:08 |
-| 15 | [Never Get out of These Blues Alive](https://open.spotify.com/track/0o9xEUuJ5dd0zLT4n2PLTM) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Never Get Out of These Blues Alive](https://open.spotify.com/album/1u0vvSVEFQhWll188GmMFY) | 5:43 |
+| 15 | [Never Get out of These Blues Alive](https://open.spotify.com/track/0o9xEUuJ5dd0zLT4n2PLTM) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Never Get out of These Blues Alive](https://open.spotify.com/album/1u0vvSVEFQhWll188GmMFY) | 5:43 |
 | 16 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 |
 | 17 | [When Everything Went Wrong \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:13 |
 | 18 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |

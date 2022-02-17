@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 183533,
       "name": "Dutty Wine",
       "url": "https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 237840,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 200841,
       "name": "Only Man She Want",
       "url": "https://open.spotify.com/track/4RbnNenA9TFNUxAdsy76xe"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 230391,
       "name": "Party Shot",
       "url": "https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 203180,
       "name": "Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)",
       "url": "https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 198948,
       "name": "Time Is of Essence",
       "url": "https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH"
@@ -1262,6 +1262,28 @@
     },
     {
       "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/3Talg3a0AmXfiV4FlV3ZjL"
+      },
+      "artists": [
+        {
+          "name": "Kat Deluna",
+          "url": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
+        },
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Whine Up (feat. Elephant Man) - English Version",
+      "url": "https://open.spotify.com/track/6Avndj1UPQLwR2qqzDwZBc"
+    },
+    {
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -1321,7 +1343,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 162373,
       "name": "Worthless Bwoy",
       "url": "https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j"

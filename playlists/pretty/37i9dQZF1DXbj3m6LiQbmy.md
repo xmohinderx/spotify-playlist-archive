@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! Cover: M¥SS KETA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,894 likes - 57 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,900 likes - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

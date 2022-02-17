@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 187030,
       "name": "colo(u)rs",
       "url": "https://open.spotify.com/track/7JVlElUz583S3EJIjeEYmR"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 245720,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 210000,
       "name": "Dawn Rise",
       "url": "https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 164642,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 206093,
       "name": "Hazel Chandeliers",
       "url": "https://open.spotify.com/track/0tzvbbYFoxZS3ggIaEa1Ob"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 239767,
       "name": "Heavenly Mother",
       "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 73897,
       "name": "kometostai.aintreallynootherwaytoputitro",
       "url": "https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit"
@@ -1427,7 +1427,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 235161,
       "name": "Motion",
       "url": "https://open.spotify.com/track/5QDiaIPUAFXD22LJakFHfH"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
@@ -1721,6 +1721,24 @@
       "duration_ms": 253622,
       "name": "Ooowee (feat. Elijah Dax)",
       "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
+    },
+    {
+      "album": {
+        "name": "Out of State",
+        "url": "https://open.spotify.com/album/4fRJfG9tarXqhpBq5xzZ2r"
+      },
+      "artists": [
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225926,
+      "name": "Out of State",
+      "url": "https://open.spotify.com/track/5vlqIraHhAtLNw0BQ3iwlV"
     },
     {
       "album": {
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 112710,
       "name": "Pisonia Prologue",
       "url": "https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 203056,
       "name": "Poison",
       "url": "https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 154200,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/4U7Mih8jHL0v5g6oksHMBm"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 231320,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 230973,
       "name": "Somehow.",
       "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
@@ -2265,7 +2283,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 176026,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9"

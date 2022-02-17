@@ -215,8 +215,8 @@
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Mc Zaac",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/7JFnwK9Ta2tNsfwhOatTNn"
         }
       ],
       "date_added": "2021-12-09",
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 167999,
       "name": "Nin\u0303a Bonita",
       "url": "https://open.spotify.com/track/3Mzo9yWZHFW6KoPXVbVyby"
@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 187125,
       "name": "Quiere Beber",
       "url": "https://open.spotify.com/track/3rPAD722s5FFNnwjC91t7Z"
@@ -2220,6 +2220,40 @@
     },
     {
       "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/3pOj4mmxL5MUwR1IR8LPzL"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "G.O Kings Bred",
+          "url": "https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce]",
+      "url": "https://open.spotify.com/track/0wt9RjddODlWDetpuaXfRK"
+    },
+    {
+      "album": {
         "name": "Susurro Riddim",
         "url": "https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z"
       },
@@ -2429,7 +2463,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 233748,
       "name": "Usted",
       "url": "https://open.spotify.com/track/79HTe42PihWUUq4BDjcuCq"

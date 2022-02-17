@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 198601,
       "name": "Biscayne Lady",
       "url": "https://open.spotify.com/track/4R18x7sEMFdiCjaYzflCWu"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 199789,
       "name": "Blessing In This House",
       "url": "https://open.spotify.com/track/12gAkxV6EmdMJwQI7an4am"
@@ -294,6 +294,28 @@
     },
     {
       "album": {
+        "name": "Coming Up Roses",
+        "url": "https://open.spotify.com/album/4kNmVBJ5VFP0ZXifQn1vfq"
+      },
+      "artists": [
+        {
+          "name": "Big Miz",
+          "url": "https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo"
+        },
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385511,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/7EBehs3qQjeG9hZerhpNtz"
+    },
+    {
+      "album": {
         "name": "Demba (Demi Riqu\u00edsimo Remix)",
         "url": "https://open.spotify.com/album/2dShxi3GCpUejK51c8dIDE"
       },
@@ -313,7 +335,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 422423,
       "name": "Demba - Demi Riqu\u00edsimo Remix",
       "url": "https://open.spotify.com/track/5YWYvr0ecvcz9kYpYa7xID"
@@ -331,7 +353,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 300000,
       "name": "Do This Forever",
       "url": "https://open.spotify.com/track/7rGxWoUyNno5ztljshnN7o"
@@ -441,10 +463,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 213387,
       "name": "Everything's Gonna Be Alright (feat. London Community Gospel Choir)",
       "url": "https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte"
+    },
+    {
+      "album": {
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/36nDcLcdgq0YA08NnoFbKX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297574,
+      "name": "Facelift",
+      "url": "https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa"
     },
     {
       "album": {
@@ -467,10 +507,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 151967,
       "name": "Family (feat. El Boogie)",
       "url": "https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF"
+    },
+    {
+      "album": {
+        "name": "Find the Joy",
+        "url": "https://open.spotify.com/album/0ReCJmQfVlndSqvDAn2IYi"
+      },
+      "artists": [
+        {
+          "name": "Stacie Fields",
+          "url": "https://open.spotify.com/artist/2wZzhY59MJ0BDLnLko14gW"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Find the Joy",
+      "url": "https://open.spotify.com/track/4EKRFGE1Y3vqGJufkPhF37"
     },
     {
       "album": {
@@ -521,7 +583,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 204196,
       "name": "Givin' Up",
       "url": "https://open.spotify.com/track/34zTAhU9iCMleVhYolyshU"
@@ -547,7 +609,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 352909,
       "name": "Golden Gai",
       "url": "https://open.spotify.com/track/2MWelWRLL1iYXlFAvAL8Km"
@@ -587,7 +649,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 185856,
       "name": "Gravity (feat. Rhea Melvin)",
       "url": "https://open.spotify.com/track/5T3lRILDXOyl9T6evKltxA"
@@ -693,7 +755,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -715,10 +777,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "album": {
+        "name": "I Take What's Mine",
+        "url": "https://open.spotify.com/album/2uMmLp3ifgs0nJslnPecdU"
+      },
+      "artists": [
+        {
+          "name": "Me & My Toothbrush",
+          "url": "https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211088,
+      "name": "I Take What's Mine",
+      "url": "https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz"
     },
     {
       "album": {
@@ -733,7 +813,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 445728,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4xZiMHRjnkQJM71MJ8qHlx"
@@ -853,7 +933,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 209743,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/3351bIhasJGEk0yn5A9uLW"
@@ -871,7 +951,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/2ryXP4NxcAPXgE7KPoZ6x4"
@@ -889,7 +969,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 232320,
       "name": "Love Divide",
       "url": "https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n"
@@ -995,7 +1075,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
@@ -1017,7 +1097,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
@@ -1108,6 +1188,28 @@
     },
     {
       "album": {
+        "name": "My House (Eats Everything Remixes)",
+        "url": "https://open.spotify.com/album/2RXSHVAzTLVw6icNukiK5O"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        },
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238198,
+      "name": "My House (10 Years of Eats Everything Main Street Mix)",
+      "url": "https://open.spotify.com/track/149yUZqCPUUsOa0ruiZO4b"
+    },
+    {
+      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -1123,7 +1225,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
@@ -1273,7 +1375,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 213387,
       "name": "One More - Mark Knight Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/5fboV4lAqb0MC0YPdit8o1"
@@ -1291,7 +1393,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 266133,
       "name": "Orange Sunlight",
       "url": "https://open.spotify.com/track/26JD90dGwlxzFpMB5cfIHh"
@@ -1317,7 +1419,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
@@ -1335,7 +1437,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 171968,
       "name": "People Everywhere (Can You Feel It?)",
       "url": "https://open.spotify.com/track/5jFVQLyCudes6YFmS84jML"
@@ -1371,7 +1473,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
@@ -1389,7 +1491,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 177971,
       "name": "Reason",
       "url": "https://open.spotify.com/track/37EKnLlRqJcb8XMgYaAbCL"
@@ -1509,7 +1611,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 193489,
       "name": "Shit Cant Make Anything",
       "url": "https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO"
@@ -1527,7 +1629,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Silk Robe",
       "url": "https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8"
@@ -1545,7 +1647,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 163294,
       "name": "Sky's the Limit - Edit",
       "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
@@ -1585,7 +1687,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 216000,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
@@ -1603,7 +1705,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 356408,
       "name": "So Good, So Nice, So Bright",
       "url": "https://open.spotify.com/track/1xR2hDqoEDiFj9VTEo0Y4Q"
@@ -1735,7 +1837,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
@@ -1877,7 +1979,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 222226,
       "name": "What\u2019s Your Pleasure? - Georgia Remix",
       "url": "https://open.spotify.com/track/4B9DsDouaA1Nx0IvF2c8yY"
@@ -1895,7 +1997,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 285547,
       "name": "Your Good Times Are Here",
       "url": "https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2"

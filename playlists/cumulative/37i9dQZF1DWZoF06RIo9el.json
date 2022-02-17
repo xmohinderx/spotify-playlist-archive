@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 170228,
       "name": "Adicta al Perreo",
       "url": "https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 162755,
       "name": "Enda\u00f1o",
       "url": "https://open.spotify.com/track/0oBFs4wmzUvoNUEMv7Ddfv"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 151020,
       "name": "Esos D\u00edas - Spotify Singles",
       "url": "https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 201426,
       "name": "Finde",
       "url": "https://open.spotify.com/track/0C9s3OmKgCfHioXDnRoKGd"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/1c5Jc2aaUqe6y729qjADLN"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 185466,
       "name": "Melodrama",
       "url": "https://open.spotify.com/track/4ffdk7DakcW71stgcXT1wA"
@@ -1104,6 +1104,36 @@
     },
     {
       "album": {
+        "name": "M\u00edrame (Bilmem mi? Remix)",
+        "url": "https://open.spotify.com/album/0Z1bPOA0FbVGrwFLvwvhUi"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Aerro",
+          "url": "https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185612,
+      "name": "M\u00edrame (Bilmem mi? Remix)",
+      "url": "https://open.spotify.com/track/05vrfZ9MXAnE80Z5NQG6wa"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Ligera",
         "url": "https://open.spotify.com/album/77APd2Q91Ju6844akH2Xbj"
       },
@@ -1184,6 +1214,28 @@
     },
     {
       "album": {
+        "name": "Noche en LA",
+        "url": "https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209891,
+      "name": "Noche en LA",
+      "url": "https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS"
+    },
+    {
+      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/4EbGLMmQaDDVMKfO36SBBL"
       },
@@ -1195,7 +1247,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 215000,
       "name": "normal",
       "url": "https://open.spotify.com/track/3G2lFWq1ZefJP4IMMIYXC1"

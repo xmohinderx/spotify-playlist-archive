@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 186466,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 150226,
       "name": "Drinks",
       "url": "https://open.spotify.com/track/7c2ag2Q4vhJyjDANataJj2"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 202950,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3MNlGZIqeH2HEcMUItoxes"
@@ -1080,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "I See Red",
+        "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
+      },
+      "artists": [
+        {
+          "name": "Everybody Loves an Outlaw",
+          "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230613,
+      "name": "I See Red",
+      "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Grow Up",
         "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
       },
@@ -1242,6 +1260,24 @@
     },
     {
       "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168096,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws"
+    },
+    {
+      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },
@@ -1361,7 +1397,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 230693,
       "name": "My Heart's Grave",
       "url": "https://open.spotify.com/track/6QIZUbPbMqbDUORTuZtxsV"
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 189011,
       "name": "Slip",
       "url": "https://open.spotify.com/track/3NVIEjLyQjAMGS36DJzSyt"
@@ -1639,7 +1675,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 167613,
       "name": "Smoke Hole - Edit",
       "url": "https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny"
@@ -1697,7 +1733,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9"
@@ -1849,7 +1885,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 223564,
       "name": "The Whole \"Being Dead\" Thing",
       "url": "https://open.spotify.com/track/7BKbcBpIS7jMKsjbry09JF"
@@ -1941,7 +1977,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 291447,
       "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
       "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"

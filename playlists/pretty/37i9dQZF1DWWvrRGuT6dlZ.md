@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Paper Citizen\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,081 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,085 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 8 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 |
 | 9 | [HUOY \(I A F Remix\)](https://open.spotify.com/track/3wnH3eaH3rn8gyruSsRvsD) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps), [I A F](https://open.spotify.com/artist/06LlHaKG2UBtZdp4iyg4MK) | [HUOY \(I A F Remix\)](https://open.spotify.com/album/1C5tU1vYajSiNOG0ZEN19S) | 3:22 |
 | 10 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 |
-| 11 | [won't you](https://open.spotify.com/track/1kXS1Q4nfDEtd7tsMtH3N9) | [Lowkeii](https://open.spotify.com/artist/588Ho9n5DcHnpVdNDvQhah), [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1), [Fahmy, the Mc](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG) | [won't you](https://open.spotify.com/album/2B8ZU8zD2RX6BRLz4t2sVa) | 2:51 |
+| 11 | [won't you](https://open.spotify.com/track/1kXS1Q4nfDEtd7tsMtH3N9) | [Lowkeii](https://open.spotify.com/artist/588Ho9n5DcHnpVdNDvQhah), [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1), [fahmy.](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG) | [won't you](https://open.spotify.com/album/2B8ZU8zD2RX6BRLz4t2sVa) | 2:51 |
 | 12 | [Cherry Wine](https://open.spotify.com/track/7pCoMYTUu4RhyhheULLdr5) | [The Lounette](https://open.spotify.com/artist/638WE7BEtItPvh25YbeMGM) | [Cherry Wine](https://open.spotify.com/album/1I2JWR6cDtINzyusW8n4kK) | 4:34 |
 | 13 | [Dance The Night Away](https://open.spotify.com/track/0CMWhL6cSNRPGfUd9sCVqG) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ), [esther](https://open.spotify.com/artist/1AXlrzu0pUJc8FB2rJJmq7) | [Moments](https://open.spotify.com/album/71tu3WeVwuEQxTXUbantb6) | 3:15 |
 | 14 | [Next To You \- Karazey Remix](https://open.spotify.com/track/0stQ4u3sU52yaD8BqwkAgk) | [Monoriff](https://open.spotify.com/artist/36uQyCP3IOQkRwL5AU8jnB), [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf) | [Next To You \(Karazey Remix\)](https://open.spotify.com/album/25mMcTUrDf5hzIhMAadvXs) | 3:16 |

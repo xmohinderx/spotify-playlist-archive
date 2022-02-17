@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 252713,
       "name": "All These Years - Acoustic",
       "url": "https://open.spotify.com/track/2LnU1vGhTzfY07720ZUiEK"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 199593,
       "name": "California - Acoustic Version",
       "url": "https://open.spotify.com/track/2gpTNEI42xOJVwyi8L8VAf"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 241399,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/282p5nzzWitBct4l5NXoYz"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 160186,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3vUc9WQpoca15404jNdzf9"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 272174,
       "name": "Come on Love",
       "url": "https://open.spotify.com/track/5ve7ClWCO0nQjjL11j3Icr"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 174269,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/5uJEo4AnPvWi7EFhKfXe7L"
@@ -1427,7 +1427,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 188220,
       "name": "Endless (feat. Tove Styrke) - Acoustic Version",
       "url": "https://open.spotify.com/track/5eDTMtx8lpbKjZhriTVsi9"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 185227,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/39b57sOdT2Rq8dV73tXLnQ"
@@ -1763,7 +1763,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB"
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 203546,
       "name": "For You",
       "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
@@ -2026,6 +2026,28 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
+      },
+      "artists": [
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
+    },
+    {
+      "album": {
         "name": "Great American Novel",
         "url": "https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu"
       },
@@ -2037,7 +2059,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 234450,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA"
@@ -2449,7 +2471,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 280533,
       "name": "How Would You Feel (Paean)",
       "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
@@ -3017,7 +3039,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 213940,
       "name": "Laura's Song",
       "url": "https://open.spotify.com/track/6b7Ep77q7emZ5iozeMWZJU"
@@ -3335,7 +3357,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 213975,
       "name": "Love the Way It Makes You Feel",
       "url": "https://open.spotify.com/track/7244cfkECX2147we08sMox"
@@ -3451,7 +3473,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 239545,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/6Bjq10d3F4Vcm2czZT6UJX"
@@ -3559,7 +3581,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 222586,
       "name": "Most of Us Are Strangers",
       "url": "https://open.spotify.com/track/7jVRAVYEckMldApsscdFDn"
@@ -4057,7 +4079,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 182640,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/7aG1xKK3cdvg7JUKaECwJ4"
@@ -4075,7 +4097,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW"
@@ -4255,7 +4277,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 231748,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY"
@@ -4403,7 +4425,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 202717,
       "name": "Same Moon",
       "url": "https://open.spotify.com/track/2Vw1Ch9uvjTk8jmxsWnUoL"
@@ -4861,7 +4883,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 201272,
       "name": "Still Feel It All",
       "url": "https://open.spotify.com/track/6iq7Jv43ULC1zRqtdpYDnI"
@@ -4959,7 +4981,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/0RHeh77ZQtP5Q3IZIjwqPc"
@@ -5223,7 +5245,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 208173,
       "name": "The Night We Met (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l"
@@ -5241,7 +5263,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 172400,
       "name": "The Time Has Come",
       "url": "https://open.spotify.com/track/688PTE0V0ccAzjjul4tSA0"
@@ -5259,7 +5281,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 165586,
       "name": "The Valley",
       "url": "https://open.spotify.com/track/0YBApL73BbXpxEJKREFOUF"
@@ -5375,7 +5397,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
@@ -5621,7 +5643,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 235386,
       "name": "Velvet Rope",
       "url": "https://open.spotify.com/track/2u6dedaqZJeVFvqCTA0Qdm"
@@ -5773,7 +5795,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 232453,
       "name": "When Does a Heart Move On",
       "url": "https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul"
@@ -5917,7 +5939,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 151733,
       "name": "Wildwood Flower",
       "url": "https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo"
@@ -6007,7 +6029,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 154650,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za"
@@ -6043,7 +6065,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-17",
       "duration_ms": 221222,
       "name": "You & I",
       "url": "https://open.spotify.com/track/6Wzl4NBqft9IyyZ8GmjQTV"

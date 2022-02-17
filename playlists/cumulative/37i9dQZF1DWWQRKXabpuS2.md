@@ -39,6 +39,7 @@
 | [Khair Il Kalam](https://open.spotify.com/track/0OJBY7oLHFxqksLVL9K2zw) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [Khair Il Kalam](https://open.spotify.com/album/01Wu2jFeYUZobCu87M3qW3) | 3:54 | 2021-12-23 |  |
 | [Khaleeny](https://open.spotify.com/track/3L7FfHb5zImzhMmBG0MyJl) | [Hamad Al Mamari](https://open.spotify.com/artist/6TGysqweeNFlQJmwd8LnRu) | [Khaleeny](https://open.spotify.com/album/2zkPQyNFkv0UoOCJMsa6MH) | 2:46 | 2021-12-23 |  |
 | [Khaloony](https://open.spotify.com/track/09jkfb9ry4b1EANWKN33eY) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Khaloony](https://open.spotify.com/album/769Ve8jTV2eKv85Cjh9bdy) | 4:16 | 2021-12-23 |  |
+| [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-02-16 |  |
 | [Letak Maey](https://open.spotify.com/track/2UB9maMnxNigowJkLjikv5) | [Basil Al Aziz](https://open.spotify.com/artist/1DukKWvxLqDe2BIH4IU4jd) | [Letak Maey](https://open.spotify.com/album/15yFJycGjc78gXyO8TsUHt) | 4:23 | 2021-12-23 |  |
 | [lo Hobek](https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [lo Hobek](https://open.spotify.com/album/48Ppl1mtZYWRqlDPgr2vBr) | 3:18 | 2021-12-30 |  |
 | [Ma Aaraf Qadry](https://open.spotify.com/track/0OFnsKz5QuApnBoxHsylT5) | [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL) | [Ma Aaraf Qadry](https://open.spotify.com/album/4J95aQ00slYUW70bzAG8Tb) | 3:40 | 2021-12-23 | 2022-02-11 |
@@ -80,6 +81,6 @@
 | [وصلنا](https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm) | [VO](https://open.spotify.com/artist/4QII96v2C63K9PaG6k8aby), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [وصلنا](https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a) | 3:39 | 2021-12-23 |  |
 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-12-23 |  |
 | [يازين هالجيه](https://open.spotify.com/track/0R1y22OeP2EStqbdfrFa9x) | [Abdulqader Alahmad](https://open.spotify.com/artist/56J4yjD5UrNZPcAq3yzooQ) | [يازين هالجيه](https://open.spotify.com/album/5Jn4v55CHq7Mne9zrk35hY) | 4:14 | 2021-12-23 |  |
-| [يعني شنو](https://open.spotify.com/track/6q8j0K2yFOA9e7iTcl0SmS) | [مبارك](https://open.spotify.com/artist/5eICHNdVdd4M2Ke4H7e4ca) | [يعني شنو \- Single](https://open.spotify.com/album/3xHARIqSd98Ram84exikWw) | 3:22 | 2021-12-23 |  |
+| [يعني شنو](https://open.spotify.com/track/6q8j0K2yFOA9e7iTcl0SmS) | [مبارك](https://open.spotify.com/artist/5eICHNdVdd4M2Ke4H7e4ca) | [يعني شنو \- Single](https://open.spotify.com/album/3xHARIqSd98Ram84exikWw) | 3:22 | 2021-12-23 | 2022-02-17 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.
