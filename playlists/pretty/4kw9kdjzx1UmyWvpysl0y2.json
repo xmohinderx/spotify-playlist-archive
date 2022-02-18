@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127681,
+  "num_followers": 127670,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI0OCw1ODA4OGE5ODg0NDM0Nzk3MzYzZGVjMTE5YzEyZWRmNmNmZWNhMzdj",
+  "snapshot_id": "MzI1MSxhNjVlNjQzZjg2Y2UxN2ExMTUzMmJkMjA3N2Q1Y2RkZWRkZDM0Nzli",
   "tracks": [
+    {
+      "added_at": "2022-02-17 17:42:26",
+      "album": {
+        "name": "My Wicked",
+        "url": "https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 233048,
+      "name": "My Wicked",
+      "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
+    },
     {
       "added_at": "2022-02-16 17:17:23",
       "album": {
@@ -1111,38 +1127,6 @@
       "duration_ms": 214000,
       "name": "A Moment Apart",
       "url": "https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "The Tide",
-        "url": "https://open.spotify.com/album/5oXND6By8dpwUFwen26Hq7"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 180004,
-      "name": "The Tide",
-      "url": "https://open.spotify.com/track/3EuVWEJ5ioMHn84X13v1pm"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Whale Song",
-        "url": "https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG"
-      },
-      "artists": [
-        {
-          "name": "PROFF",
-          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
-        }
-      ],
-      "duration_ms": 251865,
-      "name": "Whale Song",
-      "url": "https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

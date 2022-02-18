@@ -1,13 +1,37 @@
 {
   "description": "Cool vibes from the African continent.",
-  "num_followers": 12638,
+  "num_followers": 12641,
   "original_name": "Afrocentric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNzYwMCwwMDAwMDE3YzAwMDAwMTdlZTYxNDU4ZDgwMDAwMDE3MGFmNDI4ZGU4",
+  "snapshot_id": "MTY0NTEzODgwMCwwMDAwMDE3ZDAwMDAwMTdmMDllOWVlODQwMDAwMDE3MGFmNDI4ZGU4",
   "tracks": [
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "A Night In Cocody",
+        "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "duration_ms": 220264,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
+    },
     {
       "added_at": "2022-02-03 23:02:00",
       "album": {
@@ -25,20 +49,40 @@
       "url": "https://open.spotify.com/track/0UW8TcUM9JHJB5QrM0Pjx8"
     },
     {
-      "added_at": "2021-12-16 23:01:00",
+      "added_at": "2021-10-11 06:16:49",
       "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/2ridtCRegwAWPogc0howcY"
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
       },
       "artists": [
         {
-          "name": "Rhita Nattah",
-          "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 193388,
-      "name": "The Calling",
-      "url": "https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG"
+      "duration_ms": 276536,
+      "name": "Bank On It",
+      "url": "https://open.spotify.com/track/59r8MRjv8K2rx8W3jQ5HW2"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Damn (feat. 6lack)",
+        "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 159338,
+      "name": "Damn (feat. 6lack)",
+      "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
     },
     {
       "added_at": "2021-12-02 23:01:00",
@@ -55,6 +99,26 @@
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/5iTVgdXWbN2wticVSkTFsv"
+      },
+      "artists": [
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sondela - Edit",
+      "url": "https://open.spotify.com/track/0JSPN8S57bYOL3LSLm5yvN"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -77,26 +141,6 @@
       "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
     },
     {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 164837,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
-    },
-    {
       "added_at": "2021-10-11 06:16:49",
       "album": {
         "name": "Pana",
@@ -111,6 +155,22 @@
       "duration_ms": 242893,
       "name": "Pana",
       "url": "https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb"
+    },
+    {
+      "added_at": "2021-10-28 23:00:00",
+      "album": {
+        "name": "Love and Highlife",
+        "url": "https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Udo",
+      "url": "https://open.spotify.com/track/2EBMAyCUrqzPPjzgU76Amw"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -153,6 +213,22 @@
       "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
     },
     {
+      "added_at": "2021-12-16 23:01:00",
+      "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/2ridtCRegwAWPogc0howcY"
+      },
+      "artists": [
+        {
+          "name": "Rhita Nattah",
+          "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
+        }
+      ],
+      "duration_ms": 193388,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG"
+    },
+    {
       "added_at": "2021-10-11 06:16:49",
       "album": {
         "name": "Blow My Mind",
@@ -191,6 +267,42 @@
       "duration_ms": 206253,
       "name": "Hubris",
       "url": "https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3"
+    },
+    {
+      "added_at": "2022-02-03 23:02:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 164837,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD"
     },
     {
       "added_at": "2021-11-25 23:01:00",
@@ -293,6 +405,22 @@
       "url": "https://open.spotify.com/track/1hgH1t6ReIrorRFrD7eJ8P"
     },
     {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4B0u29SVDo8LjBhSPeIQ42"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0h8Nv1NG9K7vAuknah3ODJ"
+    },
+    {
       "added_at": "2022-01-27 23:00:00",
       "album": {
         "name": "Misimu",
@@ -385,6 +513,26 @@
       "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
     },
     {
+      "added_at": "2022-02-17 23:00:00",
+      "album": {
+        "name": "Down by the River",
+        "url": "https://open.spotify.com/album/2HgoVUGoxyJLVl7efSYneM"
+      },
+      "artists": [
+        {
+          "name": "Bigfootinyourface",
+          "url": "https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 154520,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/4B7sxQLWCgQ6GvZac3Dazz"
+    },
+    {
       "added_at": "2022-01-21 06:45:47",
       "album": {
         "name": "Satin Cassette",
@@ -431,22 +579,6 @@
       "duration_ms": 226960,
       "name": "Sweet Adetola",
       "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 276536,
-      "name": "Bank On It",
-      "url": "https://open.spotify.com/track/59r8MRjv8K2rx8W3jQ5HW2"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -541,38 +673,6 @@
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
     },
     {
-      "added_at": "2021-10-28 23:00:00",
-      "album": {
-        "name": "Love and Highlife",
-        "url": "https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Udo",
-      "url": "https://open.spotify.com/track/2EBMAyCUrqzPPjzgU76Amw"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD"
-    },
-    {
       "added_at": "2021-10-11 06:16:49",
       "album": {
         "name": "The Beauty of Becoming",
@@ -637,22 +737,6 @@
       "url": "https://open.spotify.com/track/4LFL0eNYe5cRNy87Cn6PCl"
     },
     {
-      "added_at": "2021-10-28 23:00:00",
-      "album": {
-        "name": "Zelu",
-        "url": "https://open.spotify.com/album/5pz54lXusItFlSda2jkGzk"
-      },
-      "artists": [
-        {
-          "name": "If\u00e9",
-          "url": "https://open.spotify.com/artist/5bwayITcleftVQyaj7TnSa"
-        }
-      ],
-      "duration_ms": 134880,
-      "name": "Zelu",
-      "url": "https://open.spotify.com/track/0YHwlHB1vvx6ZUU8yIWmmm"
-    },
-    {
       "added_at": "2021-10-11 06:16:49",
       "album": {
         "name": "Ojuju",
@@ -715,30 +799,6 @@
       "duration_ms": 177500,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/0TpJiBJbQubqmn2xV7hw2E"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "A Night In Cocody",
-        "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
-      },
-      "artists": [
-        {
-          "name": "Jeune Lio",
-          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
-        },
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        }
-      ],
-      "duration_ms": 220264,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -1059,26 +1119,6 @@
     {
       "added_at": "2021-10-11 06:16:49",
       "album": {
-        "name": "Sondela",
-        "url": "https://open.spotify.com/album/5iTVgdXWbN2wticVSkTFsv"
-      },
-      "artists": [
-        {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Sondela - Edit",
-      "url": "https://open.spotify.com/track/0JSPN8S57bYOL3LSLm5yvN"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
         "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
         "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
       },
@@ -1111,26 +1151,6 @@
     {
       "added_at": "2021-10-11 06:16:49",
       "album": {
-        "name": "Damn (feat. 6lack)",
-        "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 159338,
-      "name": "Damn (feat. 6lack)",
-      "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
         "name": "Gbona",
         "url": "https://open.spotify.com/album/3OJY4Z5s479HvoAlwAOQRn"
       },
@@ -1143,22 +1163,6 @@
       "duration_ms": 187609,
       "name": "Gbona",
       "url": "https://open.spotify.com/track/2Q20eWqSnV519ybPThUDWs"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4B0u29SVDo8LjBhSPeIQ42"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0h8Nv1NG9K7vAuknah3ODJ"
     },
     {
       "added_at": "2021-10-11 06:16:49",

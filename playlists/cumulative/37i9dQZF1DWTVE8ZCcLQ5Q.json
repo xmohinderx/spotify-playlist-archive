@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 286700,
       "name": "A parte que falta",
       "url": "https://open.spotify.com/track/0h8rptaG7dFicv3NLmqKp0"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 196173,
       "name": "Animais Traidores",
       "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 183750,
       "name": "Boca Favorita",
       "url": "https://open.spotify.com/track/13rO6zDbUrzzfdZM2rcVwT"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 191911,
       "name": "Carta Que N\u00e3o Diz",
       "url": "https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Cheia de Dobras",
       "url": "https://open.spotify.com/track/0ELWsJBhMIdIUhjM0zzx39"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 145297,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
@@ -2189,10 +2189,32 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 110769,
       "name": "Incrivel Jogando a Potranca",
       "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
+    },
+    {
+      "album": {
+        "name": "Indom\u00e1vel",
+        "url": "https://open.spotify.com/album/4vS8bptdH3tsUaqhaXas1Z"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205211,
+      "name": "Indom\u00e1vel",
+      "url": "https://open.spotify.com/track/1WUug54diI8RYJP0UoKdw5"
     },
     {
       "album": {
@@ -2325,7 +2347,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 143718,
       "name": "Lascar Seu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3gnQaW3mkV01LVx9tuqFBP"
@@ -2649,7 +2671,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Melhor Sem Mim",
       "url": "https://open.spotify.com/track/75QcU1UDaOXjZ51AsqN6sy"
@@ -2995,7 +3017,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 212433,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
@@ -3013,7 +3035,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 270136,
       "name": "nunca me esque\u00e7o",
       "url": "https://open.spotify.com/track/1W8tSQSDxm0T9mnNen9zsg"
@@ -3499,7 +3521,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 163879,
       "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
@@ -4701,7 +4723,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 187223,
       "name": "Yamaha",
       "url": "https://open.spotify.com/track/3UQwJndjyZtfqKe4HKRSMU"

@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A côté de toi](https://open.spotify.com/track/3nQ9IJ1Drf8DsrEebEHPyd) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [A côté de toi](https://open.spotify.com/album/3f5OqGu0sKroc7YImsTxTG) | 3:25 | 2022-02-17 |  |
 | [A Illa](https://open.spotify.com/track/2VTvUT7mn0fEh39q5yh0KW) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [A Illa](https://open.spotify.com/album/3IEHeEPfmdzzFzTmT2FNWK) | 3:22 | 2021-11-10 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 |  |
 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 2:54 | 2021-11-10 |  |
@@ -105,6 +106,7 @@
 | [Fekerayo](https://open.spotify.com/track/1MyNYs0OhpaT6ZAfuKY9Ds) | [Cleantha](https://open.spotify.com/artist/2SMuzSMGO396SBRMXGZjE5) | [Fekerayo](https://open.spotify.com/album/3TGjDr4vsdollMDaPQ904m) | 3:23 | 2021-11-10 |  |
 | [First Day](https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt) | [Ljomo](https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt) | [Beautiful Morning](https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0) | 4:12 | 2021-11-10 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-09 |  |
+| [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-02-17 |  |
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-02-09 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-11-10 |  |
 | [Giant Steps Tomorrow](https://open.spotify.com/track/2KiBZ6xU6dnj47aT71G28P) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Giant Steps Tomorrow](https://open.spotify.com/album/31cxoMZtA7p665UG7sEhew) | 3:15 | 2021-11-10 |  |
@@ -215,6 +217,7 @@
 | [Sessiz Tepeler](https://open.spotify.com/track/7KmNEkS0sCpZPFBh2uqZu6) | [Cakir Vardar](https://open.spotify.com/artist/28bBNTIW2aR4EQKrkqpzF7) | [Sessiz Tepeler](https://open.spotify.com/album/4SF3qwneStFulFbf3kIlOP) | 2:50 | 2021-11-10 |  |
 | [Shape Of A Dream](https://open.spotify.com/track/7M7YsLJWsyu87my5ZnAxau) | [Sailors Of The 7 Seas](https://open.spotify.com/artist/64u292UVi3Zlu0Dl9svsMb) | [Shape Of A Dream](https://open.spotify.com/album/4kFWUVGhH0Zvr0DhSdJyiI) | 3:06 | 2022-01-21 |  |
 | [Shimmer in the Morning](https://open.spotify.com/track/0oZcBTfv9wd9Oh2JBicCmz) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Shimmer in the Morning](https://open.spotify.com/album/3y5jiEGMaWTGelesFKGtPR) | 2:06 | 2021-11-10 |  |
+| [Silk](https://open.spotify.com/track/2kEk2uIKtoJD5r65cH7XBP) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Contemplate](https://open.spotify.com/album/4YPmrvr0GCO4errUctduu7) | 2:53 | 2022-02-17 |  |
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2021-11-10 |  |
 | [Sleep Drone](https://open.spotify.com/track/2lRINOduUGo6lyIMP8kUh4) | [One Stop](https://open.spotify.com/artist/5CUQzPQ7rkBBtBFWzJ0QkQ) | [Focus Drone](https://open.spotify.com/album/01s7HgIfA4qINX7kZNijYz) | 2:02 | 2021-11-10 |  |
 | [Sleepy Journey](https://open.spotify.com/track/3r1ZQqUe14xxssPt2Rkd6j) | [Cokobi](https://open.spotify.com/artist/3PUoyrYPm3P6HQAPEFwdyg) | [Sleepy Journey](https://open.spotify.com/album/0kRsorTUtJsNOFYaHc9KAO) | 2:50 | 2021-11-10 |  |

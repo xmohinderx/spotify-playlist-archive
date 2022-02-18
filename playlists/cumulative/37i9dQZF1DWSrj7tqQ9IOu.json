@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Oscar Anton & Clementine",
+  "description": "The best French indie tracks right now. Cover: Alexia Gredy",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -138,6 +138,28 @@
     },
     {
       "album": {
+        "name": "C'est Dur",
+        "url": "https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        },
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224413,
+      "name": "C'est Dur",
+      "url": "https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb"
+    },
+    {
+      "album": {
         "name": "CAMISOLE",
         "url": "https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP"
       },
@@ -211,6 +233,24 @@
       "duration_ms": 223946,
       "name": "Dans mes r\u00eaves",
       "url": "https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d"
+    },
+    {
+      "album": {
+        "name": "Dictators",
+        "url": "https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ"
+      },
+      "artists": [
+        {
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "Dictators",
+      "url": "https://open.spotify.com/track/0qIuXo9XrS7IlNwqnIbho0"
     },
     {
       "album": {
@@ -381,7 +421,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 233986,
       "name": "Hommage",
       "url": "https://open.spotify.com/track/6vYU6WUEReNiuQ8zoy7dMT"
@@ -417,7 +457,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 146213,
       "name": "Ilya",
       "url": "https://open.spotify.com/track/5mIf7UP0FEsGaGWBVjrNKP"
@@ -551,7 +591,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 165853,
       "name": "La vague aux cheveux d'or",
       "url": "https://open.spotify.com/track/7tPjMXhFI1eSWUQlnlXEqy"
@@ -951,7 +991,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 202520,
       "name": "Nouveau Genre",
       "url": "https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb"
@@ -1102,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Premier Incendie (Edit)",
+        "url": "https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv"
+      },
+      "artists": [
+        {
+          "name": "MAGENTA",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Premier Incendie - Edit",
+      "url": "https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
       },
@@ -1157,6 +1215,24 @@
       "duration_ms": 216306,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt"
+    },
+    {
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr"
+      },
+      "artists": [
+        {
+          "name": "Canine",
+          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196216,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc"
     },
     {
       "album": {

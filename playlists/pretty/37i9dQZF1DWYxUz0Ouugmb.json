@@ -1,15 +1,31 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Suara Kayu",
-  "num_followers": 21832,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Basboi",
+  "num_followers": 21847,
   "original_name": "RADAR Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMwMjgwMCwwMDAwMDAzZDAwMDAwMTdlOWM3YWNiMDcwMDAwMDE3ZTliOGYwZjBl",
+  "snapshot_id": "MTY0NTExNzIwMCwwMDAwMDAzZTAwMDAwMTdmMDhhMDU3MDcwMDAwMDE3ZjA4MzIxNDI5",
   "tracks": [
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
+      "album": {
+        "name": "Acoustic For Dummies",
+        "url": "https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "Make Me Proud - Acoustic",
+      "url": "https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy"
+    },
+    {
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Kumpulan Cerita Pendek",
         "url": "https://open.spotify.com/album/1YtbLVcymkCfIM5BzocDge"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/6TeXaBY0c9lIG5x9Qs2s3H"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "It's Never Easy",
         "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/3nrNlNub0uPSexmYXrbhHh"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "The Stupid Song",
         "url": "https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Strangers Again",
         "url": "https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/1QYff3eiMnTtCyCmLIUrmp"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Walau Ku Jauh",
         "url": "https://open.spotify.com/album/5hpBhQAXmCiv7MPFlOhaqG"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/3ornTHHn1dhIymFRJaG7fE"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Pernah Salah",
         "url": "https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Do You Think You Know Me?",
         "url": "https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Miniatur (Korean Version)",
         "url": "https://open.spotify.com/album/4MJ0pbU4bbUkdBpN5D9zO0"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/467o1Qh9ND8VeORTC0gNwW"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Kelangan",
         "url": "https://open.spotify.com/album/7fGMY8J1COdJaOjfiJi3oO"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/30B1PUSsLPT9hQrNnAPh3C"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Ombak Banyu Asmara",
         "url": "https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "It's Never Easy",
         "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Pilihan Ati",
         "url": "https://open.spotify.com/album/5GWUfo0ZgDB2Gt0n4CTjUZ"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/3ODS3N2Pdtacr7Jxllky2c"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Blanket of Sadness (feat. Rendy Pandugo)",
         "url": "https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Penghapus Pensil",
         "url": "https://open.spotify.com/album/4ZIA1vi2rfeVt80IGbh2fK"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/018kPIAzYiX8rZefBIyHdI"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Adulting For Dummies",
         "url": "https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/5jSsYb2otlowbQELi1HHmc"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Baby Don't Let Me Go",
         "url": "https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Whiskey Bottle",
         "url": "https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Pelangi",
         "url": "https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "24 Jam",
         "url": "https://open.spotify.com/album/2uK6XYBT5Gsj5ej97qMWzr"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/0TQbvVM5D5wAgbF3uhXEsQ"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Pisah",
         "url": "https://open.spotify.com/album/1OK2oRKzT6csqvA0fMCDi1"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/0moK39JPJTSbypvshvH4NH"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Roller Coaster",
         "url": "https://open.spotify.com/album/7AsxoSgN0BlAQQaRxjFxZP"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/3zdLMiip3PdPfGSE10Q9di"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Journey on September",
         "url": "https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "CHING",
         "url": "https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Come Over (I\u2019m In Tresno)",
         "url": "https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "I Only Dance When I'm Sad",
         "url": "https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/26gulJKHQJ7ZqPbd66e3I9"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Suara Kita, Cerita Kamu",
         "url": "https://open.spotify.com/album/5XWEnuQVVXCf2EmxuYSRH0"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/2Cnmn4jARAPRocw9meEMQq"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Midnight Thoughts",
         "url": "https://open.spotify.com/album/4xxohLBOeccaHemf2lOk6w"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/6FEqIXKSJnEWkiQWd4ucn4"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Mesin Waktu",
         "url": "https://open.spotify.com/album/697noPaxXP5UVgvOG808yg"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/0tATv5Fy2aJXUOMKp2utl0"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Kaktus",
         "url": "https://open.spotify.com/album/15mi7JkXNjMScyGbX1nlTg"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/31byM0OBU7OoKuVkTrTCOh"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Ninggal Cerito (Purwokerto)",
         "url": "https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "I Only Dance When I'm Sad",
         "url": "https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/7rypINT2fPXEJTAW211dTp"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Patah Hati",
         "url": "https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Seribu Kali Cinta",
         "url": "https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Kebal Kelaran",
         "url": "https://open.spotify.com/album/0C4eIv3pgBnMJFrhcj8bt5"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/6TcBc2Bs6PGYIl1oJMbzMR"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Songs To Begal To",
         "url": "https://open.spotify.com/album/0Ji2j5R9apVWxkaF0eADlu"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/37hXg8ANTcG13pKX0X16XM"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "UWU (Unhappy Without You)",
         "url": "https://open.spotify.com/album/18TVJDxgsRqJlHU62hnJoJ"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/7epyzR1KrrHDOUeieXyxka"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Tafsir Mistik",
         "url": "https://open.spotify.com/album/4b20NkzkPuqNDXmhcQ8gHi"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/0aPepMh9otBMbV4xKmiRtq"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Perlahan",
         "url": "https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Gem In I",
         "url": "https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Sedang Sayang Sayangnya",
         "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Soal Kita",
         "url": "https://open.spotify.com/album/6jgYTIvlTMtNH1XBmVu3FA"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/14rpraFulfsWytcg4kMtLz"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Ruang Rindu",
         "url": "https://open.spotify.com/album/18jRL6EcPhjPYeKEnF2jmY"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/7GaqO0Mddb1W2bMmV3g6Kx"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "angin dalu",
         "url": "https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/658ox296pj18QSjzTBGWWy"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Korban Janji",
         "url": "https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Lebih Dari Egoku",
         "url": "https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Balada Semburan Naga",
         "url": "https://open.spotify.com/album/4dlBcajEgrrep6NtFGM0s6"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/2RtoG9G8lFbdcMqXMLP05j"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Merindu",
         "url": "https://open.spotify.com/album/2tWvLOzIXczbXws6GeM0YE"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/4hERzfQ6Aiu5pKSqCeiAab"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/7ke39l8r5Zu7MgMfqEaSt1"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/2XGFYZMzanUbWNSfox0U2z"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Kebal Kelaran",
         "url": "https://open.spotify.com/album/39PM31EBVu9TUyeql8wJhz"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/2PJt7EOOh92Khzjr9T7QTq"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Sambel terasi",
         "url": "https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Mabuk Laut",
         "url": "https://open.spotify.com/album/33y0fKhUcFcUeGv31HH4mg"
@@ -937,7 +953,7 @@
       "url": "https://open.spotify.com/track/3hg1tMeMdz9SUeAwf9dscu"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "sahabat",
         "url": "https://open.spotify.com/album/6UfIzBcTa1Zrkl8R2TicQo"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/2CTq462kUxg8yu9oWt3seb"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/7hez8uQfAf80j8KI1oj2Bb"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "MILIK ORANG",
         "url": "https://open.spotify.com/album/42JxMwHI7LXX9a6q8gNV1O"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4eV2IIMNfS8SO5nvmsMZ37"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Ajur Mumur",
         "url": "https://open.spotify.com/album/4pNFORxfVZ4gfBaaogJMFy"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/30NDRknWvH6eRPIZwERRQJ"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Queen of The South",
         "url": "https://open.spotify.com/album/6Y0eJDOJccyw6nmrGFNFwk"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/65Y2vY9zirG11USMyryRqu"
     },
     {
-      "added_at": "2022-01-27 17:00:00",
+      "added_at": "2022-02-17 17:00:00",
       "album": {
         "name": "Putra Petir",
         "url": "https://open.spotify.com/album/6NCzDjlMh8oLKEaW6HbJAX"

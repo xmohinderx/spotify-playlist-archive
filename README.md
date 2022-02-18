@@ -498,6 +498,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Chill Hits](/playlists/pretty/37i9dQZF1DX4WYpdgoIcn6.md)
 - [Chill House 2022](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md)
 - [Chill Instrumental Beats](/playlists/pretty/37i9dQZF1DWYoYGBbGKurt.md)
+- [Chill Out Jazz](/playlists/pretty/37i9dQZF1DXdk2DZvqpqJY.md)
 - [Chill Out Music](/playlists/pretty/37i9dQZF1DX32oVqaQE8BM.md)
 - [Chill Pop](/playlists/pretty/37i9dQZF1DX0MLFaUdXnjA.md)
 - [Chill Tracks](/playlists/pretty/37i9dQZF1DX6VdMW310YC7.md)

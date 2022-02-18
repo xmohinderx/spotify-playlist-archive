@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 
 > The best new releases from swinging bop to free jazz\. Cover: Ethan Iverson
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,112 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,090 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 | 49 | [Third Wave](https://open.spotify.com/track/0xfFpztUzllbPuws63pB9Q) | [Fabio de Angelis](https://open.spotify.com/artist/0cbpT8SMALuvnuIHoCyklE), [Ares Tavolazzi](https://open.spotify.com/artist/4ewtGlwl7LgSeFmzMJd69C), [Luca De Toni](https://open.spotify.com/artist/52Zf3Wf3OoXH8vpCejt2XM), [Robert Bonisolo](https://open.spotify.com/artist/2orC1tCXt3offq1sc29PHJ) | [Third Wave](https://open.spotify.com/album/6w5LzNNVNvMfkT2H2sytlr) | 4:30 |
 | 50 | [Vintermørke](https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Vintermørke](https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF) | 7:18 |
 
-Snapshot ID: `MTY0NDUzNDAwMCwwMDAwMDA3MzAwMDAwMTdlZTVkZDZhNjMwMDAwMDE3ZWRmMWQyMTAw`
+Snapshot ID: `MTY0NTEzMTQ3OCwwMDAwMDA3NDAwMDAwMTdmMDk3YTM1MGMwMDAwMDE3ZWRmMWQyMTAw`

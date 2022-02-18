@@ -1,12 +1,12 @@
 {
   "description": "Hip-hop hits. Foto: Eminem",
-  "num_followers": 869624,
+  "num_followers": 870488,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk2MDExMywwMDAwMDEwNjAwMDAwMTdlZmY0MzYzMzYwMDAwMDE3ZWU2MjM2NmYy",
+  "snapshot_id": "MTY0NTEzNjY3OCwwMDAwMDEwNzAwMDAwMTdmMDljOThjNzYwMDAwMDE3ZWU2MjM2NmYy",
   "tracks": [
     {
       "added_at": "2022-02-08 23:41:42",
@@ -23,6 +23,26 @@
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "added_at": "2022-02-15 21:21:53",
+      "album": {
+        "name": "Hip Hop: The Collection 2008",
+        "url": "https://open.spotify.com/album/5LdDti4oskKSVspwcpDK5d"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/00twZviPonMhKWN60B3l0F"
     },
     {
       "added_at": "2021-12-24 21:40:15",
@@ -95,62 +115,6 @@
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
-    },
-    {
-      "added_at": "2022-01-12 18:44:15",
-      "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
-    },
-    {
-      "added_at": "2021-12-24 21:40:15",
-      "album": {
-        "name": "Calling My Phone",
-        "url": "https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205458,
-      "name": "Calling My Phone",
-      "url": "https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx"
-    },
-    {
-      "added_at": "2022-02-15 21:21:53",
-      "album": {
-        "name": "Hip Hop: The Collection 2008",
-        "url": "https://open.spotify.com/album/5LdDti4oskKSVspwcpDK5d"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/00twZviPonMhKWN60B3l0F"
     },
     {
       "added_at": "2021-12-24 21:40:15",
@@ -265,6 +229,22 @@
       "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
     },
     {
+      "added_at": "2022-01-12 18:44:15",
+      "album": {
+        "name": "TO THE MOON",
+        "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
+      },
+      "artists": [
+        {
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
+    },
+    {
       "added_at": "2021-12-24 21:40:15",
       "album": {
         "name": "Please Excuse Me for Being Antisocial",
@@ -321,6 +301,22 @@
       "url": "https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z"
     },
     {
+      "added_at": "2022-02-08 23:41:42",
+      "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
       "added_at": "2021-12-24 21:40:15",
       "album": {
         "name": "Dick (feat. Doja Cat)",
@@ -341,20 +337,24 @@
       "url": "https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0"
     },
     {
-      "added_at": "2022-02-08 23:41:42",
+      "added_at": "2021-12-24 21:40:15",
       "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+        "name": "Calling My Phone",
+        "url": "https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+      "duration_ms": 205458,
+      "name": "Calling My Phone",
+      "url": "https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx"
     },
     {
       "added_at": "2021-12-24 21:40:15",

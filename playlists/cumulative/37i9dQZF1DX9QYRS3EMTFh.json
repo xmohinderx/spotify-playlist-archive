@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment.Photo : JmaX",
+  "description": "Les hits dancehall du moment. Photo : Koffee",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 174857,
       "name": "Clicli",
       "url": "https://open.spotify.com/track/4Ybp2JxZFhAAZSwrMTWuiG"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 193469,
       "name": "Condensed Milk",
       "url": "https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP"
@@ -299,6 +299,42 @@
       "duration_ms": 175200,
       "name": "D\u00e9monstration",
       "url": "https://open.spotify.com/track/1hRCUh4TNlhRWArnbHFkCM"
+    },
+    {
+      "album": {
+        "name": "Enticin",
+        "url": "https://open.spotify.com/album/40V00ljeQ86zOvuzU2lDFk"
+      },
+      "artists": [
+        {
+          "name": "Albeezy",
+          "url": "https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196318,
+      "name": "Enticin",
+      "url": "https://open.spotify.com/track/6qZKouYXciYShBNLXDrV8z"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/764dcyM1mUus7EUzI1NKYm"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161985,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/1tRxnz4aknh5Nn7rs9fD0j"
     },
     {
       "album": {
@@ -390,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Gyal",
+        "url": "https://open.spotify.com/album/0ezu9H6cRO8frRYggf157e"
+      },
+      "artists": [
+        {
+          "name": "Kevni",
+          "url": "https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225160,
+      "name": "Ghetto Gyal",
+      "url": "https://open.spotify.com/track/1VcbHVnFzomj46xNNOM1rq"
+    },
+    {
+      "album": {
         "name": "Gyal",
         "url": "https://open.spotify.com/album/5RqvSKNJU3VK8UXHyBrHT7"
       },
@@ -427,7 +481,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 188107,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/0M2gaIN2tYkcaf8Kay1gH6"
@@ -457,6 +511,28 @@
       "duration_ms": 274040,
       "name": "Homage (with Bounty Killer & Beenie Man)",
       "url": "https://open.spotify.com/track/45kfR9khOdrErDdLl6BTet"
+    },
+    {
+      "album": {
+        "name": "Hot Gyal",
+        "url": "https://open.spotify.com/album/7wT3U8zjHKeLYK242rzk8o"
+      },
+      "artists": [
+        {
+          "name": "Dee Master",
+          "url": "https://open.spotify.com/artist/1Y49UEtniknrGz3dLRqBYf"
+        },
+        {
+          "name": "La Toya Linger",
+          "url": "https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131287,
+      "name": "Hot Gyal",
+      "url": "https://open.spotify.com/track/2PyfVoA7yA9Mx1tTI10hIx"
     },
     {
       "album": {
@@ -803,7 +879,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 143168,
       "name": "Pon Di Beat",
       "url": "https://open.spotify.com/track/30Q6BTivJVln9DT3rzgXtV"

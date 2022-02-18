@@ -102,6 +102,28 @@
     },
     {
       "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5"
+      },
+      "artists": [
+        {
+          "name": "Rawan Bin Hussain",
+          "url": "https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ"
+        },
+        {
+          "name": "Daffy",
+          "url": "https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186858,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g"
+    },
+    {
+      "album": {
         "name": "Ana Wiyak",
         "url": "https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6"
       },
@@ -1095,7 +1117,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 240047,
       "name": "Ser Lekdim",
       "url": "https://open.spotify.com/track/43lrk3f9bdnH5E92YPoQpT"
@@ -1341,7 +1363,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 195692,
       "name": "Ya Zina",
       "url": "https://open.spotify.com/track/3iN353HpREOoT6DMAepelv"
@@ -1429,6 +1451,24 @@
       "duration_ms": 239253,
       "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0646\u0627\u0645\u064a",
+        "url": "https://open.spotify.com/album/3Jol7FGrreOlSXzQp7sFo3"
+      },
+      "artists": [
+        {
+          "name": "othmanouilki",
+          "url": "https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196842,
+      "name": "\u0645\u0646\u0627\u0645\u064a",
+      "url": "https://open.spotify.com/track/021nYBkotM08srtM5wfXKo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr"

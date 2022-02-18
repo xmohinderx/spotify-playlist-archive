@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Joel Corry",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: ESSEL",
   "name": "UK House Music",
   "published_playlist_ids": [
     "40Y5kerBfiqY44aZeglX8x"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+    },
     {
       "album": {
         "name": "Home",
@@ -151,7 +173,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 158709,
       "name": "BAD - Amy Lauren Remix",
       "url": "https://open.spotify.com/track/1Jrd0ffxv2h8orDkw671pb"
@@ -311,7 +333,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 210704,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3PkiB253ErJjaAfsiDm7Kk"
@@ -329,7 +351,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 200930,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/6htMsGNmVTAuo17L6qnrsn"
@@ -369,7 +391,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 482109,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1hLwiZ6lfbPIrxHXrcpWJC"
@@ -387,7 +409,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 216500,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/5Pr1Z1a54h4u1takGhdAYA"
@@ -686,6 +708,24 @@
     },
     {
       "album": {
+        "name": "FLASHBANG",
+        "url": "https://open.spotify.com/album/515ceCQqo2wUsMtym2LokC"
+      },
+      "artists": [
+        {
+          "name": "Big Miz",
+          "url": "https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354461,
+      "name": "Flashbang",
+      "url": "https://open.spotify.com/track/6gAsn8MZK8rQjrfLAkKS6d"
+    },
+    {
+      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/1nlXbXvDt7p0yDRT8m6bmI"
       },
@@ -751,7 +791,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 234193,
       "name": "Gift of Life",
       "url": "https://open.spotify.com/track/7hYvu99xJfuoxIHkNmFrXu"
@@ -773,6 +813,24 @@
       "duration_ms": 233194,
       "name": "Girls Who Like Boys",
       "url": "https://open.spotify.com/track/1AB1osCyLLCGVHpQSTfrkE"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/27P7sXxqMPDsX9fypwvIg3"
+      },
+      "artists": [
+        {
+          "name": "Sammy Porter",
+          "url": "https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5K66K3wXY7HRr6ikjsnChl"
     },
     {
       "album": {
@@ -845,7 +903,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 196796,
       "name": "Hannah (The Sun)",
       "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
@@ -892,6 +950,28 @@
     },
     {
       "album": {
+        "name": "How We Do",
+        "url": "https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO"
+    },
+    {
+      "album": {
         "name": "I'll Take You Down (feat. Chilli Chilton)",
         "url": "https://open.spotify.com/album/7m6oQe2bnSzyY1RikqrSgn"
       },
@@ -925,7 +1005,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 255000,
       "name": "Icaro",
       "url": "https://open.spotify.com/track/2TEPMRBEN4rQQ3pjbQhX2i"
@@ -1106,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Last All Night",
+        "url": "https://open.spotify.com/album/622SMJPYsk5LiMxckqN1dE"
+      },
+      "artists": [
+        {
+          "name": "Meg Ward",
+          "url": "https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Last All Night",
+      "url": "https://open.spotify.com/track/7JRnlLPASSHnwz9ntzvqfC"
+    },
+    {
+      "album": {
         "name": "Last Thought (feat. MKLA) [Jodie Harsh Remix]",
         "url": "https://open.spotify.com/album/3RUU7Meco8O6lg0Q2bGK0R"
       },
@@ -1129,7 +1227,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 177250,
       "name": "Last Thought (feat. MKLA) - Jodie Harsh Remix",
       "url": "https://open.spotify.com/track/6BEoZqhw19Zo684zAd9jVT"
@@ -1297,7 +1395,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 180487,
       "name": "Love Vibration",
       "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
@@ -1493,7 +1591,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 197661,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5e81fxQBpGAutsfrfUp9Dm"
@@ -1768,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Riser",
+        "url": "https://open.spotify.com/album/2Fph6wTWraY6XkhX3IZtrk"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202023,
+      "name": "Riser",
+      "url": "https://open.spotify.com/track/73Szmmh8dQduG1jPY12zK8"
+    },
+    {
+      "album": {
         "name": "Roskill",
         "url": "https://open.spotify.com/album/3Mj7BTnNRpcRQwUM0u1ugc"
       },
@@ -2022,6 +2138,24 @@
     },
     {
       "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6R6zaKrh1Wg1GvO1kK1mLf"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/4LW9Va0bKfmHTruw5WoSsM"
+    },
+    {
+      "album": {
         "name": "The Lover That You Are",
         "url": "https://open.spotify.com/album/41oac0G3a2oqthosHQ3U1o"
       },
@@ -2125,6 +2259,28 @@
       "duration_ms": 167906,
       "name": "Tricky (feat. Autumn Rowe)",
       "url": "https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e"
+    },
+    {
+      "album": {
+        "name": "Another Chemical Love Story 2: The Symposium",
+        "url": "https://open.spotify.com/album/4hDozEeCuHgr5UDBj1yj3B"
+      },
+      "artists": [
+        {
+          "name": "Another Chemical Love Story",
+          "url": "https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv"
+        },
+        {
+          "name": "Elliot Adamson",
+          "url": "https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250386,
+      "name": "Trust In Me",
+      "url": "https://open.spotify.com/track/7iUMSIBqVymAjrLFlGpFcv"
     },
     {
       "album": {
@@ -2259,7 +2415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 215500,
       "name": "What We Do - Radio Edit",
       "url": "https://open.spotify.com/track/5pT4oCTVYmkOHM39MSGF2O"

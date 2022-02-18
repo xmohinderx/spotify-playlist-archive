@@ -55,10 +55,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 205000,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/246PWkuEwTNahzwBXyvrsr"
+    },
+    {
+      "album": {
+        "name": "Altalena",
+        "url": "https://open.spotify.com/album/58V5BR40Ktw5Uf5gkbOqOH"
+      },
+      "artists": [
+        {
+          "name": "Raniss",
+          "url": "https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Altalena",
+      "url": "https://open.spotify.com/track/422r2gdGylUH9kwI1LABo9"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 182049,
       "name": "another world",
       "url": "https://open.spotify.com/track/5RJmPkvq07YJ5CG6fJKSXu"
@@ -422,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/72K42nE0kyavHMBPQucnja"
+      },
+      "artists": [
+        {
+          "name": "The Post War",
+          "url": "https://open.spotify.com/artist/4ofDiFRQz0rN8FPm6T0ozM"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264876,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/59YHz0UuB86WYag5533ay8"
+    },
+    {
+      "album": {
         "name": "fleabag",
         "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
@@ -545,6 +581,24 @@
       "duration_ms": 211322,
       "name": "Half Life",
       "url": "https://open.spotify.com/track/5vxZA2MnwNUqnPTfCFcmeZ"
+    },
+    {
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/5VhJpyxeRFGxh2U9P76M3H"
+      },
+      "artists": [
+        {
+          "name": "Sun Puddle",
+          "url": "https://open.spotify.com/artist/0RhDTDJ61XsfQPnYqQcPxj"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157396,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/3T1oZe5cwqNBWjqZZqlGhv"
     },
     {
       "album": {
@@ -757,7 +811,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 197875,
       "name": "Mid Life Crisis",
       "url": "https://open.spotify.com/track/4dl3miUk9mZQQPFvBJgqvd"
@@ -815,6 +869,24 @@
       "duration_ms": 244999,
       "name": "Other Eye",
       "url": "https://open.spotify.com/track/3L6354jieQZTOGqMy20Mu1"
+    },
+    {
+      "album": {
+        "name": "Other Way Out",
+        "url": "https://open.spotify.com/album/07o6ZGjuJtjpsgy9DOS7if"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/4Ib08aHTnGt7f4BOwk3LCU"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200794,
+      "name": "Other Way Out",
+      "url": "https://open.spotify.com/track/0F21zezaMdTwSIHgHitZg1"
     },
     {
       "album": {
@@ -1081,7 +1153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,289 likes - 57 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,353 likes - 57 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 56 | [Blacky's Blues](https://open.spotify.com/track/4ZXCbE917ThaC9AFCwHOFM) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Lou Lecaudey](https://open.spotify.com/artist/5hUdNFtVf3ZHuSM1WBwag1) | [Blacky's Blues](https://open.spotify.com/album/5juq6SPJFoyBSwFZ2ajz7x) | 6:15 |
 | 57 | [Renaissance](https://open.spotify.com/track/4NqCSvS7Pj0uIaYIbl9xH4) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7), [Amine M'Raihi](https://open.spotify.com/artist/5Wqr5RO1sBFvG11Cmyhmsf), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Zacharie Ksyk](https://open.spotify.com/artist/0EMYpT7zqnEaoB1838AFuI), [Andrew Audiger](https://open.spotify.com/artist/47CvZyBIDcuRZJLVw5m3kB), [Virgile Rosselet](https://open.spotify.com/artist/6aWaB1VrlnFln4ZGy5OBir), [Nathan Vandenbulcke](https://open.spotify.com/artist/22Ng3xcFT2TAugPfDQkofW) | [Renaissance \(Radio Edit\)](https://open.spotify.com/album/5d8D5Cn7N4BdjjAVBSrKR9) | 6:34 |
 
-Snapshot ID: `MTY0NDU1NTcyMCwwMDAwMDNlODAwMDAwMTdlZTcyOGQ1YjYwMDAwMDE3ZWRhOGRlMDEw`
+Snapshot ID: `MTY0NTEzMTQ3OCwwMDAwMDNlOTAwMDAwMTdmMDk3YTM0ZDYwMDAwMDE3ZWRhOGRlMDEw`

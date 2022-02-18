@@ -2,7 +2,7 @@
 
 ### [ Fresh Finds AU & NZ](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
-> Discover something new from local independent artists on the rise\. Cover: Elsy Wemayo\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: Elsy Wameyo\. Artwork: Isu Kim
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

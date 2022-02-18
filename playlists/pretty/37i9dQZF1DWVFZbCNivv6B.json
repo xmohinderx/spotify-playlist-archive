@@ -1,13 +1,33 @@
 {
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de La Santa Grifa.",
-  "num_followers": 509628,
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Snow Tha Product y Gera MX.",
+  "num_followers": 510161,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU1OTIwMCwwMDAwMDQ2MjAwMDAwMTdlZTc1ZGVmN2UwMDAwMDE3ZWRiMDJkZDI0",
+  "snapshot_id": "MTY0NTEyNDQwMCwwMDAwMDQ2MzAwMDAwMTdmMDkwZTMzZDkwMDAwMDE3ZWZhN2ZiNGVi",
   "tracks": [
+    {
+      "added_at": "2022-02-17 19:00:00",
+      "album": {
+        "name": "Wassap",
+        "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 165482,
+      "name": "Wassap",
+      "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
+    },
     {
       "added_at": "2022-02-04 06:00:00",
       "album": {

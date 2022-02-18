@@ -416,6 +416,24 @@
     },
     {
       "album": {
+        "name": "Astahlik",
+        "url": "https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Burhan",
+          "url": "https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Astahlik",
+      "url": "https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq"
+    },
+    {
+      "album": {
         "name": "Ayami",
         "url": "https://open.spotify.com/album/60yMGQG6qHN2S3omKeBsSF"
       },
@@ -542,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Daqeqa w 3am",
+        "url": "https://open.spotify.com/album/0Y545sQM8fPudYGBAzlmuj"
+      },
+      "artists": [
+        {
+          "name": "Humam Ibrahim",
+          "url": "https://open.spotify.com/artist/5G8jeOHN04AHRt5Ln3kbX4"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194759,
+      "name": "Daqeqa w 3am",
+      "url": "https://open.spotify.com/track/1XTbPVrq3N4xmviSRKLr1P"
+    },
+    {
+      "album": {
         "name": "Eii Enta",
         "url": "https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO"
       },
@@ -651,7 +687,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 213846,
       "name": "Enta Gheir",
       "url": "https://open.spotify.com/track/54FelQ6xi1QjP3PcsKB8Eb"
@@ -727,7 +763,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 175375,
       "name": "Fouq Elhad",
       "url": "https://open.spotify.com/track/0y5G2hTZujYnVyaiTCj0Fl"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 409466,
       "name": "(I Wanna Give You) Devotion - Original Club Mix",
       "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 246960,
       "name": "Don't Go (Remix) [2008 - Remaster]",
       "url": "https://open.spotify.com/track/5lRik7QOEX2Fda2ZOEzZmP"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 441200,
       "name": "Everything Counts (In Larger Amounts)",
       "url": "https://open.spotify.com/track/1HsP7cSDdA02sIxKCOJ4zG"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 435213,
       "name": "Gold - 12\" Mix",
       "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 370386,
       "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
       "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 369266,
       "name": "Hypnotic Tango - Original 12\" Version",
       "url": "https://open.spotify.com/track/22Nr8FO0EFLbMSCpBoYBl6"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 341893,
       "name": "I Can't Stand the Rain - Extended 12\" Remix; 2015 Remaster",
       "url": "https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 495186,
       "name": "I Feel Love - 12\" Version",
       "url": "https://open.spotify.com/track/2d6qTH3HKGwn75lpRtaEA1"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 479160,
       "name": "I'm Not Scared - Disco Mix",
       "url": "https://open.spotify.com/track/2oFfNhQSR912YuzeGn24GQ"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 384626,
       "name": "Jump (For My Love) - 12\" Long Version",
       "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 471240,
       "name": "Lessons In Love - Shep Pettibone Remix",
       "url": "https://open.spotify.com/track/33nqNlihX3zb9RUk20b06f"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 472899,
       "name": "Like a Prayer - 12\" Dance Mix",
       "url": "https://open.spotify.com/track/3KqZm6zInkBONIaiLEfqXL"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 488146,
       "name": "Loverboy - Extended Mix",
       "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
@@ -1376,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "The Art Of The 12\" - A Celebration Of The Extended Remix",
+        "url": "https://open.spotify.com/album/5i5O1oCtPOK1u1vdeZdc7n"
+      },
+      "artists": [
+        {
+          "name": "The Art Of Noise",
+          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409026,
+      "name": "Moments In Love (Beaten) - Beaten mix",
+      "url": "https://open.spotify.com/track/0yKcfwautQ43HqdjlRQof6"
+    },
+    {
+      "album": {
         "name": "Extended Dancefloor",
         "url": "https://open.spotify.com/album/5ClYDP3cMxc3Li2OG8mYnJ"
       },
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 296160,
       "name": "Never Let Me Down Again - Aggro Mix",
       "url": "https://open.spotify.com/track/0s7024HpwRg7dJjGy2gE3P"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 389066,
       "name": "Pump Up The Volume (UK 12\" Remix)",
       "url": "https://open.spotify.com/track/3CqQIRZng2MVh3k1H2jHHN"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 346626,
       "name": "Situation (US 12 Inch Mix)",
       "url": "https://open.spotify.com/track/3Ac5PgwByH0Ptr3hnqbKAz"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 395040,
       "name": "Some Like It Hot - Mix; 12\"",
       "url": "https://open.spotify.com/track/3bXO5UP3l9jX8q3aK6dAru"
@@ -1997,7 +2015,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 421026,
       "name": "Such a Shame - Extended Mix; 2003 Remaster",
       "url": "https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 397533,
       "name": "Sunshine Reggae - 12\" Version",
       "url": "https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 486840,
       "name": "Take Me Home - Extended Remix",
       "url": "https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 501333,
       "name": "Vogue - 12\" Version",
       "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 543506,
       "name": "West End Girls - Disco Mix",
       "url": "https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 481013,
       "name": "You Spin Me Round (Like a Record) - Murder Mix",
       "url": "https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc"

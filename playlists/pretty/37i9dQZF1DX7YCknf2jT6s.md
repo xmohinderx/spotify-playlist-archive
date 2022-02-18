@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: GoGo Penguin
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,915 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,050 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 49 | [Hangin' in and Jivin' \- Tomoki Sanders Remix](https://open.spotify.com/track/5OkI00fVvWixsqkjrqjpnp) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tomoki Sanders](https://open.spotify.com/artist/3pX3ft5SzH5EHRoULEcIk4) | [Hangin' in and Jivin' \(Tomoki Sanders Remix\)](https://open.spotify.com/album/77KnoianF1EuQ3Q25h9mxK) | 3:29 |
 | 50 | [The Chant](https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Irvin Pierce](https://open.spotify.com/artist/14NF1jyQ0dY6HLrb9r7hSi), [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [The Chant](https://open.spotify.com/album/6pdfgUTHW2zhJHNEPjEVtj) | 4:26 |
 
-Snapshot ID: `MTY0NDUzNDAwMCwwMDAwMDFiMzAwMDAwMTdlZTVkZDZhODQwMDAwMDE3ZWRmMTVjNzBk`
+Snapshot ID: `MTY0NTEzMjIzMCwwMDAwMDFiNjAwMDAwMTdmMDk4NWIwMDAwMDAwMDE3ZWRmMTVjNzBk`

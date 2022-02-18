@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Black Lança e os funks mais 🔑 do Brasil\. Foto: Mc Teteu, Dj Serpinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,482,194 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483,427 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

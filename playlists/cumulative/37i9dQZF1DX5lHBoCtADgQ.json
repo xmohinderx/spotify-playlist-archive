@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Chitta Kukkar Banere Te",
+        "url": "https://open.spotify.com/album/4KukOvvjn97SVqHVMEZIDn"
+      },
+      "artists": [
+        {
+          "name": "Samarjeet Randhava",
+          "url": "https://open.spotify.com/artist/0CQ4IAP1aTbl4CsanNOZ57"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223258,
+      "name": "Chitta Kukkar Banere Te",
+      "url": "https://open.spotify.com/track/2MvLEcJ6nvnhoMhTYwdHJd"
+    },
+    {
+      "album": {
         "name": "Daana Paani (From \"Daana Paani\" Soundtrack)",
         "url": "https://open.spotify.com/album/73oPRBDmqdR1SWaFWd8WzO"
       },

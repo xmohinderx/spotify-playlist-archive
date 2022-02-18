@@ -134,6 +134,28 @@
     },
     {
       "album": {
+        "name": "BIZARRE",
+        "url": "https://open.spotify.com/album/65Usg4LljKNGmUiohPoJhL"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Hattab",
+          "url": "https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3"
+        },
+        {
+          "name": "Imane Batma",
+          "url": "https://open.spotify.com/artist/7IbIXdhtRlVPKiyIdOStgP"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191277,
+      "name": "BIZARRE",
+      "url": "https://open.spotify.com/track/1G8U48aUerp6MJ3GpdH2VP"
+    },
+    {
+      "album": {
         "name": "Ensanein",
         "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
       },
@@ -149,6 +171,24 @@
       "duration_ms": 179428,
       "name": "Bla'i Hali",
       "url": "https://open.spotify.com/track/33TYziNjMe6yNuV2tgkmq8"
+    },
+    {
+      "album": {
+        "name": "Btehlawi",
+        "url": "https://open.spotify.com/album/6RMeF8BJpHflkaQkgrgSvH"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238419,
+      "name": "Btehlawi",
+      "url": "https://open.spotify.com/track/66UCyK1oHFYh5ZPWQ4HDM8"
     },
     {
       "album": {
@@ -677,7 +717,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 181347,
       "name": "Mn Gheirik Enti",
       "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
@@ -771,7 +811,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 178171,
       "name": "Qendil",
       "url": "https://open.spotify.com/track/41xnwQ7jV43F3r0hGz32W8"
@@ -865,7 +905,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 214316,
       "name": "Setta Sabahan",
       "url": "https://open.spotify.com/track/0zSPZ1QQFL6jvsCSqBiIJz"
@@ -966,6 +1006,28 @@
     },
     {
       "album": {
+        "name": "Wahda Fada'ya",
+        "url": "https://open.spotify.com/album/1Vdrh8MWfQxgq1gistq2PR"
+      },
+      "artists": [
+        {
+          "name": "Galaleo",
+          "url": "https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY"
+        },
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Wahda Fada'ya",
+      "url": "https://open.spotify.com/track/5zMYGqq1UgoyyyevlTz1BD"
+    },
+    {
+      "album": {
         "name": "Wein Rayheen",
         "url": "https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq"
       },
@@ -1017,7 +1079,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 171680,
       "name": "Yay",
       "url": "https://open.spotify.com/track/5E7b7E6SQDuCHqs35YsZGi"
@@ -1039,6 +1101,24 @@
       "duration_ms": 241381,
       "name": "\u0631\u062c\u0639\u0646\u0627 \u0627\u0644\u062a\u0642\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8"
+    },
+    {
+      "album": {
+        "name": "\u0632\u064a \u0632\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY"
+      },
+      "artists": [
+        {
+          "name": "DaMoJaNad",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234242,
+      "name": "\u0632\u064a \u0632\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3"
     },
     {
       "album": {

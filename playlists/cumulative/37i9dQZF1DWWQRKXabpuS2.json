@@ -322,6 +322,42 @@
     },
     {
       "album": {
+        "name": "Elhubb Ja",
+        "url": "https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e"
+      },
+      "artists": [
+        {
+          "name": "Salah Alzadjali",
+          "url": "https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "Elhubb Ja",
+      "url": "https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh"
+    },
+    {
+      "album": {
+        "name": "Enty A3yadi",
+        "url": "https://open.spotify.com/album/7aoPdzhkfqVQRceYvvxV9S"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188114,
+      "name": "Enty A3yadi",
+      "url": "https://open.spotify.com/track/7HoiSL5qcW8SI58bEDT38w"
+    },
+    {
+      "album": {
         "name": "Fadeha Denyay",
         "url": "https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy"
       },
@@ -351,7 +387,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 263715,
       "name": "Fattak",
       "url": "https://open.spotify.com/track/1enP6Ed10meQlHsbOF7qob"
@@ -467,10 +503,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 203314,
       "name": "Hatha Wagtah",
       "url": "https://open.spotify.com/track/4Eqz3io18FtQNfdGnsDyS7"
+    },
+    {
+      "album": {
+        "name": "Heb",
+        "url": "https://open.spotify.com/album/3v854wIhjld4VPwh1G5nvB"
+      },
+      "artists": [
+        {
+          "name": "Ismail Mubarak",
+          "url": "https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "Heb",
+      "url": "https://open.spotify.com/track/53Xns0CpcycCnu1emVMUjI"
     },
     {
       "album": {
@@ -633,6 +687,24 @@
       "duration_ms": 253676,
       "name": "Kheira",
       "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"
+    },
+    {
+      "album": {
+        "name": "Kolli We Ehsasi",
+        "url": "https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F"
+      },
+      "artists": [
+        {
+          "name": "Rulan",
+          "url": "https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397862,
+      "name": "Kolli We Ehsasi",
+      "url": "https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu"
     },
     {
       "album": {
@@ -1146,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Ya Hazzah",
+        "url": "https://open.spotify.com/album/0ZImrERkWcbMs5F1G96DJA"
+      },
+      "artists": [
+        {
+          "name": "Hamad Alameri",
+          "url": "https://open.spotify.com/artist/7jAccRfAodnAyF3D9kQ4lo"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272250,
+      "name": "Ya Hazzah",
+      "url": "https://open.spotify.com/track/4tV8tnkKmJCrwcahK0wmPw"
+    },
+    {
+      "album": {
         "name": "Ya Hob",
         "url": "https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h"
       },
@@ -1211,7 +1301,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 129479,
       "name": "\u0627\u062d\u0628\u0643",
       "url": "https://open.spotify.com/track/1SYcs6NIEOl4iGanRHK7Pg"
@@ -1341,7 +1431,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 167677,
       "name": "\u0648\u0630\u0627 \u0645\u0627\u0631\u062d\u062a",
       "url": "https://open.spotify.com/track/0yBbI752cyXl1lioeMrn1v"
@@ -1385,7 +1475,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 274203,
       "name": "\u064a\u0627 \u0645\u062a\u064a\u0645",
       "url": "https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz"

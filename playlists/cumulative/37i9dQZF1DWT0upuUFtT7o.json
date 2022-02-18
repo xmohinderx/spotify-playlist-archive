@@ -1532,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "Guitar + Peaches",
+        "url": "https://open.spotify.com/album/4xX4Jzgy8pn5nMvmRhtrb0"
+      },
+      "artists": [
+        {
+          "name": "kelz",
+          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282046,
+      "name": "Guitar + Peaches",
+      "url": "https://open.spotify.com/track/7Gf34sNXEfFxdkg4mgI8Fm"
+    },
+    {
+      "album": {
         "name": "GUM",
         "url": "https://open.spotify.com/album/6k71hERXkElU1ToOmUqntU"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 685790,
+  "num_followers": 686248,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTA1ODY5NiwwMDAwMDAwMGNjNDYwZGI2OGFkMWJiNmFmNzc2YWE1NDA5NmQxZGFl",
+  "snapshot_id": "MTY0NTE0NTUzNSwwMDAwMDAwMDA3ZTc5ZTg0Nzk3NWIyZGFlYWRhOTNlYzYxY2M2ZThk",
   "tracks": [
     {
       "added_at": "2022-01-28 00:57:03",
@@ -159,18 +159,26 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Same Girl",
-        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
+        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
       },
       "artists": [
         {
-          "name": "Tess Henley",
-          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 182751,
-      "name": "Same Girl",
-      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
+      "duration_ms": 299366,
+      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -211,22 +219,38 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
-        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
+        "name": "Take Me Away (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
       },
       "artists": [
         {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 205453,
-      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
-      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
+      "duration_ms": 172493,
+      "name": "Take Me Away (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Never My Love: The Anthology",
+        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 204055,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -243,30 +267,6 @@
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
-        "name": "People Get Ready (From \"I Can't Breathe / Music For the Movement\")",
-        "url": "https://open.spotify.com/album/0MmKsaUxCz8XZrwKoLSFDG"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 214548,
-      "name": "People Get Ready - From \"I Can't Breathe / Music For the Movement\"",
-      "url": "https://open.spotify.com/track/3LERAXOWvNVreOnYySWU7U"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -339,22 +339,22 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Take Me Away (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
+        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
+        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 172493,
-      "name": "Take Me Away (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
+      "duration_ms": 205453,
+      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -375,58 +375,58 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Never My Love: The Anthology",
-        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+        "name": "People Get Ready (From \"I Can't Breathe / Music For the Movement\")",
+        "url": "https://open.spotify.com/album/0MmKsaUxCz8XZrwKoLSFDG"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 204055,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
-        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
-      },
-      "artists": [
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
         {
           "name": "Robert Glasper",
           "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 299366,
-      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+      "duration_ms": 214548,
+      "name": "People Get Ready - From \"I Can't Breathe / Music For the Movement\"",
+      "url": "https://open.spotify.com/track/3LERAXOWvNVreOnYySWU7U"
     },
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "summer night o8",
-        "url": "https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw"
+        "name": "Same Girl",
+        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
         }
       ],
-      "duration_ms": 203158,
-      "name": "summer night o8",
-      "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -463,34 +463,34 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz"
+        "name": "summer night o8",
+        "url": "https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw"
       },
       "artists": [
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
         }
       ],
-      "duration_ms": 191482,
-      "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q"
+      "duration_ms": 203158,
+      "name": "summer night o8",
+      "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
     },
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+      "duration_ms": 280760,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
         "name": "Anything For You",
         "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
       },
@@ -547,34 +531,34 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+        "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+      "duration_ms": 191482,
+      "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q"
     },
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
+        "name": "DON'T PLAY WITH MY HEART",
+        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
       },
       "artists": [
         {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
         }
       ],
-      "duration_ms": 185198,
-      "name": "Bitch Don't Be Mad",
-      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
+      "duration_ms": 219351,
+      "name": "DON'T PLAY WITH MY HEART",
+      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -599,18 +583,102 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "One Night In Miami... (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF"
+        "name": "then, now & again",
+        "url": "https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta"
       },
       "artists": [
         {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
         }
       ],
-      "duration_ms": 181760,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6"
+      "duration_ms": 252786,
+      "name": "Break Me",
+      "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
+        }
+      ],
+      "duration_ms": 255109,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Every Word (feat. Krysten Simone)",
+        "url": "https://open.spotify.com/album/7yk8zzo9gYc0GvfAENJsOc"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Krysten Simone",
+          "url": "https://open.spotify.com/artist/0hn6MIbOu7wcJcTpLD5KfQ"
+        }
+      ],
+      "duration_ms": 167790,
+      "name": "Every Word (feat. Krysten Simone)",
+      "url": "https://open.spotify.com/track/5NyONMWLkVKu8Mcgjn20aq"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Breakfast - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3dE3ZGLl0XaYuGBibxSYbh"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 192854,
+      "name": "Breakfast - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -627,22 +695,6 @@
       "duration_ms": 242921,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
-        "name": "The Best Things",
-        "url": "https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t"
-      },
-      "artists": [
-        {
-          "name": "Kindred The Family Soul",
-          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "The Best Things",
-      "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -667,38 +719,6 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
-        "name": "then, now & again",
-        "url": "https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Break Me",
-      "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
         "name": "Slow Down (Acoustic)",
         "url": "https://open.spotify.com/album/6oucPVEBijDE1a4Ef2vEU4"
       },
@@ -719,82 +739,34 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "a tree planted by water",
-        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
       },
       "artists": [
         {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
         }
       ],
-      "duration_ms": 189185,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K"
+      "duration_ms": 185198,
+      "name": "Bitch Don't Be Mad",
+      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
     },
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
+        "name": "One Night In Miami... (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF"
       },
       "artists": [
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         }
       ],
-      "duration_ms": 215852,
-      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
-        "name": "Brown Angel",
-        "url": "https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG"
-      },
-      "artists": [
-        {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Brown Angel",
-      "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
-        "name": "Baby Powder",
-        "url": "https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 180435,
-      "name": "Baby Powder",
-      "url": "https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH"
-    },
-    {
-      "added_at": "2022-01-28 00:57:03",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
-      },
-      "artists": [
-        {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
-        }
-      ],
-      "duration_ms": 255109,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
+      "duration_ms": 181760,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6"
     },
     {
       "added_at": "2022-01-28 00:57:03",
@@ -815,34 +787,70 @@
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "Breakfast - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3dE3ZGLl0XaYuGBibxSYbh"
+        "name": "Baby Powder",
+        "url": "https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 192854,
-      "name": "Breakfast - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m"
+      "duration_ms": 180435,
+      "name": "Baby Powder",
+      "url": "https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH"
     },
     {
       "added_at": "2022-01-28 00:57:03",
       "album": {
-        "name": "DON'T PLAY WITH MY HEART",
-        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
+        "name": "Make the Most (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/00hw6ckfLMdkkHyCOwit3g"
       },
       "artists": [
         {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 219351,
-      "name": "DON'T PLAY WITH MY HEART",
-      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
+      "duration_ms": 213851,
+      "name": "Make the Most (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5NWgHc5T5HlG0Nz9FgmZT1"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Don't You Forget",
+        "url": "https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx"
+      },
+      "artists": [
+        {
+          "name": "Louis York",
+          "url": "https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Don't You Forget",
+      "url": "https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt"
+    },
+    {
+      "added_at": "2022-01-28 00:57:03",
+      "album": {
+        "name": "Brown Angel",
+        "url": "https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG"
+      },
+      "artists": [
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Brown Angel",
+      "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
     },
     {
       "added_at": "2022-01-28 00:57:03",

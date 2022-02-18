@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 花澤香菜
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,116 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,142 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 71 | [嘘だらけ](https://open.spotify.com/track/4otMTZ5LOiUKNVvNMNmh5S) | [久保あおい](https://open.spotify.com/artist/6tQv9pBC2QYU5InvkNoN0k) | [嘘だらけ](https://open.spotify.com/album/6fq4xshB6ZJjwbdRAuos9b) | 2:51 |
 | 72 | [花冷列車](https://open.spotify.com/track/5uYMEDfnSCe3wQXaiZTyVC) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [花冷列車](https://open.spotify.com/album/3w7T4FyK8MOgQRoXlKDBep) | 3:43 |
 | 73 | [憧憬の翼](https://open.spotify.com/track/67ZF6AHVB9mFuh3c87nGYi) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [憧憬の翼](https://open.spotify.com/album/4lNSpjZcxJjWMEh7V09hLA) | 4:29 |
-| 74 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 |
+| 74 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 |
 | 75 | [Smile Again](https://open.spotify.com/track/5hQ9qkjMiKLhN4zJ7CKoiO) | [Nagie Lane](https://open.spotify.com/artist/1NSPGP2G2k6pZFFZERvOwC) | [アマクテ、ニガイ](https://open.spotify.com/album/6cg1om7NhOdymaGUPuxxBM) | 3:02 |
 | 76 | [オレンジ](https://open.spotify.com/track/2ufHXDbQkaHJW5cHtJ8i0h) | [ICARUS](https://open.spotify.com/artist/7iuKPgLthA5NUCXDkRA47W), [ryutaro murata](https://open.spotify.com/artist/1lcNXf4brJDePeFqJ0CJa7) | [オレンジ](https://open.spotify.com/album/6pn5WiJRr2qqiWZ9Slyeuh) | 3:08 |
 | 77 | [ふらふら](https://open.spotify.com/track/0oTkCxdu7FGmc00WbnGofM) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [ふらふら](https://open.spotify.com/album/3Or1rjZO4SfB7kpxUDBif2) | 3:42 |

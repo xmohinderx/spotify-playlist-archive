@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2044113,
+  "num_followers": 2044024,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTEzMjIsOTU5Y2IyMzgyOGYwZGZiMDRjOTVkODEzMWM4ZWE5OTNhZDUyMDhkNw==",
+  "snapshot_id": "MTEzMjcsODc2OGQwYmY4MzA1NjVkNTdjYmMxZmNmNTEyOTg0Y2U1M2YxMmRkYw==",
   "tracks": [
     {
       "added_at": "2022-02-10 16:27:44",
@@ -175,6 +175,26 @@
       "duration_ms": 146206,
       "name": "Can't Have U",
       "url": "https://open.spotify.com/track/242x5qU3IyC275YDC7iGGz"
+    },
+    {
+      "added_at": "2022-02-17 06:49:19",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/5UWvLY4Ty8d4f8wIdHIbwY"
+      },
+      "artists": [
+        {
+          "name": "ZEVY",
+          "url": "https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 170154,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/1DHW6t77tM8E87iR761mPk"
     },
     {
       "added_at": "2022-02-10 16:27:44",
@@ -2415,6 +2435,66 @@
       "duration_ms": 186000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3"
+    },
+    {
+      "added_at": "2022-02-18 00:40:37",
+      "album": {
+        "name": "We Know Who We Are",
+        "url": "https://open.spotify.com/album/7IMv5rFMZMddNSbrmT9qlU"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
+        }
+      ],
+      "duration_ms": 247122,
+      "name": "We Know Who We Are",
+      "url": "https://open.spotify.com/track/0XRsIbKGrud2SKm7OO5MoS"
+    },
+    {
+      "added_at": "2022-02-18 00:41:02",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/10kB96jZFNTFoQga11csC0"
+    },
+    {
+      "added_at": "2022-02-18 00:41:25",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        }
+      ],
+      "duration_ms": 222611,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1GHu55MRD4NyMhVDpaLADT"
     }
   ],
   "unique_name": "Trap Nation",

@@ -2907,7 +2907,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 207613,
       "name": "Some Nights",
       "url": "https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp"
@@ -3393,6 +3393,24 @@
       "duration_ms": 189986,
       "name": "water color",
       "url": "https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w"
+    },
+    {
+      "album": {
+        "name": "EARTHBOUND",
+        "url": "https://open.spotify.com/album/5rdRFD0eRjjRFoHUfnwJh0"
+      },
+      "artists": [
+        {
+          "name": "\u7626\u5b50E.SO",
+          "url": "https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203437,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/3lHNwFYDhFVsbIXhQ1qnre"
     },
     {
       "album": {
@@ -4494,6 +4512,24 @@
     },
     {
       "album": {
+        "name": "EARTHBOUND",
+        "url": "https://open.spotify.com/album/3lHtaWlEUfb7unlRMyVx23"
+      },
+      "artists": [
+        {
+          "name": "\u7626\u5b50E.SO",
+          "url": "https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171388,
+      "name": "\u59b9\u59b9",
+      "url": "https://open.spotify.com/track/3HLALO7VlxrTcWWQaAs6Ae"
+    },
+    {
+      "album": {
         "name": "\u59b9\u59b9 Mei Mei",
         "url": "https://open.spotify.com/album/6dvJUaTLVKGsVXT1DDTGz4"
       },
@@ -4505,7 +4541,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 171413,
       "name": "\u59b9\u59b9",
       "url": "https://open.spotify.com/track/0aue1Pz7kyJ1vLRlaCMxTx"
@@ -5033,10 +5069,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 233066,
       "name": "\u6211\u7684\u766e",
       "url": "https://open.spotify.com/track/4YwM25LCXJserRoG8HYkuw"
+    },
+    {
+      "album": {
+        "name": "EARTHBOUND",
+        "url": "https://open.spotify.com/album/3lHtaWlEUfb7unlRMyVx23"
+      },
+      "artists": [
+        {
+          "name": "\u7626\u5b50E.SO",
+          "url": "https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233225,
+      "name": "\u6211\u7684\u766e",
+      "url": "https://open.spotify.com/track/7Lq0fecuz5c86UbxQvjEua"
     },
     {
       "album": {

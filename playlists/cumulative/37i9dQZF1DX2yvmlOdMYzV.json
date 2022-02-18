@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 121640,
       "name": "Bodies - Intro",
       "url": "https://open.spotify.com/track/2Itnx6zp6Ztkex5JnRcy3U"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 187030,
       "name": "colo(u)rs",
       "url": "https://open.spotify.com/track/7JVlElUz583S3EJIjeEYmR"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 245720,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Dawn Rise",
       "url": "https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 182552,
       "name": "dreaming",
       "url": "https://open.spotify.com/track/6mjCfixEcMad2k7OiMLhMJ"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 164642,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 206093,
       "name": "Hazel Chandeliers",
       "url": "https://open.spotify.com/track/0tzvbbYFoxZS3ggIaEa1Ob"
@@ -913,6 +913,24 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB"
+    },
+    {
+      "album": {
+        "name": "Hours Make Ours",
+        "url": "https://open.spotify.com/album/59Ctl8fCrvgd9ogAdIwH30"
+      },
+      "artists": [
+        {
+          "name": "Emmitt Dupree",
+          "url": "https://open.spotify.com/artist/79MziQbpN1acq1nd6ixrkd"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213877,
+      "name": "Hours Make Ours",
+      "url": "https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL"
     },
     {
       "album": {
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 232906,
       "name": "i only want you when i'm fucked up",
       "url": "https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 235161,
       "name": "Motion",
       "url": "https://open.spotify.com/track/5QDiaIPUAFXD22LJakFHfH"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 190909,
       "name": "Movement",
       "url": "https://open.spotify.com/track/4PkqYfR5Z1So9tWexu6uhz"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 205808,
       "name": "On One",
       "url": "https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 225926,
       "name": "Out of State",
       "url": "https://open.spotify.com/track/5vlqIraHhAtLNw0BQ3iwlV"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 112710,
       "name": "Pisonia Prologue",
       "url": "https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 203056,
       "name": "Poison",
       "url": "https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 231320,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq"
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 176026,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 227253,
       "name": "Too Much to Ask",
       "url": "https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 172240,
       "name": "Where U At?",
       "url": "https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs"

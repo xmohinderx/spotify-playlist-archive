@@ -238,6 +238,24 @@
     },
     {
       "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165546,
+      "name": "C Walk",
+      "url": "https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS"
+    },
+    {
+      "album": {
         "name": "Chandigarh",
         "url": "https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto"
       },

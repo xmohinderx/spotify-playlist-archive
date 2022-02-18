@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 ### [ Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: Elsy Wemayo\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: Elsy Wameyo\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,213 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,221 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [The Positive and the Negative](https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [The Positive and the Negative](https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g) | 4:47 |
 | 99 | [Pure Shores](https://open.spotify.com/track/44gRWW1BODLc8vbVssq34g) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Pure Shores](https://open.spotify.com/album/7jJYJc9SQ6oAKNPQQD48sE) | 2:45 |
 
-Snapshot ID: `MTY0NDk5MTgxNywwMDAwMDAyZjAwMDAwMTdmMDEyNzI1MzMwMDAwMDE3ZjAxMTMxNjJm`
+Snapshot ID: `MTY0NTA3NTA0NSwwMDAwMDAzMDAwMDAwMTdmMDYxZDFkMWMwMDAwMDE3ZjAxMTMxNjJm`

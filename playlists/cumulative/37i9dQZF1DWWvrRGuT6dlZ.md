@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
-> Unearthing your new favourite artists\. Cover: Paper Citizen\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: shazza\. Artwork: Isu Kim.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [gotta swim](https://open.spotify.com/track/7FKRSuXtdSvy62jjFzKYsb) | [Absence!](https://open.spotify.com/artist/1BjwVi1onfbbvL3DK3MIKB) | [gotta swim](https://open.spotify.com/album/4LtUV3xM0xHnH7tbOTImjh) | 4:11 | 2022-01-13 |  |
 | [Guilty](https://open.spotify.com/track/5a0721eNhawTeTrp5V91AK) | [ABBEY](https://open.spotify.com/artist/025iaeoX6uj3UKZbSG0LcR) | [Guilty](https://open.spotify.com/album/0BFcsokFBzCI4WBcUOoxC6) | 3:09 | 2021-12-01 | 2022-01-14 |
 | [hands to yourself](https://open.spotify.com/track/7DXEAhWuCuWo3ya6FBI5Jg) | [Jazzy](https://open.spotify.com/artist/2GycKV84bgjhaEtyRtqwJZ), [Alex Yen](https://open.spotify.com/artist/35gMLw7WSqX6NiBv6Rz5KN) | [hands to yourself](https://open.spotify.com/album/5TdnYH9K0ZyQUD4CagIVKb) | 3:11 | 2022-02-10 |  |
+| [Hard To Love](https://open.spotify.com/track/4mYU1lSo0jgIxzH8iofmM3) | [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf), [Airinna Namara](https://open.spotify.com/artist/144bztZE6ImAnYLiYuVdEU) | [Hard To Love](https://open.spotify.com/album/1WyOsHwTY8Jn6rGZ2PPetC) | 3:04 | 2022-02-17 |  |
 | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/track/2GkRcyxXrcK1N69fTvh41V) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un) | 3:08 | 2021-12-01 | 2022-01-14 |
 | [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 | 2022-02-10 |  |
 | [Hold Me](https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Hold Me](https://open.spotify.com/album/2F3wq0941ab4XPnfNapWTH) | 2:34 | 2021-12-01 | 2022-01-14 |
@@ -96,6 +97,8 @@
 | [Melancholic Weekends \(feat\. Nyali\)](https://open.spotify.com/track/5slyiqV73mAUmr9XTxT57W) | [DEON](https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN), [NyaLi](https://open.spotify.com/artist/3mdzg6Fp1vTlkwrg8MMIce) | [Melancholic Weekends \(feat\. NyaLi\)](https://open.spotify.com/album/1KS89oZihTEZlgqrZ4yGbo) | 3:30 | 2022-01-27 |  |
 | [Men\-Mory](https://open.spotify.com/track/2bH1RexrSNXoFHMS4Pq6XD) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [Goldfish](https://open.spotify.com/artist/0vhp1BhCnnPzmpknRG6JMv) | [Men\-Mory](https://open.spotify.com/album/6sxdxaRMcoWjHePp6Np5TT) | 2:59 | 2022-01-13 |  |
 | [Mend](https://open.spotify.com/track/6ANFvWkNplQF5HfZif4Wbm) | [Alyssa Lie](https://open.spotify.com/artist/0NBpSJAS22KwlDXFuY5DfL) | [Mend](https://open.spotify.com/album/4zRqmckENkL72AIqGCTJoW) | 3:16 | 2021-12-01 | 2022-01-14 |
+| [Minah](https://open.spotify.com/track/7oWW1ILeliMU2HVpgvUmEy) | [abgdanial](https://open.spotify.com/artist/2axSWwXcBtAN3e5pBao9wF), [DANNFOSHO](https://open.spotify.com/artist/5TP0c4ogpaGI12A10iW5XM) | [Minah](https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf) | 2:25 | 2022-02-17 |  |
+| [Mine](https://open.spotify.com/track/1yfS27iJnwOBsM5ygDeoLS) | [Shahera Sam](https://open.spotify.com/artist/4nUa44lnlvjTOHMkXhv7pN) | [Mine](https://open.spotify.com/album/2y0d3tdRcdpwBFCUtOuURz) | 2:56 | 2022-02-17 |  |
 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 | 2021-12-01 | 2022-01-14 |
 | [Move On](https://open.spotify.com/track/2CQSOR6ETLKlsfjfMS1rNn) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Things I Wished I'd Said](https://open.spotify.com/album/62UiCtWlr8X5sDkIFKiaE8) | 3:35 | 2021-12-01 | 2022-01-14 |
 | [My World Too](https://open.spotify.com/track/6v4Y98Y5nhelVwwjB0Xdbk) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh) | [My World Too](https://open.spotify.com/album/4f1F2OfvY2ZsRUz7ic1Yfz) | 3:18 | 2022-01-13 |  |
@@ -110,6 +113,7 @@
 | [Outta My Head](https://open.spotify.com/track/6XWw1Sj6WxN7bqXgA8j3YH) | [Shazee](https://open.spotify.com/artist/3hjD2tgcUWOm6o8Kk7cudp), [Tilla Hanna](https://open.spotify.com/artist/3NJyNeADXHVxvIKdTxTqw4) | [Outta My Head](https://open.spotify.com/album/6aBZwWz8GXM7EUGtU4YgVv) | 2:37 | 2022-01-20 |  |
 | [Over Overthinking](https://open.spotify.com/track/4pnbyipG5l8dTE1tnMc24d) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Over Overthinking](https://open.spotify.com/album/4oOyFDgWnKk1HhPLoUuHx0) | 2:00 | 2022-01-13 |  |
 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 | 2022-01-20 |  |
+| [Pity Party](https://open.spotify.com/track/2Z25fVRiv9kkCuYCpqf8dX) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Pity Party](https://open.spotify.com/album/1XVl95v68LAUXP8r90DQIb) | 3:32 | 2022-02-17 |  |
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 | 2022-01-20 |  |
 | [Ride with Me](https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb) | [Maqyl](https://open.spotify.com/artist/1TsQNoSAfBuzmgHN0475Sw), [Kalyan Rath](https://open.spotify.com/artist/1bdzqJILHZDRI49lqMS5mc) | [Ride with Me](https://open.spotify.com/album/05s3PEx8pGlodj3gvSgm2y) | 2:58 | 2022-01-13 |  |

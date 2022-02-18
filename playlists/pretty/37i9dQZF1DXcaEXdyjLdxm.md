@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 
 > LGBTQQIA+ artists & allies like you've never heard before\. Cover: CHIKA, Troye Sivan and Rina Sawayama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,324 likes - 37 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,345 likes - 37 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

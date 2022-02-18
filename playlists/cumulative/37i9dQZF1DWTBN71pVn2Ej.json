@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "blink",
+        "url": "https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD"
+      },
+      "artists": [
+        {
+          "name": "Sister Void",
+          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "blink",
+      "url": "https://open.spotify.com/track/6cY3rrN8qX0RTLawwiHj6d"
+    },
+    {
+      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz"
       },
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 288726,
       "name": "Chasms",
       "url": "https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY"
@@ -459,6 +477,24 @@
       "duration_ms": 176040,
       "name": "Cough Up Cherries",
       "url": "https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6"
+    },
+    {
+      "album": {
+        "name": "Dark Comedy",
+        "url": "https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn"
+      },
+      "artists": [
+        {
+          "name": "Down for Tomorrow",
+          "url": "https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192922,
+      "name": "Dark Comedy",
+      "url": "https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY"
     },
     {
       "album": {
@@ -653,7 +689,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 234012,
       "name": "Glisten",
       "url": "https://open.spotify.com/track/6Ua1Ox0jb0O15ZIqPQinDG"
@@ -1021,7 +1057,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 198400,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/1FAPmkpCbkvQV0ZU0OnuSI"
@@ -1079,7 +1115,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 216916,
       "name": "Now, Life is Living You",
       "url": "https://open.spotify.com/track/2hsUzg683EDNgfLFcSE1Od"
@@ -1209,6 +1245,24 @@
       "duration_ms": 117986,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/2Aj29eavK4DmnduCE8UXsA"
+    },
+    {
+      "album": {
+        "name": "Staircase Music",
+        "url": "https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO"
     },
     {
       "album": {
@@ -1461,6 +1515,24 @@
       "duration_ms": 187373,
       "name": "Yeah Yeah Yeah",
       "url": "https://open.spotify.com/track/6Ggg9AKfFQpmIDHFv49y1r"
+    },
+    {
+      "album": {
+        "name": "Pursuing Love at Its Darkest",
+        "url": "https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk"
+      },
+      "artists": [
+        {
+          "name": "The Escape Artist",
+          "url": "https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274093,
+      "name": "Your Favourite Blade",
+      "url": "https://open.spotify.com/track/5Ki3w952P2LC2m2HFbPQTv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej"

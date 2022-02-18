@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 213826,
       "name": "Armaghetton - Aeroplane Remix",
       "url": "https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 199789,
       "name": "Blessing In This House",
       "url": "https://open.spotify.com/track/12gAkxV6EmdMJwQI7an4am"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Do This Forever",
       "url": "https://open.spotify.com/track/7rGxWoUyNno5ztljshnN7o"
@@ -397,6 +397,32 @@
       "duration_ms": 221823,
       "name": "Down (feat. Dames Brown)",
       "url": "https://open.spotify.com/track/6h3avy8rzwJsYTzGe2c02M"
+    },
+    {
+      "album": {
+        "name": "Down (feat. Dames Brown)",
+        "url": "https://open.spotify.com/album/4rjcBy4JLW0c8275fm3rb8"
+      },
+      "artists": [
+        {
+          "name": "The Vision",
+          "url": "https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I"
+        },
+        {
+          "name": "Dames Brown",
+          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226470,
+      "name": "Down (feat. Dames Brown) - Riva Starr VIP Remix",
+      "url": "https://open.spotify.com/track/1dE1UZLhNglkZ9JnBckA1H"
     },
     {
       "album": {
@@ -481,7 +507,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 297574,
       "name": "Facelift",
       "url": "https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa"
@@ -529,7 +555,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 200000,
       "name": "Find the Joy",
       "url": "https://open.spotify.com/track/4EKRFGE1Y3vqGJufkPhF37"
@@ -583,7 +609,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 204196,
       "name": "Givin' Up",
       "url": "https://open.spotify.com/track/34zTAhU9iCMleVhYolyshU"
@@ -671,7 +697,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 227619,
       "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
       "url": "https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH"
@@ -715,6 +741,28 @@
       "duration_ms": 333151,
       "name": "Harmona",
       "url": "https://open.spotify.com/track/6LfwpTKbKLNFhdhV7lEj4e"
+    },
+    {
+      "album": {
+        "name": "The Vision",
+        "url": "https://open.spotify.com/album/4LwHKIJOPTvnJ4lKXbKuwl"
+      },
+      "artists": [
+        {
+          "name": "The Vision",
+          "url": "https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298416,
+      "name": "Heaven (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/48IaMsfKVsZ35Wd6ic8zkl"
     },
     {
       "album": {
@@ -802,6 +850,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be Like You",
+        "url": "https://open.spotify.com/album/4eShsqQHJWlGpbXqmtAoD2"
+      },
+      "artists": [
+        {
+          "name": "Hammer",
+          "url": "https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324642,
+      "name": "I Wanna Be Like You",
+      "url": "https://open.spotify.com/track/37rSW7fSEzOIMVodxP0gY9"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/1QulXWElcwft8HTaHigmtS"
       },
@@ -875,7 +941,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 257263,
       "name": "Keep Moving - The Blessed Madonna remix / Edit",
       "url": "https://open.spotify.com/track/7wrW0eAXIEcKF6tgUXYNa7"
@@ -897,7 +963,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 149222,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/4Mm9eqhyHbKzh8pksjNWIh"
@@ -915,7 +981,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 368244,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2lM5HZRi3mlxbFnmQ2oDXe"
@@ -933,7 +999,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 209743,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/3351bIhasJGEk0yn5A9uLW"
@@ -958,6 +1024,28 @@
     },
     {
       "album": {
+        "name": "Lost In Space (feat. SG Lewis)",
+        "url": "https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143946,
+      "name": "Lost In Space (feat. SG Lewis)",
+      "url": "https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD"
+    },
+    {
+      "album": {
         "name": "Love Divide",
         "url": "https://open.spotify.com/album/362ceaJQRuOKtYw8xsGIa3"
       },
@@ -969,7 +1057,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 232320,
       "name": "Love Divide",
       "url": "https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n"
@@ -995,10 +1083,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
+    },
+    {
+      "album": {
+        "name": "Love is Free",
+        "url": "https://open.spotify.com/album/5gwvKoVUGQbItVCjPIxfjX"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313548,
+      "name": "Love is Free",
+      "url": "https://open.spotify.com/track/1yBSWwDsYAgAQ2nZfucgib"
     },
     {
       "album": {
@@ -1053,7 +1159,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 155520,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
@@ -1097,7 +1203,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
@@ -1203,7 +1309,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 238198,
       "name": "My House (10 Years of Eats Everything Main Street Mix)",
       "url": "https://open.spotify.com/track/149yUZqCPUUsOa0ruiZO4b"
@@ -1305,7 +1411,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 149508,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
@@ -1553,7 +1659,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 335383,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm"
@@ -1593,7 +1699,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
@@ -1611,7 +1717,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 193489,
       "name": "Shit Cant Make Anything",
       "url": "https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO"
@@ -1705,7 +1811,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 356408,
       "name": "So Good, So Nice, So Bright",
       "url": "https://open.spotify.com/track/1xR2hDqoEDiFj9VTEo0Y4Q"
@@ -1727,7 +1833,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 198039,
       "name": "Solid Gold (feat. bshp)",
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
@@ -1917,7 +2023,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 224390,
       "name": "Way to Go - Club Soda Mix",
       "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
@@ -1935,7 +2041,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 394733,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/6pSMPGjQliPcB7JNTgVmdz"
@@ -1979,7 +2085,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 222226,
       "name": "What\u2019s Your Pleasure? - Georgia Remix",
       "url": "https://open.spotify.com/track/4B9DsDouaA1Nx0IvF2c8yY"
@@ -1997,7 +2103,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 285547,
       "name": "Your Good Times Are Here",
       "url": "https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2"

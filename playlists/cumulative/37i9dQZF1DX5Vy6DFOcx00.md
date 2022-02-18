@@ -2,7 +2,7 @@
 
 ### [big on the internet](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
-> iykyk
+> uncut jaaaams and more hits from the internet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > You and jazz are the center of this universe\. Cover: Alicia Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,480 likes - 132 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,625 likes - 132 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 131 | [Roses](https://open.spotify.com/track/0ABtEGkZgxAnJOCKVVhr29) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:32 |
 | 132 | [Storm](https://open.spotify.com/track/7feOpZEItuZLuzRotDx6oJ) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE), [George Elliott Clarke](https://open.spotify.com/artist/3gReHQlH9BSwfwzcndrdnI) | [TAO](https://open.spotify.com/album/6PpY8MTNORze0RspuiNqKR) | 5:41 |
 
-Snapshot ID: `MTY0NDYwNTQ2NSwwMDAwMDAyNjAwMDAwMTdlZWExZmUyM2UwMDAwMDE3ZGE1NTkyMzlh`
+Snapshot ID: `MTY0NTEzMjA5NSwwMDAwMDAyNzAwMDAwMTdmMDk4MzllNDcwMDAwMDE3ZGE1NTkyMzlh`

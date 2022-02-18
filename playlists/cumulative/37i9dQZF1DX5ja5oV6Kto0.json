@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B?si=G45GQRkVTf6_eGlpx0GWZA\"> TeeZee </a>  and <a href=\"https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT?si=Jm2npQyQSd6TeteVFByObQ\"> Deto Black </a>",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B?si=G45GQRkVTf6_eGlpx0GWZA\"> TeeZee </a> ",
   "name": "Alt\u00e8 Cruise",
   "published_playlist_ids": [
     "7pF4eqr29AOzUGMPmKhLmc"
@@ -45,10 +45,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 157714,
       "name": "22 SOLACE",
       "url": "https://open.spotify.com/track/1wpMPz1Cm8xZZoU0RCBvPV"
+    },
+    {
+      "album": {
+        "name": "Triple Take, Vol. II",
+        "url": "https://open.spotify.com/album/31ISMmTdreHPGIZd9ddM4M"
+      },
+      "artists": [
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162882,
+      "name": "4AM in Ibiza",
+      "url": "https://open.spotify.com/track/03ihazIgZQERyUB2BGAeLb"
     },
     {
       "album": {
@@ -107,6 +125,28 @@
       "duration_ms": 166336,
       "name": "Again",
       "url": "https://open.spotify.com/track/7GkRkWItM8dpCwaV302ZEK"
+    },
+    {
+      "album": {
+        "name": "Arrested by Love",
+        "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221881,
+      "name": "ANCESTORS",
+      "url": "https://open.spotify.com/track/0RSDH2CCDTzOZo0UIBiUNM"
     },
     {
       "album": {
@@ -355,7 +395,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 230060,
       "name": "Call Up",
       "url": "https://open.spotify.com/track/7kJE0LivWZUFcF6fezWK0r"
@@ -537,10 +577,32 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 202105,
       "name": "Different Strain",
       "url": "https://open.spotify.com/track/5nVfUtOQ5qsdYnnppcHtwF"
+    },
+    {
+      "album": {
+        "name": "Arrested by Love",
+        "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DO ME JEJE",
+      "url": "https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ"
     },
     {
       "album": {
@@ -1171,7 +1233,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 210733,
       "name": "Mars!",
       "url": "https://open.spotify.com/track/4WzG4lLHpWdis2seaFARqA"
@@ -1417,7 +1479,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 193234,
       "name": "PEAKING",
       "url": "https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf"
@@ -1752,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "Love and Ties",
+        "url": "https://open.spotify.com/album/4PjX6tnyjRjQOB2pAHph9h"
+      },
+      "artists": [
+        {
+          "name": "Mi$taK",
+          "url": "https://open.spotify.com/artist/5RdL0s8UACHhmacD8FB73h"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129438,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/03aPkknuYGCLLLqScoRvI8"
+    },
+    {
+      "album": {
         "name": "MWWU",
         "url": "https://open.spotify.com/album/0NBaKfplyaTuveWlC1oB0z"
       },
@@ -2077,6 +2157,24 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/1hS2xmC5qJ8R534RiLw07k"
+    },
+    {
+      "album": {
+        "name": "4LUV",
+        "url": "https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271017,
+      "name": "umoya",
+      "url": "https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC"
     },
     {
       "album": {

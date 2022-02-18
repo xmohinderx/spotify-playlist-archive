@@ -1,12 +1,12 @@
 {
   "description": "Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.",
-  "num_followers": 1326385,
+  "num_followers": 1326507,
   "original_name": "The Sweet Suite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTA1ODQ0OSwwMDAwMDAwMDI4NTVhNmMwZDkyMWM4YTI4ZTQwYzAxODEwOTM2ZTI3",
+  "snapshot_id": "MTY0NTE0NTI4NiwwMDAwMDAwMGY5ZWJlMmMwOTg1NWMyYzhlMzEyYTBiZGI5ZGU4MTcz",
   "tracks": [
     {
       "added_at": "2021-11-10 22:58:16",
@@ -31,6 +31,22 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
         "name": "Harlem Romance: The Love Collection",
         "url": "https://open.spotify.com/album/5M0gJ3vHt8yCiMnjWn13xn"
       },
@@ -51,38 +67,22 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+        "name": "Live Out Your Love",
+        "url": "https://open.spotify.com/album/5lqQfNpQlWYjwxGbz64nCj"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Say So",
-        "url": "https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
         },
         {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 212973,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
+      "duration_ms": 253093,
+      "name": "Live Out Your Love",
+      "url": "https://open.spotify.com/track/1PB0fQGKLKVSNBYzInpTaf"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -115,18 +115,34 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+      "duration_ms": 257426,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -147,38 +163,18 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 350533,
-      "name": "Nothing Even Matters (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+      "duration_ms": 256542,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -203,18 +199,54 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 256542,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/00veEy3Rm9cUZOZOdmtUK3"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 231516,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/154gJ2VnkwB39v3GdnbRnv"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "onmyradio",
+        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "sobeautiful",
+      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -239,38 +271,6 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/00veEy3Rm9cUZOZOdmtUK3"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 231516,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/154gJ2VnkwB39v3GdnbRnv"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!",
-        "url": "https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/4chxiKYwSBoE0pvO4Ea0uv"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
         "name": "Love Is The New Black",
         "url": "https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h"
       },
@@ -291,86 +291,34 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!",
+        "url": "https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 257426,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
+      "duration_ms": 291200,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/4chxiKYwSBoE0pvO4Ea0uv"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Auntie & Unc",
-        "url": "https://open.spotify.com/album/7osANJWN0FWGRP5Epvmnd9"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
       "artists": [
         {
-          "name": "Kindred The Family Soul",
-          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 190166,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/4OQwIQjC5PIiosSjnDgg6q"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Live Out Your Love",
-        "url": "https://open.spotify.com/album/5lqQfNpQlWYjwxGbz64nCj"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "Live Out Your Love",
-      "url": "https://open.spotify.com/track/1PB0fQGKLKVSNBYzInpTaf"
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -387,6 +335,74 @@
       "duration_ms": 277240,
       "name": "You Give Good Love",
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "He Don't Know Nothin' Bout It",
+        "url": "https://open.spotify.com/album/1HbZ8wKZfo9qjgyDNI1kFX"
+      },
+      "artists": [
+        {
+          "name": "Jam & Lewis",
+          "url": "https://open.spotify.com/artist/11kaQ3GPi3BPDYH18aL1nX"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 329623,
+      "name": "He Don't Know Nothin' Bout It",
+      "url": "https://open.spotify.com/track/6XZWZNFXqtdEp6YLW2bbEM"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Let Me Touch You",
+        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/3c8AcVx9AezodLAvrNSouu"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "duration_ms": 217054,
+      "name": "Stay on Your Mind",
+      "url": "https://open.spotify.com/track/7M2Y6k2KSpH28HUAFamMg5"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -423,6 +439,22 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
         "name": "Tony Terry",
         "url": "https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM"
       },
@@ -439,66 +471,54 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Let Me Touch You",
-        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+        "name": "Auntie & Unc",
+        "url": "https://open.spotify.com/album/7osANJWN0FWGRP5Epvmnd9"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
         }
       ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+      "duration_ms": 190166,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/4OQwIQjC5PIiosSjnDgg6q"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Rope A Dope Style",
-        "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
+        "name": "The Wild Card",
+        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
       },
       "artists": [
         {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 322200,
-      "name": "Baby I'm Ready",
-      "url": "https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo"
+      "duration_ms": 274706,
+      "name": "Same Love",
+      "url": "https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "After 7",
-        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq"
       },
       "artists": [
         {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "onmyradio",
-        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
-      },
-      "artists": [
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
         {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 291133,
-      "name": "sobeautiful",
-      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
+      "duration_ms": 212973,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -519,54 +539,70 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+        "name": "After 7",
+        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
       "artists": [
         {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 285746,
-      "name": "He Loves Me (Lyzel in E Flat)",
-      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
+      "duration_ms": 275826,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "He Don't Know Nothin' Bout It",
-        "url": "https://open.spotify.com/album/1HbZ8wKZfo9qjgyDNI1kFX"
+        "name": "The Best Of Atlantic Starr",
+        "url": "https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D"
       },
       "artists": [
         {
-          "name": "Jam & Lewis",
-          "url": "https://open.spotify.com/artist/11kaQ3GPi3BPDYH18aL1nX"
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "duration_ms": 336533,
+      "name": "Am I Dreaming",
+      "url": "https://open.spotify.com/track/6HHlyBUx4YGVE95GF0orTe"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "The Transition of Mali",
+        "url": "https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         },
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 329623,
-      "name": "He Don't Know Nothin' Bout It",
-      "url": "https://open.spotify.com/track/6XZWZNFXqtdEp6YLW2bbEM"
+      "duration_ms": 258933,
+      "name": "Loved By You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/4S3FRqrM3VyuajD7jFZcLm"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Street Called Desire ... And More",
-        "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
+        "name": "Blackstreet",
+        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
       },
       "artists": [
         {
-          "name": "Rene & Angela",
-          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
         }
       ],
-      "duration_ms": 255973,
-      "name": "Your Smile",
-      "url": "https://open.spotify.com/track/15SNslBn9n3jutwxlJGpMd"
+      "duration_ms": 299800,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -603,66 +639,18 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "The Wild Card",
-        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+        "name": "Rope A Dope Style",
+        "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Same Love",
-      "url": "https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Stuck With Me",
-        "url": "https://open.spotify.com/album/2HE6MsmAiSF4OFysODjyfI"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 243252,
-      "name": "Stuck With Me",
-      "url": "https://open.spotify.com/track/79krSKwLin119oRNcyfnRY"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "The Best Of Atlantic Starr",
-        "url": "https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D"
-      },
-      "artists": [
-        {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
-        }
-      ],
-      "duration_ms": 336533,
-      "name": "Am I Dreaming",
-      "url": "https://open.spotify.com/track/6HHlyBUx4YGVE95GF0orTe"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Identify Yourself",
-        "url": "https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 366226,
-      "name": "Forever Mine",
-      "url": "https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF"
+      "duration_ms": 322200,
+      "name": "Baby I'm Ready",
+      "url": "https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -699,18 +687,38 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/3c8AcVx9AezodLAvrNSouu"
+        "name": "Back Together (feat. Rick James)",
+        "url": "https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL"
       },
       "artists": [
         {
-          "name": "Kenny Lattimore",
-          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        },
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
         }
       ],
-      "duration_ms": 217054,
-      "name": "Stay on Your Mind",
-      "url": "https://open.spotify.com/track/7M2Y6k2KSpH28HUAFamMg5"
+      "duration_ms": 238717,
+      "name": "Back Together (feat. Rick James)",
+      "url": "https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Closer Than Close",
+        "url": "https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Mine All Mine",
+      "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
     }
   ],
   "unique_name": "The Sweet Suite",

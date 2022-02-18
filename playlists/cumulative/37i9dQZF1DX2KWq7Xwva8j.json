@@ -8,6 +8,68 @@
   "tracks": [
     {
       "album": {
+        "name": "100tas",
+        "url": "https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "100tas",
+      "url": "https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK"
+    },
+    {
+      "album": {
+        "name": "3 AMIGAS TUYAS",
+        "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "EDDI CIRCA",
+          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184152,
+      "name": "3 AMIGAS TUYAS",
+      "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
+    },
+    {
+      "album": {
+        "name": "Ahora Y Siempre",
+        "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149275,
+      "name": "Ahora Y Siempre",
+      "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
+    },
+    {
+      "album": {
         "name": "Bali",
         "url": "https://open.spotify.com/album/0ZiQztdWTlJ0ka8jHN5Qmw"
       },
@@ -127,7 +189,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 156923,
       "name": "Co Star",
       "url": "https://open.spotify.com/track/0QDvvTM1GDrOHA7VmTtSD8"
@@ -250,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168757,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6"
+    },
+    {
+      "album": {
         "name": "Dime Que Me Calle",
         "url": "https://open.spotify.com/album/2vZAm4JUPbTlQIsRD4Qhp8"
       },
@@ -283,6 +363,24 @@
       "duration_ms": 187873,
       "name": "En Dos",
       "url": "https://open.spotify.com/track/13Pe624JlpZ8c7Ktjybzav"
+    },
+    {
+      "album": {
+        "name": "en ning\u00fan lugar",
+        "url": "https://open.spotify.com/album/7fo1vAt1nKL7jUOka8w1At"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162390,
+      "name": "en ning\u00fan lugar",
+      "url": "https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO"
     },
     {
       "album": {
@@ -341,6 +439,24 @@
       "duration_ms": 185013,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6PAq6cZYIiXXJYNsq3f2Wa"
+    },
+    {
+      "album": {
+        "name": "Fuimos",
+        "url": "https://open.spotify.com/album/0r8nYWTQM6CnzwgjvQjlkP"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181018,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/06JbxvU7hdbBw1eoEOUWW6"
     },
     {
       "album": {
@@ -649,7 +765,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 202000,
       "name": "me pide arder",
       "url": "https://open.spotify.com/track/5fC0z5cbGnSy1YYOvrwX4q"
@@ -667,7 +783,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 165004,
       "name": "Mismas Jordan",
       "url": "https://open.spotify.com/track/6BnHksggg8CKWAwmtBknSF"
@@ -743,7 +859,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 180418,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/0z6ojlCxcIJViynVpq7MUg"
@@ -826,6 +942,24 @@
     },
     {
       "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/3JbYVEqXpE1CbYyVl3t2Zg"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/3RyLLnuLXce8JUdnaSyJNE"
+    },
+    {
+      "album": {
         "name": "De Sobretaula",
         "url": "https://open.spotify.com/album/4hX4wB2e3r6xxlmA7Wjq5A"
       },
@@ -837,7 +971,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 212760,
       "name": "Paisatge de Postal",
       "url": "https://open.spotify.com/track/7nwg9eHN58X27pyJNpfGCe"
@@ -855,7 +989,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 213284,
       "name": "Pixel Negro",
       "url": "https://open.spotify.com/track/0F6xXGWhs3BfAOlNLTFPFe"
@@ -1091,7 +1225,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 233658,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2JYAvxXyyubnbY4H7rrqiS"
@@ -1171,6 +1305,24 @@
       "duration_ms": 158350,
       "name": "Tremenda suerte",
       "url": "https://open.spotify.com/track/5Xt7uirmf3G3yI7XSvd1NV"
+    },
+    {
+      "album": {
+        "name": "Triste pero no",
+        "url": "https://open.spotify.com/album/6lzKsNh7XxGFiUlBRuZfOQ"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180245,
+      "name": "Triste pero no",
+      "url": "https://open.spotify.com/track/63XSp3hSyJub2N23FtkYQw"
     },
     {
       "album": {
@@ -1315,7 +1467,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 235263,
       "name": "V\u00e9rtices",
       "url": "https://open.spotify.com/track/4b7IBgXC4SVKTXMEqhcuXb"

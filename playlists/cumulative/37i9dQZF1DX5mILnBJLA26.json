@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/2jMiqYFIEdD5vvMHcmgXFJ?si=blpC84OqTf6SQCVeJYJyXg\">DJ Hlo</a> , <a href=\"https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x?si=4d-i8SLgSWGbJGigBZgofw\">Lady Du</a> and <a href=\"https://open.spotify.com/artist/64AibK7iJaFyzaWdx2t09W?si=3mTfp8epQ6OvTjWC_lUI-A\">Bob Mabena</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh?si=VpvTblFdQZegp7Elx6N1LQ\">DJ Obza</a>",
   "name": "AmaPiano Grooves",
   "published_playlist_ids": [
     "1OROzyYVlgHk2xjXQZDV5G"
@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "AmaGupta",
+        "url": "https://open.spotify.com/album/1jtVN6DpDiGov9lR5ibBZT"
+      },
+      "artists": [
+        {
+          "name": "J Flavour",
+          "url": "https://open.spotify.com/artist/6GPd3DRXPfTItjstFMTPlD"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306106,
+      "name": "AmaGupta - Radio Edit",
+      "url": "https://open.spotify.com/track/4DvwaQUg5R4dSwO5fzabaB"
+    },
+    {
+      "album": {
         "name": "Amajita",
         "url": "https://open.spotify.com/album/0aN0TX3Ch30ILF0lvAXPRf"
       },
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 386651,
       "name": "Ayavuma (feat. DJ Sumbody & The Lowkeys)",
       "url": "https://open.spotify.com/track/1SchBRgBc9Yoe8pazuwX2B"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 368627,
       "name": "Aziwe",
       "url": "https://open.spotify.com/track/0Wa6TuW299ymduP5e9HHo1"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 217604,
       "name": "Cross My Lane",
       "url": "https://open.spotify.com/track/5u3DBDAtwldSB0vq2wRKPG"
@@ -1192,6 +1210,50 @@
     },
     {
       "album": {
+        "name": "Emoyeni",
+        "url": "https://open.spotify.com/album/3tHkA3oUpCSqLalGsD9x0m"
+      },
+      "artists": [
+        {
+          "name": "Nicole Elocin",
+          "url": "https://open.spotify.com/artist/4KlAW4TYEcxlQp46EioZhw"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Sawce",
+          "url": "https://open.spotify.com/artist/51KBxhZnpafTjP0cKulltO"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409612,
+      "name": "Emoyeni (feat. Tyler ICU & Sawce)",
+      "url": "https://open.spotify.com/track/1k8rOhJWtGlGyw8i5x6jFP"
+    },
+    {
+      "album": {
+        "name": "Uthando Lwami",
+        "url": "https://open.spotify.com/album/4UsDSs9ldW6gDxe6RmIjSt"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333220,
+      "name": "Fearless Soul",
+      "url": "https://open.spotify.com/track/6eFxUTC1eh9G0TXyYEwbZj"
+    },
+    {
+      "album": {
         "name": "Feel Good (Amapiano Remixes)",
         "url": "https://open.spotify.com/album/7wXl4nACfyWvaKvHtzQL6V"
       },
@@ -1332,6 +1394,32 @@
     },
     {
       "album": {
+        "name": "Hasha Mulilo",
+        "url": "https://open.spotify.com/album/0mbYlPTDz8FlZJsrTbhpMH"
+      },
+      "artists": [
+        {
+          "name": "BosPianii",
+          "url": "https://open.spotify.com/artist/1n8CWNLpUdGV8MaWzxRZcl"
+        },
+        {
+          "name": "Saijan K",
+          "url": "https://open.spotify.com/artist/57lmjhRhAITiUV7ELyuUgZ"
+        },
+        {
+          "name": "Xavi Yentin",
+          "url": "https://open.spotify.com/artist/0U5l0WXjQQqQYmDpeI0zZO"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268683,
+      "name": "Hasha Mulilo - Radio Edit",
+      "url": "https://open.spotify.com/track/3DbZNKctcuBVb0DjtDcWhb"
+    },
+    {
+      "album": {
         "name": "iLokishi",
         "url": "https://open.spotify.com/album/4SFPgMGTiwrT0HgY1ebhoJ"
       },
@@ -1411,7 +1499,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 505991,
       "name": "Ingoma LaseMzansi",
       "url": "https://open.spotify.com/track/0kHGIeYx6n5sAz5Ke4XB95"
@@ -2038,6 +2126,28 @@
     },
     {
       "album": {
+        "name": "Mina",
+        "url": "https://open.spotify.com/album/0BVsgWfNEIo3VN8DDVd2zo"
+      },
+      "artists": [
+        {
+          "name": "LeMark",
+          "url": "https://open.spotify.com/artist/2AvsxPxJ3mCB7Gq3jKz2ub"
+        },
+        {
+          "name": "Jessica Sodi",
+          "url": "https://open.spotify.com/artist/5ecUtr1stWOBSAlKXTGmXu"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360960,
+      "name": "Mina",
+      "url": "https://open.spotify.com/track/3aG1Ne6mngyrTl8fG7kjaB"
+    },
+    {
+      "album": {
         "name": "Platinumb Heart Beating",
         "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
       },
@@ -2233,10 +2343,32 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 330206,
       "name": "Mundaza",
       "url": "https://open.spotify.com/track/5xyED4v6pYcRaXfRRZYdrh"
+    },
+    {
+      "album": {
+        "name": "Ngindize",
+        "url": "https://open.spotify.com/album/3EsOuP7xCfpTZehysDZB3W"
+      },
+      "artists": [
+        {
+          "name": "Sboniso Mbhele",
+          "url": "https://open.spotify.com/artist/490sSM3ksaDrCJWRvQ7jzX"
+        },
+        {
+          "name": "DJ Manzo Sa",
+          "url": "https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362695,
+      "name": "Ngindize",
+      "url": "https://open.spotify.com/track/0GL3kL2nfiLXX95uRMgeYH"
     },
     {
       "album": {
@@ -2259,6 +2391,28 @@
       "duration_ms": 377624,
       "name": "Ngixolele",
       "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
+    },
+    {
+      "album": {
+        "name": "Uthando Lwami",
+        "url": "https://open.spotify.com/album/4UsDSs9ldW6gDxe6RmIjSt"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Leon Lee",
+          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372212,
+      "name": "Ngixolele",
+      "url": "https://open.spotify.com/track/36ajd5fVVRJfYslRt5qzvL"
     },
     {
       "album": {
@@ -2636,6 +2790,28 @@
     },
     {
       "album": {
+        "name": "Emoyeni",
+        "url": "https://open.spotify.com/album/3tHkA3oUpCSqLalGsD9x0m"
+      },
+      "artists": [
+        {
+          "name": "Nicole Elocin",
+          "url": "https://open.spotify.com/artist/4KlAW4TYEcxlQp46EioZhw"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344503,
+      "name": "Siyathandana (feat. Tyler ICU)",
+      "url": "https://open.spotify.com/track/1xiTeNX8GDpDasxqk7Y5S6"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/0fRc5Mffkdu9UetHDl66A8"
       },
@@ -2803,7 +2979,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 242181,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/0xzu31YCNKLLiE8heGUuBa"
@@ -2847,6 +3023,32 @@
       "duration_ms": 382350,
       "name": "Squid Game",
       "url": "https://open.spotify.com/track/7xYLmM1Xn7A0LViesq4U0e"
+    },
+    {
+      "album": {
+        "name": "Uthando Lwami",
+        "url": "https://open.spotify.com/album/4UsDSs9ldW6gDxe6RmIjSt"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        },
+        {
+          "name": "Dj Gizo",
+          "url": "https://open.spotify.com/artist/0ChHXbMLXNcqNbnsk13mxJ"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333237,
+      "name": "Sthandwa'sam",
+      "url": "https://open.spotify.com/track/6W5Sj8Ipx47ZPucUlZTiSX"
     },
     {
       "album": {
@@ -3143,6 +3345,28 @@
       "duration_ms": 377187,
       "name": "The Warning",
       "url": "https://open.spotify.com/track/0nAh8CBl9m5NnkBsFspVJp"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/4eIhRxbn2P5qQ0GwUrD1A7"
+      },
+      "artists": [
+        {
+          "name": "QuayR Musiq",
+          "url": "https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08"
+        },
+        {
+          "name": "DaLootz",
+          "url": "https://open.spotify.com/artist/1vLIzY0izQTnmHdV1IPL2k"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408727,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/4VjM7m1SfyVWOqDPpZWzv4"
     },
     {
       "album": {
@@ -3617,6 +3841,28 @@
       "duration_ms": 365027,
       "name": "Yini Sdakwa",
       "url": "https://open.spotify.com/track/6RXF8afghRd2Ha6npUg8jk"
+    },
+    {
+      "album": {
+        "name": "Yolo Yolo",
+        "url": "https://open.spotify.com/album/3heBc1CSvlN9iCSvb3ymPj"
+      },
+      "artists": [
+        {
+          "name": "AfroToniQ",
+          "url": "https://open.spotify.com/artist/6gMHqu7rD2o2GheeCRBBx5"
+        },
+        {
+          "name": "Gugu",
+          "url": "https://open.spotify.com/artist/4BaGlACJp4IhCMFif7jJO2"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378545,
+      "name": "Yolo Yolo",
+      "url": "https://open.spotify.com/track/1OfkN0fhL2OTsVbNd167NG"
     },
     {
       "album": {

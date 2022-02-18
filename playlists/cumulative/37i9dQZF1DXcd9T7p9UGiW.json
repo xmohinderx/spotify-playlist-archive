@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=GYiQiQm1RB6tHMR1E1cv0Q\"> 21 Savage </a>, <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=mlHgBMbNRPCUyHcFRFGBbw\"> Fireboy DML </a> and <a href=\"https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL?si=XO1D-NAhQlSfKvimxsNpIA\"> Blxst </a>",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=rQ4iaq7RS6KDTd1AWapuCg\"> KiDi </a> and <a href=\"https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp?si=z2UKiI-KRm-9cPEo6NUf_Q\"> Tyga </a>",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -437,6 +437,28 @@
       "duration_ms": 159338,
       "name": "Damn (Feat. 6LACK) (Bonus Track)",
       "url": "https://open.spotify.com/track/45BFTgtQbHLsSs9lUmqtaz"
+    },
+    {
+      "album": {
+        "name": "Arrested by Love",
+        "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DO ME JEJE",
+      "url": "https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ"
     },
     {
       "album": {
@@ -1915,7 +1937,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 181760,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4ORAkX4CM5ErQGb65Ub5ji"
@@ -2062,6 +2084,28 @@
     },
     {
       "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8"
       },
@@ -2183,7 +2227,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 184000,
       "name": "Wildones",
       "url": "https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C"

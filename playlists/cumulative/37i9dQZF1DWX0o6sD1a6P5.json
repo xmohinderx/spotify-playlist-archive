@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "100",
+      "url": "https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD"
+    },
+    {
+      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -89,7 +107,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 180298,
       "name": "Ananas",
       "url": "https://open.spotify.com/track/0AFpDvHPQm45QkHf0u0TXk"
@@ -129,7 +147,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 217998,
       "name": "Appelement Jeter",
       "url": "https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD"
@@ -231,7 +249,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 133589,
       "name": "BADI",
       "url": "https://open.spotify.com/track/5LhpeOCo5Pb3sj2237XlK1"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 218053,
       "name": "Bansky",
       "url": "https://open.spotify.com/track/1hvpiPBDxOjQGgx8B7VVbE"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 172017,
       "name": "Chairlady",
       "url": "https://open.spotify.com/track/2WIbNLk7K5muvjZk1MaXDC"
@@ -608,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Doudou Chou",
+        "url": "https://open.spotify.com/album/71AyCcMiMLgtR7bpTrMvr8"
+      },
+      "artists": [
+        {
+          "name": "Darina Victry",
+          "url": "https://open.spotify.com/artist/31QkaxtrcSZdPAxHFjETBt"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Doudou Chou",
+      "url": "https://open.spotify.com/track/4HOxCDCw4oQWjc7sVub1vp"
+    },
+    {
+      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/2zaKTvOcT3C8KucmNK6DEG"
       },
@@ -627,6 +663,24 @@
       "duration_ms": 189600,
       "name": "Drip",
       "url": "https://open.spotify.com/track/7xszz5UCYmmLxuzqCAi9x0"
+    },
+    {
+      "album": {
+        "name": "Wingu",
+        "url": "https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "D\u00e9gainer",
+      "url": "https://open.spotify.com/track/1UoK36U5MQNSZsNWb1X8XA"
     },
     {
       "album": {
@@ -706,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/4gLz3s4Zg3BduGWKk2aNPO"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186992,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1z9QlqiV7MsrU4WBZAxsOA"
+    },
+    {
+      "album": {
         "name": "Contr\u00f4le",
         "url": "https://open.spotify.com/album/2Ik3t8UvhZSeFGzpwZMth4"
       },
@@ -739,7 +811,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 175989,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM"
@@ -998,6 +1070,28 @@
     },
     {
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "album": {
         "name": "Ozumba Mbadiwe (Remix)",
         "url": "https://open.spotify.com/album/656VMGOU4NL8RpviUz5IYF"
       },
@@ -1017,6 +1111,28 @@
       "duration_ms": 211636,
       "name": "Ozumba Mbadiwe - Remix",
       "url": "https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6"
+    },
+    {
+      "album": {
+        "name": "Pardonne moi",
+        "url": "https://open.spotify.com/album/4vCyfiHqJQdDjJP1e7lyOe"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        },
+        {
+          "name": "DJ Eladji",
+          "url": "https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211071,
+      "name": "Pardonne moi",
+      "url": "https://open.spotify.com/track/5iacvQWeHQxCXQaA5hyKPr"
     },
     {
       "album": {
@@ -1079,7 +1195,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 153676,
       "name": "Pas comme eux",
       "url": "https://open.spotify.com/track/3sPW0Lf9n1v3Z9h5jLiI8d"
@@ -1127,7 +1243,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 258426,
       "name": "Plan (feat. Franglish, Abou Debeing & Dadju)",
       "url": "https://open.spotify.com/track/0exjGVTPrIA5MYokrYG862"
@@ -1346,6 +1462,28 @@
     },
     {
       "album": {
+        "name": "Sweet Daddy",
+        "url": "https://open.spotify.com/album/5vVu6P7rrAXE6gkbCIwLCy"
+      },
+      "artists": [
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        },
+        {
+          "name": "Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189651,
+      "name": "Sweet Daddy",
+      "url": "https://open.spotify.com/track/491RNEZhVfVRKlbN259dff"
+    },
+    {
+      "album": {
         "name": "Tap\u00e9 Poto",
         "url": "https://open.spotify.com/album/4rhV8AszF8xWebe5W9nMP9"
       },
@@ -1413,6 +1551,28 @@
       "duration_ms": 189333,
       "name": "Tika",
       "url": "https://open.spotify.com/track/6RipQtV9RiquhfTVBFEYc1"
+    },
+    {
+      "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
       "album": {

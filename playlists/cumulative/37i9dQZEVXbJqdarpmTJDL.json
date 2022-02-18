@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 164877,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/1DPth0VduH2nAlWKdy3kSI"
@@ -2269,7 +2269,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 144500,
       "name": "COCO",
       "url": "https://open.spotify.com/track/6yOg1Tt1ELOWseyPg2vEos"
@@ -6173,7 +6173,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 178090,
       "name": "Leyla",
       "url": "https://open.spotify.com/track/3xcSTAxSTwfx0A4Ly68dfW"
@@ -11693,6 +11693,28 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "ZULU",
+        "url": "https://open.spotify.com/album/70UTApWKiip9E3mIomCygT"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246808,
+      "name": "ZULU",
+      "url": "https://open.spotify.com/track/7aodZPQpAaQrVA6cv9JXru"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJqdarpmTJDL"

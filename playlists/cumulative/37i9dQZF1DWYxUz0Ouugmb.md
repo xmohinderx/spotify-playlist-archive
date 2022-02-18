@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Suara Kayu
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Basboi
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Kelangan](https://open.spotify.com/track/30B1PUSsLPT9hQrNnAPh3C) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Kelangan](https://open.spotify.com/album/7fGMY8J1COdJaOjfiJi3oO) | 4:54 | 2021-11-25 |  |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2021-11-25 |  |
 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 | 2021-11-25 |  |
+| [Make Me Proud \- Acoustic](https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Acoustic For Dummies](https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q) | 2:50 | 2022-02-17 |  |
 | [Merindu](https://open.spotify.com/track/4hERzfQ6Aiu5pKSqCeiAab) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Merindu](https://open.spotify.com/album/2tWvLOzIXczbXws6GeM0YE) | 3:39 | 2021-11-25 |  |
 | [Mesin Waktu](https://open.spotify.com/track/0tATv5Fy2aJXUOMKp2utl0) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Mesin Waktu](https://open.spotify.com/album/697noPaxXP5UVgvOG808yg) | 3:59 | 2021-11-25 |  |
 | [Midnight Thoughts](https://open.spotify.com/track/6FEqIXKSJnEWkiQWd4ucn4) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Midnight Thoughts](https://open.spotify.com/album/4xxohLBOeccaHemf2lOk6w) | 3:38 | 2021-11-25 |  |

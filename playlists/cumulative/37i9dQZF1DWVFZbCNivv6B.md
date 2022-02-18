@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de La Santa Grifa.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Snow Tha Product y Gera MX.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Too Much Flow](https://open.spotify.com/track/2ZBlDOQlq043eg34LwW54c) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Too Much Flow](https://open.spotify.com/album/1lp5sffsnaXjF5W5BxMKrK) | 3:34 | 2022-01-28 |  |
 | [TUY](https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [TUY](https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA) | 4:30 | 2022-01-28 |  |
 | [Vida Mía](https://open.spotify.com/track/7u0CjhCyWMA3uPmaQeUlel) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Katya Rgz](https://open.spotify.com/artist/6nn8XN34KkG2OimKpkDK3s) | [Vida Mía](https://open.spotify.com/album/47qxXwV8jcstesc3YfJKiF) | 4:06 | 2022-01-28 |  |
+| [Wassap](https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wassap](https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w) | 2:45 | 2022-02-17 |  |
 | [Word](https://open.spotify.com/track/1aDinHzGNHgACWIhztAv2u) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Dj Doom Deca](https://open.spotify.com/artist/4RJCAUlK6hBccEvSqkuEJC) | [Word](https://open.spotify.com/album/619bFasbM1safSvPjNdI2f) | 3:20 | 2022-01-28 |  |
 
 \*This playlist was first scraped on 2022-02-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Laura Pausini
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,041 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,057 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,21 +26,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 16 | [Leave Me!](https://open.spotify.com/track/7tksisk1ssSStbFblL2AKn) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Leave Me!](https://open.spotify.com/album/4wynn6RSL8CVbRBniEarXt) | 2:54 |
 | 17 | [Sciura Milanese](https://open.spotify.com/track/5sdqPOejvlS6P9qI7BfqrA) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/1ITICNjOqSkSVOngl30Xmh) | 3:10 |
 | 18 | [FUTURO3](https://open.spotify.com/track/35viaL05gdAMqGBCgMrFn5) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [FUTURO3](https://open.spotify.com/album/3883plODFEQ6pDJEQu6oJ0) | 4:02 |
-| 19 | [Siberiana](https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Siberiana](https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar) | 3:30 |
-| 20 | [Notturno](https://open.spotify.com/track/583K03BHY3GF6BgVgERG8f) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Notturno](https://open.spotify.com/album/3dLLEeVAfEE1JzS4BM7F4q) | 2:28 |
-| 21 | [Stupidi lovers](https://open.spotify.com/track/14Dn7lNXooVdBuL8m966Gi) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Stupidi lovers](https://open.spotify.com/album/3EVg414qzHzSExINfRV4OI) | 3:24 |
-| 22 | [Gelosa](https://open.spotify.com/track/3MjPV83UbVdp3I7qU7XzIG) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Gelosa](https://open.spotify.com/album/12XzMU7JSvQZJPj6brqKEH) | 3:37 |
-| 23 | [Senti](https://open.spotify.com/track/0t85kk0s8cAiay0Zb5S0jh) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R) | [Senti](https://open.spotify.com/album/5oyLe4c1prFyOBc3PQAKYZ) | 2:53 |
-| 24 | [CLUB](https://open.spotify.com/track/71ldpwclSliEuoun5SAAWP) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [CLUB](https://open.spotify.com/album/7HbfGtBHuP8tHWmIEuJfKn) | 2:49 |
-| 25 | [Numeri](https://open.spotify.com/track/7gSnlPaGSosD3JyDVGZ8VQ) | [Faiah](https://open.spotify.com/artist/7hzg3VDOR96ocHdkWyv1Nk) | [Numeri](https://open.spotify.com/album/15mzECFocQ42SHqziXomVD) | 3:00 |
-| 26 | [Voglio amarti](https://open.spotify.com/track/6UNuErV8ejuYcWyVDDGntN) | [Iva Zanicchi](https://open.spotify.com/artist/06WyIm2la1sB8sKdfWAvU9) | [Voglio amarti](https://open.spotify.com/album/5MXxiwMvnlzfWgpdp3EUxh) | 3:48 |
-| 27 | [Canzone inutile](https://open.spotify.com/track/6POrcZjT4Kynm1uj2VE6rQ) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Tutto accade](https://open.spotify.com/album/1fpnMQJuIlYhZpd7ZzCH29) | 3:54 |
-| 28 | [Razzi Arpia Inferno E Fiamme](https://open.spotify.com/track/5t0ctcg180Xy9ssdJ7iRYM) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Razzi Arpia Inferno E Fiamme](https://open.spotify.com/album/2TfDaMGk0AZmSGKK9FEEwM) | 2:29 |
-| 29 | [Maddalena](https://open.spotify.com/track/0StCrHQCbXBxBzeX70fgfR) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [ERO ROMANTICA](https://open.spotify.com/album/73w8REZDCOPUGPtCeKY6FL) | 3:38 |
-| 30 | [Tempesta](https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe) | [Margherita Grechi](https://open.spotify.com/artist/1sP5097vTVkcIjAxK7i4aM) | [Sad Movida](https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo) | 2:49 |
-| 31 | [Via Sicilia \(feat\. Mèsa\)](https://open.spotify.com/track/59kepW0qZOALiUmKFLdNWn) | [Bipuntato](https://open.spotify.com/artist/5NlrJ3pca2bOCx0PTfVqH2), [Mèsa](https://open.spotify.com/artist/1II5SkAm5ZbBRfdZJI376G) | [Via Sicilia](https://open.spotify.com/album/2leIPBVmBNmJfe0ywjr4du) | 2:16 |
-| 32 | [A me](https://open.spotify.com/track/7ts4D5Eey45IIa8E1FsNe0) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [A me](https://open.spotify.com/album/3yAFLbKi8ZVWoekvG5L1ZK) | 3:48 |
-| 33 | [Limbo](https://open.spotify.com/track/3q42IESK5ku2BJXz8jSvez) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Limbo](https://open.spotify.com/album/0EILrv2CGNFAhp7yRcmvUQ) | 2:19 |
+| 19 | [Fire](https://open.spotify.com/track/6AFLZvSZxVXoKefV834aoi) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [GLOWING](https://open.spotify.com/album/1KGOSKwi6fR084NBICBrKr) | 6:04 |
+| 20 | [Siberiana](https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Siberiana](https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar) | 3:30 |
+| 21 | [Notturno](https://open.spotify.com/track/583K03BHY3GF6BgVgERG8f) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Notturno](https://open.spotify.com/album/3dLLEeVAfEE1JzS4BM7F4q) | 2:28 |
+| 22 | [Stupidi lovers](https://open.spotify.com/track/14Dn7lNXooVdBuL8m966Gi) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Stupidi lovers](https://open.spotify.com/album/3EVg414qzHzSExINfRV4OI) | 3:24 |
+| 23 | [Gelosa](https://open.spotify.com/track/3MjPV83UbVdp3I7qU7XzIG) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Gelosa](https://open.spotify.com/album/12XzMU7JSvQZJPj6brqKEH) | 3:37 |
+| 24 | [Senti](https://open.spotify.com/track/0t85kk0s8cAiay0Zb5S0jh) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R) | [Senti](https://open.spotify.com/album/5oyLe4c1prFyOBc3PQAKYZ) | 2:53 |
+| 25 | [CLUB](https://open.spotify.com/track/71ldpwclSliEuoun5SAAWP) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [CLUB](https://open.spotify.com/album/7HbfGtBHuP8tHWmIEuJfKn) | 2:49 |
+| 26 | [Numeri](https://open.spotify.com/track/7gSnlPaGSosD3JyDVGZ8VQ) | [Faiah](https://open.spotify.com/artist/7hzg3VDOR96ocHdkWyv1Nk) | [Numeri](https://open.spotify.com/album/15mzECFocQ42SHqziXomVD) | 3:00 |
+| 27 | [Voglio amarti](https://open.spotify.com/track/6UNuErV8ejuYcWyVDDGntN) | [Iva Zanicchi](https://open.spotify.com/artist/06WyIm2la1sB8sKdfWAvU9) | [Voglio amarti](https://open.spotify.com/album/5MXxiwMvnlzfWgpdp3EUxh) | 3:48 |
+| 28 | [Canzone inutile](https://open.spotify.com/track/6POrcZjT4Kynm1uj2VE6rQ) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Tutto accade](https://open.spotify.com/album/1fpnMQJuIlYhZpd7ZzCH29) | 3:54 |
+| 29 | [Razzi Arpia Inferno E Fiamme](https://open.spotify.com/track/5t0ctcg180Xy9ssdJ7iRYM) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Razzi Arpia Inferno E Fiamme](https://open.spotify.com/album/2TfDaMGk0AZmSGKK9FEEwM) | 2:29 |
+| 30 | [Maddalena](https://open.spotify.com/track/0StCrHQCbXBxBzeX70fgfR) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [ERO ROMANTICA](https://open.spotify.com/album/73w8REZDCOPUGPtCeKY6FL) | 3:38 |
+| 31 | [Tempesta](https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe) | [Margherita Grechi](https://open.spotify.com/artist/1sP5097vTVkcIjAxK7i4aM) | [Sad Movida](https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo) | 2:49 |
+| 32 | [Via Sicilia \(feat\. Mèsa\)](https://open.spotify.com/track/59kepW0qZOALiUmKFLdNWn) | [Bipuntato](https://open.spotify.com/artist/5NlrJ3pca2bOCx0PTfVqH2), [Mèsa](https://open.spotify.com/artist/1II5SkAm5ZbBRfdZJI376G) | [Via Sicilia](https://open.spotify.com/album/2leIPBVmBNmJfe0ywjr4du) | 2:16 |
+| 33 | [A me](https://open.spotify.com/track/7ts4D5Eey45IIa8E1FsNe0) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [A me](https://open.spotify.com/album/3yAFLbKi8ZVWoekvG5L1ZK) | 3:48 |
 | 34 | [Scema](https://open.spotify.com/track/3DZ4lWttS6qCfkusD6Lm8g) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Scema](https://open.spotify.com/album/7vSumiaPXy6R4RVFKpi2tY) | 2:55 |
 | 35 | [Addio sul serio](https://open.spotify.com/track/0hPJkAuxZXnVCIEJPsAOaD) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Addio sul serio](https://open.spotify.com/album/0UEOp8rylvCtOqtJ98FpfP) | 3:24 |
 | 36 | [qualcosa!](https://open.spotify.com/track/6vKTTaLPgTHzEJHdYIfcjq) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [qualcosa!](https://open.spotify.com/album/3sjTb5D36Ezd4IeBWa5CVW) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Cronache autunnali](https://open.spotify.com/track/3lu2quUJHHGfrThr1PcP0R) | [jamila](https://open.spotify.com/artist/6sCjODa4Fk3yU4tiLJ6jUg) | [Frammenti](https://open.spotify.com/album/2jNyfJuEMDfbChPnMwJKSg) | 3:04 |
 | 50 | [Cenere](https://open.spotify.com/track/4vGp3JRMvgReM7suaUphjn) | [Beatrice Dellacasa](https://open.spotify.com/artist/5piFIZ88zHRxklw95h5v4L) | [Cenere](https://open.spotify.com/album/5wBHUSY3Oc6eytdfMWpbZT) | 2:30 |
 
-Snapshot ID: `MTY0Mzg1MDA2MCwwMDAwMDAxZjAwMDAwMTdlYmQxOTUxNDIwMDAwMDE3ZWI0N2MxZmY0`
+Snapshot ID: `MTY0NTEzODkyMCwwMDAwMDAyMDAwMDAwMTdmMDllYmMyYjYwMDAwMDE3ZWI0N2MxZmY0`

@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "GLOWING",
+        "url": "https://open.spotify.com/album/1KGOSKwi6fR084NBICBrKr"
+      },
+      "artists": [
+        {
+          "name": "L I M",
+          "url": "https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364591,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6AFLZvSZxVXoKefV834aoi"
+    },
+    {
+      "album": {
         "name": "Flights",
         "url": "https://open.spotify.com/album/0OD4Qz4bRci84q4JXlOYbV"
       },
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 139215,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3q42IESK5ku2BJXz8jSvez"

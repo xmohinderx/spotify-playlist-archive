@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Paper Citizen. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: shazza. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "published_playlist_ids": [
     "3clZuxYeboHhluz5fN0HIw"
@@ -1054,6 +1054,28 @@
     },
     {
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/1WyOsHwTY8Jn6rGZ2PPetC"
+      },
+      "artists": [
+        {
+          "name": "Karazey",
+          "url": "https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf"
+        },
+        {
+          "name": "Airinna Namara",
+          "url": "https://open.spotify.com/artist/144bztZE6ImAnYLiYuVdEU"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/4mYU1lSo0jgIxzH8iofmM3"
+    },
+    {
+      "album": {
         "name": "He'll Never Love You (The Way I Did)",
         "url": "https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un"
       },
@@ -1732,6 +1754,46 @@
     },
     {
       "album": {
+        "name": "Minah",
+        "url": "https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf"
+      },
+      "artists": [
+        {
+          "name": "abgdanial",
+          "url": "https://open.spotify.com/artist/2axSWwXcBtAN3e5pBao9wF"
+        },
+        {
+          "name": "DANNFOSHO",
+          "url": "https://open.spotify.com/artist/5TP0c4ogpaGI12A10iW5XM"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145950,
+      "name": "Minah",
+      "url": "https://open.spotify.com/track/7oWW1ILeliMU2HVpgvUmEy"
+    },
+    {
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/2y0d3tdRcdpwBFCUtOuURz"
+      },
+      "artists": [
+        {
+          "name": "Shahera Sam",
+          "url": "https://open.spotify.com/artist/4nUa44lnlvjTOHMkXhv7pN"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1yfS27iJnwOBsM5ygDeoLS"
+    },
+    {
+      "album": {
         "name": "Moon & The Sun",
         "url": "https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT"
       },
@@ -2005,6 +2067,24 @@
       "duration_ms": 255063,
       "name": "pink cherry blossom",
       "url": "https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL"
+    },
+    {
+      "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/1XVl95v68LAUXP8r90DQIb"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212027,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/2Z25fVRiv9kkCuYCpqf8dX"
     },
     {
       "album": {

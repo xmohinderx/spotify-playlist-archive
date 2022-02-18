@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Avril",
+        "url": "https://open.spotify.com/album/5NgU9MAauX0KKmqcgPs1Nb"
+      },
+      "artists": [
+        {
+          "name": "Venus Ex Machina",
+          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144994,
+      "name": "Avril",
+      "url": "https://open.spotify.com/track/0dZcssyC6SAkm40IvfZzIL"
+    },
+    {
+      "album": {
         "name": "Lux",
         "url": "https://open.spotify.com/album/1O09puSK7tOoQP58R4FM5M"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 144994,
       "name": "Avril",
       "url": "https://open.spotify.com/track/0div0En4DQn4cGuZYqwtpR"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Greetings from Under the Ocean",
       "url": "https://open.spotify.com/track/3bNH69NjwtqkhmoZAYuorI"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 291051,
       "name": "Headflush",
       "url": "https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 108339,
       "name": "Heathen Mirth",
       "url": "https://open.spotify.com/track/5Y18lnDzWsPSbaIcrrHkb2"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 422706,
       "name": "Hydrophonie 21",
       "url": "https://open.spotify.com/track/46Vk3C3qa0WMfLla70qVzd"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 345560,
       "name": "Hyperborea",
       "url": "https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 182500,
       "name": "Kieru",
       "url": "https://open.spotify.com/track/6WesuYhY7UVxQTdh17yGua"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 172184,
       "name": "LB 100",
       "url": "https://open.spotify.com/track/1sN2S42xK4GFwJ0kPOruCY"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 296093,
       "name": "Lovebirds",
       "url": "https://open.spotify.com/track/2WVjXjxrioX1g4wcDYB7qs"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 224000,
       "name": "Meltwater Cave",
       "url": "https://open.spotify.com/track/4iltl1TzeHOF5Cih69SPjm"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 185165,
       "name": "Quiet Sunset in Hurdal",
       "url": "https://open.spotify.com/track/6aVQ9twvxywwPUHq6CexDl"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 297600,
       "name": "Reemplazo",
       "url": "https://open.spotify.com/track/3MexaU0o2nEq3E65geoiJ5"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "Sin",
       "url": "https://open.spotify.com/track/4id7LEjWOQnOoLqG3ivz3S"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 230320,
       "name": "Surface Wear",
       "url": "https://open.spotify.com/track/4MqwW5oA1CNolnb8tnxT9E"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 332000,
       "name": "Wing Pinger 03",
       "url": "https://open.spotify.com/track/40RaemrqgCqD6y3RYoHQGE"

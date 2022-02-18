@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 285515,
       "name": "Choirs to Heaven",
       "url": "https://open.spotify.com/track/3PqrXZmbggXBw5Sswa9TFm"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 186236,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/4eLpCbcOsnexoLis1mU8JY"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 275320,
       "name": "coney island (feat. The National)",
       "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
@@ -1108,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "HI-LO",
+        "url": "https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA"
+      },
+      "artists": [
+        {
+          "name": "Ro Bergman",
+          "url": "https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225570,
+      "name": "Hi Lo",
+      "url": "https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv"
+    },
+    {
+      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 221826,
       "name": "Horizons Into Battlegrounds",
       "url": "https://open.spotify.com/track/7ALnOij8pO1jJMy8f9Sru5"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 203106,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/22YbmBNDcL1jACZIPuItR8"
@@ -1225,6 +1243,24 @@
       "duration_ms": 271854,
       "name": "I'm Around (feat. Ariel Posen)",
       "url": "https://open.spotify.com/track/6YEuH4oOA1T7zhfM57Y4dw"
+    },
+    {
+      "album": {
+        "name": "Library",
+        "url": "https://open.spotify.com/album/1op64nsgz3qLbsQEzwCcuE"
+      },
+      "artists": [
+        {
+          "name": "Femi Luna",
+          "url": "https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "I'm Trying",
+      "url": "https://open.spotify.com/track/2cDHWddXHOEuKgM5I3Ekjs"
     },
     {
       "album": {
@@ -1607,7 +1643,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 221360,
       "name": "Oakmoss",
       "url": "https://open.spotify.com/track/7Bfv08ce0ofu4EbYTxomCC"
@@ -2199,7 +2235,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 171866,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/7srVFtzbY8ok5UFzuN0b8P"
@@ -2235,7 +2271,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 193892,
       "name": "Ten Is a Number",
       "url": "https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p"
@@ -2423,7 +2459,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-18",
       "duration_ms": 215293,
       "name": "Where the Grass Grows High",
       "url": "https://open.spotify.com/track/7KBvYUxW8zgK5bQE5U1edR"
@@ -2495,7 +2531,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 195266,
       "name": "Youth",
       "url": "https://open.spotify.com/track/040biVya1wdxHojlYhlcpK"

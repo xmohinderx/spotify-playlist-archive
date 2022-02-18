@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full volume lovers. Cover: Slash feat. Myles Kennedy & The Conspirators",
-  "num_followers": 242889,
+  "num_followers": 243004,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDkxMTk3MywwMDAwMDE5NzAwMDAwMTdlZmM2NGQ2NDcwMDAwMDE3ZWUzZDg5MGE5",
+  "snapshot_id": "MTY0NTEwNjQ4NiwwMDAwMDE5ODAwMDAwMTdmMDdmY2RjOWUwMDAwMDE3ZWUzZDg5MGE5",
   "tracks": [
     {
       "added_at": "2022-02-11 00:01:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
+        "name": "On The Dark Side",
+        "url": "https://open.spotify.com/album/1fDOdT4aAuVvCOqIlFMHBx"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 218731,
+      "name": "On The Dark Side",
+      "url": "https://open.spotify.com/track/4bO8TyUK8fgE1yCwR94qON"
+    },
+    {
+      "added_at": "2022-02-11 00:01:00",
+      "album": {
         "name": "So Called Life",
         "url": "https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 202453,
       "name": "Roses on Your Grave",
       "url": "https://open.spotify.com/track/2xMEKnHsZLusGWXSCaKkh9"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "On The Dark Side",
-        "url": "https://open.spotify.com/album/1fDOdT4aAuVvCOqIlFMHBx"
-      },
-      "artists": [
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 218731,
-      "name": "On The Dark Side",
-      "url": "https://open.spotify.com/track/4bO8TyUK8fgE1yCwR94qON"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Quarantine Chronicles Vol. 3",
-        "url": "https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 189054,
-      "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
-      "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/5OOWZgHWdR7faSBQHf6eGH"
       },
@@ -695,26 +679,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Freak Like Me",
-        "url": "https://open.spotify.com/album/5ERF0E0AE6I5d4CfVZVnsR"
-      },
-      "artists": [
-        {
-          "name": "Onlap",
-          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
-        },
-        {
-          "name": "Halocene",
-          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
-        }
-      ],
-      "duration_ms": 140228,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "The Monster Roars",
         "url": "https://open.spotify.com/album/286a0luh0FDCtNoPdQh57A"
       },
@@ -851,22 +815,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Down to the Devil",
-        "url": "https://open.spotify.com/album/08FkK7BlweOZ7PFct99fMo"
-      },
-      "artists": [
-        {
-          "name": "Naked Gypsy Queens",
-          "url": "https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Down to the Devil",
-      "url": "https://open.spotify.com/track/1KqEnSyj7ZFUfN2HddUZMe"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "Hard Skool",
         "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
       },
@@ -915,22 +863,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 187823,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "Power Trio",
         "url": "https://open.spotify.com/album/0nwpxdu7byY2YBFrcXu4zB"
       },
@@ -943,22 +875,6 @@
       "duration_ms": 215360,
       "name": "Ship of Lies",
       "url": "https://open.spotify.com/track/2vSbdtapUMqlUhOEsIc5kF"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6OQov4QbYLSDCiC8VrXrCu"
-      },
-      "artists": [
-        {
-          "name": "A Killer's Confession",
-          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
-        }
-      ],
-      "duration_ms": 206641,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/50EpoDey5LPP71rXs0Sx5n"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -979,22 +895,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Navarro Hawkins Chaney",
-        "url": "https://open.spotify.com/album/4YswVN1wR0MDc6JaqizLFp"
-      },
-      "artists": [
-        {
-          "name": "NHC",
-          "url": "https://open.spotify.com/artist/5NkZhEvaFqUeNVwXseoeS3"
-        }
-      ],
-      "duration_ms": 193141,
-      "name": "Feed The Cruel",
-      "url": "https://open.spotify.com/track/5sMAU2NIlYEZS8dJVycJFf"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "Let Our Love Win",
         "url": "https://open.spotify.com/album/659Hq9z7bn8bpsi8JPyPLY"
       },
@@ -1007,38 +907,6 @@
       "duration_ms": 238000,
       "name": "Let Our Love Win",
       "url": "https://open.spotify.com/track/2yc04zLj2JCUO8exwkikWR"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/6N4OzD2tICZHchjciqtOQs"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/32OjCvkJLW1ADWiy8wSltr"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Empire Falling",
-        "url": "https://open.spotify.com/album/2VBkKGFY8PJgCJumdzwtaI"
-      },
-      "artists": [
-        {
-          "name": "Shihad",
-          "url": "https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s"
-        }
-      ],
-      "duration_ms": 217958,
-      "name": "Empire Falling",
-      "url": "https://open.spotify.com/track/5msWJtVpqsK1UP9JJB3zJ2"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -1059,22 +927,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/2CWVyPszgCA9vziJeWlcLQ"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 181520,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/766rtcPfIGfdT1YzRyxkZl"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "I Won't Let You Down",
         "url": "https://open.spotify.com/album/2lIenjJUyiGyNEHnbU0Wix"
       },
@@ -1087,30 +939,6 @@
       "duration_ms": 237266,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/7ksXqxPAko07qegZPANofU"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Damage Done",
-        "url": "https://open.spotify.com/album/5feMjfArxsii4uJHF6Tnxt"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Young",
-          "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
-        },
-        {
-          "name": "RichaadEB",
-          "url": "https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Damage Done",
-      "url": "https://open.spotify.com/track/5r8ZWkAeo5PSlPfpncKETr"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -1163,22 +991,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Mrs. Sleazy",
-        "url": "https://open.spotify.com/album/3PO3CdhdAwzExCW8HzRnMZ"
-      },
-      "artists": [
-        {
-          "name": "Wildstreet",
-          "url": "https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Mrs. Sleazy",
-      "url": "https://open.spotify.com/track/37AzekkMLM7N8lXbzjKDey"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "Even up the Score",
         "url": "https://open.spotify.com/album/5In7cCIitpSaPcZDFxkHEW"
       },
@@ -1215,38 +1027,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Standing Tall",
-        "url": "https://open.spotify.com/album/3Z8NUcRYaf4NAyLEpHMTsk"
-      },
-      "artists": [
-        {
-          "name": "The Fallen State",
-          "url": "https://open.spotify.com/artist/3wNjTfkaWlmNat9VufX7Ua"
-        }
-      ],
-      "duration_ms": 216097,
-      "name": "Standing Tall",
-      "url": "https://open.spotify.com/track/2vc4fwsO6yf0Kuxc0Q40KL"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "WEIGHT OF THE WORLD",
-        "url": "https://open.spotify.com/album/62cKN6OuXX6ilnUaCU7JPO"
-      },
-      "artists": [
-        {
-          "name": "Florence Black",
-          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
-        }
-      ],
-      "duration_ms": 221745,
-      "name": "ZULU",
-      "url": "https://open.spotify.com/track/5tW6SKXRh34Cfo1Ry6aMzq"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "You Can't Keep the Boy Down",
         "url": "https://open.spotify.com/album/0Y8O5cD5AKm1Qs7mXaf2yr"
       },
@@ -1279,22 +1059,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Gotta Get Outta Here",
-        "url": "https://open.spotify.com/album/2jMO1lQAno6IGeRuwOFmAR"
-      },
-      "artists": [
-        {
-          "name": "Blacklite District",
-          "url": "https://open.spotify.com/artist/31hrPUMBg96szrqNAb3oqP"
-        }
-      ],
-      "duration_ms": 206890,
-      "name": "Gotta Get Outta Here",
-      "url": "https://open.spotify.com/track/1a2qjHAhopSGNrE1zSrSo8"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "The Duets Collection, Vol. 1",
         "url": "https://open.spotify.com/album/6lGTbNs1Qn0UsKvc4TJQWp"
       },
@@ -1311,26 +1075,6 @@
       "duration_ms": 176126,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/4t6u8YR04Ud5apFBTU994S"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Do or Die",
-        "url": "https://open.spotify.com/album/1SphPPIDdtA0riBQAB3iLJ"
-      },
-      "artists": [
-        {
-          "name": "Spitfire",
-          "url": "https://open.spotify.com/artist/0aG9IlDRxMn7weGTmbvWoH"
-        },
-        {
-          "name": "Frank Pan\u00e9",
-          "url": "https://open.spotify.com/artist/13by3yD3QxEe1jwY5bT8ev"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "Too Much Is Never Enough",
-      "url": "https://open.spotify.com/track/2aR8JNrYDQCUl44ZnKX72h"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -1387,26 +1131,6 @@
     {
       "added_at": "2022-02-11 00:01:00",
       "album": {
-        "name": "Face the Rain (feat. Howard Jones)",
-        "url": "https://open.spotify.com/album/3OLgt2UoYzXjWj4PQ53HLx"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        },
-        {
-          "name": "Howard Jones",
-          "url": "https://open.spotify.com/artist/4RkQwoCJZNmsGdY9Ll3kg6"
-        }
-      ],
-      "duration_ms": 216112,
-      "name": "Face the Rain (feat. Howard Jones)",
-      "url": "https://open.spotify.com/track/4RDppgKH7rWasmPYN8n6Vb"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
         "name": "Fire In The Sky",
         "url": "https://open.spotify.com/album/1ojfq5VQ5yjJZntEGMtzoK"
       },
@@ -1435,50 +1159,6 @@
       "duration_ms": 257127,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Y9QCwhcDVBxTmbs9LfeAF"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Over and Out (feat Tatiana Shmayluk)",
-        "url": "https://open.spotify.com/album/26WuKnG8uyNW4kDjYT6zXH"
-      },
-      "artists": [
-        {
-          "name": "Twelve Foot Ninja",
-          "url": "https://open.spotify.com/artist/3swwiYEQQzPNGvMdEhqReR"
-        },
-        {
-          "name": "Tatiana Shmayluk",
-          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "Over and Out (feat Tatiana Shmayluk)",
-      "url": "https://open.spotify.com/track/3e99Ikjw71UUC4KZjr4Pux"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Drowning Underwater",
-        "url": "https://open.spotify.com/album/2LLoPhyf7pWOo6zhxrIX1z"
-      },
-      "artists": [
-        {
-          "name": "Flash Forward",
-          "url": "https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB"
-        },
-        {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
-        },
-        {
-          "name": "Breathe Atlantis",
-          "url": "https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN"
-        }
-      ],
-      "duration_ms": 199541,
-      "name": "Drowning Underwater",
-      "url": "https://open.spotify.com/track/7bmECXsP7xIPABDxdwYi0x"
     },
     {
       "added_at": "2022-02-11 00:01:00",
@@ -1563,38 +1243,6 @@
       "duration_ms": 224073,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Day Drinking",
-        "url": "https://open.spotify.com/album/2gOCmWCPSRONXtXHF6ALvj"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 208714,
-      "name": "Day Drinking",
-      "url": "https://open.spotify.com/track/4GWC2twtSmwU4JQh1rkkkh"
-    },
-    {
-      "added_at": "2022-02-11 00:01:00",
-      "album": {
-        "name": "Kill Beautiful Things",
-        "url": "https://open.spotify.com/album/113q2hWF8haaxs4Jm8nqQW"
-      },
-      "artists": [
-        {
-          "name": "DED",
-          "url": "https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa"
-        }
-      ],
-      "duration_ms": 251557,
-      "name": "Kill Beautiful Things",
-      "url": "https://open.spotify.com/track/3xGdLKQgJVowEX0mUDDaOg"
     },
     {
       "added_at": "2022-02-11 00:01:00",
