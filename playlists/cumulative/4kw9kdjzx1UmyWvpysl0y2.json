@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 214000,
       "name": "A Moment Apart",
       "url": "https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0"
@@ -1000,6 +1000,28 @@
     },
     {
       "album": {
+        "name": "Nevada (Vicetone Lofi Mix)",
+        "url": "https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147972,
+      "name": "Nevada - Vicetone Lofi Mix",
+      "url": "https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975"
+    },
+    {
+      "album": {
         "name": "Never Cared",
         "url": "https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y"
       },
@@ -1418,6 +1440,28 @@
     },
     {
       "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb"
+      },
+      "artists": [
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "Martin Graff",
+          "url": "https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210511,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/4cTaCAXGdmSUruJNQzwVjm"
       },
@@ -1469,7 +1513,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 225612,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/6pYH3KiWTMIIQGt9wlsspt"

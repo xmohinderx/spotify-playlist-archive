@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Kennedy Rd., Artwork: Crystal Zapata
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,923 likes - 98 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,084 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lily Apart](https://open.spotify.com/track/6EECRcDjI5034NQestBztm) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Peace + Harmony](https://open.spotify.com/album/6zi5m2AW0m14vtgwlOEM3H) | 2:47 |
 | 2 | [Waves Of Love](https://open.spotify.com/track/7FKHOjtCDh4kv3npLlqx3e) | [Kennedy Rd.](https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu) | [Waves Of Love \- Vol 1](https://open.spotify.com/album/21ry79SyedhRneG6N2ghOY) | 2:45 |
-| 3 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
+| 3 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/2UkjsQdVy00wXXsRfdPmNl) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
 | 4 | [for you](https://open.spotify.com/track/7sP7dTAajbQse9n1t2OmhF) | [Ley Vara](https://open.spotify.com/artist/5HAxw9TeQTbFuULp22xkXO) | [for you](https://open.spotify.com/album/6JMbJnX6y54Cd4JTqN3FuN) | 3:28 |
 | 5 | [NFMU](https://open.spotify.com/track/5pR1FhqTL3zdjKgkCjCjkr) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [NFMU](https://open.spotify.com/album/70tz8cJAttf17rcENXz4cQ) | 3:18 |
 | 6 | [Bamboo](https://open.spotify.com/track/3qEJUyevEIcoYFYS6oNqi9) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Candid](https://open.spotify.com/album/13wWno0G43cztuh7WGXexr) | 4:50 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 28 | [better \(feat\. Datin\)](https://open.spotify.com/track/1lLKir6PQDIEzpr651KVKf) | [Jes Norris](https://open.spotify.com/artist/1dkJq9g0LZE84RaN65lfQC), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4) | [better \(feat\. Datin\)](https://open.spotify.com/album/2jVLLIDJ1MJ7y1DP5M3xTW) | 3:01 |
 | 29 | [Kinda Love](https://open.spotify.com/track/548cTdHVWvO8YTcqW7FzS9) | [Ashleyn](https://open.spotify.com/artist/3Xkj2AWTceLmIkrP8RC96c) | [Kinda Love](https://open.spotify.com/album/443uct6tMBcxhXK2bLOO80) | 2:54 |
 | 30 | [Up & Away](https://open.spotify.com/track/0AXzk4o5bRYMtp8rT9m9Jy) | [Meaghan Maples](https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP) | [Up & Away](https://open.spotify.com/album/7hbRNjpimv9SlFMskpfYss) | 3:08 |
-| 31 | ["HANDSFREE"](https://open.spotify.com/track/5wYWMGj22W9An8VxGXnnT6) | [FRGN\-SPCMN](https://open.spotify.com/artist/1jl8cU5j8AVxplJbnTsChL), [Ace Henderson](https://open.spotify.com/artist/4wXbbemzTSC3iA8L4ezOnl) | ["HANDSFREE"](https://open.spotify.com/album/5OZQ5crAoqtHeaRJGVB7hN) | 2:38 |
+| 31 | ["HANDSFREE"](https://open.spotify.com/track/5wYWMGj22W9An8VxGXnnT6) | [Ace Henderson](https://open.spotify.com/artist/4wXbbemzTSC3iA8L4ezOnl), [FRGN\-SPCMN](https://open.spotify.com/artist/1jl8cU5j8AVxplJbnTsChL) | ["HANDSFREE"](https://open.spotify.com/album/5OZQ5crAoqtHeaRJGVB7hN) | 2:38 |
 | 32 | [Pull Up](https://open.spotify.com/track/0Awa71AbHNfZre7Wew1iYg) | [LANDEL](https://open.spotify.com/artist/6tvOxTM1eMfN1Cbpunm5Yp) | [Yours or Mine?](https://open.spotify.com/album/5nj3oGY7rQfgAk6DPfylOS) | 2:40 |
 | 33 | [Palo Santo](https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Palo Santo](https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8) | 2:55 |
 | 34 | [RISE](https://open.spotify.com/track/5pvQJtNSJH28ex4qFLQi69) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [L V J](https://open.spotify.com/artist/6nbOYUQOlOoU5C0p2I6zGk) | [RISE](https://open.spotify.com/album/7CeHWqHwSeRkV0XY1GePBN) | 3:34 |

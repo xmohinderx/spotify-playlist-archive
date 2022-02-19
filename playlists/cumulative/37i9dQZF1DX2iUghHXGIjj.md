@@ -2,7 +2,7 @@
 
 ### [Acoustic Blues](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
-> Raw, emotional, and acoustic\. Cover: Keb' Mo'
+> Raw, emotional, and acoustic\. Cover: Taj Mahal
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

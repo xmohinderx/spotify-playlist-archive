@@ -116,6 +116,28 @@
     },
     {
       "album": {
+        "name": "Chicken Heads 50th Anniversary",
+        "url": "https://open.spotify.com/album/6VOnwHoW4Hn2mxZt7HXzaR"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        },
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319558,
+      "name": "Chicken Heads",
+      "url": "https://open.spotify.com/track/0Mc5onRXu2mgLHgb0nfFxe"
+    },
+    {
+      "album": {
         "name": "Chills and Thrills (feat. Mike Campbell)",
         "url": "https://open.spotify.com/album/60e22k3sYb5f9lz3fuzlZ3"
       },

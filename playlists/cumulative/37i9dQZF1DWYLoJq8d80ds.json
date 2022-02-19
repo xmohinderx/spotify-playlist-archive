@@ -1770,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161529,
+      "name": "Yo Soy",
+      "url": "https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja"
+    },
+    {
+      "album": {
         "name": "Zapateo",
         "url": "https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60"
       },

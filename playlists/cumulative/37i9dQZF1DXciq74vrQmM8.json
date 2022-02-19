@@ -272,6 +272,32 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA"
+      },
+      "artists": [
+        {
+          "name": "July Jones",
+          "url": "https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp"
+        },
+        {
+          "name": "Suzi Wu",
+          "url": "https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi"
+        },
+        {
+          "name": "GIRLI",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223561,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc"
+    },
+    {
+      "album": {
         "name": "CASUALTY",
         "url": "https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q"
       },

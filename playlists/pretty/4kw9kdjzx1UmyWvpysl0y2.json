@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127670,
+  "num_followers": 127660,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI1MSxhNjVlNjQzZjg2Y2UxN2ExMTUzMmJkMjA3N2Q1Y2RkZWRkZDM0Nzli",
+  "snapshot_id": "MzI1NSxlZWU0MGYzZDE5MzA3OWFlODA1OTNkMzU4NWY0NWQyMmFhY2JhNGM3",
   "tracks": [
+    {
+      "added_at": "2022-02-18 17:51:57",
+      "album": {
+        "name": "Nevada (Vicetone Lofi Mix)",
+        "url": "https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "duration_ms": 147972,
+      "name": "Nevada - Vicetone Lofi Mix",
+      "url": "https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975"
+    },
+    {
+      "added_at": "2022-02-18 17:49:53",
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb"
+      },
+      "artists": [
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "Martin Graff",
+          "url": "https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9"
+        }
+      ],
+      "duration_ms": 210511,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB"
+    },
     {
       "added_at": "2022-02-17 17:42:26",
       "album": {
@@ -1091,42 +1131,6 @@
       "duration_ms": 172800,
       "name": "Carbonara",
       "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/343QCnQbAZWkJuQdSYOZTD"
-      },
-      "artists": [
-        {
-          "name": "Maazel",
-          "url": "https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7"
-        },
-        {
-          "name": "Sam Lamar",
-          "url": "https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8"
-        }
-      ],
-      "duration_ms": 225612,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6pYH3KiWTMIIQGt9wlsspt"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "A Moment Apart",
-        "url": "https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz"
-      },
-      "artists": [
-        {
-          "name": "Matrx",
-          "url": "https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "A Moment Apart",
-      "url": "https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

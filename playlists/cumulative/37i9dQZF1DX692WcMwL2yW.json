@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "AnimEl",
+        "url": "https://open.spotify.com/album/4jSNKcvNrswodMWYtZkL50"
+      },
+      "artists": [
+        {
+          "name": "Lazy Lovers",
+          "url": "https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177620,
+      "name": "AnimEl",
+      "url": "https://open.spotify.com/track/1mXWDNhr5fBS38wnXqsh8A"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/44i8vDWmQGXQwoK33zeXTS"
       },
@@ -2818,6 +2836,24 @@
     },
     {
       "album": {
+        "name": "Origi",
+        "url": "https://open.spotify.com/album/3z8uJOtd7lN9lQFH5R6TZ8"
+      },
+      "artists": [
+        {
+          "name": "Pink Oak",
+          "url": "https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235987,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/36x1ZTVotGKal7CrouiqBl"
+    },
+    {
+      "album": {
         "name": "Dungeon Noise",
         "url": "https://open.spotify.com/album/79ogyayn4MJNI1p6QND3DB"
       },
@@ -3215,7 +3251,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 138283,
       "name": "Targets",
       "url": "https://open.spotify.com/track/5T34t5XWmwI4J8GPk55DhW"

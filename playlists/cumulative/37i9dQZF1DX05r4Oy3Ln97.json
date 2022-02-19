@@ -340,6 +340,28 @@
     },
     {
       "album": {
+        "name": "Count on You (Youngr Bootleg)",
+        "url": "https://open.spotify.com/album/0arJKq46rx9SrWZYmD47aq"
+      },
+      "artists": [
+        {
+          "name": "Autoerotique",
+          "url": "https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB"
+        },
+        {
+          "name": "Youngr",
+          "url": "https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Count on You - Youngr Bootleg",
+      "url": "https://open.spotify.com/track/3LN1zLOeJAKcTyUdBgJ3Uq"
+    },
+    {
+      "album": {
         "name": "Dancing In The Lightning",
         "url": "https://open.spotify.com/album/4waeLd4X9r12a6yahjynsQ"
       },
@@ -433,7 +455,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 159152,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6fpvMHuOB3C9SCrtMGzJaO"
@@ -469,7 +491,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 137739,
       "name": "Duvida",
       "url": "https://open.spotify.com/track/3KhRsuQ7tkEOkjhLeVwz4u"
@@ -535,7 +557,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 194288,
       "name": "Feels Like Paradise",
       "url": "https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf"
@@ -723,7 +745,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 156000,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/7soMS7pyMKrEsfpOFyuYL9"
@@ -781,7 +803,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 182559,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/791KAnfU7LweoRARjI5mTd"
@@ -803,7 +825,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 182654,
       "name": "High",
       "url": "https://open.spotify.com/track/3bQ16DLr1K3mZS1j49Czql"
@@ -821,7 +843,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 144406,
       "name": "High in a Paradise",
       "url": "https://open.spotify.com/track/4qLtFVZCwFxLJOv63O4FgA"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 145833,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv"
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 168050,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/61CG5urc3Viv08uJeBOPxs"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 119217,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr"
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 159669,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w"
@@ -1449,7 +1471,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 160295,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY"
@@ -1563,7 +1585,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 212590,
       "name": "Oku - Night Version",
       "url": "https://open.spotify.com/track/2uZKeDWOF9ydWinmfee4ki"
@@ -1585,7 +1607,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 157141,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 123348,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4tL8PWUGzqtUbPROYVcAqg"
@@ -2143,7 +2165,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 134005,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C"
@@ -2271,7 +2293,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 206715,
       "name": "When We're Gone",
       "url": "https://open.spotify.com/track/7KxFCQHFflx0ZlY9SPT5nW"

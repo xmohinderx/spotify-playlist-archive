@@ -128,6 +128,28 @@
     },
     {
       "album": {
+        "name": "60 De Zile",
+        "url": "https://open.spotify.com/album/4JrcfqEfy8coVoJojstB2K"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Amuly",
+          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176699,
+      "name": "60 De Zile",
+      "url": "https://open.spotify.com/track/5ymFsfuMVDuG43ksIqCohv"
+    },
+    {
+      "album": {
         "name": "Slayer",
         "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
       },
@@ -139,7 +161,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 228750,
       "name": "60 De Zile II",
       "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"

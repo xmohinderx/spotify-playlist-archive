@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes.<br/>Cover: Tracy Lawrence
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,066 likes - 108 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,100 likes - 108 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

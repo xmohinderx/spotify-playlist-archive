@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "<a href=\"spotify:artist:7MNEVabc4cs19CbzAFZmXz\">Terrace Martin</a> shares his jazz favorites",
-  "name": "Terrace Martin Digs Jazz",
+  "description": "<a href=\"spotify:artist:0eRbECAGCLLiTyVXPBRexU\">Jon Batiste</a> shares his jazz favorites",
+  "name": "Jon Batiste Digs Jazz",
   "published_playlist_ids": [
     "2qMzxMtm3OKS2mUDUNdDKU"
   ],
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 200933,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/3VS1qUm62nDLZJtxd0V2bb"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 334333,
       "name": "A Night In Tunisia",
       "url": "https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX"
+    },
+    {
+      "album": {
+        "name": "My Spanish Heart",
+        "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319066,
+      "name": "Armando's Rhumba",
+      "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
     },
     {
       "album": {
@@ -81,6 +99,46 @@
       "duration_ms": 203640,
       "name": "At the Christmas Ball - 78rpm Version",
       "url": "https://open.spotify.com/track/6ycfiLUZd4v3BG0guw3KWd"
+    },
+    {
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
+    },
+    {
+      "album": {
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303173,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
     },
     {
       "album": {
@@ -103,6 +161,42 @@
       "duration_ms": 360133,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
+    },
+    {
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "album": {
+        "name": "Chronology Of A Dream: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/0D5GKNmcgkY8aqokBx4aID"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246773,
+      "name": "BLACCK - Live",
+      "url": "https://open.spotify.com/track/0vI6b1bVuS4BRAMLj7gb52"
     },
     {
       "album": {
@@ -193,7 +287,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 217326,
       "name": "Bromali",
       "url": "https://open.spotify.com/track/0chSQ5gYuX7GXYGiu4iUps"
@@ -222,6 +316,24 @@
     },
     {
       "album": {
+        "name": "Ahmad Jamal At The Pershing: But Not For Me",
+        "url": "https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "But Not For Me - Live At The Pershing, Chicago, 1958",
+      "url": "https://open.spotify.com/track/5iWKFIAbqS8btb6jquMusM"
+    },
+    {
+      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
       },
@@ -233,7 +345,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 677333,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
@@ -251,10 +363,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 599680,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/66vz8Um7mA6dN4C0V6031q"
+    },
+    {
+      "album": {
+        "name": "Kenny Kirkland",
+        "url": "https://open.spotify.com/album/4pnLL6l6ji6bvsb3JIOG0g"
+      },
+      "artists": [
+        {
+          "name": "Kenny Kirkland",
+          "url": "https://open.spotify.com/artist/3fvBGGCTOjiCsIqL3MFU6l"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409706,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/3ZDxqgCbrYhAM3SGWbKA0N"
     },
     {
       "album": {
@@ -269,7 +399,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 251293,
       "name": "Central Park West",
       "url": "https://open.spotify.com/track/0Ve1sQdEcXQe0ZpS8AWDPC"
@@ -287,7 +417,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 735960,
       "name": "Change of the Guard",
       "url": "https://open.spotify.com/track/4xw8UnKYxsiRFjigtQcVAL"
@@ -305,7 +435,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 917826,
       "name": "Cheesecake - Live at Carnegie Hall, New York, NY - September 1978",
       "url": "https://open.spotify.com/track/7yGhQD28nAJXPR2loczzLt"
@@ -432,6 +562,68 @@
     },
     {
       "album": {
+        "name": "Anatomy Of Angels: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7y7pVByGVFM426nWwg20xQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253106,
+      "name": "Creative - Live",
+      "url": "https://open.spotify.com/track/7MPH5i8hrn9DCk86FouziX"
+    },
+    {
+      "album": {
+        "name": "Ellington at Newport 1956 (Complete)",
+        "url": "https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 854666,
+      "name": "Diminuendo In Blue - Live",
+      "url": "https://open.spotify.com/track/1bwU4f1TYZksvSA4Rfia1p"
+    },
+    {
+      "album": {
+        "name": "The Music of John Lewis",
+        "url": "https://open.spotify.com/album/3bnvnV0Jck8cOBLUa4endW"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292506,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/5NXSSSZsa9IpEtAIAPpIyT"
+    },
+    {
+      "album": {
         "name": "Your Christmas Present - Ray Charles & Friends",
         "url": "https://open.spotify.com/album/1owHnAIok626YQVKAlYxHy"
       },
@@ -465,6 +657,24 @@
       "duration_ms": 255533,
       "name": "Dreamflower",
       "url": "https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm"
+    },
+    {
+      "album": {
+        "name": "My Spanish Heart",
+        "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303826,
+      "name": "El Bozo - Pt. 3",
+      "url": "https://open.spotify.com/track/33XEWEG7w5zzN9CqQ4Jj04"
     },
     {
       "album": {
@@ -519,7 +729,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 507321,
       "name": "For Free? - Live",
       "url": "https://open.spotify.com/track/0SNROKqamSOk4z0d239PB0"
@@ -537,7 +747,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 587600,
       "name": "Freedom Jazz Dance",
       "url": "https://open.spotify.com/track/0KciFkq67qqNrfmvbX1FCR"
@@ -588,6 +798,24 @@
     },
     {
       "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/6YoH3aHlY1OhCk6gUiXXyz"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "Goodbye - 1987 Remastered",
+      "url": "https://open.spotify.com/track/2BZMjWBblq6D88771ZOMNQ"
+    },
+    {
+      "album": {
         "name": "Illumination!",
         "url": "https://open.spotify.com/album/33Lr5tEByMXO35IEaCZg2X"
       },
@@ -632,6 +860,24 @@
     },
     {
       "album": {
+        "name": "WomanChild",
+        "url": "https://open.spotify.com/album/5JE6HnCPJ9is6pnewMaaSe"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367493,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl"
+    },
+    {
+      "album": {
         "name": "I Dream Of Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
       },
@@ -665,6 +911,64 @@
       "duration_ms": 125066,
       "name": "I Like A Sleighride (Jingle Bells)",
       "url": "https://open.spotify.com/track/3jheksJvnFHyorGydYuwuN"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6QTzCV8ST4VAMxFFv5NyMn"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228662,
+      "name": "I Need You - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/7lbZRE2H5VKRqFDcCGni2k"
+    },
+    {
+      "album": {
+        "name": "My Funny Valentine",
+        "url": "https://open.spotify.com/album/4RvpKDJOaZviOSomNRyob4"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 674760,
+      "name": "I Thought About You - Live at Philharmonic Hall, New York, NY - February 1964",
+      "url": "https://open.spotify.com/track/3khwARwpD8kCmcEPCLzTLf"
+    },
+    {
+      "album": {
+        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
+        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "I'm Just a Lucky so and So - 1990 Remaster",
+      "url": "https://open.spotify.com/track/1QFyOkiXNXx7kCWIYwrKH6"
     },
     {
       "album": {
@@ -785,10 +1089,100 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 1248808,
       "name": "Juno - Live",
       "url": "https://open.spotify.com/track/2ph0boRmM7jm7DTNlrheYo"
+    },
+    {
+      "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/3c57iTv78QOwBrJ0t7yKjE"
+    },
+    {
+      "album": {
+        "name": "Swing Easy!",
+        "url": "https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192820,
+      "name": "Just One Of Those Things - Remastered 1998",
+      "url": "https://open.spotify.com/track/5Oa3dwYqt3Mz9MGWSkTV41"
+    },
+    {
+      "album": {
+        "name": "Live In New York: At The Rubin Museum Of Art",
+        "url": "https://open.spotify.com/album/0wuytxdlCNpIkpod2gvZ9S"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371000,
+      "name": "Kindergarten",
+      "url": "https://open.spotify.com/track/7nuVifS5GSdckUT20Rai0e"
+    },
+    {
+      "album": {
+        "name": "Something Unexpected",
+        "url": "https://open.spotify.com/album/6lrMlkxtiAmVFMPYr67E6W"
+      },
+      "artists": [
+        {
+          "name": "Peter Martin",
+          "url": "https://open.spotify.com/artist/2NECfOtC8yOOhD6J2qeRG4"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508053,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/1IuMxCA2tv2lSu8WguehyI"
+    },
+    {
+      "album": {
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267158,
+      "name": "Left Over",
+      "url": "https://open.spotify.com/track/1ZeHNZPy29Q1t1laZSkHyf"
     },
     {
       "album": {
@@ -893,10 +1287,50 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 199666,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/59yXnb4uEKjlQvq1xO0PMh"
+    },
+    {
+      "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329613,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0"
+    },
+    {
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
     },
     {
       "album": {
@@ -965,7 +1399,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 846533,
       "name": "Milestones - Live at the Plugged Nickel, Chicago, IL (2nd Set) - December 22, 1965",
       "url": "https://open.spotify.com/track/1Slo3MHw6iWWu21tVdSF17"
@@ -983,7 +1417,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 550189,
       "name": "Moment's Notice - Remastered",
       "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
@@ -1037,7 +1471,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 1046666,
       "name": "My Favorite Things - Live At The Newport Jazz Festival, Newport, RI, 7/7/1963",
       "url": "https://open.spotify.com/track/18zMsNzloLbwwLIkXae9mn"
@@ -1055,7 +1489,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 1000866,
       "name": "My Funny Valentine - Live at the Plugged Nickel, Chicago, IL (2nd Set) - December 22, 1965",
       "url": "https://open.spotify.com/track/0L9xbNtzcE58bSavdCLijD"
@@ -1077,6 +1511,24 @@
       "duration_ms": 384880,
       "name": "My Man's Gone Now - Live At The Village Vanguard, NYC; 6/25/1961",
       "url": "https://open.spotify.com/track/1wCe7Rl3SRopd2hZxny2Zg"
+    },
+    {
+      "album": {
+        "name": "Of Kindred Souls",
+        "url": "https://open.spotify.com/album/4ibI961Wd6bOGVMAJhxRzN"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove Quintet",
+          "url": "https://open.spotify.com/artist/1691tt3rtiWk8dmfbKWHtc"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375933,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/1D5segZx6GzMTfwTxpZTtM"
     },
     {
       "album": {
@@ -1131,10 +1583,46 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 265068,
       "name": "Naima - 2020 Remaster",
       "url": "https://open.spotify.com/track/3jnz28JDlLUPA90sly4Xqk"
+    },
+    {
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
+    },
+    {
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458666,
+      "name": "November 15",
+      "url": "https://open.spotify.com/track/6KZKVgK5NmJtJ8hysKmGya"
     },
     {
       "album": {
@@ -1185,7 +1673,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 491466,
       "name": "Of Dreams To Come",
       "url": "https://open.spotify.com/track/0yU6Y6DP77qclbJ7nupXed"
@@ -1207,6 +1695,24 @@
       "duration_ms": 160706,
       "name": "Ole Santa",
       "url": "https://open.spotify.com/track/2nEsAq4VBRb66rnO7RcGYZ"
+    },
+    {
+      "album": {
+        "name": "Wynton Marsalis - Giant Of Jazz",
+        "url": "https://open.spotify.com/album/6XSzRXHYONRxYICZ8y2aYG"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327653,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/5Pa2avpFBD1s9fPPAlHMPU"
     },
     {
       "album": {
@@ -1246,6 +1752,60 @@
     },
     {
       "album": {
+        "name": "Personal Mountains",
+        "url": "https://open.spotify.com/album/2GEtX0EYv1UUF8N9o6yRk7"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Quartet",
+          "url": "https://open.spotify.com/artist/5m4oKkxBFIAerUx4Ng8ajj"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 961960,
+      "name": "Personal Mountains",
+      "url": "https://open.spotify.com/track/5FgiiUBl9xQSQONRvWEisy"
+    },
+    {
+      "album": {
+        "name": "Les Ann\u00e9es Bechet",
+        "url": "https://open.spotify.com/album/6MSDPMpPCInQbgW8xHDilS"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "Petite Fleur",
+      "url": "https://open.spotify.com/track/2ALXKyI9lB1HoIwJh7I2v0"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6QTzCV8ST4VAMxFFv5NyMn"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436876,
+      "name": "Prince - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/0rms69rnUaOYXAhZwR3i25"
+    },
+    {
+      "album": {
         "name": "Public Eye",
         "url": "https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5"
       },
@@ -1273,10 +1833,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 411093,
       "name": "Public Eye",
       "url": "https://open.spotify.com/track/2sHCLFTOdmmlBLyW07sBOG"
+    },
+    {
+      "album": {
+        "name": "Hamp The Legendary Decca Recordings Of Lionel Hampton",
+        "url": "https://open.spotify.com/album/4u5Gz5gglo9hj5G47NffQA"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169493,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/5SOjgaven2icwH6GrRgzGL"
     },
     {
       "album": {
@@ -1291,7 +1869,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 729760,
       "name": "Red Clay",
       "url": "https://open.spotify.com/track/2JdllRPH6a8NCpt2bpxpns"
@@ -1333,7 +1911,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 591250,
       "name": "Resting Warrior",
       "url": "https://open.spotify.com/track/38uaD41rGLXfgSrTKMcxDP"
@@ -1358,6 +1936,24 @@
     },
     {
       "album": {
+        "name": "Wynton Marsalis - Giant Of Jazz",
+        "url": "https://open.spotify.com/album/6XSzRXHYONRxYICZ8y2aYG"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417720,
+      "name": "Round 'Bout Midnight",
+      "url": "https://open.spotify.com/track/0MqKN91k169sCzv5sdJpFE"
+    },
+    {
+      "album": {
         "name": "The Jackie Mac Attack (Live)",
         "url": "https://open.spotify.com/album/03acZnIQbYxBwidczlpJt2"
       },
@@ -1369,10 +1965,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 675773,
       "name": "Round Midnight - Live",
       "url": "https://open.spotify.com/track/4NOeJ93HaDJ9Czwx4C75Mt"
+    },
+    {
+      "album": {
+        "name": "on the tender spot of every calloused moment",
+        "url": "https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Roy",
+      "url": "https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718"
     },
     {
       "album": {
@@ -1420,6 +2034,32 @@
     },
     {
       "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2lfX30k8kJIaTbPBgKy4dX"
+      },
+      "artists": [
+        {
+          "name": "Gregoire Maret",
+          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242690,
+      "name": "San Luis Obispo",
+      "url": "https://open.spotify.com/track/3lGG0QPLPR4PpvxM7gFg8l"
+    },
+    {
+      "album": {
         "name": "The Essential Eartha Kitt",
         "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
       },
@@ -1453,6 +2093,24 @@
       "duration_ms": 255733,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/27N4Y24PdcXZtR4IJ40Fhz"
+    },
+    {
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442466,
+      "name": "Sing a Song of Song",
+      "url": "https://open.spotify.com/track/1YuCTj9wRtIPtIYZesNFjN"
     },
     {
       "album": {
@@ -1510,6 +2168,42 @@
     },
     {
       "album": {
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438280,
+      "name": "Song For My Father",
+      "url": "https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A"
+    },
+    {
+      "album": {
+        "name": "Chronology Of A Dream: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/0D5GKNmcgkY8aqokBx4aID"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263813,
+      "name": "SOULFUL - Live",
+      "url": "https://open.spotify.com/track/1Mvz82ePs1izgys1Z3ZquX"
+    },
+    {
+      "album": {
         "name": "Gentle Eyes",
         "url": "https://open.spotify.com/album/0GgRhNd77djlIJTndk2G1M"
       },
@@ -1528,6 +2222,72 @@
     },
     {
       "album": {
+        "name": "Light As A Feather",
+        "url": "https://open.spotify.com/album/2b53ZhXIiCGr3rPTYkpVeF"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Return To Forever",
+          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590866,
+      "name": "Spain",
+      "url": "https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu"
+    },
+    {
+      "album": {
+        "name": "The Music of John Lewis",
+        "url": "https://open.spotify.com/album/3bnvnV0Jck8cOBLUa4endW"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289772,
+      "name": "Spanish Steps",
+      "url": "https://open.spotify.com/track/6XfjvFNEkL13xLUQu6IlBs"
+    },
+    {
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317906,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/2xnCxYTSqq7qJZupXFO5Lq"
+    },
+    {
+      "album": {
         "name": "Just In Case You Forgot How Bad He Really Was (Live)",
         "url": "https://open.spotify.com/album/4Rz6xLF2wJlpKYwc66blrc"
       },
@@ -1539,10 +2299,54 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 432400,
       "name": "Star Eyes - Live",
       "url": "https://open.spotify.com/track/3t5jvKKkLNdr68zoopwtVg"
+    },
+    {
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233613,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6FgjxSqSZOBUXImQk6o7OK"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284560,
+      "name": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
+      "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
     },
     {
       "album": {
@@ -1564,6 +2368,46 @@
     },
     {
       "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+    },
+    {
+      "album": {
+        "name": "The Marciac Suite",
+        "url": "https://open.spotify.com/album/284jiUU7GHtSw7qPZfyDpL"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598933,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/68V4eIWBMm5w5P24CpFVIH"
+    },
+    {
+      "album": {
         "name": "Stretch Music (Introducing Elena Pinderhughes)",
         "url": "https://open.spotify.com/album/0NBZ0oEunIEI12OElBO0fc"
       },
@@ -1579,7 +2423,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 304237,
       "name": "Sunrise in Beijing",
       "url": "https://open.spotify.com/track/689GuVzHuQ2gJwMPuPbCLQ"
@@ -1637,7 +2481,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 201933,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/6NlmRmhfmccg4mmmPP0Vyd"
@@ -1709,7 +2553,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 888866,
       "name": "The Next Step",
       "url": "https://open.spotify.com/track/60wDXeM5LsZFTUNA3ECMd8"
@@ -1727,7 +2571,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 625293,
       "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
@@ -1752,6 +2596,90 @@
     },
     {
       "album": {
+        "name": "Live in Tokyo",
+        "url": "https://open.spotify.com/album/7sXzZ0Rdqz2VU62t4MtCfs"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277840,
+      "name": "Things Behind the Sun",
+      "url": "https://open.spotify.com/track/0wJYwZ5FXKEsxpuyfKzUpv"
+    },
+    {
+      "album": {
+        "name": "A Social Call",
+        "url": "https://open.spotify.com/album/1z0l5vpZO8e4oTwHZ4kqyv"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Tight",
+      "url": "https://open.spotify.com/track/19hv27rYivmZ7QGO5VZD5C"
+    },
+    {
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/1okQ7tclpVXmoU3sSVRwWM"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337680,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/372yXTn4EZFOdFaJmVCfTq"
+    },
+    {
+      "album": {
+        "name": "Atmosph\u00e8res",
+        "url": "https://open.spotify.com/album/6bWRFvvfLzVFw7vZZHMHaK"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        },
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412080,
+      "name": "Traces I",
+      "url": "https://open.spotify.com/track/7M4XMWNi9ud4skdKeldTHM"
+    },
+    {
+      "album": {
         "name": "Velvet Portraits",
         "url": "https://open.spotify.com/album/4tfomAZjkkF736D6WTK7tC"
       },
@@ -1763,7 +2691,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 271080,
       "name": "Valdez Off Crenshaw",
       "url": "https://open.spotify.com/track/7fxtMDpT54D3aGWs9nh6MH"
@@ -1788,6 +2716,28 @@
     },
     {
       "album": {
+        "name": "The Tony Bennett / Bill Evans Album",
+        "url": "https://open.spotify.com/album/02dTYy5Ev3JbBW8ByOkBa5"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244453,
+      "name": "Waltz For Debby",
+      "url": "https://open.spotify.com/track/417JyU3rqIEJDkkCPpyQpt"
+    },
+    {
+      "album": {
         "name": "Christmas Holiday Lounge",
         "url": "https://open.spotify.com/album/3Om5raxcA7cu3mGadwtrdc"
       },
@@ -1806,6 +2756,24 @@
     },
     {
       "album": {
+        "name": "Warna",
+        "url": "https://open.spotify.com/album/1AxMJlX259UQmCRRsD5jl5"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403226,
+      "name": "Warna",
+      "url": "https://open.spotify.com/track/6LDCcT7lWbP0tbL8bVHBIR"
+    },
+    {
+      "album": {
         "name": "Swing, Swang, Swingin'",
         "url": "https://open.spotify.com/album/6vOTWp8UJUq2R6qNDrhuCk"
       },
@@ -1817,7 +2785,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 319226,
       "name": "What's New - Remastered",
       "url": "https://open.spotify.com/track/4q8jquFyiFcOdebPpXG5Ee"
@@ -1879,6 +2847,24 @@
       "duration_ms": 181453,
       "name": "Winter Wonderland - Single Version",
       "url": "https://open.spotify.com/track/1k494PhauiNL4sei8VWLYP"
+    },
+    {
+      "album": {
+        "name": "Love Jones The Music",
+        "url": "https://open.spotify.com/album/7dt0RR2Kbvu3ZuWloudfjI"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257666,
+      "name": "You Move Me",
+      "url": "https://open.spotify.com/track/0KBaNs1e3doQFcO5wqqyvD"
     },
     {
       "album": {

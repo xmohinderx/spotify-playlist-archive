@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Bush Doctor",
+        "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320280,
+      "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
+    },
+    {
+      "album": {
         "name": "Stay Forever",
         "url": "https://open.spotify.com/album/0pjXDUaw0Fwj98Eym7g8vh"
       },
@@ -45,7 +63,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 163853,
       "name": "A Vibe (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
@@ -63,7 +81,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 175626,
       "name": "Africa Unite",
       "url": "https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j"
@@ -89,7 +107,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 218675,
       "name": "Afrikan Children",
       "url": "https://open.spotify.com/track/4c8z56rvgeuTfJ7Pm9XGeE"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 236712,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/3qiAxasIFurgBRkOfaALAU"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Cry Cry Blood",
       "url": "https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 290453,
       "name": "Dubbing Is a Must Part 1 - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/6KNlbrsKfea9WAwOi2yq84"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 304768,
       "name": "First Time I Fall",
       "url": "https://open.spotify.com/track/5fvo8kNKsnVLpsNA1rVJN5"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 321373,
       "name": "Handsworth Revolution",
       "url": "https://open.spotify.com/track/3VA9Eb9i8fAQAWhgtxIo4J"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 232025,
       "name": "Helping Hand",
       "url": "https://open.spotify.com/track/0buhlFr2Fg6SHQy4jxA0E6"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 234586,
       "name": "Here Comes Trouble",
       "url": "https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 230733,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/1N33JzVusZ8awiZo6kcldO"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 231733,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 288561,
       "name": "Lions in the Jungle",
       "url": "https://open.spotify.com/track/6pZIvGYmPmC17jNDlUQv0e"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 298266,
       "name": "Look Who's Dancing",
       "url": "https://open.spotify.com/track/01qt1C3CQlfjCgGPMWmPfW"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 212961,
       "name": "Ma'at (Each Man)",
       "url": "https://open.spotify.com/track/1QqhHG1fdZUG5slcMT4CNm"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 192284,
       "name": "Make Me Feel (feat. Rick Ross & Ari Lennox)",
       "url": "https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 208146,
       "name": "Mr. Global (with Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp"
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 244412,
       "name": "Note To Self (Okay) [feat. Chronixx]",
       "url": "https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 142307,
       "name": "Planters Paradise (with Collie Buddz)",
       "url": "https://open.spotify.com/track/1LzeNuAVEpwx6vjHu5pedN"
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 234837,
       "name": "Reggae Soul Sister",
       "url": "https://open.spotify.com/track/6vRRNrox2PQAGN33MO47hO"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 323853,
       "name": "Row Fisherman",
       "url": "https://open.spotify.com/track/3GpgLptxcPrmMb5fI7LKDr"
@@ -2787,7 +2805,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 338379,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/7Gx5mMJZR7r5GqmR1XbqHz"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 181394,
       "name": "Sky Larking",
       "url": "https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa"
@@ -2925,7 +2943,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 177662,
       "name": "So Dangerous - Dub Mix",
       "url": "https://open.spotify.com/track/7juk6oXn7OuLZofybwUJGe"
@@ -3183,7 +3201,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 209546,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4smyzd6JsDctqs5Fy104LL"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 219906,
       "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
       "url": "https://open.spotify.com/track/6XitzIBDSAbU9gU9lhouQa"
@@ -3431,7 +3449,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 246363,
       "name": "The Voices Of Sweet Jamaica - All Star Remix",
       "url": "https://open.spotify.com/track/6ueDnmAamC2RcxY9izQQia"
@@ -3739,7 +3757,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 228225,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/5EoWTReJZUJMhWNTf11lag"

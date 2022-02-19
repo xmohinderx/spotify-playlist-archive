@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-17",
   "description": "wandering the forest as the fog floats through the trees",
   "name": "gloomcore",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6TfVEDAhgo97YC4Yvz98Mx"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 472695,
       "name": "A Quick One Before the Eternal Worm Devours Connecticut",
       "url": "https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY"
@@ -143,7 +145,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 558933,
       "name": "Coma Waering",
       "url": "https://open.spotify.com/track/5JsfsxlFQ0EwfLN95YKI5B"
@@ -273,7 +275,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
@@ -291,7 +293,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 688000,
       "name": "Earthmover",
       "url": "https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG"
@@ -309,7 +311,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 1078240,
       "name": "East Hastings",
       "url": "https://open.spotify.com/track/5jMuXTa5hECm37P7C0mbIB"
@@ -489,7 +491,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 589106,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo"
@@ -507,7 +509,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 328873,
       "name": "Memories You'll Never Feel Again",
       "url": "https://open.spotify.com/track/0GWtkT95L68vtFTpHTj24M"
@@ -543,7 +545,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 267093,
       "name": "My Blood Still Whispers",
       "url": "https://open.spotify.com/track/2z5V3tZIVIybDqlGa8uHVe"
@@ -687,7 +689,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 237013,
       "name": "She's Lost Control - 2007 Remaster",
       "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
@@ -741,7 +743,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 1352413,
       "name": "Storm",
       "url": "https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ"
@@ -813,7 +815,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 364293,
       "name": "The Eternal - 2007 Remaster",
       "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
@@ -849,7 +851,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 318786,
       "name": "The Marble Eye",
       "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
@@ -871,6 +873,24 @@
       "duration_ms": 368692,
       "name": "The Mysterious Vanishing of Electra",
       "url": "https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q"
+    },
+    {
+      "album": {
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
+      },
+      "artists": [
+        {
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "album": {
@@ -975,7 +995,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 251933,
       "name": "When You Sleep",
       "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"

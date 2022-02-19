@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "145",
+        "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141602,
+      "name": "145 - Revisited",
+      "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
+    },
+    {
+      "album": {
         "name": "Prehension",
         "url": "https://open.spotify.com/album/4IrmlNwO8aXQlFghPYl01q"
       },
@@ -510,6 +532,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152176,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ"
+    },
+    {
+      "album": {
         "name": "Night Sky",
         "url": "https://open.spotify.com/album/1fp1vxW0KcuyPpKLxfkzFO"
       },
@@ -883,6 +923,50 @@
       "duration_ms": 147280,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/2y4X4kKQSuAIqUJbMHWGke"
+    },
+    {
+      "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342"
+      },
+      "artists": [
+        {
+          "name": "Niklas Blumenthaler",
+          "url": "https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG"
+        },
+        {
+          "name": "Jonas Gewald",
+          "url": "https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143140,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81"
+    },
+    {
+      "album": {
+        "name": "Fluttering",
+        "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
+      },
+      "artists": [
+        {
+          "name": "G\u00c5EL",
+          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+        },
+        {
+          "name": "Jesse Brown",
+          "url": "https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108461,
+      "name": "Fluttering",
+      "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
     },
     {
       "album": {
@@ -1858,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171608,
+      "name": "Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
+    },
+    {
+      "album": {
         "name": "Claude Debussy",
         "url": "https://open.spotify.com/album/6EJsXzxKGPHLdUiBWKoTyv"
       },
@@ -1895,6 +1997,24 @@
       "duration_ms": 202500,
       "name": "Quietly Quietly",
       "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
+    },
+    {
+      "album": {
+        "name": "Quintessence",
+        "url": "https://open.spotify.com/album/0GK07xgX0wjZ9AnST6G5yI"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "Quintessence",
+      "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
     },
     {
       "album": {
@@ -1985,7 +2105,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 161723,
       "name": "Shared Shelter",
       "url": "https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA"
@@ -2148,6 +2268,24 @@
     },
     {
       "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
+    },
+    {
+      "album": {
         "name": "Sketches",
         "url": "https://open.spotify.com/album/4IrajRH0mfJObdf6VX4JqD"
       },
@@ -2301,6 +2439,28 @@
       "duration_ms": 210360,
       "name": "The Radiant City",
       "url": "https://open.spotify.com/track/4ZI7KGfYT2SgENTj6BUSBL"
+    },
+    {
+      "album": {
+        "name": "The Shards",
+        "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138890,
+      "name": "The Shards",
+      "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
     },
     {
       "album": {
@@ -2535,7 +2695,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 135647,
       "name": "Wake with me",
       "url": "https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj"
@@ -2557,6 +2717,28 @@
       "duration_ms": 143585,
       "name": "We Met in the Garden",
       "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
+    },
+    {
+      "album": {
+        "name": "when the party\u2019s over (Slowed Remix)",
+        "url": "https://open.spotify.com/album/06snhOORsyLrFV7rNyNlLI"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "Stephen Lee Price",
+          "url": "https://open.spotify.com/artist/1f754WBVbHOHM6ivw5vEgh"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234280,
+      "name": "when the party's over - Slowed Remix",
+      "url": "https://open.spotify.com/track/35zRHowhQifRViG90CiLLY"
     },
     {
       "album": {

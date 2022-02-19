@@ -3886,6 +3886,24 @@
     },
     {
       "album": {
+        "name": "Binaural Peace",
+        "url": "https://open.spotify.com/album/3QXYTzLcCdQHR8jY581eOw"
+      },
+      "artists": [
+        {
+          "name": "Nylana",
+          "url": "https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Peace (95.8 Hz - 90 Hz)",
+      "url": "https://open.spotify.com/track/3GjeiRan0niF5qIOUlDnAC"
+    },
+    {
+      "album": {
         "name": "Aum Mantra Beta Sinus",
         "url": "https://open.spotify.com/album/2Ns9IEot9OdpZqLrTSseWZ"
       },

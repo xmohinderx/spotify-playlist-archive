@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdgq0lsW8B2O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdgq0lsW8B2O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdgq0lsW8B2O)
 
-### Ambient 1970s
+### [Ambient 1970s](https://open.spotify.com/playlist/71Cz0OyglZmhU8EyYAjCR6)
 
 > Music from the early days of Ambient.
 

@@ -2,7 +2,7 @@
 
 ### [Rap Chileno](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
 
-> La casa de lxs MC's\. Foto: Movimiento Original.
+> La casa de lxs MC's\. Foto: Bubaseta & Aerstame.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Mi Camino](https://open.spotify.com/track/1YISfPUfbD2tc65QsFxlMT) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [Mi Camino](https://open.spotify.com/album/04SyXDhViUd6kJVBNUlfKq) | 3:23 | 2022-01-06 |  |
 | [Mi Mejor Rima](https://open.spotify.com/track/3JB5m2J7ArNEFdX5yxXCEF) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Mi Mejor Rima](https://open.spotify.com/album/29vUwFu7OH5mIp1uREyCnR) | 3:42 | 2022-01-06 |  |
 | [Mi Moment](https://open.spotify.com/track/5TYzgrLrj8M0IwzG3uJZG9) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Mi Moment](https://open.spotify.com/album/6WmFkq471ZfjnUFsydgI0q) | 3:18 | 2022-01-06 |  |
+| [Mil Vidas](https://open.spotify.com/track/0GvZmwNcfP2rigLEIhrg7y) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [Magia](https://open.spotify.com/album/1Tx7bQqx88Qi0cnxYqBQy6) | 3:08 | 2022-02-18 |  |
 | [No Te Miento](https://open.spotify.com/track/3jNIFdbUeIxo1JKb1VjUHg) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Origen](https://open.spotify.com/album/0KvclUCGaR9NVzW80700mt) | 4:43 | 2022-01-06 |  |
 | [Nuevo Comienzo \(feat\. Portavoz\)](https://open.spotify.com/track/6drA4it4HPdsCBY0zYQDkz) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/5x6g1bPnTmQyHdCTczPfjA) | 3:15 | 2022-01-06 |  |
 | [Ofrenda](https://open.spotify.com/track/0OgxjdHjIUcMxOkhNz44HB) | [Hijos de las Hojas](https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM), [Nicolas Libertad](https://open.spotify.com/artist/4Zohwfh3tPyL3X3baHjKDc) | [Ofrenda](https://open.spotify.com/album/0u7Ce6HijZZtWbiPYzD1qa) | 3:04 | 2022-01-06 |  |
@@ -75,7 +76,7 @@
 | [Raiz](https://open.spotify.com/track/7qdZUrkgnf4nkzEhfRBlUz) | [Tiro De Gracia](https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [Raiz](https://open.spotify.com/album/398fC5FnbPgjyh5jJkHTVc) | 4:19 | 2022-01-06 |  |
 | [Rebelión de Octubre](https://open.spotify.com/track/18KlviWQU3bDCVDWCVdZXb) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [MC Millaray](https://open.spotify.com/artist/3BMneIOFMaeXTeJwv1ZtK9) | [Rebelión de Octubre](https://open.spotify.com/album/1UNMUP2Bx2bj6GxbxnPYCs) | 4:07 | 2022-01-06 |  |
 | [Resistiré](https://open.spotify.com/track/1fClDpLB8yl1wzI15q7llr) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Gold](https://open.spotify.com/album/5zZohvmfqD0qOuFIqSPoZl) | 3:40 | 2022-01-06 |  |
-| [Respect](https://open.spotify.com/track/32CqjOSjvS2yP2BCs0xLYb) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [Jbeat](https://open.spotify.com/artist/2uEEbhhd2BWUo2ou8eruk5), [Dj Akrylik](https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p) | [Respect](https://open.spotify.com/album/2UDyYc2Z8PQjWasQzbr5Qi) | 2:29 | 2022-01-06 |  |
+| [Respect](https://open.spotify.com/track/32CqjOSjvS2yP2BCs0xLYb) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [Jbeat](https://open.spotify.com/artist/2uEEbhhd2BWUo2ou8eruk5), [Dj Akrylik](https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p) | [Respect](https://open.spotify.com/album/2UDyYc2Z8PQjWasQzbr5Qi) | 2:29 | 2022-01-06 | 2022-02-19 |
 | [Rimas Bravas](https://open.spotify.com/track/3AY1xH0YVYggPz4AKajxvE) | [Adickta Sinfonía](https://open.spotify.com/artist/3McbjZPGQECT5OMujemGpi) | [Rimas Bravas](https://open.spotify.com/album/2aXT7tp2VhvKzY8JLFmIom) | 4:22 | 2022-02-11 |  |
 | [Salsa Pa Mojar](https://open.spotify.com/track/0geGIDlCTNMVI5N7r6fijq) | [Uf Dog](https://open.spotify.com/artist/1iVcZZlVsqI9wdrGL31aWs), [Jay Saez](https://open.spotify.com/artist/4rxh3Sd5DrduNCOerUzHeu), [Ufboys](https://open.spotify.com/artist/3yLUK5jmRifijpZYdLoOKJ), [Joakinmolto](https://open.spotify.com/artist/1sWPh2x4MH7CI23FAva5Vk), [Skinnykitar](https://open.spotify.com/artist/51fg42p51MJJSHVPw1OZZx) | [Salsa Pa Mojar](https://open.spotify.com/album/2xky3eAe6BF7xkNOnoN5xQ) | 3:41 | 2022-01-06 |  |
 | [Saquen Bocina](https://open.spotify.com/track/3BbCLRLSUgrbZyxoqZvqo5) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Brayan Booz](https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD) | [Saquen Bocina](https://open.spotify.com/album/2gezQguJVzzvOMxIGhGZaZ) | 3:15 | 2022-01-06 |  |

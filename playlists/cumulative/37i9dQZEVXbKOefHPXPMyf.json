@@ -314,6 +314,28 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/3g8nlPP7P4rVsIbAEfrUVc"
+      },
+      "artists": [
+        {
+          "name": "Canal RCN",
+          "url": "https://open.spotify.com/artist/1H4lcG48Xmqp5SmFwgwuYL"
+        },
+        {
+          "name": "Laura Londo\u00f1o",
+          "url": "https://open.spotify.com/artist/72q5DnGwwFkPA0gfmy0IPa"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241660,
+      "name": "As de Corazones",
+      "url": "https://open.spotify.com/track/5Q26QI0enzv4s1MRfAnTEo"
+    },
+    {
+      "album": {
         "name": "Babymama (Remix)",
         "url": "https://open.spotify.com/album/1s00bDiU1JmP4Hpgb7A6Hs"
       },
@@ -511,6 +533,24 @@
       "duration_ms": 127464,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/3REELyDyt5SPKX2387Zubv"
+    },
+    {
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
     },
     {
       "album": {
@@ -987,7 +1027,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 174857,
       "name": "Eres Para M\u00ed",
       "url": "https://open.spotify.com/track/2WXh1CfW58AFWgxfIRz1qg"
@@ -1223,7 +1263,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 198739,
       "name": "Hola Como Vas",
       "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
@@ -1343,6 +1383,24 @@
       "duration_ms": 179426,
       "name": "Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/0luqiaAZqlVRhwVpooWC8s"
+    },
+    {
+      "album": {
+        "name": "Vs Head Vs Heart",
+        "url": "https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8"
+      },
+      "artists": [
+        {
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202907,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
     },
     {
       "album": {
@@ -1477,7 +1535,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -1873,7 +1931,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
@@ -2189,7 +2247,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 156798,
       "name": "Shake",
       "url": "https://open.spotify.com/track/7rdIKBTAQm4nLlpA5E8DBI"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Fred Again.. & India Jordan",
+  "description": "The home for alternative electronic music. Cover: Prospa and KETTAMA",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 218363,
       "name": "18 & Over",
       "url": "https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 274211,
       "name": "Arc",
       "url": "https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe"
@@ -705,6 +705,28 @@
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/3Em33jXolcIXpBUskbbSiQ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390857,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/1JkiUUejePFuSJkbCxiOta"
     },
     {
       "album": {
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 196796,
       "name": "Hannah (The Sun)",
       "url": "https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft"
@@ -1259,6 +1281,24 @@
       "duration_ms": 157653,
       "name": "Here We Go Again (feat. Fela.Mi)",
       "url": "https://open.spotify.com/track/7KShpllUQ6A4TzH4QwYBBQ"
+    },
+    {
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/3g3kqsAaeqmDZGG12EwSDL"
+      },
+      "artists": [
+        {
+          "name": "Prozak",
+          "url": "https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300662,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5qyIcrXTSEqTBUXLvFPN04"
     },
     {
       "album": {
@@ -1595,7 +1635,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 184652,
       "name": "Laylo",
       "url": "https://open.spotify.com/track/6VbC42nxXJIQQoRXu743ie"
@@ -2119,7 +2159,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 261153,
       "name": "Possessions",
       "url": "https://open.spotify.com/track/3B7WWKratENpY54uYEacLP"
@@ -2217,7 +2257,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 423837,
       "name": "Ramona",
       "url": "https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN"
@@ -2279,7 +2319,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 391333,
       "name": "Revision feat Giovanni - Original Mix",
       "url": "https://open.spotify.com/track/05Q2QXgj7NPOmYvito5OOm"
@@ -2460,6 +2500,46 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/78veW1SzwerrmJWas6Ca35"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Laudic",
+          "url": "https://open.spotify.com/artist/3Y9YbP5cfE73GZQBsPvds9"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313794,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0WMC46vApbaQRiE6fkFSJf"
+    },
+    {
+      "album": {
+        "name": "SMD",
+        "url": "https://open.spotify.com/album/1tDVl1AYrUCaIfXqq8xeVR"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "SMD",
+      "url": "https://open.spotify.com/track/1jwlVNuTwv9uGeYoAsYdIL"
+    },
+    {
+      "album": {
         "name": "BMW Track / So U Kno",
         "url": "https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt"
       },
@@ -2475,6 +2555,28 @@
       "duration_ms": 343506,
       "name": "So U Kno",
       "url": "https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv"
+    },
+    {
+      "album": {
+        "name": "Soared Straight Through Me (Midland Remix)",
+        "url": "https://open.spotify.com/album/0MvOgiHn9AsRgUTKaR7pev"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368865,
+      "name": "Soared Straight Through Me - Midland Remix",
+      "url": "https://open.spotify.com/track/1INSU3ZpsArYUo0tA9Z617"
     },
     {
       "album": {
@@ -2740,6 +2842,28 @@
     },
     {
       "album": {
+        "name": "The Dark (feat. Bklava)",
+        "url": "https://open.spotify.com/album/6ZVSUV6Q5gVALQFEoAhbZF"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230546,
+      "name": "The Dark (feat. Bklava)",
+      "url": "https://open.spotify.com/track/0ZGTKMUfj3pbKbTjMCCuEQ"
+    },
+    {
+      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7"
       },
@@ -2978,6 +3102,28 @@
     },
     {
       "album": {
+        "name": "Visited By Astronauts (SHERELLE Had A Groove Remix)",
+        "url": "https://open.spotify.com/album/7uWrC80CdnlDRoe9pUI1yn"
+      },
+      "artists": [
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        },
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276077,
+      "name": "Visited By Astronauts (SHERELLE Had A Groove Remix)",
+      "url": "https://open.spotify.com/track/5UlfojmfPdNxLnt5qcBx93"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/391AEoRTvfolxxXc6TOWYs"
       },
@@ -2989,7 +3135,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 267084,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4t77cSxZdEtp6omykJw51C"

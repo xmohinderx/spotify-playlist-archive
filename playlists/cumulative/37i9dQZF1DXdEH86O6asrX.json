@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 261173,
       "name": "A Christmas Carol Main Title",
       "url": "https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Baby Driver",
       "url": "https://open.spotify.com/track/0si76EE5TVUriyT02srhrd"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 212426,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 166386,
       "name": "Christmas Time Is Here - Vocal",
       "url": "https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0"
@@ -352,6 +352,28 @@
     },
     {
       "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        },
+        {
+          "name": "Rocky Roberts",
+          "url": "https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC"
+    },
+    {
+      "album": {
         "name": "Boyhood: Music from the Motion Picture",
         "url": "https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ"
       },
@@ -381,7 +403,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 364946,
       "name": "Dry The Rain",
       "url": "https://open.spotify.com/track/0DAX2ETmLo0UIXB8AubQ8k"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 246066,
       "name": "E.T. Is Alive! - Soundtrack Reissue (2002)",
       "url": "https://open.spotify.com/track/5eaEIsfop4IQJryjvkBGl9"
@@ -435,7 +457,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 253800,
       "name": "Easy",
       "url": "https://open.spotify.com/track/471eUUcbGi51YG8mooiuYF"
@@ -471,7 +493,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 80413,
       "name": "Fantastic Mr. Fox AKA Petey's Song",
       "url": "https://open.spotify.com/track/0zSfU0syn0Qi96jplDmIOr"
@@ -507,7 +529,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 135443,
       "name": "Futile Devices (Doveman Remix)",
       "url": "https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19"
@@ -529,7 +551,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 298706,
       "name": "Goin' to Acapulco",
       "url": "https://open.spotify.com/track/1239baQ1b9cD0RRv5Jy9Sb"
@@ -713,7 +735,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 167520,
       "name": "Immigrant Song - Karen O with Trent Reznor",
       "url": "https://open.spotify.com/track/4490WK2mSNXqH5GujXyHGj"
@@ -753,7 +775,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 152546,
       "name": "I\u2019m So Humble",
       "url": "https://open.spotify.com/track/39F08AoluLGQ9F1J2bO4Pn"
@@ -881,7 +903,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 184777,
       "name": "Let It Snow, Let It Snow, Let It Snow",
       "url": "https://open.spotify.com/track/0GEQ0otjCdvAelfJqGifX1"
@@ -1091,7 +1113,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 229080,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/47F10EemSKAI6A85hLIpn0"
@@ -1279,7 +1301,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 229733,
       "name": "Put A Little Love In Your Heart",
       "url": "https://open.spotify.com/track/0Zy1yjB9wMfm76pcEF2egT"
@@ -1441,7 +1463,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 145640,
       "name": "Skating",
       "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
@@ -1459,7 +1481,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 177893,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/1uUBDZrwiwMJ7NglXHV93B"
@@ -1477,7 +1499,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 63973,
       "name": "Somewhere in My Memory - Chorus & Orchestra Version",
       "url": "https://open.spotify.com/track/1WA5av9UlqPNOKcaUdWbGM"
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 200053,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3L6bCxrwKe1qnsqFzssR4R"
@@ -1783,7 +1805,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 163573,
       "name": "Toys - Soundtrack Reissue (2002)",
       "url": "https://open.spotify.com/track/0Zl862DhFbS6kHRK0DzNXx"
@@ -1841,7 +1863,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 254626,
       "name": "We Wish You a Merry Christmas / End Title - Voice",
       "url": "https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ"
@@ -1913,7 +1935,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 182373,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0j8SN00NYeJGDIIiDezHjm"

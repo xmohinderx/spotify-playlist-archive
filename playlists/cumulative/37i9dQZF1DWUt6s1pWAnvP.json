@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-17",
   "description": "A place for recovery - silent ambient for thinkers and contemplators. ",
   "name": "The Quiet Club",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4dNVESKui0IPnzcFUq1UUN"
+  ],
   "tracks": [
     {
       "album": {
@@ -75,7 +77,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 193933,
       "name": "Amour&Armor",
       "url": "https://open.spotify.com/track/0ZKOHpz4fpYyYE7pKxzVQr"
@@ -173,6 +175,24 @@
       "duration_ms": 290786,
       "name": "Channeling",
       "url": "https://open.spotify.com/track/6bf3BScZ5GjhHjGQRwBtPN"
+    },
+    {
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273986,
+      "name": "Come Softly - For Daniel D.",
+      "url": "https://open.spotify.com/track/3JyPrk7TuXyBY5eTmwZsSk"
     },
     {
       "album": {
@@ -306,6 +326,24 @@
     },
     {
       "album": {
+        "name": "How Much Time it is Between You and Me?",
+        "url": "https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298909,
+      "name": "Fallin Into Space",
+      "url": "https://open.spotify.com/track/0mRI398jCGgDuJXoG79LSz"
+    },
+    {
+      "album": {
         "name": "Amaryllis Dream",
         "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
       },
@@ -419,7 +457,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 3682333,
       "name": "Kyema (Intermediate States)",
       "url": "https://open.spotify.com/track/6SrDGaMF5zeQVoujQq4Pap"
@@ -517,7 +555,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 958946,
       "name": "Nereus (Spirits Over the Lake)",
       "url": "https://open.spotify.com/track/1nEU4BcSMLCIhRK5n3biYz"
@@ -535,7 +573,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 360253,
       "name": "Nuuk (End)",
       "url": "https://open.spotify.com/track/3k0YhS5724LSv0qdrV1EkK"
@@ -596,6 +634,24 @@
     },
     {
       "album": {
+        "name": "Orbital",
+        "url": "https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4"
+      },
+      "artists": [
+        {
+          "name": "wood.",
+          "url": "https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "Orbital",
+      "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
+    },
+    {
+      "album": {
         "name": "Despierta, Remedio, Cuenta",
         "url": "https://open.spotify.com/album/7ihbtOYJhuKirh98QgouJb"
       },
@@ -632,6 +688,24 @@
     },
     {
       "album": {
+        "name": "Lens Flare",
+        "url": "https://open.spotify.com/album/0jc20NPLBybXUqRSxexOxF"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Vaan",
+          "url": "https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/13fcxKQcqzCIKt2TLwzLEs"
+    },
+    {
+      "album": {
         "name": "Palimpsests",
         "url": "https://open.spotify.com/album/3zh7gaR5TzIP4qE4QcI4uv"
       },
@@ -651,6 +725,28 @@
       "duration_ms": 211000,
       "name": "Ravenna",
       "url": "https://open.spotify.com/track/3g1Rsqaisx9U7M5HGGuEyo"
+    },
+    {
+      "album": {
+        "name": "Landscape Architecture",
+        "url": "https://open.spotify.com/album/0HLmS9spJjwFtb38HV3bWR"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "JAB",
+          "url": "https://open.spotify.com/artist/3mhteIkcexCtGabHwV0GsP"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Rearview Mirror",
+      "url": "https://open.spotify.com/track/6IUoIIFIiOk5rmfrJ8mgu0"
     },
     {
       "album": {
@@ -691,7 +787,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 225020,
       "name": "Riposte Erik Satie - Movement 1",
       "url": "https://open.spotify.com/track/3lWrbDvJGFmTpNowYYDOO0"
@@ -745,7 +841,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 246781,
       "name": "Searching For Joy In The Season of Sorrow",
       "url": "https://open.spotify.com/track/03kU6xt9ejon33VJyn0hEH"
@@ -767,7 +863,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 177579,
       "name": "Skinnarviksberget",
       "url": "https://open.spotify.com/track/19BUFq6VkcwCVY2CLSZGHm"
@@ -839,7 +935,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 208170,
       "name": "Sutarti VI",
       "url": "https://open.spotify.com/track/441i1aYEL6sOA8qUfMSGc1"
@@ -933,7 +1029,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 360000,
       "name": "The Smoke In The Photo - Remastered",
       "url": "https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B"
@@ -1046,6 +1142,24 @@
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
+    },
+    {
+      "album": {
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 1397760,
       "name": "Wing Pinger 06",
       "url": "https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5"
@@ -1081,7 +1195,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 1299168,
       "name": "\u5b87\u5b99",
       "url": "https://open.spotify.com/track/6C7Uk2c2CkJq1YTWIUfmkT"

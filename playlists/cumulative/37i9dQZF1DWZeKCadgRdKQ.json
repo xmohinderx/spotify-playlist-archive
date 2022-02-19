@@ -1608,6 +1608,24 @@
     },
     {
       "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub"
+      },
+      "artists": [
+        {
+          "name": "Agnes Lundh",
+          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Dreamscapes",
+      "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/1SOTUgM1yLfg7w6WqtoHcR"
       },
@@ -2415,6 +2433,24 @@
       "duration_ms": 227919,
       "name": "Fusion",
       "url": "https://open.spotify.com/track/7GiFqdQP8AdVRl1rCK7Zev"
+    },
+    {
+      "album": {
+        "name": "Gentle Whisper",
+        "url": "https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Gentle Whisper",
+      "url": "https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B"
     },
     {
       "album": {

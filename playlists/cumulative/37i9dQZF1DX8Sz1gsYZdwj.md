@@ -61,5 +61,6 @@
 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 | 2021-11-09 |  |
 | [Trois Romances sans paroles, Op.17 : 3\. Andante moderato](https://open.spotify.com/track/16huMJ9VNs9HZYelFI10FE) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Soft Classical Music](https://open.spotify.com/album/0NYS5GHjc4D3eYspS14Zf2) | 2:43 | 2021-11-09 |  |
 | [Warm Embrace](https://open.spotify.com/track/2bVUyLxltPaSPhz9yaNbr4) | [MettaForm](https://open.spotify.com/artist/06gX9DtFjd1muCd2b4qfxq) | [Solar Cooling](https://open.spotify.com/album/5rHfIbbcc4xDiDGkbIfifX) | 1:50 | 2021-11-09 |  |
+| [when the party's over \- Slowed Remix](https://open.spotify.com/track/35zRHowhQifRViG90CiLLY) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Stephen Lee Price](https://open.spotify.com/artist/1f754WBVbHOHM6ivw5vEgh) | [when the party’s over \(Slowed Remix\)](https://open.spotify.com/album/06snhOORsyLrFV7rNyNlLI) | 3:54 | 2022-02-18 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

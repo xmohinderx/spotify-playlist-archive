@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=Q9poZzv4QO2SmPd\-EQIP7A">Aubrey Qwana</a> and <a href="https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC?si=1pSNHh\-bSCKMmCOkJqsxiA">The Maniac DJ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,315 likes - 65 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,367 likes - 65 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

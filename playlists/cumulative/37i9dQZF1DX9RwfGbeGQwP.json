@@ -5944,6 +5944,24 @@
     },
     {
       "album": {
+        "name": "Sweet Morning",
+        "url": "https://open.spotify.com/album/4SzuMKqwnXnCuORNhqWuGO"
+      },
+      "artists": [
+        {
+          "name": "Ouska",
+          "url": "https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Sweet Morning",
+      "url": "https://open.spotify.com/track/3sDROMtJXbaBbFag9akZLY"
+    },
+    {
+      "album": {
         "name": "Sweev",
         "url": "https://open.spotify.com/album/1HOCEZCmzrrIhYuhB7rPef"
       },

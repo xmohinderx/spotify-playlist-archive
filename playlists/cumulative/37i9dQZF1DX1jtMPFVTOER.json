@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "You and jazz are the center of this universe. Cover: Alicia Keys",
+  "description": "You and jazz are the center of this universe. Cover: Masego",
   "name": "Orbit",
   "published_playlist_ids": [
     "1HzUqJHRCll2EIj4taxTFD"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2f91XG660rR9o9L6y0zAEB"
+      },
+      "artists": [
+        {
+          "name": "Fatima",
+          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
+        },
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393251,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/7EQ0FCO0iaPu2xiW50JRIK"
+    },
     {
       "album": {
         "name": "12 Little Spells (Deluxe Edition)",
@@ -19,7 +41,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 257079,
       "name": "'Til the Next Full (eyes)",
       "url": "https://open.spotify.com/track/7jA2864ZUuQjrio9h7sYkE"
@@ -113,7 +135,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 336682,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/72J8sfbLwNfUfIbad5JF9N"
@@ -171,7 +193,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 254634,
       "name": "Bald Men Anthem",
       "url": "https://open.spotify.com/track/3rJzQDT5O5pgyLWzpzU7oN"
@@ -189,7 +211,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 159301,
       "name": "Be Better",
       "url": "https://open.spotify.com/track/6Z1lZYniJVYG8el7HgFEAQ"
@@ -394,6 +416,24 @@
     },
     {
       "album": {
+        "name": "Called You Out",
+        "url": "https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155841,
+      "name": "Called You Out",
+      "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
+    },
+    {
+      "album": {
         "name": "Can't Let You Go (feat. Nick Grant)",
         "url": "https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj"
       },
@@ -435,7 +475,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 285207,
       "name": "Can't Remember",
       "url": "https://open.spotify.com/track/3arfOfBDZmhNSzM0VN4BRQ"
@@ -457,7 +497,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 149010,
       "name": "Chance to Say My Piece",
       "url": "https://open.spotify.com/track/5156TsGL5qwZfzIfFxCueZ"
@@ -799,7 +839,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 210442,
       "name": "Energy",
       "url": "https://open.spotify.com/track/3q8ZCNaTbqiX4xYaj5FFka"
@@ -859,7 +899,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 216032,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/1L7VZNfeHZklTP6qR2nxhh"
@@ -917,7 +957,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 234039,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/59fIYH3h8H8ilm9ALt2NUl"
@@ -987,7 +1027,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 227160,
       "name": "For The City [feat. Fly Anakin]",
       "url": "https://open.spotify.com/track/0UlU9xMt2bOQP8w8PaUMrG"
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 337626,
       "name": "Get Sun (feat. Arthur Verocai)",
       "url": "https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX"
@@ -1173,7 +1213,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 234026,
       "name": "Happy Feet (for dancers) (feat. Malaya)",
       "url": "https://open.spotify.com/track/2T1rHI8WjlEItxOECx70Hp"
@@ -1191,7 +1231,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 247496,
       "name": "Health Food",
       "url": "https://open.spotify.com/track/0Dylgc29zZwO3YRC1VrMdo"
@@ -1261,7 +1301,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 248298,
       "name": "Identity Crisis",
       "url": "https://open.spotify.com/track/2CKJVIBKFkgKcuejpnpc78"
@@ -1309,7 +1349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 273255,
       "name": "IN THE WEE SMALL HOURS OF THE MORNING",
       "url": "https://open.spotify.com/track/5GnpiOhet76cQrplVi8ZED"
@@ -1389,7 +1429,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 213960,
       "name": "Jimtastic Blues",
       "url": "https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp"
@@ -1433,7 +1473,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 304538,
       "name": "La cumbia me est\u00e1 llamando [Feat. La Perla] - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/2WXocqPMagvqGclaaMVXLA"
@@ -1521,7 +1561,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 244226,
       "name": "Lookin' at the World",
       "url": "https://open.spotify.com/track/248XESwp5QmNsE0YsMVOGN"
@@ -1609,6 +1649,46 @@
       "duration_ms": 169565,
       "name": "Meet Me Halfway",
       "url": "https://open.spotify.com/track/3UmdC9UAGUO6kLfKHZC2nQ"
+    },
+    {
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/1OngiCUDiMVu9TBTPcew97"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260592,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/6yLj5FNhGIkYmGY0sO1KCw"
+    },
+    {
+      "album": {
+        "name": "Memory Leaves",
+        "url": "https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196845,
+      "name": "Memory Leaves",
+      "url": "https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W"
     },
     {
       "album": {
@@ -1743,7 +1823,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 179554,
       "name": "Neon Blue",
       "url": "https://open.spotify.com/track/3C5IAL2ayPXvM1PVEdwUra"
@@ -1765,7 +1845,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 213947,
       "name": "No Gangster",
       "url": "https://open.spotify.com/track/5otluRxna3pAB35cJoiKgA"
@@ -1783,7 +1863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 189596,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/7hAOd7jt3xglB5styzR0GD"
@@ -1805,7 +1885,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 235081,
       "name": "Nothing Can Tear Us Apart",
       "url": "https://open.spotify.com/track/2IdfvxOWNu4usISuuQvJFB"
@@ -1867,6 +1947,24 @@
       "duration_ms": 109268,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG"
+    },
+    {
+      "album": {
+        "name": "piano joint",
+        "url": "https://open.spotify.com/album/0sl4wd2G6qzT8viRkFWDXV"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "piano joint",
+      "url": "https://open.spotify.com/track/7bz6B6gqfRRiCI34j3JzCI"
     },
     {
       "album": {
@@ -2035,7 +2133,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 272500,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0ABtEGkZgxAnJOCKVVhr29"
@@ -2083,7 +2181,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY"
@@ -2123,7 +2221,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 244933,
       "name": "Send My Love",
       "url": "https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr"
@@ -2145,7 +2243,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 260122,
       "name": "Shades of You",
       "url": "https://open.spotify.com/track/0yB2tOeUYBDiVcEdKM7yGZ"
@@ -2253,7 +2351,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 347106,
       "name": "Slow Bones - Cool Cats Mix",
       "url": "https://open.spotify.com/track/7xNhZ0zftPVf4DK9Ql18yi"
@@ -2271,7 +2369,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 206637,
       "name": "Spirit Speak",
       "url": "https://open.spotify.com/track/1d5iBVkBll0xhKH0jk9qaj"
@@ -2297,7 +2395,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 341639,
       "name": "Storm",
       "url": "https://open.spotify.com/track/7feOpZEItuZLuzRotDx6oJ"
@@ -2417,7 +2515,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 251799,
       "name": "Tabula Rasa (feat. Armand Hammer)",
       "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
@@ -2461,7 +2559,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
@@ -2531,7 +2629,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 74548,
       "name": "The Music Is The Magic",
       "url": "https://open.spotify.com/track/6Oyc9RidszDnwTkyWJXZbT"
@@ -2585,7 +2683,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 220839,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc"
@@ -2615,7 +2713,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 268797,
       "name": "Time Just Stops",
       "url": "https://open.spotify.com/track/3uYzwUpJ4ubqRx6mbbJmAt"
@@ -2703,7 +2801,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 270000,
       "name": "Up 2 U",
       "url": "https://open.spotify.com/track/6rqjxPBRBBCuEZarxi7beI"
@@ -2801,7 +2899,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 344893,
       "name": "When We Get By",
       "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
@@ -2911,7 +3009,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 189621,
       "name": "zero (ft. Mereba)",
       "url": "https://open.spotify.com/track/0hbL0lbapKghBR2K2Xl1wo"

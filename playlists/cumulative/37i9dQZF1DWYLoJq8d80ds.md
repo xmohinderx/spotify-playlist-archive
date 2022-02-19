@@ -97,6 +97,7 @@
 | [Volver a Tilcara](https://open.spotify.com/track/1Ab4W9QwZf30bFMsiH3RpM) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Volver](https://open.spotify.com/album/64kjdSVZf0RDPJrv73sCpW) | 4:57 | 2021-12-31 |  |
 | [Volver a Verte](https://open.spotify.com/track/5OP2PMkXcIIbEzztGKPYve) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 2:23 | 2021-12-31 |  |
 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 |  |
+| [Yo Soy](https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Yo Soy](https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C) | 2:41 | 2022-02-18 |  |
 | [Zapateo](https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Zapateo](https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60) | 2:59 | 2021-12-31 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "C\u00e1ch Ch\u00fang Ta L\u00e0m L\u00e0nh",
+        "url": "https://open.spotify.com/album/4nXg2pRfJEITKPvhHCjEen"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 Ph\u1ee5ng Ti\u00ean",
+          "url": "https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj"
+        },
+        {
+          "name": "Hagii",
+          "url": "https://open.spotify.com/artist/67aKZ0bV9i4r1dP4dsCJku"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199389,
+      "name": "C\u00e1ch Ch\u00fang Ta L\u00e0m L\u00e0nh",
+      "url": "https://open.spotify.com/track/2GmquzWVnVKNp8mNmu0ZON"
+    },
+    {
+      "album": {
         "name": "C\u00e2u H\u1ee9a Ch\u01b0a V\u1eb9n Tr\u00f2n",
         "url": "https://open.spotify.com/album/5F90h2w4XZCEBvb1r1zokb"
       },
@@ -741,6 +763,28 @@
       "duration_ms": 237070,
       "name": "C\u01a1n M\u01b0a B\u00ecnh Y\u00ean (feat. C\u01b0\u1eddng)",
       "url": "https://open.spotify.com/track/3kGgUPDgMF2N9QQUREePAi"
+    },
+    {
+      "album": {
+        "name": "C\u1ea3m Gi\u00e1c L\u1ea1 (feat. T\u00e0i Smile)",
+        "url": "https://open.spotify.com/album/7ES5gcJGdbs9moHJiWVZLS"
+      },
+      "artists": [
+        {
+          "name": "Zoky",
+          "url": "https://open.spotify.com/artist/2NwcaFBDo5q8yedM6HZe38"
+        },
+        {
+          "name": "T\u00e0i Smile",
+          "url": "https://open.spotify.com/artist/7l7JnnrdPYWBSFDfXuce4T"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "C\u1ea3m Gi\u00e1c L\u1ea1 (feat. T\u00e0i Smile)",
+      "url": "https://open.spotify.com/track/4okdW9XpuHlQW6YWt1rCp7"
     },
     {
       "album": {
@@ -1124,6 +1168,28 @@
     },
     {
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5LIVthZlyi1T6rtRse4B3i"
+      },
+      "artists": [
+        {
+          "name": "Giao Linh",
+          "url": "https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx"
+        },
+        {
+          "name": "Danh Huy",
+          "url": "https://open.spotify.com/artist/0GvmaT4Fxjl7wRF2Y9OPd2"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193606,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/7n4aXfGvEgv705Oqrzkj8D"
+    },
+    {
+      "album": {
         "name": "HIPPU",
         "url": "https://open.spotify.com/album/4fbjOAlWJmdQKPcPZ24KOL"
       },
@@ -1277,6 +1343,24 @@
       "duration_ms": 208463,
       "name": "H\u1eb9n Em Ki\u1ebfp Sau",
       "url": "https://open.spotify.com/track/4tLlCe4nJVY5ABsBOWV2mF"
+    },
+    {
+      "album": {
+        "name": "H\u1ebft Y\u00eau",
+        "url": "https://open.spotify.com/album/4qpBodctCnjYaB6bN5kGZr"
+      },
+      "artists": [
+        {
+          "name": "Phan Y\u1ebfn Nhi",
+          "url": "https://open.spotify.com/artist/4GFQ39C6ZEaqEsyGJggcVW"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355470,
+      "name": "H\u1ebft Y\u00eau",
+      "url": "https://open.spotify.com/track/0YYN8Y6qq2RcgfXbjp7Nvd"
     },
     {
       "album": {
@@ -1549,7 +1633,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 203538,
       "name": "L\u00e0 th\u1edd \u00edch th\u00edch l\u00e0 th\u1edd \u01b0\u01a1ng th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/4WQRt4T3OJ7AghHSIJcP43"
@@ -2333,7 +2417,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 189344,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4qaQQQHtHokY2lv7YB8XeW"
@@ -2527,7 +2611,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 190000,
       "name": "Tho\u1ea3 Hi\u1ec7p",
       "url": "https://open.spotify.com/track/1I1FNeP2QITePg8JNpo3S3"
@@ -2589,7 +2673,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 154343,
       "name": "Th\u1ee7 Ng\u1eef",
       "url": "https://open.spotify.com/track/1ACVEoQsPLJzLHm95MRfMq"
@@ -2883,7 +2967,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 195592,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/7tseuw1e7EiGHM6YHVz17w"

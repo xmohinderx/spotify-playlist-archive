@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world.  (Cover: \bFuture)",
+  "description": "The hottest Hip-Hop of today all over the world.  (Cover: \bJack Harlow)",
   "name": "Beats & Rhymes",
   "published_playlist_ids": [
     "5iCL6Bkh9tey5devRFvQcq"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6trzY0QXeydfFxDM8Ch7B6"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235984,
+      "name": "",
+      "url": "https://open.spotify.com/track/34TZ4X0J2RSFKL4oocpIu8"
+    },
     {
       "album": {
         "name": "10/10",
@@ -489,6 +507,28 @@
       "duration_ms": 136760,
       "name": "Bussin",
       "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+    },
+    {
+      "album": {
+        "name": "Champions (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/0HQVecZ4yQVtueE5yEKXC9"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157772,
+      "name": "Champions (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/6MBBMgzOJjVsBuhZglGJXw"
     },
     {
       "album": {
@@ -1864,6 +1904,24 @@
     },
     {
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "album": {
         "name": "Never Give Up (feat. Steven Zaire)",
         "url": "https://open.spotify.com/album/79NtppICeKqi1eW9qliQdD"
       },
@@ -2131,36 +2189,6 @@
       "duration_ms": 286184,
       "name": "Parables (Remix) [feat. Eminem]",
       "url": "https://open.spotify.com/track/0DUsAwAHvHl6CdvtQIS27x"
-    },
-    {
-      "album": {
-        "name": "Police",
-        "url": "https://open.spotify.com/album/6trzY0QXeydfFxDM8Ch7B6"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "J5 Slap",
-          "url": "https://open.spotify.com/artist/4UxMwyiu2JpqRyNa2CWzH0"
-        },
-        {
-          "name": "A1 Yolaman",
-          "url": "https://open.spotify.com/artist/4WyKPazxbqOYXaNhpZKkX1"
-        },
-        {
-          "name": "Jiggie June",
-          "url": "https://open.spotify.com/artist/55thP7PNySlkQFzaDdfkbf"
-        }
-      ],
-      "date_added": "2022-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235984,
-      "name": "Police",
-      "url": "https://open.spotify.com/track/34TZ4X0J2RSFKL4oocpIu8"
     },
     {
       "album": {

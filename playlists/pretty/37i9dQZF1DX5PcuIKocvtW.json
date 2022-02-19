@@ -1,12 +1,12 @@
 {
   "description": "it's a lifestyle / Cover: Jeris Johnson",
-  "num_followers": 172757,
+  "num_followers": 172938,
   "original_name": "FORYOU",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDgwMCwwMDAwMDQ0MTAwMDAwMTdlYzMxYTdkNDMwMDAwMDE3ZTc4ZWUxYzk3",
+  "snapshot_id": "MTY0NTE5ODM5OSwwMDAwMDQ0MjAwMDAwMTdmMGQ3NzU4ZjgwMDAwMDE3ZTc4ZWUxYzk3",
   "tracks": [
     {
       "added_at": "2022-02-04 05:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Instant Sobriety",
-        "url": "https://open.spotify.com/album/5ZbTu1z6JDR8eyqDYkgCmR"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        },
-        {
-          "name": "fish narc",
-          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
-        }
-      ],
-      "duration_ms": 147631,
-      "name": "Instant Sobriety",
-      "url": "https://open.spotify.com/track/75Kx1FtkVw9EWYTWV9stYG"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "Love You Like I Used To",
         "url": "https://open.spotify.com/album/5tMuCZPGTJybQwkh4K6tK8"
       },
@@ -1051,6 +1031,30 @@
       "duration_ms": 199240,
       "name": "t r a n s p a r e n t s o u l feat. Kid Cudi & Travis Barker - Remix",
       "url": "https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U"
+    },
+    {
+      "added_at": "2022-02-18 15:33:19",
+      "album": {
+        "name": "FUCKED OVER (feat. phem and Tosh the Drummer)",
+        "url": "https://open.spotify.com/album/1tN0QtmPuVWD07Nty0UXG5"
+      },
+      "artists": [
+        {
+          "name": "93FEETOFSMOKE",
+          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
+        },
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        },
+        {
+          "name": "Tosh the Drummer",
+          "url": "https://open.spotify.com/artist/4UtLdjkUvG4AROVpFXaIhq"
+        }
+      ],
+      "duration_ms": 164021,
+      "name": "FUCKED OVER (feat. phem and Tosh the Drummer)",
+      "url": "https://open.spotify.com/track/4A7EvacZyKyi97mvt8ARf0"
     },
     {
       "added_at": "2022-02-04 05:00:00",

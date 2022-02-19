@@ -1,52 +1,28 @@
 {
   "description": "Neighborhood Storytellers. Cover: Stunna Gambino",
-  "num_followers": 44487,
+  "num_followers": 44512,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU1NTk2MCwwMDAwMDAzZDAwMDAwMTdlZTcyYzdmMzQwMDAwMDE3ZWMyOTQ3NzZh",
+  "snapshot_id": "MTY0NTE2MDQ2MCwwMDAwMDAzZTAwMDAwMTdmMGIzNDZmNmYwMDAwMDE3ZWMyOTQ3NzZh",
   "tracks": [
     {
-      "added_at": "2022-02-11 05:06:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Holy Goat 2",
-        "url": "https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR"
+        "name": "Soul Bleed",
+        "url": "https://open.spotify.com/album/74S4OzUeGxO911OCx638cM"
       },
       "artists": [
         {
-          "name": "Og Bobby Billions",
-          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
-        },
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        },
-        {
-          "name": "Lil Jairmy",
-          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
         }
       ],
-      "duration_ms": 186302,
-      "name": "Pain in the Ghetto (feat. Trae tha Truth & Lil Jairmy)",
-      "url": "https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49"
-    },
-    {
-      "added_at": "2022-01-28 20:27:47",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 193595,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC"
+      "duration_ms": 171195,
+      "name": "Soul Bleed",
+      "url": "https://open.spotify.com/track/4jHz6x0LTLdRsAnWWlVx5w"
     },
     {
       "added_at": "2021-11-29 19:56:27",
@@ -79,6 +55,22 @@
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Best End",
+        "url": "https://open.spotify.com/album/2QLjvhGJ9p8ZspwhhOYj8v"
+      },
+      "artists": [
+        {
+          "name": "Lul Bob",
+          "url": "https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Best End",
+      "url": "https://open.spotify.com/track/2y7qBvh9NqMRdQrLICIsiC"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -133,6 +125,54 @@
       "url": "https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby"
     },
     {
+      "added_at": "2022-01-28 20:27:47",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 193595,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC"
+    },
+    {
+      "added_at": "2022-01-28 20:27:47",
+      "album": {
+        "name": "Mud Baby",
+        "url": "https://open.spotify.com/album/4LxpOCez3cFyGXLqJKDiYv"
+      },
+      "artists": [
+        {
+          "name": "Lil PJ",
+          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
+        }
+      ],
+      "duration_ms": 152659,
+      "name": "Mud Baby",
+      "url": "https://open.spotify.com/track/4r2zX0usg7evmM4lzxiiY4"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Hollywood Hills",
+        "url": "https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB"
+      },
+      "artists": [
+        {
+          "name": "TOB Duke",
+          "url": "https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "Hollywood Hills",
+      "url": "https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "CM10: Free Game (Side B)",
@@ -151,6 +191,30 @@
       "duration_ms": 217142,
       "name": "Forever Ballin' (feat. Shenseea)",
       "url": "https://open.spotify.com/track/4FA9xmJIHU00p0ajkniuW0"
+    },
+    {
+      "added_at": "2022-02-11 05:06:00",
+      "album": {
+        "name": "Holy Goat 2",
+        "url": "https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR"
+      },
+      "artists": [
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        },
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        }
+      ],
+      "duration_ms": 186302,
+      "name": "Pain in the Ghetto (feat. Trae tha Truth & Lil Jairmy)",
+      "url": "https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49"
     },
     {
       "added_at": "2021-10-29 04:00:00",
@@ -191,6 +255,26 @@
       "duration_ms": 194000,
       "name": "Feeling Down (feat. NoCap)",
       "url": "https://open.spotify.com/track/4BKN3EPTN0HVte4s59dj68"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Sing For Real",
+        "url": "https://open.spotify.com/album/5dpIM6j42GJiZctZmHcZ8T"
+      },
+      "artists": [
+        {
+          "name": "True Story Gee",
+          "url": "https://open.spotify.com/artist/6fMLt27jSiBVuciQOYZGwm"
+        },
+        {
+          "name": "Majornine",
+          "url": "https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE"
+        }
+      ],
+      "duration_ms": 205432,
+      "name": "Sing For Real",
+      "url": "https://open.spotify.com/track/5ezqQbvb0Pj1yVbVJWBLyn"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -241,22 +325,6 @@
       "url": "https://open.spotify.com/track/2fKgq4eJuQcXuzGDjFm5Vw"
     },
     {
-      "added_at": "2022-01-28 20:27:47",
-      "album": {
-        "name": "Mud Baby",
-        "url": "https://open.spotify.com/album/4LxpOCez3cFyGXLqJKDiYv"
-      },
-      "artists": [
-        {
-          "name": "Lil PJ",
-          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "Mud Baby",
-      "url": "https://open.spotify.com/track/4r2zX0usg7evmM4lzxiiY4"
-    },
-    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "Lion Eyes",
@@ -295,26 +363,6 @@
       "duration_ms": 147400,
       "name": "Silent (feat. Blac Youngsta)",
       "url": "https://open.spotify.com/track/5A8KtfonuRHv6EHr5Ofekq"
-    },
-    {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "Sing For Real",
-        "url": "https://open.spotify.com/album/5dpIM6j42GJiZctZmHcZ8T"
-      },
-      "artists": [
-        {
-          "name": "True Story Gee",
-          "url": "https://open.spotify.com/artist/6fMLt27jSiBVuciQOYZGwm"
-        },
-        {
-          "name": "Majornine",
-          "url": "https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE"
-        }
-      ],
-      "duration_ms": 205432,
-      "name": "Sing For Real",
-      "url": "https://open.spotify.com/track/5ezqQbvb0Pj1yVbVJWBLyn"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -749,22 +797,6 @@
       "url": "https://open.spotify.com/track/2LvbYwfsRvGYnRytG573iW"
     },
     {
-      "added_at": "2021-08-23 16:09:56",
-      "album": {
-        "name": "Vaccine",
-        "url": "https://open.spotify.com/album/3NhMZdOVKu2RWctws9Zk4n"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 143511,
-      "name": "Vaccine - Falling Star",
-      "url": "https://open.spotify.com/track/0jPwhwpKZsexgdiA6s83o7"
-    },
-    {
       "added_at": "2021-08-20 04:01:00",
       "album": {
         "name": "Time Heals",
@@ -869,30 +901,6 @@
       "url": "https://open.spotify.com/track/2FRiTfXWChdEkagA10rTa3"
     },
     {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "Find A Way (feat. Lil Baby & Lil Durk)",
-        "url": "https://open.spotify.com/album/2DKCodaPZGRpDuDFSIctBN"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Find A Way (feat. Lil Baby & Lil Durk)",
-      "url": "https://open.spotify.com/track/4yIH4PcUVivcxNTy1ETMZ3"
-    },
-    {
       "added_at": "2021-07-23 04:00:00",
       "album": {
         "name": "Moon Boy",
@@ -915,26 +923,6 @@
       "duration_ms": 253121,
       "name": "Angels Never Cry (feat. MoneyBagg Yo & Kodak Black)",
       "url": "https://open.spotify.com/track/1NGEkrPq8SaBWXSx3Re839"
-    },
-    {
-      "added_at": "2021-08-20 04:01:00",
-      "album": {
-        "name": "In My Blood",
-        "url": "https://open.spotify.com/album/734djBeY2I4FYSQ0zjTcMg"
-      },
-      "artists": [
-        {
-          "name": "MO3",
-          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
-        },
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 151429,
-      "name": "In My Blood",
-      "url": "https://open.spotify.com/track/4hwMIdB0srOKoCqclPHVLU"
     },
     {
       "added_at": "2021-09-17 04:01:00",

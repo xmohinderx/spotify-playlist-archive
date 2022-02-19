@@ -930,6 +930,24 @@
     },
     {
       "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/0JQwCGixx76DYvEltMAIQC"
+      },
+      "artists": [
+        {
+          "name": "Cieri",
+          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184006,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/3P0iYHT4L8qRKcTtnYhTv5"
+    },
+    {
+      "album": {
         "name": "Convince Me",
         "url": "https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1"
       },
@@ -1848,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "For Simplicity's Sake",
+        "url": "https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7"
+      },
+      "artists": [
+        {
+          "name": "Chrastigel",
+          "url": "https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116214,
+      "name": "For Simplicity's Sake",
+      "url": "https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom"
+    },
+    {
+      "album": {
         "name": "Graceful",
         "url": "https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa"
       },
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 216678,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis"
@@ -6007,6 +6043,24 @@
       "duration_ms": 200945,
       "name": "Waves",
       "url": "https://open.spotify.com/track/2Qmg0oyUxivJVhVxbXEZcO"
+    },
+    {
+      "album": {
+        "name": "What Matters Most",
+        "url": "https://open.spotify.com/album/4uKx9Kfx0M03BSYctWm3iJ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rembrandt",
+          "url": "https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195062,
+      "name": "What Matters Most",
+      "url": "https://open.spotify.com/track/3rPFA1lIlvYgmQbblz3sDp"
     },
     {
       "album": {

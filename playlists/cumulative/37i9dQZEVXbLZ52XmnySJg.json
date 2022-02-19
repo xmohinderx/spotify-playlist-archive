@@ -3405,7 +3405,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 216026,
       "name": "Kina Chir",
       "url": "https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl"
@@ -4315,6 +4315,24 @@
       "duration_ms": 285163,
       "name": "Mere Yaaraa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O"
+    },
+    {
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "album": {
@@ -6875,10 +6893,28 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 206117,
       "name": "Waalian",
       "url": "https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB"
+    },
+    {
+      "album": {
+        "name": "Waalian",
+        "url": "https://open.spotify.com/album/3UlQdsscMNX2rCZ50WYuR7"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218523,
+      "name": "Waalian",
+      "url": "https://open.spotify.com/track/68AyTcvyK46hpzwohHUkJI"
     },
     {
       "album": {

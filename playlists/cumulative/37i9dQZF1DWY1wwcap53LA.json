@@ -360,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Good To You",
+        "url": "https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG"
+      },
+      "artists": [
+        {
+          "name": "Coffey Anderson",
+          "url": "https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA"
+    },
+    {
+      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz"
       },

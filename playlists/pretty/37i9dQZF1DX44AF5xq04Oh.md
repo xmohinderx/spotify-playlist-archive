@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44AF5xq04Oh.md) - [plain]
 
 > Hit the grill! Roll those hotdogs and smoke those meats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,158 likes - 28 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,150 likes - 28 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

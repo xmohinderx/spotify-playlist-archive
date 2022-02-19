@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1922](https://open.spotify.com/track/42u7MElHk0l48KpwDU8CGZ) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [1922](https://open.spotify.com/album/7qjhRnGBVMynFpJGfJv21P) | 1:54 | 2022-02-18 |  |
 | [2 Da Rhythm](https://open.spotify.com/track/5nE9gaiJjeO8Hk2cOyMLnH) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [High Again](https://open.spotify.com/album/1qc0uATlBRdRnueoRK32d5) | 1:08 | 2021-11-11 |  |
 | [93.](https://open.spotify.com/track/1qQgYfb28afmiq0G3ecxWj) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ouldies](https://open.spotify.com/album/5g48TWpACPOJSEMFTwceZZ) | 1:24 | 2021-11-11 |  |
 | [9th Power](https://open.spotify.com/track/50eSk8PGIs5Io8CGDJESmR) | [Henyao](https://open.spotify.com/artist/6cGhntyNrV6p2Dma040Erk) | [9th Power](https://open.spotify.com/album/3jNRHXHQKfMuSWNG2kp6J1) | 2:56 | 2021-11-11 |  |
@@ -63,6 +64,7 @@
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2021-11-11 |  |
 | [Ninetofive](https://open.spotify.com/track/4vrJiLtAsycPuLAkSTVqPk) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Beat Aesthetics](https://open.spotify.com/album/384S9zPWlZBE4E8Td4ljsE) | 2:51 | 2021-11-11 |  |
 | [Old Enough To Party](https://open.spotify.com/track/1toZcQ10Fj2q2kFlM6f7e3) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:08 | 2021-11-11 |  |
+| [Old Tram](https://open.spotify.com/track/3nFoFJdKjaIEdJcNuEcIZB) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Old Tram](https://open.spotify.com/album/1o3IAb8iXLdEeUmj6tfbTf) | 2:10 | 2022-02-18 |  |
 | [Out of Control](https://open.spotify.com/track/4WJoNiRZ35DDsQINC2GXxd) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Break Again](https://open.spotify.com/album/1yL7GuPfFfhM1764j3dB6s) | 1:48 | 2021-11-11 |  |
 | [Painting My Thoughts](https://open.spotify.com/track/6DTKZsmOR9drYUqPqxe48U) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Painting My Thoughts](https://open.spotify.com/album/5767LRfb1YKV5k8KRbTmoP) | 2:29 | 2021-11-11 |  |
 | [Paranoid Society \(Instrumental\)](https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Travel Instrumentals \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1PGmuVGUYfBN68kNoCShJX) | 4:27 | 2021-11-11 |  |

@@ -2,7 +2,7 @@
 
 ### [Pop Goes Classical](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
 
-> Your favorite pop songs, <a href="spotify:genre:classical">classically</a>&nbsp;reimagined.
+> Your favorite pop songs, classically reimagined.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Barbie Girl](https://open.spotify.com/track/1RFwVievLaxv9MF2LmUBT5) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Lucie Paradis](https://open.spotify.com/artist/62IE8780a3EQi3hqeKVZFJ) | [Barbie Girl](https://open.spotify.com/album/7GSCQKkADBRS7uGz4Gig6m) | 1:39 | 2021-11-19 |  |
 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 | 2021-11-19 |  |
 | [Bastille: The Piano Tribute Medley](https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20) | [Costantino Carrara](https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX) | [Bastille: The Piano Tribute Medley](https://open.spotify.com/album/3sCEvqtJngunwfa5yZHGhi) | 5:31 | 2021-11-19 |  |
+| [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-02-18 |  |
 | [Believer](https://open.spotify.com/track/6Vnejeh0h9zCY0qrLAxKal) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Believer](https://open.spotify.com/album/0WC1s9ctdfec7tGbp2fuCN) | 3:40 | 2021-11-19 |  |
 | [Better Days](https://open.spotify.com/track/4yw5GYrOrrJ53yfYuxSCOz) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Better Days](https://open.spotify.com/album/29OyLTZAtJ1URhQlHPDELU) | 4:02 | 2021-11-19 |  |
 | [Better Together \- Instrumental](https://open.spotify.com/track/2f9V1rIwActY4UKBQuxHqq) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC), [Avery Bright](https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr) | [Better Together \(Instrumental\)](https://open.spotify.com/album/4jW9gXgYVJnwp836OzWP5n) | 3:38 | 2021-11-19 |  |

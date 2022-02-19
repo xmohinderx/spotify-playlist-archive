@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135993,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t"
+    },
+    {
+      "album": {
         "name": "Light Shine In",
         "url": "https://open.spotify.com/album/5SgySlto0nQI5P38u7Cvw0"
       },
@@ -875,6 +893,24 @@
       "duration_ms": 146231,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/4GOm5E75Wqq3e3SzlbsGvr"
+    },
+    {
+      "album": {
+        "name": "Man in the Ground",
+        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
+      },
+      "artists": [
+        {
+          "name": "Jack Barksdale",
+          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Man in the Ground",
+      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
     },
     {
       "album": {
@@ -1092,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "album": {
         "name": "Rollin' On",
         "url": "https://open.spotify.com/album/4MREwsWckfOXSbAjNd1c3N"
       },
@@ -1183,7 +1237,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 193535,
       "name": "Shout Into The Noise",
       "url": "https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO"
@@ -1379,6 +1433,24 @@
       "duration_ms": 361200,
       "name": "The Search For Happiness",
       "url": "https://open.spotify.com/track/7tq4k2u9kjfJzZlXuV0yGZ"
+    },
+    {
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3YBphoBChUZZa490iIB62T"
+      },
+      "artists": [
+        {
+          "name": "Cory Young",
+          "url": "https://open.spotify.com/artist/2Q9hV3hL1afFgz6kRegFEg"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123452,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG"
     },
     {
       "album": {

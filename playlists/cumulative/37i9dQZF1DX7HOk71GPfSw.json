@@ -1022,6 +1022,36 @@
     },
     {
       "album": {
+        "name": "all i need",
+        "url": "https://open.spotify.com/album/766oNoOCHh5KNvykOsbWtd"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "Tony Velour",
+          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        },
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197716,
+      "name": "all i need",
+      "url": "https://open.spotify.com/track/7vOjikQFRmxz1DISXsCQqG"
+    },
+    {
+      "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/78zySHGi3bB36rQ8NVGxFt"
       },
@@ -13174,6 +13204,24 @@
     },
     {
       "album": {
+        "name": "splitting time",
+        "url": "https://open.spotify.com/album/7IJYGaLqNoiEzonSqjDNvG"
+      },
+      "artists": [
+        {
+          "name": "kuru",
+          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "never gets better",
+      "url": "https://open.spotify.com/track/2uSCsG9C3CBXPFPmYzFSvm"
+    },
+    {
+      "album": {
         "name": "Never Lose",
         "url": "https://open.spotify.com/album/5WfqbGZ0vjHhzNJxGpDhUJ"
       },
@@ -13339,6 +13387,24 @@
       "duration_ms": 132533,
       "name": "NIGHTMARES",
       "url": "https://open.spotify.com/track/7mSlQDf71bBDU3vRMJCSol"
+    },
+    {
+      "album": {
+        "name": "no more",
+        "url": "https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy"
+      },
+      "artists": [
+        {
+          "name": "Reikko",
+          "url": "https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "no more",
+      "url": "https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL"
     },
     {
       "album": {
@@ -14876,6 +14942,24 @@
     },
     {
       "album": {
+        "name": "portland",
+        "url": "https://open.spotify.com/album/74QxIstmSZX5IAGTATvbRC"
+      },
+      "artists": [
+        {
+          "name": "polearm",
+          "url": "https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142312,
+      "name": "portland",
+      "url": "https://open.spotify.com/track/4SHZsJ8mwyWkv1zK6uGfP5"
+    },
+    {
+      "album": {
         "name": "positions",
         "url": "https://open.spotify.com/album/0vR5A8fv2WpBjIiLN2OF7V"
       },
@@ -16130,6 +16214,24 @@
     },
     {
       "album": {
+        "name": "luca",
+        "url": "https://open.spotify.com/album/5sHVvoJi5rV8L5rgEVc18o"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222565,
+      "name": "rock music",
+      "url": "https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh"
+    },
+    {
+      "album": {
         "name": "ROCKNROLL",
         "url": "https://open.spotify.com/album/2Jigf7bIMYUtaQreoMyvzf"
       },
@@ -16163,6 +16265,24 @@
       "duration_ms": 158500,
       "name": "Romeo",
       "url": "https://open.spotify.com/track/6pZqybYHNV14l6PcUWpSTk"
+    },
+    {
+      "album": {
+        "name": "BIG KILL FUTURE",
+        "url": "https://open.spotify.com/album/49RtLwYTyBKciCUDUfUI45"
+      },
+      "artists": [
+        {
+          "name": "Big Kill",
+          "url": "https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Rose Coloured Ear Drums",
+      "url": "https://open.spotify.com/track/69xuSR3BFb7aAN7HUJ2MiS"
     },
     {
       "album": {
@@ -17754,6 +17874,24 @@
     },
     {
       "album": {
+        "name": "so young",
+        "url": "https://open.spotify.com/album/7aVym7cPnM8Sk2QWbBJeHF"
+      },
+      "artists": [
+        {
+          "name": "cookii",
+          "url": "https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156724,
+      "name": "so young",
+      "url": "https://open.spotify.com/track/6kpwyBch6Hbvoz0MP9HrCa"
+    },
+    {
+      "album": {
         "name": "Soldier, Like Me",
         "url": "https://open.spotify.com/album/3hbHZNptje66rX1kWn3aeU"
       },
@@ -18132,6 +18270,24 @@
     },
     {
       "album": {
+        "name": "static.",
+        "url": "https://open.spotify.com/album/4lEZKATq5ztgwDGeW8IF3Q"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192696,
+      "name": "static (hold on)",
+      "url": "https://open.spotify.com/track/3UOBN6HMnEqU1dxntgx1CN"
+    },
+    {
+      "album": {
         "name": "stay next time",
         "url": "https://open.spotify.com/album/44CoC2Xe2rH71TJTw2lxeb"
       },
@@ -18147,6 +18303,24 @@
       "duration_ms": 100990,
       "name": "stay next time",
       "url": "https://open.spotify.com/track/4BMECaPFVXa8raSOFd2G0s"
+    },
+    {
+      "album": {
+        "name": "STFU...ur done",
+        "url": "https://open.spotify.com/album/3rbu3iFqJZOl9yClWNwjmD"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "STFU...ur done",
+      "url": "https://open.spotify.com/track/2V47hvJ7KTgEtfgEbwm6DN"
     },
     {
       "album": {
@@ -19423,6 +19597,24 @@
       "duration_ms": 125585,
       "name": "they were deleted you say?",
       "url": "https://open.spotify.com/track/10MwHo27L63OuXlGgh41We"
+    },
+    {
+      "album": {
+        "name": "Things U C In Me",
+        "url": "https://open.spotify.com/album/2Z733sAxVD6GOOim5tcxo2"
+      },
+      "artists": [
+        {
+          "name": "Eichlers",
+          "url": "https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152230,
+      "name": "Things U C In Me",
+      "url": "https://open.spotify.com/track/43xOg9zkmzdNhbrp2MUN4F"
     },
     {
       "album": {
@@ -22057,6 +22249,32 @@
       "duration_ms": 176842,
       "name": "Zone Zoom Galactic",
       "url": "https://open.spotify.com/track/7dEwRlORtbUiPvfxNKbVTy"
+    },
+    {
+      "album": {
+        "name": "zoo",
+        "url": "https://open.spotify.com/album/0g15jNMxKSPANwhqeTza3z"
+      },
+      "artists": [
+        {
+          "name": "billy !",
+          "url": "https://open.spotify.com/artist/1GbZO4X2RxogaxtZS4wuPK"
+        },
+        {
+          "name": "NotNevi",
+          "url": "https://open.spotify.com/artist/4Ftwh9jbc8vaM02VvaP5o6"
+        },
+        {
+          "name": "Gao the Arsonist",
+          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160885,
+      "name": "zoo",
+      "url": "https://open.spotify.com/track/4Hkn88h1JbizcvddFqCluG"
     },
     {
       "album": {

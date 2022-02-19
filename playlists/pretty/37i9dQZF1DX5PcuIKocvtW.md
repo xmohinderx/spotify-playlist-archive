@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: Jeris Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,757 likes - 150 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,938 likes - 150 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 | 52 | [LOSER](https://open.spotify.com/track/71Mb3m1twBm6j4TfoeZ1Mt) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LOSER](https://open.spotify.com/album/2fbm3oHxs0fPBw14g7E2eU) | 3:22 |
 | 53 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 |
 | 54 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 |
-| 55 | [Instant Sobriety](https://open.spotify.com/track/75Kx1FtkVw9EWYTWV9stYG) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Instant Sobriety](https://open.spotify.com/album/5ZbTu1z6JDR8eyqDYkgCmR) | 2:27 |
-| 56 | [Love You Like I Used To](https://open.spotify.com/track/5YTCpQnzU6OiQqLndUuIBT) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love You Like I Used To](https://open.spotify.com/album/5tMuCZPGTJybQwkh4K6tK8) | 2:47 |
-| 57 | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \- Remix](https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \(Remix\)](https://open.spotify.com/album/7nh9bTQBhetVOYSXWBhK8l) | 3:19 |
+| 55 | [Love You Like I Used To](https://open.spotify.com/track/5YTCpQnzU6OiQqLndUuIBT) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love You Like I Used To](https://open.spotify.com/album/5tMuCZPGTJybQwkh4K6tK8) | 2:47 |
+| 56 | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \- Remix](https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \(Remix\)](https://open.spotify.com/album/7nh9bTQBhetVOYSXWBhK8l) | 3:19 |
+| 57 | [FUCKED OVER \(feat\. phem and Tosh the Drummer\)](https://open.spotify.com/track/4A7EvacZyKyi97mvt8ARf0) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Tosh the Drummer](https://open.spotify.com/artist/4UtLdjkUvG4AROVpFXaIhq) | [FUCKED OVER \(feat\. phem and Tosh the Drummer\)](https://open.spotify.com/album/1tN0QtmPuVWD07Nty0UXG5) | 2:44 |
 | 58 | [WORMS \(In My Brain\)](https://open.spotify.com/track/4XQKfDwyYw0p1p8WvC2e7j) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [WORMS \(In My Brain\)](https://open.spotify.com/album/5sQsPvmWpKnDypCIGLCXCM) | 3:23 |
 | 59 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 |
 | 60 | [DIRTY DISHES](https://open.spotify.com/track/3chXwnjhHM8pF8PtzEKBcE) | [Slater Davis](https://open.spotify.com/artist/6hPS1LEDsydj4UneziYLka), [MARCEL](https://open.spotify.com/artist/7i1ebCWVn3xPCNcJyUSQNj) | [DIRTY DISHES](https://open.spotify.com/album/2UOKcERP8436GWXuC72ptJ) | 2:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 | 149 | [fall apart \(with glaive\)](https://open.spotify.com/track/6RYlGPwrNuwG8CqIRDYes6) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [fall apart \(with glaive\)](https://open.spotify.com/album/7vAT0ccu9ehuxQnfcCmqCn) | 2:35 |
 | 150 | [Nervous Wreck](https://open.spotify.com/track/1TTzSkiZPz92k77w5FfJ9M) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Nervous Wreck / Storyteller](https://open.spotify.com/album/4xlgeFEDO7UyW0ju3Iw9dx) | 2:52 |
 
-Snapshot ID: `MTY0Mzk1MDgwMCwwMDAwMDQ0MTAwMDAwMTdlYzMxYTdkNDMwMDAwMDE3ZTc4ZWUxYzk3`
+Snapshot ID: `MTY0NTE5ODM5OSwwMDAwMDQ0MjAwMDAwMTdmMGQ3NzU4ZjgwMDAwMDE3ZTc4ZWUxYzk3`

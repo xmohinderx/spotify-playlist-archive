@@ -1,13 +1,29 @@
 {
   "description": "Rock N' Roll Swagger Served Straight Up  / Cover: Whiskey Myers",
-  "num_followers": 49412,
+  "num_followers": 49479,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU1NTYwMCwwMDAwMDNlZDAwMDAwMTdlZTcyNzAxNDEwMDAwMDE3MGFmNDM1ZWMz",
+  "snapshot_id": "MTY0NTE2MDQwMCwwMDAwMDNlZTAwMDAwMTdmMGIzMzg1OGMwMDAwMDE3MGFmNDM1ZWMz",
   "tracks": [
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 295776,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg"
+    },
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Bury My Bones",
-        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 259851,
-      "name": "Bury My Bones",
-      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Bury My Bones",
+        "url": "https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 259851,
+      "name": "Bury My Bones",
+      "url": "https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Anthem Of The Peaceful Army",
         "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "11/17",
-        "url": "https://open.spotify.com/album/0VOFvOzlavgsiKF0e9bJhY"
-      },
-      "artists": [
-        {
-          "name": "The Honest Heart Collective",
-          "url": "https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X"
-        }
-      ],
-      "duration_ms": 152031,
-      "name": "11/17",
-      "url": "https://open.spotify.com/track/3efydF0TF67eydgM86XEwq"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1147,22 +1147,6 @@
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "SOUND & FURY",
-        "url": "https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 174568,
-      "name": "Sing Along",
-      "url": "https://open.spotify.com/track/0JwtuqKYYCA1iJ5cubotGW"
     },
     {
       "added_at": "2022-01-28 05:01:00",

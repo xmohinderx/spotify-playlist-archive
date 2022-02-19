@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 240731,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/3hAN6UAr1uMhV1HypM09hN"
@@ -476,6 +476,28 @@
     },
     {
       "album": {
+        "name": "Elon Musk (feat. Gunna)",
+        "url": "https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205758,
+      "name": "Elon Musk (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
+    },
+    {
+      "album": {
         "name": "Rich Off Pints 2",
         "url": "https://open.spotify.com/album/4cnQ5LZhyXdvw1pIPMLkJH"
       },
@@ -593,7 +615,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 92212,
       "name": "FTO",
       "url": "https://open.spotify.com/track/1yOtYpY4gvkAs91aAvGdyZ"
@@ -662,6 +684,28 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5tIoWzdJBQadif0IoYqO2R"
+      },
+      "artists": [
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209229,
+      "name": "Going Long (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/17LlS7L1bm2BwnCMTHs4fH"
+    },
+    {
+      "album": {
         "name": "Elephant In The Room",
         "url": "https://open.spotify.com/album/3prLqNXoNF7GI8SjxCJyBZ"
       },
@@ -720,6 +764,42 @@
     },
     {
       "album": {
+        "name": "Hollywood Hills",
+        "url": "https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB"
+      },
+      "artists": [
+        {
+          "name": "TOB Duke",
+          "url": "https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "Hollywood Hills",
+      "url": "https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x"
+    },
+    {
+      "album": {
+        "name": "HOOD CHRONICLES",
+        "url": "https://open.spotify.com/album/0LAl34inFmgmyjbuduzVET"
+      },
+      "artists": [
+        {
+          "name": "NoonieVsEverybody",
+          "url": "https://open.spotify.com/artist/5PepByqZbni3dXJXF2eTaB"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196152,
+      "name": "HOOD CHRONICLES",
+      "url": "https://open.spotify.com/track/5TEjbDMHP0jSXqNi1hYd0u"
+    },
+    {
+      "album": {
         "name": "Hustlaz",
         "url": "https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs"
       },
@@ -753,7 +833,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 162858,
       "name": "I Deserve (w/ NOS.)",
       "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
@@ -977,10 +1057,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 188025,
       "name": "Matt Hardy 999 (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4zbr7Cp3UB00FurUovPU03"
+    },
+    {
+      "album": {
+        "name": "Industry Ready",
+        "url": "https://open.spotify.com/album/26bYIUAp933spmDSjM2p3B"
+      },
+      "artists": [
+        {
+          "name": "FWC Big Key",
+          "url": "https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102373,
+      "name": "Milwaukee",
+      "url": "https://open.spotify.com/track/6vY53ev5SnH2m3EDe0OmU7"
     },
     {
       "album": {
@@ -1261,7 +1359,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 108045,
       "name": "riddle",
       "url": "https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM"
@@ -1297,7 +1395,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 130000,
       "name": "Roll Up Hot",
       "url": "https://open.spotify.com/track/6uGe0mI2O24OYW6hkUy8DZ"
@@ -1315,7 +1413,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 178285,
       "name": "Rucci",
       "url": "https://open.spotify.com/track/4XXEXmKXKWYhyfkKh6tprO"
@@ -1377,7 +1475,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 115670,
       "name": "Show Us Some",
       "url": "https://open.spotify.com/track/4MHv1Aj2VvfhueuCQ7HEro"
@@ -1566,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "Switch Switch",
+        "url": "https://open.spotify.com/album/3wl0jAxxG52PS3uNdpZquD"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "Switch Switch",
+      "url": "https://open.spotify.com/track/0CoeJ0kuo0kpN9QWrdHmX9"
+    },
+    {
+      "album": {
         "name": "Back On Track",
         "url": "https://open.spotify.com/album/1A6RGXkdrjY5IKwaMU53OZ"
       },
@@ -1625,6 +1741,46 @@
       "duration_ms": 214736,
       "name": "Tuxedo",
       "url": "https://open.spotify.com/track/7imWwrAiyfIgLk9HVYrhLB"
+    },
+    {
+      "album": {
+        "name": "Why Do Fools Fall In Love",
+        "url": "https://open.spotify.com/album/5xec3krvwd4AWFwMUfQAT3"
+      },
+      "artists": [
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        },
+        {
+          "name": "Lavier",
+          "url": "https://open.spotify.com/artist/5qJRXqBVQfcWb8myUPti38"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228624,
+      "name": "Uncomfortable (feat. Lavier)",
+      "url": "https://open.spotify.com/track/2cCET8RkQzUjupl2AsOEll"
+    },
+    {
+      "album": {
+        "name": "Bartier Bounty 3",
+        "url": "https://open.spotify.com/album/6Bxh456TCtPYayC4rE41MP"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181036,
+      "name": "Unkle Hell Yea",
+      "url": "https://open.spotify.com/track/48eM3oM9WMTHsSe1RSBIE3"
     },
     {
       "album": {

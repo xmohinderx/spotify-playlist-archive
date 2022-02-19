@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 176868,
       "name": "Better for Me",
       "url": "https://open.spotify.com/track/6nBEjwGB9eFeixOssxPej5"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 179832,
       "name": "Break Her Heart",
       "url": "https://open.spotify.com/track/0dN4xcgktuAmQNGaPQR5Fz"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 226071,
       "name": "Hard Not to Love You",
       "url": "https://open.spotify.com/track/5c05lHYIIUXwlZ3Qx6ZbtQ"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 159096,
       "name": "Hey!",
       "url": "https://open.spotify.com/track/0a2ES9otytEGPZcECOvPCE"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 260760,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/2SnU0h8f6LlxvSycvfcCQQ"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 173640,
       "name": "My 100",
       "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 189473,
       "name": "Out of You",
       "url": "https://open.spotify.com/track/6HgclHM1GZyqdEBAiptD9E"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 212503,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 188160,
       "name": "see you later (ten years)",
       "url": "https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE"
@@ -2001,7 +2001,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 230000,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/6fridGiAG7O8DckEmZ42Ky"
@@ -2160,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/1bJIjYu4xhtuavJg7nReDv"
+      },
+      "artists": [
+        {
+          "name": "Darah",
+          "url": "https://open.spotify.com/artist/1SduWKaqR4Ve1PEyR3v0jC"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192067,
+      "name": "Stay Now",
+      "url": "https://open.spotify.com/track/3eYJsIMdDNPZ2vVD4wPAuX"
+    },
+    {
+      "album": {
         "name": "Stormy Skies (Diamonds)",
         "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
       },
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 150967,
       "name": "The Hurt You Gave Me",
       "url": "https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 208197,
       "name": "The Sun\u2019s Gonna Rise",
       "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 230133,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/3PBOgjs3aYjPtdB1gbMRqM"

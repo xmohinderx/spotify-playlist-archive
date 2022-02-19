@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: Kim Loaiza, JD Pantoja \- INCONDICIONAL](https://open.spotify.com/playlist/3lidzxkH2vTpeqBXDsOznv)
+### [HOT NOW: Kim Loaiza, JD Pantoja \- INCONDICIONAL](https://open.spotify.com/playlist/0A5ZJCfyXJm9VA43UcvXcE)
 
 > ¡No busques más! La música del momento está aquí.
 

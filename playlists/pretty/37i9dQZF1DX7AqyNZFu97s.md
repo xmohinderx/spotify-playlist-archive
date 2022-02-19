@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Lexie Carroll
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,508 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,562 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 59 | [Floor Filler](https://open.spotify.com/track/0QL9woW24e68y3kX4m6pvG) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI), [Ty Healy](https://open.spotify.com/artist/2bgmIVNSG1wdRu0GfNmIH1) | [Floor Filler](https://open.spotify.com/album/0655JtpDEEFx9PKTSUVLct) | 2:32 |
 | 60 | [Precision](https://open.spotify.com/track/6LiymK22664km6IxxgQ5w5) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Precision](https://open.spotify.com/album/3wCuypR5b9GBhrK2f1hGay) | 2:59 |
 | 61 | [Meat Teeth](https://open.spotify.com/track/36bxycOoxHjSIZasoQ5T2b) | [Benefits](https://open.spotify.com/artist/5nrO8X72nFeyu3sqYIkskQ) | [Meat Teeth](https://open.spotify.com/album/4Zp4EmO3JWb6iVkkJgded3) | 4:06 |
-| 62 | [Being Wrong](https://open.spotify.com/track/0PjOZxeR5NHnaIcLQAryvD) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Being Wrong](https://open.spotify.com/album/4pvddL619CqPhH6AMIqBrD) | 2:33 |
+| 62 | [Being Wrong](https://open.spotify.com/track/0PjOZxeR5NHnaIcLQAryvD) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Being Wrong](https://open.spotify.com/album/4pvddL619CqPhH6AMIqBrD) | 2:33 |
 | 63 | [Sick of It](https://open.spotify.com/track/5QXGw1NqlVAkl3DYj9zUcZ) | [wtr](https://open.spotify.com/artist/5eX9fwoNnYywE0qOFazRbF) | [Sick of It](https://open.spotify.com/album/00PwfYLAalFybBEm6LFnSC) | 3:30 |
 | 64 | [ain't the same](https://open.spotify.com/track/36HiyxDVheJRnCDhJk73Um) | [Lwny](https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz) | [ain't the same](https://open.spotify.com/album/5FZolbTrLLPuvTPoVKidJW) | 4:24 |
 | 65 | [Vegas](https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Vegas](https://open.spotify.com/album/0c6bbJ2dKB8ojrBjOX4h6e) | 3:20 |

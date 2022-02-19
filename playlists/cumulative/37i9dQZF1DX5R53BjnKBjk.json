@@ -200,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Carnaval",
+        "url": "https://open.spotify.com/album/5dbVY5NJpmtcIV4CeBlqgN"
+      },
+      "artists": [
+        {
+          "name": "ZAINA",
+          "url": "https://open.spotify.com/artist/6jJhhdjcxwEekmGV2cBvOW"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/1c7HUxuSqQLOm5T5bK2fB8"
+    },
+    {
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/600kV0xSMSL0FKL175DcVv"
       },
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 185409,
       "name": "Fundo Azul",
       "url": "https://open.spotify.com/track/6hJ5xJA0c5P6C3wrdeqDvP"
@@ -806,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Menina Er\u00ea",
+        "url": "https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN"
+      },
+      "artists": [
+        {
+          "name": "Nobat",
+          "url": "https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252906,
+      "name": "Menina Er\u00ea",
+      "url": "https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V"
+    },
+    {
+      "album": {
         "name": "Conterr\u00e2neos Estrangeiros",
         "url": "https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg"
       },
@@ -933,7 +969,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 190000,
       "name": "ninho",
       "url": "https://open.spotify.com/track/3xWLmF4mjDE6hBtHUZhQF3"
@@ -1085,7 +1121,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 191567,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/4jWowg9G99UztDCjW41i7T"
@@ -1745,6 +1781,28 @@
       "duration_ms": 168107,
       "name": "T\u00e3o Perto e T\u00e3o Longe",
       "url": "https://open.spotify.com/track/2qIAX1Ww0761lDie4kQe0A"
+    },
+    {
+      "album": {
+        "name": "Enchente",
+        "url": "https://open.spotify.com/album/5YvudFtZ5FcMEL3hpVCsrY"
+      },
+      "artists": [
+        {
+          "name": "Gabi Farias",
+          "url": "https://open.spotify.com/artist/3GxaLhs7QePUYh49a8TYrM"
+        },
+        {
+          "name": "Gramophone",
+          "url": "https://open.spotify.com/artist/5rnC9EuUqZC8Mbkg2uiLKu"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252750,
+      "name": "Ver\u00e1",
+      "url": "https://open.spotify.com/track/5319dvKuNaay3efQn794i0"
     },
     {
       "album": {

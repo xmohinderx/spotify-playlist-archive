@@ -6968,6 +6968,28 @@
     },
     {
       "album": {
+        "name": "Merokamato",
+        "url": "https://open.spotify.com/album/6NPVceZOqxSsInzRQZfMjL"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242474,
+      "name": "Merokamato",
+      "url": "https://open.spotify.com/track/4CNzqNo2XViL4fWzlLXyl5"
+    },
+    {
+      "album": {
         "name": "Still Active",
         "url": "https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe"
       },
@@ -10997,7 +11019,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 212571,
       "name": "TV",
       "url": "https://open.spotify.com/track/0ftxzdYSC6sb5IvV2TjozK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pbyATDkUwW.md) - [plain]
 
 > Les plus grands romans et autres nouvelles de la littérature française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,769 likes - 95 songs - 16 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,770 likes - 95 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["HANDSFREE"](https://open.spotify.com/track/5wYWMGj22W9An8VxGXnnT6) | [FRGN\-SPCMN](https://open.spotify.com/artist/1jl8cU5j8AVxplJbnTsChL), [Ace Henderson](https://open.spotify.com/artist/4wXbbemzTSC3iA8L4ezOnl) | ["HANDSFREE"](https://open.spotify.com/album/5OZQ5crAoqtHeaRJGVB7hN) | 2:38 | 2022-02-09 |  |
+| ["HANDSFREE"](https://open.spotify.com/track/5wYWMGj22W9An8VxGXnnT6) | [Ace Henderson](https://open.spotify.com/artist/4wXbbemzTSC3iA8L4ezOnl), [FRGN\-SPCMN](https://open.spotify.com/artist/1jl8cU5j8AVxplJbnTsChL) | ["HANDSFREE"](https://open.spotify.com/album/5OZQ5crAoqtHeaRJGVB7hN) | 2:38 | 2022-02-09 |  |
 | [111](https://open.spotify.com/track/0516INusdrq1d0W0x4QvpL) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [111](https://open.spotify.com/album/5nwWOihi8pWJI4ltUxCFrU) | 2:54 | 2021-12-01 | 2022-01-13 |
 | [180](https://open.spotify.com/track/5N9A8wilLIbrNAKBKdDuMi) | [Brenzy](https://open.spotify.com/artist/6G6qP0sP4oPveQ4bzizz4Z) | [180](https://open.spotify.com/album/56sMZ13E5jK2SgAxP4ctvO) | 2:58 | 2022-02-02 |  |
 | [30k](https://open.spotify.com/track/3GhT0ZWKdUltfA8mTmmMFf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [30k – E.P.](https://open.spotify.com/album/56fjsHI6r1jmTRX4k0N4TK) | 3:20 | 2022-02-02 |  |
@@ -274,6 +274,6 @@
 | [XYZ](https://open.spotify.com/track/10UmkHqsE6tsHEdLXFNrUD) | [Broderick Jones](https://open.spotify.com/artist/6qotp0EA1aHJPk6YnbVtGK), [Lily Massie](https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9) | [Maybe Tomorrow](https://open.spotify.com/album/5be7vNlFxykGT9U0S5u67z) | 2:24 | 2021-12-01 | 2022-01-13 |
 | [YOU](https://open.spotify.com/track/4fKV9kopNb2WcNCtRSxRlh) | [Alexis Ray Parker](https://open.spotify.com/artist/40EmbKsKeEAnYvYcIdLkRw) | [YOU](https://open.spotify.com/album/2UZgR5ljtExIx9lLCdjLXo) | 3:30 | 2022-02-02 | 2022-02-18 |
 | [You Fake AF](https://open.spotify.com/track/54J84VVN4qh4xZkVEaCaCi) | [Sarey Savy](https://open.spotify.com/artist/4tT0QKqmBsGZywpBfLdU7C), [Kingdow](https://open.spotify.com/artist/0Ch6Wj8MJS9nt869qS8Ooj), [Emanuel Brown](https://open.spotify.com/artist/1Kywxpr8keQxuQq1wGBYRu) | [You Fake AF](https://open.spotify.com/album/6ZJKTtZxDfb6MEGtJrX1KF) | 3:29 | 2022-02-02 |  |
-| [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 | 2022-02-16 |  |
+| [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/2UkjsQdVy00wXXsRfdPmNl) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 | 2022-02-16 |  |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

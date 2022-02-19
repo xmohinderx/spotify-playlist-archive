@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc?si=SJ\-kgOAuTnKT6m1L\-QN2gw"> Aṣa </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,208 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,244 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

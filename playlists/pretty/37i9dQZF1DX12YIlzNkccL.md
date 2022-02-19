@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain]
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,014 likes - 79 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,333 likes - 79 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Symphony No\. 5 in C Minor, Op\. 67: I\. Allegro con brio](https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Carlos Kleiber](https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN) | [Beethoven: Symphonies Nos.5 & 7](https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL) | 7:22 |
-| 2 | [Rage Over A Lost Penny, Op\. 129](https://open.spotify.com/track/3QnU25Zw23qOUugdtTWgsY) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Beethoven: Rage Over A Lost Penny](https://open.spotify.com/album/6fJtiYktWi6VsiGnRTCwUd) | 6:13 |
+| 2 | [Rage Over A Lost Penny, Op\. 129](https://open.spotify.com/track/3QnU25Zw23qOUugdtTWgsY) | [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [Beethoven: Rage Over A Lost Penny](https://open.spotify.com/album/6fJtiYktWi6VsiGnRTCwUd) | 6:13 |
 | 3 | [Piano Sonata No.14 in C\-Sharp Minor, Op\. 27 No\. 2 \- "Moonlight": III\. Presto agitato](https://open.spotify.com/track/1SryZ16iuLbxe6Nv58VgVG) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: Mondschein\-Sonate – Meisterwerke](https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF) | 7:42 |
 | 4 | [Symphony No\. 7 in A Major, Op\. 92: IV\. Allegro con brio](https://open.spotify.com/track/0kG3Q9OBWHXVsI1X9z9Ol8) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Nicolaus Esterhazy Sinfonia](https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z), [Béla Drahos](https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz) | [Beethoven: Symphonies Nos\. 4 and 7](https://open.spotify.com/album/4UgyF4SKKjFE00egVxKnkb) | 8:50 |
 | 5 | [Piano Sonata No.14 in C\-Sharp Minor, Op\. 27 No\. 2 \- "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/4KrBQ8fp7EiIsCcdnnXf2A) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: Mondschein\-Sonate – Meisterwerke](https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF) | 6:37 |

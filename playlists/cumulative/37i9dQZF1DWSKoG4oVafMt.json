@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 196807,
       "name": "Dassde",
       "url": "https://open.spotify.com/track/7qWApfggqk3A5UlEQwetaU"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 170602,
       "name": "Deewana",
       "url": "https://open.spotify.com/track/5z2FuFQrJ9xot9VGaJveS0"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 171195,
       "name": "Dil Te",
       "url": "https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 189451,
       "name": "Na Na",
       "url": "https://open.spotify.com/track/1FukRhyhL5am2YlSiI5Lpg"
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 237800,
       "name": "Noor",
       "url": "https://open.spotify.com/track/7bmZe5feAzVVQ1xmbJR55q"
@@ -2402,6 +2402,28 @@
     },
     {
       "album": {
+        "name": "Rab Di Sau",
+        "url": "https://open.spotify.com/album/16DnSa5RKq5mr8QHBqLqsm"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220151,
+      "name": "Rab Di Sau",
+      "url": "https://open.spotify.com/track/03PqUYFXHfXqkH4rNCYZz6"
+    },
+    {
+      "album": {
         "name": "Ranga Wargi",
         "url": "https://open.spotify.com/album/5u1XU8Q43lXsqAOsLmHbVT"
       },
@@ -2543,6 +2565,24 @@
       "duration_ms": 213626,
       "name": "Saada Pyaar",
       "url": "https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8"
+    },
+    {
+      "album": {
+        "name": "Saah",
+        "url": "https://open.spotify.com/album/20S28a9GLuSxQu66IVZ5HE"
+      },
+      "artists": [
+        {
+          "name": "Kevvy Saage",
+          "url": "https://open.spotify.com/artist/7lPPioms8qtMrlwBjCVhhi"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166197,
+      "name": "Saah",
+      "url": "https://open.spotify.com/track/7HffX1reE0a6KPbiAndrZ4"
     },
     {
       "album": {
@@ -2777,6 +2817,24 @@
       "duration_ms": 187894,
       "name": "Shraab Wargi",
       "url": "https://open.spotify.com/track/7Cx9BdsrVLSPpYaQi8vxd4"
+    },
+    {
+      "album": {
+        "name": "Shudai",
+        "url": "https://open.spotify.com/album/3TlHV8ADbFujMEIzn7EiLx"
+      },
+      "artists": [
+        {
+          "name": "Mansimran Sandhu",
+          "url": "https://open.spotify.com/artist/0tt4DcVo2HdxkNOTpiUsOn"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Shudai",
+      "url": "https://open.spotify.com/track/0G31EquWmEDBHO9CGONcCF"
     },
     {
       "album": {
@@ -3069,7 +3127,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 250800,
       "name": "Teri Khair Mangaan",
       "url": "https://open.spotify.com/track/1d5WDpIIi6lxYdKlh2GolI"

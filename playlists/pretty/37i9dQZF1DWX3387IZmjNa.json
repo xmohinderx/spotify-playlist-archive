@@ -1,36 +1,28 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Gunna",
-  "num_followers": 1874646,
+  "num_followers": 1874794,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk1NzExMSwwMDAwMDUwNDAwMDAwMTdlZmYxNTk0NjQwMDAwMDE3ZWMxNDAyMmMz",
+  "snapshot_id": "MTY0NTE2MTQ0NCwwMDAwMDUwNjAwMDAwMTdmMGI0Mzc2MjYwMDAwMDE3ZWMxNDAyMmMz",
   "tracks": [
     {
-      "added_at": "2022-01-14 05:00:00",
+      "added_at": "2022-02-15 20:31:51",
       "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
       },
       "artists": [
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 212076,
-      "name": "Chronicles (feat. H.E.R. & Lil Durk)",
-      "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -73,24 +65,44 @@
       "url": "https://open.spotify.com/track/3PkNJQCiVqaf1j1uDoSvXX"
     },
     {
-      "added_at": "2022-01-07 05:00:00",
+      "added_at": "2022-02-18 05:17:24",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+        "name": "Time is Muney",
+        "url": "https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
         },
         {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
         }
       ],
-      "duration_ms": 144373,
-      "name": "you & me",
-      "url": "https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ"
+      "duration_ms": 195173,
+      "name": "Nobody (feat. Dreezy)",
+      "url": "https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Wait Too Long (feat. Blxst)",
+        "url": "https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 186234,
+      "name": "Wait Too Long (feat. Blxst)",
+      "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -129,6 +141,26 @@
       "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
     },
     {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "R U That (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/2R7eCne1bINTDfQpaQ0h8h"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 162070,
+      "name": "R U That (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4G9ASa9c5scdal2puHntMR"
+    },
+    {
       "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "UNTAMED",
@@ -147,6 +179,30 @@
       "duration_ms": 175489,
       "name": "WHAT YOU NEED",
       "url": "https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 212076,
+      "name": "Chronicles (feat. H.E.R. & Lil Durk)",
+      "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -173,6 +229,62 @@
       "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
     },
     {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "MAGIC (feat. Mustard)",
+        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "duration_ms": 226006,
+      "name": "MAGIC (feat. Mustard)",
+      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "cold",
+        "url": "https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 195129,
+      "name": "cold",
+      "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "you & me",
+      "url": "https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ"
+    },
+    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "LIVE LIFE FAST",
@@ -187,22 +299,6 @@
       "duration_ms": 207157,
       "name": "everything you need",
       "url": "https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv"
-    },
-    {
-      "added_at": "2022-02-15 20:31:51",
-      "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": "2021-09-03 05:02:30",
@@ -265,6 +361,26 @@
       "url": "https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2NQWkiIPcvCG9ykCPuTdc7"
+      },
+      "artists": [
+        {
+          "name": "Derek King",
+          "url": "https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E"
+        },
+        {
+          "name": "Shaun Sloan",
+          "url": "https://open.spotify.com/artist/4bbKZi7t8CaAYqrpe37asy"
+        }
+      ],
+      "duration_ms": 200063,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq"
+    },
+    {
       "added_at": "2021-10-13 21:32:43",
       "album": {
         "name": "Life of a DON",
@@ -297,20 +413,20 @@
       "url": "https://open.spotify.com/track/5FkBoG7xkb0pPkaO8rS5td"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "cold",
-        "url": "https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/1WamWAG6PKzLOK5s0JXvSy"
       },
       "artists": [
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 195129,
-      "name": "cold",
-      "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
+      "duration_ms": 164415,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/38ICQQxXLoifVUNkJcs7r6"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -415,26 +531,6 @@
       "duration_ms": 143226,
       "name": "Welcome Back, Dummy",
       "url": "https://open.spotify.com/track/6cm2FXJjs4YtaccHczvN1Y"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/2NQWkiIPcvCG9ykCPuTdc7"
-      },
-      "artists": [
-        {
-          "name": "Derek King",
-          "url": "https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E"
-        },
-        {
-          "name": "Shaun Sloan",
-          "url": "https://open.spotify.com/artist/4bbKZi7t8CaAYqrpe37asy"
-        }
-      ],
-      "duration_ms": 200063,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -613,26 +709,6 @@
       "url": "https://open.spotify.com/track/4yIH4PcUVivcxNTy1ETMZ3"
     },
     {
-      "added_at": "2021-07-16 05:59:49",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Woo Baby (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM"
-    },
-    {
       "added_at": "2021-09-24 04:00:00",
       "album": {
         "name": "The Melodic Blue",
@@ -729,26 +805,6 @@
       "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
     },
     {
-      "added_at": "2021-07-16 05:59:49",
-      "album": {
-        "name": "TwoFr 2 (Extended)",
-        "url": "https://open.spotify.com/album/29OibCCL3P8GQDAAcEwbcO"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 197914,
-      "name": "I Like ft. Lil Durk - Remix",
-      "url": "https://open.spotify.com/track/607kN00EPahVTsTCzuAGHJ"
-    },
-    {
       "added_at": "2021-07-23 04:00:00",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
@@ -809,26 +865,6 @@
       "url": "https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE"
     },
     {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "War & Wonders",
-        "url": "https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN"
-      },
-      "artists": [
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/2Ss2x0xjGRsOXZiYslCKQE"
-    },
-    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "You know My body (feat. Capella Grey)",
@@ -887,26 +923,6 @@
       "duration_ms": 199245,
       "name": "Bogus (feat. BlueBucksClan)",
       "url": "https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Way More Close (Stuck In A Box) [feat. Big Sean]",
-        "url": "https://open.spotify.com/album/1DjPn2vVLNXGzj0c6wGGDH"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 248042,
-      "name": "Way More Close (Stuck In A Box) (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/2DYoLkfNIF8xN1L4SnPlrj"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 215069,
       "name": "Friendzone (feat. Seddy Hendrinx)",
       "url": "https://open.spotify.com/track/4zU1FoEIOPOgAwNbNhQAQ3"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "F Yah Job",
-        "url": "https://open.spotify.com/album/7smZwprQmyFU3VHOz4nfjg"
-      },
-      "artists": [
-        {
-          "name": "Childish Major",
-          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
-        }
-      ],
-      "duration_ms": 117551,
-      "name": "F Yah Job",
-      "url": "https://open.spotify.com/track/0Zrn0AIZ8zNCtStA1YrRfZ"
     }
   ],
   "unique_name": "B.A.E.",

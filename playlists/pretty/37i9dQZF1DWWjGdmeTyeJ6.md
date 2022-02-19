@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Shy High, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,394 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,039 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 3 | [Miss Me](https://open.spotify.com/track/5x3oVy9j87XKtUyxEloiZi) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Miss Me](https://open.spotify.com/album/2BDbUunNKcOsHlWHZvHZcT) | 2:11 |
 | 4 | [clam chowder](https://open.spotify.com/track/6vEIhmMgzQMDdUwPNWqzSG) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [clam chowder](https://open.spotify.com/album/74KH6zHFgqwLC0V7oorWcd) | 2:32 |
 | 5 | [Next to Me \(feat\. Fiveofive\)](https://open.spotify.com/track/6GSY8J9SPNeBnZmaY2Nw5N) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Fiveofive](https://open.spotify.com/artist/4hwlmODYtrKQKxdJevZlqH) | [Next to Me \(feat\. Fiveofive\)](https://open.spotify.com/album/3WkVBSxJ31747DPXjr8Rnz) | 3:32 |
-| 6 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
+| 6 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/2UkjsQdVy00wXXsRfdPmNl) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
 | 7 | [Not In Love](https://open.spotify.com/track/1fmmgQIiz6i0F44LrgwDs8) | [Lady Dan](https://open.spotify.com/artist/5FflDIlGvj2Mqrptpa1dHF) | [Not In Love](https://open.spotify.com/album/5VpqsXpQ4RjGSTroJAMJbh) | 3:28 |
 | 8 | [is this how it all falls apart?](https://open.spotify.com/track/3PMcBQ3Bvm2Cy3rcy3URwm) | [dylxn](https://open.spotify.com/artist/5UlvB9ajvjZf8TDhySUF0i) | [is this how it all falls apart?](https://open.spotify.com/album/743gSzOguYGQzAntm3gvCV) | 2:26 |
 | 9 | [lovers only singalong](https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [lovers only singalong](https://open.spotify.com/album/2DzAPIprJTwtxRIYefQsU0) | 2:52 |

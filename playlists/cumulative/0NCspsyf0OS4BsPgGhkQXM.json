@@ -412,6 +412,28 @@
     },
     {
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "FRND",
+          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210668,
+      "name": "Bittersweet Melody",
+      "url": "https://open.spotify.com/track/2OZ76g7FfM1Vwxu7mX3Rqa"
+    },
+    {
+      "album": {
         "name": "AUTONOMY",
         "url": "https://open.spotify.com/album/5faGNZdFI0tMkcjw40yODR"
       },
@@ -866,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Cruisin",
+        "url": "https://open.spotify.com/album/6ddMElOzexBvFbNV4ZKWEX"
+      },
+      "artists": [
+        {
+          "name": "LAUTRE.",
+          "url": "https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172150,
+      "name": "Cruisin",
+      "url": "https://open.spotify.com/track/4cloSS3oel9ebFIhCDJOcR"
+    },
+    {
+      "album": {
         "name": "Decoded",
         "url": "https://open.spotify.com/album/7vegLp4uXP12y3DF1Xv8q0"
       },
@@ -917,6 +957,24 @@
       "duration_ms": 184888,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/1qErURHcNx7WWrVUiOrKMs"
+    },
+    {
+      "album": {
+        "name": "Diamond Ring",
+        "url": "https://open.spotify.com/album/14Qa3VaQUTOkTtWjCmbFrB"
+      },
+      "artists": [
+        {
+          "name": "Le Malls",
+          "url": "https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Diamond Ring",
+      "url": "https://open.spotify.com/track/4UadczGuTz5gWOt6nwGskx"
     },
     {
       "album": {
@@ -1106,6 +1164,32 @@
     },
     {
       "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1sUzfPoIGKRnmyaEDxXL75"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9"
+        },
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/6NLgMm1fbFNgZg7MaRHq2W"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6vP34IYlwS8zv3JKcFtHvX"
       },
@@ -1260,6 +1344,42 @@
     },
     {
       "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/06rTHS3eQKq1Gb0C8nzr66"
+      },
+      "artists": [
+        {
+          "name": "Erd1",
+          "url": "https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168515,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/7fUk94VXDQbK5T0agAdO75"
+    },
+    {
+      "album": {
+        "name": "Feel High",
+        "url": "https://open.spotify.com/album/6QSqkGrNsIlvMfshJbL3FW"
+      },
+      "artists": [
+        {
+          "name": "DaWave",
+          "url": "https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179258,
+      "name": "Feel High",
+      "url": "https://open.spotify.com/track/1EQIDG6xyZif31tTKzm2DY"
+    },
+    {
+      "album": {
         "name": "Overstimulated",
         "url": "https://open.spotify.com/album/2HNrUJc3c1HBRN4W0zZrQ3"
       },
@@ -1319,6 +1439,28 @@
       "duration_ms": 180845,
       "name": "Floating",
       "url": "https://open.spotify.com/track/4huKuk3umRK9b1KooigPRb"
+    },
+    {
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250597,
+      "name": "Forgotten You",
+      "url": "https://open.spotify.com/track/7jRCnqBjGvLyWBA7g0ZrCZ"
     },
     {
       "album": {
@@ -1565,6 +1707,32 @@
       "duration_ms": 180779,
       "name": "Holding On - Rome In Silver Remix",
       "url": "https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP"
+    },
+    {
+      "album": {
+        "name": "how you like me now",
+        "url": "https://open.spotify.com/album/3tEwNQkSdTz12dyhG0g45k"
+      },
+      "artists": [
+        {
+          "name": "Sh\u00f6ckface",
+          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
+        },
+        {
+          "name": "Lauren Martinez",
+          "url": "https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS"
+        },
+        {
+          "name": "STAHL",
+          "url": "https://open.spotify.com/artist/70urRuTXP7M2orf9bvn3DS"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124883,
+      "name": "how you like me now",
+      "url": "https://open.spotify.com/track/4dbQFY2jSgKrMWu6et132u"
     },
     {
       "album": {
@@ -1831,6 +1999,28 @@
       "duration_ms": 164571,
       "name": "last breath",
       "url": "https://open.spotify.com/track/7iJKUX0fbC5pxobb2xnzRQ"
+    },
+    {
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202339,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/4qAy3U09K72W2lIiqA5aCy"
     },
     {
       "album": {
@@ -2828,6 +3018,28 @@
     },
     {
       "album": {
+        "name": "Rip My Heart Out (feat. Skyler Cocco)",
+        "url": "https://open.spotify.com/album/3jX1SR354v3ExrrejmwSfE"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Skyler Cocco",
+          "url": "https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231100,
+      "name": "Rip My Heart Out",
+      "url": "https://open.spotify.com/track/12EYzHLOtNpbKP0rqEtscZ"
+    },
+    {
+      "album": {
         "name": "Rumor",
         "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
       },
@@ -2887,6 +3099,32 @@
       "duration_ms": 247384,
       "name": "SAKURA BURST (Naeleck Remix) - Sakura Chill Beats Singles",
       "url": "https://open.spotify.com/track/3Zj9WSEjueL8UecCOC67tT"
+    },
+    {
+      "album": {
+        "name": "Samurai (The FifthGuys Remix)",
+        "url": "https://open.spotify.com/album/1SUlHPKx6r7F77IJdOMJx2"
+      },
+      "artists": [
+        {
+          "name": "TH3 DARP",
+          "url": "https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw"
+        },
+        {
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
+        },
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "Samurai - The FifthGuys Remix",
+      "url": "https://open.spotify.com/track/6YUOdQK3fXRAZIiP34GAJC"
     },
     {
       "album": {
@@ -3041,6 +3279,28 @@
       "duration_ms": 183000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5keO6CNCGYsAlNs6qfN5AJ"
+    },
+    {
+      "album": {
+        "name": "Shanghai",
+        "url": "https://open.spotify.com/album/2CDYL6SIyBsFVczZkJtoAv"
+      },
+      "artists": [
+        {
+          "name": "CR\u00c8ME",
+          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "Shanghai",
+      "url": "https://open.spotify.com/track/3bLfSmgzIi9LjWbeWS1M3Z"
     },
     {
       "album": {
@@ -3213,6 +3473,24 @@
       "duration_ms": 166753,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq"
+    },
+    {
+      "album": {
+        "name": "BLOOD, SWEAT, TEARS",
+        "url": "https://open.spotify.com/album/2HPFvPzJ0NfDu2qIoTox8n"
+      },
+      "artists": [
+        {
+          "name": "PatrickReza",
+          "url": "https://open.spotify.com/artist/1tJnPDE5oPDB6ZqMsCTTYx"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "TEARS",
+      "url": "https://open.spotify.com/track/4TTpHvSqFHPiDyK8Vh3fmv"
     },
     {
       "album": {
@@ -3409,6 +3687,24 @@
       "duration_ms": 160000,
       "name": "Time",
       "url": "https://open.spotify.com/track/7wSAIATPd2bexPb4P2oFin"
+    },
+    {
+      "album": {
+        "name": "Treading Water",
+        "url": "https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213124,
+      "name": "Treading Water",
+      "url": "https://open.spotify.com/track/4cv3Hq71572CK731yfAVB0"
     },
     {
       "album": {
@@ -3669,6 +3965,32 @@
       "duration_ms": 194000,
       "name": "Wild Love",
       "url": "https://open.spotify.com/track/6z4XNYoSj2gs0s2aAVpK5T"
+    },
+    {
+      "album": {
+        "name": "With Us",
+        "url": "https://open.spotify.com/album/3weu8g7iv2zYprfSDi18DB"
+      },
+      "artists": [
+        {
+          "name": "Hoober",
+          "url": "https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd"
+        },
+        {
+          "name": "roseboy",
+          "url": "https://open.spotify.com/artist/19XTIhkOL45VkvkjjGzD61"
+        },
+        {
+          "name": "Pbenz",
+          "url": "https://open.spotify.com/artist/0iTL62LjPPI99dA62aW0Ir"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "With Us",
+      "url": "https://open.spotify.com/track/0h5hj2DLymMFFRxnotcc3w"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Maverick City Music",
+  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  DOE",
   "name": "Top Christian & Gospel",
   "published_playlist_ids": [
     "3IGSOKftgGE885pvp0BADM"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 274466,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/7ds1OKySMhLxxf7z6KxFQs"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 176533,
       "name": "Better King",
       "url": "https://open.spotify.com/track/1PRMBi6xAuwLFU48bm6sLh"
@@ -375,6 +375,24 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "album": {
@@ -1106,6 +1124,28 @@
     },
     {
       "album": {
+        "name": "I Believe It Now",
+        "url": "https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        },
+        {
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228886,
+      "name": "I Believe It Now",
+      "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
+    },
+    {
+      "album": {
         "name": "I Don't Want To Miss It",
         "url": "https://open.spotify.com/album/1a8CKBvmSYy9ovptIV4fin"
       },
@@ -1458,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "Me on Your Mind",
+        "url": "https://open.spotify.com/album/3eknQUyQ052Vppd79gkjXZ"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239431,
+      "name": "Me on Your Mind",
+      "url": "https://open.spotify.com/track/3jnJScaR0AYExHf3GVdPW1"
+    },
+    {
+      "album": {
         "name": "Minha Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
       },
@@ -1509,7 +1567,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 217616,
       "name": "My Jesus",
       "url": "https://open.spotify.com/track/5hY47DTHfGcwqMj5KvXerB"
@@ -1603,7 +1661,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 252407,
       "name": "Oh, Can You See It",
       "url": "https://open.spotify.com/track/5UkICwSpvTckm7XsfQ1tnB"
@@ -1961,7 +2019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 275066,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/0YHXHKyb2Uh9XiTWIACmyk"
@@ -2005,6 +2063,24 @@
       "duration_ms": 422135,
       "name": "Resurrender - Live",
       "url": "https://open.spotify.com/track/6R6V0yswnkY01L9buDZa7O"
+    },
+    {
+      "album": {
+        "name": "Let's Just Praise The Lord",
+        "url": "https://open.spotify.com/album/4JKJQyS9iv3qVBeUsY8BIi"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312883,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/509nwQdYfumwpK4OMCz9ZM"
     },
     {
       "album": {
@@ -2167,7 +2243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 268080,
       "name": "Scars in Heaven",
       "url": "https://open.spotify.com/track/2qg7U5mbHDFTXNKvPNF0IZ"
@@ -2438,6 +2514,24 @@
     },
     {
       "album": {
+        "name": "This Is How I Thank The Lord",
+        "url": "https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "This Is How I Thank The Lord",
+      "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
+    },
+    {
+      "album": {
         "name": "This is the Day (Live With Friends)",
         "url": "https://open.spotify.com/album/2ZCbmQN5UW87PiaAc53xai"
       },
@@ -2576,6 +2670,54 @@
     },
     {
       "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/2TzHY6eiWHBPlVn4KghFZr"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397216,
+      "name": "What He's Done - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/09duiLJRbYHhY5PMSVP1i9"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228613,
+      "name": "What I'm Waiting For",
+      "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
+    },
+    {
+      "album": {
         "name": "What If (feat. Lathan Warlick)",
         "url": "https://open.spotify.com/album/4XzjvLqfPAX4yyLidovUk1"
       },
@@ -2591,7 +2733,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 215720,
       "name": "What If (feat. Lathan Warlick)",
       "url": "https://open.spotify.com/track/0LRVYTFEtatqgoq4sXgzvH"

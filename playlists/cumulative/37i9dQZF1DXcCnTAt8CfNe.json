@@ -3472,6 +3472,24 @@
     },
     {
       "album": {
+        "name": "Paradise & Truce",
+        "url": "https://open.spotify.com/album/58crVNlt3FezfMYSh3gYyU"
+      },
+      "artists": [
+        {
+          "name": "Cooper Sams",
+          "url": "https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174798,
+      "name": "Truce",
+      "url": "https://open.spotify.com/track/4ilZS94Ju9fdhWbI6wvbHX"
+    },
+    {
+      "album": {
         "name": "Ujjayi",
         "url": "https://open.spotify.com/album/1DSSFfEypTfcTXnEIqKs9C"
       },

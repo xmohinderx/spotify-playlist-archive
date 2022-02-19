@@ -1,13 +1,45 @@
 {
-  "description": "\u00a1Las m\u00e1s poderosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Adriel Favela & Carin Le\u00f3n, al mill\u00f3n con La Reina. ",
-  "num_followers": 1308263,
+  "description": "\u00a1Las m\u00e1s poderosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Eden Mu\u00f1oz, al mill\u00f3n con La Reina. ",
+  "num_followers": 1311111,
   "original_name": "La Reina: \u00c9xitos del Regional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU1OTIwMCwwMDAwMDMzYTAwMDAwMTdlZTc1ZGVmODQwMDAwMDE3ZWU2OTdjOGI5",
+  "snapshot_id": "MTY0NTE2NDAwMCwwMDAwMDMzYjAwMDAwMTdmMGI2YTczODcwMDAwMDE3ZjA5Yzg3MThm",
   "tracks": [
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
     {
       "added_at": "2022-01-28 06:00:00",
       "album": {

@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -5129,7 +5129,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -7507,7 +7507,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 256720,
       "name": "Svaz ceskych bohemu",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -7677,6 +7677,28 @@
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq"
+    },
+    {
+      "album": {
+        "name": "Tancuj sama",
+        "url": "https://open.spotify.com/album/1pVMdaQHxtEKtQqdwY8ksq"
+      },
+      "artists": [
+        {
+          "name": "Carter",
+          "url": "https://open.spotify.com/artist/4SH8A3tuSIn9CTmjXM8TTS"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tancuj sama",
+      "url": "https://open.spotify.com/track/6TMS5Ux4LJHUe6OkHD9Mfm"
     },
     {
       "album": {

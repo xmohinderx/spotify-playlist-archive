@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 217609,
       "name": "CORPUS",
       "url": "https://open.spotify.com/track/00kbHoa4uwqpSkuA6NdBLy"
@@ -697,6 +697,28 @@
       "duration_ms": 301141,
       "name": "Danza en Desarrollo (feat. Sarazul)",
       "url": "https://open.spotify.com/track/0eijOhijICTraGNlFWvvPS"
+    },
+    {
+      "album": {
+        "name": "De los L\u00edmites",
+        "url": "https://open.spotify.com/album/6BUxm0c0dlEDnY6yQ5uW3W"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253591,
+      "name": "De los L\u00edmites",
+      "url": "https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf"
     },
     {
       "album": {

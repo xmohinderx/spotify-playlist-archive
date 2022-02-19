@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gxuYiQFvQL.md) - [plain]
 
 > A collection of classic tales by beloved Danish author Hans Christian Andersen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,099 likes - 17 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,094 likes - 17 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

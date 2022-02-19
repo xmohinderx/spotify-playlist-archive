@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Can't Find My Way Home",
+        "url": "https://open.spotify.com/album/05vQAuF4CXNNXkuJNRQseN"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212860,
+      "name": "Can't Find My Way Home",
+      "url": "https://open.spotify.com/track/4xdDEEwhHySDL7KOjxe01T"
+    },
+    {
+      "album": {
         "name": "Pickin' on the Hits of 2015",
         "url": "https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3"
       },
@@ -427,6 +445,28 @@
       "duration_ms": 187385,
       "name": "Dead Leaves And The Dirty Ground",
       "url": "https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x"
+    },
+    {
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR"
+      },
+      "artists": [
+        {
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
+        },
+        {
+          "name": "Maygen & The Birdwatcher",
+          "url": "https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A"
     },
     {
       "album": {

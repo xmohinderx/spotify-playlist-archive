@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Priscilla Block",
+  "description": "Music City must-hears. Cover: Sean Stemaly",
   "name": "Next From Nashville",
   "published_playlist_ids": [
     "6guBJqgtXaO0mvdeL4JtNk"
@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Back When",
+        "url": "https://open.spotify.com/album/0Aw38o54J2j0piiqKxyfMO"
+      },
+      "artists": [
+        {
+          "name": "Jon Wood",
+          "url": "https://open.spotify.com/artist/3etFu1t5miZTfUJGVB0yTh"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197153,
+      "name": "Back When",
+      "url": "https://open.spotify.com/track/30r2FTQsbuNpbRujYv14dm"
+    },
+    {
+      "album": {
         "name": "Background Music",
         "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
       },
@@ -337,6 +355,46 @@
       "duration_ms": 148305,
       "name": "Before I Loved You",
       "url": "https://open.spotify.com/track/0MIc8FKP8fE0v5AgyIWH56"
+    },
+    {
+      "album": {
+        "name": "Best Of Me (feat. Dallas Smith)",
+        "url": "https://open.spotify.com/album/1GsUZtyhgT2Ho1CcGufHZO"
+      },
+      "artists": [
+        {
+          "name": "Josh Ramsay",
+          "url": "https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B"
+        },
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240716,
+      "name": "Best Of Me (feat. Dallas Smith)",
+      "url": "https://open.spotify.com/track/0ENxjYOmcON3vYqFkAWVWQ"
+    },
+    {
+      "album": {
+        "name": "Best Revenge",
+        "url": "https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198613,
+      "name": "Best Revenge",
+      "url": "https://open.spotify.com/track/22JpCHdmjqmeSmevIz8c32"
     },
     {
       "album": {
@@ -484,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/5lYs5xlVEDd8HQ6SKvdk4D"
+      },
+      "artists": [
+        {
+          "name": "Payton Howie",
+          "url": "https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174934,
+      "name": "Break My Own Heart",
+      "url": "https://open.spotify.com/track/61rjPRhSp9v5XrRdr7aJmT"
+    },
+    {
+      "album": {
         "name": "Burn It Down (717 Tapes)",
         "url": "https://open.spotify.com/album/40CsyVbSKJPVHgxfLDKhJN"
       },
@@ -517,6 +593,42 @@
       "duration_ms": 182054,
       "name": "Buzz Back",
       "url": "https://open.spotify.com/track/221Uy1xQgHeH6Nwnu6LchJ"
+    },
+    {
+      "album": {
+        "name": "Product Of A Small Town",
+        "url": "https://open.spotify.com/album/4sYCo8b8hFtADXbxVn9w63"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196171,
+      "name": "Can't Be Me",
+      "url": "https://open.spotify.com/track/2eISfluGxum1EMjPQYCPp0"
+    },
+    {
+      "album": {
+        "name": "Can't Have Mine",
+        "url": "https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183087,
+      "name": "Can't Have Mine",
+      "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
     },
     {
       "album": {
@@ -705,6 +817,28 @@
       "duration_ms": 226049,
       "name": "Coming Soon To A Bar Near You",
       "url": "https://open.spotify.com/track/4XHdGi9H4H9WnoU5yEd6dU"
+    },
+    {
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176983,
+      "name": "Country Boy Do (feat. Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
     },
     {
       "album": {
@@ -1033,7 +1167,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
@@ -1095,6 +1229,24 @@
       "duration_ms": 177840,
       "name": "Firebird",
       "url": "https://open.spotify.com/track/0XfZNb9FbKuR8K7XkvjMAq"
+    },
+    {
+      "album": {
+        "name": "Fishin' On A River",
+        "url": "https://open.spotify.com/album/6oeOfzSNcr3hlzuYqhqLAt"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221439,
+      "name": "Fishin' On A River",
+      "url": "https://open.spotify.com/track/7fPMxbD8KCeCYEpJmihTjG"
     },
     {
       "album": {
@@ -1309,6 +1461,42 @@
       "duration_ms": 190066,
       "name": "Good Day for Living",
       "url": "https://open.spotify.com/track/1KpUbzeaGFdcBD7aeEj0k9"
+    },
+    {
+      "album": {
+        "name": "Good Good Life",
+        "url": "https://open.spotify.com/album/6oc3vY9qCokLPp18GQ8p3e"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lay",
+          "url": "https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196511,
+      "name": "Good Good Life",
+      "url": "https://open.spotify.com/track/5ILyc23SzAOH7hyIIy61RK"
+    },
+    {
+      "album": {
+        "name": "Good To You",
+        "url": "https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG"
+      },
+      "artists": [
+        {
+          "name": "Coffey Anderson",
+          "url": "https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA"
     },
     {
       "album": {
@@ -1907,7 +2095,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 199493,
       "name": "If You Have To",
       "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
@@ -1968,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "Last Night Lonely",
+        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181990,
+      "name": "Last Night Lonely",
+      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
+    },
+    {
+      "album": {
         "name": "Last October",
         "url": "https://open.spotify.com/album/1zPSvfkC4qt8PBaVq1hBvQ"
       },
@@ -2001,6 +2207,24 @@
       "duration_ms": 232711,
       "name": "Last Place I Want To Be",
       "url": "https://open.spotify.com/track/3ujflVU6iW4uA8dXCDC0DQ"
+    },
+    {
+      "album": {
+        "name": "leaving the party",
+        "url": "https://open.spotify.com/album/2mxOIUxhWRKKfFzaklQalv"
+      },
+      "artists": [
+        {
+          "name": "Kat Johnson",
+          "url": "https://open.spotify.com/artist/5DExv8aXqpN2NI3IyRzkMy"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "leaving the party",
+      "url": "https://open.spotify.com/track/2xOJiMRH9QVBcM4o9waej9"
     },
     {
       "album": {
@@ -2171,7 +2395,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 184746,
       "name": "Long Live Cowgirls (with Cody Johnson)",
       "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
@@ -2351,7 +2575,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 177920,
       "name": "Mind On You",
       "url": "https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE"
@@ -2423,7 +2647,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 202880,
       "name": "Missing One",
       "url": "https://open.spotify.com/track/6boItJTxu8c9PdSbVqbAUF"
@@ -2848,6 +3072,24 @@
     },
     {
       "album": {
+        "name": "Paper Airplane",
+        "url": "https://open.spotify.com/album/1sO4Zy6l8XkGHUpwcOqFAi"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Bonagura",
+          "url": "https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246586,
+      "name": "Paper Airplane",
+      "url": "https://open.spotify.com/track/5VtJXLUIsFw94ZtCBhkz5I"
+    },
+    {
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz"
       },
@@ -2985,7 +3227,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 154764,
       "name": "Product Of A Small Town",
       "url": "https://open.spotify.com/track/5lHIlugqLj6HyodeNpb8xk"
@@ -3111,7 +3353,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 192626,
       "name": "Rock And Roll Cowboy",
       "url": "https://open.spotify.com/track/2S64jbKPxABEYsniZYTH6C"
@@ -3468,6 +3710,24 @@
     },
     {
       "album": {
+        "name": "Take It In",
+        "url": "https://open.spotify.com/album/70MvUsZkuv2Nn4XMEYsHkg"
+      },
+      "artists": [
+        {
+          "name": "Cat Stone",
+          "url": "https://open.spotify.com/artist/5rW38Fh10oQoc0ZUN3WlQi"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Take It In",
+      "url": "https://open.spotify.com/track/79Mi50c5uMHicF4HrS1q47"
+    },
+    {
+      "album": {
         "name": "TAKE ONLY WHAT YOU NEED",
         "url": "https://open.spotify.com/album/3NUnsXehARg3ABsFq0LqCG"
       },
@@ -3562,6 +3822,24 @@
     },
     {
       "album": {
+        "name": "The Neon",
+        "url": "https://open.spotify.com/album/7CQGgKnzZNeP8ej48hOYng"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "The Neon",
+      "url": "https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk"
+    },
+    {
+      "album": {
         "name": "Reckless (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2ptlvk4iUKk88X0DfEzBm7"
       },
@@ -3627,7 +3905,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 170474,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS"
@@ -3904,6 +4182,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW"
+      },
+      "artists": [
+        {
+          "name": "Twinnie",
+          "url": "https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189049,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V"
+    },
+    {
+      "album": {
         "name": "What If We Never Met",
         "url": "https://open.spotify.com/album/6A8oaHU3swEB7fl0nD5nyk"
       },
@@ -4027,6 +4323,24 @@
       "duration_ms": 148100,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/1cHYzbf9i27FIsHj91fLIY"
+    },
+    {
+      "album": {
+        "name": "George Birge",
+        "url": "https://open.spotify.com/album/0kLDP2T9Fv7Gd6UfZXmERd"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165373,
+      "name": "Whiskey Side",
+      "url": "https://open.spotify.com/track/7lYXb5Vdlq0Y48j6kEPh6r"
     },
     {
       "album": {

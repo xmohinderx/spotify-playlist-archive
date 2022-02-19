@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "flow hungria \u00e9 AULAS",
+  "description": "exu do blues \u00e9 AULAS",
   "name": "AULAS",
   "published_playlist_ids": [
     "2GpYMlHQWhJaqR9gXTSMkt"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 172727,
       "name": "Cotidiano",
       "url": "https://open.spotify.com/track/1mrmRAy3IGhh9yr0ZQ04xN"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 221653,
       "name": "Reflexo",
       "url": "https://open.spotify.com/track/6TjdoPPor1t4gajeMNQMBE"
@@ -1353,6 +1353,40 @@
       "duration_ms": 162875,
       "name": "Seu Lugar",
       "url": "https://open.spotify.com/track/7xPuG4zgAHk0f0Dqkp2Yig"
+    },
+    {
+      "album": {
+        "name": "Sigo na F\u00e9 do Pai",
+        "url": "https://open.spotify.com/album/5goTGEm2ey7n2DEa2tIcm8"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "Sigo na F\u00e9 do Pai",
+      "url": "https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ"
     },
     {
       "album": {

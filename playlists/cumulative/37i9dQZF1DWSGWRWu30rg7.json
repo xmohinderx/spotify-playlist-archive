@@ -3594,6 +3594,24 @@
     },
     {
       "album": {
+        "name": "Resentment",
+        "url": "https://open.spotify.com/album/6HFQItGyacdpjDKpKK6UhD"
+      },
+      "artists": [
+        {
+          "name": "Fallen Wolves",
+          "url": "https://open.spotify.com/artist/1jBSX7hBRWOZcHmPveHRkj"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190423,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/5E5vuBwJcieyS41jRRI3Ke"
+    },
+    {
+      "album": {
         "name": "Resign",
         "url": "https://open.spotify.com/album/34CL7RpmYibfb2Kr9iZ1Bg"
       },
@@ -4295,6 +4313,24 @@
       "duration_ms": 304421,
       "name": "Stay On Me",
       "url": "https://open.spotify.com/track/0zj0kU0avkzcJz4QS6kTeI"
+    },
+    {
+      "album": {
+        "name": "Still Linger",
+        "url": "https://open.spotify.com/album/4vybmEpYBKLD75esxkEUNT"
+      },
+      "artists": [
+        {
+          "name": "Minnara",
+          "url": "https://open.spotify.com/artist/7GaslN0ewUvKuv7PghDZXC"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250740,
+      "name": "Still Linger",
+      "url": "https://open.spotify.com/track/7JYPUKO0k85jTAcfgf7THj"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Your favorite pop songs, <a href=\"spotify:genre:classical\">classically</a>&nbsp;reimagined.",
+  "description": "Your favorite pop songs, classically reimagined.",
   "name": "Pop Goes Classical",
   "published_playlist_ids": [
     "4EYrQBqxGeZdiN5pWe9nnm"
@@ -253,6 +253,24 @@
       "duration_ms": 331757,
       "name": "Bastille: The Piano Tribute Medley",
       "url": "https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20"
+    },
+    {
+      "album": {
+        "name": "90s Piano Covers",
+        "url": "https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped"
+      },
+      "artists": [
+        {
+          "name": "Henry Smith",
+          "url": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Believe - Piano Version",
+      "url": "https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH"
     },
     {
       "album": {

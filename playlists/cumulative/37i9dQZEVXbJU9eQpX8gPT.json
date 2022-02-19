@@ -2048,6 +2048,28 @@
     },
     {
       "album": {
+        "name": "Chicken Noodle Soup (feat. Becky G)",
+        "url": "https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235497,
+      "name": "Chicken Noodle Soup (feat. Becky G)",
+      "url": "https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk"
+    },
+    {
+      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8"
       },
@@ -2577,7 +2599,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 239722,
       "name": "Dis-ease",
       "url": "https://open.spotify.com/track/0hxeouHqP3qzpTHerA7ha2"
@@ -4596,6 +4618,24 @@
     },
     {
       "album": {
+        "name": "Khalini",
+        "url": "https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182566,
+      "name": "Khalini",
+      "url": "https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5"
+    },
+    {
+      "album": {
         "name": "Weld Fatima II",
         "url": "https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF"
       },
@@ -5377,6 +5417,24 @@
     {
       "album": {
         "name": "Lili",
+        "url": "https://open.spotify.com/album/2y1RmOXemgi3JpFQCtywRo"
+      },
+      "artists": [
+        {
+          "name": "Plylist",
+          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182903,
+      "name": "Lili",
+      "url": "https://open.spotify.com/track/049e2VlfYsfIRrZk1bfAqX"
+    },
+    {
+      "album": {
+        "name": "Lili",
         "url": "https://open.spotify.com/album/5UBFKS0W4dd1rxEk9psKwr"
       },
       "artists": [
@@ -5387,7 +5445,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 183770,
       "name": "Lili",
       "url": "https://open.spotify.com/track/7jXw9LPDWtOJO4cycQ9Wh1"
@@ -6531,7 +6589,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 206508,
       "name": "N",
       "url": "https://open.spotify.com/track/6cyYD58m4zLDzEWld7sxHC"

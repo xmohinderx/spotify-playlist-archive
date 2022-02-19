@@ -8,6 +8,46 @@
   "tracks": [
     {
       "album": {
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "album": {
+        "name": "A Mi Ritmo",
+        "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186883,
+      "name": "A Mi Ritmo",
+      "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
+    },
+    {
+      "album": {
         "name": "Algo Nuevo Pa' Mi (feat. Nanpa B\u00e1sico)",
         "url": "https://open.spotify.com/album/4FD5qJeTJhrOQZ4xMn6brl"
       },
@@ -41,7 +81,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 146133,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/0opSeJdqFHa0iNGqJ3DtmE"
@@ -281,7 +321,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 128052,
       "name": "Luz Verde",
       "url": "https://open.spotify.com/track/4Ve2HT1h9DAhIHSKt4zkcG"
@@ -429,7 +469,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-19",
       "duration_ms": 177532,
       "name": "Pulsiones",
       "url": "https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg"
@@ -531,6 +571,24 @@
       "duration_ms": 195430,
       "name": "TELOD\u00cd",
       "url": "https://open.spotify.com/track/2w0lO85zsO2TeUIIZtmFKP"
+    },
+    {
+      "album": {
+        "name": "Tierra Lejana",
+        "url": "https://open.spotify.com/album/6YxISPw4AT6G1PKzeLJk4K"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "Tierra Lejana",
+      "url": "https://open.spotify.com/track/1NSU3JeZrClnWlhlnzPZZF"
     },
     {
       "album": {

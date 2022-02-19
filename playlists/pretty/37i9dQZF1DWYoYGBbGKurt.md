@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,479 likes - 500 songs - 19 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,769 likes - 500 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 14 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Papir Chaser](https://open.spotify.com/artist/64jtTdqJ8iLVkpbiQvBfy2) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 |
 | 15 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 |
 | 16 | [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 |
-| 17 | [after school](https://open.spotify.com/track/3TyjuHEE7JVQZWGurwxe61) | [Erin Bee](https://open.spotify.com/artist/5FX1lx52oWCDgiap5Q1QAu) | [after school](https://open.spotify.com/album/3wYUUZ0DZfAr6XmfKrg3bO) | 2:12 |
+| 17 | [Everluv](https://open.spotify.com/track/6xbWtSRDzwBsdcSXIbwM2R) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Everluv](https://open.spotify.com/album/6JSjxjopZ6f8AzAVaal9ey) | 1:33 |
 | 18 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 |
 | 19 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 |
 | 20 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 499 | [I'll Wait](https://open.spotify.com/track/4gTsqVEBYNVgdwzJligeIM) | [Lomoplay](https://open.spotify.com/artist/0R7NYzygUKT8QjUpDTylUo) | [I'll Wait](https://open.spotify.com/album/2WFVu3UGokQwdMCXNTr5BH) | 2:02 |
 | 500 | [Medicinal Sushi](https://open.spotify.com/track/3mbwQJDnCQxyclWLlj47FG) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Medicinal Sushi](https://open.spotify.com/album/46UGUGL6oz0XVuSN6SkMcs) | 2:24 |
 
-Snapshot ID: `MTY0NTAyMDMwMSwwMDAwMDA1YjAwMDAwMTdmMDJkOWM4ZWEwMDAwMDE2ZDE1MzRlMGI4`
+Snapshot ID: `MTY0NTIxMTY0OCwwMDAwMDA1YzAwMDAwMTdmMGU0MTgwZWMwMDAwMDE2ZDE1MzRlMGI4`

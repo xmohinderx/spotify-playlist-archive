@@ -1,15 +1,15 @@
 {
   "description": "Celebramos la Generaci\u00f3n 2021 de Radar Andinos con el Spotify Single de Blessd.",
-  "num_followers": 15163,
+  "num_followers": 15173,
   "original_name": "Radar Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTkzMjk2MSwwMDAwMDAyZDAwMDAwMTdlNGFkNGI2ZjAwMDAwMDE3ZDA1OWQyNjU3",
+  "snapshot_id": "MTY0NTE2MDQ2MCwwMDAwMDAyZTAwMDAwMTdmMGIzNDcwN2IwMDAwMDE3ZDA1OWQyNjU3",
   "tracks": [
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "La Oportunidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
@@ -25,10 +25,62 @@
       "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/1cmfRzoYIlDaAmFUUypaDB"
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "A Mi Ritmo",
+        "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 186883,
+      "name": "A Mi Ritmo",
+      "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "COMO TE VEO",
+        "url": "https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "COMO TE VEO",
+      "url": "https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Tierra Lejana",
+        "url": "https://open.spotify.com/album/6YxISPw4AT6G1PKzeLJk4K"
       },
       "artists": [
         {
@@ -36,32 +88,36 @@
           "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 146133,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/0opSeJdqFHa0iNGqJ3DtmE"
+      "duration_ms": 163600,
+      "name": "Tierra Lejana",
+      "url": "https://open.spotify.com/track/1NSU3JeZrClnWlhlnzPZZF"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "TELOD\u00cd",
-        "url": "https://open.spotify.com/album/6bW5WxABfMFCUyVhe7V0kN"
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
       "artists": [
         {
-          "name": "Dawer X Damper",
-          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Rap Bang Club",
-          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 195430,
-      "name": "TELOD\u00cd",
-      "url": "https://open.spotify.com/track/2w0lO85zsO2TeUIIZtmFKP"
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Minotauros",
         "url": "https://open.spotify.com/album/1wF5pnsm6uE4uzYIEGyk5W"
@@ -93,63 +149,27 @@
       "url": "https://open.spotify.com/track/1Q496s61Y6lEbFmGiost0a"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+        "name": "TELOD\u00cd",
+        "url": "https://open.spotify.com/album/6bW5WxABfMFCUyVhe7V0kN"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+      "duration_ms": 195430,
+      "name": "TELOD\u00cd",
+      "url": "https://open.spotify.com/track/2w0lO85zsO2TeUIIZtmFKP"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
-      "album": {
-        "name": "Luz Verde",
-        "url": "https://open.spotify.com/album/5KcJcpi6UxVqzd5iOL5tGO"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 128052,
-      "name": "Luz Verde",
-      "url": "https://open.spotify.com/track/4Ve2HT1h9DAhIHSKt4zkcG"
-    },
-    {
-      "added_at": "2021-11-10 05:00:00",
-      "album": {
-        "name": "COMO TE VEO",
-        "url": "https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "COMO TE VEO",
-      "url": "https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN"
-    },
-    {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Qui\u00e9reme As\u00ed",
         "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Parapente",
         "url": "https://open.spotify.com/album/2ZT8R1lhtbkoKRvS21Nqvd"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/7I748qKWSny5fh18KAFnWz"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Todo Lo Que Sube",
         "url": "https://open.spotify.com/album/6tNoe4u7S1qDPBOIP0gUDD"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/0Z1Q2goNVWqG0CNRl4EHiU"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "EL ETERNO RETORNO",
         "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
         "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Algo Nuevo Pa' Mi (feat. Nanpa B\u00e1sico)",
         "url": "https://open.spotify.com/album/4FD5qJeTJhrOQZ4xMn6brl"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/7j7oRl3C2e2ghoreuB1GP8"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Tus Fotos (with Javiielo)",
         "url": "https://open.spotify.com/album/0DSdxX7PSym9rzdrhypsMr"
@@ -301,31 +321,7 @@
       "url": "https://open.spotify.com/track/1I9nceRI1bSCE4QYiltuI3"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
-      "album": {
-        "name": "Pulsiones",
-        "url": "https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I"
-      },
-      "artists": [
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        },
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        },
-        {
-          "name": "K.maleon",
-          "url": "https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3"
-        }
-      ],
-      "duration_ms": 177532,
-      "name": "Pulsiones",
-      "url": "https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg"
-    },
-    {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "N\u00f3mada",
         "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
@@ -345,7 +341,7 @@
       "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Voy Pa All\u00e1",
         "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
@@ -361,7 +357,7 @@
       "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "C\u00f3smosis",
         "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
@@ -377,7 +373,7 @@
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Yo Soy Dios",
         "url": "https://open.spotify.com/album/2iw7qlG3uOlg6qC56rUJOs"
@@ -393,7 +389,7 @@
       "url": "https://open.spotify.com/track/587UgJMuHMo92aZiclStcB"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
@@ -409,7 +405,7 @@
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Qu\u00e9 Fuerte!",
         "url": "https://open.spotify.com/album/4IUPx8lwW7xBbXMkGFYsPf"
@@ -425,7 +421,7 @@
       "url": "https://open.spotify.com/track/622LoMYDvaNxAY0ana38OA"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "S\u00c9 - Ep. 4: Flores 4E",
         "url": "https://open.spotify.com/album/7elTdPAcknRyyOgDzIifAj"
@@ -445,7 +441,7 @@
       "url": "https://open.spotify.com/track/5HW70b0HU0cQk28s10ycX7"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "FIXXI\u00d3N",
         "url": "https://open.spotify.com/album/4wa2jkm7yOAXCR70ZrLj74"
@@ -461,7 +457,7 @@
       "url": "https://open.spotify.com/track/3YCwaFpPituwo6yx2Eu6PC"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "IMPOSIBLE (REMIX)",
         "url": "https://open.spotify.com/album/6TxOo9xRjrNPyNSHLtMpIR"
@@ -481,7 +477,7 @@
       "url": "https://open.spotify.com/track/5eaLGyPrVG7FbZ5vVnBm93"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Los No Tan Tristes (\u00c1lbum)",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
@@ -505,7 +501,7 @@
       "url": "https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "el cielo no es de nadie",
         "url": "https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL"
@@ -521,7 +517,7 @@
       "url": "https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
@@ -537,7 +533,7 @@
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/7gJmkFRzY2CZAbtrpZJ8ct"
@@ -557,7 +553,7 @@
       "url": "https://open.spotify.com/track/4CT9AWXN4jphJxRBhnUiNi"
     },
     {
-      "added_at": "2021-11-10 05:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt"
