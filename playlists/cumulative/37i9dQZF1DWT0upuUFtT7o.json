@@ -1640,24 +1640,6 @@
     },
     {
       "album": {
-        "name": "Head Talk",
-        "url": "https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ"
-      },
-      "artists": [
-        {
-          "name": "Milk Jennings",
-          "url": "https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ"
-        }
-      ],
-      "date_added": "2022-01-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248433,
-      "name": "Head Talk",
-      "url": "https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG"
-    },
-    {
-      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/2FaHuiTP5xJ5XM49X1Vh2o"
       },
@@ -3281,6 +3263,24 @@
       "duration_ms": 122739,
       "name": "rainbows n butterflies",
       "url": "https://open.spotify.com/track/3Wu3ASUGVC29cyliW6yLN7"
+    },
+    {
+      "album": {
+        "name": "Head Talk",
+        "url": "https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ"
+      },
+      "artists": [
+        {
+          "name": "Milk Jennings",
+          "url": "https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248433,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG"
     },
     {
       "album": {

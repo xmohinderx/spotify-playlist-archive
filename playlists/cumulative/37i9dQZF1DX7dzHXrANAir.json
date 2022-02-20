@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 454774,
       "name": "(flake)",
       "url": "https://open.spotify.com/track/2B6fPIjcfa0Ddf06dPHE3T"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 329999,
       "name": "A Dream, A Sequence",
       "url": "https://open.spotify.com/track/5a6AT9Zwj6fOcqJ97EU5Qn"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 179023,
       "name": "Bells Variation",
       "url": "https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 240085,
       "name": "Change Ringing",
       "url": "https://open.spotify.com/track/5GuiFlzQaTd2HLmJFUx907"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 296880,
       "name": "Clair de lune - Arr. for Theremin and Voice",
       "url": "https://open.spotify.com/track/2VrCFjVIxFRT924d2NDyce"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 453318,
       "name": "continuo",
       "url": "https://open.spotify.com/track/4NTaWl9n52PEQqNAa0VAwB"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 457209,
       "name": "Dvergm\u00e1l (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
       "url": "https://open.spotify.com/track/0ziXftS3A7jAVobpKVKwg9"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 282760,
       "name": "Fastelavn",
       "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
@@ -865,6 +865,24 @@
       "duration_ms": 486068,
       "name": "Fly - Reimagined by Mercan Dede and Dexter Crowe",
       "url": "https://open.spotify.com/track/1yiS9iXNPZIlwE0zBNe106"
+    },
+    {
+      "album": {
+        "name": "G-Minor",
+        "url": "https://open.spotify.com/album/3ZinSpYPsXsjkt3qcMQhrr"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235563,
+      "name": "G-Minor",
+      "url": "https://open.spotify.com/track/7JRF4gqX6lYMPO6FnhPwKl"
     },
     {
       "album": {
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 199106,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 294003,
       "name": "H\u00fam - Mount Alaska Remix",
       "url": "https://open.spotify.com/track/3aIh0fghG1J4enDAPSYDRF"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 260306,
       "name": "La Vie",
       "url": "https://open.spotify.com/track/5Hn2dUqSBV79DHbMuHI11h"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 278096,
       "name": "Moving Pictures",
       "url": "https://open.spotify.com/track/5Q1k4g2pDLySYHLX8fmv29"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 261560,
       "name": "Newborn",
       "url": "https://open.spotify.com/track/3EB0OXYpu65N019rD3hLh7"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 192000,
       "name": "N\u00e9fos",
       "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 242880,
       "name": "Owls",
       "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 246000,
       "name": "Papaver",
       "url": "https://open.spotify.com/track/2jXNT0yeCmCpJKUVM5lZZJ"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 225112,
       "name": "Passacaille",
       "url": "https://open.spotify.com/track/6QpnhxER1fhJEHo8dPry3a"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 163945,
       "name": "Pattern of Water",
       "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 180062,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 388748,
       "name": "Vale",
       "url": "https://open.spotify.com/track/3PkvGNZ44JmojQBv5DbVIr"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"

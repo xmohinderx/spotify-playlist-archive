@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Nathan\-Paul\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,422 likes - 87 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,290 likes - 87 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 86 | [The Color of a Day](https://open.spotify.com/track/0EbGzj3aIArDxw7lT8RVd2) | [Sergio Serravalle](https://open.spotify.com/artist/5dyqjLOIgvbO0accI1bBmy) | [The Color of a Day](https://open.spotify.com/album/46BH8ZzjKjilcZpaNAsUr9) | 3:12 |
 | 87 | [Shirley's Dream](https://open.spotify.com/track/1sJQOQs9DiYlpI0hk5VV8X) | [Prashant Samlal](https://open.spotify.com/artist/17C5uyeAnGrIZPGZl2n4YM) | [Shirley's Dream](https://open.spotify.com/album/6d6zqFfkuyCiiRFDvWNhGK) | 5:27 |
 
-Snapshot ID: `MTY0NTE2NjQ4NywwMDAwMDAwZDAwMDAwMTdmMGI5MDY4NDEwMDAwMDE3ZWJjNmMzNWUx`
+Snapshot ID: `MTY0NTI5Nzc3MywwMDAwMDAwZTAwMDAwMTdmMTM2M2FjMWQwMDAwMDE3ZWJjNmMzNWUx`

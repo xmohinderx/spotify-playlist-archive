@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Instrumental  jazz with a cool sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,833 likes - 138 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,903 likes - 138 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

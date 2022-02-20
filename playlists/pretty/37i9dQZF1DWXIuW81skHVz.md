@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIuW81skHVz.md) - [plain]
 
 > The shape of jazz today\. Cover: Kamasi Washington
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,759 likes - 85 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,716 likes - 85 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIuW81skHVz.md) - [plain]
 | 84 | [Conception](https://open.spotify.com/track/6KEvzpIWASLeth3AkG5uNg) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 5:25 |
 | 85 | [Challenge Day](https://open.spotify.com/track/2gSg3TOHtH5v3SgyduKA0w) | [Marcus Joseph](https://open.spotify.com/artist/0WMfyqAZYSdIZSGiPrFja9) | [Beyond The Dome](https://open.spotify.com/album/3W6QnhrQnAcz9i6UzamEvN) | 3:39 |
 
-Snapshot ID: `MTY0NTE3MTgxNiwwMDAwMDAzZTAwMDAwMTdmMGJlMWI5MDgwMDAwMDE3ZWMwMmFiN2U1`
+Snapshot ID: `MTY0NTI5NzcwNiwwMDAwMDAzZjAwMDAwMTdmMTM2MmE2ZDEwMDAwMDE3ZWMwMmFiN2U1`

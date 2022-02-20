@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Tigran Hamasyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,133 likes - 71 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,180 likes - 71 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 23 | [Aria nuova](https://open.spotify.com/track/6CWId758mDQzBCBKPBDVmS) | [Rosario Di Leo](https://open.spotify.com/artist/1U7fW7Z25C0cWOdMHGk5MJ) | [Aria nuova](https://open.spotify.com/album/6He6HsNFwzCyQQKeUjoruA) | 6:16 |
 | 24 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 |
 | 25 | [IJzeren Rijn](https://open.spotify.com/track/50PJIDB0IEcs5JtroUqx2i) | [Gallowstreet](https://open.spotify.com/artist/5PBhzgMrQywioo7dPuXzvm) | [IJzeren Rijn](https://open.spotify.com/album/6hSbXRa5oCoidoBTFf7kN8) | 5:00 |
-| 26 | [CasaBrancaBrincaDeira](https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH) | [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [cellosam3atrio](https://open.spotify.com/artist/0SnEzXr1EXgM81oc6XtsJz), [Lula Galvão](https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs), [Rafael Barata](https://open.spotify.com/artist/5H0JsjEdShoczu7NKURyJ2), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF), [Cristóvão Bastos](https://open.spotify.com/artist/1lOQN7mWnDiUd5GIauuTc7) | [CasaBrancaBrincaDeira](https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48) | 6:36 |
+| 26 | [CasaBrancaBrinCadeira](https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH) | [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Jaques Morelenbaum Cellosam3atrio](https://open.spotify.com/artist/5Du1aBiUwXn3ObWKa3BmjS), [Lula Galvão](https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs), [Rafael Barata](https://open.spotify.com/artist/5H0JsjEdShoczu7NKURyJ2), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF), [Cristóvão Bastos](https://open.spotify.com/artist/1lOQN7mWnDiUd5GIauuTc7) | [CasaBrancaBrinCadeira](https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48) | 6:36 |
 | 27 | [Law Hill](https://open.spotify.com/track/2DJ4lh5KlfC3y0GJZqv7mg) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Law Hill](https://open.spotify.com/album/7iqDF8yiSsDLIv7upkqxKi) | 6:52 |
 | 28 | [Angel Eyes](https://open.spotify.com/track/48xKQ1XeOA0jngnt7aO10M) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Angel Eyes](https://open.spotify.com/album/4tVTcvnMeAID4wkIlNN6mr) | 5:17 |
 | 29 | [Brevity](https://open.spotify.com/track/26Sa1QK63XlCNIKKdNBuN5) | [Tapani Rinne](https://open.spotify.com/artist/3444FAqjOpZGe7qdyshHg1), [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Brevity](https://open.spotify.com/album/4MFyb4mSmkgHkndJP7RyO3) | 4:31 |

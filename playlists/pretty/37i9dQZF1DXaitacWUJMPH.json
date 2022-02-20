@@ -1,12 +1,12 @@
 {
   "description": "24 songs dedicated to the Mamba & Mambacita. R.I.P. Kobe & Gianna Bryant.",
-  "num_followers": 359582,
+  "num_followers": 359907,
   "original_name": "2 . 24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIzMTkyMiwwMDAwMDAwMGZlYTczNWE0ZDcxMGMyZjc2Mzg0MDllNmVjMjM5ZjIw",
+  "snapshot_id": "MTY0NTMxODUwMiwwMDAwMDAwMGJjZDJlNDI5MTY1Yjk3YTBmN2I4YzhiMmNhNzkzMGNh",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -23,38 +23,6 @@
       "duration_ms": 197898,
       "name": "24",
       "url": "https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 164579,
-      "name": "Got It On Me",
-      "url": "https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "MIDDLE CHILD",
-        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 213593,
-      "name": "MIDDLE CHILD",
-      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -83,6 +51,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 164579,
+      "name": "Got It On Me",
+      "url": "https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -103,22 +87,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "KOV",
-        "url": "https://open.spotify.com/album/3zHgwCgiBWNcXhOX9UrQME"
+        "name": "MIDDLE CHILD",
+        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
       "artists": [
         {
-          "name": "Lxst",
-          "url": "https://open.spotify.com/artist/2vxh38hZKAV0DlSpnv7cqT"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Worked Hard",
-      "url": "https://open.spotify.com/track/00V76gpjbXHTGQJKa2l6yC"
+      "duration_ms": 213593,
+      "name": "MIDDLE CHILD",
+      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -143,6 +123,26 @@
       "duration_ms": 257428,
       "name": "Hats Off (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "From The D To The A (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 158684,
+      "name": "From The D To The A (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -191,54 +191,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "From The D To The A (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91"
+        "name": "ONEPOINTFIVE",
+        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         }
       ],
-      "duration_ms": 158684,
-      "name": "From The D To The A (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "Stupid Again",
-      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
+      "duration_ms": 121346,
+      "name": "REEL IT IN",
+      "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -259,62 +223,106 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "I Stand On That",
-        "url": "https://open.spotify.com/album/5H24YqJYH1cQWGnlN0jgT8"
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
       },
       "artists": [
         {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 284171,
-      "name": "I Stand On That",
-      "url": "https://open.spotify.com/track/3yQQgABgbIcyhy7pJjHfWF"
+      "duration_ms": 175720,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
     },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 214214,
-      "name": "Commercial (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+        "name": "Old Streets",
+        "url": "https://open.spotify.com/album/0ruXOKXuGUA9wtnOZ38ElT"
       },
       "artists": [
         {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+          "name": "2KBABY",
+          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
         }
       ],
-      "duration_ms": 143152,
-      "name": "Woodlawn",
-      "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
+      "duration_ms": 105600,
+      "name": "Old Streets",
+      "url": "https://open.spotify.com/track/7JVfHOV7ylgOUKaHnPMafs"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        },
+        {
+          "name": "Payroll",
+          "url": "https://open.spotify.com/artist/7yzcsplXURYcG1Luakmkqy"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Drego",
+          "url": "https://open.spotify.com/artist/79y9wOe73QinG3vsi3vLqK"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 568129,
+      "name": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce Da 5'9\", and Eminem)",
+      "url": "https://open.spotify.com/track/2kY2ROHIGdp3aA6ahqaUKm"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -343,54 +351,70 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "WCF",
-        "url": "https://open.spotify.com/album/6ce7OoIGGZ1MGq8YlHTnxY"
+        "name": "All Da Action",
+        "url": "https://open.spotify.com/album/30EkjyCA87BKn9pYXTttcN"
       },
       "artists": [
         {
-          "name": "Hil Holla",
-          "url": "https://open.spotify.com/artist/3CxR5r0rfx3xPxIswkgm0p"
+          "name": "YSB Tril",
+          "url": "https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ"
         }
       ],
-      "duration_ms": 181680,
-      "name": "WCF",
-      "url": "https://open.spotify.com/track/7iRn1W8QLad1RnzKkb4iQk"
+      "duration_ms": 140991,
+      "name": "All Da Action",
+      "url": "https://open.spotify.com/track/1s5HwZMQx10NeGYO0cFW3p"
     },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "2k",
-        "url": "https://open.spotify.com/album/5ArS7OdTk1ItCHwYdg1SHU"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
       },
       "artists": [
         {
-          "name": "Cuttino",
-          "url": "https://open.spotify.com/artist/4TNve23yQdpYvb7PC3OoTA"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Big D.O.L.L.A. (Deluxe)",
+        "url": "https://open.spotify.com/album/6MLBUpgZNhex56PQVMnbFX"
+      },
+      "artists": [
+        {
+          "name": "Dame D.O.L.L.A",
+          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
         },
         {
-          "name": "Trap Beckham",
-          "url": "https://open.spotify.com/artist/5AK2gJtEA2SWI9lBywSZjN"
+          "name": "Brookfield Duece",
+          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
         }
       ],
-      "duration_ms": 258782,
-      "name": "2k",
-      "url": "https://open.spotify.com/track/0zLmCMhA8Ly30tZhSmUhAy"
+      "duration_ms": 184573,
+      "name": "Dre Grant",
+      "url": "https://open.spotify.com/track/1YBo2pYIAlkfPLrIoucRLl"
     },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "SYRE",
-        "url": "https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
       },
       "artists": [
         {
-          "name": "Jaden",
-          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         }
       ],
-      "duration_ms": 220995,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
+      "duration_ms": 143152,
+      "name": "Woodlawn",
+      "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -415,54 +439,58 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "All Da Action",
-        "url": "https://open.spotify.com/album/30EkjyCA87BKn9pYXTttcN"
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
       },
       "artists": [
         {
-          "name": "YSB Tril",
-          "url": "https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 140991,
-      "name": "All Da Action",
-      "url": "https://open.spotify.com/track/1s5HwZMQx10NeGYO0cFW3p"
+      "duration_ms": 174848,
+      "name": "Stupid Again",
+      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
     },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Lost Boy",
-        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
+        "name": "K.R.I.T. IZ HERE",
+        "url": "https://open.spotify.com/album/1KvZT4NZm69EkOym8rLqW1"
       },
       "artists": [
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 175827,
-      "name": "RNP (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5lw8Mgb4LyhriPIC86gV6e"
+      "duration_ms": 202183,
+      "name": "Prove It (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6z7jvqBQtyNLxaKALqT67c"
     },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Old Streets",
-        "url": "https://open.spotify.com/album/0ruXOKXuGUA9wtnOZ38ElT"
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
       "artists": [
         {
-          "name": "2KBABY",
-          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 105600,
-      "name": "Old Streets",
-      "url": "https://open.spotify.com/track/7JVfHOV7ylgOUKaHnPMafs"
+      "duration_ms": 245813,
+      "name": "Dedication (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC"
     }
   ],
   "unique_name": "2 . 24",

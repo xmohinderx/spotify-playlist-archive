@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 233483,
       "name": "Avarandado",
       "url": "https://open.spotify.com/track/4HW3qBemcKJYaoW0iFqGJV"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 186375,
       "name": "Bola de Sab\u00e3o",
       "url": "https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 158545,
       "name": "Cais",
       "url": "https://open.spotify.com/track/2zrxBTZUGR1vhViLmRGtRw"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 245426,
       "name": "Fim de Festa",
       "url": "https://open.spotify.com/track/0CXbOLz5mNqSX8zQQMmnfi"
@@ -935,6 +935,24 @@
       "duration_ms": 183274,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/3is1regCaCuboIwrIqfFWa"
+    },
+    {
+      "album": {
+        "name": "Garota da Linha Azul",
+        "url": "https://open.spotify.com/album/42bxJst8CSq0kI5631QbkY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200813,
+      "name": "Garota da Linha Azul",
+      "url": "https://open.spotify.com/track/7KKPApvO78DY3bhqbZzAa5"
     },
     {
       "album": {
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 231626,
       "name": "Onironauta",
       "url": "https://open.spotify.com/track/3FJ8ri983YCJZJ2LPnOADE"
@@ -1569,6 +1587,40 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/6GfRv9IRF7rcJLss3kEw6d"
+    },
+    {
+      "album": {
+        "name": "SIM SIM SIM (Lado B)",
+        "url": "https://open.spotify.com/album/6WTjmXtBWugdzpB193yvdE"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235435,
+      "name": "Passarinha",
+      "url": "https://open.spotify.com/track/4QC1L4JgL4ZFwVFd3AcdSw"
     },
     {
       "album": {
@@ -1935,7 +1987,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 228604,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6P6zhkwgm7HkHVmS1mmUU3"
@@ -2371,7 +2423,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 256282,
       "name": "Todo Mundo Vai Saber",
       "url": "https://open.spotify.com/track/7DdsCBV2codm4zeYUmjzEF"
@@ -2553,7 +2605,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 233706,
       "name": "Vermelho Esperan\u00e7a",
       "url": "https://open.spotify.com/track/5U9Xv9WkBPTOignYWp6niI"

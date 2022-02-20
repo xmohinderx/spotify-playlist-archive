@@ -571,10 +571,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 217671,
       "name": "CITADEL",
       "url": "https://open.spotify.com/track/0qnns7z62BDRdKOUPUi00N"
+    },
+    {
+      "album": {
+        "name": "MERIDIAN",
+        "url": "https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217671,
+      "name": "CITADEL",
+      "url": "https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ"
     },
     {
       "album": {

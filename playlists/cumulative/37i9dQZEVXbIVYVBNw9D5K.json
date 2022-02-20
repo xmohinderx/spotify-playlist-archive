@@ -3333,7 +3333,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 172276,
       "name": "\u0130\u00e7ime Ata Ata",
       "url": "https://open.spotify.com/track/5rCYZ1IltI5gJ9LbxEiQDk"
@@ -3471,7 +3471,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 159587,
       "name": "KALA KAL",
       "url": "https://open.spotify.com/track/3NFMLi0FhAkxZNPs1UhYtB"
@@ -4994,6 +4994,24 @@
     },
     {
       "album": {
+        "name": "OKYANUS",
+        "url": "https://open.spotify.com/album/42dc5NUDn98uL08HK6ig9E"
+      },
+      "artists": [
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178557,
+      "name": "OKYANUS",
+      "url": "https://open.spotify.com/track/3MVFApkSoJ2v3q86f0FYlQ"
+    },
+    {
+      "album": {
         "name": "Kara Tiyatro",
         "url": "https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe"
       },
@@ -5161,6 +5179,28 @@
       "duration_ms": 164000,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof"
+    },
+    {
+      "album": {
+        "name": "Paranoya",
+        "url": "https://open.spotify.com/album/4jm4N4jJ9NwzS15pfEpmpa"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149383,
+      "name": "Paranoya",
+      "url": "https://open.spotify.com/track/4a0SQDAwphKijSWUXMUEWA"
     },
     {
       "album": {

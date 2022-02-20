@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Dorothy
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,790 likes - 129 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,073 likes - 129 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 101 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
 | 102 | [Potions](https://open.spotify.com/track/1cr9oWjJsQkozgf9YF6zPi) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Potions](https://open.spotify.com/album/2xGVxlm41ungB9ZPzMJGuC) | 2:48 |
 | 103 | [Labrador](https://open.spotify.com/track/0bxuV9VOE5iARolyiQyrxZ) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Big Grief](https://open.spotify.com/album/3WH0K46IAKNCyj0KmgENDS) | 3:41 |
-| 104 | [last time](https://open.spotify.com/track/2QNUBOOVbQYP696iap7u9u) | [Little Luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [last time](https://open.spotify.com/album/2b1FssZxjrhk0ls31zSzrA) | 3:34 |
+| 104 | [last time](https://open.spotify.com/track/2QNUBOOVbQYP696iap7u9u) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [last time](https://open.spotify.com/album/2b1FssZxjrhk0ls31zSzrA) | 3:34 |
 | 105 | [CHOKE](https://open.spotify.com/track/4u7RK85A85XeymVXiwtv0a) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [CHOKE](https://open.spotify.com/album/3zOPNnVojU3wnPUzRcEoLJ) | 3:51 |
 | 106 | [Swan](https://open.spotify.com/track/6itUweMsaR9DA74zxCWDo4) | [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Criminals + Dreamers](https://open.spotify.com/album/4ZjDaZkq8QSvwBe2WYXk3G) | 3:01 |
 | 107 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 |

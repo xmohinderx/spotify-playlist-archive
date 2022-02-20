@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 154905,
       "name": "Boom (feat. JID)",
       "url": "https://open.spotify.com/track/0otr94JBA5RwgW844svYHn"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 152717,
       "name": "Dovni",
       "url": "https://open.spotify.com/track/7uLX9oIvIJPCykyygTkiyo"
@@ -1180,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "album": {
         "name": "God Must Hate Me",
         "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
       },
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 102007,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 222000,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/4YMuvI6faoxGj5bJur1dpy"
@@ -3545,6 +3563,24 @@
       "duration_ms": 208142,
       "name": "Welcome To The Revolution",
       "url": "https://open.spotify.com/track/4ljFUG0mEiMkjyrTJ0nC2I"
+    },
+    {
+      "album": {
+        "name": "Western Feel",
+        "url": "https://open.spotify.com/album/0WFdtGP2EZVOiemiJyr585"
+      },
+      "artists": [
+        {
+          "name": "Bartel Union",
+          "url": "https://open.spotify.com/artist/35kmc06K5kO5kruT5qrWzR"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195528,
+      "name": "Western Feel",
+      "url": "https://open.spotify.com/track/3rlvbjfpqqWuQl2ETguChL"
     },
     {
       "album": {

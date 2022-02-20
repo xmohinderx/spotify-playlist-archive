@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 30,687 likes - 98 songs - 5 hr 5 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 30,693 likes - 98 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 5 | [Door Four](https://open.spotify.com/track/2o86IbNipqNVteo1j9WNHM) | [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Door Four](https://open.spotify.com/album/0WiMvo2Ur6ixZ22ULfFfSO) | 3:26 |
 | 6 | [Rainy Days](https://open.spotify.com/track/5AydJNGl43FVl1aYcvg0jk) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Rainy Days](https://open.spotify.com/album/1nknqYFKG9Nfqz4cruHXjB) | 1:58 |
 | 7 | [HOTEL ROOM](https://open.spotify.com/track/5quEdxM0g27wKFO4Pvl9He) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [HOTEL ROOM](https://open.spotify.com/album/5B95aqaQKYyoVNxZpaMp6A) | 2:28 |
-| 8 | [Stupid Much? \(feat\. Teef\)](https://open.spotify.com/track/5riwBsXhsrJzHtULq8x5fT) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Teef](https://open.spotify.com/artist/3MZJOCUhptfqcz5W3CV8NM) | [Soul Boy II](https://open.spotify.com/album/3VNNQxqOh6AMmhmLRdL5Wg) | 3:02 |
+| 8 | [Stupid Much? \(feat\. Teef\)](https://open.spotify.com/track/5riwBsXhsrJzHtULq8x5fT) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Teef](https://open.spotify.com/artist/5Db30wR5F9noA2vEk2DLlA) | [Soul Boy II](https://open.spotify.com/album/3VNNQxqOh6AMmhmLRdL5Wg) | 3:02 |
 | 9 | [Surrender To Me](https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ) | [FireCityFunk](https://open.spotify.com/artist/3fp7WTKKzrpXiS9kXzkhkF) | [Surrender To Me](https://open.spotify.com/album/1MHqH1tfMRvWJXmHzJlQNZ) | 3:34 |
 | 10 | [Fizz](https://open.spotify.com/track/1VJ3CsvWQWOwaGKf08vEW9) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fizz](https://open.spotify.com/album/7JKBkTDiicXN5eKKC0Bwda) | 2:27 |
 | 11 | [Casamigos](https://open.spotify.com/track/5r4PJ0La3ScnDWf9jPsvU8) | [Bazanji](https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME) | [Casamigos](https://open.spotify.com/album/1K0fxOh6FAE1fIb8FWbHM3) | 3:01 |

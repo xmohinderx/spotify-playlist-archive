@@ -23,7 +23,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 344373,
       "name": "A Very Long Letter",
       "url": "https://open.spotify.com/track/6yoWyTB5nxXtcnWSFJNlpy"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 872426,
       "name": "Air Pockets",
       "url": "https://open.spotify.com/track/1iC86rt5q2wHl2eS9UXX4t"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 492066,
       "name": "Attack of the Mikrokosmos",
       "url": "https://open.spotify.com/track/42wVyu4ZVkFLBMK2cqZEYB"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 415840,
       "name": "Awake Nu (Remastered)",
       "url": "https://open.spotify.com/track/1YlTuLs7h8VxqxImc1mh2l"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 210440,
       "name": "Blue Threads",
       "url": "https://open.spotify.com/track/1Vs1wAPWPnLondVj2OTguz"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 763674,
       "name": "Boltzmann Brain",
       "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 359466,
       "name": "Box Step",
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
@@ -393,10 +393,32 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 399560,
       "name": "Composite",
       "url": "https://open.spotify.com/track/2IXxhyBkczi3kz6QRWuIsQ"
+    },
+    {
+      "album": {
+        "name": "Live in Lisbon",
+        "url": "https://open.spotify.com/album/67pCebpACpdf8YhxGji4Kj"
+      },
+      "artists": [
+        {
+          "name": "Nublu Orchestra",
+          "url": "https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9"
+        },
+        {
+          "name": "Butch Morris",
+          "url": "https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2594860,
+      "name": "Conduction No.186 - Live",
+      "url": "https://open.spotify.com/track/6A5tDkKTk3BMW5WmMUn7BS"
     },
     {
       "album": {
@@ -411,7 +433,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 382693,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/4zg0iYZ0PM6iYLUDbvr76B"
@@ -491,7 +513,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 273973,
       "name": "Everything I Love",
       "url": "https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY"
@@ -585,7 +607,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 214201,
       "name": "Fiasco : In the Moment",
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
@@ -603,7 +625,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 204080,
       "name": "First Step",
       "url": "https://open.spotify.com/track/6prtfMlXq8ER0zknYsZCDw"
@@ -639,7 +661,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 411466,
       "name": "From Before",
       "url": "https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN"
@@ -731,7 +753,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 335256,
       "name": "Haie d'eau II",
       "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
@@ -765,6 +787,32 @@
       "duration_ms": 441973,
       "name": "Hemlock",
       "url": "https://open.spotify.com/track/0Ru8qoDCdYck8yELWqRUbO"
+    },
+    {
+      "album": {
+        "name": "Stick Insect",
+        "url": "https://open.spotify.com/album/57VLV8jKldPbKQaaMqjTtM"
+      },
+      "artists": [
+        {
+          "name": "George Cartwright",
+          "url": "https://open.spotify.com/artist/65JAEBPEdhkLKYpYcr9o7m"
+        },
+        {
+          "name": "Dave King",
+          "url": "https://open.spotify.com/artist/5ahI6jVpVbq5BKh7hs3yqg"
+        },
+        {
+          "name": "Josh Granowski",
+          "url": "https://open.spotify.com/artist/1COXwmX2OBkRMdBFOSCnEU"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383500,
+      "name": "Hog's Grease",
+      "url": "https://open.spotify.com/track/2f3EzPdBvZQVUt8afx5mlO"
     },
     {
       "album": {
@@ -827,7 +875,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 278457,
       "name": "it say, no s\u00e9",
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
@@ -901,7 +949,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 979370,
       "name": "Knknighgh 3",
       "url": "https://open.spotify.com/track/34sjpLJnGPzcCV3QyMlaC2"
@@ -927,7 +975,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 344453,
       "name": "Lebroba",
       "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
@@ -989,7 +1037,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 271798,
       "name": "Melt All the Guns",
       "url": "https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A"
@@ -1061,7 +1109,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 427746,
       "name": "Nona's Blues",
       "url": "https://open.spotify.com/track/0yRHtnaA8A7F0G4L5xM443"
@@ -1195,7 +1243,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 736600,
       "name": "Refuge - Rudy Van Gelder Edition/1999 Remaster",
       "url": "https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP"
@@ -1257,7 +1305,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 227346,
       "name": "Shudder to Think",
       "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
@@ -1275,7 +1323,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 224880,
       "name": "Sing, Sing Loud",
       "url": "https://open.spotify.com/track/5KUuZ8A3u42Cdu6HsrcZSA"
@@ -1345,7 +1393,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 1013476,
       "name": "Suite 3320, Pt. I - Live",
       "url": "https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI"
@@ -1465,7 +1513,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 563400,
       "name": "Twombly at New Church",
       "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
@@ -1499,7 +1547,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 477533,
       "name": "Waitin",
       "url": "https://open.spotify.com/track/0GKkrixGZCTZyMSZPQcBiQ"
@@ -1615,7 +1663,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 519041,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 311548,
       "name": "A man with two watches",
       "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 399141,
       "name": "Ardent Flux",
       "url": "https://open.spotify.com/track/4cGFQX45YRFCmucn1kjcJ9"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 317393,
       "name": "BELOW",
       "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 145376,
       "name": "cells_",
       "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 188920,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3TOQrOkWBUmeVYiiAClMNB"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 173883,
       "name": "Garlands",
       "url": "https://open.spotify.com/track/2OU3aFpcNqVEZ7tvZ0013P"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 590000,
       "name": "Interstices",
       "url": "https://open.spotify.com/track/0q3iG7HlsDetEhFukIyEoc"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 139041,
       "name": "Last Earth",
       "url": "https://open.spotify.com/track/0OUhVQ5dEj7m87cbZ4ctFU"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 165925,
       "name": "Orange Blue Green",
       "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 343106,
       "name": "Para Guy",
       "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 512742,
       "name": "sense",
       "url": "https://open.spotify.com/track/22MoPPtD3KKQSlC9TX4OeU"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 467159,
       "name": "Small Triumphs and Deep Disappointments",
       "url": "https://open.spotify.com/track/0vIZVb4SiFVnyu8hQSwxK1"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 196500,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/1fh7D7EJK2opCxtV6vF7kE"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 304093,
       "name": "Starethrough - Transition Mix",
       "url": "https://open.spotify.com/track/2eWzfakfq1LO1tE1luft3n"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/7oeoPQWwvxCSvJP3YFOhpz"
@@ -1554,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Monochrome Skies",
+        "url": "https://open.spotify.com/album/28Kjz6LeIxeZpgTg2dVaDL"
+      },
+      "artists": [
+        {
+          "name": "Jay Cliffen",
+          "url": "https://open.spotify.com/artist/7tvHIVs2snrdx5PW2Ahyzl"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209306,
+      "name": "Thaw",
+      "url": "https://open.spotify.com/track/18AALZgLuYtvDOxJg2LsVa"
+    },
+    {
+      "album": {
         "name": "Two Orb Reel",
         "url": "https://open.spotify.com/album/3rgecVAtj0f2A2S4Ud63Jn"
       },
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 367500,
       "name": "The Dead Past",
       "url": "https://open.spotify.com/track/0qNP9yrsqGmiMyBpLRRCcA"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 455960,
       "name": "Through Circle and Shadow",
       "url": "https://open.spotify.com/track/2OBRaX5PhBAlgo6TvQMVqX"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 432000,
       "name": "When the Sun Is About to Sleep",
       "url": "https://open.spotify.com/track/1kgyMp6P40HS9wWg6yeR3i"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"

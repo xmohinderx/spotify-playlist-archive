@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: flowerovlove Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,770 likes - 101 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,847 likes - 101 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 66 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 |
 | 67 | [Mott St](https://open.spotify.com/track/1ugYh6CIplawB33fSVYHUe) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Mott St](https://open.spotify.com/album/2gOQsfe1uva5AhY6KppuvH) | 2:55 |
 | 68 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 |
-| 69 | [Head Talk](https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ) | [Head Talk](https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ) | 4:08 |
+| 69 | [Raincoat](https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ) | [Head Talk](https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ) | 4:08 |
 | 70 | [Pretty Lies](https://open.spotify.com/track/4dwDHL4Me5Xi2Vb8ZYdmfP) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Pretty Lies](https://open.spotify.com/album/22u2ZcuWVdti2plTeTpL3c) | 3:41 |
 | 71 | [Night Gown](https://open.spotify.com/track/0WktmbG43utJxEZtQtHtAz) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Night Gown](https://open.spotify.com/album/6iTzyOkQcide8ga2E2Rku6) | 2:49 |
 | 72 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |

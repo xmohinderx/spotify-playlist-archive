@@ -1490,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "Bilder",
+        "url": "https://open.spotify.com/album/1KgB5s2OPD7QEBEEkfKv56"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149609,
+      "name": "Bilder",
+      "url": "https://open.spotify.com/track/1cCTNopdxzWkTNspoG6c9O"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -4597,7 +4615,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
@@ -5399,7 +5417,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 225400,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ID9Iour6yMUsUccV9JxyS"
@@ -6149,6 +6167,24 @@
       "duration_ms": 208329,
       "name": "ITACHI FLOW",
       "url": "https://open.spotify.com/track/3i3sRJPLEozRXHIndA5VJU"
+    },
+    {
+      "album": {
+        "name": "JA",
+        "url": "https://open.spotify.com/album/5rCeTbhVFUakJbAzWWTWTg"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153770,
+      "name": "JA",
+      "url": "https://open.spotify.com/track/1t5WkoCarzpa22fqbuh0tb"
     },
     {
       "album": {
@@ -7093,7 +7129,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 322226,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
@@ -7111,7 +7147,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
@@ -7577,6 +7613,24 @@
       "duration_ms": 228383,
       "name": "Mbapp\u00e9",
       "url": "https://open.spotify.com/track/0tjfduLn5jfa8bGTwZ2NgU"
+    },
+    {
+      "album": {
+        "name": "Rebell Army",
+        "url": "https://open.spotify.com/album/1CZA75tUwcH9Sz9ftOnFoy"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "Medizin",
+      "url": "https://open.spotify.com/track/23QvvFds2ICn6Ho2Em1GOX"
     },
     {
       "album": {
@@ -8256,6 +8310,32 @@
     },
     {
       "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/69c6CHPxcKpp1ItJasytWj"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Anonym",
+          "url": "https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe"
+        },
+        {
+          "name": "BOJAN",
+          "url": "https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114173,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/1MaHA5ObykZAOLz4dqVTv6"
+    },
+    {
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -8325,7 +8405,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -8697,6 +8777,28 @@
       "duration_ms": 183240,
       "name": "NICHT MEHR HIER",
       "url": "https://open.spotify.com/track/12igldvVbaELKrGqUaFsMT"
+    },
+    {
+      "album": {
+        "name": "Seelenfrieden",
+        "url": "https://open.spotify.com/album/1dOBqaiv9U4dS2pp2K2wXw"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "O.G.",
+          "url": "https://open.spotify.com/artist/5QZJttrSLq4WJL9Vb1MgFq"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186601,
+      "name": "Nie Verstehen (feat. O.G.)",
+      "url": "https://open.spotify.com/track/5oOOF7tC6HUaiXhAlCONTd"
     },
     {
       "album": {
@@ -11077,7 +11179,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
@@ -11331,6 +11433,24 @@
       "duration_ms": 141230,
       "name": "So muss sein!",
       "url": "https://open.spotify.com/track/1gZDbvoKxDXyKRHn2ccPet"
+    },
+    {
+      "album": {
+        "name": "Social Media",
+        "url": "https://open.spotify.com/album/58Tr012NE3c5z6WCUUaJ2Z"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170933,
+      "name": "Social Media",
+      "url": "https://open.spotify.com/track/71iG5iUUojGR0J6qDyTBql"
     },
     {
       "album": {
@@ -11765,7 +11885,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -11791,6 +11911,32 @@
       "duration_ms": 152594,
       "name": "SYGL (feat. Shindy)",
       "url": "https://open.spotify.com/track/03IT5wsxCVXyGHRDX1wN8I"
+    },
+    {
+      "album": {
+        "name": "Tageslicht",
+        "url": "https://open.spotify.com/album/05lqmfzvjBSy1RktcQants"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173199,
+      "name": "Tageslicht",
+      "url": "https://open.spotify.com/track/2c5CLmXwJ4V0IIqJ6B68gq"
     },
     {
       "album": {
@@ -12077,7 +12223,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
@@ -12183,6 +12329,24 @@
       "duration_ms": 195760,
       "name": "Tides",
       "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
+    },
+    {
+      "album": {
+        "name": "Tipico",
+        "url": "https://open.spotify.com/album/3bjFXSRCdFNBRT4lwoWbPU"
+      },
+      "artists": [
+        {
+          "name": "NGEE",
+          "url": "https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143596,
+      "name": "Tipico",
+      "url": "https://open.spotify.com/track/3DePq4dmXi4fRSkpPUNM9y"
     },
     {
       "album": {
@@ -13777,7 +13941,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

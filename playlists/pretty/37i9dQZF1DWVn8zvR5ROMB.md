@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,147 likes - 137 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,206 likes - 137 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 13 | [Home With Her \- Duet Version](https://open.spotify.com/track/60bmrw4zs3cOU9kv5rnx1t) | [John Gurney](https://open.spotify.com/artist/1cn7hpmFEpidzWJySGCTJF), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Home With Her \(Duet Version\)](https://open.spotify.com/album/0kcE0EHNbtrlebu4m8yzEs) | 2:52 |
 | 14 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
 | 15 | [I Can’t Dance](https://open.spotify.com/track/6Ts52EJXbAzKOGk8t3F0oO) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [I Can’t Dance](https://open.spotify.com/album/76tTWbN7iafP7XZjJLLNYQ) | 3:05 |
-| 16 | [Lifted up Truck](https://open.spotify.com/track/2Q2MD4y39jaZQlZvNd0t5I) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Lifted up Truck](https://open.spotify.com/album/4nuOD95Qsuz3JWHds5Wlcc) | 2:41 |
+| 16 | [Lifted Up Truck](https://open.spotify.com/track/2Q2MD4y39jaZQlZvNd0t5I) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Lifted Up Truck](https://open.spotify.com/album/4nuOD95Qsuz3JWHds5Wlcc) | 2:41 |
 | 17 | [Blue Eyed Blue Jean Gone](https://open.spotify.com/track/6bD3sVdsX7pp1bxDlD16JB) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Blue Eyed Blue Jean Gone](https://open.spotify.com/album/4KQdWxzWr6eC075uFIESOW) | 3:06 |
 | 18 | [Hearts Don't Rust](https://open.spotify.com/track/6n7OseICrUEuxRMWSHOTTJ) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Hearts Don't Rust](https://open.spotify.com/album/7eKXIDTjBMWIwMCXwPvGA0) | 4:09 |
 | 19 | [Honkytonk Bar](https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Honkytonk Bar](https://open.spotify.com/album/5ZyERoLUgfH0NzVEkzZsvH) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama from Snowdrop, Jirisan and more..\. \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Our Beloved Summer\(그 해 우리는\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,317 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,616 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 2 | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/track/2vqbApjmIGDYunVMD4hXBB) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz) | 4:31 |
 | 3 | [My Sunlight](https://open.spotify.com/track/260jCu5Jxwylls8GIUqYq0) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4dHrA8Q7Z1w50vKNM5JHHT) | 3:06 |
 | 4 | [Valentine \(The Forbidden Marriage X KIM BUMSOO\)](https://open.spotify.com/track/6z64XSsOD0upZtSwOlyCTk) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Valentine \(The Forbidden Marriage X KIM BUMSOO\)](https://open.spotify.com/album/1x3aRKM4ruSyjtoicIuySM) | 4:08 |
-| 5 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1FnBRzju1GvhKEygmNZrA0) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
+| 5 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
 | 6 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 |
 | 7 | [Still here](https://open.spotify.com/track/69r9DFmi5uStx44buSi0sm) | [Kang Asol](https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3XQXgsluskowvlFGZIKTQ7) | 3:51 |
 | 8 | [You can do that \(One of a Kind Romance\)](https://open.spotify.com/track/7awHXt5aVEX6jwwUCDWjhR) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [You can do that \(One of a Kind Romance\)](https://open.spotify.com/album/4FoaMduXgrviFe3prU1WLI) | 3:33 |

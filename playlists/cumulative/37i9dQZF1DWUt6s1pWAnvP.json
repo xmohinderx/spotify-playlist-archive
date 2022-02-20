@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 166374,
       "name": "- reflects",
       "url": "https://open.spotify.com/track/4JQsnkH5437bTQmh5Hgxti"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 157714,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/4YRst0OXQoPEGMbrz4iwUX"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 238701,
       "name": "Fire Flys",
       "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 640908,
       "name": "Flux 2",
       "url": "https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 120250,
       "name": "Masi Stone Duet",
       "url": "https://open.spotify.com/track/7HPWrrZrLGFt3QBl6hlMPW"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 958946,
       "name": "Nereus (Spirits Over the Lake)",
       "url": "https://open.spotify.com/track/1nEU4BcSMLCIhRK5n3biYz"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 135250,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 469311,
       "name": "Orgias de Bordados",
       "url": "https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 146000,
       "name": "Present",
       "url": "https://open.spotify.com/track/13fcxKQcqzCIKt2TLwzLEs"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "Resta | Torna",
       "url": "https://open.spotify.com/track/3fHurVmQylsskGnPQquGwx"
@@ -787,10 +787,36 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 225020,
       "name": "Riposte Erik Satie - Movement 1",
       "url": "https://open.spotify.com/track/3lWrbDvJGFmTpNowYYDOO0"
+    },
+    {
+      "album": {
+        "name": "Riposte Erik Satie (Slim Vic Interpretation)",
+        "url": "https://open.spotify.com/album/1ffTXu6lQKivmSVrREmY5V"
+      },
+      "artists": [
+        {
+          "name": "Mikael Str\u00f6mberg",
+          "url": "https://open.spotify.com/artist/6w6eBpcjB6tInBc9ViTwOC"
+        },
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/2ikv8eyz0jRCSzcvWzLui0"
+        },
+        {
+          "name": "Slim Vic",
+          "url": "https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225403,
+      "name": "Riposte Erik Satie - Movement 2",
+      "url": "https://open.spotify.com/track/7pn5mOgS4Bn4VhaAkPTRbB"
     },
     {
       "album": {
@@ -863,7 +889,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 177579,
       "name": "Skinnarviksberget",
       "url": "https://open.spotify.com/track/19BUFq6VkcwCVY2CLSZGHm"
@@ -881,7 +907,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 252787,
       "name": "Star Ray",
       "url": "https://open.spotify.com/track/6igW64el9QFweIIrdUUSMH"
@@ -975,7 +1001,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 114998,
       "name": "The Clam",
       "url": "https://open.spotify.com/track/1LN0IGjQ2PGIboYcNDji9Q"
@@ -1029,7 +1055,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "The Smoke In The Photo - Remastered",
       "url": "https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B"
@@ -1065,7 +1091,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 293280,
       "name": "Veils and Mirrors",
       "url": "https://open.spotify.com/track/3WWOniXQOWprUhfWkIsmXe"
@@ -1159,7 +1185,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 1397760,
       "name": "Wing Pinger 06",
       "url": "https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5"
@@ -1177,7 +1203,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 101426,
       "name": "Yonder",
       "url": "https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP"
@@ -1195,7 +1221,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 1299168,
       "name": "\u5b87\u5b99",
       "url": "https://open.spotify.com/track/6C7Uk2c2CkJq1YTWIUfmkT"

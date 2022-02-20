@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,095 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,114 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 28 | [Do You Feel Me](https://open.spotify.com/track/4Zx7dq5F1Zr3AIFv23uE0d) | [New York's Finest](https://open.spotify.com/artist/4VmSmg7wFRxvvzmAPtNaNg) | [Bassline: The Comp'](https://open.spotify.com/album/5wFzFToDwgoGBfdD49kvOJ) | 6:49 |
 | 29 | [Heard It All Before \- Radio Edit](https://open.spotify.com/track/0RyUnFQa4HxFxDa2tjGsAJ) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [90s R&B Classics](https://open.spotify.com/album/68BFQDpibItUS8NGYPfJLh) | 3:59 |
 | 30 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 31 | [The Boy Is Mine \- Radio Edit](https://open.spotify.com/track/2rwDzx2nCWfQze7nsR2SOF) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [The Boy Is Mine: 90s R'n'B](https://open.spotify.com/album/58sOAY5xeDAodYOkIGegJM) | 4:00 |
+| 31 | [The Boy Is Mine \- Radio Edit](https://open.spotify.com/track/2rwDzx2nCWfQze7nsR2SOF) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine: 90s R'n'B](https://open.spotify.com/album/58sOAY5xeDAodYOkIGegJM) | 4:00 |
 | 32 | [Greatest Hit](https://open.spotify.com/track/4kox25GnFPcvrZWXvbB3Ar) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Anniemal](https://open.spotify.com/album/3LN3dGIFGEqTjTDwTFFCj6) | 3:40 |
 | 33 | [Lovertits](https://open.spotify.com/track/3k95pqiCFMJAqr1NZYVbob) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:44 |
 | 34 | [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/70lvdxEHWpIigLeYOLhrxR) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/0nEmvXtfDOXW3sFAoqOitl) | 4:11 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 37 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 |
 | 38 | [138 Trek](https://open.spotify.com/track/41rcTbVxz3b2Rv4RngYKj8) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Beats by Design](https://open.spotify.com/album/7fa3b5DjCmd7aejFh1l2Zn) | 5:08 |
 | 39 | [Days Like This \(Spinna & Ticklah Mix\)](https://open.spotify.com/track/5Sq75inr2e6CBcUwLEDbLo) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz) | [Shaun Escoffery](https://open.spotify.com/album/00I8nPkKbU28TjPtArLJWI) | 5:29 |
-| 40 | [You Started Something \- Original Mix](https://open.spotify.com/track/6ygStI97HyjufP4vRgtVrd) | [Crazy Penis](https://open.spotify.com/artist/5S2TMlov8xTSQjtiOqbsH4) | [The Wicked Is Music](https://open.spotify.com/album/2UZ62DB1jQEeK7WhdxNff2) | 7:27 |
+| 40 | [You Started Something](https://open.spotify.com/track/6ygStI97HyjufP4vRgtVrd) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [The Wicked Is Music](https://open.spotify.com/album/2UZ62DB1jQEeK7WhdxNff2) | 7:27 |
 | 41 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 42 | [There But for the Grace of God Go I \- Remix](https://open.spotify.com/track/238ktHqrZJtfyoF1xcvfSR) | [Machine](https://open.spotify.com/artist/2de3Y8cx2Qt1Z1Uh1wb97O) | [There But for the Grace of God Go I](https://open.spotify.com/album/6aV2FkJ96pTbZUDvllQ5gJ) | 5:17 |
 | 43 | [Ain't No Mountain High Enough \- The Garage Version](https://open.spotify.com/track/2YVymWthRJewHNHPVvPiHh) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Salsoul Classics, Vol\. 2](https://open.spotify.com/album/7M9BRTQMTFdw9mVnG2QumD) | 10:29 |

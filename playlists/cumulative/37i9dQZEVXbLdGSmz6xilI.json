@@ -670,6 +670,24 @@
     },
     {
       "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90539,
+      "name": "Blue Side (Outro)",
+      "url": "https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC"
+    },
+    {
+      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/3DVoYI6df5HGwo9mdqVFWY"
       },
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 228615,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 282628,
       "name": "G\u00e1c L\u1ea1i \u00c2u Lo (feat. Miu L\u00ea)",
       "url": "https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe"
@@ -3417,7 +3435,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
@@ -4185,7 +4203,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 283235,
       "name": "M\u1ed9t Khi \u0110\u00e3 Y\u00eau",
       "url": "https://open.spotify.com/track/0bTmdKwQ8xb0Xbvizt2GMy"
@@ -4373,7 +4391,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 231859,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X"
@@ -4593,7 +4611,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 196198,
       "name": "Outro : Ego",
       "url": "https://open.spotify.com/track/2LVw2bIK99go1NdD77dUCW"
@@ -4859,7 +4877,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 245620,
       "name": "Pied Piper",
       "url": "https://open.spotify.com/track/1ZPeaPDjQOOC8hw1mNjyjF"
@@ -6527,7 +6545,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
@@ -6575,6 +6593,24 @@
       "duration_ms": 293112,
       "name": "\u00c2m Th\u1ea7m B\u00ean Em",
       "url": "https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P"
+    },
+    {
+      "album": {
+        "name": "\u0110au Nh\u1ea5t L\u00e0 L\u1eb7ng Im",
+        "url": "https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD"
+      },
+      "artists": [
+        {
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286153,
+      "name": "\u0110au Nh\u1ea5t L\u00e0 L\u1eb7ng Im",
+      "url": "https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4"
     },
     {
       "album": {

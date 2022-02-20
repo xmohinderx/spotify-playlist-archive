@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,129 likes - 61 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,276 likes - 61 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 23 | [Social Drive](https://open.spotify.com/track/3SWWgc3aAbor9oRs3fRpzb) | [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [ToteKing](https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Social Drive](https://open.spotify.com/album/4vrHUkGiWCrgL4adOzIyL7) | 4:31 |
 | 24 | [Cómete Mi Éxito](https://open.spotify.com/track/4gFxJbsFvf0L97TlkGW04k) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Cómete Mi Éxito](https://open.spotify.com/album/1qA191L6gF00pamusjQHMw) | 3:23 |
 | 25 | [Mar de Males](https://open.spotify.com/track/2dt8G6Jx5Ngp5WKvZQoXf1) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/64lovgnKDKb6b0RZrgRozI) | 3:36 |
-| 26 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
+| 26 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/5PyHIBFMJRAVeFSv1gqcKc), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
 | 27 | [Hare Krishna](https://open.spotify.com/track/29UNZ5fn0uFUJn19VSvX96) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Hare Krishna](https://open.spotify.com/album/4Q6bZ5dGGtf0E9iDjf0G2h) | 2:21 |
 | 28 | [CREDO](https://open.spotify.com/track/4dWsDhwVrP2W1WCxlOD3TP) | [Bnet](https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [CREDO](https://open.spotify.com/album/3fPhpbcTYBI3RrpjkW1SVD) | 1:58 |
 | 29 | [Salgo pa la calle](https://open.spotify.com/track/1yvTWgoRs6DTMzC6nKa6xb) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Salgo pa la calle](https://open.spotify.com/album/73W1l6Mm0T2R6uVsWZz6bq) | 2:21 |

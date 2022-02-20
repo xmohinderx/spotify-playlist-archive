@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians. Cover: Eli Brown",
-  "num_followers": 539007,
+  "num_followers": 539189,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIyMTMwMywwMDAwMDBmZTAwMDAwMTdmMGVkNGQ0MjUwMDAwMDE3ZWRhMDk4ZDE4",
+  "snapshot_id": "MTY0NTI5Nzg2NCwwMDAwMDBmZjAwMDAwMTdmMTM2NTEwZjAwMDAwMDE3ZWRhMDk4ZDE4",
   "tracks": [
     {
       "added_at": "2022-01-14 11:21:00",
@@ -97,22 +97,6 @@
       "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
     },
     {
-      "added_at": "2022-02-18 17:51:41",
-      "album": {
-        "name": "Workout Series, Vol. 14",
-        "url": "https://open.spotify.com/album/0ylMf3PXGrQvj6CTkl6D4Z"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller (Aus)",
-          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
-        }
-      ],
-      "duration_ms": 271697,
-      "name": "The Lead",
-      "url": "https://open.spotify.com/track/6UmIvOlWvXtO03fALva6Lu"
-    },
-    {
       "added_at": "2022-02-04 17:19:00",
       "album": {
         "name": "Human (feat. Echoes) [Joshwa Remix]",
@@ -135,30 +119,6 @@
       "duration_ms": 215870,
       "name": "Human (feat. Echoes) - Joshwa Remix",
       "url": "https://open.spotify.com/track/23DTsnKCwj5Gf2J1aZXMNh"
-    },
-    {
-      "added_at": "2022-02-18 17:51:41",
-      "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/5aO3Oi0nwsfKuiJPi3Mu6G"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 278120,
-      "name": "Moth To A Flame (with The Weeknd, Chris Lake) - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/7u6f174xl25TOBHA2HpFHO"
     },
     {
       "added_at": "2022-02-04 19:51:11",
@@ -207,6 +167,30 @@
       "duration_ms": 202023,
       "name": "Riser",
       "url": "https://open.spotify.com/track/73Szmmh8dQduG1jPY12zK8"
+    },
+    {
+      "added_at": "2022-02-18 17:51:41",
+      "album": {
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/5aO3Oi0nwsfKuiJPi3Mu6G"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 278120,
+      "name": "Moth To A Flame (with The Weeknd, Chris Lake) - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7u6f174xl25TOBHA2HpFHO"
     },
     {
       "added_at": "2022-02-04 17:19:00",
@@ -343,6 +327,22 @@
       "duration_ms": 205729,
       "name": "Better Things (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU"
+    },
+    {
+      "added_at": "2022-02-18 17:51:41",
+      "album": {
+        "name": "Workout Series, Vol. 14",
+        "url": "https://open.spotify.com/album/0ylMf3PXGrQvj6CTkl6D4Z"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller (Aus)",
+          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
+        }
+      ],
+      "duration_ms": 271697,
+      "name": "The Lead",
+      "url": "https://open.spotify.com/track/6UmIvOlWvXtO03fALva6Lu"
     },
     {
       "added_at": "2022-01-21 05:05:00",

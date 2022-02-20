@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,581 likes - 55 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,793 likes - 55 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 54 | [LLL](https://open.spotify.com/track/7F2GCFOBnFoNyE2qfYUR3A) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 6:10 |
 | 55 | [Stay Home](https://open.spotify.com/track/6R1R6czIpUXR6vhWWqfgC2) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Stay Home](https://open.spotify.com/album/0MGcACJPvZcVPqOwi97oXd) | 5:00 |
 
-Snapshot ID: `MTY0NTE3MjIzOCwwMDAwMDFiYTAwMDAwMTdmMGJlODJhNzIwMDAwMDE3ZWZmOGEzZTkx`
+Snapshot ID: `MTY0NTI5NzcwNiwwMDAwMDFiYjAwMDAwMTdmMTM2MmE3MGQwMDAwMDE3ZWZmOGEzZTkx`

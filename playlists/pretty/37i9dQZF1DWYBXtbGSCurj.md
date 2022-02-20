@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,361 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,650 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 11 | [menino bom](https://open.spotify.com/track/0x72oEBEtPBR6B7SweTIE4) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [menino bom](https://open.spotify.com/album/0sHzKyd1BYUhV0WqWUfGSY) | 2:00 |
 | 12 | [Terra Prometida](https://open.spotify.com/track/2HNTWEJx0FtU6UQfT01VR1) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Zack Vox](https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR), [Marcin](https://open.spotify.com/artist/7aqyet29QYmprf0i3n9kqU), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Terra Prometida](https://open.spotify.com/album/3JQ0qcFa7gDWy2MULfJ1RY) | 3:13 |
 | 13 | [Me Sinto Abençoado](https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Sinto Abençoado](https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD) | 3:34 |
-| 14 | [Cash](https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Cash](https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT) | 3:34 |
+| 14 | [Cash](https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Cash](https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT) | 3:34 |
 | 15 | [Drip da Roça 2](https://open.spotify.com/track/0i7o6zOHAjo39CqZ33O55P) | [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr) | [Drip da Roça 2](https://open.spotify.com/album/2V8qiEunSEiNDxN7eEDA5G) | 4:41 |
 | 16 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 |
 | 17 | [Real Underground](https://open.spotify.com/track/2GZ7KgPU32sH4DdHlvFxal) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Real Underground](https://open.spotify.com/album/0UCLKwhMlg3fUozSrV1kSj) | 2:10 |

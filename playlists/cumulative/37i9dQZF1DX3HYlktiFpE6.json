@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 179053,
       "name": "Bittersweet Symphony / Baba O'Riley / Last Friday Night / Hollaback Girl",
       "url": "https://open.spotify.com/track/1ac7570OG3cTPYRXnpssg8"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 198040,
       "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 100026,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh"
@@ -417,6 +417,44 @@
       "duration_ms": 246706,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
+    },
+    {
+      "album": {
+        "name": "Game of Thrones",
+        "url": "https://open.spotify.com/album/6sBvpQhX86HjvflOp13fYw"
+      },
+      "artists": [
+        {
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        },
+        {
+          "name": "Stomps",
+          "url": "https://open.spotify.com/artist/1TZrrlao5903X3zcRjiNGA"
+        },
+        {
+          "name": "Stephen Warbeck",
+          "url": "https://open.spotify.com/artist/63Cqun2Sv18L3vXIapd9iW"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Tom Anderson",
+          "url": "https://open.spotify.com/artist/6ciFLJn7I9wkQ1VN5gdkYV"
+        },
+        {
+          "name": "Bill Hare",
+          "url": "https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168824,
+      "name": "Game of Thrones",
+      "url": "https://open.spotify.com/track/2rAiOIaw3YNXTWeh0Jpvvk"
     },
     {
       "album": {
@@ -673,7 +711,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 147293,
       "name": "Kennedy Center Performance - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/7Gzo2I7jLQyvhGTZrkFAhM"
@@ -709,7 +747,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 176813,
       "name": "Landslide - Studio Version",
       "url": "https://open.spotify.com/track/0JEhzXDgrRJmZFGqQ4U2ME"
@@ -853,7 +891,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 233266,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
@@ -893,7 +931,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 199533,
       "name": "Remix to Ignition",
       "url": "https://open.spotify.com/track/5q1CMrZQ9LIjjzOoYlz0Fo"
@@ -993,7 +1031,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 196986,
       "name": "Right Round",
       "url": "https://open.spotify.com/track/4Gx4trpKEbcJy6JarDuNvR"
@@ -1099,7 +1137,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 201080,
       "name": "Stacey's Mom",
       "url": "https://open.spotify.com/track/32IpXBKVD4ED5jIy9o9Uvs"
@@ -1345,7 +1383,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 115706,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"

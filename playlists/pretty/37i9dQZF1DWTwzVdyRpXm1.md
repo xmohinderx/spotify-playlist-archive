@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Desi hits from South Asia\. Cover: Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,969 likes - 67 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,161 likes - 67 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

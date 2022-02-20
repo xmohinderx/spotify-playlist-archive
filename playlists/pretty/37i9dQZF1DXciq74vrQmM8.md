@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. alice glass
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,295 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,433 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 32 | [Sugared Up](https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Sugared Up](https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my) | 2:33 |
 | 33 | [Day I Die](https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 2:57 |
 | 34 | [Scratchcard Feeling](https://open.spotify.com/track/5B1ZMJQqtjMSJqFckLGLx8) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Scratchcard Feeling](https://open.spotify.com/album/3ZIYT6OXxH0eHrnKheNMDn) | 4:00 |
-| 35 | [Rad](https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [Rad](https://open.spotify.com/album/4jpkqp0mQwJaCxtCKsmbMf) | 2:38 |
+| 35 | [RAD](https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [RAD](https://open.spotify.com/album/4jpkqp0mQwJaCxtCKsmbMf) | 2:38 |
 | 36 | [MENTHOL\*](https://open.spotify.com/track/72rEOdEzgGc81Gos5dD0Je) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/4fdI8lc6iPhJrsNi7pBgPl) | 3:07 |
 | 37 | [MIKE](https://open.spotify.com/track/4WkfTWEVvYavJ5DP14Trh7) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [MIKE](https://open.spotify.com/album/15SUIAmkfSHSByyyH4Savt) | 2:03 |
 | 38 | [My Bloody Valentine](https://open.spotify.com/track/4hnKoBZJ3XHMkNXCFWvoAm) | [Cottontail](https://open.spotify.com/artist/4TVXVHRuEfI05r7V2iKvss), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9), [Zepkins](https://open.spotify.com/artist/0wXgbtNwH7CcHmmmNcEZRo) | [My Bloody Valentine](https://open.spotify.com/album/261S9u5PrX8u1W6aRLC69Z) | 2:47 |

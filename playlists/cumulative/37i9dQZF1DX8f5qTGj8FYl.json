@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 186066,
       "name": "116th St.",
       "url": "https://open.spotify.com/track/0CBvxTlEUQTQxwqtzr93ox"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 321880,
       "name": "Backwash",
       "url": "https://open.spotify.com/track/7sMc8fqJ5ehZJtZoKXgItD"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 244000,
       "name": "BITTERSWEET",
       "url": "https://open.spotify.com/track/54zWQx9UkouSu8x403Ggho"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 306050,
       "name": "CC Funk",
       "url": "https://open.spotify.com/track/4ArX95IQu1O8GUqbxAYKKe"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 152344,
       "name": "Colonel Panic",
       "url": "https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 214387,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 174740,
       "name": "Do Yourself a Favor",
       "url": "https://open.spotify.com/track/1efJcsv7o0rXQbZJBB0B9a"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 357480,
       "name": "Down Frenchmen St",
       "url": "https://open.spotify.com/track/64yrmj2YIDvn3HgPsa3KyC"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 175537,
       "name": "Du-Vibrations",
       "url": "https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 240240,
       "name": "Ethiopian Airlines",
       "url": "https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9"
@@ -906,6 +906,24 @@
     },
     {
       "album": {
+        "name": "Intangible",
+        "url": "https://open.spotify.com/album/5dluPd7QfBUGLS83XIAZFd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248880,
+      "name": "Funky Greens",
+      "url": "https://open.spotify.com/track/2LmgXH9uTwVVTCVaUWj9V7"
+    },
+    {
+      "album": {
         "name": "Get Da Steppin'",
         "url": "https://open.spotify.com/album/3tNWwvjgLdL7ayKGaUagrN"
       },
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 412733,
       "name": "In the Groove",
       "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 222944,
       "name": "Jump Up - 7\" edit",
       "url": "https://open.spotify.com/track/6UAvcih8yeFJgSe6Hj8AGQ"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 287645,
       "name": "Kong",
       "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 153654,
       "name": "Look-A Py Py",
       "url": "https://open.spotify.com/track/4BrlJtA6O0Dfzs8YalBPWc"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 232140,
       "name": "Monster Funk",
       "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 308546,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 191761,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1vgU4yZcYrAsAeYh5FeZ74"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 488031,
       "name": "Spherical (Tiny Room Sessions)",
       "url": "https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U"
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 171472,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/4xR4kE5b42b5zpqSw3i8dN"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 293880,
       "name": "THE CRISIS GENERATOR",
       "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-20",
       "duration_ms": 234360,
       "name": "Under Krameria",
       "url": "https://open.spotify.com/track/4xnhEYjnjGBMQIMk3Kq4u5"
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 180157,
       "name": "We Need Love",
       "url": "https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz"

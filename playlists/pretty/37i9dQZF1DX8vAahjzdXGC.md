@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,002 likes - 121 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,005 likes - 121 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 14 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 |
 | 15 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 |
 | 16 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
-| 17 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1FnBRzju1GvhKEygmNZrA0) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
+| 17 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 |
 | 18 | [Kok Iso Yo?](https://open.spotify.com/track/38ns4gqe16w0gAGWgvKfLS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Kok Iso Yo?](https://open.spotify.com/album/54wJfSjpNpNSC9lFPb9DVO) | 5:32 |
 | 19 | [Tertawa Berdua Menangis Sendiri](https://open.spotify.com/track/0Fc1whufAWTnzMyAf1ambL) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [GFRN](https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP) | [Tertawa Berdua Menangis Sendiri](https://open.spotify.com/album/1gf0RAzkd1bGdufR4KfOGs) | 3:22 |
 | 20 | [Slowly](https://open.spotify.com/track/6HyAYPT7MKseWfgoNbTO3P) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Slowly](https://open.spotify.com/album/1GGD0H69KuDDK1zJkXPPkK) | 4:11 |

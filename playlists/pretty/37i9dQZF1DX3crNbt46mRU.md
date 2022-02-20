@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Vanessa Mai, ART
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,678 likes - 106 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,683 likes - 106 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Melatonin](https://open.spotify.com/track/480dxcx2AKaFrtwTg0fHXK) | [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7), [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Melatonin](https://open.spotify.com/album/54PnkL2FwgI7IYayxFBAFh) | 2:19 |
 | 2 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 |
-| 3 | [Tageslicht](https://open.spotify.com/track/2c5CLmXwJ4V0IIqJ6B68gq) | [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Tageslicht](https://open.spotify.com/album/05lqmfzvjBSy1RktcQants) | 2:53 |
+| 3 | [Tageslicht](https://open.spotify.com/track/2c5CLmXwJ4V0IIqJ6B68gq) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Tageslicht](https://open.spotify.com/album/05lqmfzvjBSy1RktcQants) | 2:53 |
 | 4 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 |
 | 5 | [JA](https://open.spotify.com/track/1t5WkoCarzpa22fqbuh0tb) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [JA](https://open.spotify.com/album/5rCeTbhVFUakJbAzWWTWTg) | 2:33 |
 | 6 | [Affogato](https://open.spotify.com/track/1nAt4Tusgg3s6E3OxCy9L6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Mercato](https://open.spotify.com/album/55bJNcQMCKlf8JOfG5CpS3) | 3:09 |

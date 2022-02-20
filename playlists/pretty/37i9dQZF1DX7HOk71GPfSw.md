@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > hyperpop is a community\. Cover: quinn
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,775 likes - 189 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,418 likes - 189 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 133 | [aNgEl taTToo](https://open.spotify.com/track/7uP0rQAhoZiMzaNIDBdz8d) | [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [aNgEl taTToo](https://open.spotify.com/album/17bqx3eI7999RsdJHmlbGc) | 3:09 |
 | 134 | [☆ \(feat\. Oklou\)](https://open.spotify.com/track/2RKVFFH9h2vglxvqpN9Xre) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Unlimited Ammo](https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj) | 3:07 |
 | 135 | [runaway](https://open.spotify.com/track/0zfo78ZDD2iSFw6yczdT93) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [runaway](https://open.spotify.com/album/22tVLCSgVwR30YS1W68zMp) | 1:49 |
-| 136 | [FASTLANE](https://open.spotify.com/track/6nXqxqWDwqyXSrsW8pHAEE) | [Aaron Cartier](https://open.spotify.com/artist/39JU9cWMZ4QVIjRDIhcvMX), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [SMILE SEASON](https://open.spotify.com/album/3lvLrzj8jhwrTeDtQiwqeR) | 1:30 |
+| 136 | [FASTLANE](https://open.spotify.com/track/6nXqxqWDwqyXSrsW8pHAEE) | [Cali Cartier](https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [SMILE SEASON](https://open.spotify.com/album/3lvLrzj8jhwrTeDtQiwqeR) | 1:30 |
 | 137 | [EGO BRUISER](https://open.spotify.com/track/0w4jk3rgE09UDPYZDSEml3) | [LustSickPuppy](https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3) | [EGO BRUISER](https://open.spotify.com/album/1ec5W4qgTitZnxHgCl3nqt) | 3:17 |
 | 138 | [: BUBBYTAFFY ! :](https://open.spotify.com/track/4udf8TRYzEkKvNE95VAk4W) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [: BUBBYTAFFY ! :](https://open.spotify.com/album/0I3lOHOCbol0duoDkNJdJX) | 2:44 |
 | 139 | [Tambaleo](https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ) | 2:26 |
