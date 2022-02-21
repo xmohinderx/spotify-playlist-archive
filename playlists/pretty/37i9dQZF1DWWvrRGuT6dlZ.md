@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: shazza\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,098 likes - 104 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,101 likes - 104 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

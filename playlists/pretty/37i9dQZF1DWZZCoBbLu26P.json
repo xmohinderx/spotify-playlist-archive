@@ -1,13 +1,41 @@
 {
   "description": "Queens everywhere - givin' us life.\nCover: Trixie Mattel",
-  "num_followers": 68585,
+  "num_followers": 68594,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDY2NjQyMCwwMDAwMDAyMTAwMDAwMTdiYWI0YWYyYjUwMDAwMDE3OWIyOWRmNTEw",
+  "snapshot_id": "MTY0NTM3NDEwMywwMDAwMDAyMjAwMDAwMTdmMTdmMDYwZWQwMDAwMDE3OWIyOWRmNTEw",
   "tracks": [
+    {
+      "added_at": "2022-02-20 16:21:43",
+      "album": {
+        "name": "We Werk Together",
+        "url": "https://open.spotify.com/album/3NmASjEdI9UBllWhOi0hc4"
+      },
+      "artists": [
+        {
+          "name": "Ant & Dec",
+          "url": "https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ"
+        },
+        {
+          "name": "The Vivienne",
+          "url": "https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp"
+        },
+        {
+          "name": "Lawrence Chaney",
+          "url": "https://open.spotify.com/artist/6VKhOZsGPstcHvIA3fQKx6"
+        },
+        {
+          "name": "Krystal Versace",
+          "url": "https://open.spotify.com/artist/3oIIy9wJdxlRoJ1Mz9yckv"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "We Werk Together",
+      "url": "https://open.spotify.com/track/1qEYTQ8yEIp3LBuUf4e51I"
+    },
     {
       "added_at": "2021-06-29 08:00:00",
       "album": {

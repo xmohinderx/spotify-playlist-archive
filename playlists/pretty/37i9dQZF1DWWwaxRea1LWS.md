@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 ### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 
-> \#SpotifyTBT is your afterparty after Sunday's big game\. Cover: Mary J Blige
+> \#SpotifyTBT is your afterparty after last week's big game\. Cover: Mary J Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,054,454 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,054,367 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Day 'N' Nite \(nightmare\)](https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:41 |
 | 50 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
 
-Snapshot ID: `MTY0NTA3NDAwMCwwMDAwMDRjNzAwMDAwMTdmMDYwZDI4ZjAwMDAwMDE3ZjAzOTU5MTJl`
+Snapshot ID: `MTY0NTMzMzIwMCwwMDAwMDRjODAwMDAwMTdmMTU4MDNkMTIwMDAwMDE3ZjAzOWQ5MTY3`

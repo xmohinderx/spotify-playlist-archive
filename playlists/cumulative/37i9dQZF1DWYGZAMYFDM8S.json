@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 202473,
       "name": "Birds",
       "url": "https://open.spotify.com/track/3DekCgOkhOg1afxMyx1ixA"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 208500,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5PlgebgDZ7vyCOqGxMhElC"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 183356,
       "name": "First Day Of My Life",
       "url": "https://open.spotify.com/track/00o6POeoYnf971C6EZ8Fil"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 213720,
       "name": "howling",
       "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -2040,6 +2040,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292687,
+      "name": "Nocturne - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1iWmK4jR0AhIZB0gZG3NKA"
+    },
+    {
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/5nvf3juHez844dgOnwiSjY"
       },
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 195880,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/5MhQAE03rlj28eK1IymPgB"
@@ -2455,6 +2473,28 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "album": {
+        "name": "Resentment (New Feelings Version)",
+        "url": "https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "Resentment (New Feelings Version)",
+      "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
     },
     {
       "album": {
@@ -3103,7 +3143,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 235030,
       "name": "Us - Acoustic",
       "url": "https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6"
@@ -3233,7 +3273,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 158386,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/0qFFiR3SiXqgnQvX6Q1WOO"
@@ -3287,7 +3327,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 234382,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6lRFrEmU09wbl8rMKpgZB6"
@@ -3377,7 +3417,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 125408,
       "name": "Woodpecker",
       "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"

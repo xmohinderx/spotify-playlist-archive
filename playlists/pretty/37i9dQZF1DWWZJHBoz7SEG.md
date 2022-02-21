@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Danny Ocean; Christian Nodal; Snow Tha Product y Gera MX; Kim Loaiza y JD Pantoja; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,108 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,169 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

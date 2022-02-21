@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,043,849 likes - 143 songs - 7 hr 58 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,043,778 likes - 143 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

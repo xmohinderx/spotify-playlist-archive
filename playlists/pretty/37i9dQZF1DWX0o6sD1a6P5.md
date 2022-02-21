@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,609 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,161 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 45 | [100](https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [100](https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb) | 2:37 |
 | 46 | [Abeg](https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 2:39 |
 | 47 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
-| 48 | [ES\-TU PRETE](https://open.spotify.com/track/76CfecqLieILwUiABOrGQv) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [LCLM :Prélude](https://open.spotify.com/album/5Smc7egcDfbXo06o1nqFXz) | 3:07 |
+| 48 | [Es\-tu prête](https://open.spotify.com/track/76CfecqLieILwUiABOrGQv) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [LCLM :Prélude](https://open.spotify.com/album/5Smc7egcDfbXo06o1nqFXz) | 3:07 |
 | 49 | [Jolene](https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [Jolene](https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88) | 3:15 |
 | 50 | [Party](https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Party](https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO) | 3:53 |
 

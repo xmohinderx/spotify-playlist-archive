@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156 likes - 151 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159 likes - 152 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 64 | [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 |
 | 65 | [Julia](https://open.spotify.com/track/4Gyo5XZzmZawnpqaRRedKu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:38 |
 | 66 | [In Case You Don't Live Forever](https://open.spotify.com/track/4Svpc4QRvDW0J34AE30S9c) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:48 |
-| 67 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 |
-| 68 | [Lonely Eyes](https://open.spotify.com/track/5qhHm4dN4L2dhRb2TfzGPw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:16 |
+| 67 | [Lonely Eyes](https://open.spotify.com/track/5qhHm4dN4L2dhRb2TfzGPw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:16 |
+| 68 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 |
 | 69 | [Not 20 Anymore](https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Not 20 Anymore](https://open.spotify.com/album/50fjXOO6vhakOGaz3ATZlM) | 3:03 |
 | 70 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
 | 71 | [Imperfections](https://open.spotify.com/track/2d6wvZdvJ0bGJ4Olfm1lsp) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:59 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 81 | [Peace](https://open.spotify.com/track/20JGGCzwmvA9t1vs9HYkxE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Peace](https://open.spotify.com/album/6zM5YxPEEgJTDKzqEBUcWa) | 2:57 |
 | 82 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 |
 | 83 | [Believed](https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:49 |
-| 84 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
-| 85 | [MOONLIGHT](https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:39 |
+| 84 | [MOONLIGHT](https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:39 |
+| 85 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
 | 86 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 |
 | 87 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
 | 88 | [Jewel \(feat\. Nikki Vianna\)](https://open.spotify.com/track/1YL4frxSZ1NeSLafqIwmWZ) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Nikki Vianna](https://open.spotify.com/artist/5YyGLejM00snCF1RJKlocJ) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 2:58 |
@@ -119,13 +119,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 109 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
 | 110 | [Sorry For Myself](https://open.spotify.com/track/3gnijR68ZgnTEIrwFQsdfQ) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Sorry For Myself](https://open.spotify.com/album/2jJkAYn7UHtG47tv33mOdr) | 2:54 |
 | 111 | [Rule The World](https://open.spotify.com/track/44sjRqAOKmsUkUiVdAjUWA) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Most Wanted: The Greatest Hits \(Deluxe\)](https://open.spotify.com/album/7JrRph3NlBQciLSN1WBRfQ) | 3:18 |
-| 112 | [Cross Your Mind](https://open.spotify.com/track/34m8N2AMqMZZsFOt5m9ffN) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Cross Your Mind](https://open.spotify.com/album/6UxDQJ8QaC9nRxNytyfYtH) | 3:35 |
-| 113 | [I'll Never Not Love You](https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [I'll Never Not Love You](https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu) | 3:38 |
+| 112 | [I'll Never Not Love You](https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [I'll Never Not Love You](https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu) | 3:38 |
+| 113 | [Cross Your Mind](https://open.spotify.com/track/34m8N2AMqMZZsFOt5m9ffN) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Cross Your Mind](https://open.spotify.com/album/6UxDQJ8QaC9nRxNytyfYtH) | 3:35 |
 | 114 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
 | 115 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 |
-| 116 | [My Religion](https://open.spotify.com/track/7BK6xn13rJRZ4OCbvAszUk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:05 |
-| 117 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
-| 118 | [Every Time I Breathe](https://open.spotify.com/track/6wfYL7bN5TEVa434eELtQz) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Every Time I Breathe](https://open.spotify.com/album/2WNgLao3kqyegPrdEshKcA) | 3:03 |
+| 116 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 117 | [My Religion](https://open.spotify.com/track/7BK6xn13rJRZ4OCbvAszUk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:05 |
+| 118 | [Every Time I Breathe](https://open.spotify.com/track/1IWHzZQuBidgATKd3itjoL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Every Time I Breathe](https://open.spotify.com/album/0QIOGBUOtFj3DtO2W9qmiM) | 3:03 |
 | 119 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 |
 | 120 | [already there](https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/7q7zqYQbicds26NyRSuAk7) | 2:56 |
 | 121 | [Brad Pitt](https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:01 |
@@ -156,8 +156,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 146 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 |
 | 147 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 |
 | 148 | [Think of Me](https://open.spotify.com/track/2Wh9f0mW2IaJLgU4zj9bdM) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/6PG9WY2lqwsESkwuvxr4Qo) | 3:07 |
-| 149 | [Sugar Daddy](https://open.spotify.com/track/2ZaXufYEd6MgPqh1alHWke) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Heels in Hand](https://open.spotify.com/album/1U9H7bv1yLnbFafYTXnRBg) | 3:05 |
-| 150 | [Echo \[Bonus Track\]](https://open.spotify.com/track/30iwAxqJOdYxXSHG5Be8sS) | [Baker](https://open.spotify.com/artist/4FgEdko7AZQos5YRsfGtXE) | [The Baker EP](https://open.spotify.com/album/0sngk6p8hOPmvDKvuE8iK2) | 3:42 |
-| 151 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
+| 149 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
+| 150 | [Sugar Daddy](https://open.spotify.com/track/2ZaXufYEd6MgPqh1alHWke) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Heels in Hand](https://open.spotify.com/album/1U9H7bv1yLnbFafYTXnRBg) | 3:05 |
+| 151 | [Echo \[Bonus Track\]](https://open.spotify.com/track/30iwAxqJOdYxXSHG5Be8sS) | [Baker](https://open.spotify.com/artist/4FgEdko7AZQos5YRsfGtXE) | [The Baker EP](https://open.spotify.com/album/0sngk6p8hOPmvDKvuE8iK2) | 3:42 |
+| 152 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 
-Snapshot ID: `Mjc0MjE5NDUsMDAwMDAwMDA1ZDYyNjhlYTNiMTU5MzIzNDI0ZmRhNzlmMTFmM2NlNw==`
+Snapshot ID: `Mjc0MjMzODYsMDAwMDAwMDA3OThiYzZkYWNkODk1ZWIzOGNmYzkwY2FhZGU5NTYzZg==`

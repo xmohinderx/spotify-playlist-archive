@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,005 likes - 121 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,031 likes - 121 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Black Lança e os funks mais 🔑 do Brasil\. Foto: DJ BRUNIN DA NT, Mc Topre
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,486,771 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,488,037 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

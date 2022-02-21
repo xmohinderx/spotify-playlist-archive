@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 206592,
       "name": "Algo Diferente",
       "url": "https://open.spotify.com/track/4O6kB2HPx5gAMHokfS7h2B"
@@ -197,7 +215,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 199881,
       "name": "Amor en Coma",
       "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 152080,
       "name": "Amor Pasajero",
       "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 260346,
       "name": "Bes\u00e1ndote",
       "url": "https://open.spotify.com/track/0tdF8j4ldmOj39AwVYUAsn"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 217760,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1Zv7PhLP7ohXZ2rIrsnT3R"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 221520,
       "name": "Coraz\u00f3n En La Maleta",
       "url": "https://open.spotify.com/track/3EkYPUUbOVcxim9lEhEgxH"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 200586,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 237003,
       "name": "Cumbiana",
       "url": "https://open.spotify.com/track/7CzkWSho9A7kE31to9NKdW"
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 164499,
       "name": "Eres Perfecta",
       "url": "https://open.spotify.com/track/4zT2BSHExM4ZdTOTaEhqtt"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 200197,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 192866,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 245573,
       "name": "No Podr\u00e1s",
       "url": "https://open.spotify.com/track/2xuke1OBFKsOJbsionFKUk"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 211474,
       "name": "Otra Noche en L.A.",
       "url": "https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 234373,
       "name": "Pasos de cero",
       "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
@@ -2121,7 +2139,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 188438,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/2mCefaKSDuz6S50YIS57wR"
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 247626,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1kM1BcO9nbQJtPhcbL2WU5"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 266466,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 289866,
       "name": "Tan enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 165680,
       "name": "Te Est\u00e1s Enamorando de M\u00ed",
       "url": "https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF"
@@ -2754,6 +2772,24 @@
     },
     {
       "album": {
+        "name": "Cuesti\u00f3n de Honor",
+        "url": "https://open.spotify.com/album/4zKi74rzwxJysMbX4xsGa9"
+      },
+      "artists": [
+        {
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253173,
+      "name": "Traici\u00f3n a la Mejicana",
+      "url": "https://open.spotify.com/track/4M7pLnko9ZAbjNnXTlXAVR"
+    },
+    {
+      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
       },
@@ -2769,7 +2805,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 178613,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
@@ -2791,7 +2827,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1"

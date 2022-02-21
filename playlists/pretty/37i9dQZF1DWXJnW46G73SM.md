@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: مصطفى حجاج
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,131 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,196 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seneen](https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Seneen](https://open.spotify.com/album/762Ih6Q3P5rhDn99oSCEbe) | 3:23 |
-| 2 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:30 |
+| 2 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 |
 | 3 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 |
 | 4 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 |
 | 5 | [Momken Azaalak](https://open.spotify.com/track/4QKRv2FjUogwA1tHRr8LBH) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Momken Azaalak](https://open.spotify.com/album/0TaRvYnIEuXDfH5JVU0Q4f) | 3:38 |

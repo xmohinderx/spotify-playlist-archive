@@ -3675,7 +3675,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
@@ -6109,7 +6109,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
@@ -7017,7 +7017,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
@@ -8151,7 +8151,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 224284,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/7iD5HEWfQuOS9iC6IaNwu7"
@@ -8329,7 +8329,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 157986,
       "name": "Set Myself On Fire",
       "url": "https://open.spotify.com/track/002wiS64p2qXaYYVAP7KOW"
@@ -8937,6 +8937,24 @@
       "duration_ms": 205333,
       "name": "strawberry moon",
       "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
+    },
+    {
+      "album": {
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
     },
     {
       "album": {

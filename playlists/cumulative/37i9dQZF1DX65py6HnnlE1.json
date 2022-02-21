@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 302960,
       "name": "Ay hombre",
       "url": "https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 206933,
       "name": "Darte un Beso",
       "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 256000,
       "name": "El Alchohol",
       "url": "https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 266320,
       "name": "Estrellitas y Duendes",
       "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 245400,
       "name": "Frio Frio",
       "url": "https://open.spotify.com/track/3ETEcTlgvCzqyaZAka4E7G"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 298640,
       "name": "Me Dejaste Abandonado",
       "url": "https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 371720,
       "name": "Mujer Infiel",
       "url": "https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 220546,
       "name": "No Es una Novela",
       "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 245866,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 203080,
       "name": "Sentimiento De Amor",
       "url": "https://open.spotify.com/track/6NWS8sWvqO99loJxbpDOa1"
@@ -1286,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Bonito",
+        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252466,
+      "name": "Si Tu Cari\u00f1o No Esta",
+      "url": "https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI"
+    },
+    {
+      "album": {
         "name": "Exitos de Ayer y Hoy",
         "url": "https://open.spotify.com/album/7AOS7R8vOlAwifUgX1WpM5"
       },
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 170000,
       "name": "Si Tu Me Dices Ven",
       "url": "https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 213693,
       "name": "Volvio el dolor",
       "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"

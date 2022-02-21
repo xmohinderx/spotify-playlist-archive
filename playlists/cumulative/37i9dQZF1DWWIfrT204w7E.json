@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 110375,
       "name": "\"BOP\"",
       "url": "https://open.spotify.com/track/07VOlyshShGMYBPgjTIZoz"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 133548,
       "name": "2020K",
       "url": "https://open.spotify.com/track/10iZ6s2RgDGs6BOijgEE4E"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 196965,
       "name": "Aha Mhmm",
       "url": "https://open.spotify.com/track/7nVHw65OVhmh8k48nE2Xmh"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 141280,
       "name": "Bumpy Ride (feat. M Huncho)",
       "url": "https://open.spotify.com/track/09tRbQEW30BOyOGboo0fQq"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 153425,
       "name": "Casa",
       "url": "https://open.spotify.com/track/5rYX6uGGhwRBRseSGosoR8"
@@ -711,10 +711,32 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
+    },
+    {
+      "album": {
+        "name": "Computers (feat. Bobby Shmurda)",
+        "url": "https://open.spotify.com/album/4eBoprBdzQXujjoS2Cm1FA"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305400,
+      "name": "Computers (feat. Bobby Shmurda)",
+      "url": "https://open.spotify.com/track/6SvuMwPea2zKEN03IWCElv"
     },
     {
       "album": {
@@ -891,7 +913,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 204805,
       "name": "Demons (feat. Fivio Foreign & Sosa Geek)",
       "url": "https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW"
@@ -931,7 +953,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 146972,
       "name": "Different",
       "url": "https://open.spotify.com/track/15xfk8vQvVttTlh3tZn6db"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 134810,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/4JNI9h3odVrUIqDhVocdVj"
@@ -1037,7 +1059,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 283653,
       "name": "Don't Like.1",
       "url": "https://open.spotify.com/track/12D0n7hKpPcjuUpcbAKjjr"
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 344168,
       "name": "Gimmie Dat",
       "url": "https://open.spotify.com/track/7pmV4lKLylGlYZHrduag1x"
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 184984,
       "name": "Grabba - Remix",
       "url": "https://open.spotify.com/track/2xKwWM2o9evwC7uCpXOjBp"
@@ -1543,7 +1565,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 134284,
       "name": "GRIME",
       "url": "https://open.spotify.com/track/2mjPCVy1cMsSF2Gn7bIEEn"
@@ -1643,7 +1665,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "Home and Away",
       "url": "https://open.spotify.com/track/0SAc6H1cwiKv7PxXPnEpv2"
@@ -1679,7 +1701,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 194561,
       "name": "Hot N*gga",
       "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 178137,
       "name": "I Dunno (feat. Dutchavelli & Stormzy)",
       "url": "https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"
@@ -1869,7 +1891,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 194366,
       "name": "K.O.D (King Of Drill)",
       "url": "https://open.spotify.com/track/0UaVFAflNQlEIHwszG8nnI"
@@ -1927,7 +1949,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 169615,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/4vwfGk1D9kkPocFBzby1DA"
@@ -1945,7 +1967,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 137437,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/0z5V1vTA1R3M3FPCimYphr"
@@ -2135,7 +2157,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Movie",
       "url": "https://open.spotify.com/track/4tzvbB3aj3NE6h6a8hsOZJ"
@@ -2157,7 +2179,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 171692,
       "name": "My City",
       "url": "https://open.spotify.com/track/6d9nkLaLMZFHAUtxLH7tlK"
@@ -2175,7 +2197,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 165022,
       "name": "My Set, Pt.II",
       "url": "https://open.spotify.com/track/5OTiGat69zVXnW982TbgIQ"
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 217349,
       "name": "No Chorus",
       "url": "https://open.spotify.com/track/25JRyuLsCus2fzuemAeVMS"
@@ -2441,7 +2463,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 179534,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/34YkG2pMNOldalZtevHztN"
@@ -2545,7 +2567,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 125132,
       "name": "Opponent",
       "url": "https://open.spotify.com/track/03jTzOk8XO1LtD8skd57wm"
@@ -2857,7 +2879,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 146021,
       "name": "RUMBLE",
       "url": "https://open.spotify.com/track/1Emg2PWprZxWACEgw3Rn0J"
@@ -2875,7 +2897,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 166147,
       "name": "Second Sermon",
       "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
@@ -2997,7 +3019,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 232630,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/6miftk872yxPKve9CdKaQO"
@@ -3207,7 +3229,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 192676,
       "name": "The Great Escape (feat. Central Cee)",
       "url": "https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS"
@@ -3229,7 +3251,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 170682,
       "name": "Theme Song",
       "url": "https://open.spotify.com/track/64WkyOojJL0tmqnmN0s3sp"
@@ -3475,7 +3497,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 157711,
       "name": "Whip That Work",
       "url": "https://open.spotify.com/track/16q7a4jsKB3YbM5rMjh1R1"
@@ -3515,7 +3537,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 123480,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/1RSzyxqtIO4yX3EyiV4zT5"
@@ -3541,7 +3563,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Whoopty NYC (feat. French Montana & Rowdy Rebel)",
       "url": "https://open.spotify.com/track/7vIVJfg8xJQg4QTEGmFGfZ"
@@ -3617,7 +3639,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 178443,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/70WI0Hatsx1kZclS58zeZY"
@@ -3653,7 +3675,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 164475,
       "name": "Ying Dat",
       "url": "https://open.spotify.com/track/0iT6u0OSo1lthHCAruJEuw"

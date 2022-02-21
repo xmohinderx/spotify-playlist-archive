@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 182696,
       "name": "1+",
       "url": "https://open.spotify.com/track/40hdo41xz7pE47DKRbgpVN"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 165896,
       "name": "11 Con 11",
       "url": "https://open.spotify.com/track/3Svyh4451NwWlZJaYNPAXS"
@@ -117,10 +117,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 194262,
       "name": "A Un Paso De La Luna - Remix",
       "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
+    },
+    {
+      "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/4ICfa7YSzgFDVKfqlLRXhp"
+      },
+      "artists": [
+        {
+          "name": "Luisa Ferss",
+          "url": "https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/4GD13CmzHLbcm27i8ueSNL"
     },
     {
       "album": {
@@ -139,7 +157,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 167474,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/0ZjhDp2DAAAH5gTj8b7qBK"
@@ -205,7 +223,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 208636,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6vmhP1NKDIFT79gpz7Anzl"
@@ -223,7 +241,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 236900,
       "name": "Amor - Prestado",
       "url": "https://open.spotify.com/track/1aH5VLlp7W3Cy2YMu1PW90"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 157900,
       "name": "Cuenta Hasta Diez",
       "url": "https://open.spotify.com/track/2hLPflU1zfDDnOUEkxNEQQ"
@@ -513,6 +531,24 @@
       "duration_ms": 160222,
       "name": "Desamor Feliz (Pura Sal)",
       "url": "https://open.spotify.com/track/1zXfyjLOsTOvYdkGlXprWE"
+    },
+    {
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/5zfZPuzW44WYKIk3UH4eXh"
+      },
+      "artists": [
+        {
+          "name": "Sharlene",
+          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/1K1qSkHpZIFlsydsMFdPPi"
     },
     {
       "album": {
@@ -643,7 +679,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 170253,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
@@ -763,7 +799,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 167346,
       "name": "Las Olas",
       "url": "https://open.spotify.com/track/14fD8g1pDkKe2c4RCz5wcs"
@@ -781,7 +817,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 173778,
       "name": "Lero Lero",
       "url": "https://open.spotify.com/track/1cWFqqulhCa9AwJ4JLkKxo"
@@ -825,7 +861,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 166015,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2yPjrueRrY4svAPIxwLH6P"
@@ -854,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Mamita Linda",
+        "url": "https://open.spotify.com/album/0VWSdamEgFiObHa2U1Byau"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Mamita Linda",
+      "url": "https://open.spotify.com/track/5A61GAR6FphQb4THLvE4Tl"
+    },
+    {
+      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -877,7 +931,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
@@ -895,7 +949,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 185625,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/1s8tH07V0xMkozNWmiFau9"
@@ -1131,7 +1185,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 190489,
       "name": "Nadie Te Entiende",
       "url": "https://open.spotify.com/track/3UMJzfw9Fq4gXnrJ0eCdM1"
@@ -1211,7 +1265,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 158736,
       "name": "No Seas As\u00ed",
       "url": "https://open.spotify.com/track/502dC2IZ0seREbTF6OhBOQ"
@@ -1233,7 +1287,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 176042,
       "name": "NTDDP",
       "url": "https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa"
@@ -1367,7 +1421,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 259458,
       "name": "Sexo Pudor y Lagrimas - Banda Sonora De la Pel\u00edcula",
       "url": "https://open.spotify.com/track/42MW4FhAIvSZLmzTk40SkM"
@@ -1505,7 +1559,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 206808,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/24qPSsYbHn9NzeDde6tIg7"
@@ -1531,7 +1585,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 202574,
       "name": "Solo Qu\u00e9date en Silencio",
       "url": "https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5"

@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "1 2 3",
       "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 256971,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
@@ -428,6 +428,32 @@
     },
     {
       "album": {
+        "name": "Yinyang",
+        "url": "https://open.spotify.com/album/1PVpa4IQzF73649GJDuQgO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248780,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/0LMpXvC8a7rYNaxNCxXl3p"
+    },
+    {
+      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
       },
@@ -447,7 +473,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 248780,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
@@ -487,7 +513,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
@@ -645,7 +671,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 212312,
       "name": "Chivirika",
       "url": "https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz"
@@ -889,7 +915,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
@@ -1153,7 +1179,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 197840,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI"
@@ -1179,7 +1205,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 209000,
       "name": "Friend De Semana",
       "url": "https://open.spotify.com/track/0x1YlWjy7Hsh7VIbu4PWGG"
@@ -1201,7 +1227,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 158531,
       "name": "Fulanito",
       "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
@@ -1648,6 +1674,28 @@
     },
     {
       "album": {
+        "name": "La Oficial (Remix)",
+        "url": "https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219648,
+      "name": "La Oficial - Remix",
+      "url": "https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1"
+    },
+    {
+      "album": {
         "name": "La Rutina",
         "url": "https://open.spotify.com/album/33VjCQ8nvi5XpGnL4qIKQD"
       },
@@ -1753,7 +1801,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 243226,
       "name": "Livin' la Vida Loca - Spanish Version",
       "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
@@ -1898,6 +1946,28 @@
     },
     {
       "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Mayores",
+      "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -1935,7 +2005,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
@@ -2217,7 +2287,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 200666,
       "name": "Morado",
       "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
@@ -2235,7 +2305,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 231716,
       "name": "Mr. Carisma",
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
@@ -2337,7 +2407,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 214737,
       "name": "Nadie La Controla",
       "url": "https://open.spotify.com/track/4IOJ3ar9OZQReV1F34ks9R"
@@ -2583,7 +2653,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
@@ -2601,7 +2671,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 259240,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
@@ -2871,7 +2941,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
@@ -2949,7 +3019,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
@@ -3225,7 +3295,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
@@ -3535,7 +3605,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 153000,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/7yYppKvmbREWN84EsBdJ31"

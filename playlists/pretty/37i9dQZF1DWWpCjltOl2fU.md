@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpCjltOl2fU.md) - [plain]
 
 > Eagles Of Death Metal’s <a href="http://playitforwardeodm.com">Play It Forward Campaign</a> features new versions of the band’s “I Love You All The Time” by a bevy of their peers\. Play these tracks to support the victims of the Paris attacks\. Check out the amazing covers below and head to <a href="http://playitforwardeodm.com">http://playitforwardeodm.com</a> for more info.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,784 likes - 14 songs - 43 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,783 likes - 14 songs - 43 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Beéle y Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,316 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,444 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 |
 | 2 | [Vacaciones](https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vacaciones](https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG) | 2:35 |
-| 3 | [Mi Mundo Entero \- Versión Bachata](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 |
+| 3 | [Mi Mundo Entero](https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Mundo Entero](https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw) | 2:38 |
 | 4 | [Alcancía](https://open.spotify.com/track/020womZSqTEXnoDptWI6mL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Alcancía](https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o) | 3:18 |
 | 5 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 |
 | 6 | [Que Nunca Sepa](https://open.spotify.com/track/6hrC1xs7FbpJzKyaWTYTbI) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Que Nunca Sepa](https://open.spotify.com/album/409j2gQB7jbyuIHQdcx8lF) | 3:23 |

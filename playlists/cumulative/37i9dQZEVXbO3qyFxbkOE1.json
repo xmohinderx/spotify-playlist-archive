@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 186833,
       "name": "Cuidando El Territorio",
       "url": "https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e"
@@ -1295,6 +1295,28 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "album": {
+        "name": "Dile a Tu Orgullo (En Vivo)",
+        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226345,
+      "name": "Dile a Tu Orgullo - En Vivo",
+      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
     },
     {
       "album": {
@@ -3027,7 +3049,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
@@ -3713,7 +3735,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
@@ -4679,7 +4701,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
@@ -5029,7 +5051,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 222669,
       "name": "Soy El Rat\u00f3n",
       "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
@@ -5265,7 +5287,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 130013,
       "name": "TE MUDASTE",
       "url": "https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY"
@@ -5767,7 +5789,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"

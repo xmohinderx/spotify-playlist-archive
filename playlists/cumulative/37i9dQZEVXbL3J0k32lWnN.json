@@ -413,6 +413,24 @@
     {
       "album": {
         "name": "All Of It All",
+        "url": "https://open.spotify.com/album/78cfKFwiCAU5McJblfI2im"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "All Of It All",
+      "url": "https://open.spotify.com/track/4NlZMh26pWn34TQ0luNEmj"
+    },
+    {
+      "album": {
+        "name": "All Of It All",
         "url": "https://open.spotify.com/album/7xpldh6E2eQyxS6UWN9xEA"
       },
       "artists": [
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 178546,
       "name": "All Of It All",
       "url": "https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp"
@@ -5339,7 +5357,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -8711,7 +8729,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 129965,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/1Ra5pMInPLGAHsyWSRKl5Y"

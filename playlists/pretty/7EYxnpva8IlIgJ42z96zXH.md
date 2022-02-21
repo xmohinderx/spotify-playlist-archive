@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,173 likes - 60 songs - 3 hr 0 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,201 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 |
-| 2 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
-| 3 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
+| 2 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
+| 3 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
 | 4 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 |
 | 5 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 6 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 59 | [Daddy Cool](https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/7fXtm0TpLRIJhxobKDjxRp) | 2:34 |
 | 60 | [Always Be My Baby Boy \(feat\. Becce J\)](https://open.spotify.com/track/5ycjyEkMSlLCMifjYgQOfp) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Becce J](https://open.spotify.com/artist/3oq7pPTvwW6l6yl89fQbYC) | [Disrespectful](https://open.spotify.com/album/73fDT1q6Y3ADL0hokKEnvG) | 3:39 |
 
-Snapshot ID: `MjIyNyxlZjQzNDQxYjkzYWEzZGFmMzJmNDU3MDQ4N2FmZGExMWQ1YThlMWFh`
+Snapshot ID: `MjIyOCw5OGE0NjMzZjc4ZmYwYzEwNDRiMTg3MjNmZDkxY2ExZWFjMGZkNWUy`

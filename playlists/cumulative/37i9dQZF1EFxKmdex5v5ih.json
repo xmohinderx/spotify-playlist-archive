@@ -935,6 +935,24 @@
     {
       "album": {
         "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/0QIOGBUOtFj3DtO2W9qmiM"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "Every Time I Breathe",
+      "url": "https://open.spotify.com/track/1IWHzZQuBidgATKd3itjoL"
+    },
+    {
+      "album": {
+        "name": "Every Time I Breathe",
         "url": "https://open.spotify.com/album/2WNgLao3kqyegPrdEshKcA"
       },
       "artists": [
@@ -945,7 +963,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 183809,
       "name": "Every Time I Breathe",
       "url": "https://open.spotify.com/track/6wfYL7bN5TEVa434eELtQz"
@@ -1633,6 +1651,24 @@
       "duration_ms": 184556,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/23tJmuwvUOa2kTsOlNMWCS"
+    },
+    {
+      "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184103,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
     },
     {
       "album": {

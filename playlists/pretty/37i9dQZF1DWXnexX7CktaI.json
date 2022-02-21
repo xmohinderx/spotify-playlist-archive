@@ -1,33 +1,13 @@
 {
   "description": "All the jams. Cover: Toni Braxton",
-  "num_followers": 1762918,
+  "num_followers": 1763247,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTMxODEwOSwwMDAwMDAwMDQyMDgwN2U3YzI4OGM0YzIwZmIxNmE5NDViNGFkYzA4",
+  "snapshot_id": "MTY0NTQwNDE1NSwwMDAwMDAwMGM1MWE3NWJkZjUxNGQwZGZkZTcyM2UxMTk5NDcxMzVk",
   "tracks": [
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 201787,
-      "name": "Nights Like This (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
-    },
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 201787,
+      "name": "Nights Like This (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -103,28 +103,8 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "Girls Need Love (with Drake) [Remix]",
+        "url": "https://open.spotify.com/album/3i9w4RgUuxBxUVaarH91kx"
       },
       "artists": [
         {
@@ -132,13 +112,13 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+      "duration_ms": 222374,
+      "name": "Girls Need Love (with Drake) - Remix",
+      "url": "https://open.spotify.com/track/0mfCH4nfpshBQR9ueZP5eP"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -163,6 +143,26 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -175,38 +175,6 @@
       "duration_ms": 238320,
       "name": "oui",
       "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/1Tt4sE4pXi57mTD1GCzsqm"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -227,74 +195,6 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "EX",
-      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "Girls Need Love (with Drake) [Remix]",
-        "url": "https://open.spotify.com/album/3i9w4RgUuxBxUVaarH91kx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 222374,
-      "name": "Girls Need Love (with Drake) - Remix",
-      "url": "https://open.spotify.com/track/0mfCH4nfpshBQR9ueZP5eP"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/4uDtOxqqMWCGpPUVgKvxCc"
       },
@@ -307,6 +207,42 @@
       "duration_ms": 236893,
       "name": "Say It",
       "url": "https://open.spotify.com/track/610BVUQMZpmt3eROWX9ZC1"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/1Tt4sE4pXi57mTD1GCzsqm"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -331,54 +267,54 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Please Me",
-        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 200889,
-      "name": "Please Me",
-      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "Wake Up Love",
+        "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
       },
       "artists": [
         {
           "name": "Teyana Taylor",
           "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/32jei6omhyLZDCg8Ijvoym"
-      },
-      "artists": [
+        },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Iman.",
+          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
         }
       ],
-      "duration_ms": 235693,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1cAL4sFzXXRMbpZnTPa7Zi"
+      "duration_ms": 215329,
+      "name": "Wake Up Love",
+      "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -403,60 +339,8 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "All The Stars (with SZA)",
-        "url": "https://open.spotify.com/album/3mau89iBea8nCPw3I8kKAk"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 235540,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/0QzJuxEhSm5KgZ1G4KDRow"
       },
       "artists": [
         {
@@ -464,29 +348,61 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 201609,
-      "name": "Shot Clock",
-      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+      "duration_ms": 217118,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/7noud145AHZGg74vpWOsCa"
     },
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Don't Waste My Time (feat. Ella Mai)",
-        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Don't Waste My Time (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
+      "duration_ms": 222386,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/32jei6omhyLZDCg8Ijvoym"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1cAL4sFzXXRMbpZnTPa7Zi"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "Please Me",
+        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 200889,
+      "name": "Please Me",
+      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -515,22 +431,70 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Wake Up Love",
-        "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
       "artists": [
         {
           "name": "Teyana Taylor",
           "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Iman.",
-          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
         }
       ],
-      "duration_ms": 215329,
-      "name": "Wake Up Love",
-      "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "All The Stars (with SZA)",
+        "url": "https://open.spotify.com/album/3mau89iBea8nCPw3I8kKAk"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 235540,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -544,53 +508,13 @@
           "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 322000,
-      "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
-      "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 146914,
-      "name": "BMO",
-      "url": "https://open.spotify.com/track/7Ffgp7DIow5wECYQyzEiTq"
-    },
-    {
-      "added_at": "2021-01-22 05:26:02",
-      "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 235477,
-      "name": "Come and See Me (feat. Drake)",
-      "url": "https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd"
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -615,18 +539,70 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 292884,
-      "name": "Roll Some Mo",
-      "url": "https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty"
+      "duration_ms": 201609,
+      "name": "Shot Clock",
+      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "Caught Up (feat. Khalid)",
+        "url": "https://open.spotify.com/album/3LHVZayhkrZPdryYqJ5JZu"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 247546,
+      "name": "Caught Up (feat. Khalid)",
+      "url": "https://open.spotify.com/track/1opARDDYaOeE1QUdwXmBGu"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 185979,
+      "name": "Issues/Hold On",
+      "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -663,38 +639,42 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Caught Up (feat. Khalid)",
-        "url": "https://open.spotify.com/album/3LHVZayhkrZPdryYqJ5JZu"
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
         }
       ],
-      "duration_ms": 247546,
-      "name": "Caught Up (feat. Khalid)",
-      "url": "https://open.spotify.com/track/1opARDDYaOeE1QUdwXmBGu"
+      "duration_ms": 322000,
+      "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
+      "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
     },
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2021-01-22 05:26:02",
@@ -715,34 +695,58 @@
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 185979,
-      "name": "Issues/Hold On",
-      "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
     },
     {
       "added_at": "2021-01-22 05:26:02",
       "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+      "duration_ms": 235477,
+      "name": "Come and See Me (feat. Drake)",
+      "url": "https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd"
+    },
+    {
+      "added_at": "2021-01-22 05:26:02",
+      "album": {
+        "name": "Don't Waste My Time (feat. Ella Mai)",
+        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Don't Waste My Time (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     }
   ],
   "unique_name": "Gold Edition",

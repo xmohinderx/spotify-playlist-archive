@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Richie D\. ICY; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,693 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,712 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 51 | [Có Lẽ](https://open.spotify.com/track/6WBckbNYCnRS8uUY8Nxry6) | [phuong](https://open.spotify.com/artist/7y6P5UDQi9Dk3ACrSKOB7l), [manner](https://open.spotify.com/artist/6ptCdWWRUKaXNw7y9gEaJI) | [Có Lẽ](https://open.spotify.com/album/6PT6KSdqy9sszLrwqI3MqK) | 4:07 |
 | 52 | [đây là một chiếc buồn...](https://open.spotify.com/track/7GrWiWAx0Wklaixmcic8ln) | [SIVAN](https://open.spotify.com/artist/0wJWawRvX8K9joiK9QqkX5) | [đây là một chiếc buồn...](https://open.spotify.com/album/2YJc2JSAfLgkyjzRsRZrJX) | 3:13 |
 | 53 | [Tell Ur Mom II](https://open.spotify.com/track/1lckfRbu1gHcUO8mVmkNSO) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk) | [Tell Ur Mom II \(Clean\)](https://open.spotify.com/album/4snc0OnZwIhZVcfzJoHXt6) | 3:39 |
-| 54 | [TOURIST](https://open.spotify.com/track/3wdK1Ldkj6ju4JIvg94G24) | [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K), [V\#](https://open.spotify.com/artist/747LEDjKKVKZIXvkFpPUUP) | [TOURIST](https://open.spotify.com/album/2x7cvo4mgRnx8ZVxyGcRNy) | 3:30 |
+| 54 | [TOURIST](https://open.spotify.com/track/3wdK1Ldkj6ju4JIvg94G24) | [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [TOURIST](https://open.spotify.com/album/2x7cvo4mgRnx8ZVxyGcRNy) | 3:30 |
 | 55 | [Tình Đầu Chóng Tan](https://open.spotify.com/track/4sKWEAVGT1SwxoBDAJgHFA) | [Thy](https://open.spotify.com/artist/6yOU30PcYIiTgX4cG7ZjmS), [Minmm](https://open.spotify.com/artist/3iRb5sTX6c06Dl25BXn8FS) | [Tình Đầu Chóng Tan](https://open.spotify.com/album/0qff37J46VBuuX4Wb7Zc3Z) | 3:23 |
 | 56 | [Lose You](https://open.spotify.com/track/5mACzX9W7gTOhX8ms3z43w) | [Phi Zi](https://open.spotify.com/artist/6ko1Rytv1xKlLZhMaKsrtV) | [Lose You](https://open.spotify.com/album/2Y9tbjD5eSD0ToV6jVMABc) | 3:34 |
 | 57 | [Em Là Nhất](https://open.spotify.com/track/3gxxst9XVcNeFDhpV9qvM8) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9), [Hoàng KayLee](https://open.spotify.com/artist/41TxXGX17thfgXvwCXZ9fq), [YAHY](https://open.spotify.com/artist/5JhDmc387zMesNTkV9qP7q) | [Em Là Nhất](https://open.spotify.com/album/096Q59TKHNzpqyKvkETDbF) | 4:13 |

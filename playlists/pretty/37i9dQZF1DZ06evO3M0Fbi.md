@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,967 likes - 37 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,433 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 36 | [Molly's Lips \- BBC John Peel Session 1990](https://open.spotify.com/track/0brL7VMo7onJJTGMSdajic) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:54 |
 | 37 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 
-Snapshot ID: `Mjc0MjEyNzEsMDAwMDAwMDBkMzg2ZTUwMmRkMjlmOGMyYzIyNGNlMjhiMGFkMWE5ZA==`
+Snapshot ID: `Mjc0MjI3MjUsMDAwMDAwMDA2NmNlYWU2MTIxODU0NzYyN2I0MmNlNTU1ZWM1ODMzYQ==`

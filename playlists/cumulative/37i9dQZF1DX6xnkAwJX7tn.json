@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 235506,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5AM6VOkN7ficA2O04f5JG1"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 222173,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/0Vw9dU92bdHAZlmwzrdmQ2"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 226453,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/5JsIknb4lyIKQCytjv0Uw5"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 215326,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 231053,
       "name": "Hand on Your Heart",
       "url": "https://open.spotify.com/track/3AT2gH4qI0zz54Y1wKt650"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 251506,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 213160,
       "name": "If Only I Could",
       "url": "https://open.spotify.com/track/2ZtW3QiRb7onIn7oIKAwz0"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 320040,
       "name": "Jump to the Beat",
       "url": "https://open.spotify.com/track/2MKsIrTocRAHcYnl6SKD4r"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 255173,
       "name": "Leave a Light On (7\")",
       "url": "https://open.spotify.com/track/5Fmwhqt1zOi0uPYa1nl72k"
@@ -1985,7 +1985,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
@@ -2183,7 +2183,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
@@ -2277,7 +2277,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 236440,
       "name": "Rhythm Is Gonna Get You",
       "url": "https://open.spotify.com/track/69U1Mlh2xMxx3SGOL1mSXQ"
@@ -2338,6 +2338,24 @@
     },
     {
       "album": {
+        "name": "Roam (Edit) / Bushfire [45 Version]",
+        "url": "https://open.spotify.com/album/358HXGRtcfbe1WSVPAuyCS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Roam - Edit",
+      "url": "https://open.spotify.com/track/0jfONt56vckywtWwm8wjki"
+    },
+    {
+      "album": {
         "name": "Bananarama (Collector's Edition)",
         "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
       },
@@ -2385,7 +2403,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 236560,
       "name": "Running In The Family - 7\" Version",
       "url": "https://open.spotify.com/track/1pTqpcvO02DUSzdN85loMZ"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 192666,
       "name": "The Lion Sleeps Tonight",
       "url": "https://open.spotify.com/track/1so85Or3C7J0sBnBOucVBA"
@@ -2901,6 +2919,24 @@
       "duration_ms": 164866,
       "name": "The Safety Dance",
       "url": "https://open.spotify.com/track/4UB3TaEGEY9WoOpxYNMgy4"
+    },
+    {
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/2eBRt3C1R8zMH0kkQ0li3Z"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/3Hl8JijCnvsnSoGSrEsTL1"
     },
     {
       "album": {
@@ -3165,7 +3201,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 184746,
       "name": "Use It Up and Wear It Out - Radio Version",
       "url": "https://open.spotify.com/track/5lm46pyP9yPmoAJnHjgXuW"
@@ -3219,7 +3255,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 204560,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6"

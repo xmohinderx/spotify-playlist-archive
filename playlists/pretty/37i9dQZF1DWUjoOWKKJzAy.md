@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,960 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,140 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 52 | [Areias escaldantes \- Remasterizado](https://open.spotify.com/track/1Vz4ToV1yqP7A9ossC71Fs) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:10 |
 | 53 | [Eu Sou Free](https://open.spotify.com/track/7yaAq7FKFtjrndst1JTNoA) | [Sempre Livre](https://open.spotify.com/artist/5CorrQPbOid8RKf5rCpxG7) | [Avião De Combate](https://open.spotify.com/album/6TE19Nr6Sf1SLBuCdBzynG) | 3:47 |
 | 54 | [Serão Extra](https://open.spotify.com/track/4UWDiBISWABN9nPmEJgG1I) | [Dr\. Silvana & Cia.](https://open.spotify.com/artist/7hj6TfWecHlMmeUPwiAazv) | [Dr\. Silvana & Cia](https://open.spotify.com/album/6kM9tsyXNygsvtuhIpkAa8) | 3:38 |
-| 55 | [Kátia flávia, a godiva de irajá](https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [Elite Squad](https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG) | 4:09 |
+| 55 | [Kátia Flávia, a Godiva de Irajá](https://open.spotify.com/track/7bu5WQP70BZSKfS3u5rvPA) | [Fausto Fawcett e Os Robôs Efêmeros](https://open.spotify.com/artist/3dTZZy2Cx13JZtiv9UfZl6) | [Elite Squad](https://open.spotify.com/album/1mDEzO58hQ8P7czrdHocfG) | 4:09 |
 | 56 | [Adelaide \(You'll Be Illin'\)](https://open.spotify.com/track/4Ih8VpfrjulVJteZTXOJHS) | [Inimigos Do Rei](https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj) | [Inimigos Do Rei](https://open.spotify.com/album/1gc8qtJ5R7lzKYIHu96EZj) | 3:15 |
 | 57 | [Bla, Bla, Bla...Eu Te Amo](https://open.spotify.com/track/7JhueQscGoTl2gYNkp4mSN) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Vida Bandida](https://open.spotify.com/album/1mGU4TLsEmo4brfgYv6K3U) | 4:51 |
 | 58 | [Alice \(Não me escreva aquela carta de amor\)](https://open.spotify.com/track/7nBeVCe5XQ6sn6dzqFvglv) | [Kid Abelha e os Abóboras Selvagens](https://open.spotify.com/artist/0qF4CwUutS8ukBdGKV4vfl) | [Greatest Hits 80's](https://open.spotify.com/album/5bfaqFByhaSo0RmJzoaSdn) | 3:08 |

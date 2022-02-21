@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Wisin & Yandel, Karol G, Bad Bunny and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,399,743 likes - 53 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,400,277 likes - 53 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

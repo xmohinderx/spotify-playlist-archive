@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 221428,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 200624,
       "name": "Brighter Side",
       "url": "https://open.spotify.com/track/2cXlDeF2sUoZRQgYQZ2nb0"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 150468,
       "name": "Distant Memory (with Timmy Trumpet x W&W)",
       "url": "https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 217322,
       "name": "Fight For",
       "url": "https://open.spotify.com/track/6F3htwbMYqes3xVs5Vorkm"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 171208,
       "name": "Flame",
       "url": "https://open.spotify.com/track/46BhtWkz8zKHdABv0yzxV7"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 209280,
       "name": "Gold (feat. Chris Howard) - DubVision Remix",
       "url": "https://open.spotify.com/track/29krI2tC7I26s6qwg0xjlI"
@@ -1482,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "More Than I Want To",
+        "url": "https://open.spotify.com/album/6JBU6wA7ziYnoFPcULQBYy"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167503,
+      "name": "More Than I Want To",
+      "url": "https://open.spotify.com/track/4dkQMweppOlQjOvxv5fQTy"
+    },
+    {
+      "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 182243,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/4iqmktYiX3g7jAwr73i6yC"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 177767,
       "name": "On A Mountain - Flume Remix",
       "url": "https://open.spotify.com/track/0lrIwNdTiHaOlw8gqwXk6L"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
@@ -1895,7 +1913,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 225230,
       "name": "Safe",
       "url": "https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 171796,
       "name": "Save Me (feat. Violet Days) - Tungevaag Remix",
       "url": "https://open.spotify.com/track/45srzqej6QL7I5CQtorj0d"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 170000,
       "name": "Scared",
       "url": "https://open.spotify.com/track/2ktaGvlb0uE3tUQXy2oXoo"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 197779,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 133090,
       "name": "Through The Storm",
       "url": "https://open.spotify.com/track/3CbqAQnT7oU23IvtcHO0k1"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 190312,
       "name": "Written In The Stars",
       "url": "https://open.spotify.com/track/4UGvqi9PIjHesEpPOO7Hl8"

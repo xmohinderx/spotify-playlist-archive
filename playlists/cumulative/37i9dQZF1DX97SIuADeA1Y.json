@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 189753,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/2iF2elQI7NVjsQSUK4C6jE"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 135238,
       "name": "Far Away (feat. Ramori)",
       "url": "https://open.spotify.com/track/5oJHGvC4gv9FCewvhxGvLp"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 173313,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "Game",
       "url": "https://open.spotify.com/track/1282qgDXqqQiA6n3u1h32q"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 131001,
       "name": "Hush Hush (Don't Be Shy)",
       "url": "https://open.spotify.com/track/6yotiCxcSIm4HyZdA6wcYH"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 129746,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/1NGT0grnBrYpuxfXYE3w9X"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 150158,
       "name": "Lonely With You",
       "url": "https://open.spotify.com/track/62iKA63KFJELPiOEeL5clk"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 197760,
       "name": "Ma Ma Ma",
       "url": "https://open.spotify.com/track/19c7r2qm1FD7runvg0VzQa"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 145320,
       "name": "One More Dance (with Alida)",
       "url": "https://open.spotify.com/track/2aOK6TRYn4DneIBHJOAQ4r"
@@ -1662,6 +1662,32 @@
     },
     {
       "album": {
+        "name": "redruM (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176785,
+      "name": "redruM - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
+    },
+    {
+      "album": {
         "name": "Runaways",
         "url": "https://open.spotify.com/album/0qGQFxDfdlQPG0LsObbdX9"
       },
@@ -1795,7 +1821,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 141170,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
@@ -1817,7 +1843,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
@@ -1931,7 +1957,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 137708,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/2kMSfE03xa0kyksSNIfufy"
@@ -2061,6 +2087,32 @@
       "duration_ms": 136285,
       "name": "The Portrait (Ooh La La) (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/6kvxoUQy6cKZvc8DFc4Smb"
+    },
+    {
+      "album": {
+        "name": "The Sound (feat. JUSTN X)",
+        "url": "https://open.spotify.com/album/2yXP0KBNYnEKQTqZIcvVJu"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "JUSTN X",
+          "url": "https://open.spotify.com/artist/6a6XPqUW48oSQbIylizF5i"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Sound (feat. JUSTN X)",
+      "url": "https://open.spotify.com/track/6Gevh0EzBnahkjKJnwaed6"
     },
     {
       "album": {
@@ -2263,7 +2315,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
@@ -2285,7 +2337,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 130619,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe"
@@ -2347,7 +2399,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 241163,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 162910,
       "name": "2U",
       "url": "https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 180157,
       "name": "Can't Stay Away",
       "url": "https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 213289,
       "name": "Cause In The End You Know That Everybody Dies",
       "url": "https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 230653,
       "name": "Coast (feat. Cherrie)",
       "url": "https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 211333,
       "name": "Coldtrain",
       "url": "https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 237312,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 206374,
       "name": "Dom Kallar Mig F\u00f6r\u2026",
       "url": "https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl"
@@ -975,10 +975,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 210493,
       "name": "Dr\u00f6mmer om andetag",
       "url": "https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw"
+    },
+    {
+      "album": {
+        "name": "Du f\u00e5r allt",
+        "url": "https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE"
+      },
+      "artists": [
+        {
+          "name": "Tiger",
+          "url": "https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196603,
+      "name": "Du f\u00e5r allt",
+      "url": "https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk"
     },
     {
       "album": {
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 238481,
       "name": "Dumba Nengue",
       "url": "https://open.spotify.com/track/2PBWMips0ip5rBS5rhzpjI"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 269866,
       "name": "En fattig munk fr\u00e5n Skara",
       "url": "https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 160000,
       "name": "Evigt ung",
       "url": "https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 160384,
       "name": "Faller",
       "url": "https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 178391,
       "name": "F\u00f6r mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/3sebHi40n34U0IeL7LpH9q"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 186301,
       "name": "F\u00f6rlorat mot v\u00e4rlden",
       "url": "https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 160327,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 303311,
       "name": "Love And Appreciation",
       "url": "https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 169230,
       "name": "L\u00e5t Tystnaden Tala",
       "url": "https://open.spotify.com/track/6CNipGzy4tNHZ1HBA5zdhj"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 170811,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 242526,
       "name": "Nonono",
       "url": "https://open.spotify.com/track/3yfMnmyvUPamwT4aXCORmk"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 161453,
       "name": "Nu Brinner \u00c4ngarna",
       "url": "https://open.spotify.com/track/3RmmF7UZoucWbBy8zuG3T5"
@@ -2871,7 +2889,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 167080,
       "name": "P\u00e5 en buss",
       "url": "https://open.spotify.com/track/5eZ5OiDd7jbFQuVAJfz6QZ"
@@ -3019,7 +3037,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 175876,
       "name": "R\u00e4kna dagar",
       "url": "https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef"
@@ -3037,7 +3055,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 161221,
       "name": "Sad boy",
       "url": "https://open.spotify.com/track/4PkP9bwUUDOy616Ve9qEid"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 173650,
       "name": "Som du vill",
       "url": "https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn"
@@ -3611,7 +3629,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 176452,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i"
@@ -3777,7 +3795,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 271160,
       "name": "Tenerife Sea",
       "url": "https://open.spotify.com/track/5bimLyQiJGIphZSs1e0HPB"
@@ -3867,7 +3885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 178832,
       "name": "Touch Yourself",
       "url": "https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf"
@@ -3921,7 +3939,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 194595,
       "name": "Var \u00e4r du?",
       "url": "https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW"
@@ -4087,7 +4105,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Vinna \u2013 Spotify Studio Recording (fr\u00e5n \"De fria\")",
       "url": "https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s"
@@ -4297,7 +4315,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 243203,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1"

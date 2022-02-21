@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: STUTS \u00d7 tofubeats",
+  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: \u5e73\u4e95 \u5927",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "3\u6708\u306e\u5e30\u308a\u9053",
+        "url": "https://open.spotify.com/album/4X3LwKBdbwqznwtNPenS62"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218819,
+      "name": "3\u6708\u306e\u5e30\u308a\u9053",
+      "url": "https://open.spotify.com/track/609ZaFJuwGmqSsCDFCYIwG"
+    },
     {
       "album": {
         "name": "ACTION (with ZAZEN BOYS)",
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 202052,
       "name": "Boots",
       "url": "https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC"
@@ -352,6 +370,42 @@
     },
     {
       "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/4ZBbuXeSh1tXFKW1KuUbXh"
+      },
+      "artists": [
+        {
+          "name": "Tomohisa Yamashita",
+          "url": "https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186623,
+      "name": "Face To Face",
+      "url": "https://open.spotify.com/track/6NOrFgIJyaZ50hN3FxrPLl"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207006,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
+    },
+    {
+      "album": {
         "name": "FiNAL SHiTS",
         "url": "https://open.spotify.com/album/3UFM7yNZ0Rndf5KtjGNM7U"
       },
@@ -399,7 +453,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 234879,
       "name": "Flare",
       "url": "https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR"
@@ -523,7 +577,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
@@ -617,6 +671,28 @@
       "duration_ms": 290600,
       "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
       "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
+    },
+    {
+      "album": {
+        "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347096,
+      "name": "Midnight Pretenders (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL"
     },
     {
       "album": {
@@ -732,6 +808,28 @@
     },
     {
       "album": {
+        "name": "Scratch",
+        "url": "https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC"
+      },
+      "artists": [
+        {
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        },
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265420,
+      "name": "Scratch",
+      "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
+    },
+    {
+      "album": {
         "name": "FOREVER DAZE",
         "url": "https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD"
       },
@@ -751,6 +849,46 @@
       "duration_ms": 245933,
       "name": "SHIWAKUCHA",
       "url": "https://open.spotify.com/track/3tRunVnKgrnK0fdNLEXMlq"
+    },
+    {
+      "album": {
+        "name": "STAR TRAIN",
+        "url": "https://open.spotify.com/album/74di94ym4qompX7rxSl8kb"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274346,
+      "name": "STAR TRAIN",
+      "url": "https://open.spotify.com/track/0iB3hXMWoXsBVyTpnac2EY"
+    },
+    {
+      "album": {
+        "name": "Starstruck (SIRUP Remix)",
+        "url": "https://open.spotify.com/album/4iMlNNlVHYARdzZkSwAb7m"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207289,
+      "name": "Starstruck - SIRUP Remix",
+      "url": "https://open.spotify.com/track/73k6lk5UIR8vVH2E3qHQki"
     },
     {
       "album": {
@@ -805,7 +943,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 194306,
       "name": "The Warrior",
       "url": "https://open.spotify.com/track/3T0YnUKkgr17L17H12wUSD"
@@ -1221,7 +1359,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 198727,
       "name": "\u3082\u3057\u3082\u3001\u50d5\u304c\u3044\u306a\u304f\u3066\u3082\u3002",
       "url": "https://open.spotify.com/track/0dCZIpFLi9I0Cu5cYbGpKX"
@@ -1279,7 +1417,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 266158,
       "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
       "url": "https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6"
@@ -1319,6 +1457,28 @@
       "duration_ms": 249426,
       "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
       "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
+    },
+    {
+      "album": {
+        "name": "LOOP END / LOOP START (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4x3VLHO2P4ENCNfiMKlZfi"
+      },
+      "artists": [
+        {
+          "name": "KREVA",
+          "url": "https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R"
+        },
+        {
+          "name": "ZORN",
+          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "\u30af\u30e9\u30d5\u30c8 feat. ZORN",
+      "url": "https://open.spotify.com/track/3SK8OeL2MYLg77zEqbMyzh"
     },
     {
       "album": {
@@ -1863,7 +2023,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 217166,
       "name": "\u541b\u306b\u89e6\u308c\u305f\u6642\u304b\u3089",
       "url": "https://open.spotify.com/track/0HySSZyKbJG9MDIQnS9ivD"
@@ -2317,7 +2477,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 194823,
       "name": "\u9032\u3081!\u305d\u3063\u3061\u3060!",
       "url": "https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8"

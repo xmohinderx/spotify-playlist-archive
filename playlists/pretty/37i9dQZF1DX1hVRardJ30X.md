@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,600 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,710 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 20 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 |
 | 21 | [Dead Leaves](https://open.spotify.com/track/6GoHJOvRcdEPmcjgylYg1b) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dead Leaves](https://open.spotify.com/album/1P1LPexTVBon26jRalV2Fb) | 2:12 |
 | 22 | [NO TE VAYAS](https://open.spotify.com/track/1KmpV6vxj0Mk8ifeLGfvpB) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NO TE VAYAS](https://open.spotify.com/album/2PDfsbr1PqRi3v9rOnECUi) | 3:10 |
-| 23 | [Las Niñas Malas \(ft\. Edwin Luna y La Trakalosa de Monterey\)](https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Las Niñas Malas \(ft\. Edwin Luna y La Trakalosa de Monterey\)](https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX) | 3:03 |
+| 23 | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Las Niñas Malas \(ft\. Edwin Luna y La Trakalosa de Monterey\)](https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX) | 3:03 |
 | 24 | [INCONDICIONAL](https://open.spotify.com/track/0rvx4regy5YvkNaFb15fCQ) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [INCONDICIONAL](https://open.spotify.com/album/64myzmPvZgt1KK6x2jmIRz) | 2:36 |
 | 25 | [Dinero En Movimiento](https://open.spotify.com/track/0rcYXM0d7nsjsU480o0y1M) | [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Dinero en Movimiento](https://open.spotify.com/album/0V3H8Ny1HOjb8NpKF25fg7) | 2:41 |
 | 26 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 |

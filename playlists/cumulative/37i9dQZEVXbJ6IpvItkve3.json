@@ -2741,7 +2741,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
@@ -2889,7 +2889,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
@@ -2911,7 +2911,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -3875,6 +3875,28 @@
       "duration_ms": 187901,
       "name": "\u05d4\u05d9\u05d9 \u05d1\u05d9\u05d9\u05d1",
       "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05db\u05d9 \u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d9\u05da",
+        "url": "https://open.spotify.com/album/3lw6fJkAZ7btTA2W8e9MMt"
+      },
+      "artists": [
+        {
+          "name": "Elai Botner",
+          "url": "https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0"
+        },
+        {
+          "name": "Avraham Aviv Alush",
+          "url": "https://open.spotify.com/artist/5hoXNR3dL6TafUYqk8b1m2"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231242,
+      "name": "\u05d4\u05db\u05d9 \u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d9\u05da",
+      "url": "https://open.spotify.com/track/7xluxbbxxQ8ovB6xrJUlim"
     },
     {
       "album": {
@@ -4927,7 +4949,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 180000,
       "name": "\u05de\u05d9\u05dd \u05e2\u05de\u05d5\u05e7\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2EHfaOBfI8SCUntirG9ygB"
@@ -5805,7 +5827,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 238089,
       "name": "\u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"

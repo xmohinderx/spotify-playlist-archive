@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 234520,
       "name": "Blood Red Blues",
       "url": "https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
@@ -257,6 +257,24 @@
       "duration_ms": 230533,
       "name": "Fish Outta Water",
       "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
+    },
+    {
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1j8CRRMzesefIQaVh1y4R1"
     },
     {
       "album": {
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 271866,
       "name": "Hard Times, Bad Decisions",
       "url": "https://open.spotify.com/track/3Y7UdjWcTTYUwzJlhQb1nU"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 197640,
       "name": "Heavy Hearts Hard Fists",
       "url": "https://open.spotify.com/track/4VNNhbYDAt5SjXN5RERGiC"
@@ -650,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
+      },
+      "artists": [
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
+    },
+    {
+      "album": {
         "name": "Texas Hold 'Em",
         "url": "https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui"
       },
@@ -661,7 +697,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 207640,
       "name": "Love's Truly Blind",
       "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"
@@ -769,7 +805,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 249760,
       "name": "Now You Want Me Back",
       "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
@@ -787,7 +823,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "Nowhere Left to Go",
       "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
@@ -827,6 +863,24 @@
       "duration_ms": 255106,
       "name": "Party at Red's",
       "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
+    },
+    {
+      "album": {
+        "name": "Heart of Fire",
+        "url": "https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285369,
+      "name": "Played the Game",
+      "url": "https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI"
     },
     {
       "album": {
@@ -967,7 +1021,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 243200,
       "name": "She Was a Doorman",
       "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
@@ -1079,7 +1133,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 269333,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/3ZFwoOTjcVzVOcFM08NsjG"
@@ -1133,7 +1187,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 213888,
       "name": "They Never Pay Me",
       "url": "https://open.spotify.com/track/4I7exgZnKPQeLgzRAsx77r"
@@ -1259,7 +1313,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 244429,
       "name": "Woman Like Me",
       "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"

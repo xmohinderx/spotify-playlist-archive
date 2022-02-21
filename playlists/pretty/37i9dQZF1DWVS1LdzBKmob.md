@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Bowls, tones and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,162 likes - 62 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,380 likes - 62 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

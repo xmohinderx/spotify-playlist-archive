@@ -1400,6 +1400,36 @@
     },
     {
       "album": {
+        "name": "We Werk Together",
+        "url": "https://open.spotify.com/album/3NmASjEdI9UBllWhOi0hc4"
+      },
+      "artists": [
+        {
+          "name": "Ant & Dec",
+          "url": "https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ"
+        },
+        {
+          "name": "The Vivienne",
+          "url": "https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp"
+        },
+        {
+          "name": "Lawrence Chaney",
+          "url": "https://open.spotify.com/artist/6VKhOZsGPstcHvIA3fQKx6"
+        },
+        {
+          "name": "Krystal Versace",
+          "url": "https://open.spotify.com/artist/3oIIy9wJdxlRoJ1Mz9yckv"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216506,
+      "name": "We Werk Together",
+      "url": "https://open.spotify.com/track/1qEYTQ8yEIp3LBuUf4e51I"
+    },
+    {
+      "album": {
         "name": "Weight (feat. Epiphany Mattel)",
         "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
       },

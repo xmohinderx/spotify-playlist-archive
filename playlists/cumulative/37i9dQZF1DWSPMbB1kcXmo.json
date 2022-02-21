@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Aesthetic",
+        "url": "https://open.spotify.com/album/4A5jNEDsbTdHhcPOwqtiU4"
+      },
+      "artists": [
+        {
+          "name": "Xilo",
+          "url": "https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158435,
+      "name": "Aesthetic",
+      "url": "https://open.spotify.com/track/4jY3GWEqlrTALvVE1j7VHI"
+    },
+    {
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 166355,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/2NeyJbL3ROKCjRkAjs77ya"
@@ -243,7 +261,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 154805,
       "name": "Bundles (feat. Taylor Girlz)",
       "url": "https://open.spotify.com/track/3QqYZWQLn0evKMIRlGJeeR"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 112493,
       "name": "CITY OF ANGELS",
       "url": "https://open.spotify.com/track/6ap9lSRJ0iLriGLqoJ44cq"
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 177855,
       "name": "Kolors",
       "url": "https://open.spotify.com/track/4IOYk6epkzXT38U4ShauZ6"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 128925,
       "name": "My Heart Went Oops",
       "url": "https://open.spotify.com/track/42EG9CclEoBnRq7X5B7O9j"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 265263,
       "name": "Photo ID",
       "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 204533,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 114500,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/614OkajfRPH8V0ugNQnduP"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"

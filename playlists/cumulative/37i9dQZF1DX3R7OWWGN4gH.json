@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 210274,
       "name": "A Little Wicked",
       "url": "https://open.spotify.com/track/0ZPMI8Gnz7p6omBBIOwiO9"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 188853,
       "name": "Death Of Us",
       "url": "https://open.spotify.com/track/1b7kH8a40bQ0ttYPNdxrn6"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 150226,
       "name": "Drinks",
       "url": "https://open.spotify.com/track/7c2ag2Q4vhJyjDANataJj2"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 177028,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 144761,
       "name": "Loki Green Theme",
       "url": "https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz"
@@ -1777,7 +1777,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 167613,
       "name": "Smoke Hole - Edit",
       "url": "https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9"
@@ -2061,6 +2061,24 @@
       "duration_ms": 199125,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
+    },
+    {
+      "album": {
+        "name": "Why'd You Only Call Me When You're High?",
+        "url": "https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152227,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8"
     },
     {
       "album": {

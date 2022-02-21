@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > ¡No busques más! La música del momento está aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,032 likes - 36 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,096 likes - 36 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 229266,
       "name": "Angel Of Harlem",
       "url": "https://open.spotify.com/track/0d4IA7JzKTJmE0fW2pHMWn"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 243693,
       "name": "As The Days Go By",
       "url": "https://open.spotify.com/track/6Db0KKhX0PyugOXLUrDqXH"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 333506,
       "name": "Get Outta My Dreams, Get into My Car",
       "url": "https://open.spotify.com/track/3v8vsQfMQio7ohYqFrEsaZ"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 219133,
       "name": "Hot In The City",
       "url": "https://open.spotify.com/track/71mHuudrRg9RBLxdx1ccOV"
@@ -750,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325266,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
+    },
+    {
+      "album": {
         "name": "Sunshine on Leith",
         "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
       },
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 274520,
       "name": "Rooms on Fire",
       "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 247333,
       "name": "She Has to Be Loved",
       "url": "https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4yy9bqYoWZaU3VJjGDkHOw"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 253253,
       "name": "That's When I Think of You",
       "url": "https://open.spotify.com/track/33q2gObaCllLh0Yt05Tsu7"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"

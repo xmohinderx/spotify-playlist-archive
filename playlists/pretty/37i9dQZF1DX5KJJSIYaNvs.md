@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover:   Tulsi Kumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,098 likes - 41 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,170 likes - 41 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 20 | [Rait Zara Si](https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 4:51 |
 | 21 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 |
 | 22 | [Mehendi](https://open.spotify.com/track/672zT7O2KYhgVZTst3lPxf) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Mehendi](https://open.spotify.com/album/3yVQbqRXXRmyULMFCPKYh1) | 4:06 |
-| 23 | [Uff](https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Uff](https://open.spotify.com/album/3SgWMdnqxO5uPCvPDav4Wm) | 3:19 |
+| 23 | [Uff](https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Uff](https://open.spotify.com/album/3SgWMdnqxO5uPCvPDav4Wm) | 3:19 |
 | 24 | [Mere Sohneya](https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:13 |
 | 25 | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Lalit Sen](https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS) | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS) | 4:16 |
 | 26 | [Mera Yaar](https://open.spotify.com/track/64jOyhiu4UPPnkSbG0t489) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Mera Yaar](https://open.spotify.com/album/3d01wHpz2Wvm9sJ1qwZGG2) | 3:12 |

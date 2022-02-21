@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTtzPKJEaTC4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtzPKJEaTC4)
 
-### [Jon Batiste Digs Jazz](https://open.spotify.com/playlist/2qMzxMtm3OKS2mUDUNdDKU)
+### [Jon Batiste Digs Jazz](https://open.spotify.com/playlist/4tgoVQ7XUvBGHfWEkbJpNE)
 
 > <a href="spotify:artist:0eRbECAGCLLiTyVXPBRexU">Jon Batiste</a> shares his jazz favorites
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,829 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,880 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 57 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 |
 | 58 | [Dooja Pyaar](https://open.spotify.com/track/4MqRN7DQQXxxU4eZdC0zcb) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Dooja Pyaar](https://open.spotify.com/album/0afQrKmoC6O3Pm8kTWgs7E) | 3:08 |
 | 59 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 |
-| 60 | [Uff](https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Uff](https://open.spotify.com/album/3SgWMdnqxO5uPCvPDav4Wm) | 3:19 |
+| 60 | [Uff](https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Uff](https://open.spotify.com/album/3SgWMdnqxO5uPCvPDav4Wm) | 3:19 |
 | 61 | [Weekend](https://open.spotify.com/track/4Su7DHadrVmCFuxU972eTc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Weekend](https://open.spotify.com/album/5CWJfhgBQzYb3GbIfpjvw1) | 2:50 |
 | 62 | [Libaas](https://open.spotify.com/track/0vqw3BCyNr3DDVBmjD21H8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Libaas](https://open.spotify.com/album/1zCJSedSGgctXkJ3HnQCfC) | 4:27 |
 | 63 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 |

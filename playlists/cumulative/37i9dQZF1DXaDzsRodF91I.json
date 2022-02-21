@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 183931,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 135710,
       "name": "Armatage Shanks",
       "url": "https://open.spotify.com/track/5gDeBhj8E0e6LwjEGGihee"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 212240,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/4Z7rxBIhhMBa8NcntQju0P"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 256066,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3xwADsuFthf2vaC0vsOgmp"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 181598,
       "name": "Forget Me Too",
       "url": "https://open.spotify.com/track/6E9Q1nAdi7S0LrogwfpKdZ"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 213293,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY"
@@ -926,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/1nF5bO8RLUwZZIroh0DBUC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126542,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/6WluTwOTLpPTSxSNIzj1cA"
+    },
+    {
+      "album": {
         "name": "Motown Classics",
         "url": "https://open.spotify.com/album/4wvC1zW5MgON5jkSVKPvWc"
       },
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 211722,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pEy3cfq0SyFDGKtuIE7V7"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 211279,
       "name": "Reality Is a Ride on the Bus",
       "url": "https://open.spotify.com/track/325dEBL9MWkSl4xymaTckx"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 71214,
       "name": "Say Anything - Skate-Aid Charity",
       "url": "https://open.spotify.com/track/2M5me6foO4D3AiIrGuzXoC"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 185350,
       "name": "Sometimes I Don't Mind",
       "url": "https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 196000,
       "name": "Wake Me Up When September Ends",
       "url": "https://open.spotify.com/track/32fMYulgmRX6IxScMwQsdW"
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 123900,
       "name": "We Are 138",
       "url": "https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA"
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 267567,
       "name": "White Woman\u2019s Instagram",
       "url": "https://open.spotify.com/track/7rZWDPaEop6YlaCreDNb2T"
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 287371,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/3eTIIxKxzMmbZbQbYnJhVI"
@@ -2305,7 +2323,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 242419,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/3wDdjLO3qkQ9CSF2nMKld7"

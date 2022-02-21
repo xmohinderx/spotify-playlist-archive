@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/12bqfaU1WWmN4REkJOqQOd"
+      },
+      "artists": [
+        {
+          "name": "MIGI",
+          "url": "https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210149,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/4lhNy5ouftIuxPuISfEk16"
+    },
+    {
+      "album": {
         "name": "MP3",
         "url": "https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ"
       },
@@ -671,6 +689,24 @@
       "duration_ms": 148226,
       "name": "Casa de papel (feat. Asme)",
       "url": "https://open.spotify.com/track/6GJS8UQTS1UGwKXlpbmpzC"
+    },
+    {
+      "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/12bqfaU1WWmN4REkJOqQOd"
+      },
+      "artists": [
+        {
+          "name": "MIGI",
+          "url": "https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131300,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/3TmRHAMDibBNkaPQ9MVX1c"
     },
     {
       "album": {
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 126857,
       "name": "KALLARNA",
       "url": "https://open.spotify.com/track/23QBUPGX3M7NcZZgVncrxT"
@@ -2907,7 +2943,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 175304,
       "name": "Sk\u00e5la & Fira",
       "url": "https://open.spotify.com/track/7nKgoOfVoQTKd7swVaGLJv"

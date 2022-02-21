@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 198333,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/7dDtjTlMhLhkuugxXrcJz1"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 176542,
       "name": "already there",
       "url": "https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 243090,
       "name": "altar",
       "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Background Music",
+        "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Background Music",
+      "url": "https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH"
       },
@@ -439,7 +457,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 165686,
       "name": "Breakdown (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 199773,
       "name": "Catch Myself",
       "url": "https://open.spotify.com/track/6accWkHJFVQElZ5aTwdBMQ"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 179796,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 183723,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/12e5rUktNoga7mdtziCw33"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 212493,
       "name": "Devil On My Shoulder",
       "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 213869,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 172072,
       "name": "I Give Everything",
       "url": "https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 152840,
       "name": "Kiss The World Goodbye",
       "url": "https://open.spotify.com/track/3oUvvUcdQCOEPujLfd805G"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 181182,
       "name": "Know It All",
       "url": "https://open.spotify.com/track/1p4WB0tCCYcoJKFNwMVUZ4"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 187309,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 238557,
       "name": "life sentence",
       "url": "https://open.spotify.com/track/54nRf8BUmZNITMxpKIM8Dj"
@@ -2427,7 +2445,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 191574,
       "name": "Love for a Minute",
       "url": "https://open.spotify.com/track/3GKIhntQhBqD6PRWscMLs1"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 197035,
       "name": "no excuses",
       "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 171613,
       "name": "Perfect Conditions",
       "url": "https://open.spotify.com/track/5PegehfZSBLp5HZ8OuUJQz"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
@@ -3054,6 +3072,24 @@
     },
     {
       "album": {
+        "name": "Roll the Credits",
+        "url": "https://open.spotify.com/album/3SF9khf8m04qurRv0gj4vN"
+      },
+      "artists": [
+        {
+          "name": "CAL",
+          "url": "https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139474,
+      "name": "Roll the Credits",
+      "url": "https://open.spotify.com/track/0NuaTWjCPxj1V0toBiHax1"
+    },
+    {
+      "album": {
         "name": "ROOM FOR 2",
         "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
@@ -3065,7 +3101,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 151500,
       "name": "ROOM FOR 2",
       "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
@@ -3185,7 +3221,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 179043,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/1pTIxaK8mVQdj53bdy2Njp"
@@ -3457,7 +3493,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 176557,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6TMXLsuPMArdRn5q0EGWPg"
@@ -3547,7 +3583,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 203258,
       "name": "The 90s",
       "url": "https://open.spotify.com/track/6xmlFb4Ld15YysAmRQ545N"
@@ -3825,7 +3861,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 227885,
       "name": "We Cry",
       "url": "https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3"
@@ -3927,6 +3963,24 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+    },
+    {
+      "album": {
+        "name": "When You Lose Someone",
+        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200282,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
     },
     {
       "album": {
@@ -4187,7 +4241,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 171833,
       "name": "You Can Have It",
       "url": "https://open.spotify.com/track/03hQ7ytkgLBOjPAngL54Ha"

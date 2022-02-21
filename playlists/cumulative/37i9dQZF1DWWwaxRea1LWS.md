@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday](https://open.spotify.com/playlist/2yXr2sJKdcvSqNFB56eYbH)
 
-> \#SpotifyTBT is your afterparty after Sunday's big game\. Cover: Mary J Blige
+> \#SpotifyTBT is your afterparty after last week's big game\. Cover: Mary J Blige
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

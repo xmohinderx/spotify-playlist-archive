@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 230400,
       "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 177184,
       "name": "Chill Bill (feat. J. Davi$ & Spooks)",
       "url": "https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 187819,
       "name": "FWMGAB",
       "url": "https://open.spotify.com/track/52ekzF7DfQBszZq87MIbPY"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 214727,
       "name": "Go Hard 2.0",
       "url": "https://open.spotify.com/track/1wSAAx6UHuQurUBHGM95og"
@@ -1144,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL"
+    },
+    {
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 170808,
       "name": "Jumpin Out The Face",
       "url": "https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 171273,
       "name": "Kobe (feat. Snoop Dogg & Derrick Milano)",
       "url": "https://open.spotify.com/track/6KNkwW52dda5lTGf10KLXn"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 199680,
       "name": "Mask (feat. Antha Pantha)",
       "url": "https://open.spotify.com/track/206Hn1SQQ0VZI1QEpq5T0A"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 178216,
       "name": "Moana",
       "url": "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 241790,
       "name": "Modern Day",
       "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 225866,
       "name": "That Go! (feat. T-Shyne)",
       "url": "https://open.spotify.com/track/4X4cPQicoAfannkUFUXmi9"
@@ -2885,7 +2903,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 252728,
       "name": "The Bigger Picture",
       "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 136939,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/2bo0HCDcZj8BYjoht9zYgk"
@@ -3077,7 +3095,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 161377,
       "name": "Turks (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf"
@@ -3319,7 +3337,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 152263,
       "name": "Why Would I Stop?",
       "url": "https://open.spotify.com/track/46hDiH4YvAWXE04GskkIHS"
@@ -3381,7 +3399,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 111386,
       "name": "You Know",
       "url": "https://open.spotify.com/track/1ioaV68BICIiSHpcqSUVHR"

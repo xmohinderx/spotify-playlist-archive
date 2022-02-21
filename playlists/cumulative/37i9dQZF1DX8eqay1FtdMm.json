@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 259079,
       "name": "A Daily Song",
       "url": "https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 200000,
       "name": "Ending",
       "url": "https://open.spotify.com/track/43fbEuz1jtCnKji8WYxoeR"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 263640,
       "name": "Fixed On You",
       "url": "https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 220653,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/7bcfyB9jvnfkgLpIjZjL4Q"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 169448,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 285040,
       "name": "I See You (Feat. Dongha)",
       "url": "https://open.spotify.com/track/7ukwiVFOiH3Jh8ETip7qk9"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 248066,
       "name": "Is it me?",
       "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
@@ -1536,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "Calendar Of 2BIC (August)",
+        "url": "https://open.spotify.com/album/3c8FoccgwEnlIVbF2fSItA"
+      },
+      "artists": [
+        {
+          "name": "2BiC",
+          "url": "https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276245,
+      "name": "My Only One",
+      "url": "https://open.spotify.com/track/3wbPvkTGox700oY5oDJPzY"
+    },
+    {
+      "album": {
         "name": "My Regards",
         "url": "https://open.spotify.com/album/4dQNU5BC5veIyH0nRFE51s"
       },
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 258933,
       "name": "Not Anyone Else",
       "url": "https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 272573,
       "name": "On A Starry Night",
       "url": "https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 249723,
       "name": "One Sided Love",
       "url": "https://open.spotify.com/track/0d4VN98EgAtxFcKfjc5Kdw"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 237813,
       "name": "Press",
       "url": "https://open.spotify.com/track/0M6VybCyWscrHKcf8ZIzgU"
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 305895,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/761kP7yDzrhyFjn6Og7Piz"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 311544,
       "name": "This Song",
       "url": "https://open.spotify.com/track/7GyKbTE1bVgWXr3tiqp3H1"
@@ -2497,7 +2515,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 264678,
       "name": "Will Last Forever",
       "url": "https://open.spotify.com/track/3z44VMUFtXkJ54xIbd2Qb2"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "You&I \uc778\uc0ac",
       "url": "https://open.spotify.com/track/6AoISiNZ4ibepHHkBGHvNH"

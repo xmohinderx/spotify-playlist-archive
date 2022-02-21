@@ -270,6 +270,28 @@
     },
     {
       "album": {
+        "name": "Teen Devian (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6mjTV2OPr5SBOd1IMvkyQ9"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319626,
+      "name": "Are Yaar Meri Tum Bhi Ho Ghazab",
+      "url": "https://open.spotify.com/track/5FO1zavDG1mokYqXAxc1Br"
+    },
+    {
+      "album": {
         "name": "MasterWorks - R.D. Burman",
         "url": "https://open.spotify.com/album/02cSDnvDtAGO5fLwZg9DVp"
       },
@@ -321,7 +343,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 339066,
       "name": "Aye-Dil-E-Nadan, Pt. 1",
       "url": "https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J"
@@ -401,7 +423,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 241666,
       "name": "Bahon Mein Chale Aao",
       "url": "https://open.spotify.com/track/2IWhu2HrHttIUcw0Omn1Gr"
@@ -637,7 +659,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 293133,
       "name": "Din Dhal Jaye Haye",
       "url": "https://open.spotify.com/track/1evr0DxRGaAueBzGLwMyc5"
@@ -751,7 +773,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Ek Main Aur Ek Tu",
       "url": "https://open.spotify.com/track/5tv9IxamGdeRWjzGgPOjMD"
@@ -875,7 +897,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 202800,
       "name": "Ja Ja Ja Bewafa",
       "url": "https://open.spotify.com/track/2YOrtoBfiRi3dCOzMtYtnW"
@@ -1013,7 +1035,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 298579,
       "name": "Kabhi Kabhi Mere Dil Mein Duet",
       "url": "https://open.spotify.com/track/46bHffIYlRKDZJG1Wbv8vi"
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 257613,
       "name": "Lag Ja Gale Se Phir",
       "url": "https://open.spotify.com/track/1kKxvLPfgpG5NRJ9MAmYsu"
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 398973,
       "name": "Mera Kuchh Samaan",
       "url": "https://open.spotify.com/track/1ktCVRr2DZdKpDmhEuHBq2"
@@ -1331,7 +1353,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 247546,
       "name": "Na Jao Saiyan Chhuda Ke Baiyan",
       "url": "https://open.spotify.com/track/0ZuHdH0acs3EmaukBgzJQk"
@@ -1425,7 +1447,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 269717,
       "name": "O Saathi Re - Male Vocals",
       "url": "https://open.spotify.com/track/63S7VKZE3X5wHVTmSwxuSF"
@@ -1443,7 +1465,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 329066,
       "name": "Pal Pal Dil Ke Paas - Blackmail / Soundtrack Version",
       "url": "https://open.spotify.com/track/0HI3O9uCBWtu7B3boRpCaL"
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 509466,
       "name": "Piya Tose Naina Laage Re",
       "url": "https://open.spotify.com/track/6yoT89zUSra0wzS1DKFC1w"
@@ -1527,7 +1549,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 284133,
       "name": "Pyar Diwana Hota Hai (From \"Kati Patang\")",
       "url": "https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e"
@@ -1789,7 +1811,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 210733,
       "name": "Tumsa Nahin Dekha",
       "url": "https://open.spotify.com/track/19XGh74why406tLVd0ddVt"
@@ -1909,7 +1931,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 226680,
       "name": "Yeh Mera Diwanapan Hai",
       "url": "https://open.spotify.com/track/6O9tpC8F1dzV1JhkiGQ5iU"
@@ -1971,7 +1993,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 201160,
       "name": "Yeh Raaten Yeh Mausam",
       "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"
@@ -1989,7 +2011,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 276855,
       "name": "Yeh Sham Mastani",
       "url": "https://open.spotify.com/track/3BjAnJwtlVoS7m3kdb6Y8i"

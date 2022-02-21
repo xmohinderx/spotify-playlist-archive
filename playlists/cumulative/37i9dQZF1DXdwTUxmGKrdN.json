@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 238876,
       "name": "Affection",
       "url": "https://open.spotify.com/track/1ViDanY5GxpDf2PITZAh5L"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 263106,
       "name": "Afternoon Delight",
       "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 222670,
       "name": "Around the Block",
       "url": "https://open.spotify.com/track/2Q5tHXr0obkhR9YhZR5DXB"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 316117,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/2bHolL4D662FmrebKPp1qO"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 314312,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 262640,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 266145,
       "name": "Groovin' J",
       "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "Happy Go Lucky",
       "url": "https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 285500,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 227752,
       "name": "It's On Now",
       "url": "https://open.spotify.com/track/7qXLWmM1TzvksNaXOpjkB5"
@@ -899,10 +899,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 251702,
       "name": "JJ's Strut (Radio Single)",
       "url": "https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI"
+    },
+    {
+      "album": {
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263493,
+      "name": "Just Dance (feat. Dave Koz)",
+      "url": "https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1"
     },
     {
       "album": {
@@ -917,7 +939,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 244450,
       "name": "Just Once (Radio Edit)",
       "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
@@ -953,7 +975,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 289240,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
@@ -1007,7 +1029,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 260746,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
@@ -1025,7 +1047,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
@@ -1043,7 +1065,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 253577,
       "name": "Listen to This",
       "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 269106,
       "name": "Mr Kool",
       "url": "https://open.spotify.com/track/5svERXp8eoh8MydumgnC0J"
@@ -1193,7 +1215,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 278200,
       "name": "My Song for You",
       "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
@@ -1211,7 +1233,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 239949,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
@@ -1269,7 +1291,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 212613,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo"
@@ -1389,7 +1411,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 292253,
       "name": "Release",
       "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
@@ -1443,7 +1465,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 260886,
       "name": "Sample That",
       "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 313973,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
@@ -1533,7 +1555,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 266338,
       "name": "Soul Vibration",
       "url": "https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB"
@@ -1775,7 +1797,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 240172,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"

@@ -1,12 +1,12 @@
 {
   "description": "next gen pop featuring Sabrina Carpenter",
-  "num_followers": 1021618,
+  "num_followers": 1022585,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDU1MCwwMDAwMDVjMjAwMDAwMTdmMGIzNWQwNDYwMDAwMDE3ZjAwYTEzMTRm",
+  "snapshot_id": "MTY0NTM5OTAyOSwwMDAwMDVjNDAwMDAwMTdmMTk2Y2I2OWIwMDAwMDE3ZjAwYTEzMTRm",
   "tracks": [
     {
       "added_at": "2022-01-21 05:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "Love You Still (abcdefu romantic version)",
+        "url": "https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Love You Still (abcdefu romantic version)",
+      "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8"
       },
@@ -425,6 +441,22 @@
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "YES MOM",
+        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "YES MOM",
+      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "debbie downer",
@@ -461,6 +493,22 @@
       "url": "https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh"
     },
     {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "fingers crossed",
+        "url": "https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 163090,
+      "name": "fingers crossed",
+      "url": "https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y"
+    },
+    {
       "added_at": "2022-02-10 00:29:27",
       "album": {
         "name": "Teenage Mona Lisa",
@@ -475,22 +523,6 @@
       "duration_ms": 198607,
       "name": "Teenage Mona Lisa",
       "url": "https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Love You Still (abcdefu romantic version)",
-        "url": "https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Love You Still (abcdefu romantic version)",
-      "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -657,22 +689,6 @@
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "fingers crossed",
-        "url": "https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 163090,
-      "name": "fingers crossed",
-      "url": "https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Long Drives",
@@ -771,22 +787,6 @@
       "duration_ms": 194253,
       "name": "Live or Die",
       "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "YES MOM",
-        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "YES MOM",
-      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
     },
     {
       "added_at": "2022-02-04 05:01:00",

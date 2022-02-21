@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 221779,
       "name": "aliens",
       "url": "https://open.spotify.com/track/5hsSyGlzcF4BVXi9eAUMKj"
@@ -1809,7 +1809,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 219026,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 288386,
       "name": "Breathe Deeper - Lil Yachty Remix",
       "url": "https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV"
@@ -3527,7 +3527,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 189628,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
@@ -4169,7 +4169,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 283403,
       "name": "Doing Really Well Thanks",
       "url": "https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5"
@@ -4851,7 +4851,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 155382,
       "name": "Ew",
       "url": "https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju"
@@ -5923,7 +5923,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 147381,
       "name": "Girls In Line for the Bathroom",
       "url": "https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm"
@@ -6103,7 +6103,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 186275,
       "name": "golden retriever boy",
       "url": "https://open.spotify.com/track/20M00steJbkD9bCIUCuHPI"
@@ -7511,7 +7511,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
@@ -8079,7 +8079,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 143529,
       "name": "if u wanna",
       "url": "https://open.spotify.com/track/6mEK3cHEpff9eFfdoWMzns"
@@ -8279,6 +8279,24 @@
       "duration_ms": 219661,
       "name": "Into Waves - MUUUN Remix",
       "url": "https://open.spotify.com/track/6fIqj3bqDFtBLUCboX84bG"
+    },
+    {
+      "album": {
+        "name": "Island of the Sun",
+        "url": "https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176471,
+      "name": "Island of the Sun",
+      "url": "https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0"
     },
     {
       "album": {
@@ -8739,7 +8757,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
@@ -9775,7 +9793,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 164682,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3bT4hHXBasKx8ZUUZFwknt"
@@ -10533,7 +10551,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 157875,
       "name": "Mr Valentine",
       "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
@@ -11095,7 +11113,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 192434,
       "name": "No. 5",
       "url": "https://open.spotify.com/track/1I1pVZ9nhpocyEXKS1ML3A"
@@ -12173,7 +12191,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
@@ -12991,7 +13009,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 112728,
       "name": "running back",
       "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
@@ -13921,6 +13939,24 @@
       "duration_ms": 178713,
       "name": "skeletons",
       "url": "https://open.spotify.com/track/6hrCEU7RtgvQKRDxukLD5F"
+    },
+    {
+      "album": {
+        "name": "in the mirror, in the night",
+        "url": "https://open.spotify.com/album/2a5Xt0sHOpQcHcCfmNYo0p"
+      },
+      "artists": [
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "skin",
+      "url": "https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0"
     },
     {
       "album": {
@@ -15005,7 +15041,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 198592,
       "name": "Sugar Water",
       "url": "https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV"
@@ -17659,7 +17695,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 173912,
       "name": "Winter In LA",
       "url": "https://open.spotify.com/track/2nuOpLwdmen2BRhV2fOvXM"

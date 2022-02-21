@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
@@ -2223,7 +2223,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -5311,7 +5311,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 202093,
       "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
@@ -9886,6 +9886,24 @@
     },
     {
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE (SAVAGE)",
         "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },
@@ -11187,6 +11205,28 @@
       "duration_ms": 194651,
       "name": "\u0420\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/32vRPT2jNoRZRg22GxtY0l"
+    },
+    {
+      "album": {
+        "name": "\u0416\u0435\u0433\u0430 2012",
+        "url": "https://open.spotify.com/album/3g1r6MFUUVNWHnTCxyIPQb"
+      },
+      "artists": [
+        {
+          "name": "Ustata",
+          "url": "https://open.spotify.com/artist/6sGqL21vegtgNafT0a7W8q"
+        },
+        {
+          "name": "Sofi Marinova",
+          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "\u0420\u0435\u0436\u0438 \u0433\u043e \u043d\u0430 \u0434\u0432\u0435 (feat. Sofi Marinova)",
+      "url": "https://open.spotify.com/track/7LyxyTBqwVoevFuByxeiJN"
     },
     {
       "album": {

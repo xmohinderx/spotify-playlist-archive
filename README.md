@@ -1760,6 +1760,8 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [RADAR US \- Artists to Watch](/playlists/pretty/37i9dQZF1DWY0DyDKedRYY.md)
 - [Radar US Latin](/playlists/pretty/37i9dQZF1DXbSwbJpH6lAw.md)
 - [RADAR 新勢力](/playlists/pretty/37i9dQZF1DX2P3E6UOxZyt.md)
+- [RADAR: Early Noise ](/playlists/pretty/37i9dQZF1DX4OR8pnFkwhR.md)
+- [RADAR: First Listen](/playlists/pretty/37i9dQZF1DX9be6QR3XeJp.md)
 - [Radiante](/playlists/pretty/37i9dQZF1DX9c9fpd0lxJ5.md)
 - [Radio Corazón](/playlists/pretty/37i9dQZF1DWSF59R74xaFB.md)
 - [Radio Crime Dramas](/playlists/pretty/37i9dQZF1DXddisSfoYY5n.md)

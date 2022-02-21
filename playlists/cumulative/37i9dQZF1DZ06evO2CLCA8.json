@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 159333,
       "name": "California",
       "url": "https://open.spotify.com/track/3oSl41e3rfJXanYvIufE23"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 220893,
       "name": "Dogs On The Run",
       "url": "https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q"
@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259320,
+      "name": "Green Onions - Live",
+      "url": "https://open.spotify.com/track/5Na9CFg7vuqPBQfXoQy61q"
+    },
+    {
+      "album": {
         "name": "Concert For George (Live)",
         "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 260973,
       "name": "Insider",
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 186733,
       "name": "Kings Highway",
       "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 273600,
       "name": "Mary Jane's Last Dance",
       "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-21",
       "duration_ms": 189266,
       "name": "Two Gunslingers",
       "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
