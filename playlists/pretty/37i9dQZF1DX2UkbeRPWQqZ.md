@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,184 likes - 86 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,215 likes - 86 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 85 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 |
 | 86 | [Lake District](https://open.spotify.com/track/62rk91S0MdArx37LedWsZH) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Lullabies](https://open.spotify.com/album/4WAOzYGmbwp2DaPL5NJsLb) | 1:44 |
 
-Snapshot ID: `MTY0NDQ4NzE3NCwwMDAwMDAwZjAwMDAwMTdlZTMxMmU5YjQwMDAwMDE3OGIxZDJjZDQz`
+Snapshot ID: `MTY0NTQzNTc5MywwMDAwMDAxMjAwMDAwMTdmMWI5ZGFmMWMwMDAwMDE3OGIxZDJjZDQz`

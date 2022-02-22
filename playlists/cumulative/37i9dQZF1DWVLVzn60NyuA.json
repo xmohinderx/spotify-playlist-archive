@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 244615,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 190216,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 189698,
       "name": "Bounce It (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/5NpET8pwPjwxU2XD1W4rT5"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 172146,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/1De4dxD98pz77aeFx0DOdo"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 234650,
       "name": "Causing Trouble",
       "url": "https://open.spotify.com/track/60WTSBZYhVUNQ9ygOpHWiv"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 271040,
       "name": "Finders Keepers",
       "url": "https://open.spotify.com/track/06BD7TeUR6mYbF6cWyzvZt"
@@ -1632,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Formula",
+        "url": "https://open.spotify.com/album/5Vf8VhMcMxNgW5QHoI13Xq"
+      },
+      "artists": [
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "Formula",
+      "url": "https://open.spotify.com/track/2mTxSAaSJXEPaSg9Mxmbdd"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 261914,
       "name": "Freedom Fighter",
       "url": "https://open.spotify.com/track/4wCkYx8eZZUYXtlbvoQ6h8"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 119541,
       "name": "Good Place",
       "url": "https://open.spotify.com/track/0xdSZzzOf3e15T4QgfBEI2"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 237714,
       "name": "If",
       "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 131764,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/3bUnzltFofxPOlZB3PpA4j"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 183773,
       "name": "Ma Play",
       "url": "https://open.spotify.com/track/3ijQFCjoldvRJjOn4AK4iS"
@@ -3037,7 +3055,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 245000,
       "name": "Murder She Wrote",
       "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
@@ -3473,7 +3491,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 190800,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/0onCpID636LlzqZ1OXJcRk"
@@ -3645,7 +3663,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 141030,
       "name": "Ram Pam",
       "url": "https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8"
@@ -3671,7 +3689,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 198120,
       "name": "Ravin'",
       "url": "https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b"
@@ -3959,7 +3977,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 189596,
       "name": "Shaku Shaku",
       "url": "https://open.spotify.com/track/1TCMIBKmQGJ27Rm04bs7dI"
@@ -3981,7 +3999,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 170103,
       "name": "She Got It (with Rafa Pab\u00f6n)",
       "url": "https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby"
@@ -3999,7 +4017,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "Show Them",
       "url": "https://open.spotify.com/track/0F0gYhu89PlecJB3XUi5Jf"
@@ -4017,7 +4035,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 232952,
       "name": "Silly Games",
       "url": "https://open.spotify.com/track/6JiCJrN8tsjG1TLmIL2xRM"
@@ -4163,7 +4181,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 195951,
       "name": "Str3a",
       "url": "https://open.spotify.com/track/4Ytdb0MtQht8jcSnL4B0d5"
@@ -4597,7 +4615,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
@@ -4785,7 +4803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 140500,
       "name": "Waist",
       "url": "https://open.spotify.com/track/09GxVTSERxrO6vWrVunG28"
@@ -4865,7 +4883,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Why",
       "url": "https://open.spotify.com/track/5JivNZTf3Oz2yy5KuSqvFm"
@@ -5017,7 +5035,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 199200,
       "name": "Yuh Know",
       "url": "https://open.spotify.com/track/5Ymzzusy4IzDkh9an3nOxW"

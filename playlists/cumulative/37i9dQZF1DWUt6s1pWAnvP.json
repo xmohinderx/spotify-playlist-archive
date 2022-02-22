@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 166374,
       "name": "- reflects",
       "url": "https://open.spotify.com/track/4JQsnkH5437bTQmh5Hgxti"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 445241,
       "name": "AAE-KZT",
       "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 193933,
       "name": "Amour&Armor",
       "url": "https://open.spotify.com/track/0ZKOHpz4fpYyYE7pKxzVQr"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 157714,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/4YRst0OXQoPEGMbrz4iwUX"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Cello Permutation",
       "url": "https://open.spotify.com/track/60d1vFzqRQyCIqcEVnWohb"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 278760,
       "name": "Chapitre X",
       "url": "https://open.spotify.com/track/0zqkSuDKMu4TNGz0Y9e6Hp"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 273986,
       "name": "Come Softly - For Daniel D.",
       "url": "https://open.spotify.com/track/3JyPrk7TuXyBY5eTmwZsSk"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 334493,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4v93IUVgbQhYSuk75aJhey"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 225742,
       "name": "Driving Towards the Deaths Mycelium",
       "url": "https://open.spotify.com/track/709CSssXkcrwidi6D3LxyQ"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 640908,
       "name": "Flux 2",
       "url": "https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra"
@@ -443,6 +443,42 @@
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
+    },
+    {
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462706,
+      "name": "hearthbound",
+      "url": "https://open.spotify.com/track/4KH973IZxjnBkIUR8HFazj"
+    },
+    {
+      "album": {
+        "name": "Pythagorean Harp & Harmonium Improvisations",
+        "url": "https://open.spotify.com/album/06BF3Y0udQ0cpfDrek0Typ"
+      },
+      "artists": [
+        {
+          "name": "E.J. Gold",
+          "url": "https://open.spotify.com/artist/3mQQKM8cyXKqycR89Yd7kj"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57426,
+      "name": "Improvisations V",
+      "url": "https://open.spotify.com/track/0of2XzbLzcTewzxAuWyToH"
     },
     {
       "album": {
@@ -493,7 +529,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/6E2ZWCcqDfOg1dHtzw99aA"
@@ -663,7 +699,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 135250,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
@@ -681,7 +717,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 469311,
       "name": "Orgias de Bordados",
       "url": "https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje"
@@ -779,7 +815,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 334000,
       "name": "Resta | Torna",
       "url": "https://open.spotify.com/track/3fHurVmQylsskGnPQquGwx"
@@ -943,7 +979,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 413376,
       "name": "Stave Peak",
       "url": "https://open.spotify.com/track/2TyZMiRLC700dSbwGuqPfy"
@@ -979,7 +1015,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 208170,
       "name": "Sutarti VI",
       "url": "https://open.spotify.com/track/441i1aYEL6sOA8qUfMSGc1"
@@ -997,7 +1033,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 358413,
       "name": "The Art of Mirrors (after Derek Jarman)",
       "url": "https://open.spotify.com/track/5pEwaHaIYjpNUilttB5IdV"
@@ -1019,7 +1055,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 114998,
       "name": "The Clam",
       "url": "https://open.spotify.com/track/1LN0IGjQ2PGIboYcNDji9Q"
@@ -1073,7 +1109,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "The Smoke In The Photo - Remastered",
       "url": "https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B"
@@ -1185,7 +1221,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 511730,
       "name": "Wing Pinger 01",
       "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
@@ -1203,7 +1239,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 1397760,
       "name": "Wing Pinger 06",
       "url": "https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5"
@@ -1221,7 +1257,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 101426,
       "name": "Yonder",
       "url": "https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP"

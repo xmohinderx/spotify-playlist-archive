@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Birds In The Barn",
+        "url": "https://open.spotify.com/album/2bSbBJixutzQ4ngTdrPDah"
+      },
+      "artists": [
+        {
+          "name": "Nature Nerd",
+          "url": "https://open.spotify.com/artist/6TH1CGqCrzFrdQFHiYWaaO"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155871,
+      "name": "Birds In The Barn",
+      "url": "https://open.spotify.com/track/0gbrNSQMLwcs8EbBVTIMmE"
+    },
+    {
+      "album": {
         "name": "Birds by the Creek",
         "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
       },

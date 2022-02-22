@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of rap & a little bit of pop\. Cover: Token
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,669 likes - 106 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,734 likes - 106 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

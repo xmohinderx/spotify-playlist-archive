@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZP6bJtKFz1V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZP6bJtKFz1V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZP6bJtKFz1V)
 
-### Et Alt
+### [Et Alt](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 > alternative hits of today, tomorrow, and then some\. Cover: THE BLSSM
 

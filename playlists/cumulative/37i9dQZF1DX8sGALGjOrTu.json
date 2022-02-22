@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 228986,
       "name": "A Toast to the future kids!",
       "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Act Appalled",
       "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "You Come Before You (U.S. Version)",
+        "url": "https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300640,
+      "name": "Apathy Is a Cold Body",
+      "url": "https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK"
+    },
+    {
+      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 249613,
       "name": "Apology",
       "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 358813,
       "name": "Blindfolds Aside",
       "url": "https://open.spotify.com/track/1DFkUwdatSC8hISBU0X1yV"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 181293,
       "name": "Dream to Make Believe",
       "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 149640,
       "name": "False Pretense",
       "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 216133,
       "name": "Hand Of Blood",
       "url": "https://open.spotify.com/track/1z3LsJRCvln5qO5TOLduQM"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Hang 'Em High",
       "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 255840,
       "name": "Knives and Pens",
       "url": "https://open.spotify.com/track/29Od8h2a4HZyD0PZ8SkBo6"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 256600,
       "name": "Let Live",
       "url": "https://open.spotify.com/track/68mQv5RUC8yKiBQxlSl0I4"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 200680,
       "name": "Let The Evil Go East",
       "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "Letters To You",
       "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 200360,
       "name": "Two As One",
       "url": "https://open.spotify.com/track/5c8WgLyOX9u4Al1hTP8tzK"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 247693,
       "name": "Waking the Demon",
       "url": "https://open.spotify.com/track/6RQtpVNDkfM91CpkCuRBzP"
@@ -2385,7 +2403,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 206680,
       "name": "Why 6 is afraid of 7",
       "url": "https://open.spotify.com/track/1yZdPcGLJUXEyjU0b9t3Zz"
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 217826,
       "name": "Young Cardinals",
       "url": "https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr"

@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 473133,
       "name": "Loco De Amor",
       "url": "https://open.spotify.com/track/2WAoShegYKo11YJYcGEo2Y"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 220546,
       "name": "No Es una Novela",
       "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 245866,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 372733,
       "name": "P\u00e9game Tu Vicio",
       "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
@@ -1232,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Con Mas Amor",
+        "url": "https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "Se Te Nota",
+      "url": "https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec"
+    },
+    {
+      "album": {
         "name": "Bachata Simply The Classic",
         "url": "https://open.spotify.com/album/60kBttpr37tLwH4xQAss6s"
       },
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 252466,
       "name": "Si Tu Cari\u00f1o No Esta",
       "url": "https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 213693,
       "name": "Volvio el dolor",
       "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 210680,
       "name": "Volvi\u00f3 El Dolor",
       "url": "https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r"

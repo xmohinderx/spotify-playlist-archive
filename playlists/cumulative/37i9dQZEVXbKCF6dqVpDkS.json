@@ -1908,6 +1908,32 @@
     },
     {
       "album": {
+        "name": "Lituatie",
+        "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
+      },
+      "artists": [
+        {
+          "name": "GLOWINTHEDARK",
+          "url": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164900,
+      "name": "Dansen Op Labanta",
+      "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
+    },
+    {
+      "album": {
         "name": "Dark Side",
         "url": "https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS"
       },
@@ -4299,7 +4325,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 179978,
       "name": "Honderd Ruggen",
       "url": "https://open.spotify.com/track/3oQaT7XX1MpFtDABwHtYoo"

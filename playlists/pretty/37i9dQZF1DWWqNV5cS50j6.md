@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > not not pop\. featuring new music by THE BLSSM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,805 likes - 158 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,867 likes - 158 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

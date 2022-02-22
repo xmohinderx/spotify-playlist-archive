@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Rvfv
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,543 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,025 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 59 | [787](https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [787](https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa) | 3:45 |
 | 60 | [MIONCA AL BLOQUE](https://open.spotify.com/track/0mIFOa5E7widNaQ76voSN1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 2:52 |
 
-Snapshot ID: `MTY0NTQwNDI1NCwwMDAwMDAwMGU0ODM2ZDU1MWM0MDUyNDFhYmYwNDVmOWViZGViOWY4`
+Snapshot ID: `MTY0NTQ5MDY5MiwwMDAwMDAwMGU0ODM2ZDU1MWM0MDUyNDFhYmYwNDVmOWViZGViOWY4`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: M\-Press Live, MB, Boris levrai
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,039 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,048 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mauvaise Humeur](https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:26 |
 | 2 | [Corde à linge](https://open.spotify.com/track/0U4ukkvUsKmvNw4aUMikco) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Corde à linge](https://open.spotify.com/album/7fPC38bEo6lSGyiTk7SNb2) | 3:19 |
 | 3 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 |
-| 4 | [Nouvelle religion](https://open.spotify.com/track/1nGXom4fnChcFdymHFtknK) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:31 |
+| 4 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 |
 | 5 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
-| 6 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 |
+| 6 | [Nouvelle religion](https://open.spotify.com/track/1nGXom4fnChcFdymHFtknK) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:31 |
 | 7 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
 | 8 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 |
 | 9 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Bella](https://open.spotify.com/track/4ZFifyPceETKK8fPsNeFsH) | [GoldB](https://open.spotify.com/artist/3S6LA31ao7gVfmZ4XncKqK), [First1prod](https://open.spotify.com/artist/2vX8HNcv1dhqZ3UkABS9BA), [Juice1](https://open.spotify.com/artist/126wOTw8ZfsFHEJCmWjIz4) | [Bella](https://open.spotify.com/album/2YaGfL5jcedrB5j9lYeTZM) | 2:49 |
 | 75 | [Langue empoisonnée](https://open.spotify.com/track/6SUobbATRGwBGdQytjYAA6) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj) | [Cercle Vicieux 3](https://open.spotify.com/album/0ZYkKutre14v6LCaeNQsOw) | 3:44 |
 
-Snapshot ID: `MTY0NTIwMTM0MSwwMDAwMDIwNDAwMDAwMTdmMGRhNDNkMzAwMDAwMDE3ZjBhMGE4YTAz`
+Snapshot ID: `MTY0NTQ3MDAzMywwMDAwMDIwNTAwMDAwMTdmMWRhODI2NzUwMDAwMDE3ZjBhMGE4YTAz`

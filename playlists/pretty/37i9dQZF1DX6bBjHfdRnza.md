@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Willo, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,833 likes - 102 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,959 likes - 102 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

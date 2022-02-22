@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXadlZCyb9AB3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXadlZCyb9AB3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXadlZCyb9AB3)
 
-### Riot Grrrl
+### [Riot Grrrl](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 

@@ -1911,7 +1911,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 160831,
       "name": "Delux",
       "url": "https://open.spotify.com/track/4xGfI1u54ykDTeD7Sr2uTK"
@@ -5821,7 +5821,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -7173,6 +7173,28 @@
       "duration_ms": 186533,
       "name": "N\u00e5 Tennes Tusen Julelys",
       "url": "https://open.spotify.com/track/514a6jNU8B1KS7QV387ZUU"
+    },
+    {
+      "album": {
+        "name": "N\u00e5r Alt Ikke Er Nok",
+        "url": "https://open.spotify.com/album/0DEcATPNqUkH7JZV8FboYi"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "N\u00e5r Alt Ikke Er Nok",
+      "url": "https://open.spotify.com/track/3LFMdNgxE5wtdv62umGxiP"
     },
     {
       "album": {
@@ -9069,6 +9091,24 @@
       "duration_ms": 190413,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6hCGVqheUBzymvfA7IB4Y9"
+    },
+    {
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/3bFRAsR6md7PY5VDM8aqr4"
+      },
+      "artists": [
+        {
+          "name": "NorthKid",
+          "url": "https://open.spotify.com/artist/1UiHzhfvDyILfUKDmKSdhx"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/6NbzyQWfXRksYxQgUWYT0y"
     },
     {
       "album": {

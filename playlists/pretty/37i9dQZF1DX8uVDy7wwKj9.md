@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uVDy7wwKj9.md) - [plain]
 
 > Settle down with a nice cup of tea and enjoy the novels, stories, poems, and letters of Emily, Charlotte, Anne, and Patrick Branwell Brontë.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,512 likes - 139 songs - 16 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,513 likes - 139 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

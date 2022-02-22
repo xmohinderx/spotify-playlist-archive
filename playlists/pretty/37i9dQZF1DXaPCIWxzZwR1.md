@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,022,585 likes - 108 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,517 likes - 108 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

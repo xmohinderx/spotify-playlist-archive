@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Trap Latino. Foto: Eladio Carrion.",
-  "num_followers": 499914,
+  "num_followers": 500078,
   "original_name": "TRAPPERZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDM1NCwwMDAwMDE2ODAwMDAwMTdlZmFiZjY1NzQwMDAwMDE3ZDdiN2FjMjM5",
+  "snapshot_id": "MTY0NTQ2NjQ1MCwwMDAwMDE2OTAwMDAwMTdmMWQ3MTdhMTgwMDAwMDE3ZDdiN2FjMjM5",
   "tracks": [
     {
       "added_at": "2022-01-21 05:01:00",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/24a2AvxZM73Sg1zKtXdM3M"
     },
     {
+      "added_at": "2022-02-21 18:00:50",
+      "album": {
+        "name": "La Trampa es Ley",
+        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 141864,
+      "name": "La Trampa es Ley",
+      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+    },
+    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Diles",
@@ -279,26 +295,6 @@
       "duration_ms": 150422,
       "name": "No Creyeron",
       "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
-    },
-    {
-      "added_at": "2022-02-04 21:46:04",
-      "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": "2022-01-21 05:01:00",

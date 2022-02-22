@@ -1018,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "German",
+        "url": "https://open.spotify.com/album/7xdhIZ08Rxj1Lm9ek181uB"
+      },
+      "artists": [
+        {
+          "name": "EO",
+          "url": "https://open.spotify.com/artist/0M42FTSaBb8W0laID5CR0U"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170825,
+      "name": "German",
+      "url": "https://open.spotify.com/track/7cwLbWHs42c8JmrW9BJZos"
+    },
+    {
+      "album": {
         "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },

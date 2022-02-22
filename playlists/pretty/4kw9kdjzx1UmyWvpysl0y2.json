@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127667,
+  "num_followers": 127663,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI1NSxlZWU0MGYzZDE5MzA3OWFlODA1OTNkMzU4NWY0NWQyMmFhY2JhNGM3",
+  "snapshot_id": "MzI1NyxjNjBlMjBlNGY1MWYwOTVkZTU2MmY2OGQwM2YxNTU2MTQ2ZGE3N2Iz",
   "tracks": [
+    {
+      "added_at": "2022-02-21 18:05:40",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/1Qpo82QvvoXCawctSQfNNJ"
+      },
+      "artists": [
+        {
+          "name": "Feint",
+          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
+        },
+        {
+          "name": "R7CKY",
+          "url": "https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "duration_ms": 237262,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/5ids0N0UPvFHDYDtvDgVCl"
+    },
     {
       "added_at": "2022-02-18 17:51:57",
       "album": {
@@ -1111,26 +1135,6 @@
       "duration_ms": 197005,
       "name": "Water Resistant",
       "url": "https://open.spotify.com/track/6LvU1xQJaAXxdVhJXviRJq"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Carbonara",
-        "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
-      },
-      "artists": [
-        {
-          "name": "Pixel Terror",
-          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
-        },
-        {
-          "name": "Spag Heddy",
-          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Carbonara",
-      "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

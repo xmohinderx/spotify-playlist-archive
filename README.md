@@ -643,6 +643,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [creamy](/playlists/pretty/37i9dQZF1DXdgz8ZB7c2CP.md)
 - [Created by Women](/playlists/pretty/37i9dQZF1DX7JO5vzoPTXR.md)
 - [Creative Focus](/playlists/pretty/37i9dQZF1DWWn6teJIIcfG.md)
+- [Creative Writing](/playlists/pretty/37i9dQZF1DX1ACGg8vzTNZ.md)
 - [Creativity Boost](/playlists/pretty/37i9dQZF1DX56qfiUZBncF.md)
 - [Creepy, Stupid, Love](/playlists/pretty/37i9dQZF1DWWTA1Ie7iu8r.md)
 - [Crossroad Blues](/playlists/pretty/37i9dQZF1DX5AuRugisweW.md)

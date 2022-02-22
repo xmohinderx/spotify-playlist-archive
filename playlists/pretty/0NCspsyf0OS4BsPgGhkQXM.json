@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2043778,
+  "num_followers": 2043700,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTEzNjEsMzg4YzczZGEyYzdhODZmOGVmNzM5ODZmZGQ4MGZkZGZhNWE4N2JhZA==",
+  "snapshot_id": "MTEzNjMsMzk1NTY1MWU0MWIxMTNhMWI2NzUxMmQzNWM3OWU0ZjI3MTUwNTZlOA==",
   "tracks": [
     {
       "added_at": "2022-02-18 18:28:11",
@@ -311,6 +311,30 @@
       "duration_ms": 164773,
       "name": "Diamond Ring",
       "url": "https://open.spotify.com/track/4UadczGuTz5gWOt6nwGskx"
+    },
+    {
+      "added_at": "2022-02-21 19:26:28",
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/3GccJ7CiZ0XQ8rjTybOgdY"
+      },
+      "artists": [
+        {
+          "name": "VADDS",
+          "url": "https://open.spotify.com/artist/0AwrO5huZJNWko331k0vNp"
+        },
+        {
+          "name": "SVSTN",
+          "url": "https://open.spotify.com/artist/0BaYoanpAb4oTALg2pFGVB"
+        },
+        {
+          "name": "Benlon",
+          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
+        }
+      ],
+      "duration_ms": 141732,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/3k9YyN18G8QW4S2OSs8Iuj"
     },
     {
       "added_at": "2022-02-18 18:28:11",

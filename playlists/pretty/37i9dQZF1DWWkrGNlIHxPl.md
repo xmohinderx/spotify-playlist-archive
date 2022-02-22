@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Hajaj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,177 likes - 101 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,187 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 97 | [D4M](https://open.spotify.com/track/4jkP3gAU9o4ZcDDk4JRFdr) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 4:04 |
 | 98 | [Fire](https://open.spotify.com/track/2QNwEWAY6ZzA9JMVWhEBzn) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr) | [Fire](https://open.spotify.com/album/594AdWI8h2OEWBEKvt9zOB) | 3:07 |
 | 99 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 |
-| 100 | [2 Faced](https://open.spotify.com/track/6rj686UWAoxLaJuGznEUpP) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [2 Faced](https://open.spotify.com/album/3ZKdHHXi35uUwr7wrUjQXc) | 2:58 |
-| 101 | [Hair Up](https://open.spotify.com/track/588UOjXO2vpmEOKT5IL62o) | [Nadine](https://open.spotify.com/artist/4UnznusdX9MEldtlPuh5Oq) | [Hair Up](https://open.spotify.com/album/4GQB0OYAdjKLi3ZvMpIo2S) | 3:07 |
 
-Snapshot ID: `MTY0NDMxOTE1MSwwMDAwMDI2ZjAwMDAwMTdlZDkwZjE2YmYwMDAwMDE3Y2YwNGFjOThl`
+Snapshot ID: `MTY0NTQ0NTg5OCwwMDAwMDI3MDAwMDAwMTdmMWMzN2UyM2QwMDAwMDE3Y2YwNGFjOThl`

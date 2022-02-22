@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best new alternative rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,266 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,331 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 3 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 |
 | 4 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 |
 | 5 | [Brother](https://open.spotify.com/track/3lIC6gFTx2XwCIAdhs88qU) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Brother](https://open.spotify.com/album/5AwS7TwR4bOMzej8FqAniP) | 3:18 |
-| 6 | [Johnny Wants To Fight](https://open.spotify.com/track/7H1ZwfAglRLCUxS4kfLZtT) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Johnny Wants To Fight](https://open.spotify.com/album/0BHNYQwg5z73DRT5S4ja67) | 4:00 |
-| 7 | [Supernova](https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Staircase Music](https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt) | 3:21 |
-| 8 | [see red](https://open.spotify.com/track/5VnWXQhBVKpW2J22VGnY99) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [see red](https://open.spotify.com/album/4CzCKNNmMVVS1J89FkcwZr) | 3:27 |
-| 9 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
-| 10 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 |
-| 11 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 |
-| 12 | [A Hunger In Your Haunt](https://open.spotify.com/track/3SCDUKP0PpE3ePJwNDoCyL) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Myth of The Happily Ever After](https://open.spotify.com/album/79TV8acvMeGKGbsBUKvwCI) | 3:49 |
-| 13 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 |
+| 6 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
+| 7 | [Johnny Wants To Fight](https://open.spotify.com/track/7H1ZwfAglRLCUxS4kfLZtT) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Johnny Wants To Fight](https://open.spotify.com/album/0BHNYQwg5z73DRT5S4ja67) | 4:00 |
+| 8 | [Supernova](https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Staircase Music](https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt) | 3:21 |
+| 9 | [see red](https://open.spotify.com/track/5VnWXQhBVKpW2J22VGnY99) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [see red](https://open.spotify.com/album/4CzCKNNmMVVS1J89FkcwZr) | 3:27 |
+| 10 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
+| 11 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 |
+| 12 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 |
+| 13 | [A Hunger In Your Haunt](https://open.spotify.com/track/3SCDUKP0PpE3ePJwNDoCyL) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Myth of The Happily Ever After](https://open.spotify.com/album/79TV8acvMeGKGbsBUKvwCI) | 3:49 |
 | 14 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 |
 | 15 | [Way Out](https://open.spotify.com/track/7Grwv8rXFa6K9ETV1Sgr4g) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Way Out](https://open.spotify.com/album/6ONvmvNv1ODp0o6vEaMwM7) | 3:02 |
 | 16 | [Me and My Brain](https://open.spotify.com/track/1DDStYLixIqRISehWb3fci) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Terrible Town](https://open.spotify.com/album/1L2S1fC7KdAlQCgDH7Jx7J) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/track/0z0SfVwuiI26AnrnDZNrto) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx), [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/album/4uSJH3tbQHpYMCi9x599Hq) | 3:22 |
 | 60 | [The Kiss](https://open.spotify.com/track/0UG6ew5avNkB7UMNKJH8VR) | [Puppy](https://open.spotify.com/artist/1k7YEgitylDPEwY0oLo8lH) | [The Kiss](https://open.spotify.com/album/76a4Az6hf7xyvAD05BCD8p) | 3:29 |
 
-Snapshot ID: `MTY0NTEzODg2MCwwMDAwMDBmYzAwMDAwMTdmMDllYWQ4YTIwMDAwMDE3YTg1MmEyZDI2`
+Snapshot ID: `MTY0NTQ1MTUxMiwwMDAwMDBmZDAwMDAwMTdmMWM4ZDhiMmYwMDAwMDE3YTg1MmEyZDI2`

@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 276125,
       "name": "Aal Izz Well",
       "url": "https://open.spotify.com/track/3L1jrlL7DuCaTlBrE7rnDy"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 427781,
       "name": "Aisa Des Hai Mera",
       "url": "https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 271986,
       "name": "Bheegey Hont",
       "url": "https://open.spotify.com/track/2GhIleCFsmI6WU8BDG1UAv"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 335832,
       "name": "Bum Bum Bole",
       "url": "https://open.spotify.com/track/5Dq7d6Y2K2CRNFm1bC3I7A"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 383066,
       "name": "Chand Sitare",
       "url": "https://open.spotify.com/track/4v0R1ielTVsWmn1mVb5j63"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 268712,
       "name": "Dard - E - Disco",
       "url": "https://open.spotify.com/track/2GTasAZimpxzNgE7aXFifI"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 352388,
       "name": "Deewangi Deewangi",
       "url": "https://open.spotify.com/track/7emLx4rVwr0tPyjktu7A7U"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 369480,
       "name": "Dil Ne Dil Ko Pukara",
       "url": "https://open.spotify.com/track/0r2PlStvVYnQHcBdc4n0hs"
@@ -963,6 +963,32 @@
       "duration_ms": 265926,
       "name": "Do Pal",
       "url": "https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF"
+    },
+    {
+      "album": {
+        "name": "Devdas",
+        "url": "https://open.spotify.com/album/20wjfxvYjpDSjNNHKhZNov"
+      },
+      "artists": [
+        {
+          "name": "Kavita Krishnamurthy",
+          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395866,
+      "name": "Dola Re Dola - Devdas / Soundtrack Version",
+      "url": "https://open.spotify.com/track/60MtSgn6FttZapzcFeWRZO"
     },
     {
       "album": {
@@ -1193,7 +1219,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 362293,
       "name": "Hamesha Tumko Chaha - Devdas / Soundtrack Version",
       "url": "https://open.spotify.com/track/0CUPccOp1WfpKCjcFgZsck"
@@ -1215,7 +1241,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 88373,
       "name": "Ik Onkar",
       "url": "https://open.spotify.com/track/4Ko5KYEiZ0rrFiBJKmvMQc"
@@ -1523,7 +1549,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 302400,
       "name": "Judai",
       "url": "https://open.spotify.com/track/7LGgRybx6vnACSRnYcGmMl"
@@ -1833,7 +1859,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 379226,
       "name": "Khalbali",
       "url": "https://open.spotify.com/track/6sXzqMagXtWvSOI9nNc4UD"
@@ -2463,7 +2489,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 187199,
       "name": "Nayan Tarse",
       "url": "https://open.spotify.com/track/3Ba743TbPb6CGdIIMJuFHj"
@@ -2533,7 +2559,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 328480,
       "name": "O Saathi Re (From \"Omkara\")",
       "url": "https://open.spotify.com/track/0pq7w4hvUYA2JtvipWvv0x"
@@ -2581,7 +2607,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 352896,
       "name": "Paayaliya",
       "url": "https://open.spotify.com/track/4REr6h0i1I7LSR8pfJee8G"
@@ -2707,7 +2733,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "Pyar Ki Kashti Mein",
       "url": "https://open.spotify.com/track/1Xp5f6aInEPbjxXEOpC9CH"
@@ -2737,7 +2763,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 334706,
       "name": "Radha Kaise Na Jale",
       "url": "https://open.spotify.com/track/0wnLMEOQlyW3Es1ag0HMVV"
@@ -2977,7 +3003,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 369546,
       "name": "Tanhayee",
       "url": "https://open.spotify.com/track/5HXJV5FjXdfUk3UFBTg8Fe"
@@ -3025,7 +3051,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 275986,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/3DpedytYku64Hjf51064vO"
@@ -3111,7 +3137,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 339591,
       "name": "Teri Ore",
       "url": "https://open.spotify.com/track/7lJNQFaBPlm3XhNUWnVk55"
@@ -3137,7 +3163,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 357626,
       "name": "Tu Bin Bataye",
       "url": "https://open.spotify.com/track/1jjSjma0cfNUhyOUzQqt6J"
@@ -3467,7 +3493,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-22",
       "duration_ms": 345746,
       "name": "Yeh Dhuan Dhuan",
       "url": "https://open.spotify.com/track/14iNm2MPW5dTMld0ulDAtk"
@@ -3641,7 +3667,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 446986,
       "name": "Yun Hi Chala Chal",
       "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"
