@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Tossin' And Turnin' \- Rerecorded](https://open.spotify.com/track/4nbfkzqJQmGOBPYyHDInF3) | [Bobby Lewis](https://open.spotify.com/artist/6KfBWaX13etjtEZ4d9aTWW) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:23 |
 | 2 | [I Fall To Pieces](https://open.spotify.com/track/5U2uhwJseYO7eH5nEwPb8z) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Introducing the Dwights](https://open.spotify.com/album/3Z0LdhZyBaeniH7m9VpSrR) | 2:49 |
-| 3 | [Michael](https://open.spotify.com/track/5EDhHmezbcIxL6qzPpMlhx) | [The Highway Men](https://open.spotify.com/artist/42zQWH4QjEPz9xO4tJpgjZ) | [The Cambridge Tapes](https://open.spotify.com/album/1qOswBTXoVWSxyIyQIcfWj) | 3:02 |
+| 3 | [Michael](https://open.spotify.com/track/5EDhHmezbcIxL6qzPpMlhx) | [The Highwaymen](https://open.spotify.com/artist/42zQWH4QjEPz9xO4tJpgjZ) | [The Cambridge Tapes](https://open.spotify.com/album/1qOswBTXoVWSxyIyQIcfWj) | 3:02 |
 | 4 | [Crying](https://open.spotify.com/track/2M3OVvigcmanSnRq1sdlVE) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/5GYI3MYDtS3pDZOQ29Unr5) | 2:46 |
 | 5 | [Runaway \- Rerecorded](https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:27 |
 | 6 | [My True Story](https://open.spotify.com/track/2Dnosc9eeTGYSBjNlcqhkz) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Golden Oldies](https://open.spotify.com/album/4jiyg7yYn3iMkHsU13XsLc) | 2:34 |

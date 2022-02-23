@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 337400,
       "name": "6th Avenue Heartache",
       "url": "https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 359133,
       "name": "All the Critics Love U in New York",
       "url": "https://open.spotify.com/track/2k96E0L0SY9raNEVMBqbVL"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 351640,
       "name": "Brooklyn Baby",
       "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 275640,
       "name": "Brooklyn's Finest",
       "url": "https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 344800,
       "name": "City of Blinding Lights",
       "url": "https://open.spotify.com/track/4ItWussj1AjpGcBEwhMLP2"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 173333,
       "name": "Empire State",
       "url": "https://open.spotify.com/track/14Ik7H3GwZ8AYmkyI3HbLy"
@@ -539,10 +539,28 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 211304,
       "name": "girl in new york",
       "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Harlem",
+      "url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s"
     },
     {
       "album": {
@@ -557,7 +575,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 275360,
       "name": "I Love New York",
       "url": "https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "Living Room, NY",
       "url": "https://open.spotify.com/track/06gM89NFOONFE0pzW6rRRV"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 152066,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/3HOcnlmtmFhXvmkv48qHs1"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 121904,
       "name": "New York",
       "url": "https://open.spotify.com/track/73EByXGIiEe7e3SRNLcipP"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 218266,
       "name": "New York",
       "url": "https://open.spotify.com/track/1xfXPn56cFAEP9ReiIV8ha"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 274360,
       "name": "New York City - Remastered 2010",
       "url": "https://open.spotify.com/track/65U99sfxmQhVSybLf7uJDH"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 395400,
       "name": "New York Minute",
       "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 181680,
       "name": "New York Shit - Album Version (w/o Shoutouts)",
       "url": "https://open.spotify.com/track/2T9LBQxMj07M7FQ511cEjW"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 274533,
       "name": "New York's in Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3YcTIsCP4dmLWID1RdCI7s"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 335480,
       "name": "New York, I Love You but You're Bringing Me Down",
       "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 271133,
       "name": "Nights On Broadway",
       "url": "https://open.spotify.com/track/3TdyvDezYbn1AcbYjcAzhl"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 260226,
       "name": "Subway Train",
       "url": "https://open.spotify.com/track/3utG7uK9ERDILMsIQwJRHb"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 331800,
       "name": "Take the \"A\" Train",
       "url": "https://open.spotify.com/track/6KBsivP3Of4z2x6uNMAyE3"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 190466,
       "name": "Tenth Avenue Freeze-Out",
       "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 307666,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/6K1BMBzqN51P5OV2ij7WwU"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 116400,
       "name": "The Girl From New York City",
       "url": "https://open.spotify.com/track/5u6s6dAhJYJcFljcT6UwSZ"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 311626,
       "name": "Tompkins Square Park",
       "url": "https://open.spotify.com/track/5DmWOVaWBbIWKQnk6bMdwu"

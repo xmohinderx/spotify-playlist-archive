@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: ego apartment",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: ao",
   "name": "RADAR: Early Noise ",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3egMOJl8BjDmQKjIUlEPsP"
+  ],
   "tracks": [
     {
       "album": {
@@ -60,6 +62,42 @@
     },
     {
       "album": {
+        "name": "alien",
+        "url": "https://open.spotify.com/album/0sB4m0wrniL7HCXgmnmr7F"
+      },
+      "artists": [
+        {
+          "name": "aryy",
+          "url": "https://open.spotify.com/artist/3qFuvYRmCGmwSaVLFFy2UX"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/6BOQ3AuQwtXgNkbt3p8jIA"
+    },
+    {
+      "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley"
+    },
+    {
+      "album": {
         "name": "Change the world",
         "url": "https://open.spotify.com/album/3t37vMsrMBeVUrdoqSyCib"
       },
@@ -89,7 +127,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 182400,
       "name": "Free",
       "url": "https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx"
@@ -285,7 +323,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 185999,
       "name": "Morning",
       "url": "https://open.spotify.com/track/1AFRB52O6jDHRVLWTr5c1y"
@@ -364,6 +402,28 @@
     },
     {
       "album": {
+        "name": "PaBodance (NamitoW Remix)",
+        "url": "https://open.spotify.com/album/4ULNHuZbaNW6GRB5PNGTH4"
+      },
+      "artists": [
+        {
+          "name": "Tina Moon",
+          "url": "https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ"
+        },
+        {
+          "name": "NamitoW",
+          "url": "https://open.spotify.com/artist/0YFwbBZlDAcYlg2GCVnoZr"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211047,
+      "name": "PaBodance - NamitoW Remix",
+      "url": "https://open.spotify.com/track/7s8hFtm0Dh6ZsTh4VJrixH"
+    },
+    {
+      "album": {
         "name": "praystation 2",
         "url": "https://open.spotify.com/album/1OeLqztFCRzdErnNWo5YG9"
       },
@@ -397,10 +457,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 281016,
       "name": "SAKURA\u30c9\u30ed\u30c3\u30d7\u30b9",
       "url": "https://open.spotify.com/track/3bI8jTYxZxSX8u1lYAYBnh"
+    },
+    {
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/5bG9WMj67816n2pprdIgc0"
+      },
+      "artists": [
+        {
+          "name": "Misato Ono",
+          "url": "https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265594,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/0HoMxHkUCFEGpJ6IVML8XO"
     },
     {
       "album": {
@@ -419,6 +497,24 @@
       "duration_ms": 280500,
       "name": "Spirit & Gravity",
       "url": "https://open.spotify.com/track/1g2hPwrbL8y0iFKnUveXnC"
+    },
+    {
+      "album": {
+        "name": "Super Hero",
+        "url": "https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq"
+      },
+      "artists": [
+        {
+          "name": "Doul",
+          "url": "https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "Super Hero",
+      "url": "https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv"
     },
     {
       "album": {
@@ -563,7 +659,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 311707,
       "name": "\u300c\u77e5\u308a\u305f\u304f\u306a\u304b\u3063\u305f\u3001\u5931\u3046\u306e\u306a\u3089\u300d - feat.\u7d14\u7325\u8ac7",
       "url": "https://open.spotify.com/track/0DunLVRj83iOoDQFt0iqcI"
@@ -625,6 +721,24 @@
       "duration_ms": 185181,
       "name": "\u3084\u3055\u3057\u3044\u602a\u7269 feat. \u6ce3\u304d\u866b",
       "url": "https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G"
+    },
+    {
+      "album": {
+        "name": "\u308f\u305f\u3057\u306e\u751f\u304d\u308b\u7269\u8a9e",
+        "url": "https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428740,
+      "name": "\u308f\u305f\u3057\u306e\u751f\u304d\u308b\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev"
     },
     {
       "album": {
@@ -921,6 +1035,42 @@
       "duration_ms": 238724,
       "name": "\u6bd4\u3079\u3066\u3082\u3057\u3087\u3046\u304c\u306a\u3044",
       "url": "https://open.spotify.com/track/6OuYTbCbpIvwuUC2dqcGfB"
+    },
+    {
+      "album": {
+        "name": "\u6c34\u69fd",
+        "url": "https://open.spotify.com/album/2KnIrC9vZylwYUfR52tTps"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u6c34\u69fd",
+      "url": "https://open.spotify.com/track/2jkX2wsiII8YQTTF4jonwr"
+    },
+    {
+      "album": {
+        "name": "\u6fe1\u6eb6",
+        "url": "https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94862,
+      "name": "\u6fe1\u6eb6",
+      "url": "https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR"
     },
     {
       "album": {

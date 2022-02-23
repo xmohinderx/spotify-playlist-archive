@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Simple Plan & Deryck \(Sum 41\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,998 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,181 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 84 | [What A Memorable Night](https://open.spotify.com/track/2k6m3RpKsAJJfRJZ1jqoTk) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [What A Memorable Night](https://open.spotify.com/album/3Ez2o1q5xtJcN77qVOE7L6) | 2:51 |
 | 85 | [A Better Universe](https://open.spotify.com/track/2x70QbN0F4YgImvZcrUPee) | [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [A Better Universe](https://open.spotify.com/album/1kcVb1SDDztuChpMHHWCrr) | 4:00 |
 | 86 | [We Rise \- Single Edit](https://open.spotify.com/track/71rHV4UxgfdSYQjLARo2Bz) | [The Gathering](https://open.spotify.com/artist/2kO6zjt4a1OIqxOERhliEX) | [We Rise](https://open.spotify.com/album/2IjKqHnKFUNnCiNGhcOKbn) | 5:10 |
-| 87 | [Falling Is Pretty Nomal](https://open.spotify.com/track/1l5AGBWkFUojgahpXq8GWh) | [FANGZ](https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy) | [Falling Is Pretty Normal](https://open.spotify.com/album/09q4JCy8oCzesGJN95bgi0) | 2:35 |
+| 87 | [Falling Is Pretty Normal](https://open.spotify.com/track/1l5AGBWkFUojgahpXq8GWh) | [FANGZ](https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy) | [Falling Is Pretty Normal](https://open.spotify.com/album/09q4JCy8oCzesGJN95bgi0) | 2:35 |
 | 88 | [Oblivion!](https://open.spotify.com/track/1vA40enRS52KxCAB17JjzY) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/3IWPc1hdjbhEG558lzULE3) | 3:20 |
 | 89 | [Glory Pictures](https://open.spotify.com/track/0gGjemuhjOgxVfizp0RhCD) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Glory Pictures](https://open.spotify.com/album/3Iii4mUoKSuYIus9iEq1j3) | 2:50 |
 | 90 | [Totem Pole](https://open.spotify.com/track/33ZQeEPPViQpxLuyu0mgJh) | [Urge Overkill](https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4) | [Oui](https://open.spotify.com/album/2X3UMr8wIMSifmHNmgErG0) | 3:42 |

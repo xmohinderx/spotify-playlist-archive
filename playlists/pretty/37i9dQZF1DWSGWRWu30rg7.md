@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Dinda Ghania, Dewa Tahier\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,133 likes - 69 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,135 likes - 69 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 24 | [Resentment](https://open.spotify.com/track/5E5vuBwJcieyS41jRRI3Ke) | [Fallen Wolves](https://open.spotify.com/artist/1jBSX7hBRWOZcHmPveHRkj) | [Resentment](https://open.spotify.com/album/6HFQItGyacdpjDKpKK6UhD) | 3:10 |
 | 25 | [Kangen Kamu](https://open.spotify.com/track/3RoBgsX170hPvCSOalsV1w) | [Southern A.M](https://open.spotify.com/artist/5nhUyDE4REekujDfKNo7Aj) | [Kangen Kamu](https://open.spotify.com/album/4PAIOBJfnqMts1rbGeg7UN) | 2:48 |
 | 26 | [Still Linger](https://open.spotify.com/track/7JYPUKO0k85jTAcfgf7THj) | [Minnara](https://open.spotify.com/artist/7GaslN0ewUvKuv7PghDZXC) | [Still Linger](https://open.spotify.com/album/4vybmEpYBKLD75esxkEUNT) | 4:10 |
-| 27 | [Katanya](https://open.spotify.com/track/489czOzRHMZAoU1Bgf4ieu) | [Raissa Ramadhani](https://open.spotify.com/artist/6m9FQqWLWOw1STY4EXCr3g) | [Katanya](https://open.spotify.com/album/4LNMKFfhDe2m0kaaFB8jOX) | 4:07 |
+| 27 | [Katanya](https://open.spotify.com/track/489czOzRHMZAoU1Bgf4ieu) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Katanya](https://open.spotify.com/album/4LNMKFfhDe2m0kaaFB8jOX) | 4:07 |
 | 28 | [Mendaki Rasa](https://open.spotify.com/track/5JZhmCDs16MX2S05IxCVeF) | [Imaji Tomi](https://open.spotify.com/artist/7nu5bh7NaULVisnRwBKubY) | [Mendaki Rasa](https://open.spotify.com/album/5R9Sm4ZUh961T2PyG5F4nC) | 3:34 |
 | 29 | [Tak Bisa Bersama](https://open.spotify.com/track/3PzOzgibLVYZiiIo2G0a6p) | [Iyuth](https://open.spotify.com/artist/3eILAE9Jc9kQwiqeG6glYi) | [Tak Bisa Bersama](https://open.spotify.com/album/0ZjYsubw85xeEjP6kndJKq) | 4:05 |
 | 30 | [Summer Feeling](https://open.spotify.com/track/1awI5x9DiYgcZROVAYqFHO) | [RYAN RIAN](https://open.spotify.com/artist/2kuGibopGiqQHpNK9Cu9LR) | [Summer Feeling](https://open.spotify.com/album/5NGp3AmCe9Ci0kvpfULRbK) | 3:29 |

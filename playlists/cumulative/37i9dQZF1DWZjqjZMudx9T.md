@@ -2,7 +2,7 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/2raIn6drOyGxam9iDpoEgE)
 
-> De la CALLE a la CIMA, con Trueno, Randy & Bizarrap.
+> De la CALLE a la CIMA, con Bad Bunny.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

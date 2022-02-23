@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama from Snowdrop, Jirisan and more..\. \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Our Beloved Summer\(그 해 우리는\)\)
+> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama from Snowdrop, Jirisan and more..\. \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Forecasting Love and Weather\(기상청 사람들\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,262 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,586 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Home](https://open.spotify.com/track/4IYkOXspUW61nJUetcqkpJ) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [EXY](https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:12 |
 | 100 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 |
 
-Snapshot ID: `MTY0NTQxMTU2NywwMDAwMDM4MzAwMDAwMTdmMWEyYzA2MzQwMDAwMDE3ZGVjYjFjM2Fk`
+Snapshot ID: `MTY0NTUyMTkwNiwwMDAwMDM4NDAwMDAwMTdmMjBiZmE5OTEwMDAwMDE3ZjIwYmYyNGIz`

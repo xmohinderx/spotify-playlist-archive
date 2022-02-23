@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/4020PhRlGUOUZwRcU00Uc1"
+      },
+      "artists": [
+        {
+          "name": "Sh\u00e9bani",
+          "url": "https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283636,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/6EA7oUfwTlK4Uc5RIzAJrz"
+    },
+    {
+      "album": {
         "name": "Busy Body",
         "url": "https://open.spotify.com/album/0WppIcrW3CFf6hjP1iPb7O"
       },
@@ -731,6 +749,24 @@
       "duration_ms": 175483,
       "name": "Freestyle #1",
       "url": "https://open.spotify.com/track/3PqCDTA5l72UmTDmTXpely"
+    },
+    {
+      "album": {
+        "name": "FUNNY HOW",
+        "url": "https://open.spotify.com/album/6vjuhnkjXZXkxTXBs2pCey"
+      },
+      "artists": [
+        {
+          "name": "Jara",
+          "url": "https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "FUNNY HOW",
+      "url": "https://open.spotify.com/track/5ydV3NMWuOV1s4BRg1U9ei"
     },
     {
       "album": {
@@ -1293,7 +1329,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 154625,
       "name": "MASHALLAH",
       "url": "https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1"
@@ -1561,7 +1597,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 170156,
       "name": "Patience",
       "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"

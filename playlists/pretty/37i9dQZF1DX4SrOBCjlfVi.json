@@ -1,13 +1,29 @@
 {
   "description": "New joints of the week featuring Jack Harlow, Gunna, Vince Staples, and more. Cover: Yeat",
-  "num_followers": 143226,
+  "num_followers": 143397,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTI5OTkwMiwwMDAwMDBhYjAwMDAwMTdmMTM4NDI5ODMwMDAwMDE3ZjA5MWI0NTVj",
+  "snapshot_id": "MTY0NTUwNjk2NSwwMDAwMDBhYzAwMDAwMTdmMWZkYmIxNTMwMDAwMDE3ZjA5MWI0NTVj",
   "tracks": [
+    {
+      "added_at": "2022-02-22 05:16:05",
+      "album": {
+        "name": "AHHH HA",
+        "url": "https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 186538,
+      "name": "AHHH HA",
+      "url": "https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp"
+    },
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {

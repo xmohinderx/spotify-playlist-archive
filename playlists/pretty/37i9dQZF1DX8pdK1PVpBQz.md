@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Elsy Wameyo\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,242 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,259 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 5 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 |
 | 6 | [The Shake Up](https://open.spotify.com/track/6ps4hHdnIM37lSSRarQV6M) | [dameeeela](https://open.spotify.com/artist/6AaLiQRx5xSWLWZFSOcItq), [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [The Shake Up](https://open.spotify.com/album/6hFbuNlxxzrhFryP0JfQyX) | 4:11 |
 | 7 | [Crazy Life](https://open.spotify.com/track/0JYLBHAI3Vul2ldfNqzlu9) | [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [Crazy Life](https://open.spotify.com/album/3cJ3RqOLpSvJpoBXgdeBM6) | 2:48 |
-| 8 | [Idk](https://open.spotify.com/track/5VvkhvfjgKPsFejLIXbK3U) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [IDK](https://open.spotify.com/album/7uWOvSJmV62K9VZkHXWyaE) | 2:59 |
+| 8 | [IDK](https://open.spotify.com/track/5VvkhvfjgKPsFejLIXbK3U) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [IDK](https://open.spotify.com/album/7uWOvSJmV62K9VZkHXWyaE) | 2:59 |
 | 9 | [Electric Girl](https://open.spotify.com/track/31zigPsorRb8r0F4qlzajY) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Electric Girl](https://open.spotify.com/album/1Hvdm7WU9nNjadZZQtJz3f) | 2:55 |
 | 10 | [Forget You](https://open.spotify.com/track/6AuKMuB7UbmnugRSJN1L6X) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [Forget You](https://open.spotify.com/album/4ptY62oDsMPOjWfJNBEu2q) | 6:49 |
 | 11 | [morning](https://open.spotify.com/track/4Yc9do70f5SznLGByImUBN) | [Solomon Crook](https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1) | [morning](https://open.spotify.com/album/6nExhxowzKK5C5nGSUzvIa) | 3:17 |

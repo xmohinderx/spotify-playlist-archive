@@ -1510,6 +1510,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [National Blood Week](/playlists/pretty/2y74Ha0ztRUcIYmqITh0D4.md)
 - [Nature Noise](/playlists/pretty/37i9dQZF1DWUKPeBypcpcP.md)
 - [Nelson Mandela Tribute](/playlists/pretty/7iUOaMP7iKI22rBNflBwjX.md)
+- [neon cowgirl](/playlists/pretty/37i9dQZF1DXa90jZU6E5GN.md)
 - [Nerding Around](/playlists/pretty/37i9dQZF1DX3YGn6btf5lC.md)
 - [New Age Classics](/playlists/pretty/37i9dQZF1DWTWhA27mtRFK.md)
 - [New Alt\-Rock Mixtape](/playlists/pretty/37i9dQZF1DXa6YOhGMjjgx.md)

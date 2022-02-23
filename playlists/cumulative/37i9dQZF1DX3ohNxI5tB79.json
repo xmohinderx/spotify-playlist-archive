@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/5mbJr9jfnfqPN8Vf9OKsIY"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157230,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q"
+    },
+    {
+      "album": {
         "name": "Sometimes a Rose Will Grow in Concrete",
         "url": "https://open.spotify.com/album/3chmdwfbZAG2YxZTtoTv6f"
       },

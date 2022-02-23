@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v?si=Lhg7WGbsQE6lGCS0xYmQRg">Fuzigish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,824 likes - 69 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,831 likes - 69 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

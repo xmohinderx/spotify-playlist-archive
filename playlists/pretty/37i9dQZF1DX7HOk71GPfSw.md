@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > hyperpop is a community\. Cover: quinn
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,628 likes - 189 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,240 likes - 189 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

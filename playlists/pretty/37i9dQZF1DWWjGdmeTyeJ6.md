@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Shy High, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,878 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,915 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 3 | [Miss Me](https://open.spotify.com/track/5x3oVy9j87XKtUyxEloiZi) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Miss Me](https://open.spotify.com/album/2BDbUunNKcOsHlWHZvHZcT) | 2:11 |
 | 4 | [clam chowder](https://open.spotify.com/track/6vEIhmMgzQMDdUwPNWqzSG) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [clam chowder](https://open.spotify.com/album/74KH6zHFgqwLC0V7oorWcd) | 2:32 |
 | 5 | [Next to Me \(feat\. Fiveofive\)](https://open.spotify.com/track/6GSY8J9SPNeBnZmaY2Nw5N) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Fiveofive](https://open.spotify.com/artist/4hwlmODYtrKQKxdJevZlqH) | [Next to Me \(feat\. Fiveofive\)](https://open.spotify.com/album/3WkVBSxJ31747DPXjr8Rnz) | 3:32 |
-| 6 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/2UkjsQdVy00wXXsRfdPmNl) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
+| 6 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
 | 7 | [Not In Love](https://open.spotify.com/track/1fmmgQIiz6i0F44LrgwDs8) | [Lady Dan](https://open.spotify.com/artist/5FflDIlGvj2Mqrptpa1dHF) | [Not In Love](https://open.spotify.com/album/5VpqsXpQ4RjGSTroJAMJbh) | 3:28 |
 | 8 | [is this how it all falls apart?](https://open.spotify.com/track/3PMcBQ3Bvm2Cy3rcy3URwm) | [dylxn](https://open.spotify.com/artist/5UlvB9ajvjZf8TDhySUF0i) | [is this how it all falls apart?](https://open.spotify.com/album/743gSzOguYGQzAntm3gvCV) | 2:26 |
 | 9 | [lovers only singalong](https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [lovers only singalong](https://open.spotify.com/album/2DzAPIprJTwtxRIYefQsU0) | 2:52 |
@@ -67,21 +67,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 57 | [Forever](https://open.spotify.com/track/2ZBOzHUBFSmd4Q08sV8DzV) | [Hooks](https://open.spotify.com/artist/2r2PtMTEwBQQ86VDaUCjNy) | [Forever](https://open.spotify.com/album/3xMxdVYPIYRrysda12AxuO) | 3:00 |
 | 58 | [Forget You](https://open.spotify.com/track/6AuKMuB7UbmnugRSJN1L6X) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [Forget You](https://open.spotify.com/album/4ptY62oDsMPOjWfJNBEu2q) | 6:49 |
 | 59 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 |
-| 60 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 |
-| 61 | [Tell Me](https://open.spotify.com/track/2i16GU60FIhw9k5Wix4TMB) | [Stefan Tosovic](https://open.spotify.com/artist/1B0dXhcaPbzMP40bQQlqpW), [Cecilie Toth](https://open.spotify.com/artist/6DVD0hbEmINkFbAQ7o7DAB) | [Tell Me](https://open.spotify.com/album/3eoprEltYkcCuvWD9EIBfo) | 3:09 |
-| 62 | [The Shake Up](https://open.spotify.com/track/6ps4hHdnIM37lSSRarQV6M) | [dameeeela](https://open.spotify.com/artist/6AaLiQRx5xSWLWZFSOcItq), [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [The Shake Up](https://open.spotify.com/album/6hFbuNlxxzrhFryP0JfQyX) | 4:11 |
-| 63 | [Seasick](https://open.spotify.com/track/3NMyjZgMXKHbUQzvL15fsA) | [Hollie Col](https://open.spotify.com/artist/4JyT0CxxEic1JhENHbXfR1) | [Seasick](https://open.spotify.com/album/2EXfynLGUCWEvEWhMe4Ptv) | 2:54 |
-| 64 | [Climbing Frame](https://open.spotify.com/track/0kb52zDjKJ9ai6MuItDqtQ) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [Climbing Frame EP](https://open.spotify.com/album/3bUQj9YCLS9bOnEYZ2Qkon) | 2:55 |
-| 65 | [closer \(vol.1 ch.1\)](https://open.spotify.com/track/2uYAPuX6LmkGOwxPfKXNeL) | [victoria](https://open.spotify.com/artist/5rBX0CkY77xg2GThOWBYL5) | [closer \(vol.1 ch.1\)](https://open.spotify.com/album/4TD1VHylBHdOtKAcsTZRxn) | 3:14 |
-| 66 | [Dancing to The Smiths](https://open.spotify.com/track/6RSDI2ms9CHIvOnrYzxluR) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Dancing to The Smiths](https://open.spotify.com/album/0gSXurqwCt0sZcgUncufAO) | 4:19 |
-| 67 | [Do Better](https://open.spotify.com/track/0exKvNvCeofzXEVlPIebaN) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Do Better](https://open.spotify.com/album/05FP2EnloDbiVO8nQBrf90) | 2:42 |
-| 68 | [Dont Know](https://open.spotify.com/track/7imwOacEwo1uCGacu8lw2A) | [Elijah Seabrook](https://open.spotify.com/artist/4xtLpQ6VUR3djxL9FjcKT7) | [Pressure Rising](https://open.spotify.com/album/5mbrEXGcSjZYaUbTmMWYyi) | 2:53 |
-| 69 | [Lake Ridge Hots](https://open.spotify.com/track/1tnHseb5vvlPXD1CXh7s3O) | [Rx Nephew](https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT) | [On The Run From Area 51](https://open.spotify.com/album/7MoQ4hMaJNSt0aqSw6Uu3z) | 1:35 |
-| 70 | [Beach House](https://open.spotify.com/track/3b6puThJHLaJYfgf1gAk5i) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [Beach House](https://open.spotify.com/album/50seucpMyJN46bWp1HRUmm) | 2:49 |
-| 71 | [Rain](https://open.spotify.com/track/7wEwCrjCcEMApU96TxvytY) | [Bankii](https://open.spotify.com/artist/5SVqNCocTWjfVH6TKtbvRw), [Sarah Otto](https://open.spotify.com/artist/0gHKUIuU91ofKBHd0SnJU4) | [Rain](https://open.spotify.com/album/0JppI8BiH11g4T3uAYfLPm) | 5:30 |
-| 72 | [Mess It Up](https://open.spotify.com/track/2idQ4LpMl4zzhDK61XqWi9) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Mess It Up](https://open.spotify.com/album/798WnEfY4JOpmO4sUl2xMh) | 2:44 |
-| 73 | [Country Boy Livin](https://open.spotify.com/track/6WEhuDmSg9ajTo4yWIUVEV) | [Gabe Walsh](https://open.spotify.com/artist/6umOdZsRiFfqL0o1bYbc4X), [LANDEAU](https://open.spotify.com/artist/6r2teGc5F0bimdYVgBO1in) | [Country Boy Livin](https://open.spotify.com/album/430AJGVjip15Wcu5K6Zmb2) | 2:10 |
-| 74 | [ghost](https://open.spotify.com/track/28RKdHb827tly1kD6eBkzT) | [RONIA](https://open.spotify.com/artist/40rrkT9o0eaHNR4ghUTo4M) | [ghost](https://open.spotify.com/album/6H2XqZK6HVFzbF2E6kRqH6) | 3:29 |
-| 75 | [Answers](https://open.spotify.com/track/2XrdLU23MqMdrYhhuf1vtS) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Answers](https://open.spotify.com/album/4Rv4S6zw3hCRlwAt3KbW1X) | 4:48 |
+| 60 | [Tell Me](https://open.spotify.com/track/2i16GU60FIhw9k5Wix4TMB) | [Stefan Tosovic](https://open.spotify.com/artist/1B0dXhcaPbzMP40bQQlqpW), [Cecilie Toth](https://open.spotify.com/artist/6DVD0hbEmINkFbAQ7o7DAB) | [Tell Me](https://open.spotify.com/album/3eoprEltYkcCuvWD9EIBfo) | 3:09 |
+| 61 | [The Shake Up](https://open.spotify.com/track/6ps4hHdnIM37lSSRarQV6M) | [dameeeela](https://open.spotify.com/artist/6AaLiQRx5xSWLWZFSOcItq), [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [The Shake Up](https://open.spotify.com/album/6hFbuNlxxzrhFryP0JfQyX) | 4:11 |
+| 62 | [Seasick](https://open.spotify.com/track/3NMyjZgMXKHbUQzvL15fsA) | [Hollie Col](https://open.spotify.com/artist/4JyT0CxxEic1JhENHbXfR1) | [Seasick](https://open.spotify.com/album/2EXfynLGUCWEvEWhMe4Ptv) | 2:54 |
+| 63 | [Climbing Frame](https://open.spotify.com/track/0kb52zDjKJ9ai6MuItDqtQ) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [Climbing Frame EP](https://open.spotify.com/album/3bUQj9YCLS9bOnEYZ2Qkon) | 2:55 |
+| 64 | [closer \(vol.1 ch.1\)](https://open.spotify.com/track/2uYAPuX6LmkGOwxPfKXNeL) | [victoria](https://open.spotify.com/artist/5rBX0CkY77xg2GThOWBYL5) | [closer \(vol.1 ch.1\)](https://open.spotify.com/album/4TD1VHylBHdOtKAcsTZRxn) | 3:14 |
+| 65 | [Dancing to The Smiths](https://open.spotify.com/track/6RSDI2ms9CHIvOnrYzxluR) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Dancing to The Smiths](https://open.spotify.com/album/0gSXurqwCt0sZcgUncufAO) | 4:19 |
+| 66 | [Do Better](https://open.spotify.com/track/0exKvNvCeofzXEVlPIebaN) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Do Better](https://open.spotify.com/album/05FP2EnloDbiVO8nQBrf90) | 2:42 |
+| 67 | [Dont Know](https://open.spotify.com/track/7imwOacEwo1uCGacu8lw2A) | [Elijah Seabrook](https://open.spotify.com/artist/4xtLpQ6VUR3djxL9FjcKT7) | [Pressure Rising](https://open.spotify.com/album/5mbrEXGcSjZYaUbTmMWYyi) | 2:53 |
+| 68 | [Lake Ridge Hots](https://open.spotify.com/track/1tnHseb5vvlPXD1CXh7s3O) | [Rx Nephew](https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT) | [On The Run From Area 51](https://open.spotify.com/album/7MoQ4hMaJNSt0aqSw6Uu3z) | 1:35 |
+| 69 | [Beach House](https://open.spotify.com/track/3b6puThJHLaJYfgf1gAk5i) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [Beach House](https://open.spotify.com/album/50seucpMyJN46bWp1HRUmm) | 2:49 |
+| 70 | [Rain](https://open.spotify.com/track/7wEwCrjCcEMApU96TxvytY) | [Bankii](https://open.spotify.com/artist/5SVqNCocTWjfVH6TKtbvRw), [Sarah Otto](https://open.spotify.com/artist/0gHKUIuU91ofKBHd0SnJU4) | [Rain](https://open.spotify.com/album/0JppI8BiH11g4T3uAYfLPm) | 5:30 |
+| 71 | [Mess It Up](https://open.spotify.com/track/2idQ4LpMl4zzhDK61XqWi9) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Mess It Up](https://open.spotify.com/album/798WnEfY4JOpmO4sUl2xMh) | 2:44 |
+| 72 | [Country Boy Livin](https://open.spotify.com/track/6WEhuDmSg9ajTo4yWIUVEV) | [Gabe Walsh](https://open.spotify.com/artist/6umOdZsRiFfqL0o1bYbc4X), [LANDEAU](https://open.spotify.com/artist/6r2teGc5F0bimdYVgBO1in) | [Country Boy Livin](https://open.spotify.com/album/430AJGVjip15Wcu5K6Zmb2) | 2:10 |
+| 73 | [ghost](https://open.spotify.com/track/28RKdHb827tly1kD6eBkzT) | [RONIA](https://open.spotify.com/artist/40rrkT9o0eaHNR4ghUTo4M) | [ghost](https://open.spotify.com/album/6H2XqZK6HVFzbF2E6kRqH6) | 3:29 |
+| 74 | [Answers](https://open.spotify.com/track/2XrdLU23MqMdrYhhuf1vtS) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Answers](https://open.spotify.com/album/4Rv4S6zw3hCRlwAt3KbW1X) | 4:48 |
 
-Snapshot ID: `MTY0NTAzMjk5MywwMDAwMDE5MDAwMDAwMTdmMDM5YjcxOGIwMDAwMDE3ZjAzNDNlMjI5`
+Snapshot ID: `MTY0NTU1NTcxNSwwMDAwMDE5MTAwMDAwMTdmMjJjMzhjN2EwMDAwMDE3ZjAzNDNlMjI5`

@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 274133,
       "name": "Black & Gold",
       "url": "https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 262240,
       "name": "Cocotte",
       "url": "https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP"
@@ -499,10 +499,32 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 323226,
       "name": "Gravity's Rainbow - Van She Remix",
       "url": "https://open.spotify.com/track/0UOq9I2TUPEvUakR2lSvUH"
+    },
+    {
+      "album": {
+        "name": "Kitsun\u00e9 Maison Compilation 3",
+        "url": "https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        },
+        {
+          "name": "Van She",
+          "url": "https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323226,
+      "name": "Gravity's Rainbow - Van She Remix",
+      "url": "https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC"
     },
     {
       "album": {
@@ -575,7 +597,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 222407,
       "name": "I <3 U SO",
       "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
@@ -615,7 +637,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "I Wish You Were Gone",
       "url": "https://open.spotify.com/track/3RyDFS2tLuXS9S8tV3ddib"
@@ -826,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Soundboy Rock",
+        "url": "https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275080,
+      "name": "Love Sweet Sound",
+      "url": "https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7"
+    },
+    {
+      "album": {
         "name": "Lucky Girl",
         "url": "https://open.spotify.com/album/24M4RHQiCD92uqxXomsOyl"
       },
@@ -855,7 +895,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 261009,
       "name": "Mars",
       "url": "https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp"
@@ -873,7 +913,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 195960,
       "name": "Meddle",
       "url": "https://open.spotify.com/track/5hBeax0At5KAHY2XjVRvxX"
@@ -927,7 +967,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 312146,
       "name": "Move My Body - Only4Erolmix",
       "url": "https://open.spotify.com/track/3eynnFbFQwskKdJ97Nckw9"
@@ -1077,6 +1117,24 @@
       "duration_ms": 257762,
       "name": "One out of Two (feat. Irfane) - Oliver Remix",
       "url": "https://open.spotify.com/track/3WotuIJeltDKfxTGefkQYc"
+    },
+    {
+      "album": {
+        "name": "My New Remixes",
+        "url": "https://open.spotify.com/album/2cB0YQvz9gBW6CeScbnWi6"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473333,
+      "name": "Out the Door (Superdiscount Remix)",
+      "url": "https://open.spotify.com/track/3eKip6RDQ6yeHeKH8Fg2aa"
     },
     {
       "album": {
@@ -1271,7 +1329,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 379226,
       "name": "Signatune - Thomas Bangalter Edit",
       "url": "https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20"
@@ -1365,7 +1423,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 293882,
       "name": "Suspense Is Killing Me",
       "url": "https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju"
@@ -1383,7 +1441,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 284280,
       "name": "Technologic",
       "url": "https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE"
@@ -1597,7 +1655,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 372600,
       "name": "Waters of Nazareth - Erol Alkan Remix",
       "url": "https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj"
@@ -1619,7 +1677,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 522718,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1Gc1jlpUAG98SYmec611A2"
@@ -1655,7 +1713,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 344491,
       "name": "We Are The People - Shazam Remix",
       "url": "https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx"
@@ -1713,7 +1771,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 237739,
       "name": "You",
       "url": "https://open.spotify.com/track/37uDQ9iultffN3VQV8nU5j"

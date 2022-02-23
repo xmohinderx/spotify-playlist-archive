@@ -1,12 +1,12 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Haley Joelle",
-  "num_followers": 1186399,
+  "num_followers": 1187000,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQ2MCwwMDAwMDU3OTAwMDAwMTdmMGIzNDZmNzQwMDAwMDE3ZWUxZmI5NGIy",
+  "snapshot_id": "MTY0NTU2OTc0NSwwMDAwMDU3YTAwMDAwMTdmMjM5OWEzNGIwMDAwMDE3ZWUxZmI5NGIy",
   "tracks": [
     {
       "added_at": "2022-02-18 05:01:00",
@@ -327,7 +327,7 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Trouble",
+        "name": "Trouble (from \u2018Three Months\u2019)",
         "url": "https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8"
       },
       "artists": [
@@ -341,7 +341,7 @@
         }
       ],
       "duration_ms": 203466,
-      "name": "Trouble",
+      "name": "Trouble (from \u2018Three Months\u2019)",
       "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"
     },
     {
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
         "name": "fiimy (fuck it, i miss you)",
         "url": "https://open.spotify.com/album/4Vygyz6oY8L618erw7bx99"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 180000,
       "name": "in limbo",
       "url": "https://open.spotify.com/track/56hwmdoq1J9wraXavl7QSM"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
     },
     {
       "added_at": "2022-02-18 05:01:00",

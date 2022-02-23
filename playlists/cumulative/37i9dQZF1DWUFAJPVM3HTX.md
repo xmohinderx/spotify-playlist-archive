@@ -274,6 +274,6 @@
 | [XYZ](https://open.spotify.com/track/10UmkHqsE6tsHEdLXFNrUD) | [Broderick Jones](https://open.spotify.com/artist/6qotp0EA1aHJPk6YnbVtGK), [Lily Massie](https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9) | [Maybe Tomorrow](https://open.spotify.com/album/5be7vNlFxykGT9U0S5u67z) | 2:24 | 2021-12-01 | 2022-01-13 |
 | [YOU](https://open.spotify.com/track/4fKV9kopNb2WcNCtRSxRlh) | [Alexis Ray Parker](https://open.spotify.com/artist/40EmbKsKeEAnYvYcIdLkRw) | [YOU](https://open.spotify.com/album/2UZgR5ljtExIx9lLCdjLXo) | 3:30 | 2022-02-02 | 2022-02-18 |
 | [You Fake AF](https://open.spotify.com/track/54J84VVN4qh4xZkVEaCaCi) | [Sarey Savy](https://open.spotify.com/artist/4tT0QKqmBsGZywpBfLdU7C), [Kingdow](https://open.spotify.com/artist/0Ch6Wj8MJS9nt869qS8Ooj), [Emanuel Brown](https://open.spotify.com/artist/1Kywxpr8keQxuQq1wGBYRu) | [You Fake AF](https://open.spotify.com/album/6ZJKTtZxDfb6MEGtJrX1KF) | 3:29 | 2022-02-02 |  |
-| [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/2UkjsQdVy00wXXsRfdPmNl) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 | 2022-02-16 |  |
+| [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 | 2022-02-16 |  |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

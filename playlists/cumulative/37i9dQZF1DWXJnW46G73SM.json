@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Romansiya",
+        "url": "https://open.spotify.com/album/2QVGKT995oqS7roo29KHza"
+      },
+      "artists": [
+        {
+          "name": "Jana Rouhana",
+          "url": "https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194701,
+      "name": "Romansiya",
+      "url": "https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6"
+    },
+    {
+      "album": {
         "name": "\u0635\u0627\u062d\u0628 \u0627\u0644\u062c\u0645\u0627\u0644",
         "url": "https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41"
       },
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 275806,
       "name": "Wagaa Kam Youm",
       "url": "https://open.spotify.com/track/0pxGNAjZ6ngccUf5ehwjPB"

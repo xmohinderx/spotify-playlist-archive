@@ -2,7 +2,7 @@
 
 ### [Transcend](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
-> Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Freddie Lewis
+> Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

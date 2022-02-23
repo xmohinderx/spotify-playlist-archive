@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Kennedy Rd., Artwork: Crystal Zapata
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,617 likes - 98 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,850 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lily Apart](https://open.spotify.com/track/6EECRcDjI5034NQestBztm) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Peace + Harmony](https://open.spotify.com/album/6zi5m2AW0m14vtgwlOEM3H) | 2:47 |
 | 2 | [Waves Of Love](https://open.spotify.com/track/7FKHOjtCDh4kv3npLlqx3e) | [Kennedy Rd.](https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu) | [Waves Of Love \- Vol 1](https://open.spotify.com/album/21ry79SyedhRneG6N2ghOY) | 2:45 |
-| 3 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [Barii](https://open.spotify.com/artist/2UkjsQdVy00wXXsRfdPmNl) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
+| 3 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 |
 | 4 | [for you](https://open.spotify.com/track/7sP7dTAajbQse9n1t2OmhF) | [Ley Vara](https://open.spotify.com/artist/5HAxw9TeQTbFuULp22xkXO) | [for you](https://open.spotify.com/album/6JMbJnX6y54Cd4JTqN3FuN) | 3:28 |
 | 5 | [NFMU](https://open.spotify.com/track/5pR1FhqTL3zdjKgkCjCjkr) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [NFMU](https://open.spotify.com/album/70tz8cJAttf17rcENXz4cQ) | 3:18 |
 | 6 | [Bamboo](https://open.spotify.com/track/3qEJUyevEIcoYFYS6oNqi9) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Candid](https://open.spotify.com/album/13wWno0G43cztuh7WGXexr) | 4:50 |

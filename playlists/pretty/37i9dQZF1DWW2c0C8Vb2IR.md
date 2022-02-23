@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Tigran Hamasyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,257 likes - 71 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,309 likes - 71 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 15 | [Apacheta](https://open.spotify.com/track/1iP2NxDEnuAoK574fdF0fI) | [Bon Voyage Organisation](https://open.spotify.com/artist/4gkx8gV63YiYwvEiVDEYeK) | [Apacheta](https://open.spotify.com/album/1X1l31GGvC0jjPVcY7OAVg) | 4:11 |
 | 16 | [Minor Clues \- Live at Montmartre 2020](https://open.spotify.com/track/7B29Vk9I4nrDceJIbCSqZS) | [Bévort 3](https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W), [Pernille Bévort](https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Espen Laub von Lillienskjold](https://open.spotify.com/artist/2HD6XSwIbTymHXSshxSlnF) | [Bévort 3 Live 2020\-2021](https://open.spotify.com/album/1PyDy2tDIe5lIP6ekxI8X9) | 7:43 |
 | 17 | [music for bat caves](https://open.spotify.com/track/4bEwNLdAd8U3lspLVFDLQS) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [music for bat caves](https://open.spotify.com/album/23TRRY7IT0wFvHDjXJnqut) | 5:00 |
-| 18 | [Bolero, Mountain and Clouds \- Live](https://open.spotify.com/track/2gYDWCJ83rVgExXeyrJGPZ) | [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ), [Moshe Elmakias](https://open.spotify.com/artist/1LGYi320lohQtTEJSJFQFb), [Ehud Ettun](https://open.spotify.com/artist/6FYO4my0MZxbXJGuwXILWH), [Haim Peskoff](https://open.spotify.com/artist/5RFRqOaJqzfTXIpWUmkeeR) | [Bolero, Mountain and Clouds \(Live\)](https://open.spotify.com/album/6ZChKtSdWUubvA2UaoSMVY) | 5:23 |
+| 18 | [Bolero, Mountain and Clouds \- Live](https://open.spotify.com/track/2gYDWCJ83rVgExXeyrJGPZ) | [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ), [Moshe Elmakias](https://open.spotify.com/artist/1J22wLDqobeR19lXM098gx), [Ehud Ettun](https://open.spotify.com/artist/6FYO4my0MZxbXJGuwXILWH), [Haim Peskoff](https://open.spotify.com/artist/5RFRqOaJqzfTXIpWUmkeeR) | [Bolero, Mountain and Clouds \(Live\)](https://open.spotify.com/album/6ZChKtSdWUubvA2UaoSMVY) | 5:23 |
 | 19 | [Remotely Close: Purple Midnight](https://open.spotify.com/track/6hlLsM5H55Rd8Abx7ktbcH) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Çağrı Sertel](https://open.spotify.com/artist/76Ldoh2j78nY2ThwAuFkBT) | [Remotely Close: Purple Midnight](https://open.spotify.com/album/6SPY2JJaGA3gPWrKx5ftcJ) | 6:21 |
 | 20 | [Persistence](https://open.spotify.com/track/37xiYWIg7WS01fbtn2zPMm) | [Michael Weiss](https://open.spotify.com/artist/0CT9ey2aaPfiC1IYcpiOqn) | [Persistence](https://open.spotify.com/album/2DVXcIio0XzCqC0yb7OctX) | 5:18 |
 | 21 | [Nigeria II](https://open.spotify.com/track/37byj2xxWn2vfKXtWHWps3) | [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Jason Palmer](https://open.spotify.com/artist/4p1XWXdj83wryyzZTpeWf3), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Jonathan Pinson](https://open.spotify.com/artist/1w10UwbvQeM2PjOhk0Uy3n) | [Nigeria II](https://open.spotify.com/album/0SB13T4812GuNrwniRd2Rq) | 4:33 |

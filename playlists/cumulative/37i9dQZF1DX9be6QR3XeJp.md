@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9be6QR3XeJp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9be6QR3XeJp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9be6QR3XeJp)
 
-### RADAR: First Listen
+### [RADAR: First Listen](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 > Discover your new favourite artists\. Cover: Arz
 

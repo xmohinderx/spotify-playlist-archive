@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 301843,
       "name": "26 Basslines",
       "url": "https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 339428,
       "name": "Act Like You Know - Dubstep Mix",
       "url": "https://open.spotify.com/track/7wNtcpvxS7xU1apfK46bSD"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 270917,
       "name": "Blurgh!",
       "url": "https://open.spotify.com/track/2A7PvmTcv2L9c7TlJp9a9e"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 282857,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/5qRe3KNf0uXJpt1RKEAEwI"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 250880,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6WZ5EMzMDchO374npQHpp5"
@@ -462,6 +462,28 @@
     },
     {
       "album": {
+        "name": "Magnetic Man",
+        "url": "https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Man",
+          "url": "https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL"
+        },
+        {
+          "name": "Angela Hunte",
+          "url": "https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "I Need Air (feat. Angela Hunte)",
+      "url": "https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q"
+    },
+    {
+      "album": {
         "name": "Box Of Dub: Dubstep And Future Dub",
         "url": "https://open.spotify.com/album/79lOQ3ektrxE8PtKDH5uYS"
       },
@@ -473,7 +495,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 319680,
       "name": "I Wait",
       "url": "https://open.spotify.com/track/7vzyc7ezmFEmvdeoS8DeZu"
@@ -749,7 +771,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 306891,
       "name": "Music in Me",
       "url": "https://open.spotify.com/track/3sSwdKGqxmpycfrRHY61Mf"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 240011,
       "name": "Still Getting It",
       "url": "https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-23",
       "duration_ms": 275056,
       "name": "Sweet Shop",
       "url": "https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga"

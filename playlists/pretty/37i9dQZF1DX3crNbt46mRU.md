@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Vanessa Mai, ART
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,698 likes - 106 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,708 likes - 106 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 22 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 |
 | 23 | [Social Media](https://open.spotify.com/track/71iG5iUUojGR0J6qDyTBql) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Social Media](https://open.spotify.com/album/58Tr012NE3c5z6WCUUaJ2Z) | 2:50 |
 | 24 | [Nightmare](https://open.spotify.com/track/4F4ClGg9xboxx1IpQjloxB) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Lil Jana](https://open.spotify.com/artist/37pMWT5b4KoGsQrjn9yljN) | [Nightmare](https://open.spotify.com/album/3QFGsXXi5xOqeKw9ageOpW) | 2:42 |
-| 25 | [Trouble](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
+| 25 | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
 | 26 | [Nur nicht so](https://open.spotify.com/track/6ODazKNKFf3jHmJsOLzlCH) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nur nicht so](https://open.spotify.com/album/0ZZGNJEXNqn5dT0VlwtV9F) | 2:46 |
 | 27 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 |
 | 28 | [Heaven](https://open.spotify.com/track/1rcb3DfB5lIHCqpei0sI6u) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Zaba](https://open.spotify.com/artist/77sT35eJQjKHVHtoUJKPLj) | [Heaven](https://open.spotify.com/album/4pHNczoxybWvazn65RSypj) | 2:49 |

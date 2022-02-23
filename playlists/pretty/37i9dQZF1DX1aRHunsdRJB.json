@@ -1,13 +1,33 @@
 {
   "description": "A fusion of sounds from the islands where Soca meets Bashment. Cover: Lil Rick",
-  "num_followers": 5099,
+  "num_followers": 5102,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTQ5MDcwMiwwMDAwMDAwMDE3OTA0NWU1NzQyNTcyMDhkNGUyZjdhMTlkNTQ2NTdi",
+  "snapshot_id": "MTY0NTU3NzQxMCwwMDAwMDAwMDdiZGRhMDY0NWFmMDdkNjY0OGI0MTVkODBiYTA3YTk0",
   "tracks": [
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/4WMQmMmceazgRSRr7har02"
+    },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
@@ -31,162 +51,66 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Famalay",
-        "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/3lJtNVyWs8DsPkzXNmcPpz"
       },
       "artists": [
         {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
         }
       ],
-      "duration_ms": 199020,
-      "name": "Famalay",
-      "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
+      "duration_ms": 230711,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/3PdQYBDeYtW6cDfdLquY0F"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/0fhlC4Bp0yWFry5VPZmM9o"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Boss Lady (Sign Me Up)",
-      "url": "https://open.spotify.com/track/4gVuFNokTonwVzCOS7BUk9"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/4trbSqUbXaoBoAPLKu2Ydb"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/1XUOJLLKgwyk5W1jZ70k8T"
-      },
-      "artists": [
-        {
-          "name": "Gbmnutron",
-          "url": "https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Practice",
-      "url": "https://open.spotify.com/track/2WIrKjhZx238oVJA8ibXSE"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Yuh Bad (No Stressing)",
-        "url": "https://open.spotify.com/album/3ed4T3U42xWFho2ZTgcqW7"
-      },
-      "artists": [
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/3SnokHzCvZtJEWNyCfcAUZ"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "The 2:00AM Project",
-        "url": "https://open.spotify.com/album/20XQxBrkD07fk55JehBpjq"
-      },
-      "artists": [
-        {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
-        }
-      ],
-      "duration_ms": 215334,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Stage Gone Bad",
-        "url": "https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Stage Gone Bad",
-      "url": "https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/0fhlC4Bp0yWFry5VPZmM9o"
+        "name": "Fuego Riddim",
+        "url": "https://open.spotify.com/album/6Rw9J5YJmubP6bATbswtxl"
       },
       "artists": [
         {
           "name": "Motto",
           "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        },
+        {
+          "name": "Blackboy",
+          "url": "https://open.spotify.com/artist/7ln7FYeX80BuED8mKo4OTN"
+        },
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/43MY7dXYJiMHbDTgaSZE4x"
         }
       ],
-      "duration_ms": 137195,
-      "name": "Shots (One for di Road)",
-      "url": "https://open.spotify.com/track/7n6PtQ8QVddd66KQmdRnx8"
+      "duration_ms": 126458,
+      "name": "Man with Ride (Big Ride)",
+      "url": "https://open.spotify.com/track/6PNCFBp0KcpQX5xv5sUCKU"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Dumpling (Remix)",
+        "url": "https://open.spotify.com/album/6Cjp5NnE0J5WD4XkrVt9ds"
+      },
+      "artists": [
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 197227,
+      "name": "Dumpling - Remix",
+      "url": "https://open.spotify.com/track/4AaXmQvHMWNwZSoqi4kcsK"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -219,66 +143,38 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+        "name": "Bottle over Head",
+        "url": "https://open.spotify.com/album/1aI1aEmYhI36x8qPzWlqhh"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Wetty Beatz",
+          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+        },
+        {
+          "name": "Triniboi Joocie",
+          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+      "duration_ms": 208615,
+      "name": "Bottle over Head",
+      "url": "https://open.spotify.com/track/6mNRtq9sSs2S3wU8adUYA0"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Soca Virgin",
-        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 185025,
-      "name": "Sexin",
-      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Smoke Mask Riddim",
-        "url": "https://open.spotify.com/album/3y8wtlDAAWDehbuJCaZG3Q"
-      },
-      "artists": [
-        {
-          "name": "Lednek",
-          "url": "https://open.spotify.com/artist/0zjsPa0DklEYp44vmnEMCj"
-        }
-      ],
-      "duration_ms": 202023,
-      "name": "Down in de Meat",
-      "url": "https://open.spotify.com/track/53vZJIaSsJW6VE5qMwuA8a"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/03D71UZopQLwbVFH88n1zr"
-      },
-      "artists": [
-        {
-          "name": "Jadel",
-          "url": "https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH"
-        }
-      ],
-      "duration_ms": 233394,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/7s489YdEjOl8mGcSRFLgzi"
+      "duration_ms": 221160,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -303,22 +199,82 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Bottle over Head",
-        "url": "https://open.spotify.com/album/1aI1aEmYhI36x8qPzWlqhh"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/1XUOJLLKgwyk5W1jZ70k8T"
       },
       "artists": [
         {
-          "name": "Wetty Beatz",
-          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
-        },
-        {
-          "name": "Triniboi Joocie",
-          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
+          "name": "Gbmnutron",
+          "url": "https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Bottle over Head",
-      "url": "https://open.spotify.com/track/6mNRtq9sSs2S3wU8adUYA0"
+      "duration_ms": 185660,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/2WIrKjhZx238oVJA8ibXSE"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/0fhlC4Bp0yWFry5VPZmM9o"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "Shots (One for di Road)",
+      "url": "https://open.spotify.com/track/7n6PtQ8QVddd66KQmdRnx8"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/0fhlC4Bp0yWFry5VPZmM9o"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Boss Lady (Sign Me Up)",
+      "url": "https://open.spotify.com/track/4gVuFNokTonwVzCOS7BUk9"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -351,102 +307,194 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+        "name": "Bus a Wine",
+        "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
       },
       "artists": [
         {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        },
+        {
+          "name": "Fay-Ann Lyons",
+          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
         }
       ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+      "duration_ms": 183050,
+      "name": "Bus a Wine",
+      "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Private Zess",
-        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
+        "name": "Brik Pan Brik",
+        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
       },
       "artists": [
         {
-          "name": "K Lion",
-          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
-        },
-        {
-          "name": "Lr",
-          "url": "https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Private Zess",
-      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
+      "duration_ms": 160724,
+      "name": "Brik Pan Brik",
+      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Toatin Riddim",
-        "url": "https://open.spotify.com/album/7aBnHH25YAEGR3y2tuEfDv"
+        "name": "The Jakson Bay Project",
+        "url": "https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c"
       },
       "artists": [
         {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        },
-        {
-          "name": "Nessa Preppy",
-          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
-        },
-        {
-          "name": "Team Foxx",
-          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 116375,
-      "name": "Toat No Feelings",
-      "url": "https://open.spotify.com/track/1wuEorTikzzwzsOZBPFpzT"
+      "duration_ms": 199606,
+      "name": "Soak Me Good",
+      "url": "https://open.spotify.com/track/4b3AroQUoiU1rGvGlcg4DD"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "ThundaBolt (Riddim)",
-        "url": "https://open.spotify.com/album/1Y429eDap5QjyMHy1FUzQz"
+        "name": "Classy Riddim",
+        "url": "https://open.spotify.com/album/0kJUcI3GUv8ajfZQNMBKcE"
       },
       "artists": [
         {
-          "name": "Sizzdub",
-          "url": "https://open.spotify.com/artist/4C91n0YkR4vABvyt75cXl2"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         },
         {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+          "name": "Adana Roberts",
+          "url": "https://open.spotify.com/artist/2EHBsHQB3BxLczofLGQ7Y4"
         }
       ],
-      "duration_ms": 142497,
-      "name": "#ItAintMe",
-      "url": "https://open.spotify.com/track/2JB92xqDRqni4Vs48MjyiB"
+      "duration_ms": 235000,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/57vT8YfFjsllsHxqF1KGLR"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Stink Behavior",
-        "url": "https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T"
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11"
       },
       "artists": [
         {
-          "name": "Teddy Rhymez",
-          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Stink Behavior",
-      "url": "https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf"
+      "duration_ms": 189022,
+      "name": "Up & Up",
+      "url": "https://open.spotify.com/track/35Y7HJHsOaV1CQ8RisAqpd"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Mandrakes Riddim",
+        "url": "https://open.spotify.com/album/4JufEdzLQ2yJkXOlXknrLG"
+      },
+      "artists": [
+        {
+          "name": "Mandella Linkz",
+          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/5y3BRj2jk5ifjwRmPvrNk6"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Stage Gone Bad",
+        "url": "https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Stage Gone Bad",
+      "url": "https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Honda",
+        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+      },
+      "artists": [
+        {
+          "name": "Twani",
+          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Honda",
+      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/4trbSqUbXaoBoAPLKu2Ydb"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Yuh Bad (No Stressing)",
+        "url": "https://open.spotify.com/album/3ed4T3U42xWFho2ZTgcqW7"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/3SnokHzCvZtJEWNyCfcAUZ"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -471,114 +519,46 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
+        "name": "Beat Dem Bad",
+        "url": "https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1"
       },
       "artists": [
         {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        }
-      ],
-      "duration_ms": 146681,
-      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Tic It & Tac It",
-        "url": "https://open.spotify.com/album/3lNBIr8Qz94mdNCfUoqGQG"
-      },
-      "artists": [
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4rOtaKOGHla5WoXOmfYasI"
-        }
-      ],
-      "duration_ms": 124212,
-      "name": "Tic It & Tac It",
-      "url": "https://open.spotify.com/track/5X8aV69F0FrinCD9aiFSDI"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/3lJtNVyWs8DsPkzXNmcPpz"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/3PdQYBDeYtW6cDfdLquY0F"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Dumpling (Remix)",
-        "url": "https://open.spotify.com/album/6Cjp5NnE0J5WD4XkrVt9ds"
-      },
-      "artists": [
-        {
-          "name": "Stylo G",
-          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 197227,
-      "name": "Dumpling - Remix",
-      "url": "https://open.spotify.com/track/4AaXmQvHMWNwZSoqi4kcsK"
+      "duration_ms": 144065,
+      "name": "Beat Dem Bad",
+      "url": "https://open.spotify.com/track/16zJKw4xLkC6ssjawLYsQj"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Fuego Riddim",
-        "url": "https://open.spotify.com/album/6Rw9J5YJmubP6bATbswtxl"
+        "name": "Carib\u00e9 Ros\u00e9 Riddim",
+        "url": "https://open.spotify.com/album/5g7vAyBYjKR59SHWDm4jgl"
       },
       "artists": [
         {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
         },
         {
-          "name": "Blackboy",
-          "url": "https://open.spotify.com/artist/7ln7FYeX80BuED8mKo4OTN"
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
         },
         {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/43MY7dXYJiMHbDTgaSZE4x"
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
         }
       ],
-      "duration_ms": 126458,
-      "name": "Man with Ride (Big Ride)",
-      "url": "https://open.spotify.com/track/6PNCFBp0KcpQX5xv5sUCKU"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/2LVRaPCxqMF64kET557Qqj"
-      },
-      "artists": [
-        {
-          "name": "Jus D",
-          "url": "https://open.spotify.com/artist/6k1Y2g99ykUYvY6NnW9Rlh"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Boom Bang",
-      "url": "https://open.spotify.com/track/6gFQb0VIN3ucwjmOkyGYrH"
+      "duration_ms": 154909,
+      "name": "Bend Yuh Back",
+      "url": "https://open.spotify.com/track/4DZSF4iDjtUZa9ODwI8JhF"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -599,86 +579,18 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Mandrakes Riddim",
-        "url": "https://open.spotify.com/album/4JufEdzLQ2yJkXOlXknrLG"
+        "name": "Wrong Again",
+        "url": "https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b"
       },
       "artists": [
         {
-          "name": "Mandella Linkz",
-          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/5y3BRj2jk5ifjwRmPvrNk6"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        }
-      ],
-      "duration_ms": 189022,
-      "name": "Up & Up",
-      "url": "https://open.spotify.com/track/35Y7HJHsOaV1CQ8RisAqpd"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Bus a Wine",
-        "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        },
-        {
-          "name": "Fay-Ann Lyons",
-          "url": "https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Bus a Wine",
-      "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Planet Jab Riddim",
-        "url": "https://open.spotify.com/album/7CYbS4gvsMilj7IxwKvgpC"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191111,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/11GMCyq17gZQn82crt0HTb"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Nasty Up",
-      "url": "https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd"
+      "duration_ms": 166153,
+      "name": "Wrong Again",
+      "url": "https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -699,74 +611,18 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
       },
       "artists": [
         {
-          "name": "Twani",
-          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
         }
       ],
-      "duration_ms": 213864,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Wrong Again",
-        "url": "https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Wrong Again",
-      "url": "https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Brik Pan Brik",
-        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 160724,
-      "name": "Brik Pan Brik",
-      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Conch Shell",
-        "url": "https://open.spotify.com/album/2Np7QomldZGz81VIVtzVEQ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 192198,
-      "name": "Conch Shell",
-      "url": "https://open.spotify.com/track/2gPuVcELwDqeurkrzW8stq"
+      "duration_ms": 146681,
+      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -811,116 +667,60 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "The Jakson Bay Project",
-        "url": "https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c"
+        "name": "Bad in Bum Bum / Back Bend",
+        "url": "https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q"
       },
       "artists": [
         {
-          "name": "King Bubba",
-          "url": "https://open.spotify.com/artist/4ih7fBtkbLfVHepwP7OaFS"
-        }
-      ],
-      "duration_ms": 153947,
-      "name": "Ah Love It (Ting Nice)",
-      "url": "https://open.spotify.com/track/2bsdAXYvB3F5MduMPo24M3"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Classy Riddim",
-        "url": "https://open.spotify.com/album/0kJUcI3GUv8ajfZQNMBKcE"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+          "name": "Subance",
+          "url": "https://open.spotify.com/artist/0OjTKknaOkq9QvKKffPdpU"
         },
         {
-          "name": "Adana Roberts",
-          "url": "https://open.spotify.com/artist/2EHBsHQB3BxLczofLGQ7Y4"
+          "name": "Mighty",
+          "url": "https://open.spotify.com/artist/5stVQl2C3bSrgrQqZieo02"
         }
       ],
-      "duration_ms": 235000,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/57vT8YfFjsllsHxqF1KGLR"
+      "duration_ms": 151431,
+      "name": "Bad in Bum Bum / Back Bend",
+      "url": "https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW"
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11"
       },
       "artists": [
         {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
         }
       ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/4WMQmMmceazgRSRr7har02"
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Split in De Middle",
-        "url": "https://open.spotify.com/album/4oOWcccyUaZ4Z0bhAR4lPO"
+        "name": "Soca Virgin",
+        "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
       },
       "artists": [
         {
-          "name": "Freezy",
-          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 139109,
-      "name": "Split in De Middle",
-      "url": "https://open.spotify.com/track/0l60FqgMdi5nCgNVG7e3Wo"
+      "duration_ms": 185025,
+      "name": "Sexin",
+      "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Feeling It",
-        "url": "https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL"
-      },
-      "artists": [
-        {
-          "name": "Swappi",
-          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
-        },
-        {
-          "name": "Ultimate Rejects",
-          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
-        }
-      ],
-      "duration_ms": 247272,
-      "name": "Feeling It",
-      "url": "https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Soca Gold 2020",
-        "url": "https://open.spotify.com/album/6n7s47MvtPNdP5l4IxVVKH"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 142428,
-      "name": "It Ain't Me",
-      "url": "https://open.spotify.com/track/4VCNJoI3aRQevBrvu6WRIo"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Carib\u00e9 Ros\u00e9 Riddim",
-        "url": "https://open.spotify.com/album/5g7vAyBYjKR59SHWDm4jgl"
+        "name": "Famalay",
+        "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
       "artists": [
         {
@@ -928,157 +728,17 @@
           "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
         },
         {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         },
-        {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Bend Yuh Back",
-      "url": "https://open.spotify.com/track/4DZSF4iDjtUZa9ODwI8JhF"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Lookin' for China",
-        "url": "https://open.spotify.com/album/6md8CnJ0pfv57rx9QFhdK4"
-      },
-      "artists": [
         {
           "name": "Bunji Garlin",
           "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Lookin' for China",
-      "url": "https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Sick Jab Riddim (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64b0DuMUUkZcCG74lK0O1k"
-      },
-      "artists": [
-        {
-          "name": "Kisha",
-          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/1X5vD2UTatpahQUM0mbHSR"
-        }
-      ],
-      "duration_ms": 135941,
-      "name": "The People Man (T.P.M.)",
-      "url": "https://open.spotify.com/track/4s0lXstgGUbGesnLJb02Hy"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Gyal You A Party Animal",
-        "url": "https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Gyal You A Party Animal",
-      "url": "https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Physique Riddim (Soca 2018 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/1sd4esKKoH3QuUgHt5Pvz1"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 203499,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/1ocvBpgOHbD0vtnhD0cJSM"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Beat Dem Bad",
-        "url": "https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        },
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Beat Dem Bad",
-      "url": "https://open.spotify.com/track/16zJKw4xLkC6ssjawLYsQj"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Wileside Government",
-        "url": "https://open.spotify.com/album/10XhKqbnvtoGiAH7kCOXjO"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 202332,
-      "name": "Wileside Government",
-      "url": "https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx"
-    },
-    {
-      "added_at": "2020-09-25 15:19:58",
-      "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv"
+      "duration_ms": 199020,
+      "name": "Famalay",
+      "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -1095,6 +755,38 @@
       "duration_ms": 182773,
       "name": "Work",
       "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Tic It & Tac It",
+        "url": "https://open.spotify.com/album/3lNBIr8Qz94mdNCfUoqGQG"
+      },
+      "artists": [
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4rOtaKOGHla5WoXOmfYasI"
+        }
+      ],
+      "duration_ms": 124212,
+      "name": "Tic It & Tac It",
+      "url": "https://open.spotify.com/track/5X8aV69F0FrinCD9aiFSDI"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Lookin' for China",
+        "url": "https://open.spotify.com/album/6md8CnJ0pfv57rx9QFhdK4"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Lookin' for China",
+      "url": "https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -1119,22 +811,38 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Bad in Bum Bum / Back Bend",
-        "url": "https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q"
+        "name": "The 2:00AM Project",
+        "url": "https://open.spotify.com/album/20XQxBrkD07fk55JehBpjq"
       },
       "artists": [
         {
-          "name": "Subance",
-          "url": "https://open.spotify.com/artist/0OjTKknaOkq9QvKKffPdpU"
-        },
-        {
-          "name": "Mighty",
-          "url": "https://open.spotify.com/artist/5stVQl2C3bSrgrQqZieo02"
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
         }
       ],
-      "duration_ms": 151431,
-      "name": "Bad in Bum Bum / Back Bend",
-      "url": "https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E"
+      "duration_ms": 215334,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "ThundaBolt (Riddim)",
+        "url": "https://open.spotify.com/album/1Y429eDap5QjyMHy1FUzQz"
+      },
+      "artists": [
+        {
+          "name": "Sizzdub",
+          "url": "https://open.spotify.com/artist/4C91n0YkR4vABvyt75cXl2"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 142497,
+      "name": "#ItAintMe",
+      "url": "https://open.spotify.com/track/2JB92xqDRqni4Vs48MjyiB"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -1159,34 +867,234 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
+        "name": "Feeling It",
+        "url": "https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL"
+      },
+      "artists": [
+        {
+          "name": "Swappi",
+          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
+        },
+        {
+          "name": "Ultimate Rejects",
+          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+        }
+      ],
+      "duration_ms": 247272,
+      "name": "Feeling It",
+      "url": "https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Sick Jab Riddim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64b0DuMUUkZcCG74lK0O1k"
+      },
+      "artists": [
+        {
+          "name": "Kisha",
+          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/1X5vD2UTatpahQUM0mbHSR"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "The People Man (T.P.M.)",
+      "url": "https://open.spotify.com/track/4s0lXstgGUbGesnLJb02Hy"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Planet Jab Riddim",
+        "url": "https://open.spotify.com/album/7CYbS4gvsMilj7IxwKvgpC"
+      },
+      "artists": [
+        {
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        }
+      ],
+      "duration_ms": 191111,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/11GMCyq17gZQn82crt0HTb"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Soca Gold 2020",
+        "url": "https://open.spotify.com/album/6n7s47MvtPNdP5l4IxVVKH"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 142428,
+      "name": "It Ain't Me",
+      "url": "https://open.spotify.com/track/4VCNJoI3aRQevBrvu6WRIo"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/03D71UZopQLwbVFH88n1zr"
+      },
+      "artists": [
+        {
+          "name": "Jadel",
+          "url": "https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH"
+        }
+      ],
+      "duration_ms": 233394,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/7s489YdEjOl8mGcSRFLgzi"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Smoke Mask Riddim",
+        "url": "https://open.spotify.com/album/3y8wtlDAAWDehbuJCaZG3Q"
+      },
+      "artists": [
+        {
+          "name": "Lednek",
+          "url": "https://open.spotify.com/artist/0zjsPa0DklEYp44vmnEMCj"
+        }
+      ],
+      "duration_ms": 202023,
+      "name": "Down in de Meat",
+      "url": "https://open.spotify.com/track/53vZJIaSsJW6VE5qMwuA8a"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Toatin Riddim",
+        "url": "https://open.spotify.com/album/7aBnHH25YAEGR3y2tuEfDv"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        },
+        {
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        },
+        {
+          "name": "Team Foxx",
+          "url": "https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM"
+        }
+      ],
+      "duration_ms": 116375,
+      "name": "Toat No Feelings",
+      "url": "https://open.spotify.com/track/1wuEorTikzzwzsOZBPFpzT"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+      },
+      "artists": [
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        }
+      ],
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/2LVRaPCxqMF64kET557Qqj"
+      },
+      "artists": [
+        {
+          "name": "Jus D",
+          "url": "https://open.spotify.com/artist/6k1Y2g99ykUYvY6NnW9Rlh"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Boom Bang",
+      "url": "https://open.spotify.com/track/6gFQb0VIN3ucwjmOkyGYrH"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
         "name": "The Jakson Bay Project",
         "url": "https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "King Bubba",
+          "url": "https://open.spotify.com/artist/4ih7fBtkbLfVHepwP7OaFS"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Good WiFi",
-      "url": "https://open.spotify.com/track/6lYTAtpgedSEcb4vXBslhh"
+      "duration_ms": 153947,
+      "name": "Ah Love It (Ting Nice)",
+      "url": "https://open.spotify.com/track/2bsdAXYvB3F5MduMPo24M3"
     },
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "Toco Loco Riddim",
-        "url": "https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R"
+        "name": "Private Zess",
+        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
       },
       "artists": [
         {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+          "name": "K Lion",
+          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
+        },
+        {
+          "name": "Lr",
+          "url": "https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
+      "duration_ms": 168888,
+      "name": "Private Zess",
+      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T"
+      },
+      "artists": [
+        {
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Wileside Government",
+        "url": "https://open.spotify.com/album/10XhKqbnvtoGiAH7kCOXjO"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 202332,
+      "name": "Wileside Government",
+      "url": "https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -1207,18 +1115,58 @@
     {
       "added_at": "2020-09-25 15:19:58",
       "album": {
-        "name": "The Jakson Bay Project",
-        "url": "https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c"
+        "name": "Toco Loco Riddim",
+        "url": "https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R"
       },
       "artists": [
         {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
         }
       ],
-      "duration_ms": 199606,
-      "name": "Soak Me Good",
-      "url": "https://open.spotify.com/track/4b3AroQUoiU1rGvGlcg4DD"
+      "duration_ms": 184800,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Split in De Middle",
+        "url": "https://open.spotify.com/album/4oOWcccyUaZ4Z0bhAR4lPO"
+      },
+      "artists": [
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+        }
+      ],
+      "duration_ms": 139109,
+      "name": "Split in De Middle",
+      "url": "https://open.spotify.com/track/0l60FqgMdi5nCgNVG7e3Wo"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Conch Shell",
+        "url": "https://open.spotify.com/album/2Np7QomldZGz81VIVtzVEQ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 192198,
+      "name": "Conch Shell",
+      "url": "https://open.spotify.com/track/2gPuVcELwDqeurkrzW8stq"
     },
     {
       "added_at": "2020-09-25 15:19:58",
@@ -1235,6 +1183,58 @@
       "duration_ms": 173911,
       "name": "Behave Pun It",
       "url": "https://open.spotify.com/track/24zgCIu6PzdJD3hRl5LQzw"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "The Jakson Bay Project",
+        "url": "https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Good WiFi",
+      "url": "https://open.spotify.com/track/6lYTAtpgedSEcb4vXBslhh"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Physique Riddim (Soca 2018 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/1sd4esKKoH3QuUgHt5Pvz1"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 203499,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/1ocvBpgOHbD0vtnhD0cJSM"
+    },
+    {
+      "added_at": "2020-09-25 15:19:58",
+      "album": {
+        "name": "Gyal You A Party Animal",
+        "url": "https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Gyal You A Party Animal",
+      "url": "https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ"
     },
     {
       "added_at": "2020-09-25 15:19:58",

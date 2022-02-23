@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 
 > Hits written and produced by Max Martin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,628 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,817 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 | 95 | [On My Mind](https://open.spotify.com/track/5bMsQKxXv8K6WXkcbkALX6) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium](https://open.spotify.com/album/4Tshk6Zuynn3RAwStk3vxO) | 3:33 |
 | 96 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 |
 | 97 | [Carry You Home](https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:54 |
-| 98 | [I'll Be There for You \- Single Edit](https://open.spotify.com/track/4cgeOQBQzS7x5Bvd8hFO95) | [Solid Harmonie](https://open.spotify.com/artist/6yNUZIwI5jU8NytiDojI5M) | [Solid Harmonie](https://open.spotify.com/album/3AdywHtCpd76tYihaZzcUH) | 3:11 |
+| 98 | [I'll Be There for You \- Single Edit](https://open.spotify.com/track/4cgeOQBQzS7x5Bvd8hFO95) | [Solid HarmoniE](https://open.spotify.com/artist/4a7E7K63Sc944CmiOgcxd8) | [Solid Harmonie](https://open.spotify.com/album/3AdywHtCpd76tYihaZzcUH) | 3:11 |
 | 99 | [This Is How We Do](https://open.spotify.com/track/4DBkrkVzx7jxxIjxI6FYvz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/4lFDt4sVpCni9DRHRmDjgG) | 3:24 |
 | 100 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
 

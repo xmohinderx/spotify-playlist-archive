@@ -1,12 +1,12 @@
 {
   "description": "Home to all the latest indie jams. Cover: Khruangbin, Leon Bridges",
-  "num_followers": 148230,
+  "num_followers": 148253,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQwMCwwMDAwMDZiNDAwMDAwMTdmMGIzMzg1N2YwMDAwMDE3ZjBhMmRhN2I2",
+  "snapshot_id": "MTY0NTU2MjUyNCwwMDAwMDZiNTAwMDAwMTdmMjMyYjczMGYwMDAwMDE3ZjBhMmRhN2I2",
   "tracks": [
     {
       "added_at": "2022-02-18 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-02-18 05:00:00",
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "duration_ms": 193941,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
         "name": "Eat the Wine, Drink the Bread",
         "url": "https://open.spotify.com/album/0I6Jlvjmb9ulnlbrzyUXHI"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 186573,
       "name": "Happy Birthday Forever",
       "url": "https://open.spotify.com/track/5njLSLe1PmE7Jh0BcWrqqz"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY"
-      },
-      "artists": [
-        {
-          "name": "Niall Mutter",
-          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
-        }
-      ],
-      "duration_ms": 193941,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij"
     },
     {
       "added_at": "2022-02-18 05:00:00",

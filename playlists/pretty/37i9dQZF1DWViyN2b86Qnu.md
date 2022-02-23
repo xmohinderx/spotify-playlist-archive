@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 ### [Transcend](https://open.spotify.com/playlist/37i9dQZF1DWViyN2b86Qnu)
 
-> Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Freddie Lewis
+> Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,519 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,567 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 89 | [We Carry Us](https://open.spotify.com/track/4RPuf2f3BWwN0Cm0qyIR8y) | [bell's roar](https://open.spotify.com/artist/5FqTSzp5oPMMAIWCWIwIAT) | [We Carry Us](https://open.spotify.com/album/6gvfUPySiHdW8Ga9XFeYgj) | 3:46 |
 | 90 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY0NTM0OTM5NSwwMDAwMDA0ZDAwMDAwMTdmMTY3NzVkZWYwMDAwMDE3YzJlZThmYmNl`
+Snapshot ID: `MTY0NTUxMTQ4NiwwMDAwMDA0ZTAwMDAwMTdmMjAyMGFkMDIwMDAwMDE3ZjIwMjAyZjA3`
