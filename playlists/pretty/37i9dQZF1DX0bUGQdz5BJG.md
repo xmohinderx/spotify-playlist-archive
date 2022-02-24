@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Sean Stemaly
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,734 likes - 156 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,731 likes - 156 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 21 | [Whiskey Side](https://open.spotify.com/track/7lYXb5Vdlq0Y48j6kEPh6r) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [George Birge](https://open.spotify.com/album/0kLDP2T9Fv7Gd6UfZXmERd) | 2:45 |
 | 22 | [Miss Us Then](https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Miss Us Then](https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw) | 3:13 |
 | 23 | [Left Like That](https://open.spotify.com/track/6bLbScrsHZWVifYECkjBOl) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Left Like That](https://open.spotify.com/album/2tEiNDjEGvRLQZ7eBoktWF) | 3:29 |
-| 24 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good To You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:00 |
+| 24 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good to You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:00 |
 | 25 | [Left Me \(with YNW BSlime\)](https://open.spotify.com/track/2I3seK4Q5bLPtaTb9uGcxz) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [Left Me \(with YNW BSlime\)](https://open.spotify.com/album/4VP3UPCUDxDrD71ZJOQ03Q) | 2:41 |
 | 26 | [leaving the party](https://open.spotify.com/track/2xOJiMRH9QVBcM4o9waej9) | [Kat Johnson](https://open.spotify.com/artist/5DExv8aXqpN2NI3IyRzkMy) | [leaving the party](https://open.spotify.com/album/2mxOIUxhWRKKfFzaklQalv) | 3:34 |
 | 27 | [Phoenix](https://open.spotify.com/track/0jPfIZjJwNQ2kIJo9ud0c2) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Phoenix](https://open.spotify.com/album/0HFuOIg1YEfWUuL3retuGf) | 2:55 |

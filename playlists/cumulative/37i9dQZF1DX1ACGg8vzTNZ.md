@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1ACGg8vzTNZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ACGg8vzTNZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ACGg8vzTNZ)
 
-### Creative Writing
+### [Creative Writing](https://open.spotify.com/playlist/2ZN8XpPOZQfCyasAye62LJ)
 
 > Electronic, orchestral and ambient music to awaken your imagination.
 

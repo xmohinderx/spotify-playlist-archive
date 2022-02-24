@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: 347aidan
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,133 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,019 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 71 | [Hit My Line](https://open.spotify.com/track/15PrfgQsQ43DlLnwFZvhQm) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Don't Wait Up](https://open.spotify.com/album/4PCIgzgjxD6Ul8Lihd2ojF) | 3:30 |
 | 72 | [Bon voyage](https://open.spotify.com/track/6934xZ6P9VOCybFXgnx7nk) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Bon voyage](https://open.spotify.com/album/6Hy11BQnSBxrsBRekvMiib) | 4:05 |
 | 73 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 |
-| 74 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good To You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:00 |
+| 74 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good to You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:00 |
 | 75 | [Stumble My Words](https://open.spotify.com/track/51xGqrMU9CdhPGgDsJRgdF) | [Elijah Blond](https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt) | [Stumble My Words](https://open.spotify.com/album/3gS8UA2zFny6qbVNW68jHJ) | 2:35 |
 | 76 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 |
 | 77 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 |
-| 78 | [Come Over](https://open.spotify.com/track/1PjlJyLVv53xSRwD0KzvX9) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08), [TeaMarr](https://open.spotify.com/artist/7qK82gUDhlFGqkrOsiZIDx), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Over](https://open.spotify.com/album/7lvNlojG1C0yBwVfOc42MS) | 4:00 |
+| 78 | [Come Over](https://open.spotify.com/track/1PjlJyLVv53xSRwD0KzvX9) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08), [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Over](https://open.spotify.com/album/7lvNlojG1C0yBwVfOc42MS) | 4:00 |
 | 79 | [Stay](https://open.spotify.com/track/3koEQCObszK1d8rn2la7O3) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Stay](https://open.spotify.com/album/6uidjs2Vt0Pycb9I79DVAD) | 2:51 |
 | 80 | [Dreams Unfold](https://open.spotify.com/track/046srpP68Vu1evgrTPEQOU) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Dreams Unfold](https://open.spotify.com/album/6Gqu6tiY8zJPtgaXHBwSwZ) | 3:13 |
 | 81 | [Right Here](https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 2:55 |

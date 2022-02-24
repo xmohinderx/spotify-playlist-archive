@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/6d5v4120CpZzetL9nJqFsE"
+      },
+      "artists": [
+        {
+          "name": "The Mary Veils",
+          "url": "https://open.spotify.com/artist/64bSGonWU3cJ5JFgZx52zz"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237595,
+      "name": "Bone Blossom Green",
+      "url": "https://open.spotify.com/track/4mQmReGlJftOqZLwYAI9vH"
+    },
+    {
+      "album": {
         "name": "Born On The Outs",
         "url": "https://open.spotify.com/album/0YhdZgcJoeb3AmtWbfrnIn"
       },

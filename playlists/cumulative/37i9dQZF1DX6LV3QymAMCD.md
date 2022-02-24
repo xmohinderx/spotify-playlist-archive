@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6LV3QymAMCD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6LV3QymAMCD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6LV3QymAMCD)
 
-### [Ambient for Gamers](https://open.spotify.com/playlist/3Md31J19X71v2eVUZBIxTe)
+### [Chill Gaming](https://open.spotify.com/playlist/3Md31J19X71v2eVUZBIxTe)
 
-> Create the perfect mood for gaming.
+> Ambient music perfect for gaming.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

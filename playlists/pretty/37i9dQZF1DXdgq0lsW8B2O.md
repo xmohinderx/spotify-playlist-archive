@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,099 likes - 46 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,273 likes - 46 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 5 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
 | 6 | [Gloaming](https://open.spotify.com/track/56ARoXVByxL6Op5XTWa6qa) | [Ernest Hood](https://open.spotify.com/artist/0f5dQ7uAYmopoRAEF4VHo2) | [Neighborhoods](https://open.spotify.com/album/7N32BcLkZxz9CWOSEHSSKk) | 8:32 |
 | 7 | [2\. Satz: Gewitter \(Energy Rise \- Energy Collaps\)](https://open.spotify.com/track/5rlG4Fnws22Ecu6aXctE33) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Irrlicht \(Remastered 2017\)](https://open.spotify.com/album/6G1eYsIgEbtpXIDFQqIYUb) | 5:38 |
-| 8 | [Blues Nile](https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 9:54 |
+| 8 | [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 |
 | 9 | [Le singe bleu \- Remastered](https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 7:40 |
 | 10 | [Upland](https://open.spotify.com/track/2p092sEjd3oSlgyMwqa6vb) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Aqua](https://open.spotify.com/album/53HKgtgBcAKkBvnIJYBpx7) | 6:41 |
 | 11 | [Old Land](https://open.spotify.com/track/7crAkwlQExlgVnomwIlYrd) | [Eno Moebius Roedelius](https://open.spotify.com/artist/6iEkIlk9Pc3vFThI7NX78B) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 4:13 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 20 | [Weeping Wall \- 2017 Remaster](https://open.spotify.com/track/56jhj8hHTw3PEoFV74wn5j) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 3:29 |
 | 21 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
 | 22 | [Last Not Least](https://open.spotify.com/track/4msoPisSMcp5m46BF36Hvy) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [La Vie Electronique, Vol\. 2](https://open.spotify.com/album/1yZOrl7EsWSLgX0VZ05Qq8) | 7:01 |
-| 23 | [Toucan Ocean](https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 3:49 |
-| 24 | [Ecstasy](https://open.spotify.com/track/4s0itPf6pmVOv0tERWnKo1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Ecstasy](https://open.spotify.com/album/7eUVATOftzWOtfIGKPvx8S) | 11:53 |
+| 23 | [Ecstasy](https://open.spotify.com/track/4s0itPf6pmVOv0tERWnKo1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Ecstasy](https://open.spotify.com/album/7eUVATOftzWOtfIGKPvx8S) | 11:53 |
+| 24 | [Blues Nile](https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 9:54 |
 | 25 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
 | 26 | [Für Luise](https://open.spotify.com/track/2LwDYNc1Jdr0YdGgCD9yZA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Eno](https://open.spotify.com/artist/2yCbPUc3ofVEofx216xRaY) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:26 |
 | 27 | [Turó Park](https://open.spotify.com/track/5zmFlMg8bb043U5GXEgTZR) | [Neuronium](https://open.spotify.com/artist/4rs4oFrQ8IvFWoLv1vGGkC) | [Quasar 2C361 / Ultimate edition](https://open.spotify.com/album/24KaFIYNqXoUdORaA03t7b) | 4:20 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 45 | [Swastika Girls I](https://open.spotify.com/track/6Qi6sqViFIGP77beQoErWU) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 7:32 |
 | 46 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 
-Snapshot ID: `MTY0MDI3MjkxOCwwMDAwMDAwOTAwMDAwMTdkZTdlMjc4NGQwMDAwMDE3OWZhYzFjMDE0`
+Snapshot ID: `MTY0NTYyNjY1NCwwMDAwMDAwYTAwMDAwMTdmMjZmZGZlYWIwMDAwMDE3OWZhYzFjMDE0`

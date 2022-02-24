@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "album": {
         "name": "Calling You Out",
         "url": "https://open.spotify.com/album/0M67HzRPHDy2ChuFjrRHnV"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 386146,
       "name": "Damn It All",
       "url": "https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 237122,
       "name": "Dark Child - Single Edit",
       "url": "https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 202933,
       "name": "Me and Jasper",
       "url": "https://open.spotify.com/track/53E86s120v7oLNnVooMehI"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 174255,
       "name": "Quiet, Heavy Dreams",
       "url": "https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 220848,
       "name": "Scattershot",
       "url": "https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jan Lisiecki
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,081 likes - 60 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,332 likes - 60 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 27 | [Fly](https://open.spotify.com/track/667MdIOhCYIqDq3ka1X2FL) | [Jack Arrowsmith](https://open.spotify.com/artist/2J4oSElKPWQvXLhaYTvXNJ), [Arrowsmith](https://open.spotify.com/artist/3JhSV8X6sETpGxgkz9y5Gn) | [Fly](https://open.spotify.com/album/21S1no2FqbupgnCnoURMk8) | 3:10 |
 | 28 | [Suite in E Major, BWV 1006a: Suite in E Major, BWV 1006a: I\. Prélude](https://open.spotify.com/track/4eT6dNUwqCvKPK0Z6e0lhX) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Evangelina Mascardi](https://open.spotify.com/artist/25xXI19ZzvenYn1EafS3Az) | [Suite in E Major, BWV 1006a: I\. Prélude](https://open.spotify.com/album/1XqKkqKcXt3YIhdcezPae3) | 4:29 |
 | 29 | [Miniatura No.18 \- El Susurro de los Abetos](https://open.spotify.com/track/4Gl7d3PdKpVuizVawZvgXo) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.18 \- El Susurro de los Abetos](https://open.spotify.com/album/56fypqoimZwmMqzj4RBdKf) | 2:38 |
-| 30 | [A Lifetime Rolls By \- annasara Rework](https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu) | [Ben Moore](https://open.spotify.com/artist/4ecHkh1KQAt4EsJnLjEmfS), [Annasara Lundgren](https://open.spotify.com/artist/3gxZvPfTSI6EiJS9tVeuzg), [BPMoore](https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP), [annasara](https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ) | [A Lifetime Rolls By \(annasara Rework\)](https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo) | 2:56 |
+| 30 | [A Lifetime Rolls By \- annasara Rework](https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu) | [BPMoore](https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP), [annasara](https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ) | [A Lifetime Rolls By \(annasara Rework\)](https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo) | 2:56 |
 | 31 | [Young \(Old Pianos\)](https://open.spotify.com/track/2gtWo2CzW3hGmCxDAXSeTq) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9) | [Young \(Old Pianos\)](https://open.spotify.com/album/3xx25h1lRETDp3EbY7I90A) | 3:24 |
 | 32 | [Lumen Prime Aurore](https://open.spotify.com/track/1uU9Sr7Gr8d23Ffs8Sg9tj) | [Mary Finsterer](https://open.spotify.com/artist/0NvISupOASrYJM5VUoZsNZ), [Melbourne Symphony Orchestra](https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH), [Benjamin Northey](https://open.spotify.com/artist/3oUe7sIQ7vuMOXYtffyT6R) | [Lumen Prime Aurore](https://open.spotify.com/album/7EB1BdqkWHFnV1045V10XY) | 4:31 |
 | 33 | [The Knaresborough Service: II\. Nunc dimittis](https://open.spotify.com/track/2CcWWADdNFCyoPI8tyPMwL) | [Philip Wilby](https://open.spotify.com/artist/50zfOlzYlVWa73F6rbaMmd), [Belfast Cathedral Choir](https://open.spotify.com/artist/7lyDBM7UL9Yc9rlhKZUsYf), [Jack Wilson](https://open.spotify.com/artist/4fnMkKMXqiQewmL0s4Ge50), [Matthew Owens](https://open.spotify.com/artist/1XNpgJkal5vW63XlqYmmGA) | [The Knaresborough Service: II\. Nunc dimittis](https://open.spotify.com/album/5CBTtFTGGkUHbmL1F26hnA) | 3:55 |

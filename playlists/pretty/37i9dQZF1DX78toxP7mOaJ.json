@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock from independent artists every Wednesday. Cover: Rotten Mind | Artwork: Jim Klok",
-  "num_followers": 90435,
+  "num_followers": 90537,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTAzMDgwMCwwMDAwMDY4NzAwMDAwMTdmMDM3OWZhZjIwMDAwMDE3ZjAwM2E2ZWU2",
+  "snapshot_id": "MTY0NTYzNTYwMCwwMDAwMDY4ODAwMDAwMTdmMjc4NjdlZTgwMDAwMDE3ZjAwM2E2ZWU2",
   "tracks": [
     {
       "added_at": "2022-02-09 17:28:19",
@@ -111,6 +111,38 @@
     {
       "added_at": "2022-02-09 17:28:19",
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
+      },
+      "artists": [
+        {
+          "name": "Daphne's Couch",
+          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+        }
+      ],
+      "duration_ms": 166834,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
+    },
+    {
+      "added_at": "2022-02-23 17:00:00",
+      "album": {
+        "name": "I Don't Talk To Boys That Make Me Cry",
+        "url": "https://open.spotify.com/album/4zU666UjbEPi7rkZPL39GJ"
+      },
+      "artists": [
+        {
+          "name": "Penny Lame",
+          "url": "https://open.spotify.com/artist/5le4s6muS7AkzVpI8JU7n4"
+        }
+      ],
+      "duration_ms": 167476,
+      "name": "I Don't Talk To Boys That Make Me Cry",
+      "url": "https://open.spotify.com/track/0QJHqtOJJ3TbxgTK6hi21r"
+    },
+    {
+      "added_at": "2022-02-09 17:28:19",
+      "album": {
         "name": "Number",
         "url": "https://open.spotify.com/album/7iEf7zDbDYs0lFOejv1abs"
       },
@@ -173,22 +205,6 @@
       "url": "https://open.spotify.com/track/5Frhfvb1IsADUdBl5KUeiK"
     },
     {
-      "added_at": "2022-02-09 17:28:19",
-      "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
-      },
-      "artists": [
-        {
-          "name": "Daphne's Couch",
-          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
-        }
-      ],
-      "duration_ms": 166834,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
-    },
-    {
       "added_at": "2022-02-16 17:00:00",
       "album": {
         "name": "Crystal Ball",
@@ -237,6 +253,22 @@
       "url": "https://open.spotify.com/track/4oVgQG06f6wuF2awDh3Kcw"
     },
     {
+      "added_at": "2022-02-23 17:00:00",
+      "album": {
+        "name": "Molly Sells Molly By The Seashore",
+        "url": "https://open.spotify.com/album/4CLBaAh7QXO9GVPVBokZ7w"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 142545,
+      "name": "Molly Sells Molly By The Seashore",
+      "url": "https://open.spotify.com/track/7CcxWi6M4H22ga7IJfOAth"
+    },
+    {
       "added_at": "2022-02-16 17:00:00",
       "album": {
         "name": "Songs of Love",
@@ -251,6 +283,70 @@
       "duration_ms": 252644,
       "name": "Songs of Love",
       "url": "https://open.spotify.com/track/1Xdc2qkxnV6oZ2Gf3PeGxN"
+    },
+    {
+      "added_at": "2022-02-23 17:00:00",
+      "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
+    },
+    {
+      "added_at": "2022-02-09 17:28:19",
+      "album": {
+        "name": "American Holy Spirit",
+        "url": "https://open.spotify.com/album/0WBWExqhdbQGheTm7jYC05"
+      },
+      "artists": [
+        {
+          "name": "Mr. Neptoon",
+          "url": "https://open.spotify.com/artist/4NTrWPdN3Cs2x90Bwukh0A"
+        }
+      ],
+      "duration_ms": 237648,
+      "name": "American Holy Spirit",
+      "url": "https://open.spotify.com/track/6zrllqKVzbAuZuNzFSLplz"
+    },
+    {
+      "added_at": "2022-02-23 17:00:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6fHTDQDRufot2Hf7Xv3uaX"
+      },
+      "artists": [
+        {
+          "name": "Annie Blackman",
+          "url": "https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5PsqlqB67re3Ku1WJxzM7d"
+    },
+    {
+      "added_at": "2022-02-23 17:00:00",
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "duration_ms": 152462,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
     },
     {
       "added_at": "2022-02-16 17:00:00",
@@ -283,22 +379,6 @@
       "duration_ms": 162680,
       "name": "The Perfect Life",
       "url": "https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri"
-    },
-    {
-      "added_at": "2022-02-09 17:28:19",
-      "album": {
-        "name": "American Holy Spirit",
-        "url": "https://open.spotify.com/album/0WBWExqhdbQGheTm7jYC05"
-      },
-      "artists": [
-        {
-          "name": "Mr. Neptoon",
-          "url": "https://open.spotify.com/artist/4NTrWPdN3Cs2x90Bwukh0A"
-        }
-      ],
-      "duration_ms": 237648,
-      "name": "American Holy Spirit",
-      "url": "https://open.spotify.com/track/6zrllqKVzbAuZuNzFSLplz"
     },
     {
       "added_at": "2022-02-16 17:00:00",
@@ -823,22 +903,6 @@
     {
       "added_at": "2022-02-09 17:28:19",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/2UHuXMX9GKaukz8rXIJxJc"
-      },
-      "artists": [
-        {
-          "name": "Proper.",
-          "url": "https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK"
-        }
-      ],
-      "duration_ms": 207716,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/1jjNcILpXG7pVASLSzXl1O"
-    },
-    {
-      "added_at": "2022-02-09 17:28:19",
-      "album": {
         "name": "Skin, It Itches",
         "url": "https://open.spotify.com/album/1GIY54GWbymGXrOXucpDyV"
       },
@@ -899,22 +963,6 @@
       "duration_ms": 144538,
       "name": "AHHHH!",
       "url": "https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q"
-    },
-    {
-      "added_at": "2022-02-09 17:28:19",
-      "album": {
-        "name": "Don't Wanna Lose You",
-        "url": "https://open.spotify.com/album/5kJXTQJbDuQ0l1866naOt9"
-      },
-      "artists": [
-        {
-          "name": "El Camino Acid",
-          "url": "https://open.spotify.com/artist/2hoTclO4PIqW44Xh16aTPx"
-        }
-      ],
-      "duration_ms": 245414,
-      "name": "Don't Wanna Lose You",
-      "url": "https://open.spotify.com/track/0Ra68DPxTgqvMxM0kTs37K"
     },
     {
       "added_at": "2022-02-09 17:28:19",
@@ -1043,22 +1091,6 @@
       "duration_ms": 214000,
       "name": "Can Someone Take Me Home?",
       "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
-    },
-    {
-      "added_at": "2022-02-09 17:28:19",
-      "album": {
-        "name": "Death of a Cheerleader",
-        "url": "https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4"
-      },
-      "artists": [
-        {
-          "name": "Pom Pom Squad",
-          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
-        }
-      ],
-      "duration_ms": 189222,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/5ZVlnixH0HeB6igKEkoO9f"
     },
     {
       "added_at": "2022-02-09 17:28:19",
@@ -1251,22 +1283,6 @@
       "duration_ms": 163243,
       "name": "One For The Team",
       "url": "https://open.spotify.com/track/0dxUjFzSSDemp7mdN2palQ"
-    },
-    {
-      "added_at": "2022-02-09 17:28:19",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/6rTqONVETieqHDH6EpYsX9"
-      },
-      "artists": [
-        {
-          "name": "Darkbird",
-          "url": "https://open.spotify.com/artist/0iiltWiiNfnJEh1sUL3bWk"
-        }
-      ],
-      "duration_ms": 247336,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4oCJ4t1khwZqlBVldWzJES"
     },
     {
       "added_at": "2022-02-09 17:28:19",
@@ -1591,22 +1607,6 @@
       "duration_ms": 258185,
       "name": "Tamaryn (Wherever I Am)",
       "url": "https://open.spotify.com/track/1a2rkkSxS9IZqeHT4OxsTU"
-    },
-    {
-      "added_at": "2022-02-09 17:28:19",
-      "album": {
-        "name": "This Doesn't Feel Like Home (Unreleased Demos 2011-2014)",
-        "url": "https://open.spotify.com/album/0cE6gAUsBfB6JVcHoFLCuf"
-      },
-      "artists": [
-        {
-          "name": "Pop Zeus",
-          "url": "https://open.spotify.com/artist/5aEfUZWBjLVTfO8ExxrGOP"
-        }
-      ],
-      "duration_ms": 199624,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/00ykdUKhS7JGeG42coRDtr"
     },
     {
       "added_at": "2022-02-09 17:28:19",

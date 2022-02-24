@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 203906,
       "name": "Before We Make It Real",
       "url": "https://open.spotify.com/track/6N0aQvnu2lc73bVznVm2h2"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 239702,
       "name": "Don't Bother Calling",
       "url": "https://open.spotify.com/track/5dqNCR3ANsOIMeQLpk54wU"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 210240,
       "name": "Easily",
       "url": "https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 227906,
       "name": "It's Our Love",
       "url": "https://open.spotify.com/track/2ZA4tDZvsxFO6Yw5OENin7"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 297732,
       "name": "Pollinate",
       "url": "https://open.spotify.com/track/62AkEfE6QtLE6e81t79k8r"
@@ -2178,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Vacuum",
+        "url": "https://open.spotify.com/album/3vbu32RIo2JFnE4qJotjK1"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182856,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/08dWzsbcHpduLw8WsANcWp"
+    },
+    {
+      "album": {
         "name": "All Good Things, Pt. One",
         "url": "https://open.spotify.com/album/28nVatAiX0Q9aBbped6XpX"
       },
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 218306,
       "name": "White Gloves",
       "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"

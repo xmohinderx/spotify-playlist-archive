@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,471 likes - 632 songs - 1 day 18 hr 29 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,471 likes - 633 songs - 1 day 18 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -640,5 +640,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 630 | [Red Fresco](https://open.spotify.com/track/3EwsTYvetbyJ1cah2Qo8yC) | [Raoul Vignal](https://open.spotify.com/artist/2dhK4evl9ePjM6Kg59Tf3Q) | [Years In Marble](https://open.spotify.com/album/2UVHR1TacY5GRSC1O2iBgl) | 3:11 |
 | 631 | [Wind Of Change](https://open.spotify.com/track/2lCuCNqtqSKMOqED1XXHzm) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:52 |
 | 632 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 |
+| 633 | [In The Fade](https://open.spotify.com/track/4KGdFDc2InqRHYCZt4svYc) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R](https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6) | 3:50 |
 
-Snapshot ID: `MTY1Myw4NmQwYWRhMTYzOTdiZGFiMjczOGNmYWY2MWM3NDVmOTkxNTUyMDk1`
+Snapshot ID: `MTY1NCxmZTRhYTA5NWZiNjBkMzI1ZDVhYTRlOTBkMTg0NzQzMThhMzkzZjc5`

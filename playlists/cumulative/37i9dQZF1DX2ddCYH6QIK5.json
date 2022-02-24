@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: LOBSTERBOMB, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Lucy Dye, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -63,6 +63,28 @@
       "duration_ms": 284379,
       "name": "7 Tage",
       "url": "https://open.spotify.com/track/7F63YlipDAEFyCOblvc7gC"
+    },
+    {
+      "album": {
+        "name": "Ah Oke",
+        "url": "https://open.spotify.com/album/5sZDQSzZ04FC77Eo6NjFAm"
+      },
+      "artists": [
+        {
+          "name": "Winston",
+          "url": "https://open.spotify.com/artist/0Og6u9uqkO3NQTkblJzdPj"
+        },
+        {
+          "name": "Urbannino",
+          "url": "https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "Ah Oke",
+      "url": "https://open.spotify.com/track/5LVKCKBN4u37YNFxlq4jen"
     },
     {
       "album": {
@@ -492,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Die Welt ist fertig",
+        "url": "https://open.spotify.com/album/5nTHiVkexfddhYi4XGT5N1"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Kroell",
+          "url": "https://open.spotify.com/artist/2IcGy1brtZ8HGkGB4oUczD"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240813,
+      "name": "Die Welt ist fertig",
+      "url": "https://open.spotify.com/track/3LUOcqlu46rIVkRRxJF0mU"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/2l0sH1SB0Jmg8e2goslpMw"
       },
@@ -507,6 +547,24 @@
       "duration_ms": 261560,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/3BczD0zNsbDGpHZGfmoB7D"
+    },
+    {
+      "album": {
+        "name": "Double Door",
+        "url": "https://open.spotify.com/album/7gpqk7b3VVkEG3Eb7CTSl0"
+      },
+      "artists": [
+        {
+          "name": "metty",
+          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Double Door",
+      "url": "https://open.spotify.com/track/2jwQdjwp1KTOAVzZQUp0L6"
     },
     {
       "album": {
@@ -683,7 +741,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 218517,
       "name": "Entflog",
       "url": "https://open.spotify.com/track/6GvuaiccoN4ANlFQABCsRL"
@@ -853,7 +911,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 159071,
       "name": "Gun to My Head",
       "url": "https://open.spotify.com/track/4qcabnkx8E5JBU6sJqgoP5"
@@ -1249,7 +1307,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 282302,
       "name": "Isny",
       "url": "https://open.spotify.com/track/5iKBVKD5QtKxdB6tz6tclW"
@@ -1285,7 +1343,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 228997,
       "name": "John Stamos",
       "url": "https://open.spotify.com/track/1zCvb6GfVWu8yITp0eUN8v"
@@ -1494,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "Lie To You",
+        "url": "https://open.spotify.com/album/0S6edkCoX4LNC9wm01AmG9"
+      },
+      "artists": [
+        {
+          "name": "TALYA",
+          "url": "https://open.spotify.com/artist/3pERWvcXQcstiJ8KV7IB5B"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215816,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/6FKIKLy6wDeFgRBpEIRnmh"
+    },
+    {
+      "album": {
         "name": "Gonna Be Fine",
         "url": "https://open.spotify.com/album/40p8TMPlfO20tifVhpLWZt"
       },
@@ -1595,10 +1671,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 243961,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/02PhpSVOVkxsfFXZb4XP8s"
+    },
+    {
+      "album": {
+        "name": "Messed Up",
+        "url": "https://open.spotify.com/album/0JACH2mBW7ti3BPFD7C39N"
+      },
+      "artists": [
+        {
+          "name": "FFX353",
+          "url": "https://open.spotify.com/artist/52tBzzZ5mfMvZVSTSnSOks"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167671,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/4TqblH1OFtimFOE1Q4SFSK"
     },
     {
       "album": {
@@ -1768,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/2R6rqIY8Or07Bvd3QOQPRY"
+      },
+      "artists": [
+        {
+          "name": "Egotape",
+          "url": "https://open.spotify.com/artist/0ecB18B9tB4NUxi5zg3exz"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1QE8Kb0Sb9FsQXS585oka8"
+    },
+    {
+      "album": {
         "name": "Out for Something",
         "url": "https://open.spotify.com/album/7ASdskcy04ncFp1DiJMv5n"
       },
@@ -1815,7 +1927,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 223000,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/1GO5INaTsHxBZ77Mlk755E"
@@ -1851,7 +1963,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 171155,
       "name": "Pull Up Flex",
       "url": "https://open.spotify.com/track/5unI1BEFCZkXp4UV34xTQB"
@@ -2139,7 +2251,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 271833,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7zVIFvH514q4PX5RL0Ro24"
@@ -2223,6 +2335,24 @@
       "duration_ms": 392215,
       "name": "Stranger's Eyes",
       "url": "https://open.spotify.com/track/6ZIfLnMw9kOvFmMeN0SCSQ"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5jPm799SgWUrunldbRHV4d"
+      },
+      "artists": [
+        {
+          "name": "Julian Collet",
+          "url": "https://open.spotify.com/artist/7cJOqT5WeCAwIbL8NKtWkC"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255848,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6Bgh5QVuEsMALL3OnKSsyW"
     },
     {
       "album": {
@@ -2367,7 +2497,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 241414,
       "name": "The Weatherman",
       "url": "https://open.spotify.com/track/48slNMBWmhIdfuCUJm0SFN"
@@ -2446,6 +2576,24 @@
     },
     {
       "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/1PzmgB0ZiowDNC68xdEWRV"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dye",
+          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6QvUhzYIBiuRaMJbm120te"
+    },
+    {
+      "album": {
         "name": "Overcoming A Difficult Youth",
         "url": "https://open.spotify.com/album/7Hy324LigQohlF0DpW1quo"
       },
@@ -2511,7 +2659,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 219971,
       "name": "Wenn du da bist",
       "url": "https://open.spotify.com/track/0x13yawpacOhIdMytrL6Qy"
@@ -2533,6 +2681,42 @@
       "duration_ms": 156807,
       "name": "When I Was Born",
       "url": "https://open.spotify.com/track/0FRodw2mg6dJJ44fzhjJrn"
+    },
+    {
+      "album": {
+        "name": "White Doors",
+        "url": "https://open.spotify.com/album/0QLA0A2Xq2ngVCMoZZAY0s"
+      },
+      "artists": [
+        {
+          "name": "Arionce",
+          "url": "https://open.spotify.com/artist/6LikzsWy0sP1Vi8WOKt5ei"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207480,
+      "name": "White Doors",
+      "url": "https://open.spotify.com/track/4MdozCbZAsV1ffYEMnB8n3"
+    },
+    {
+      "album": {
+        "name": "wie verliebt",
+        "url": "https://open.spotify.com/album/41id0WlZVcSoNIC1qMsZtm"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153659,
+      "name": "wie verliebt",
+      "url": "https://open.spotify.com/track/7t5B8AyQPjO13hkPc5fVZT"
     },
     {
       "album": {
@@ -2590,6 +2774,24 @@
     },
     {
       "album": {
+        "name": "Zeitgeist",
+        "url": "https://open.spotify.com/album/6dYQzNjh9ppOYmwGGKAxBE"
+      },
+      "artists": [
+        {
+          "name": "Florian Paul & Die Kapelle der letzten Hoffnung",
+          "url": "https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Zeitgeist",
+      "url": "https://open.spotify.com/track/7fx8i2fIR19xPqhnvNMyxX"
+    },
+    {
+      "album": {
         "name": "Zidane Flow",
         "url": "https://open.spotify.com/album/1knJXnkkBnQ5pKUrtqVCQH"
       },
@@ -2601,7 +2803,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 111304,
       "name": "Zidane Flow",
       "url": "https://open.spotify.com/track/63uKVY7JEEdgvgNXn1hgff"

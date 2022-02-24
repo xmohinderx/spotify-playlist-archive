@@ -7653,7 +7653,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 153770,
       "name": "JA",
       "url": "https://open.spotify.com/track/1t5WkoCarzpa22fqbuh0tb"
@@ -14757,7 +14757,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 143596,
       "name": "Tipico",
       "url": "https://open.spotify.com/track/3DePq4dmXi4fRSkpPUNM9y"
@@ -16352,6 +16352,32 @@
     },
     {
       "album": {
+        "name": "WHEN I DIE",
+        "url": "https://open.spotify.com/album/2RZnTMXOOrTMXnSR9TeyAc"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Anonym",
+          "url": "https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe"
+        },
+        {
+          "name": "BOJAN",
+          "url": "https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173844,
+      "name": "WHEN I DIE",
+      "url": "https://open.spotify.com/track/61iL9OUfIipm3Udr0Zs1oe"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY"
       },
@@ -16771,7 +16797,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

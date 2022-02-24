@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Altos Bajos",
+        "url": "https://open.spotify.com/album/6iPNxDDgZ444idVAU2PlCG"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159773,
+      "name": "Altos Bajos",
+      "url": "https://open.spotify.com/track/4bQ0pcP87ZGiz3ZRqmBjlq"
+    },
+    {
+      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -349,7 +367,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 210286,
       "name": "Bandera Blanca",
       "url": "https://open.spotify.com/track/15jOcOIjMrz773VgVUoMXb"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 229669,
       "name": "D\u00e9jalo Ir",
       "url": "https://open.spotify.com/track/2mGOr0o8ZjzYbjDCSIWO9S"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 187803,
       "name": "El Lado Izquierdo de la Cama",
       "url": "https://open.spotify.com/track/5xMDRpvBORS8iVhcm1CnJ9"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "El Que Olvida",
       "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 226520,
       "name": "Jur\u00e9",
       "url": "https://open.spotify.com/track/6tYwCxwNeRXBPHF4Z2DaWu"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "Lo Que Digan",
       "url": "https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 213186,
       "name": "Lo Que Nunca Fui Con Nadie (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/4OTI9AoQmzl4RZAGPjjdXg"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 198448,
       "name": "Lo Siento Mucho",
       "url": "https://open.spotify.com/track/6IXrEQi71AjuBV8AItJP2L"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 174933,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 251640,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 207440,
       "name": "Nadie ha dicho",
       "url": "https://open.spotify.com/track/7hSLEk0h67Q5NO1TfLHgLf"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 208746,
       "name": "Nina",
       "url": "https://open.spotify.com/track/0jM8GPrMSe8aXQnUpxKPD7"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 246146,
       "name": "Se Supone",
       "url": "https://open.spotify.com/track/5Lhlma8CbXwj3ptne7H6DF"
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 184513,
       "name": "Tantas Ganas de Volver",
       "url": "https://open.spotify.com/track/0tonqHqn8V2CNgP90gUgNN"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 228958,
       "name": "Tanto Amor (feat. Matisse) - El Viaje de Matisse",
       "url": "https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 150094,
       "name": "Tomar Distancia",
       "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
@@ -2611,10 +2629,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 160546,
       "name": "Tu \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/2rBzZemt8uRmC9HcnOwAA3"
+    },
+    {
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "T\u00fa Fuiste para M\u00ed",
+      "url": "https://open.spotify.com/track/0qTdJEueaypPv4r6Ezi7IA"
     },
     {
       "album": {
@@ -2825,7 +2861,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 251640,
       "name": "\u00bfD\u00f3nde Guardo El Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/1pbOsxdAgCzAoXWxikUoW0"
@@ -2847,7 +2883,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 211138,
       "name": "\u00bfPor Qu\u00e9 Lloras? (feat. Matisse)",
       "url": "https://open.spotify.com/track/2G9LSMGW7a9QFP8Fi9cvTE"

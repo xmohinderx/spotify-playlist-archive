@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -5167,7 +5167,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 187271,
       "name": "untitled",
       "url": "https://open.spotify.com/track/0z58HQdBeOGPCveLYfX6lO"
@@ -7249,7 +7249,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 133984,
       "name": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/4mTPviBGRgjPxeaQFnBDW3"
@@ -8583,6 +8583,24 @@
       "duration_ms": 64628,
       "name": "\u041c\u041e\u0416\u041d\u041e \u0421\u0424\u041e\u0422\u041a\u0410\u0422\u042c\u0421\u042f?",
       "url": "https://open.spotify.com/track/4SW7uB5wCBgMRlCwqABPuA"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u0439 \u0431\u0430\u0439\u043a",
+        "url": "https://open.spotify.com/album/2a1MEcQrArJo6GIzsKo08P"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0415\u0420\u0415\u0413\u0410 \u041f\u0418\u0420\u0410\u0422",
+          "url": "https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174774,
+      "name": "\u041c\u043e\u0439 \u0431\u0430\u0439\u043a",
+      "url": "https://open.spotify.com/track/4ZXE5Lwt3DiQ1J66nP8YQj"
     },
     {
       "album": {
@@ -9927,7 +9945,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -10555,7 +10573,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 121592,
       "name": "\u0422\u0410\u0419\u041c\u0410\u0423\u0422",
       "url": "https://open.spotify.com/track/175xPRXSrf7RSWdjAhc6oD"

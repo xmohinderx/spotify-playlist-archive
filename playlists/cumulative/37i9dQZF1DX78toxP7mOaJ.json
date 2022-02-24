@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152462,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
+    },
+    {
+      "album": {
         "name": "AHHHH!",
         "url": "https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F"
       },
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 189222,
       "name": "Crying",
       "url": "https://open.spotify.com/track/5ZVlnixH0HeB6igKEkoO9f"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 245414,
       "name": "Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/0Ra68DPxTgqvMxM0kTs37K"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 199624,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/00ykdUKhS7JGeG42coRDtr"
@@ -1165,6 +1183,24 @@
       "duration_ms": 245202,
       "name": "ghosts",
       "url": "https://open.spotify.com/track/1ZQhNarBCMq2ck9gON0VC1"
+    },
+    {
+      "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
       "album": {
@@ -1287,7 +1323,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 247336,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4oCJ4t1khwZqlBVldWzJES"
@@ -1471,6 +1507,24 @@
       "duration_ms": 135270,
       "name": "I Don't Give a Shit",
       "url": "https://open.spotify.com/track/1ZrByYhoip5QsQNIsvWe6m"
+    },
+    {
+      "album": {
+        "name": "I Don't Talk To Boys That Make Me Cry",
+        "url": "https://open.spotify.com/album/4zU666UjbEPi7rkZPL39GJ"
+      },
+      "artists": [
+        {
+          "name": "Penny Lame",
+          "url": "https://open.spotify.com/artist/5le4s6muS7AkzVpI8JU7n4"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167476,
+      "name": "I Don't Talk To Boys That Make Me Cry",
+      "url": "https://open.spotify.com/track/0QJHqtOJJ3TbxgTK6hi21r"
     },
     {
       "album": {
@@ -1903,7 +1957,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 207716,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/1jjNcILpXG7pVASLSzXl1O"
@@ -1925,6 +1979,24 @@
       "duration_ms": 235253,
       "name": "Mind",
       "url": "https://open.spotify.com/track/0NuNJGgP3Qq0sFGPB8BaQP"
+    },
+    {
+      "album": {
+        "name": "Molly Sells Molly By The Seashore",
+        "url": "https://open.spotify.com/album/4CLBaAh7QXO9GVPVBokZ7w"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142545,
+      "name": "Molly Sells Molly By The Seashore",
+      "url": "https://open.spotify.com/track/7CcxWi6M4H22ga7IJfOAth"
     },
     {
       "album": {
@@ -2195,6 +2267,24 @@
       "duration_ms": 209080,
       "name": "Potions",
       "url": "https://open.spotify.com/track/25n4n4LGN9yYEgAW57veos"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6fHTDQDRufot2Hf7Xv3uaX"
+      },
+      "artists": [
+        {
+          "name": "Annie Blackman",
+          "url": "https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143986,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5PsqlqB67re3Ku1WJxzM7d"
     },
     {
       "album": {

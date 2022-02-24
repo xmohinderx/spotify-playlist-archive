@@ -4574,6 +4574,24 @@
     },
     {
       "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230706,
+      "name": "In The Fade",
+      "url": "https://open.spotify.com/track/4KGdFDc2InqRHYCZt4svYc"
+    },
+    {
+      "album": {
         "name": "Physical Graffiti (1994 Remaster)",
         "url": "https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F"
       },

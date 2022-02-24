@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "exu do blues \u00e9 AULAS",
+  "description": "poesia 12 \u00e9 AULAS",
   "name": "AULAS",
   "published_playlist_ids": [
     "2GpYMlHQWhJaqR9gXTSMkt"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 172592,
       "name": "Areia Azul",
       "url": "https://open.spotify.com/track/5cJPetbFkt9FWHgCcXXbBn"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 189556,
       "name": "CH\u00c1 DE MA\u00c7\u00c3",
       "url": "https://open.spotify.com/track/0G5ivEEvVSHfmu0rdVoRk9"
@@ -337,6 +337,32 @@
       "duration_ms": 217777,
       "name": "De 90 pra C\u00e1",
       "url": "https://open.spotify.com/track/4u47lJWoqhJi8zWkZ13l7L"
+    },
+    {
+      "album": {
+        "name": "Deu Aulas",
+        "url": "https://open.spotify.com/album/2TxYRZKXYJQWodJ41mDPBa"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190489,
+      "name": "Deu Aulas",
+      "url": "https://open.spotify.com/track/22jWm5eYrvcIj418DSV7mq"
     },
     {
       "album": {
@@ -628,6 +654,36 @@
     },
     {
       "album": {
+        "name": "Lobo Solit\u00e1rio",
+        "url": "https://open.spotify.com/album/28EkZl3wLbxY2ZYygsiTyD"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Lobo Solit\u00e1rio",
+      "url": "https://open.spotify.com/track/0qzdA4ZdKqoTP4BEVpJdRu"
+    },
+    {
+      "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
       },
@@ -893,7 +949,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 133636,
       "name": "Parabellum",
       "url": "https://open.spotify.com/track/3CPWSSuZpNlvIrQ4uFiBld"
@@ -919,6 +975,24 @@
       "duration_ms": 165797,
       "name": "Pertence ao Crime",
       "url": "https://open.spotify.com/track/5pR3zRLe6o0NqHKWmcwWyN"
+    },
+    {
+      "album": {
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
     },
     {
       "album": {
@@ -1017,6 +1091,60 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica 11: Nada Mudou",
       "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
+        "url": "https://open.spotify.com/album/34N8rLUMtF7t2uDA4sHtKr"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485276,
+      "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
+      "url": "https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K"
     },
     {
       "album": {
@@ -1349,7 +1477,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-24",
       "duration_ms": 162875,
       "name": "Seu Lugar",
       "url": "https://open.spotify.com/track/7xPuG4zgAHk0f0Dqkp2Yig"

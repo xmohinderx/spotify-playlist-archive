@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: <a href=\"spotify:artist:3rRmDmzPcAFwcUDvG5gBqO\">Percy Sledge</a>",
-  "num_followers": 304400,
+  "num_followers": 304241,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTU3NzMxMSwwMDAwMDAwMGM0YTlmNDhiMTMyOTkyYWMyZjIxZjljNGViMTg2YTRj",
+  "snapshot_id": "MTY0NTY3MzMxNywwMDAwMDAwMGE4NWIyMjcxMmU0ZmZiZDZjOGNjOWZiZDQxMGJmNDQ3",
   "tracks": [
     {
       "added_at": "2018-12-11 20:42:57",
@@ -23,38 +23,6 @@
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Tell Mama The Complete Muscle Shoals Sessions",
-        "url": "https://open.spotify.com/album/6EKXFcbBuv4U6ZZTGQhLyS"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/7keRsHHqmuFRv8agWvaYxE"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Stax-Volt: The Complete Singles 1959-1968",
-        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Try A Little Tenderness",
-      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -91,34 +59,34 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+      "duration_ms": 200626,
+      "name": "Try A Little Tenderness",
+      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
     },
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "This Is Clarence Carter",
-        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
+        "name": "Tell Mama The Complete Muscle Shoals Sessions",
+        "url": "https://open.spotify.com/album/6EKXFcbBuv4U6ZZTGQhLyS"
       },
       "artists": [
         {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 153680,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/7r3Hwig1mvtlVq0ZbJ09Wb"
+      "duration_ms": 156666,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/7keRsHHqmuFRv8agWvaYxE"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -139,18 +107,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+      "duration_ms": 325946,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -171,54 +139,6 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "At Last The Very Best Of",
-        "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/1hXIdXjAI4nWz4qnJ28iO2"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "The Complete A & B Sides 1961 - 1968",
-        "url": "https://open.spotify.com/album/3diIigsNRRY0MlVBcnFC9Y"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "People Get Ready - Single Version",
-      "url": "https://open.spotify.com/track/0izzSOqBR4gdzCCWRnrzPd"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 322866,
-      "name": "I Love You More Than You'll Ever Know",
-      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
         "name": "Number 1's",
         "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
       },
@@ -235,18 +155,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "At Last The Very Best Of",
+        "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 188893,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW"
+      "duration_ms": 181973,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/1hXIdXjAI4nWz4qnJ28iO2"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -267,18 +187,34 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "This Is Clarence Carter",
+        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
+      },
+      "artists": [
+        {
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/7r3Hwig1mvtlVq0ZbJ09Wb"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -299,34 +235,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Motown: The Complete No. 1's",
-        "url": "https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF"
+        "name": "The Complete A & B Sides 1961 - 1968",
+        "url": "https://open.spotify.com/album/3diIigsNRRY0MlVBcnFC9Y"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
         }
       ],
-      "duration_ms": 165733,
-      "name": "I Wish It Would Rain",
-      "url": "https://open.spotify.com/track/2dQx3sIylsbvagZCNf69h4"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
+      "duration_ms": 159266,
+      "name": "People Get Ready - Single Version",
+      "url": "https://open.spotify.com/track/0izzSOqBR4gdzCCWRnrzPd"
     },
     {
       "added_at": "2021-01-05 21:36:28",
@@ -347,34 +267,50 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
     },
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 247733,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
+      "duration_ms": 165733,
+      "name": "I Wish It Would Rain",
+      "url": "https://open.spotify.com/track/2dQx3sIylsbvagZCNf69h4"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -395,6 +331,54 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 322866,
+      "name": "I Love You More Than You'll Ever Know",
+      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "Let's Get It On (Expanded Edition)",
         "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 290960,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -427,18 +427,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
         }
       ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -475,22 +475,6 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "The Intouchables",
-        "url": "https://open.spotify.com/album/7tWIlXAneT3Ebw0Fq4NXL1"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/79AhB6aQ8Q82c0Z259tEfO"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
         "name": "What's Going On - 40th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 187586,
       "name": "Wholy Holy",
       "url": "https://open.spotify.com/track/5NsWakKHyPAKSlLEtgHQZb"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "The Intouchables",
+        "url": "https://open.spotify.com/album/7tWIlXAneT3Ebw0Fq4NXL1"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/79AhB6aQ8Q82c0Z259tEfO"
     },
     {
       "added_at": "2018-12-11 20:42:57",

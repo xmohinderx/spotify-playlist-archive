@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of rap & a little bit of pop\. Cover: Token
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,809 likes - 106 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,935 likes - 106 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 105 | [Real Life](https://open.spotify.com/track/2suU0QYyxcMoy08rSsTX46) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Real Life](https://open.spotify.com/album/79ZPm7Z09OsRu4ENHyHM4d) | 2:43 |
 | 106 | [Lucy](https://open.spotify.com/track/4qlzRdIjBA3rcokgMb0yZR) | [Matt Easton](https://open.spotify.com/artist/6A7BMVAmKqMDXcFb9T7wB7) | [Foreign Energy](https://open.spotify.com/album/4T7OXAnmwfJQpmh6a9JP86) | 3:37 |
 
-Snapshot ID: `MTY0NTIxMDUyMCwwMDAwMDBmOTAwMDAwMTdmMGUzMDRjN2UwMDAwMDE3ZjBlMmZjZjkz`
+Snapshot ID: `MTY0NTY0NzQ2MywwMDAwMDBmYTAwMDAwMTdmMjgzYjg0MmMwMDAwMDE3ZjBlMmZjZjkz`

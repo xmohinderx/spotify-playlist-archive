@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,295 likes - 500 songs - 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,654 likes - 500 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 144 | [Sunday](https://open.spotify.com/track/1gFYYUmb1cwLssxND7thGG) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Sunday](https://open.spotify.com/album/5bmSp90NZHIeDJDgedtTFL) | 1:24 |
 | 145 | [Dalmatian](https://open.spotify.com/track/2SuabPRj4ZKX7uQpsTUGQK) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Between Dunes EP](https://open.spotify.com/album/5QZF4vcpHsPRJFY5PfdAX0) | 2:32 |
 | 146 | [sambas song](https://open.spotify.com/track/6BJM6iNyj2nSKrLGP9w3mA) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [sambas song](https://open.spotify.com/album/1dr6yK67Stnx9YaFiF212T) | 1:58 |
-| 147 | [space face](https://open.spotify.com/track/2L2prbkuTB1daVBjXpDJky) | [BLUZ](https://open.spotify.com/artist/1igCIk3QsoMTuUjlCeLntT) | [space face](https://open.spotify.com/album/6ToJMfNvrfip3xW3JjKnzW) | 1:57 |
+| 147 | [space face](https://open.spotify.com/track/2L2prbkuTB1daVBjXpDJky) | [BLUZ](https://open.spotify.com/artist/06ow8Ho922rQbv6QRn4AIp) | [space face](https://open.spotify.com/album/6ToJMfNvrfip3xW3JjKnzW) | 1:57 |
 | 148 | [Pool of Swim](https://open.spotify.com/track/3xK38Jy0gEs7yprInWoFZQ) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [Pool of Swim](https://open.spotify.com/album/0GPUOPd04HhfgvCmWWtEGb) | 2:34 |
 | 149 | [Waves coming](https://open.spotify.com/track/2J6oZ9gQYE9kl3RJoRuhfn) | [Pete LaCroix](https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo) | [Waves coming](https://open.spotify.com/album/5r2aAYQwavuOhjlfvqqAFs) | 2:51 |
 | 150 | [What When Why](https://open.spotify.com/track/0i0Q5eFr909SFwCzvoKWLY) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [What When Why](https://open.spotify.com/album/6lbNaHUgHOKA7jytgTfIB4) | 2:17 |

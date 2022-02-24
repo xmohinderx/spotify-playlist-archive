@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,341 likes - 137 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,378 likes - 137 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 6 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 7 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 |
 | 8 | [Whiskey Side](https://open.spotify.com/track/7lYXb5Vdlq0Y48j6kEPh6r) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [George Birge](https://open.spotify.com/album/0kLDP2T9Fv7Gd6UfZXmERd) | 2:45 |
-| 9 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good To You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:00 |
+| 9 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good to You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:00 |
 | 10 | [Break My Own Heart](https://open.spotify.com/track/61rjPRhSp9v5XrRdr7aJmT) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Youngblood](https://open.spotify.com/album/5lYs5xlVEDd8HQ6SKvdk4D) | 2:54 |
 | 11 | [Let It Be Me](https://open.spotify.com/track/6FbT9ZDDeM0PIm9aJ1psZt) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [Let It Be Me](https://open.spotify.com/album/7Dv8Lri7OcjQDHG2DfLb0N) | 3:14 |
 | 12 | [Good Good Life](https://open.spotify.com/track/5ILyc23SzAOH7hyIIy61RK) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Good Good Life](https://open.spotify.com/album/6oc3vY9qCokLPp18GQ8p3e) | 3:16 |

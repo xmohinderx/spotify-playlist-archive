@@ -1084,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Go (Lower & Slower)",
+        "url": "https://open.spotify.com/album/2pwYVy4ssFFHiRLxM0cOMM"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Go - Lower & Slower",
+      "url": "https://open.spotify.com/track/31wphZxsLDQSmqep0cG9c5"
+    },
+    {
+      "album": {
         "name": "Most Known Unknown (New Package-Explicit)",
         "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
       },

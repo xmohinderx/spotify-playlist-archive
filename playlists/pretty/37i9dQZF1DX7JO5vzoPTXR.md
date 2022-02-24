@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T?si=572d5da9b65d4ebd">Shungudzo</a> & <a href="https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9?si=3WljdPUlQymTeB\_eX77roA">Joy Oladokun</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,662 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,742 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Treat Myself](https://open.spotify.com/track/1SgMozUBccEqHAa7TOLdJ2) | [KARM](https://open.spotify.com/artist/7sKWbE4unHC9p9210mq9aa) | [100% HER Contemporary Songs](https://open.spotify.com/album/3dhsJaOxFtezDOVzPoLRkY) | 2:30 |
 | 40 | [He Is](https://open.spotify.com/track/7HnxsWJeLTrtBHFTJfdLWA) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Safe Place](https://open.spotify.com/album/5wSbxRSTblLMiq9tgHQrXv) | 3:04 |
 
-Snapshot ID: `MTY0NTU3NzU5MCwwMDAwMDAwMGRmODUxNzljMDZkNjU2YzEzYmUwZGNmNTY1NjA5NDFh`
+Snapshot ID: `MTY0NTY3MzU4OSwwMDAwMDAwMGRmODUxNzljMDZkNjU2YzEzYmUwZGNmNTY1NjA5NDFh`

@@ -2,7 +2,7 @@
 
 ### [Grunge Forever](https://open.spotify.com/playlist/28qkTCnYXNzdsou4tGgtal)
 
-> Grunge will live forever\. Cover: Kurt Cobain
+> Grunge will live forever\. Cover: Mark Lanegan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

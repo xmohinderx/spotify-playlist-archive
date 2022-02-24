@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LV3QymAMCD.md) - [plain](/playlists/plain/37i9dQZF1DX6LV3QymAMCD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6LV3QymAMCD)
 
-### [Ambient for Gamers](https://open.spotify.com/playlist/37i9dQZF1DX6LV3QymAMCD)
+### [Chill Gaming](https://open.spotify.com/playlist/37i9dQZF1DX6LV3QymAMCD)
 
-> Create the perfect mood for gaming.
+> Ambient music perfect for gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,032 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,048 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LV3QymAMCD.md) - [plain]
 | 69 | [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 |
 | 70 | [Complexileaves](https://open.spotify.com/track/16Bbu1lc7EVNLzrSF0hRMO) | [Siwan Sinan](https://open.spotify.com/artist/7bjiN7dkBWlV7MBGP0eTkP) | [Complexileaves](https://open.spotify.com/album/2h7pfISK0hGgisOLsg5i8U) | 2:53 |
 
-Snapshot ID: `MTYzOTA0ODU0NCwwMDAwMDAwNjAwMDAwMTdkOWVlODAyMWEwMDAwMDE3YTYyNDJiNjNl`
+Snapshot ID: `MTY0NTYyODE5OCwwMDAwMDAwNzAwMDAwMTdmMjcxNThkNDYwMDAwMDE3ZjI3MTQ0ZjJh`
