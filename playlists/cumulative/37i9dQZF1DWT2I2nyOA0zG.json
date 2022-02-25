@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 180350,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 202071,
       "name": "Down",
       "url": "https://open.spotify.com/track/3XEljAMl2IduqseMFYpfoz"
@@ -525,10 +525,28 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 177500,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/0TpJiBJbQubqmn2xV7hw2E"
+    },
+    {
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "album": {
@@ -543,10 +561,28 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 187609,
       "name": "Gbona",
       "url": "https://open.spotify.com/track/2Q20eWqSnV519ybPThUDWs"
+    },
+    {
+      "album": {
+        "name": "Gidi",
+        "url": "https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Gidi",
+      "url": "https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F"
     },
     {
       "album": {
@@ -569,6 +605,28 @@
       "duration_ms": 159914,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi"
     },
     {
       "album": {
@@ -635,6 +693,28 @@
       "duration_ms": 192784,
       "name": "I Like (feat. WizKid)",
       "url": "https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "IDG",
+      "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
     },
     {
       "album": {
@@ -773,6 +853,24 @@
       "duration_ms": 184196,
       "name": "Love Nwantiti (Acoustic Version)",
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
+    },
+    {
+      "album": {
+        "name": "Magic In The Water",
+        "url": "https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g"
+      },
+      "artists": [
+        {
+          "name": "Digital Sangoma",
+          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254608,
+      "name": "Magic In The Water",
+      "url": "https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX"
     },
     {
       "album": {
@@ -1018,6 +1116,28 @@
     },
     {
       "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6"
+      },
+      "artists": [
+        {
+          "name": "Trio SR9",
+          "url": "https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G"
+        },
+        {
+          "name": "Blick Bassy",
+          "url": "https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227748,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt"
+    },
+    {
+      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -1135,6 +1255,24 @@
       "duration_ms": 231093,
       "name": "Rora",
       "url": "https://open.spotify.com/track/3FoiZ0cJwgfqY9xKHdVSnT"
+    },
+    {
+      "album": {
+        "name": "SAVAGE LEVEL",
+        "url": "https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110"
+      },
+      "artists": [
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "SABABISHA",
+      "url": "https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ"
     },
     {
       "album": {
@@ -1341,7 +1479,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 180657,
       "name": "Summer Bunny",
       "url": "https://open.spotify.com/track/725WKeorPfCOA52X6QE4Uw"
@@ -1363,7 +1501,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 327613,
       "name": "Sunset In Batumi",
       "url": "https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU"
@@ -1465,7 +1603,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 177000,
       "name": "Udo",
       "url": "https://open.spotify.com/track/2EBMAyCUrqzPPjzgU76Amw"

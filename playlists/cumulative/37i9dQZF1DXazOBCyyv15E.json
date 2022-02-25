@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Amber Run",
+  "description": "The home of the best new alternative music. Cover: Bakar",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 203066,
       "name": "A Temporary High",
       "url": "https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 250066,
       "name": "Balance",
       "url": "https://open.spotify.com/track/57hAhcPKURCKJKBJWkkPDV"
@@ -1761,6 +1761,24 @@
       "duration_ms": 169626,
       "name": "Blowin Steam (Open Up Your Mind)",
       "url": "https://open.spotify.com/track/1b2swn7KWK0vKLlORQuyNZ"
+    },
+    {
+      "album": {
+        "name": "Bodies Of Water",
+        "url": "https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304306,
+      "name": "Bodies Of Water",
+      "url": "https://open.spotify.com/track/4tAIZ4jqnYtuZwx5trVtbE"
     },
     {
       "album": {
@@ -2499,7 +2517,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg"
@@ -3045,6 +3063,24 @@
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
+    },
+    {
+      "album": {
+        "name": "Crutches",
+        "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Crutches",
+      "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
     },
     {
       "album": {
@@ -3890,6 +3926,24 @@
     },
     {
       "album": {
+        "name": "Raving Dahlia",
+        "url": "https://open.spotify.com/album/5DC6XLIcCL7VqCq9LYyuVn"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229830,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/1CWG6auQo6ctDPt6wXXHy2"
+    },
+    {
+      "album": {
         "name": "Toner",
         "url": "https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq"
       },
@@ -4361,6 +4415,24 @@
       "duration_ms": 218193,
       "name": "FRANKIE MUNIZ",
       "url": "https://open.spotify.com/track/1E8O2FNVuBRkXdS33iULOV"
+    },
+    {
+      "album": {
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP"
     },
     {
       "album": {
@@ -5244,6 +5316,24 @@
     },
     {
       "album": {
+        "name": "Hard Not to Hold You",
+        "url": "https://open.spotify.com/album/0kLEevwA3DWRjcDUAPJuOK"
+      },
+      "artists": [
+        {
+          "name": "The Ninth Wave",
+          "url": "https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178250,
+      "name": "Hard Not to Hold You",
+      "url": "https://open.spotify.com/track/56fTDG4XOduItQAoMURDan"
+    },
+    {
+      "album": {
         "name": "HARDCORE HAPPY",
         "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
       },
@@ -5370,6 +5460,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7lqGjYPr4ug0AmilAGpQlk"
+      },
+      "artists": [
+        {
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191658,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/6hPfdltxzPOvckCAhALg20"
+    },
+    {
+      "album": {
         "name": "heartbeat",
         "url": "https://open.spotify.com/album/2KDjx0XZURl5RaZZAB9CpB"
       },
@@ -5489,7 +5597,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 233176,
       "name": "High Alone",
       "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
@@ -6597,7 +6705,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 196946,
       "name": "Je Suis La Pomme Rouge - Radio Edit",
       "url": "https://open.spotify.com/track/6RpASykPH4ihNnQSv5hu4x"
@@ -6815,6 +6923,24 @@
       "duration_ms": 227796,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/7plzB2nNi0hQXdA2MrvE69"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "album": {
@@ -7480,6 +7606,24 @@
     },
     {
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161081,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR"
+    },
+    {
+      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -7763,7 +7907,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
@@ -8299,7 +8443,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 194173,
       "name": "More Pressure",
       "url": "https://open.spotify.com/track/7wDgmIFI9Yv039Upip0mO5"
@@ -8985,7 +9129,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 233960,
       "name": "NW3",
       "url": "https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6"
@@ -9985,7 +10129,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 170501,
       "name": "PUNISH",
       "url": "https://open.spotify.com/track/1fOYFkUgtbPG2oK2j6SRcK"
@@ -10201,7 +10345,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 274377,
       "name": "Remembering Me",
       "url": "https://open.spotify.com/track/1S435nZhZaJbHJuV5af2aA"
@@ -10927,7 +11071,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
@@ -11205,7 +11349,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 553213,
       "name": "Snow Globes",
       "url": "https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy"
@@ -11672,6 +11816,28 @@
     },
     {
       "album": {
+        "name": "Story Untold",
+        "url": "https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192806,
+      "name": "Story Untold",
+      "url": "https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ"
+    },
+    {
+      "album": {
         "name": "Song Machine: Strange Timez (feat. Robert Smith)",
         "url": "https://open.spotify.com/album/6YNljPhLvGsg3U9WtT7qje"
       },
@@ -11745,6 +11911,24 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw"
+    },
+    {
+      "album": {
+        "name": "Goodnight Dreamer",
+        "url": "https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193682,
+      "name": "Sunset Drive",
+      "url": "https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1"
     },
     {
       "album": {
@@ -11992,6 +12176,24 @@
     },
     {
       "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/2dvVPyydVAF1fDykQ9jsKw"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220709,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/46OjonQHLe574lcL12MdKp"
+    },
+    {
+      "album": {
         "name": "forest avenue",
         "url": "https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba"
       },
@@ -12119,6 +12321,24 @@
       "duration_ms": 156106,
       "name": "The Avalanche",
       "url": "https://open.spotify.com/track/2brqpT1vL7T5mBJYFGRVPT"
+    },
+    {
+      "album": {
+        "name": "The Basics Are Coming Back / Burnout",
+        "url": "https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1"
+      },
+      "artists": [
+        {
+          "name": "0171",
+          "url": "https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218595,
+      "name": "The Basics Are Coming Back",
+      "url": "https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB"
     },
     {
       "album": {

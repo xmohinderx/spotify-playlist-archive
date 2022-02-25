@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127658,
+  "num_followers": 127662,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI2NSw3NGUzOThlMzcyNTI1MGYwNDVlYzQ4MmIwMWRiZTg3MDJiNzkyMTc4",
+  "snapshot_id": "MzI2NywwNTVkZTEzZDQ4MDM3YzdjYzA2ODY5NmM4YzhmZDgzMTZiN2Y0NDA4",
   "tracks": [
+    {
+      "added_at": "2022-02-24 17:30:43",
+      "album": {
+        "name": "UMBRA",
+        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "UMBRA",
+      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
+    },
     {
       "added_at": "2022-02-23 17:16:57",
       "album": {
@@ -1135,26 +1155,6 @@
       "duration_ms": 185996,
       "name": "Tripwire",
       "url": "https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Saving Lives",
-        "url": "https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 267676,
-      "name": "Saving Lives",
-      "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

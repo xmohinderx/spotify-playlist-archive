@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Featuring new music by <a href="spotify:artist:6K9KevAu0cpln7xOsM3Wkm">IVOXYGEN</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,311 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,208 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

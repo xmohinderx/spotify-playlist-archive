@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,378 likes - 137 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,412 likes - 137 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 2 | [Fishin' On A River](https://open.spotify.com/track/7fPMxbD8KCeCYEpJmihTjG) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Fishin' On A River](https://open.spotify.com/album/6oeOfzSNcr3hlzuYqhqLAt) | 3:41 |
 | 3 | [The Neon](https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Neon](https://open.spotify.com/album/7CQGgKnzZNeP8ej48hOYng) | 3:34 |
 | 4 | [Can't Be Me](https://open.spotify.com/track/2eISfluGxum1EMjPQYCPp0) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Product Of A Small Town](https://open.spotify.com/album/4sYCo8b8hFtADXbxVn9w63) | 3:16 |
-| 5 | [Can't Have Mine](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 |
+| 5 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 |
 | 6 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 7 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 |
 | 8 | [Whiskey Side](https://open.spotify.com/track/7lYXb5Vdlq0Y48j6kEPh6r) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [George Birge](https://open.spotify.com/album/0kLDP2T9Fv7Gd6UfZXmERd) | 2:45 |

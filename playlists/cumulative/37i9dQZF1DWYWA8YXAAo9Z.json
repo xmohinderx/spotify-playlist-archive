@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 343000,
       "name": "A Black Bird Sat on My Window and Cried",
       "url": "https://open.spotify.com/track/51kjApNxwEpctdm8d9GOLG"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Approximate Bermeja",
       "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
@@ -494,6 +494,28 @@
     },
     {
       "album": {
+        "name": "Cuted",
+        "url": "https://open.spotify.com/album/2THF0LlDcp88lG4Gn6Xl4K"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bolivar",
+          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
+        },
+        {
+          "name": "Mind Groove",
+          "url": "https://open.spotify.com/artist/3qweuxueVmC5XiMQviLH37"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374237,
+      "name": "Cuted",
+      "url": "https://open.spotify.com/track/3gdhXa2iXDmPfkIlQehzyH"
+    },
+    {
+      "album": {
         "name": "Chilltronica EP 3",
         "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
       },
@@ -559,7 +581,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 389000,
       "name": "Dissolution",
       "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
@@ -649,7 +671,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
@@ -721,7 +743,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 270796,
       "name": "Genera II",
       "url": "https://open.spotify.com/track/0yWHG5YEGdORusADKKlAdv"
@@ -815,7 +837,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 253047,
       "name": "Kosmic Headroom",
       "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
@@ -913,7 +935,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 272000,
       "name": "Low Voltage",
       "url": "https://open.spotify.com/track/0xqf2NDfzJKWzHQAfLl6mo"
@@ -1101,7 +1123,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 165925,
       "name": "Orange Blue Green",
       "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
@@ -1137,7 +1159,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 156795,
       "name": "Outerspace",
       "url": "https://open.spotify.com/track/0esTUDcSJJ2GwSNELJ7kUc"
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 467159,
       "name": "Small Triumphs and Deep Disappointments",
       "url": "https://open.spotify.com/track/0vIZVb4SiFVnyu8hQSwxK1"
@@ -1615,7 +1637,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 452476,
       "name": "The Hermit",
       "url": "https://open.spotify.com/track/0k4nlp2mdE9Y8nUupU5PKp"
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 308000,
       "name": "Tides I",
       "url": "https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV"
@@ -1781,7 +1803,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 353000,
       "name": "wander into",
       "url": "https://open.spotify.com/track/3E9IXQVQhaf79PXNr24GDy"
@@ -1799,7 +1821,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 432000,
       "name": "When the Sun Is About to Sleep",
       "url": "https://open.spotify.com/track/1kgyMp6P40HS9wWg6yeR3i"
@@ -1821,7 +1843,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"

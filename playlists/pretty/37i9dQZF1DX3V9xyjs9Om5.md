@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3V9xyjs9Om5.md) - [plain]
 
 > You’ll vibe with the frothy pop and empowering club classics in this Pride collection from the Aussie synth\-pop diva with a human touch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,306 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

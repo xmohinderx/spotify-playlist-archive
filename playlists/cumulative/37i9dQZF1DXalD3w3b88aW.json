@@ -807,10 +807,28 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 120933,
       "name": "Never Felt This Way",
       "url": "https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke"
+    },
+    {
+      "album": {
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120933,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
     },
     {
       "album": {

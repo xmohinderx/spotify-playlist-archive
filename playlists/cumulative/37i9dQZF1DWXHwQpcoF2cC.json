@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best recent metal tracks. Cover: Korn",
+  "description": "The best recent metal tracks. Cover: Trivium",
   "name": "Metal Rewind",
   "published_playlist_ids": [
     "60nXJ45agAFWh0gM8e58vr"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 196373,
       "name": "Post-Boredom",
       "url": "https://open.spotify.com/track/2mQ0iTpQxuhBJIuFNUFGD0"
@@ -842,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Soldier Of Heaven",
+        "url": "https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Soldier of Heaven",
+      "url": "https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG"
+    },
+    {
+      "album": {
         "name": "M\u00e6re",
         "url": "https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK"
       },
@@ -907,10 +925,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 176695,
       "name": "SYSTEMATIC",
       "url": "https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL"
+    },
+    {
+      "album": {
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320507,
+      "name": "Teardrinker",
+      "url": "https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq"
     },
     {
       "album": {
@@ -979,7 +1015,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
@@ -1091,6 +1127,28 @@
       "duration_ms": 140053,
       "name": "Wait A Minute My Girl",
       "url": "https://open.spotify.com/track/3klr703oglZwVMiugDTDm7"
+    },
+    {
+      "album": {
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165891,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/4EllS6NXwCOggtnnBqByNd"
     },
     {
       "album": {

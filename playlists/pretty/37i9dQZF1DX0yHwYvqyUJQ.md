@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yHwYvqyUJQ.md) - [plain]
 
 > Learn Italian with a collection of audio courses that will take you from beginner lessons and travel necessities to advanced conversations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,095 likes - 608 songs - 2 day 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,094 likes - 608 songs - 2 day 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Charli XCX & Rina Sawayama, <br/>Alok, Alan Walker & KIDDO, Tinlicker, TS7 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,890,432 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,890,721 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Falling In Reverse on top of the biggest Metal playlist!",
+  "description": "Three Days Grace on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 292735,
       "name": "Construction of Souls",
       "url": "https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8"
@@ -388,6 +388,28 @@
     },
     {
       "album": {
+        "name": "Death",
+        "url": "https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "DR\u20acW \u00a5ORK",
+          "url": "https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223547,
+      "name": "Death",
+      "url": "https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs"
+    },
+    {
+      "album": {
         "name": "Somewhere Beyond The Blue",
         "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
       },
@@ -453,7 +475,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 191460,
       "name": "Erase My Mind",
       "url": "https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM"
@@ -601,7 +623,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 259213,
       "name": "Good Stories - Remastered 2022",
       "url": "https://open.spotify.com/track/1uVyA0eUK86gElgjnvaxio"
@@ -803,7 +825,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 243874,
       "name": "Intergalactic Casanova",
       "url": "https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x"
@@ -954,6 +976,42 @@
     },
     {
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/1GJWSnfxaODYIrS6uoqiB6"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229007,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o"
+    },
+    {
+      "album": {
+        "name": "March of the Insane",
+        "url": "https://open.spotify.com/album/2JGSRUldESbdFxQIMw2OQT"
+      },
+      "artists": [
+        {
+          "name": "Dream Widow",
+          "url": "https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198717,
+      "name": "March of the Insane",
+      "url": "https://open.spotify.com/track/5Jn0Kw1DtNLFWB8z1vrIwP"
+    },
+    {
+      "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
       },
@@ -987,6 +1045,28 @@
       "duration_ms": 175533,
       "name": "Monster Truck",
       "url": "https://open.spotify.com/track/5FH2JoAe00DL628PTwKPH9"
+    },
+    {
+      "album": {
+        "name": "Neurotic (feat. Lukas Rossi)",
+        "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        },
+        {
+          "name": "Lukas Rossi",
+          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Neurotic (feat. Lukas Rossi)",
+      "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
     },
     {
       "album": {
@@ -1232,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "Put Your Back Into The Oar",
+        "url": "https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277893,
+      "name": "Put Your Back Into The Oar",
+      "url": "https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9"
+    },
+    {
+      "album": {
         "name": "PvP",
         "url": "https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5"
       },
@@ -1261,7 +1359,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 175442,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/5wfccHW5hemTM6o1uZqETU"
@@ -1405,7 +1503,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 358880,
       "name": "Tamashii No Houkai",
       "url": "https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx"
@@ -1441,7 +1539,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 295786,
       "name": "The Abysmal Eye",
       "url": "https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b"
@@ -1463,6 +1561,24 @@
       "duration_ms": 291660,
       "name": "The Chapeltown Rag",
       "url": "https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw"
+    },
+    {
+      "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/0GHtyfgjNanp1kheoy8MOu"
+      },
+      "artists": [
+        {
+          "name": "Dagoba",
+          "url": "https://open.spotify.com/artist/1iZlQG09PwkMVMumsvgFj4"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266360,
+      "name": "The Hunt",
+      "url": "https://open.spotify.com/track/4RYg7V9NzIfXOhYx5xbxff"
     },
     {
       "album": {

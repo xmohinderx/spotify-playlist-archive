@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: JAMIE, 22Bullets",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: SHAUN, Yuna",
   "name": "K-Pop X-Overs",
   "published_playlist_ids": [
     "0DIHYFEqLdrnfdqObi2sJD"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 205893,
       "name": "All Good-JP Ver.-",
       "url": "https://open.spotify.com/track/0UtMa8PmILmB188rSCBVb2"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 192772,
       "name": "Dumb (feat. Sonnet) - Remix",
       "url": "https://open.spotify.com/track/3YWWj0sze9RqfHlhdYWg6Z"
@@ -869,6 +869,28 @@
       "duration_ms": 207866,
       "name": "Shivers (feat. Jessi & SUNMI)",
       "url": "https://open.spotify.com/track/1A3T3npKsrElQTjTEcr3LR"
+    },
+    {
+      "album": {
+        "name": "So Right (feat. Yuna)",
+        "url": "https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "So Right (feat. Yuna)",
+      "url": "https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p?si=SdM0gnorQZOwF67zuxgBDg\"> Nviiri The Storyteller </a>",
-  "num_followers": 1708,
+  "num_followers": 1730,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTEyODM3OCwwMDAwMDAwODAwMDAwMTdmMDk0YWU4ZWQwMDAwMDE3ZjA5NDQ2MTI4",
+  "snapshot_id": "MTY0NTczNjM0MCwwMDAwMDAwOTAwMDAwMTdmMmQ4N2FhOGMwMDAwMDE3ZjA5NDQ2MTI4",
   "tracks": [
     {
       "added_at": "2022-02-17 20:06:18",
@@ -23,6 +23,22 @@
       "duration_ms": 232173,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Kesho Kutwa",
+        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "duration_ms": 252623,
+      "name": "Kesho Kutwa",
+      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
     },
     {
       "added_at": "2022-02-04 03:03:06",
@@ -69,40 +85,24 @@
       "url": "https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn"
     },
     {
-      "added_at": "2021-12-28 14:30:06",
+      "added_at": "2022-02-24 20:59:00",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+        "name": "Aibu",
+        "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
       },
       "artists": [
         {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
         },
         {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         }
       ],
-      "duration_ms": 231150,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Kesho Kutwa",
-        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
-      },
-      "artists": [
-        {
-          "name": "Ethan Muziki",
-          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
-        }
-      ],
-      "duration_ms": 252623,
-      "name": "Kesho Kutwa",
-      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
+      "duration_ms": 137368,
+      "name": "Aibu",
+      "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
     },
     {
       "added_at": "2022-02-04 03:03:06",
@@ -123,22 +123,6 @@
       "duration_ms": 193894,
       "name": "Enjoy The Night",
       "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
-    },
-    {
-      "added_at": "2022-01-20 20:59:00",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/71d2voVpwF5OY2pdAtU2IC"
-      },
-      "artists": [
-        {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -177,6 +161,22 @@
       "url": "https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG"
     },
     {
+      "added_at": "2022-01-20 20:59:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/71d2voVpwF5OY2pdAtU2IC"
+      },
+      "artists": [
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi"
+    },
+    {
       "added_at": "2021-12-28 14:30:06",
       "album": {
         "name": "Sunshine",
@@ -191,6 +191,26 @@
       "duration_ms": 208235,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 231150,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm"
     },
     {
       "added_at": "2022-02-04 03:03:06",
@@ -567,26 +587,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP"
-      },
-      "artists": [
-        {
-          "name": "Mutoriah",
-          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
-        },
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        }
-      ],
-      "duration_ms": 242553,
-      "name": "Tosheka",
-      "url": "https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Live and Die In Afrika",
         "url": "https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL"
       },
@@ -715,42 +715,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Hit Me Up",
-        "url": "https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Hit Me Up",
-      "url": "https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Rosella",
-        "url": "https://open.spotify.com/album/328oKDyLr5OBnbdA97KLeb"
-      },
-      "artists": [
-        {
-          "name": "H_art the Band",
-          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
-        },
-        {
-          "name": "Lady Jaydee",
-          "url": "https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS"
-        }
-      ],
-      "duration_ms": 304224,
-      "name": "Rosella",
-      "url": "https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Anchor",
         "url": "https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7"
       },
@@ -783,22 +747,6 @@
       "duration_ms": 215000,
       "name": "Kama Wee",
       "url": "https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Jungle Trap",
-        "url": "https://open.spotify.com/album/6rdSXm21K45CLRkxFdLQZu"
-      },
-      "artists": [
-        {
-          "name": "Chemutai Sage",
-          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
-        }
-      ],
-      "duration_ms": 215272,
-      "name": "Infatuated",
-      "url": "https://open.spotify.com/track/6gYNntWr2EDsgTxzl9p6cE"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -879,6 +827,62 @@
       "duration_ms": 170458,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP"
+      },
+      "artists": [
+        {
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 242553,
+      "name": "Tosheka",
+      "url": "https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Hit Me Up",
+        "url": "https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Hit Me Up",
+      "url": "https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Rosella",
+        "url": "https://open.spotify.com/album/328oKDyLr5OBnbdA97KLeb"
+      },
+      "artists": [
+        {
+          "name": "H_art the Band",
+          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
+        },
+        {
+          "name": "Lady Jaydee",
+          "url": "https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS"
+        }
+      ],
+      "duration_ms": 304224,
+      "name": "Rosella",
+      "url": "https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -1027,22 +1031,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB"
-      },
-      "artists": [
-        {
-          "name": "Ruguru",
-          "url": "https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/0J0VXiDkLDuf8CyYsQSXlO"
       },
@@ -1059,6 +1047,22 @@
       "duration_ms": 216979,
       "name": "Want You",
       "url": "https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB"
+      },
+      "artists": [
+        {
+          "name": "Ruguru",
+          "url": "https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32"
     }
   ],
   "unique_name": "NairoBae",

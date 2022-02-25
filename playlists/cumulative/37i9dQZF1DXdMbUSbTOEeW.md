@@ -2,7 +2,7 @@
 
 ### [mint India](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
-> EDM is blowing up in India, thanks to these artists\. Cover: Alan Walker
+> EDM is blowing up in India, thanks to these artists\. Cover: DIVINE, KSHMR, LIT KILLAH.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Kya Hai Tu](https://open.spotify.com/track/37jRP4BxoLNvtYsTI1YFJv) | [Five YearsFromNow](https://open.spotify.com/artist/2O0JXlpMv39NnRZXjFDFbU), [Ratri](https://open.spotify.com/artist/2uZIepJ8Gjj8CwSi42JClr) | [Kya Hai Tu](https://open.spotify.com/album/3dC0Lt4ypDURm45UQjRVVB) | 3:49 | 2021-11-26 |  |
 | [Leave A Little Love](https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/6XLHU3z6eInpudfIe5rq0r) | 3:07 | 2021-11-26 |  |
 | [Light It Up \- Ritviz Diwali Edition](https://open.spotify.com/track/4Axp88RMDyQl3OYfp7gf4j) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Light It Up \(Ritviz Diwali Edition\)](https://open.spotify.com/album/7IBC6i3UleTgD9EtNDdZc7) | 2:46 | 2021-11-26 | 2022-02-02 |
+| [Lion Heart \(feat\. Jeremy Oceans & KARRA\)](https://open.spotify.com/track/4EZDJ5FMTj5pCJe2HBmd21) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Jeremy Oceans](https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Lion Heart \(feat\. Jeremy Oceans & KARRA\)](https://open.spotify.com/album/47FKp5JlZ1xGOEHIWHX14Z) | 3:06 | 2022-02-24 |  |
 | [Love Again \(feat\. Alida\)](https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Love Again \(feat\. Alida\)](https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq) | 2:27 | 2021-11-26 |  |
 | [Love Again \- Imanbek Remix](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Love Again \(Imanbek Remix\)](https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7) | 3:34 | 2022-02-01 |  |
 | [Love Me Better \(with Shift K3Y & Marc E\. Bassy\)](https://open.spotify.com/track/5zHRrkIk98Adfqh25kMZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Love Me Better](https://open.spotify.com/album/1FCqo8PHzNgQsxpFUd7VeZ) | 2:30 | 2021-11-26 | 2022-02-02 |

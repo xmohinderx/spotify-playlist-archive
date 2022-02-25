@@ -2,7 +2,7 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
-> The cream of today's Country crop\. Cover: Kane Brown
+> The cream of today's Country crop\. Cover: Casey Barnes
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2022-01-21 |  |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2021-12-30 |  |
 | [Another One More Time](https://open.spotify.com/track/5hFeerouDWGm7W3w1rZZSU) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Another One More Time](https://open.spotify.com/album/7djskwMLcIadqH9Q5m0wXT) | 3:16 | 2021-12-30 |  |
+| [ANYTHING LIKE ME](https://open.spotify.com/track/5JTy7gXHt5k9cXf0HFhpda) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [ANYTHING LIKE ME](https://open.spotify.com/album/39c1pwrGbKxOZhVQkMCzM4) | 3:35 | 2022-02-24 |  |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2021-12-30 |  |
 | [Bad Things](https://open.spotify.com/track/14TZAzaNPCqMUaVSWhsVWk) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Darlinghurst](https://open.spotify.com/album/77bjZYPdR8D10J5XhhjAmB) | 3:42 | 2021-12-30 | 2022-01-22 |
 | [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-02-04 |  |
@@ -50,6 +51,7 @@
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-30 |  |
 | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/track/4K3yNCPmLL8pRffpLBJkLR) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/album/1dVViRBF5dPVKNeCuicN4T) | 3:13 | 2021-12-30 |  |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 |  |
+| [Light It Up](https://open.spotify.com/track/7zHOg6Bu16YZvvRXnlKgWP) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Light It Up](https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE) | 2:50 | 2022-02-24 |  |
 | [Living Free](https://open.spotify.com/track/0oMa11SpEDdjmYvEkOg4Pa) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Living Free](https://open.spotify.com/album/5FpWd9Y9csfi4xYhCcvbVh) | 3:05 | 2021-12-30 |  |
 | [Messy](https://open.spotify.com/track/1P9PIhdizfnJMHbTn3EJP5) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Messy](https://open.spotify.com/album/5W9lqFf7aQ9T4NS4x4HmOf) | 2:51 | 2021-12-30 | 2022-01-07 |
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-12-30 | 2022-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Tigran Hamasyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,332 likes - 71 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,360 likes - 71 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

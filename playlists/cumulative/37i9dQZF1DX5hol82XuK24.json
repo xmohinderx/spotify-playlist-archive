@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158593,
+      "name": "Come 2 Me",
+      "url": "https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1"
+    },
+    {
+      "album": {
         "name": "Hazards",
         "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
       },
@@ -693,6 +711,24 @@
       "duration_ms": 197640,
       "name": "Kill Me - Baby Blue",
       "url": "https://open.spotify.com/track/63bUL5WRZiWBkTmUTV5ucd"
+    },
+    {
+      "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "album": {

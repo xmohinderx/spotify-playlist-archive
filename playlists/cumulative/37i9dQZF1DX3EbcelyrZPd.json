@@ -322,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Gidi",
+        "url": "https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Gidi",
+      "url": "https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F"
+    },
+    {
+      "album": {
         "name": "Gimmie (feat. Rema)",
         "url": "https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC"
       },
@@ -341,6 +359,28 @@
       "duration_ms": 162361,
       "name": "Gimmie (feat. Rema)",
       "url": "https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV"
+    },
+    {
+      "album": {
+        "name": "Halichachi",
+        "url": "https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb"
+      },
+      "artists": [
+        {
+          "name": "Amber Lulu",
+          "url": "https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg"
+        },
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205680,
+      "name": "Halichachi",
+      "url": "https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S"
     },
     {
       "album": {
@@ -859,7 +899,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 337346,
       "name": "Madanga Ya Mke Wangu",
       "url": "https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt"
@@ -1205,7 +1245,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 180000,
       "name": "Nikizipata",
       "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"

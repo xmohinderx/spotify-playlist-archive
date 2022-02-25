@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring mura masa
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,404 likes - 115 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,675 likes - 115 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

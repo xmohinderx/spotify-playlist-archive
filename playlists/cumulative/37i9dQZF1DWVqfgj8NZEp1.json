@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 272613,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/7FApprsHm8hTyI7Ks4I1AX"
@@ -761,6 +761,24 @@
       "duration_ms": 210000,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/4OcandUdEWeKGxuJWmg2dh"
+    },
+    {
+      "album": {
+        "name": "Time for Ballads - The Maene Sessions",
+        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290133,
+      "name": "De Tor Ahead",
+      "url": "https://open.spotify.com/track/585SL1gwCrAsddD4iYFK2M"
     },
     {
       "album": {
@@ -1616,6 +1634,24 @@
     },
     {
       "album": {
+        "name": "If I Should Lose You",
+        "url": "https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327251,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/1KDGAEkezlMWQ46iXhVuok"
       },
@@ -2156,6 +2192,28 @@
     },
     {
       "album": {
+        "name": "Old Folks",
+        "url": "https://open.spotify.com/album/6IN9pyVseQooCpSgOYO25O"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291439,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/1d2GDKkf9zUtm3uVpht4iK"
+    },
+    {
+      "album": {
         "name": "Dance of Life",
         "url": "https://open.spotify.com/album/29eUcknOT3RFpp1N1UK1lS"
       },
@@ -2379,7 +2437,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 285601,
       "name": "Romance / Hommage \u00e0 Milhaud",
       "url": "https://open.spotify.com/track/3lw4OExcjj4kba4uU9gF4P"
@@ -2751,7 +2809,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 292444,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5adNkxFBgFYu3N6m8J6muG"
@@ -3157,6 +3215,42 @@
       "duration_ms": 434866,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/6FTyd72Hx3B9jRogHKCty1"
+    },
+    {
+      "album": {
+        "name": "Theme for Leon",
+        "url": "https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Kronkvist",
+          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368710,
+      "name": "Theme For Leon",
+      "url": "https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE"
+    },
+    {
+      "album": {
+        "name": "Through the Rain",
+        "url": "https://open.spotify.com/album/6uBBuyS9vVdrCqor0m8Ft8"
+      },
+      "artists": [
+        {
+          "name": "Eyal Lovett",
+          "url": "https://open.spotify.com/artist/2nWU6AHzibFay6s15UoWXl"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437690,
+      "name": "Through the Rain",
+      "url": "https://open.spotify.com/track/44xN13ObvgiPwloLBCiyAd"
     },
     {
       "album": {

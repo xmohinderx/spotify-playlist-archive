@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 325880,
       "name": "A Walk In The Park",
       "url": "https://open.spotify.com/track/5pEhzp4WCBL1K7VKExV80d"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 272866,
       "name": "Black Rainbow",
       "url": "https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 305306,
       "name": "Can\u2019t You See",
       "url": "https://open.spotify.com/track/3mSRd2ISaVrdRMqklXyFK4"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 378549,
       "name": "Chains",
       "url": "https://open.spotify.com/track/2z89w2POOafemX8yVmaA21"
@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/0hbY1zcX84ISm2h3XlyTn5"
+      },
+      "artists": [
+        {
+          "name": "Homegrown Syndrome",
+          "url": "https://open.spotify.com/artist/4BiKhDMB8xLUo99TgDarPN"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222231,
+      "name": "Confrontation",
+      "url": "https://open.spotify.com/track/3e1Ky0YseXxGBqxjyzbfyU"
+    },
+    {
+      "album": {
         "name": "Introduction",
         "url": "https://open.spotify.com/album/75OSQ2KOnEinVcdADIwT17"
       },
@@ -341,7 +359,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 306893,
       "name": "Dreaming Of Better Days",
       "url": "https://open.spotify.com/track/4goILMtibwRJrkzmNbt4Ns"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 290152,
       "name": "Gymnastics - Original Mix",
       "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
@@ -501,7 +519,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/5kKGJym6i9cQJhUiELMfqI"
@@ -519,7 +537,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 268790,
       "name": "Hustle do Brasil",
       "url": "https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 550622,
       "name": "Jerky Rhythm",
       "url": "https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 412257,
       "name": "Mars 500",
       "url": "https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 356013,
       "name": "Music Trance",
       "url": "https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 352758,
       "name": "Okay",
       "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 421500,
       "name": "Power To The People",
       "url": "https://open.spotify.com/track/0uxohsqS7JLISPsCnWI1gj"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 420998,
       "name": "Shadow Of Doubt",
       "url": "https://open.spotify.com/track/7ET4aG6zHESWb1HtrbTlz8"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 335480,
       "name": "Summer Grooves",
       "url": "https://open.spotify.com/track/1w2YjNjCfxRQLWEWVFzJ7Z"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 311496,
       "name": "The Look of Accessibility",
       "url": "https://open.spotify.com/track/3mg8dRdGN5jg0KqWqKh9pj"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 320851,
       "name": "Today Is the Day - Linkwood Chop",
       "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 519224,
       "name": "What Am I Here For? (NDATL Vocal) - Danny Krivit Edit",
       "url": "https://open.spotify.com/track/6uzaR1z9FDKRPY8lF24RB7"

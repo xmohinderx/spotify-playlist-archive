@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 
 > Celebrated masters of 'French touch', This Is Daft Punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,649 likes - 43 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,490 likes - 43 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 | 19 | [Make Love](https://open.spotify.com/track/4ABWPP59ItFKykdaDF09K5) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:49 |
 | 20 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 |
 | 21 | [Aerodynamic \- Daft Punk Remix](https://open.spotify.com/track/37YWwmlRl1GonSwjRuOiEq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 6:10 |
-| 22 | [Around the World \- Mellow Mix](https://open.spotify.com/track/3MERln0wX0uCa8BRSbSxIz) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework \(25th Anniversary Edition\)](https://open.spotify.com/album/6JRaPcrT3cMBEmkgSqEPhI) | 7:51 |
+| 22 | [Around the World \- Mellow Mix](https://open.spotify.com/track/3MERln0wX0uCa8BRSbSxIz) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Homework \(25th Anniversary Edition\)](https://open.spotify.com/album/6JRaPcrT3cMBEmkgSqEPhI) | 7:51 |
 | 23 | [Technologic](https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:44 |
 | 24 | [Rollin' & Scratchin'](https://open.spotify.com/track/6hgBJPTHoDJyxydmtFWHKf) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:28 |
 | 25 | [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 | 42 | [Ouverture](https://open.spotify.com/track/1pyTJdbGVBVvKXC3MtemHA) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 2:40 |
 | 43 | [Beyond](https://open.spotify.com/track/0k1xMUwn9sb7bZiqdT9ygx) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:50 |
 
-Snapshot ID: `MTY0NTY3MzM0MSwwMDAwMDAwMGQyMDAyNGUwYmQ3MGYyNmJjNDViNjBhZmRiYTI3ZmY4`
+Snapshot ID: `MTY0NTc1MDAwOCwwMDAwMDAwMGQyMDAyNGUwYmQ3MGYyNmJjNDViNjBhZmRiYTI3ZmY4`

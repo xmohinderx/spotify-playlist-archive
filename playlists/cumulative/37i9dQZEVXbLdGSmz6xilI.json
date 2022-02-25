@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 343061,
       "name": "Chim Qu\u00fd Trong L\u1ed3ng",
       "url": "https://open.spotify.com/track/4KLmT1bU7eyEBe35FzEjbd"
@@ -3213,7 +3213,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 228094,
       "name": "Khi Em L\u1edbn",
       "url": "https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS"
@@ -3699,7 +3699,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 306306,
       "name": "L\u1eddi N\u00f3i D\u1ed1i Sau N\u1ee5 C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/6Vx29sLFwzT8yvRhzP2Fge"
@@ -4917,6 +4917,32 @@
       "duration_ms": 199120,
       "name": "Pretty Savage - JP Ver.",
       "url": "https://open.spotify.com/track/3wKCldl6riuEKxXlvuxFJ2"
+    },
+    {
+      "album": {
+        "name": "PS5 (with TOMORROW x TOGETHER feat. Alan Walker)",
+        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152214,
+      "name": "PS5 (with TOMORROW x TOGETHER feat. Alan Walker)",
+      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
     },
     {
       "album": {

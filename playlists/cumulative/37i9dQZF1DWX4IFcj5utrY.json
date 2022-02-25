@@ -2102,6 +2102,28 @@
     },
     {
       "album": {
+        "name": "Kolowa",
+        "url": "https://open.spotify.com/album/19QgAU6ZRMY3OLz7rIfk1C"
+      },
+      "artists": [
+        {
+          "name": "Omary",
+          "url": "https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430000,
+      "name": "Kolowa",
+      "url": "https://open.spotify.com/track/1J9B2u33e5gExAV2usndAZ"
+    },
+    {
+      "album": {
         "name": "Kule (Main V-HT)",
         "url": "https://open.spotify.com/album/069u5nvfS3scBg0bwtJHmp"
       },

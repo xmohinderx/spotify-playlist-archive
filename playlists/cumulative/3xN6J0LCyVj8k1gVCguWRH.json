@@ -12916,6 +12916,24 @@
     },
     {
       "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/3gIHHhYt0AXL3EVjKSvh4V"
+      },
+      "artists": [
+        {
+          "name": "Autumn Jeannette",
+          "url": "https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/26aM69RDPRcNB7sycWnSaP"
+    },
+    {
+      "album": {
         "name": "Love Me Right",
         "url": "https://open.spotify.com/album/5Aa75BO4UzD8VSn3M7xCyA"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Sean Stemaly
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,731 likes - 156 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,738 likes - 156 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 15 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 |
 | 16 | [Hometown Girl](https://open.spotify.com/track/0vZAKkSdmJUZRGDMD6GgMO) | [Easton Chambers](https://open.spotify.com/artist/026qzzmfC7pDGdnuZgYz8p), [Connor Priest](https://open.spotify.com/artist/5do2OUWiXevWKYJ3W60IvW) | [Same Ole Boy](https://open.spotify.com/album/4jJxXpPx1lQK72a1SdDm8V) | 3:07 |
 | 17 | [Getting Over You](https://open.spotify.com/track/71DObvm49Az9eW6yodaS2n) | [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Getting Over You](https://open.spotify.com/album/3pQKR66G70kMEmbGwbGVze) | 3:03 |
-| 18 | [Can't Have Mine](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 |
+| 18 | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\)](https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx) | 3:03 |
 | 19 | [Different Shade of Red](https://open.spotify.com/track/5E9k0SJGw3ZUQEB8RIY4y5) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:07 |
 | 20 | [Never Get It Back](https://open.spotify.com/track/5xTGNrUdGKwbn4jA90H58B) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine \(Deluxe\)](https://open.spotify.com/album/07ta8NK5ZipBOVSQgbGxtd) | 4:11 |
 | 21 | [Whiskey Side](https://open.spotify.com/track/7lYXb5Vdlq0Y48j6kEPh6r) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [George Birge](https://open.spotify.com/album/0kLDP2T9Fv7Gd6UfZXmERd) | 2:45 |

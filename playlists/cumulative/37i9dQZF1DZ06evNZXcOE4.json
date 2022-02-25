@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 214533,
       "name": "Ain't No Right",
       "url": "https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 307733,
       "name": "Classic Girl",
       "url": "https://open.spotify.com/track/6Y6XXDCJsDYgde0FH6hlhl"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 259666,
       "name": "Ocean Size",
       "url": "https://open.spotify.com/track/5lCjgHTEE7tbmzDVaCloGC"
@@ -513,6 +513,24 @@
       "duration_ms": 270533,
       "name": "Pigs in Zen",
       "url": "https://open.spotify.com/track/0MbbjxUwRG0nNbneLXKkHP"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327093,
+      "name": "Price I Pay",
+      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
     },
     {
       "album": {
@@ -653,7 +671,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 272386,
       "name": "Strays",
       "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 376480,
       "name": "Summertime Rolls",
       "url": "https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ"

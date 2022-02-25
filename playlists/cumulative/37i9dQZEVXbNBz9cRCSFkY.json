@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 186872,
       "name": "Always",
       "url": "https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV"
@@ -6773,6 +6773,24 @@
       "duration_ms": 208238,
       "name": "What is Love?",
       "url": "https://open.spotify.com/track/5Ek40FyMPprcvtyZDjqylX"
+    },
+    {
+      "album": {
+        "name": "True to My Music",
+        "url": "https://open.spotify.com/album/25NWcQxX3c34YyHlsxed7H"
+      },
+      "artists": [
+        {
+          "name": "APO Hiking Society",
+          "url": "https://open.spotify.com/artist/4RA4PC3WHM9OHZLExirTcU"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259413,
+      "name": "When I Met You",
+      "url": "https://open.spotify.com/track/1t7AA4xxqEseapeIJCiQ5l"
     },
     {
       "album": {

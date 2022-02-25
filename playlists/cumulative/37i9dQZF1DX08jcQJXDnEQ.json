@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 225360,
       "name": "Chopped in Half",
       "url": "https://open.spotify.com/track/01cGujYWGF7JchJLSgf6Ta"
@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Burnt Offerings",
+        "url": "https://open.spotify.com/album/0y89MABNBicWddVTsfX2wI"
+      },
+      "artists": [
+        {
+          "name": "Iced Earth",
+          "url": "https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 986826,
+      "name": "Dante's Inferno",
+      "url": "https://open.spotify.com/track/2G99JtIngAKV9LnMBzQUXG"
+    },
+    {
+      "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 175386,
       "name": "Dixie Whiskey - remastered 2007",
       "url": "https://open.spotify.com/track/73F6UKFA7ivQA51lhZTqjR"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Engine No. 9",
       "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 313523,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/3d1rZ0Trsucp8EAstQ5AK4"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 355800,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/3eDjEpLpLSXug9qD6ZgoiQ"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 270233,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/18S33odAheWBHbVAefiRLM"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 234760,
       "name": "The Hunter",
       "url": "https://open.spotify.com/track/4s0DbR4wt8AadGDlQbPepm"
@@ -2813,7 +2831,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 286600,
       "name": "Witches' Dance",
       "url": "https://open.spotify.com/track/3qwngQo9qTC4lWLbNPayNm"

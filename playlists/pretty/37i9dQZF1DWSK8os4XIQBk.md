@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,513 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,522 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 82 | [Relationship Goals](https://open.spotify.com/track/3UdGoJFsJOE5g9rMneiAty) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Thinkin' Bout You](https://open.spotify.com/album/2qUcrppBYcn4e1s45baZL7) | 2:48 |
 | 83 | [Slow](https://open.spotify.com/track/6hCbCpHz17ER6amPrHwJCz) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Campfire Troubadour](https://open.spotify.com/album/0JXLd6bWmSoMEofuBlP3KP) | 3:49 |
 | 84 | [Learn From It](https://open.spotify.com/track/4mWmGRifrQqHwZkaZyjs68) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Didn't Go Too Far](https://open.spotify.com/album/1NfLMs1PDvwnnKR3ms4cvj) | 2:59 |
-| 85 | [Devil in a Bottle](https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w), [Clint Curtis](https://open.spotify.com/artist/3rQ95Bg2O20ciECMwf1Hdw) | [Devil in a Bottle](https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc) | 3:47 |
+| 85 | [Devil in a Bottle](https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Devil in a Bottle](https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc) | 3:47 |
 | 86 | [Somewhere To Drink](https://open.spotify.com/track/088Yse18n2GcKz8HGqNxsh) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Somewhere To Drink](https://open.spotify.com/album/3FGZx78l7Ebxb0VHJkspmg) | 3:14 |
 | 87 | [How To Talk To Girls](https://open.spotify.com/track/0TmtIEVQGDMYHWmgYw3Zlq) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [How To Talk To Girls](https://open.spotify.com/album/4G7ZM1XjOlhHBpiCh2QctX) | 3:20 |
 | 88 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70) | 2:56 |

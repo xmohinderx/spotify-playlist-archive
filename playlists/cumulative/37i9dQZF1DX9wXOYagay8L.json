@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=Q9poZzv4QO2SmPd-EQIP7A\">Aubrey Qwana</a> and <a href=\"https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC?si=1pSNHh-bSCKMmCOkJqsxiA\">The Maniac DJ</a> ",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw?si=eNx68SW3SjSschrTA28O-g\">Zinah</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/4rAar6jaEScMXlVOdhP820"
+      },
+      "artists": [
+        {
+          "name": "Zinah",
+          "url": "https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195655,
+      "name": "Get over U",
+      "url": "https://open.spotify.com/track/0lFbOOZNpNi8TewfBei8qp"
+    },
+    {
+      "album": {
         "name": "Ghanama",
         "url": "https://open.spotify.com/album/3Xn8XHYzwQVWn3ALmiT3xp"
       },
@@ -798,6 +816,42 @@
     },
     {
       "album": {
+        "name": "Magic In The Water",
+        "url": "https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g"
+      },
+      "artists": [
+        {
+          "name": "Digital Sangoma",
+          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254608,
+      "name": "Magic In The Water",
+      "url": "https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX"
+    },
+    {
+      "album": {
+        "name": "Make It Rain",
+        "url": "https://open.spotify.com/album/7Md9rkUbEYu5Jitqsimwcs"
+      },
+      "artists": [
+        {
+          "name": "Zinah",
+          "url": "https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217855,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/3NH3qeBksmipl5oPWWgAYt"
+    },
+    {
+      "album": {
         "name": "Mamezala",
         "url": "https://open.spotify.com/album/175WAqrPQcqyLyjPLHvAlb"
       },
@@ -929,7 +983,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 286928,
       "name": "Ndiphelelwe",
       "url": "https://open.spotify.com/track/0jClI0jwVKDrHXLYIwivOz"
@@ -987,7 +1041,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 227868,
       "name": "next2me",
       "url": "https://open.spotify.com/track/1kPxq5oUjWrPiAnHqjq38H"
@@ -1151,7 +1205,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 285343,
       "name": "Ntab'ezimnyama",
       "url": "https://open.spotify.com/track/7lg6eea6HeZbJOT01pKS4m"

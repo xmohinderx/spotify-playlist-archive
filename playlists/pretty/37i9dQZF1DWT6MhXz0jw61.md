@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,865 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,343 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 23 | [Blacc Tarantino](https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Sledgren](https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR) | [Wiz Got Wings](https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq) | 2:43 |
 | 24 | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa) | 3:10 |
 | 25 | [Meagan Good](https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Rap?](https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm) | 2:58 |
-| 26 | [American Horror Story](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [American Horror Story](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 |
+| 26 | [AMERICAN HORROR STORY](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [AMERICAN HORROR STORY](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 |
 | 27 | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY) | 4:49 |
 | 28 | [Mortgage Free \(feat\. 2 Chainz\)](https://open.spotify.com/track/6VEHKvuIAB7LcTwl1XqnBi) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mortgage Free \(feat\. 2 Chainz\)](https://open.spotify.com/album/3O83kLKjolZCfPKyNr4mpW) | 3:15 |
 | 29 | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI) | 3:49 |

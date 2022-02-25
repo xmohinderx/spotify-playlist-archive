@@ -2386,6 +2386,28 @@
     },
     {
       "album": {
+        "name": "Dark side of the moon",
+        "url": "https://open.spotify.com/album/4ORIHnOoJZQ4ZWEJKTUfke"
+      },
+      "artists": [
+        {
+          "name": "8ird",
+          "url": "https://open.spotify.com/artist/3QmZDh7Hz0zasHGHK6NZkw"
+        },
+        {
+          "name": "Anys",
+          "url": "https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dark side of the moon",
+      "url": "https://open.spotify.com/track/1kRE2K3GeNFD9LgVEOBCR8"
+    },
+    {
+      "album": {
         "name": "Regalo",
         "url": "https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf"
       },
@@ -2607,6 +2629,24 @@
       "duration_ms": 160880,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249215,
+      "name": "Dionysus",
+      "url": "https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN"
     },
     {
       "album": {
@@ -4115,7 +4155,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -4223,7 +4263,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 171023,
       "name": "Intro : Persona",
       "url": "https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69"
@@ -4411,7 +4451,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 227275,
       "name": "Jamais Vu",
       "url": "https://open.spotify.com/track/7cgWWkpUaS94xoWI8lMGiI"
@@ -5047,7 +5087,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 251734,
       "name": "La rwina",
       "url": "https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG"
@@ -5957,7 +5997,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 226321,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3LSjYk6sFQaLi0MjtWcm8P"
@@ -6461,7 +6501,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 184615,
       "name": "Moral",
       "url": "https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT"
@@ -9059,7 +9099,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 214258,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
@@ -10087,7 +10127,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 214935,
       "name": "Ya Omri",
       "url": "https://open.spotify.com/track/18ICzd2SoSH7ymhAezZbiy"

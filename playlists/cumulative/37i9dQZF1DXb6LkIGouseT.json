@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Touched",
+        "url": "https://open.spotify.com/album/5BRU0kmqRF9aHTWkc7GcUO"
+      },
+      "artists": [
+        {
+          "name": "Mad Dog Friedman",
+          "url": "https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2AqfTYUmy87yGGQV18FnWM"
+    },
+    {
+      "album": {
         "name": "Native American Music",
         "url": "https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4"
       },

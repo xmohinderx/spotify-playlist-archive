@@ -608,6 +608,24 @@
     },
     {
       "album": {
+        "name": "Sentiment / Your Song",
+        "url": "https://open.spotify.com/album/0iKRPPeWPnsP6Ft48G10P9"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/5PJ6n1jiW3JGLoXt7cUVwH"
+    },
+    {
+      "album": {
         "name": "yours",
         "url": "https://open.spotify.com/album/3Bongu2IlWvd9QIOGLrPOM"
       },
@@ -999,6 +1017,24 @@
       "duration_ms": 191120,
       "name": "\u5b9d\u9053\u301c\u305f\u304b\u3089\u306e\u307f\u3061\u301c",
       "url": "https://open.spotify.com/track/66rbjh986YzlZLi5NK3ALl"
+    },
+    {
+      "album": {
+        "name": "i's",
+        "url": "https://open.spotify.com/album/00X0ZVNwkI9SQRvM7Ek500"
+      },
+      "artists": [
+        {
+          "name": "idom",
+          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203972,
+      "name": "\u5e30\u308a\u8def",
+      "url": "https://open.spotify.com/track/3E3NsTYYRQqHYauCm7qExn"
     },
     {
       "album": {

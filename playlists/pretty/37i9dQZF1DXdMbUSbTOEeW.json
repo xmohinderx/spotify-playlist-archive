@@ -1,13 +1,45 @@
 {
-  "description": "EDM is blowing up in India, thanks to these artists. Cover: Alan Walker",
-  "num_followers": 39863,
+  "description": "EDM is blowing up in India, thanks to these artists. Cover: DIVINE, KSHMR, LIT KILLAH.",
+  "num_followers": 39891,
   "original_name": "mint India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzcwNTIwMCwwMDAwMDA5MzAwMDAwMTdlYjQ3NmVkZWMwMDAwMDE3ZGUxM2QyOTVl",
+  "snapshot_id": "MTY0NTcyNzQwMCwwMDAwMDA5NDAwMDAwMTdmMmNmZjQwOWUwMDAwMDE3ZjJiYzZjNzE4",
   "tracks": [
+    {
+      "added_at": "2022-02-24 18:30:00",
+      "album": {
+        "name": "Lion Heart (feat. Jeremy Oceans & KARRA)",
+        "url": "https://open.spotify.com/album/47FKp5JlZ1xGOEHIWHX14Z"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Jeremy Oceans",
+          "url": "https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Lion Heart (feat. Jeremy Oceans & KARRA)",
+      "url": "https://open.spotify.com/track/4EZDJ5FMTj5pCJe2HBmd21"
+    },
     {
       "added_at": "2022-02-01 08:46:40",
       "album": {

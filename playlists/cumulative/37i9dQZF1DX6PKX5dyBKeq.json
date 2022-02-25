@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: Tion Wayne & M24",
+  "description": "The best of UK Rap & Drill.  Cover: Central Cee",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -1134,6 +1134,24 @@
     },
     {
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138120,
+      "name": "Air Bnb",
+      "url": "https://open.spotify.com/track/03IjhYX3PKr6DWsGo2rD82"
+    },
+    {
+      "album": {
         "name": "Airplane Mode (feat. NSG)",
         "url": "https://open.spotify.com/album/6krhhAJY1IOIU2oAZMg6IE"
       },
@@ -2105,6 +2123,24 @@
     {
       "album": {
         "name": "Balance",
+        "url": "https://open.spotify.com/album/7xDjPkPciUylKkH4evKqge"
+      },
+      "artists": [
+        {
+          "name": "AM",
+          "url": "https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/5jOoks9URiaBYwXFcqH36c"
+    },
+    {
+      "album": {
+        "name": "Balance",
         "url": "https://open.spotify.com/album/7r1dBrWXG9KDebxiSNNQKi"
       },
       "artists": [
@@ -3028,6 +3064,24 @@
     },
     {
       "album": {
+        "name": "Body & Shape",
+        "url": "https://open.spotify.com/album/4s1FxhAoyPZZ7QzqVoTGyC"
+      },
+      "artists": [
+        {
+          "name": "Queen Millz",
+          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144107,
+      "name": "Body & Shape",
+      "url": "https://open.spotify.com/track/757v8OBhrWZXIjoPQ0OTzL"
+    },
+    {
+      "album": {
         "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
         "url": "https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx"
       },
@@ -3129,7 +3183,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 188333,
       "name": "Boss",
       "url": "https://open.spotify.com/track/3RuU93HiW3bDmobmBGj8cg"
@@ -3159,6 +3213,24 @@
       "duration_ms": 189230,
       "name": "Bounce (feat. Tion Wayne & Stay Flee Get Lizzy)",
       "url": "https://open.spotify.com/track/4ZqwV1GiYCr98uiO4ZTBv8"
+    },
+    {
+      "album": {
+        "name": "Bow Down",
+        "url": "https://open.spotify.com/album/2YddCSvbNRpQiQA3EujzpB"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/6ebhtRkgKISGDaHyIxGIR5"
     },
     {
       "album": {
@@ -4463,7 +4535,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
@@ -5591,7 +5663,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 194377,
       "name": "Dior",
       "url": "https://open.spotify.com/track/7cjIuwb2Wcli6lKRopM2k5"
@@ -6225,7 +6297,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 244944,
       "name": "Drink",
       "url": "https://open.spotify.com/track/3pYsyffUUS2q9IUh3FkmwP"
@@ -7495,6 +7567,24 @@
       "duration_ms": 195713,
       "name": "Foreign",
       "url": "https://open.spotify.com/track/0KR482DzjEy2K3WKQSl7F3"
+    },
+    {
+      "album": {
+        "name": "Forty",
+        "url": "https://open.spotify.com/album/1YK7v1NkVfX6awxuoxNjFl"
+      },
+      "artists": [
+        {
+          "name": "Berna",
+          "url": "https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Forty",
+      "url": "https://open.spotify.com/track/6kCZkcBJFshwktDAF41fnh"
     },
     {
       "album": {
@@ -9181,7 +9271,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 423909,
       "name": "In The Fire",
       "url": "https://open.spotify.com/track/3mtaSob1BQO4HMSA8lWKRt"
@@ -10033,7 +10123,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 202199,
       "name": "Lean Wit It",
       "url": "https://open.spotify.com/track/1NFfmOAVWhY6rCnU8x8nqB"
@@ -10947,6 +11037,24 @@
       "duration_ms": 183433,
       "name": "Main Squeeze (feat. Young T & Bugsey)",
       "url": "https://open.spotify.com/track/33tQxnt1Q1kuJXN5TfrMDA"
+    },
+    {
+      "album": {
+        "name": "Make It Out",
+        "url": "https://open.spotify.com/album/6t85lyv6xJR1K7jRIItTXP"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172027,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/4rs6ragYtEcQKKymPvTjW3"
     },
     {
       "album": {
@@ -13995,7 +14103,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 146991,
       "name": "Popular Loner",
       "url": "https://open.spotify.com/track/5e3E0LdMpP3JgfHJn7NUAc"
@@ -15307,7 +15415,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 219400,
       "name": "Rollin Stone",
       "url": "https://open.spotify.com/track/2o5njMc2yUKRyXezphrlnS"
@@ -16962,6 +17070,24 @@
     },
     {
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Straight Back to It",
+      "url": "https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4"
+    },
+    {
+      "album": {
         "name": "Straight In",
         "url": "https://open.spotify.com/album/0LKKThcGk2k9g28fhneNFN"
       },
@@ -18379,6 +18505,28 @@
       "duration_ms": 130541,
       "name": "Topshottas Freestyle",
       "url": "https://open.spotify.com/track/26QK5v5NHjnYOzKEdTZ7d3"
+    },
+    {
+      "album": {
+        "name": "Torch",
+        "url": "https://open.spotify.com/album/4Dun63aHKmlztPAmQ9oSKI"
+      },
+      "artists": [
+        {
+          "name": "Suspect OTB",
+          "url": "https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE"
+        },
+        {
+          "name": "Tiny Boost",
+          "url": "https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236310,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/5bCYDIFDRiH6Vc0dBUGxvU"
     },
     {
       "album": {

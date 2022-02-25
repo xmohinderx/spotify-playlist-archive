@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0633\u0646 \u0634\u0627\u0643\u0648\u0634 \u0648 \u0639\u0645\u0631 \u0643\u0645\u0627\u0644\n\n",
+  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0648\u062f\u0647 \u0628\u0646\u062f\u0642\n\n",
   "name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "published_playlist_ids": [
     "6wRFf7uC9LQg9LaJkbdbju"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 171847,
       "name": "Bahr Shar",
       "url": "https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF"
@@ -451,6 +451,28 @@
       "duration_ms": 284699,
       "name": "\u0627\u0646\u0627 \u0641\u064a \u062d\u0627\u062c\u0647 \u0647\u062a\u062c\u0646\u0646\u064a",
       "url": "https://open.spotify.com/track/326wv1lze9tMWa8u4XUdaW"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u0627 \u0645\u0634 \u0628\u062e\u064a\u0631",
+        "url": "https://open.spotify.com/album/5nfgVXfzdSaayA7Zxt5RZ1"
+      },
+      "artists": [
+        {
+          "name": "Resha Costa",
+          "url": "https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8"
+        },
+        {
+          "name": "Samara Now",
+          "url": "https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240005,
+      "name": "\u0627\u0646\u0627 \u0645\u0634 \u0628\u062e\u064a\u0631",
+      "url": "https://open.spotify.com/track/3Wz60cK5MUiMOnuAWSFlKn"
     },
     {
       "album": {
@@ -1169,7 +1191,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 244558,
       "name": "\u0646\u0641\u0633\u064a \u062b\u0645 \u0646\u0641\u0633\u064a",
       "url": "https://open.spotify.com/track/361NL1PciW2K8iDsR0YRJj"
@@ -1231,6 +1253,24 @@
       "duration_ms": 264196,
       "name": "\u0648\u0633\u0637 \u062f\u0645\u0648\u0639 \u0648\u062c\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u0627\u0635\u0641\u0631",
+        "url": "https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6"
+      },
+      "artists": [
+        {
+          "name": "Hoda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221739,
+      "name": "\u064a\u0627 \u0627\u0635\u0641\u0631",
+      "url": "https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu"
     },
     {
       "album": {

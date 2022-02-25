@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Island infused pop music from the Caribbean where Pop, Reggae, Soca & Dancehall become one. Cover: Stalk Ashley",
+  "description": "Pop, Reggae, Soca & Dancehall all in one place, the biggest infused records from the Islands",
   "name": "Island Pop",
   "published_playlist_ids": [
     "2IWnbNUu459whuD2COYJWY"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 193069,
       "name": "Blow Up",
       "url": "https://open.spotify.com/track/0JEax1zPPcdgaztX9VAnCE"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 133746,
       "name": "Boss Lady (Sign Me Up)",
       "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 151269,
       "name": "Brace",
       "url": "https://open.spotify.com/track/7zfWaGp2wznqP0abqxOkbn"
@@ -310,6 +310,32 @@
     },
     {
       "album": {
+        "name": "Do We Ting",
+        "url": "https://open.spotify.com/album/3lGyckCY8xHswc2ys8e71d"
+      },
+      "artists": [
+        {
+          "name": "Lord Nelson",
+          "url": "https://open.spotify.com/artist/0kN50LxxiS4i2Fc4jK9KCI"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Do We Ting",
+      "url": "https://open.spotify.com/track/6ZcJbYTKZ2ejqTnGjLAXSf"
+    },
+    {
+      "album": {
         "name": "Olympic Riddim",
         "url": "https://open.spotify.com/album/4hdMmJrcEsaEHykt6vQqrR"
       },
@@ -321,10 +347,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 199692,
       "name": "Dog Bite",
       "url": "https://open.spotify.com/track/7tazJKabwp7AqcYZCLZqrS"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L"
     },
     {
       "album": {
@@ -439,7 +483,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 167767,
       "name": "GodDamnIT (Party)",
       "url": "https://open.spotify.com/track/2vVbDFWuO8z5B0MPdcroVS"
@@ -461,7 +505,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 200708,
       "name": "Greatness",
       "url": "https://open.spotify.com/track/759V9wdnLBFrxayyEiyq0E"
@@ -487,7 +531,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 227343,
       "name": "Green Brain (with Lee \"Scratch\" Perry & Yaadcore)",
       "url": "https://open.spotify.com/track/17tiS25zAjVNjvodAh8usi"
@@ -601,7 +645,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 155512,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/5yEDGhSkoreCSMNyd4ZU6G"
@@ -623,6 +667,32 @@
       "duration_ms": 210489,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/0j4JGNWKEjrOAOcOitdPc6"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        },
+        {
+          "name": "Dwala",
+          "url": "https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh"
     },
     {
       "album": {
@@ -677,7 +747,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 166250,
       "name": "Life of The Party (feat. Young T & Bugsey)",
       "url": "https://open.spotify.com/track/0pr4GCCxBMalnhXlkh7i54"
@@ -710,6 +780,32 @@
     },
     {
       "album": {
+        "name": "Mind My Business",
+        "url": "https://open.spotify.com/album/2e1bm04icZGHLmDKvGBqvY"
+      },
+      "artists": [
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119040,
+      "name": "Mind My Business",
+      "url": "https://open.spotify.com/track/28Nm0rgLcn4OUQTocqoDZO"
+    },
+    {
+      "album": {
         "name": "438",
         "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
       },
@@ -725,7 +821,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 183092,
       "name": "Moments",
       "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
@@ -747,7 +843,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
@@ -817,7 +913,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 164464,
       "name": "NYCE",
       "url": "https://open.spotify.com/track/5hU9asdarIOC0eposo4uge"
@@ -865,7 +961,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 201250,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/54zJOyqErbKsq3p8TKLrAa"
@@ -909,7 +1005,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 174602,
       "name": "Phases",
       "url": "https://open.spotify.com/track/7JJFetW98L6HbQKUpfonEA"
@@ -949,7 +1045,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 164068,
       "name": "Pretty Ugly (feat. BEAM)",
       "url": "https://open.spotify.com/track/2HOmIPMAkekoQHaIrtz64n"
@@ -967,10 +1063,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 204623,
       "name": "Private Party",
       "url": "https://open.spotify.com/track/05UiZ7ArvwlF8pUK6Fccc6"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
     },
     {
       "album": {
@@ -985,7 +1099,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 185350,
       "name": "Put It On You",
       "url": "https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw"
@@ -1029,7 +1143,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 73000,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/6suoQRZBxFn45KDsw5Prr0"
@@ -1073,7 +1187,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 151475,
       "name": "Sammy Sosa",
       "url": "https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr"
@@ -1245,7 +1359,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 196235,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/4G08pUaQ5frf1o1WMT7D4L"
@@ -1329,7 +1443,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 165851,
       "name": "Virgin",
       "url": "https://open.spotify.com/track/73v1nAuRvRt1uDVrXEcSaa"
@@ -1351,6 +1465,24 @@
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
+    },
+    {
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "album": {
@@ -1387,7 +1519,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 224052,
       "name": "With Love",
       "url": "https://open.spotify.com/track/537mdSb2iJlDm7ckb4iCyq"
@@ -1427,7 +1559,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 130543,
       "name": "You're The One I Love (with Rvssian)",
       "url": "https://open.spotify.com/track/6x4Lxr3upD3MQsvxi6gePp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > the songs you need rn \- cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,438 likes - 103 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,742 likes - 103 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

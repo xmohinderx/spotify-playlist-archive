@@ -2,7 +2,7 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
-> Current indie tunes from Asia and around the world\. Cover: moon tang
+> Current indie tunes from Asia and around the world\. Cover: Gym and Swim
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2021-12-16 | 2021-12-31 |
 | [Certified Fool](https://open.spotify.com/track/3TSSJEpfQo6AbtvxlmUyVe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Certified Fool](https://open.spotify.com/album/0NbqJMh9LSvt3dmqwiotYK) | 4:06 | 2021-12-16 | 2022-01-14 |
 | [Change](https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Change](https://open.spotify.com/album/0RmOC132NVM3iENECtcmYb) | 6:04 | 2021-12-16 | 2022-01-14 |
+| [CHARGER](https://open.spotify.com/track/0ZHSbNRrrfAs8hwEuecJM6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM) | [CHARGER](https://open.spotify.com/album/5y1t9JGawPBdgJjd3Ogl0a) | 1:53 | 2022-02-24 |  |
 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 | 2022-02-10 |  |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-20 | 2022-02-18 |
 | [Close To You](https://open.spotify.com/track/6SQJyYv6qZHhneGddKRdT0) | [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Jsdrmns](https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l) | [Close To You](https://open.spotify.com/album/40FZJu1z9sHJD8qYLqifUm) | 2:44 | 2022-02-10 |  |
@@ -88,6 +89,7 @@
 | [Lonely Winter](https://open.spotify.com/track/7c8rXgRsYlpV2EJUwCNTFG) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM) | [Lonely Winter](https://open.spotify.com/album/2a0n42rbPAz0JgQqoLUnpc) | 3:12 | 2021-12-30 |  |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-01-20 |  |
 | [Loose](https://open.spotify.com/track/7tq6s91kg4h5sC9ZBJ9vdD) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Loose](https://open.spotify.com/album/5i9VYWznAvstGKuQxGogsx) | 3:14 | 2022-02-17 |  |
+| [Lose Face](https://open.spotify.com/track/6mcgOEAqofUSR52I6dgeVs) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Lose Face](https://open.spotify.com/album/1KKqOyqwhcZKjDMH2tFZh1) | 2:40 | 2022-02-24 |  |
 | [Love](https://open.spotify.com/track/2S21tvV0jigedzU9tbQksd) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Love](https://open.spotify.com/album/6Hs4hl7bsGLefnPMY31cng) | 4:54 | 2021-12-16 | 2022-02-11 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-13 | 2022-01-21 |
 | [Lucifer On The Sofa](https://open.spotify.com/track/5C5EOBG95uBcP2mmytv8j7) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 5:09 | 2022-02-10 |  |
@@ -96,6 +98,7 @@
 | [Madeleine](https://open.spotify.com/track/65YXY9hqvvsvfT5xHb44lF) | [LUAMEL](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Madeleine](https://open.spotify.com/album/7mKN1i8ZgERfSeMnM23IWd) | 3:44 | 2021-12-30 | 2022-01-29 |
 | [MAGAZINE](https://open.spotify.com/track/6FwYZxdc4xJxEdIQjZtGvP) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [MAGAZINE](https://open.spotify.com/album/5GOW52attS62W49TYwNQwa) | 2:48 | 2021-12-23 | 2021-12-31 |
 | [Make Believe World](https://open.spotify.com/track/5N0kYumajfrczRSevdTZxG) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [UNEMPLOYMENT](https://open.spotify.com/album/2UUNfzDK1uwoBcOg9vVjel) | 4:30 | 2022-01-20 |  |
+| [Make It Right](https://open.spotify.com/track/3YIo8llthdNC8Si3W2CIPP) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Make It Right](https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7) | 2:33 | 2022-02-24 |  |
 | [Making Me Sick!](https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5) | 3:22 | 2022-02-10 |  |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2021-12-16 | 2022-02-11 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-10 |  |
@@ -135,6 +138,7 @@
 | [Run to you \- Christmas Special](https://open.spotify.com/track/2LeNMdCRoqrLue1lsCMW5i) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Run to you \(Christmas Special\)](https://open.spotify.com/album/590gdVrqvyYCcbPcbXsPZf) | 3:06 | 2021-12-23 | 2022-02-11 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-12-16 | 2022-02-18 |
 | [sandcastles](https://open.spotify.com/track/5hNKmPWC97RxTXpgy3kf6x) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [call me when you wake up](https://open.spotify.com/album/5lAIULp9wE4dQnmgJsHzAt) | 3:26 | 2021-12-16 | 2022-01-21 |
+| [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-02-24 |  |
 | [Second Nature](https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:02 | 2021-12-16 | 2021-12-31 |
 | [Sicily](https://open.spotify.com/track/5evK27NsYgIldEmR1CCjUA) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 3:29 | 2022-01-28 |  |
 | [Silly Loner \(Heavy Lover\)](https://open.spotify.com/track/5Vx9RLJ7T5GINxUHR6F0vX) | [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i), [Pramudya](https://open.spotify.com/artist/5mdkF7STuF4VISagCWUcrv) | [Silly Loner \(Heavy Lover\)](https://open.spotify.com/album/2hxIJiWoHUlqSzKCeOMW3T) | 4:32 | 2021-12-16 | 2022-01-29 |
@@ -158,12 +162,14 @@
 | [Take It Slow](https://open.spotify.com/track/6DffoPe45lbiNxdCkfoFYd) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Take It Slow](https://open.spotify.com/album/4OX3swXsgAIbZ5xep0nhqc) | 5:26 | 2022-01-06 | 2022-02-18 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-02-17 |  |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-12-16 | 2021-12-31 |
+| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-24 |  |
 | [The One Who Wins](https://open.spotify.com/track/6PNBcD4FpmSnoBhcM10uwv) | [Thomas Glaop](https://open.spotify.com/artist/2MITGoVOpjWT1dLM9xAfdG) | [The One Who Wins](https://open.spotify.com/album/109Suo0HQEOaKF7nvXfL8Z) | 3:38 | 2021-12-23 | 2022-01-14 |
 | [The Smoke](https://open.spotify.com/track/2WXelEIMTkDX8VENGdbHfk) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [The Smoke](https://open.spotify.com/album/6NH6Oo9j6WydhAZawVyLRE) | 3:39 | 2022-01-28 | 2022-02-18 |
 | [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 | 2022-01-13 | 2022-01-29 |
 | [Theworstthing](https://open.spotify.com/track/2zcqL8jheETC85OYOgaBl8) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Theworstthing](https://open.spotify.com/album/3W88I4fwX6EqtR7qJ6I5fU) | 3:03 | 2021-12-16 | 2021-12-31 |
 | [This Car Drives All by Itself](https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:45 | 2022-01-13 |  |
 | [This Time, Tomorrow](https://open.spotify.com/track/6WGHsdKXiE3SFtG1JTNg7j) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/716XHpW50tOOkELJmjS8Df) | 3:10 | 2022-01-13 |  |
+| [Thunder Fever](https://open.spotify.com/track/22uorZHWp6U89kCJugaqiR) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Thunder Fever](https://open.spotify.com/album/5d92PvDER2GJql4x86vkwk) | 3:09 | 2022-02-24 |  |
 | [Tip Trip \(Trip To The Tip\)](https://open.spotify.com/track/4wmo0XNrJftCA1AAePN1u4) | [Hen Ogledd](https://open.spotify.com/artist/1nw6dQQptzvEQ5GtC6HGe4) | [No Wood Accepted](https://open.spotify.com/album/0Mpl2wjlDXTjw79RtxPy5x) | 7:08 | 2021-12-16 | 2021-12-31 |
 | [Too Late Now](https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Too Late Now / Oh No](https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS) | 3:29 | 2021-12-16 | 2022-02-18 |
 | [Try Better Next Time](https://open.spotify.com/track/5HzYHDdYKsxhGZEkZLiFl0) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Try Better Next Time](https://open.spotify.com/album/6RLEWVuwEEdYfCj54wnxWV) | 3:07 | 2022-01-13 | 2022-02-18 |
@@ -188,6 +194,7 @@
 | [ฉันและน้ำตา \(Drops\)](https://open.spotify.com/track/5bP0HldyZMVnO0lFxvg4PB) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ฉันและน้ำตา \(Drops\)](https://open.spotify.com/album/5nzudbQMMlrki2sQiou1DW) | 5:48 | 2021-12-16 | 2021-12-31 |
 | [ช่อดอกไม้ \(Scent\)](https://open.spotify.com/track/4Lqs2hxgKDMQ0zDUTE7Vu5) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ช่อดอกไม้ \(Scent\)](https://open.spotify.com/album/31gNak51sie3nlD36qzG5E) | 3:48 | 2022-02-10 |  |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-01-13 | 2022-01-29 |
+| [拉麵公子 Ramen Boy](https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [鶴園 Crane Garden](https://open.spotify.com/album/1g2jXMntes7PL3ruv7Ghrh) | 4:54 | 2022-02-24 |  |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-02-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: flowerovlove Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,259 likes - 108 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,411 likes - 108 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

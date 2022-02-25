@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 302449,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/6FnuAqXpu9LOgk6vpZxhVX"
@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Caught",
+        "url": "https://open.spotify.com/album/1DKTP2s9fuYxUxiw84DYRI"
+      },
+      "artists": [
+        {
+          "name": "Poly",
+          "url": "https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269080,
+      "name": "Caught",
+      "url": "https://open.spotify.com/track/46nccm1ZvlvHspOQHcPskS"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH"
       },
@@ -311,6 +329,24 @@
       "duration_ms": 211466,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9"
+    },
+    {
+      "album": {
+        "name": "Dark Comedy",
+        "url": "https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn"
+      },
+      "artists": [
+        {
+          "name": "Down For Tomorrow",
+          "url": "https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192922,
+      "name": "Dark Comedy",
+      "url": "https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY"
     },
     {
       "album": {
@@ -455,6 +491,24 @@
       "duration_ms": 264876,
       "name": "Exile",
       "url": "https://open.spotify.com/track/59YHz0UuB86WYag5533ay8"
+    },
+    {
+      "album": {
+        "name": "Feel Pain",
+        "url": "https://open.spotify.com/album/2XsWaAZYxn9K21tkfAhrUZ"
+      },
+      "artists": [
+        {
+          "name": "Prince of Lilies",
+          "url": "https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Feel Pain",
+      "url": "https://open.spotify.com/track/4yk52xaPJ5UrTF3pZczFYl"
     },
     {
       "album": {
@@ -1135,7 +1189,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 242256,
       "name": "The Now",
       "url": "https://open.spotify.com/track/3TI3KAFZ2IrD1GJfWnRUui"
@@ -1427,7 +1481,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 221545,
       "name": "Your Funny Loneliness",
       "url": "https://open.spotify.com/track/6Ak6nieXA8NoZSkr0DZm9f"

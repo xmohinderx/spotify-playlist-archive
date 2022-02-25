@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 256680,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/700xxgbIpH0YNMideY7sWR"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 212354,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 195735,
       "name": "Boardwalks",
       "url": "https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 241639,
       "name": "Breast of Glass",
       "url": "https://open.spotify.com/track/04KKr7Ri3H3lVTVdNxcyK1"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "Diane",
       "url": "https://open.spotify.com/track/0TNo6QGomZYTL9qkb1zsNq"
@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N"
+      },
+      "artists": [
+        {
+          "name": "Honeysuckle",
+          "url": "https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "Greenline",
+      "url": "https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA"
+    },
+    {
+      "album": {
         "name": "Quiet Talkers",
         "url": "https://open.spotify.com/album/4qz1y6JRpFcSXMwAttnpzs"
       },
@@ -635,7 +653,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 230508,
       "name": "Grey County Blues",
       "url": "https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 270226,
       "name": "Leave Me Now",
       "url": "https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 232400,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 153533,
       "name": "Love Is Tall",
       "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 207305,
       "name": "Martha",
       "url": "https://open.spotify.com/track/6jR9qx0N2DgwzVuvispn7H"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 187411,
       "name": "Mountain Falls for the Sea",
       "url": "https://open.spotify.com/track/7oRtHBBKdsl4XLQBWjWDDW"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 225390,
       "name": "Safe - Acoustic",
       "url": "https://open.spotify.com/track/5tfFboWJhotbIPlY1aVsOD"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 135077,
       "name": "Sweet Return",
       "url": "https://open.spotify.com/track/3LApsNoXrlZHPIhGNdo8P1"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-25",
       "duration_ms": 216415,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
