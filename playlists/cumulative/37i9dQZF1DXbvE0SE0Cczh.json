@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "The Original Sound (Sun Records 70th / Alternate / Remastered 2022)",
+        "url": "https://open.spotify.com/album/4pS4IdMzD9eICPhkIT4h0U"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130425,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/3fpZgZh9G1jCslrbEFBml6"
+    },
+    {
+      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },

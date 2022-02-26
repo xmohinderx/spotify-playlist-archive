@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Prospa and KETTAMA",
+  "description": "The home for alternative electronic music. Cover: TSHA",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
@@ -570,6 +570,42 @@
     },
     {
       "album": {
+        "name": "Bodies Of Water",
+        "url": "https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304306,
+      "name": "Bodies Of Water",
+      "url": "https://open.spotify.com/track/4tAIZ4jqnYtuZwx5trVtbE"
+    },
+    {
+      "album": {
+        "name": "BOYZ",
+        "url": "https://open.spotify.com/album/42RXpd1cxEckm91miDtiAs"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240321,
+      "name": "BOYZ",
+      "url": "https://open.spotify.com/track/79ixYcSOhGVaG69GHfVOXJ"
+    },
+    {
+      "album": {
         "name": "Bring Me Back To You",
         "url": "https://open.spotify.com/album/6nojptV23oHMznt5Zh8DEq"
       },
@@ -665,6 +701,28 @@
       "duration_ms": 360362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0yfv6MTiSc6I6a8SGlqxmT"
+    },
+    {
+      "album": {
+        "name": "Calling (feat. Ell Murphy)",
+        "url": "https://open.spotify.com/album/0rVL75Z6wCeIjjOh6qeMTa"
+      },
+      "artists": [
+        {
+          "name": "Gemi",
+          "url": "https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm"
+        },
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Calling (feat. Ell Murphy) [Vocal Edit]",
+      "url": "https://open.spotify.com/track/7KcE6hhkk2cy2MHdMf8Xya"
     },
     {
       "album": {
@@ -1389,7 +1447,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 255000,
       "name": "Icaro",
       "url": "https://open.spotify.com/track/2TEPMRBEN4rQQ3pjbQhX2i"
@@ -1671,7 +1729,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 303940,
       "name": "Life In A Mind",
       "url": "https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2"
@@ -2086,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "Potency002",
+        "url": "https://open.spotify.com/album/62I1FoTetnOjhE2sUiqf0B"
+      },
+      "artists": [
+        {
+          "name": "Cromby",
+          "url": "https://open.spotify.com/artist/1qxDhjTatsIGuMVF3LMAOX"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341486,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/6eBdlW7BeegLo73ifH7X3D"
+    },
+    {
+      "album": {
         "name": "Otomo",
         "url": "https://open.spotify.com/album/2zSMwsGd7r6fkJBoXkv3lQ"
       },
@@ -2417,7 +2493,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 192569,
       "name": "Seven 55 - DJ-Kicks",
       "url": "https://open.spotify.com/track/77twqLUpQWbRz8GNzjBwT4"
@@ -2693,7 +2769,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 236366,
       "name": "Spirit Wave - Edit",
       "url": "https://open.spotify.com/track/5zfDn2VAMkLya9CRKEYZyb"
@@ -2719,6 +2795,28 @@
       "duration_ms": 266163,
       "name": "Spiritually",
       "url": "https://open.spotify.com/track/5ccaOzuqheoAUOjAj8NiyW"
+    },
+    {
+      "album": {
+        "name": "Stay Out All Night (Remixes)",
+        "url": "https://open.spotify.com/album/2lxXGuqOgt9S6SywMfo5ea"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388059,
+      "name": "Stay Out All Night - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/4N6y6lAaIUYB359Uko8Yxm"
     },
     {
       "album": {

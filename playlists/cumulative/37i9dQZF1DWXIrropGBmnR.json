@@ -456,6 +456,24 @@
     },
     {
       "album": {
+        "name": "aurora",
+        "url": "https://open.spotify.com/album/3hYe7VB1qzHba2JLVQVTwe"
+      },
+      "artists": [
+        {
+          "name": "Naomi Young",
+          "url": "https://open.spotify.com/artist/3i3Kwm6kFNGXpnnJfy8U1r"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "eventide",
+      "url": "https://open.spotify.com/track/1fj2Rp3PtpNImOX38QTblL"
+    },
+    {
+      "album": {
         "name": "Distant Echo",
         "url": "https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y"
       },
@@ -1087,6 +1105,24 @@
       "duration_ms": 129863,
       "name": "Sostenuto",
       "url": "https://open.spotify.com/track/2pmzW6PbqlAunOXe0AdYIw"
+    },
+    {
+      "album": {
+        "name": "Spiritual Life",
+        "url": "https://open.spotify.com/album/3xH5RrZjfMpaP2NINcRm4u"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Spiritual Life",
+      "url": "https://open.spotify.com/track/23bxmrk17ilhyWSj8fn96W"
     },
     {
       "album": {

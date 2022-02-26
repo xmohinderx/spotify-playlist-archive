@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & singer-songwriter. Cover: Hurray For The Riff Raff",
+  "description": "Hear what's new in folk, roots & singer-songwriter. Cover: Lola Kirke",
   "name": "Fresh Folk",
   "published_playlist_ids": [
     "7yU452WcXvKlp2CXhHrD6N"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 283008,
       "name": "American Spirits",
       "url": "https://open.spotify.com/track/2FL4CvhhyXeQiLhgYncVeU"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 202319,
       "name": "Be My Witness (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 206228,
       "name": "Better Than Any Drug",
       "url": "https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz"
@@ -644,6 +644,28 @@
     },
     {
       "album": {
+        "name": "Broken Families",
+        "url": "https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197391,
+      "name": "Broken Families",
+      "url": "https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR"
+    },
+    {
+      "album": {
         "name": "Brooklyn Bridge",
         "url": "https://open.spotify.com/album/4QPAvyC716Uf1GRW7oEVrt"
       },
@@ -717,7 +739,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 189059,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/29Lv0aRZQck8xBrzTqDgG6"
@@ -920,6 +942,24 @@
     },
     {
       "album": {
+        "name": "Back Burners",
+        "url": "https://open.spotify.com/album/0wB9AhPp1qM1RaxP4X1bh4"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204915,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/77WgMy0kPqu8tpEGJcM3xe"
+    },
+    {
+      "album": {
         "name": "Darkness to Light",
         "url": "https://open.spotify.com/album/1TuOt5YyGRqiKynnLSsxd5"
       },
@@ -1082,6 +1122,32 @@
     },
     {
       "album": {
+        "name": "Dooley's Farm (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221302,
+      "name": "Dooley's Farm (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd"
+    },
+    {
+      "album": {
         "name": "doomsday",
         "url": "https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm"
       },
@@ -1173,6 +1239,24 @@
       "duration_ms": 182253,
       "name": "Drugstore Houses",
       "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
+    },
+    {
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302578,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9"
     },
     {
       "album": {
@@ -1710,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "Happy Girl",
+        "url": "https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Happy Girl",
+      "url": "https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U"
+    },
+    {
+      "album": {
         "name": "Hard Things",
         "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
       },
@@ -1819,6 +1921,24 @@
       "duration_ms": 273954,
       "name": "High and Lonesome",
       "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
+    },
+    {
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/01IDbYy8WthOKg72XN6Bky"
+      },
+      "artists": [
+        {
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156504,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/5U34cKbJSYD3Ww0LfeBqgf"
     },
     {
       "album": {
@@ -2177,7 +2297,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 190013,
       "name": "I'm Not My Season - Solstice Version",
       "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
@@ -2267,7 +2387,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 294906,
       "name": "If Trouble Comes a Lookin'",
       "url": "https://open.spotify.com/track/2VZc62J4lUxBxYYXd1RM4c"
@@ -2559,7 +2679,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 210731,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5WeN3qxBYxzmTLDhXxa1Ib"
@@ -2881,7 +3001,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
@@ -3099,6 +3219,24 @@
       "duration_ms": 291320,
       "name": "Old Dog",
       "url": "https://open.spotify.com/track/6byyhvAPKJ2l2GU9Tu92SC"
+    },
+    {
+      "album": {
+        "name": "Old Tin Can",
+        "url": "https://open.spotify.com/album/7aG1PyJUPBOtNzxJNLiy7t"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169277,
+      "name": "Old Tin Can",
+      "url": "https://open.spotify.com/track/1gxATND19pVRuQwgLbolvQ"
     },
     {
       "album": {
@@ -3489,7 +3627,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
@@ -3623,6 +3761,24 @@
       "duration_ms": 228173,
       "name": "Real Heart",
       "url": "https://open.spotify.com/track/6jjpqcjHaH42fu2lY4E0Wl"
+    },
+    {
+      "album": {
+        "name": "Hard To Look At",
+        "url": "https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv"
+      },
+      "artists": [
+        {
+          "name": "Cammy Enaharo",
+          "url": "https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149773,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z"
     },
     {
       "album": {
@@ -4118,6 +4274,42 @@
     },
     {
       "album": {
+        "name": "Star Nation",
+        "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246364,
+      "name": "Star Nation",
+      "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
+    },
+    {
+      "album": {
+        "name": "Stargazer",
+        "url": "https://open.spotify.com/album/1dYQwIx2deZDw8vg6tKxBl"
+      },
+      "artists": [
+        {
+          "name": "Robin Bacior",
+          "url": "https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225377,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/157AYdvLTUqe9JPdb196Ry"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/6uidjs2Vt0Pycb9I79DVAD"
       },
@@ -4509,6 +4701,24 @@
       "duration_ms": 200625,
       "name": "The Man I Loved",
       "url": "https://open.spotify.com/track/1kZYs9zFzfeT1t4lzoZAob"
+    },
+    {
+      "album": {
+        "name": "The Man Was Burning",
+        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155665,
+      "name": "The Man Was Burning",
+      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
     },
     {
       "album": {

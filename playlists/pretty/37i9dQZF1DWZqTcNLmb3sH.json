@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 21714,
+  "num_followers": 21735,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcxNzY0OSwwMDAwMDE0ZTAwMDAwMTdmMmM2YTc2NzgwMDAwMDE3ZWJlOTc3N2Mx",
+  "snapshot_id": "MTY0NTc5NjEyOCwwMDAwMDE0ZjAwMDAwMTdmMzExN2Y3YTUwMDAwMDE3ZWJlOTc3N2Mx",
   "tracks": [
     {
       "added_at": "2022-02-03 09:54:34",
@@ -319,6 +319,26 @@
       "duration_ms": 192483,
       "name": "Helu Yaake",
       "url": "https://open.spotify.com/track/39jPrdGVMQNmjaEmIWiC7U"
+    },
+    {
+      "added_at": "2022-02-25 13:35:28",
+      "album": {
+        "name": "Nigarva",
+        "url": "https://open.spotify.com/album/05No3gS9N7QCymw9SzRRQv"
+      },
+      "artists": [
+        {
+          "name": "Girish Ramanjaneya",
+          "url": "https://open.spotify.com/artist/20fv9nOfjtq6tzizZ2RdhM"
+        },
+        {
+          "name": "Megha Aditi Gowda",
+          "url": "https://open.spotify.com/artist/3FMWOU7KqkLu2ktVYQkyaj"
+        }
+      ],
+      "duration_ms": 260167,
+      "name": "Edeyalli Eno Ondu",
+      "url": "https://open.spotify.com/track/4QHpfMt55h09MnwqjJSzU5"
     },
     {
       "added_at": "2022-01-18 07:18:18",

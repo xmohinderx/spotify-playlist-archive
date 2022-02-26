@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw?si=eNx68SW3SjSschrTA28O\-g">Zinah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,650 likes - 65 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,706 likes - 65 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

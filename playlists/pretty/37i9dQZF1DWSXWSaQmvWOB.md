@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of soul\-infused music! Cover: Samm Henshaw
+> Your daily dose of soul\-infused music! Cover: Joss Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,098 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,184 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 |
 | 100 | [Kick It to Me](https://open.spotify.com/track/5omukHtcJduzkSfOlze4iB) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar) | 6:27 |
 
-Snapshot ID: `MTY0NTc0MzY2MCwwMDAwMDExNzAwMDAwMTdmMmRmNzVjNjIwMDAwMDE3ZTlkNjdhMjRl`
+Snapshot ID: `MTY0NTgwNTM3MiwwMDAwMDExODAwMDAwMTdmMzFhNTA1NDQwMDAwMDE3ZjMxYTRjY2Zh`

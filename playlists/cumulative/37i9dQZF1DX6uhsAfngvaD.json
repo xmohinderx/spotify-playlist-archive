@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Around the Clouds",
       "url": "https://open.spotify.com/track/6ufdYhE5rmqxv4vzKTwSKJ"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 274764,
       "name": "Chump",
       "url": "https://open.spotify.com/track/2WBYxaaPOjULi1UF0Bzqbz"
@@ -781,6 +781,24 @@
       "duration_ms": 202919,
       "name": "Coca Cola",
       "url": "https://open.spotify.com/track/4wWQeafQ4q5WKafYIuUmY8"
+    },
+    {
+      "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "album": {
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 247060,
       "name": "Devil's Rain",
       "url": "https://open.spotify.com/track/18XFAgtkhDxKv1cpnr2C3w"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 182000,
       "name": "Diamond Brand",
       "url": "https://open.spotify.com/track/5tOH5FgEC8CS2ukdSwwy93"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 189651,
       "name": "Drag",
       "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 208991,
       "name": "Electric Dream",
       "url": "https://open.spotify.com/track/5uijMApAj15FDccuaziRKS"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2020-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 286660,
       "name": "Even True Love",
       "url": "https://open.spotify.com/track/79PaJyGdIi8XN6d9tp2YlT"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 139250,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3BbThQPnLmgMyFH4ZHSxBj"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 184433,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/21gawnch3zw2cpWyHGTT9h"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 272250,
       "name": "How",
       "url": "https://open.spotify.com/track/24UzJSXpXqmGXrGjqAOFpY"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 297612,
       "name": "how do you feel",
       "url": "https://open.spotify.com/track/3BMcTB54pN4oZlIIPNxcy1"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 254000,
       "name": "I'm lost in a fishbowl",
       "url": "https://open.spotify.com/track/2UInBM4KnSCz1bqb0NNO3q"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2020-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 240736,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/6uFXA44CcLLWbNY5kYSOK6"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2020-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 256204,
       "name": "Keep You Warm",
       "url": "https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 200173,
       "name": "Lie Love Lullaby",
       "url": "https://open.spotify.com/track/1NR4gSR1iITXlbm6qTksHP"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2020-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 183280,
       "name": "Lylz",
       "url": "https://open.spotify.com/track/1C9t8whBQcIDcI3mwmmFhp"
@@ -2765,7 +2783,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 184042,
       "name": "Milano Sport",
       "url": "https://open.spotify.com/track/0GdFn9cxQlB0qpEy2AvGlr"
@@ -2801,7 +2819,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 225920,
       "name": "Mol\u00e9cula - En Vivo Desde Estudio 13",
       "url": "https://open.spotify.com/track/3x6mOyz5QEjExVGBVMFIWz"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 194947,
       "name": "Ohio Blue Tips",
       "url": "https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF"
@@ -3021,7 +3039,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 389680,
       "name": "Our Heads, Our Hearts on Fire Again",
       "url": "https://open.spotify.com/track/3kkPJGeAmoHu4Glta3MgZT"
@@ -3209,7 +3227,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 126770,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/3BAZa1WlbTZoWPoKcJRtE2"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 251999,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE"
@@ -3357,7 +3375,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 204464,
       "name": "rest up",
       "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
@@ -3447,7 +3465,7 @@
       ],
       "date_added": "2020-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 286821,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/0zxaeEmN9uxdvx7mrnmZAJ"
@@ -3591,7 +3609,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 265466,
       "name": "Skin Game",
       "url": "https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY"
@@ -3627,7 +3645,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 322840,
       "name": "So Humble the Afternoon",
       "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
@@ -3681,7 +3699,7 @@
       ],
       "date_added": "2019-11-19",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 217242,
       "name": "Someday Soon",
       "url": "https://open.spotify.com/track/54H7CLmI5SE7wmhlE0THS5"
@@ -3807,7 +3825,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
@@ -4293,7 +4311,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
@@ -4311,7 +4329,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 154533,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
@@ -4419,7 +4437,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3"

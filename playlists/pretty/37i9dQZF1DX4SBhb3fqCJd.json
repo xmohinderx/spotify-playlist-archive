@@ -1,28 +1,28 @@
 {
-  "description": "The pulse of R&B music today.  Cover: Lucky Daye",
-  "num_followers": 5854430,
+  "description": "The pulse of R&B music today.  Cover: Kehlani",
+  "num_followers": 5854918,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQwMCwwMDAwMDU0ZjAwMDAwMTdmMGIzMzg1NzIwMDAwMDE3ZjBhNjcxZGMz",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDU1MDAwMDAwMTdmMmY0MGYzNjAwMDAwMDE3ZjJkNGYzZTE5",
   "tracks": [
     {
-      "added_at": "2022-02-18 05:00:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "DFMU",
-        "url": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
+        "name": "little story",
+        "url": "https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 197517,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d"
+      "duration_ms": 198920,
+      "name": "little story",
+      "url": "https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -39,6 +39,62 @@
       "duration_ms": 204316,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "Scenic Drive (The Tape)",
+        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
+      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "DFMU",
+        "url": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 197517,
+      "name": "DFMU",
+      "url": "https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -95,46 +151,6 @@
       "duration_ms": 219786,
       "name": "Roster",
       "url": "https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "Scenic Drive (The Tape)",
-        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
-      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -219,26 +235,6 @@
     {
       "added_at": "2022-02-18 05:00:00",
       "album": {
-        "name": "Rent Money (feat. Dave East)",
-        "url": "https://open.spotify.com/album/2e6qv6myguUFVoLfsjHZ1w"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 229884,
-      "name": "Rent Money (feat. Dave East)",
-      "url": "https://open.spotify.com/track/2lFIxJbGfhcAIz5tzacZdK"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
       },
@@ -271,6 +267,26 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "Rent Money (feat. Dave East)",
+        "url": "https://open.spotify.com/album/2e6qv6myguUFVoLfsjHZ1w"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 229884,
+      "name": "Rent Money (feat. Dave East)",
+      "url": "https://open.spotify.com/track/2lFIxJbGfhcAIz5tzacZdK"
     },
     {
       "added_at": "2022-02-18 05:00:00",

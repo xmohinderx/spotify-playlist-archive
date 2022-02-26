@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Ann Alawan",
+        "url": "https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Ann Alawan",
+      "url": "https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa"
+    },
+    {
+      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -489,7 +507,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 225600,
       "name": "Khayal",
       "url": "https://open.spotify.com/track/6oItsPDKVtqJFtbIn8V4AW"

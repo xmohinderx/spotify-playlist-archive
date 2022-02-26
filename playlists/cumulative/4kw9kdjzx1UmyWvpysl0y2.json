@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Austrumi",
+        "url": "https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si"
+      },
+      "artists": [
+        {
+          "name": "Stendahl",
+          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Austrumi",
+      "url": "https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS"
+    },
+    {
+      "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4"
       },
@@ -986,6 +1004,28 @@
     },
     {
       "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Robin Vane",
+          "url": "https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200815,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq"
+    },
+    {
+      "album": {
         "name": "Murda",
         "url": "https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1"
       },
@@ -1349,7 +1389,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 175200,
       "name": "Shadow - Acoustic",
       "url": "https://open.spotify.com/track/4zhtUqtROlgV1RYSm9Fk2D"
@@ -1675,7 +1715,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 185996,
       "name": "Tripwire",
       "url": "https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH"

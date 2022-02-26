@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 180284,
       "name": "astri",
       "url": "https://open.spotify.com/track/5bdmR2sCheqRudAID6ahVp"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 192010,
       "name": "autostrade",
       "url": "https://open.spotify.com/track/3OwcSsogJ82GBwWRJiiz2L"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 225062,
       "name": "Autumn Parade",
       "url": "https://open.spotify.com/track/6rN0F0ZRbifcz43WHLuxwb"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 303080,
       "name": "Decapito",
       "url": "https://open.spotify.com/track/3FUq8yo44HQTVzO64AffEf"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 150250,
       "name": "FNF",
       "url": "https://open.spotify.com/track/5LdH54qTjVMmQlZbOR6dhr"
@@ -799,6 +799,24 @@
       "duration_ms": 173541,
       "name": "IRIDE",
       "url": "https://open.spotify.com/track/60Ny3W1j0uzf5ZrhUnKYTK"
+    },
+    {
+      "album": {
+        "name": "Kids are electric",
+        "url": "https://open.spotify.com/album/0toWLZlewVkUCZA6vz1pV7"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/1DA9Pygk9iFWJVYzVPmuUj"
     },
     {
       "album": {
@@ -1017,10 +1035,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 212000,
       "name": "monet",
       "url": "https://open.spotify.com/track/4eEky5qm6cK5PImsAjxUv8"
+    },
+    {
+      "album": {
+        "name": "Mostri",
+        "url": "https://open.spotify.com/album/2hSbpU4BfzMnFAxQTZftSY"
+      },
+      "artists": [
+        {
+          "name": "Letizya",
+          "url": "https://open.spotify.com/artist/0SGqPFl7AJj1wopvJltvdv"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202083,
+      "name": "Mostri",
+      "url": "https://open.spotify.com/track/7kLdAM0vmvZhsx9nZb6ePk"
     },
     {
       "album": {
@@ -1065,6 +1101,28 @@
       "duration_ms": 283831,
       "name": "Multiverso",
       "url": "https://open.spotify.com/track/3UBvSItkXDQIGg6TH8Lviu"
+    },
+    {
+      "album": {
+        "name": "NEMICO PUBBLICO",
+        "url": "https://open.spotify.com/album/2KNOrtZwOgmjEEatVfc7wg"
+      },
+      "artists": [
+        {
+          "name": "Noire",
+          "url": "https://open.spotify.com/artist/1LuNkE456QWnj7JquZ2khG"
+        },
+        {
+          "name": "Golfy",
+          "url": "https://open.spotify.com/artist/70HOnCnxvR4AvFtCFpWhm9"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213284,
+      "name": "NEMICO PUBBLICO",
+      "url": "https://open.spotify.com/track/2CxTnx4oMR9085kEpCrTKU"
     },
     {
       "album": {
@@ -1239,7 +1297,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 168426,
       "name": "Non imparo mai",
       "url": "https://open.spotify.com/track/4kfcMfRe0UuENCkO25EXgE"
@@ -1355,6 +1413,24 @@
       "duration_ms": 207470,
       "name": "Plastica",
       "url": "https://open.spotify.com/track/1P7eaFyOFgj6hLIEgTWKRh"
+    },
+    {
+      "album": {
+        "name": "Premi Play",
+        "url": "https://open.spotify.com/album/4McxEPqiG19gjFGlpxXY62"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Neve",
+          "url": "https://open.spotify.com/artist/5EZhdYH1kaoL7mUQe9U7LA"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164246,
+      "name": "PREMI PLAY",
+      "url": "https://open.spotify.com/track/3X1l6zRsguD3Fiiw9Aa1Be"
     },
     {
       "album": {
@@ -1489,7 +1565,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 229565,
       "name": "Salice",
       "url": "https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi"
@@ -1543,7 +1619,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 173497,
       "name": "Senti",
       "url": "https://open.spotify.com/track/0t85kk0s8cAiay0Zb5S0jh"
@@ -1899,10 +1975,28 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 133542,
       "name": "Tutto da prendere",
       "url": "https://open.spotify.com/track/2xQxcqomBDMRjOMeENJ0Df"
+    },
+    {
+      "album": {
+        "name": "tutto il resto",
+        "url": "https://open.spotify.com/album/0kTmlD0hQ9evTPk0tr3nn9"
+      },
+      "artists": [
+        {
+          "name": "grungelo",
+          "url": "https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "tutto il resto",
+      "url": "https://open.spotify.com/track/4KH4ljdbGfdEViO6AnAdZQ"
     },
     {
       "album": {

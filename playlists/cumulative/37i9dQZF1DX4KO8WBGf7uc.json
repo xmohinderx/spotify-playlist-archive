@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 273198,
       "name": "A Solas - Remix",
       "url": "https://open.spotify.com/track/3T5QSIgoaPIh07SwixRDp7"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 299586,
       "name": "Caile (feat. Zion & De La Ghetto)",
       "url": "https://open.spotify.com/track/626rYyBfeAeleh1F5t4B70"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 228960,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "D\u00f3nde Est\u00e1s (with Piso 21) - Remix",
       "url": "https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Error",
       "url": "https://open.spotify.com/track/40PO1Xh2WgmX5bMtdmBWCc"
@@ -1225,6 +1225,24 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "album": {
+        "name": "Hoy Se Bebe",
+        "url": "https://open.spotify.com/album/7cV25QqnOwnT0BFwGHk8ib"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Hoy Se Bebe",
+      "url": "https://open.spotify.com/track/2C7EbMAq4nzEIzlPxS0EkU"
     },
     {
       "album": {
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Luz Apaga",
       "url": "https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm"
@@ -2265,7 +2283,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 312000,
       "name": "Que Le De - Remix",
       "url": "https://open.spotify.com/track/3fAwTY8XWSLxyX5Rgungap"
@@ -2869,7 +2887,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 195666,
       "name": "Toxico",
       "url": "https://open.spotify.com/track/2ohqtT8jp5VeSBAtBEpSqA"
@@ -3007,7 +3025,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 275400,
       "name": "Verano En Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/6fIVDVyzymH4OAlNhJ93k3"
@@ -3081,7 +3099,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 215459,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj"

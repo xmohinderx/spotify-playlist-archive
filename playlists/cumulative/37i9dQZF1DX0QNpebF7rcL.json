@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 164080,
       "name": "421 South Main",
       "url": "https://open.spotify.com/track/1ZUXEmilOsIa5jfp9ooaAF"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 251626,
       "name": "50 Years",
       "url": "https://open.spotify.com/track/0z1d5h194QHSRIk7tRNS9c"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 175143,
       "name": "99 Pounds",
       "url": "https://open.spotify.com/track/4WstfPz3tDUFjpU3vp8VDN"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 251813,
       "name": "All My Dues Are Paid",
       "url": "https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 391306,
       "name": "All Out Of Tears",
       "url": "https://open.spotify.com/track/5UAWb4S8wXDLaoowdYs6ln"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 247478,
       "name": "Amen",
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Baby We're Through",
+        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
+    },
+    {
+      "album": {
         "name": "War In My Mind",
         "url": "https://open.spotify.com/album/3yDiN64DXyOgZSJ5oR6o7S"
       },
@@ -189,7 +207,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 215911,
       "name": "Bad Woman Blues",
       "url": "https://open.spotify.com/track/0rw2FKykg4yKVbt7XelcwC"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 226026,
       "name": "Blues For The Weepers",
       "url": "https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi"
@@ -305,6 +323,24 @@
       "duration_ms": 272373,
       "name": "Blues For Yesterday",
       "url": "https://open.spotify.com/track/42s2qNbcElKqt29lcWXapw"
+    },
+    {
+      "album": {
+        "name": "Bonnie",
+        "url": "https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do"
     },
     {
       "album": {
@@ -337,7 +373,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 186884,
       "name": "Burn Bright",
       "url": "https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e"
@@ -377,7 +413,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 251528,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt"
@@ -395,7 +431,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
@@ -453,7 +489,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 262226,
       "name": "Don't You Wish It Was True",
       "url": "https://open.spotify.com/track/232W8a3C1Kjz9Mr9OjXOhl"
@@ -471,7 +507,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 203453,
       "name": "Down in Mississippi",
       "url": "https://open.spotify.com/track/3GC6jhvSskDuRpL9XZ4bdJ"
@@ -493,6 +529,24 @@
       "duration_ms": 182620,
       "name": "Fire It Up",
       "url": "https://open.spotify.com/track/5OK7CvtAqKcJoYXFmqUDvB"
+    },
+    {
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/70RF8bGlKiXs5pzBfaeHDT"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko"
     },
     {
       "album": {
@@ -525,7 +579,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 201621,
       "name": "Full Moon, Half Crazy",
       "url": "https://open.spotify.com/track/2mH1duZvwv83ft7fV56Y3z"
@@ -579,7 +633,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 189717,
       "name": "Get Out of My Life Woman",
       "url": "https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI"
@@ -699,7 +753,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/5t93hSW6hOhojflI6pjits"
@@ -735,7 +789,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 194564,
       "name": "Homemade Disaster",
       "url": "https://open.spotify.com/track/4k4JY0DFEustCvGDCs0Ur7"
@@ -757,7 +811,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 259946,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
@@ -837,6 +891,28 @@
       "duration_ms": 216853,
       "name": "I Feel So Good",
       "url": "https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw"
+    },
+    {
+      "album": {
+        "name": "I Shall Not Be Moved",
+        "url": "https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259293,
+      "name": "I Shall Not Be Moved",
+      "url": "https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs"
     },
     {
       "album": {
@@ -1055,7 +1131,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 284194,
       "name": "Last One To Know",
       "url": "https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM"
@@ -1142,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -1171,7 +1265,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 263472,
       "name": "Me And My Guitar",
       "url": "https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr"
@@ -1225,7 +1319,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 198602,
       "name": "Mischief Man",
       "url": "https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT"
@@ -1337,7 +1431,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 315000,
       "name": "New Way of Walking",
       "url": "https://open.spotify.com/track/6pdn2fxWKwdRHrwqA3u4HV"
@@ -1373,7 +1467,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 252200,
       "name": "Oh Miss Carolina",
       "url": "https://open.spotify.com/track/2ebAPmQjP4GkGULOtisl5x"
@@ -1395,7 +1489,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 337933,
       "name": "Oh My Darling",
       "url": "https://open.spotify.com/track/3vnlOTElobxdCHvgGyLrGN"
@@ -1417,7 +1511,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 317819,
       "name": "Old Time Used to Be",
       "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
@@ -1443,7 +1537,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 201065,
       "name": "On Fire Like Zsa Zsa",
       "url": "https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh"
@@ -1599,7 +1693,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 235815,
       "name": "Red Rooster",
       "url": "https://open.spotify.com/track/68TIixr81tmDL0b9VVIUPt"
@@ -1642,6 +1736,24 @@
     },
     {
       "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "album": {
         "name": "Devil May Care",
         "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
       },
@@ -1671,10 +1783,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 172332,
       "name": "Root City",
       "url": "https://open.spotify.com/track/047ghmBqV2962LxO24aUm9"
+    },
+    {
+      "album": {
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
+      },
+      "artists": [
+        {
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Sand Castles",
+      "url": "https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop"
     },
     {
       "album": {
@@ -1729,7 +1859,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 181624,
       "name": "She's A Self Made Man",
       "url": "https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk"
@@ -1765,7 +1895,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 231880,
       "name": "Signs, High Times",
       "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
@@ -1783,7 +1913,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 183240,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/09NEAaQ8HTHtyTRfkZI4Gm"
@@ -1827,7 +1957,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 241773,
       "name": "Sleeping Without You Is a Dragg (feat. Justin Vernon, Jenny Lewis)",
       "url": "https://open.spotify.com/track/647yyMzcgJc1dON8QddRFo"
@@ -1863,10 +1993,28 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 234417,
       "name": "Somebody Gotta Make A Move",
       "url": "https://open.spotify.com/track/042Z5Eet8OEt82P29EPidO"
+    },
+    {
+      "album": {
+        "name": "Someday Soon",
+        "url": "https://open.spotify.com/album/59OdbKQn7rlmeFIxO9OEpG"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144906,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/08mEB4ByPXw2GFJfPfqvAl"
     },
     {
       "album": {
@@ -1885,7 +2033,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 464085,
       "name": "Something on Me",
       "url": "https://open.spotify.com/track/5YL4xxr4qrZQMDk4QdyGtD"
@@ -1921,7 +2069,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 218088,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
@@ -1939,7 +2087,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 290973,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
@@ -1957,7 +2105,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 205153,
       "name": "Stones",
       "url": "https://open.spotify.com/track/3WCu21jYrADpRuoPcQ7onA"
@@ -1993,7 +2141,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 313253,
       "name": "Struggle for Grace",
       "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
@@ -2011,7 +2159,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 257094,
       "name": "Sunshine City",
       "url": "https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf"
@@ -2065,7 +2213,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 184394,
       "name": "The Game",
       "url": "https://open.spotify.com/track/5Z2xLgNGVEkIbXiHpj3t0L"
@@ -2141,7 +2289,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 223533,
       "name": "The Pleasure's All Mine",
       "url": "https://open.spotify.com/track/7aMpVz4aI7m7qTaBz1tuW2"
@@ -2159,7 +2307,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 177093,
       "name": "The Well",
       "url": "https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH"
@@ -2199,7 +2347,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1"
@@ -2217,7 +2365,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 306533,
       "name": "This Man",
       "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
@@ -2253,7 +2401,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 232088,
       "name": "Threw Me To The Wolves",
       "url": "https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F"
@@ -2297,7 +2445,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 214946,
       "name": "Troubled Man",
       "url": "https://open.spotify.com/track/2jg5t9K7AkFwivcExkrLX9"
@@ -2373,7 +2521,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 303920,
       "name": "Up and Rolling",
       "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
@@ -2431,7 +2579,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 215946,
       "name": "We Get By",
       "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
@@ -2449,7 +2597,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 150733,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
@@ -2493,7 +2641,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 186386,
       "name": "What The Hell?",
       "url": "https://open.spotify.com/track/5oLJtF9K70uDnGDOh6RpLC"
@@ -2587,7 +2735,7 @@
       ],
       "date_added": "2020-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 259720,
       "name": "Woman Like You",
       "url": "https://open.spotify.com/track/2LAwa7amti4xehvCeWBRQ7"

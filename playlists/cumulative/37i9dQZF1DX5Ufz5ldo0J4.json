@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Corinne",
+        "url": "https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR"
+      },
+      "artists": [
+        {
+          "name": "Free Arrows",
+          "url": "https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Corinne",
+      "url": "https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p"
+    },
+    {
+      "album": {
         "name": "Pensieri",
         "url": "https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP"
       },
@@ -1643,6 +1661,24 @@
       "duration_ms": 186276,
       "name": "Kissing the Ambience",
       "url": "https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm"
+    },
+    {
+      "album": {
+        "name": "Kr\u00f6net",
+        "url": "https://open.spotify.com/album/3c9LsBPNicwU5GWEbH7Otw"
+      },
+      "artists": [
+        {
+          "name": "Vindeln",
+          "url": "https://open.spotify.com/artist/4oss3KkMU3mcmvNuRez01Y"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153579,
+      "name": "Kr\u00f6net",
+      "url": "https://open.spotify.com/track/7pYIvYaxVn7OWW8MmKGlBc"
     },
     {
       "album": {

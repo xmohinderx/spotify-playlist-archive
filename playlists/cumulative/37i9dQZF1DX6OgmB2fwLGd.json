@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 168489,
       "name": "...And to Those I Love, Thanks for Sticking Around",
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 136600,
       "name": "ALONE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 126829,
       "name": "Bluffing",
       "url": "https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 77004,
       "name": "C'mere!",
       "url": "https://open.spotify.com/track/109y2iYl9cRHNR4rPzox1q"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 85094,
       "name": "Care",
       "url": "https://open.spotify.com/track/7yMZ5Xa4TDQo3dLlDRCwfm"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 168758,
       "name": "first order of business",
       "url": "https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 192155,
       "name": "Forever Known",
       "url": "https://open.spotify.com/track/5a8UxWWXVhCs9vZRsfk6XD"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 132640,
       "name": "Go",
       "url": "https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ"
@@ -1596,6 +1596,24 @@
     },
     {
       "album": {
+        "name": "i know you hate me",
+        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124516,
+      "name": "i know you hate me",
+      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
+    },
+    {
+      "album": {
         "name": "I Look Good",
         "url": "https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo"
       },
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 120281,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/4MPC94p6MfRbMjgYVNSKTC"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 112800,
       "name": "Jesus Is The One (I Got Depression)",
       "url": "https://open.spotify.com/track/1YR9iNGXtsbrd8deR9ULDD"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -2217,6 +2235,24 @@
       "duration_ms": 151299,
       "name": "NO TRENDS",
       "url": "https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj"
+    },
+    {
+      "album": {
+        "name": "nyc",
+        "url": "https://open.spotify.com/album/710cqlMWoL0vFYNP2T7l9N"
+      },
+      "artists": [
+        {
+          "name": "BabySantana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75258,
+      "name": "nyc",
+      "url": "https://open.spotify.com/track/5Z2TdpE5zqC7BN0bwtlWM1"
     },
     {
       "album": {
@@ -2341,7 +2377,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 166956,
       "name": "One Way!",
       "url": "https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi"
@@ -2363,7 +2399,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 230533,
       "name": "Outsid\u00eb (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6OSjW5fVkuBeBdJ7mAzDyE"
@@ -2389,7 +2425,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 153808,
       "name": "Own Brand Freestyle",
       "url": "https://open.spotify.com/track/1p2VYcXdvno7iVQOOmYkEs"
@@ -2513,7 +2549,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 121058,
       "name": "Public",
       "url": "https://open.spotify.com/track/65lV8m1obLQsdL76WjyRyy"
@@ -2761,7 +2797,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 149577,
       "name": "Shakira!",
       "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
@@ -2979,7 +3015,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 170160,
       "name": "Still countin",
       "url": "https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI"
@@ -3321,7 +3357,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 159130,
       "name": "WISS",
       "url": "https://open.spotify.com/track/2GDdasGKNUvjF0qZwzNrPv"
@@ -3357,7 +3393,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 244462,
       "name": "WTF!",
       "url": "https://open.spotify.com/track/7AzW2VGmPNkc1Q84yQCcZs"

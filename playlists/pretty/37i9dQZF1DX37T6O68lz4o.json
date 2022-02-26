@@ -1,12 +1,12 @@
 {
-  "description": "New England music breaking waves. Cover, Cousin Stizz. ",
-  "num_followers": 738,
+  "description": "New England music breaking waves. Cover, Vintage Lee",
+  "num_followers": 748,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIyMzEwMywwMDAwMDAwZjAwMDAwMTdmMGVmMDRhNzUwMDAwMDE3ZDZkNDRlMmZl",
+  "snapshot_id": "MTY0NTgyNjE1OSwwMDAwMDAxMTAwMDAwMTdmMzJlMjM0NzAwMDAwMDE3ZjMyZTFlMGM1",
   "tracks": [
     {
       "added_at": "2022-02-18 22:25:03",
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE"
     },
     {
+      "added_at": "2022-02-25 20:35:25",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/136E0FzmsWqfjBbiT29CMW"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw"
+    },
+    {
       "added_at": "2022-02-18 22:25:03",
       "album": {
         "name": "LoveGoesFast",
@@ -111,6 +127,22 @@
       "duration_ms": 170760,
       "name": "Leave UUU",
       "url": "https://open.spotify.com/track/1MGO7n5BrI07L9IqV1rmwE"
+    },
+    {
+      "added_at": "2022-02-25 20:35:25",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/0C58BBIM2MbBRahWaDyyPy"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/5jCqOkPK8vQMg28udDEC6g"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -417,6 +449,22 @@
       "url": "https://open.spotify.com/track/2F1iYQpSIqSkpUKOGmPNXj"
     },
     {
+      "added_at": "2022-02-25 20:35:25",
+      "album": {
+        "name": "2 Daze",
+        "url": "https://open.spotify.com/album/4pgFgWtFISccvKBrrev7XR"
+      },
+      "artists": [
+        {
+          "name": "Pistola",
+          "url": "https://open.spotify.com/artist/0eQlmI2XHoQ0taByGfu7Mt"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Gun License",
+      "url": "https://open.spotify.com/track/2lpDDACoPuig5dLPhoHQsq"
+    },
+    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "BACK2BACK",
@@ -473,10 +521,10 @@
       "url": "https://open.spotify.com/track/3IXLux9HHfxT2kogNpCzZm"
     },
     {
-      "added_at": "2022-01-29 00:15:56",
+      "added_at": "2022-02-25 20:35:25",
       "album": {
-        "name": "Dolphin",
-        "url": "https://open.spotify.com/album/4mFWvd02cj5G4jsRWKKrda"
+        "name": "Bam Bam Bigelow",
+        "url": "https://open.spotify.com/album/0EVhJ3gi5sGMZmT6VXxp1N"
       },
       "artists": [
         {
@@ -484,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
         }
       ],
-      "duration_ms": 171703,
-      "name": "Dolphin",
-      "url": "https://open.spotify.com/track/60lgNLWUbOPDXEx1LYZwfw"
+      "duration_ms": 165957,
+      "name": "Bam Bam Bigelow",
+      "url": "https://open.spotify.com/track/3JmKlmqywkN5qICubJLgzr"
     },
     {
       "added_at": "2021-11-23 21:15:29",
@@ -621,24 +669,20 @@
       "url": "https://open.spotify.com/track/3CNHjf59yioe51HIRdKqGP"
     },
     {
-      "added_at": "2021-11-23 21:15:29",
+      "added_at": "2022-02-25 20:35:25",
       "album": {
-        "name": "In Too Deep",
-        "url": "https://open.spotify.com/album/0TFbSa7gmRdHCJN2kx6GLY"
+        "name": "Rocky Balboa",
+        "url": "https://open.spotify.com/album/3yUWL1bWeoW1JZbcsIbPH8"
       },
       "artists": [
         {
           "name": "Rasandra",
           "url": "https://open.spotify.com/artist/5ibq0cQ3cmoJDa8iTdYql0"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 203798,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/2JjmrkxlIHkl76tHHW3bVh"
+      "duration_ms": 161758,
+      "name": "Rocky Balboa",
+      "url": "https://open.spotify.com/track/2Kv6KsGdsyE5QkjR68YGSe"
     },
     {
       "added_at": "2022-01-29 00:15:56",
@@ -789,22 +833,6 @@
       "url": "https://open.spotify.com/track/2ie6JzxPa25UFx5OJT02aE"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Pink Lemonade",
-        "url": "https://open.spotify.com/album/4o7gh7g5sGeQjEV9mz7ahB"
-      },
-      "artists": [
-        {
-          "name": "Lily Rayne",
-          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Pink Lemonade",
-      "url": "https://open.spotify.com/track/1yBgrbo6OEaCVV6rTVw7P9"
-    },
-    {
       "added_at": "2022-01-29 00:15:56",
       "album": {
         "name": "Play Nice",
@@ -877,26 +905,6 @@
       "url": "https://open.spotify.com/track/5GAg4FwZPcxMWx1ErdAKUx"
     },
     {
-      "added_at": "2021-09-10 15:44:40",
-      "album": {
-        "name": "Soul Fly",
-        "url": "https://open.spotify.com/album/3U7xZgxGiU4erAGpAiALI5"
-      },
-      "artists": [
-        {
-          "name": "Dee Gomes",
-          "url": "https://open.spotify.com/artist/17cQawMg0m4Z5VCzkIMI1i"
-        },
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "Soul Fly",
-      "url": "https://open.spotify.com/track/2ONZYCbXWP25Q2UvMMsVo0"
-    },
-    {
       "added_at": "2021-11-23 21:15:29",
       "album": {
         "name": "TOUCH",
@@ -931,22 +939,6 @@
       "duration_ms": 172199,
       "name": "WE UP",
       "url": "https://open.spotify.com/track/0yr8tSpDlpStqX31Op8sUI"
-    },
-    {
-      "added_at": "2022-01-29 00:15:56",
-      "album": {
-        "name": "You Cant Stop The Rain",
-        "url": "https://open.spotify.com/album/4w7txBHPd661rpguwfQcwC"
-      },
-      "artists": [
-        {
-          "name": "Monie Dale",
-          "url": "https://open.spotify.com/artist/0eUUufXuNo5CZB8g3Nb0SB"
-        }
-      ],
-      "duration_ms": 97280,
-      "name": "You Cant Stop The Rain",
-      "url": "https://open.spotify.com/track/5kJv8nDJg3e3HQotHYBAJZ"
     }
   ],
   "unique_name": "Ripple Effect: New England",

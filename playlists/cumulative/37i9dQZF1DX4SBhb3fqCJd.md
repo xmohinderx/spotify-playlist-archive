@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
-> The pulse of R&B music today\.  Cover: Lucky Daye
+> The pulse of R&B music today\.  Cover: Kehlani
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 | 2022-01-14 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-07 |  |
 | [LALA \(Unlocked\) \(feat\. Swae Lee\)](https://open.spotify.com/track/58ZPswvAZ5hscCmbYJvNpW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [LALA \(Unlocked\) \(feat\. Swae Lee\)](https://open.spotify.com/album/18ceMoqxkcGM1xFW4aux6h) | 4:26 | 2021-12-17 | 2022-02-12 |
+| [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-02-25 |  |
 | [LOST YOU \(screwed not chopped\)](https://open.spotify.com/track/2kJijusZZbCWGbjTe5afS1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 4:25 | 2021-12-17 | 2022-02-12 |
 | [Memories](https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Memories](https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk) | 2:44 | 2021-12-17 |  |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2021-12-17 |  |

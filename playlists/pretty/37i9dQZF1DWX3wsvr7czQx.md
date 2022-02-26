@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 ### [Classic Artists New Music](https://open.spotify.com/playlist/37i9dQZF1DWX3wsvr7czQx)
 
-> Icons only\. Cover: Bryan Adams
+> Icons only\. Cover: Tears for Fears
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,853 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,872 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 |
-| 2 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 |
-| 3 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 |
-| 4 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 |
-| 5 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 |
-| 6 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 |
-| 7 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 |
+| 1 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 |
+| 2 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 |
+| 3 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 |
+| 4 | [Something More](https://open.spotify.com/track/78iDUyTI0by4QFEhvLFlQT) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Something More](https://open.spotify.com/album/5vBvJNtpYPXYyPRKZSE54n) | 3:33 |
+| 5 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 |
+| 6 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 |
+| 7 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 |
 | 8 | [One Hell Of A Life](https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7) | 5:23 |
 | 9 | [For Her Love](https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:45 |
 | 10 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 |
 | 50 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 |
 
-Snapshot ID: `MTY0NDU1NTY2MCwwMDAwMDAxMTAwMDAwMTdlZTcyN2ViN2UwMDAwMDE3ZTliZGJiM2Y5`
+Snapshot ID: `MTY0NTc2NTI2MCwwMDAwMDAxMjAwMDAwMTdmMmY0MGYzNzAwMDAwMDE3ZjJkNDg4ZDEx`

@@ -1,13 +1,29 @@
 {
   "description": "In spain without the s ",
-  "num_followers": 197626,
+  "num_followers": 198042,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc0OTk3OCwwMDAwMDAwMDJlZmE3NzBhOGQzODg4MzYwOGI3ZGFlOTU1ZTY4MjZm",
+  "snapshot_id": "MTY0NTgzNjE4NCwwMDAwMDAwMGZmNTc2OTc1NmI3NjlkZGI2NWMzMDU0Nzk3Njg4MDNj",
   "tracks": [
+    {
+      "added_at": "2022-01-21 20:51:01",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+    },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
@@ -31,22 +47,6 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
-    },
-    {
-      "added_at": "2022-01-21 20:51:01",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/4ab7jYzCRPCIz0k2CNKPGm"
       },
@@ -63,18 +63,18 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Good Girls (Don\u2019t Get Used)",
-        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
         }
       ],
-      "duration_ms": 215402,
-      "name": "Good Girls (Don\u2019t Get Used)",
-      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
+      "duration_ms": 252630,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/6e0vjU61OuUzcqVKPEXHb4"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -95,18 +95,18 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "FANDOM",
-        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
+        "name": "Good Girls (Don\u2019t Get Used)",
+        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
       },
       "artists": [
         {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 133351,
-      "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
-      "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
+      "duration_ms": 215402,
+      "name": "Good Girls (Don\u2019t Get Used)",
+      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Public Void",
-        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj"
       },
       "artists": [
         {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Lotta True Crime",
-      "url": "https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY"
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa"
     },
     {
       "added_at": "2022-02-04 18:35:42",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -227,50 +227,50 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Marvin's Marvelous Mechanical Museum",
-        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
       },
       "artists": [
         {
-          "name": "Tally Hall",
-          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
         }
       ],
-      "duration_ms": 160613,
-      "name": "The Bidding",
-      "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
+      "duration_ms": 202319,
+      "name": "Lotta True Crime",
+      "url": "https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+        "name": "FANDOM",
+        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Bubblegum Bitch",
-      "url": "https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN"
+      "duration_ms": 133351,
+      "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
+      "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+        "name": "Beachboy",
+        "url": "https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "McCafferty",
+          "url": "https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8"
         }
       ],
-      "duration_ms": 171880,
-      "name": "parents",
-      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
+      "duration_ms": 199341,
+      "name": "Beachboy",
+      "url": "https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -291,34 +291,34 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Public Void",
-        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
       },
       "artists": [
         {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 252630,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/6e0vjU61OuUzcqVKPEXHb4"
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "death wish",
-        "url": "https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE"
+        "name": "People I Don't Like",
+        "url": "https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
         }
       ],
-      "duration_ms": 197301,
-      "name": "death wish",
-      "url": "https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF"
+      "duration_ms": 142765,
+      "name": "People I Don't Like",
+      "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
     },
     {
       "added_at": "2022-02-04 18:35:42",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "People I Don't Like",
-        "url": "https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA"
+        "name": "Violent Things",
+        "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "The Brobecks",
+          "url": "https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn"
         }
       ],
-      "duration_ms": 142765,
-      "name": "People I Don't Like",
-      "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
+      "duration_ms": 267466,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -371,8 +371,8 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "My Mother Wants Me Dead",
-        "url": "https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK"
+        "name": "please put me in a medically induced coma",
+        "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
         }
       ],
-      "duration_ms": 105351,
-      "name": "My Mother Wants Me Dead",
-      "url": "https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx"
+      "duration_ms": 186902,
+      "name": "please put me in a medically induced coma",
+      "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -403,34 +403,34 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Violent Things",
-        "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz"
       },
       "artists": [
         {
-          "name": "The Brobecks",
-          "url": "https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn"
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
         }
       ],
-      "duration_ms": 267466,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK"
+      "duration_ms": 160518,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa"
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
     },
     {
       "added_at": "2022-02-04 18:35:42",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
     },
     {
-      "added_at": "2022-01-21 20:51:01",
+      "added_at": "2022-02-17 02:03:25",
       "album": {
-        "name": "Talon Of The Hawk",
-        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
+        "name": "Collide With The Sky",
+        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
       "artists": [
         {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 264676,
-      "name": "Twin Size Mattress",
-      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
+      "duration_ms": 212546,
+      "name": "A Match Into Water",
+      "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -503,24 +503,24 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Beachboy",
-        "url": "https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu"
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
-          "name": "McCafferty",
-          "url": "https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 199341,
-      "name": "Beachboy",
-      "url": "https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss"
+      "duration_ms": 171880,
+      "name": "parents",
+      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "please put me in a medically induced coma",
-        "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
+        "name": "My Mother Wants Me Dead",
+        "url": "https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK"
       },
       "artists": [
         {
@@ -528,89 +528,25 @@
           "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
         }
       ],
-      "duration_ms": 186902,
-      "name": "please put me in a medically induced coma",
-      "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
-    },
-    {
-      "added_at": "2022-02-17 02:03:25",
-      "album": {
-        "name": "Collide With The Sky",
-        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "A Match Into Water",
-      "url": "https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k"
+      "duration_ms": 105351,
+      "name": "My Mother Wants Me Dead",
+      "url": "https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Let's Skip to the Wedding",
-        "url": "https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf"
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
         }
       ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/5KbTBSGUvgDg75gIVhUaAW"
-    },
-    {
-      "added_at": "2022-01-21 20:51:01",
-      "album": {
-        "name": "LIFE'S A BIT",
-        "url": "https://open.spotify.com/album/1f3vBv7UFvchpTfSfEWX6w"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "LIFE'S A BIT",
-      "url": "https://open.spotify.com/track/17r3SCcSZ9EVohyGJbnMCq"
-    },
-    {
-      "added_at": "2022-01-21 20:51:01",
-      "album": {
-        "name": "Party Favors",
-        "url": "https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 160518,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn"
-    },
-    {
-      "added_at": "2022-01-21 20:51:01",
-      "album": {
-        "name": "Sorry, Mom",
-        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
-      "url": "https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE"
+      "duration_ms": 160613,
+      "name": "The Bidding",
+      "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -631,82 +567,34 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "i hope ur miserable until ur dead",
-        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         }
       ],
-      "duration_ms": 177582,
-      "name": "i hope ur miserable until ur dead",
-      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+      "duration_ms": 157440,
+      "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
+      "url": "https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Somewhere City",
-        "url": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn"
+        "name": "Don't Assume What You Don't Know",
+        "url": "https://open.spotify.com/album/5homKtdVB4SMM5U7F1H1RX"
       },
       "artists": [
         {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
         }
       ],
-      "duration_ms": 164032,
-      "name": "24 Hr Drive-Thru",
-      "url": "https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO"
-    },
-    {
-      "added_at": "2022-01-21 20:51:01",
-      "album": {
-        "name": "The Drug In Me Is You",
-        "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "The Drug In Me Is You",
-      "url": "https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj"
-    },
-    {
-      "added_at": "2022-01-21 20:51:01",
-      "album": {
-        "name": "21st Century Vampire",
-        "url": "https://open.spotify.com/album/0u19GSyQ4QeGJu9o0V0s0i"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 167896,
-      "name": "21st Century Vampire",
-      "url": "https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx"
-    },
-    {
-      "added_at": "2022-01-21 20:51:01",
-      "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/64XYLNjFpYocukgD44QT4H"
-      },
-      "artists": [
-        {
-          "name": "VIAL",
-          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
-        }
-      ],
-      "duration_ms": 179556,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/4lalLstnInAdtSWUpOumhn"
+      "duration_ms": 155672,
+      "name": "Don't Assume What You Don't Know",
+      "url": "https://open.spotify.com/track/5ir1QKCH1OamaVRa4fN9wt"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -727,82 +615,114 @@
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Candy Coated Lie$",
-        "url": "https://open.spotify.com/album/2hqp0oGlkPppaDtmROiUmN"
+        "name": "i hope ur miserable until ur dead",
+        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
       },
       "artists": [
         {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Candy Coated Lie$",
-      "url": "https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh"
+      "duration_ms": 177582,
+      "name": "i hope ur miserable until ur dead",
+      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+    },
+    {
+      "added_at": "2022-01-21 20:51:01",
+      "album": {
+        "name": "LIFE'S A BIT",
+        "url": "https://open.spotify.com/album/1f3vBv7UFvchpTfSfEWX6w"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "LIFE'S A BIT",
+      "url": "https://open.spotify.com/track/17r3SCcSZ9EVohyGJbnMCq"
+    },
+    {
+      "added_at": "2022-01-21 20:51:01",
+      "album": {
+        "name": "Let's Skip to the Wedding",
+        "url": "https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5KbTBSGUvgDg75gIVhUaAW"
     },
     {
       "added_at": "2022-02-17 02:03:25",
       "album": {
-        "name": "Best Kind Of Mess",
-        "url": "https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7fYIVBhlC5gKvOSDFsUxxT"
       },
       "artists": [
         {
-          "name": "Get Scared",
-          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
+          "name": "Remo Drive",
+          "url": "https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv"
         }
       ],
-      "duration_ms": 198080,
-      "name": "Sarcasm",
-      "url": "https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"
+      "duration_ms": 234534,
+      "name": "Yer Killin' Me",
+      "url": "https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "AHHHH!",
-        "url": "https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F"
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/64XYLNjFpYocukgD44QT4H"
       },
       "artists": [
         {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+          "name": "VIAL",
+          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
         }
       ],
-      "duration_ms": 144538,
-      "name": "AHHHH!",
-      "url": "https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q"
+      "duration_ms": 179556,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/4lalLstnInAdtSWUpOumhn"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw"
+        "name": "The Drug In Me Is You",
+        "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
       },
       "artists": [
         {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
+      "duration_ms": 218786,
+      "name": "The Drug In Me Is You",
+      "url": "https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj"
     },
     {
       "added_at": "2022-01-21 20:51:01",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/603KX3A1gnMNs5CVakxZXW"
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 153931,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3RQV4hjFQ13ygBpxKBetz7"
+      "duration_ms": 213520,
+      "name": "Let's Kill Tonight",
+      "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
     },
     {
       "added_at": "2022-01-21 20:51:01",
@@ -819,6 +739,86 @@
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
+    },
+    {
+      "added_at": "2022-01-21 20:51:01",
+      "album": {
+        "name": "21st Century Vampire",
+        "url": "https://open.spotify.com/album/0u19GSyQ4QeGJu9o0V0s0i"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 167896,
+      "name": "21st Century Vampire",
+      "url": "https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx"
+    },
+    {
+      "added_at": "2022-01-21 20:51:01",
+      "album": {
+        "name": "death wish",
+        "url": "https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 197301,
+      "name": "death wish",
+      "url": "https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF"
+    },
+    {
+      "added_at": "2022-01-21 20:51:01",
+      "album": {
+        "name": "RAZZMATAZZ",
+        "url": "https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 215644,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1"
+    },
+    {
+      "added_at": "2022-01-21 20:51:01",
+      "album": {
+        "name": "GO PHUCK URSELF",
+        "url": "https://open.spotify.com/album/4lLjJ7EIgNmk7VxoKgiLHa"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 146451,
+      "name": "GO PHUCK URSELF",
+      "url": "https://open.spotify.com/track/21Q89OzFYAcYSNurWhz3Rk"
+    },
+    {
+      "added_at": "2022-02-17 02:03:25",
+      "album": {
+        "name": "Best Kind Of Mess",
+        "url": "https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj"
+      },
+      "artists": [
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "Sarcasm",
+      "url": "https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"
     }
   ],
   "unique_name": "teen angst",

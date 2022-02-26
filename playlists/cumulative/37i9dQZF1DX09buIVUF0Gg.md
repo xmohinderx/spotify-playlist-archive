@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX09buIVUF0Gg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX09buIVUF0Gg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09buIVUF0Gg)
 
-### Thankful
+### [Thankful](https://open.spotify.com/playlist/1i17XwBqCrC6tVU9jaq6Dt)
 
 > For time with family + friends.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0JohQO7Ys7N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JohQO7Ys7N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0JohQO7Ys7N)
 
-### NairoBae
+### [NairoBae](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p?si=SdM0gnorQZOwF67zuxgBDg"> Nviiri The Storyteller </a>
 

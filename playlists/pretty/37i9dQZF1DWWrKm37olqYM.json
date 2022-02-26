@@ -1,13 +1,121 @@
 {
-  "description": "The raw, bass-trembling energy of Bmore Club. A selection of classic and new tracks. Cover: DJ K-Swift",
-  "num_followers": 9394,
+  "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Mighty Mark",
+  "num_followers": 9412,
   "original_name": "Baltimore Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODg0MDM3OCwwMDAwMDAwYTAwMDAwMTc2OTY1YmY3YmUwMDAwMDE3M2VlYzgwZmM5",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwYjAwMDAwMTdmMmY0MGYzNWIwMDAwMDE3ZjI4OWRlYjM2",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/5yNwpK71K5BUv4SeSePUI7"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/5gIEBVBMo82RxHQIHW2aeD"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Boosie I'm Outside Anthem",
+        "url": "https://open.spotify.com/album/3LpI54fMyql9htHxvl8tV9"
+      },
+      "artists": [
+        {
+          "name": "Thunderbird Juicebox",
+          "url": "https://open.spotify.com/artist/2Wq3sFgbCuAWmz38nTCzjN"
+        }
+      ],
+      "duration_ms": 105291,
+      "name": "Boosie I'm Outside Anthem",
+      "url": "https://open.spotify.com/track/3SxQ7pEECFn4WQl8HG71fH"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
+      },
+      "artists": [
+        {
+          "name": "TSU Terry",
+          "url": "https://open.spotify.com/artist/0mvCpFrdf7doUhRu8AHjXT"
+        },
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "duration_ms": 162919,
+      "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
+      "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "GETCHO!",
+        "url": "https://open.spotify.com/album/72geFpfwszC4YxkQdR6PzJ"
+      },
+      "artists": [
+        {
+          "name": "EPIC FAM",
+          "url": "https://open.spotify.com/artist/5kyNB2tYBYIZ9er3680Jmy"
+        },
+        {
+          "name": "Starrz",
+          "url": "https://open.spotify.com/artist/6UMxhXZj8O2sMkDYUBdYLE"
+        },
+        {
+          "name": "Wifty Bangura",
+          "url": "https://open.spotify.com/artist/6kWGerghvGLqBhcxqN0sj9"
+        },
+        {
+          "name": "Kotic Couture",
+          "url": "https://open.spotify.com/artist/5t7SZ9uMYotaQBSjrtWzNY"
+        },
+        {
+          "name": "Eze Jackson",
+          "url": "https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "GETCHO!",
+      "url": "https://open.spotify.com/track/57UOf2ALJFZ0aA5zDzi3Pf"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "I'm The Ish (Remix)",
+        "url": "https://open.spotify.com/album/2AfhOCwnva66wNxwgUItWO"
+      },
+      "artists": [
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 322080,
+      "name": "I'm The Ish (Remix)",
+      "url": "https://open.spotify.com/track/5UUBS7BNuDlxrCoVLVLevl"
+    },
     {
       "added_at": "2020-12-24 20:06:18",
       "album": {
@@ -23,22 +131,6 @@
       "duration_ms": 237493,
       "name": "Rider Girl (feat. D.O.G.)",
       "url": "https://open.spotify.com/track/0oeXzDlElu9rFXfc5ioW4T"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Ya Rollin' Doo Doo",
-        "url": "https://open.spotify.com/album/3PAf8UNJiQA923N08FYAMM"
-      },
-      "artists": [
-        {
-          "name": "2 Hyped Brothers & A Dog",
-          "url": "https://open.spotify.com/artist/4uuHzqQ4a2GT3jFsAlZSip"
-        }
-      ],
-      "duration_ms": 338533,
-      "name": "Doo Doo Brown",
-      "url": "https://open.spotify.com/track/0VFJiOs6UOzmFCYFaTumKo"
     },
     {
       "added_at": "2020-12-24 20:06:18",
@@ -59,6 +151,134 @@
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Zfrek",
+          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Shake My Ass",
+      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "I Don't Wanna Do This Anymore, Pt. 2 (Baltimore Club Music Remix)",
+        "url": "https://open.spotify.com/album/48J1c987ojqZjNap0JfIeh"
+      },
+      "artists": [
+        {
+          "name": "DJ Yae",
+          "url": "https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ"
+        }
+      ],
+      "duration_ms": 145465,
+      "name": "I Don't Wanna Do This Anymore, Pt. 2 - Baltimore Club Music Remix",
+      "url": "https://open.spotify.com/track/5BD2CbRoUUoe69C45Y0ZYB"
+    },
+    {
+      "added_at": "2020-12-24 20:06:18",
+      "album": {
+        "name": "Ya Rollin' Doo Doo",
+        "url": "https://open.spotify.com/album/3PAf8UNJiQA923N08FYAMM"
+      },
+      "artists": [
+        {
+          "name": "2 Hyped Brothers & A Dog",
+          "url": "https://open.spotify.com/artist/4uuHzqQ4a2GT3jFsAlZSip"
+        }
+      ],
+      "duration_ms": 338533,
+      "name": "Doo Doo Brown",
+      "url": "https://open.spotify.com/track/0VFJiOs6UOzmFCYFaTumKo"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+      },
+      "artists": [
+        {
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+    },
+    {
+      "added_at": "2020-12-24 20:06:18",
+      "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "I Luv U",
+        "url": "https://open.spotify.com/album/0bkH2S8dwSvNL1pXcE4Uit"
+      },
+      "artists": [
+        {
+          "name": "Dai Burger",
+          "url": "https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk"
+        },
+        {
+          "name": "Paperboy Prince",
+          "url": "https://open.spotify.com/artist/4UFIo5bqbYIlqlP5zUQWnv"
+        }
+      ],
+      "duration_ms": 152188,
+      "name": "I Luv U",
+      "url": "https://open.spotify.com/track/4umCDOWP5WzD44e2bCsskt"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
+        }
+      ],
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     },
     {
       "added_at": "2020-12-24 20:06:18",
@@ -97,6 +317,26 @@
       "url": "https://open.spotify.com/track/4Hpw9nTTv6ADcE9y1ta6xx"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Move 2 da Beat",
+        "url": "https://open.spotify.com/album/2ekGqICrO9yMu3YcWZWkSj"
+      },
+      "artists": [
+        {
+          "name": "Rye Rye",
+          "url": "https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu"
+        },
+        {
+          "name": "Djjoker106",
+          "url": "https://open.spotify.com/artist/1sA9IBc9mm8WMNLHpVdmpL"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Move 2 da Beat",
+      "url": "https://open.spotify.com/track/0MDE0kSE3rCKm1mOopNMiA"
+    },
+    {
       "added_at": "2020-12-24 20:06:18",
       "album": {
         "name": "Get Crazy (Baltimore Club)",
@@ -113,24 +353,20 @@
       "url": "https://open.spotify.com/track/3oEUiOVFhS11NNzxSJZ7Wl"
     },
     {
-      "added_at": "2020-12-24 20:06:18",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+        "name": "Molly Bounce !",
+        "url": "https://open.spotify.com/album/2NvjbMf0rUREXqJmOw8VHX"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+          "name": "DJ Yae",
+          "url": "https://open.spotify.com/artist/5Ac8PPNmprpYESNzUCoXXJ"
         }
       ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
+      "duration_ms": 166094,
+      "name": "Molly Bounce !",
+      "url": "https://open.spotify.com/track/1AeOxzzRPrBeAppfSue8rA"
     },
     {
       "added_at": "2020-12-24 20:06:18",
@@ -355,38 +591,6 @@
     {
       "added_at": "2020-12-24 20:06:18",
       "album": {
-        "name": "Vol. 2: Operation Not Done Yet",
-        "url": "https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r"
-      },
-      "artists": [
-        {
-          "name": "KW Griff",
-          "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
-        }
-      ],
-      "duration_ms": 115733,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/3b3Hkw0EDeNO0OXWUgBess"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Fiyah!!!",
-        "url": "https://open.spotify.com/album/6Ttqlphz9VNkj17iGXTjhV"
-      },
-      "artists": [
-        {
-          "name": "Abdu Ali",
-          "url": "https://open.spotify.com/artist/1sCfVwDw9jhng9PUMNcqlo"
-        }
-      ],
-      "duration_ms": 263970,
-      "name": "Free Body",
-      "url": "https://open.spotify.com/track/118B8xsSs4mmiWqU3rbpcH"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
         "name": "Baltimore Club Classics (Dukeyman Greatest Hits)",
         "url": "https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx"
       },
@@ -419,70 +623,6 @@
       "duration_ms": 169892,
       "name": "Tsunami - Bmore Club Remix",
       "url": "https://open.spotify.com/track/5HmexjTRnmxPr9RvqaCtJh"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Dj Great Jersey Club Remix EP, Vol. 2",
-        "url": "https://open.spotify.com/album/2Vlsiyb86E76wGEkxLSs2w"
-      },
-      "artists": [
-        {
-          "name": "Dj. Great",
-          "url": "https://open.spotify.com/artist/63Ib5jjLTApndHRhpDbnJd"
-        },
-        {
-          "name": "Mike Phresh",
-          "url": "https://open.spotify.com/artist/1QTWJi4ieyfiwjmmcvsALx"
-        },
-        {
-          "name": "Dj Problem X",
-          "url": "https://open.spotify.com/artist/7AWb1BYYLyYQyg0oG93H8A"
-        }
-      ],
-      "duration_ms": 126171,
-      "name": "Ass On Point (feat. Dj_Problem_X_Mike_Phresh_X_DjGreat_X, Mike Phresh) - Original Mix",
-      "url": "https://open.spotify.com/track/7rwLBuwZuTKZC3GIeg5K5n"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "I'm The Ish",
-        "url": "https://open.spotify.com/album/6obxPYLvZsdKbDOTk4aSGR"
-      },
-      "artists": [
-        {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "I'm The Ish - Radio Edit",
-      "url": "https://open.spotify.com/track/3kCndDu0FckXVckS6TwDLF"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Mi Gente (4B Remix)",
-        "url": "https://open.spotify.com/album/3xJ1oVJqp178FR5xs1gSwf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Mi Gente - 4B Remix",
-      "url": "https://open.spotify.com/track/1w8vh6tGExWiPJv49U7Zd7"
     },
     {
       "added_at": "2020-12-24 20:06:18",
@@ -603,22 +743,6 @@
     {
       "added_at": "2020-12-24 20:06:18",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/0KycW68xaVX563jXMXBPqh"
-      },
-      "artists": [
-        {
-          "name": "Blaqstarr",
-          "url": "https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/2DdX7VQBd9h6oAFvJtN8Sa"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
         "name": "Da Movelt Posse : Episode 5",
         "url": "https://open.spotify.com/album/1224FjgExjJnR56Dh4gm6o"
       },
@@ -631,22 +755,6 @@
       "duration_ms": 216541,
       "name": "Them Do It Horns",
       "url": "https://open.spotify.com/track/2Itc88OdB1bXroD9xqzOPb"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Baltimore Club Music Master of Ceremonies",
-        "url": "https://open.spotify.com/album/7EpHnZwpmjVWJBqDBYY2Ws"
-      },
-      "artists": [
-        {
-          "name": "Miss Tony aka Big Tony",
-          "url": "https://open.spotify.com/artist/3b9KaliiUtdbwQQYV8xCGM"
-        }
-      ],
-      "duration_ms": 332640,
-      "name": "Pull Ya Gunz Out",
-      "url": "https://open.spotify.com/track/2lPTV7ns8zE1EIkr8H3aaj"
     },
     {
       "added_at": "2020-12-24 20:06:18",
@@ -767,22 +875,6 @@
     {
       "added_at": "2020-12-24 20:06:18",
       "album": {
-        "name": "Vol. 2: Operation Not Done Yet",
-        "url": "https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r"
-      },
-      "artists": [
-        {
-          "name": "DJ Technics",
-          "url": "https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG"
-        }
-      ],
-      "duration_ms": 89360,
-      "name": "Yeah Ooh",
-      "url": "https://open.spotify.com/track/7i9gpCCp9gvVRi3LK83g1t"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
         "name": "Vol. 4: The Pressure",
         "url": "https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF"
       },
@@ -835,22 +927,6 @@
     {
       "added_at": "2020-12-24 20:06:18",
       "album": {
-        "name": "Vol. 2: Operation Not Done Yet",
-        "url": "https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r"
-      },
-      "artists": [
-        {
-          "name": "Rod Lee",
-          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "Tote It (RMX)",
-      "url": "https://open.spotify.com/track/3KBX18K8MI84ZL5IBSlOlJ"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
         "name": "Baltimore Club Music Unleashed Part 2",
         "url": "https://open.spotify.com/album/4O5fyyjZRTL0sAwWNm6HeW"
       },
@@ -863,42 +939,6 @@
       "duration_ms": 188525,
       "name": "Make It Rain In the Club Trick",
       "url": "https://open.spotify.com/track/0YemVLL6fmukGpPxwOqkDH"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Bmore Club Gems Volume 1",
-        "url": "https://open.spotify.com/album/2xaamk0NOI5bo4yIL4O0He"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        }
-      ],
-      "duration_ms": 214204,
-      "name": "Rep Your Set(Baltimore Club Music)",
-      "url": "https://open.spotify.com/track/3ftmfZNgAOD10H49xV2Hk5"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Vol. 2: Operation Not Done Yet",
-        "url": "https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r"
-      },
-      "artists": [
-        {
-          "name": "Rod Lee",
-          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
-        },
-        {
-          "name": "K Life",
-          "url": "https://open.spotify.com/artist/3x0vVK7RYsx6p1UTcPVCIq"
-        }
-      ],
-      "duration_ms": 113666,
-      "name": "Let's Get High",
-      "url": "https://open.spotify.com/track/0IOBdVYuD5hvzTBj3sqvke"
     },
     {
       "added_at": "2020-12-24 20:06:18",
@@ -923,54 +963,6 @@
     {
       "added_at": "2020-12-24 20:06:18",
       "album": {
-        "name": "Baltimore Club Music Unleashed",
-        "url": "https://open.spotify.com/album/1HuHxDY1nFHb73pWmSQgaL"
-      },
-      "artists": [
-        {
-          "name": "Diamond K",
-          "url": "https://open.spotify.com/artist/49EpGlFcfIaIcgPBdOrXOh"
-        }
-      ],
-      "duration_ms": 242986,
-      "name": "Ea Ea 2008 - Remix - Feat. Miss Tony",
-      "url": "https://open.spotify.com/track/396vcIyGpZfwPax863LKvZ"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Vol. 2: Operation Not Done Yet",
-        "url": "https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r"
-      },
-      "artists": [
-        {
-          "name": "DJ Technics",
-          "url": "https://open.spotify.com/artist/6hjL3Bio8qtNcPTCpuIlhG"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Crazie Hoe",
-      "url": "https://open.spotify.com/track/0G1R6OlTrqEau6T9RgxXfN"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Rock The Club Baltimore Club - EP",
-        "url": "https://open.spotify.com/album/62i20zgnCWZMbfY6zrHspd"
-      },
-      "artists": [
-        {
-          "name": "Diamond K",
-          "url": "https://open.spotify.com/artist/49EpGlFcfIaIcgPBdOrXOh"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Put Ya Leg Up (Original)",
-      "url": "https://open.spotify.com/track/0NTuFPMMLXSTUlyW1JKVhI"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
         "name": "Vol. 2: Operation Not Done Yet",
         "url": "https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r"
       },
@@ -987,42 +979,6 @@
     {
       "added_at": "2020-12-24 20:06:18",
       "album": {
-        "name": "Vol. 2: Operation Not Done Yet",
-        "url": "https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r"
-      },
-      "artists": [
-        {
-          "name": "Bestfriend.",
-          "url": "https://open.spotify.com/artist/5inHBQqdO4Oz10vwu8wW2d"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/1EkEIs8mz3uCzys3sQgabD"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Vol. 3: Operation Shut Em Down",
-        "url": "https://open.spotify.com/album/1TrPAu7lRjyh4CiysQGDvu"
-      },
-      "artists": [
-        {
-          "name": "Dayvon",
-          "url": "https://open.spotify.com/artist/0TCd0c6aVyfDRZvqnBwqSp"
-        },
-        {
-          "name": "Rod Lee",
-          "url": "https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w"
-        }
-      ],
-      "duration_ms": 165892,
-      "name": "Kinda Chic",
-      "url": "https://open.spotify.com/track/2myvCcTIKE26DU5G2Up5t0"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
         "name": "Vol. 1: Operation Startup",
         "url": "https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t"
       },
@@ -1035,26 +991,6 @@
       "duration_ms": 149466,
       "name": "Mind Ya Business",
       "url": "https://open.spotify.com/track/6tsneHtXCNxwa2w8yTR1y3"
-    },
-    {
-      "added_at": "2020-12-24 20:06:18",
-      "album": {
-        "name": "Operation: Playtime",
-        "url": "https://open.spotify.com/album/4sunCiOcsmUiWC8POYyfnN"
-      },
-      "artists": [
-        {
-          "name": "DJ Lil Jay",
-          "url": "https://open.spotify.com/artist/3cV9Q9bJcoh6WLwZsxeoXO"
-        },
-        {
-          "name": "KW Griff",
-          "url": "https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu"
-        }
-      ],
-      "duration_ms": 150256,
-      "name": "Don't Make",
-      "url": "https://open.spotify.com/track/1kT1zbcFWWwCkssGnFhNF6"
     }
   ],
   "unique_name": "Baltimore Club",

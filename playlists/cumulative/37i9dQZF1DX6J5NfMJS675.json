@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 204444,
       "name": "AER (All Engines Running)",
       "url": "https://open.spotify.com/track/2X23kxJw0Tdi3al2xja4Gi"
@@ -683,6 +683,24 @@
       "duration_ms": 385903,
       "name": "Bucuresti",
       "url": "https://open.spotify.com/track/1egsxAP2p3v3J3nO5TlUTX"
+    },
+    {
+      "album": {
+        "name": "Mystic Voices / Butoh",
+        "url": "https://open.spotify.com/album/7m5hIO4QBaiyi3q83urXPs"
+      },
+      "artists": [
+        {
+          "name": "Sven V\u00e4th",
+          "url": "https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479181,
+      "name": "Butoh",
+      "url": "https://open.spotify.com/track/3uXQWCbqjtgOzSK5TuZZg4"
     },
     {
       "album": {
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 439069,
       "name": "Latex",
       "url": "https://open.spotify.com/track/7Lp0NobaOnTfqcHPjVXzA6"
@@ -4302,6 +4320,24 @@
     },
     {
       "album": {
+        "name": "Switch Play",
+        "url": "https://open.spotify.com/album/6UVsb3uNatjZclVfNF90OG"
+      },
+      "artists": [
+        {
+          "name": "D72",
+          "url": "https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214606,
+      "name": "Switch Play",
+      "url": "https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC"
+    },
+    {
+      "album": {
         "name": "Syndrom",
         "url": "https://open.spotify.com/album/7vU3F2RWrJtvCPmWwiCDk2"
       },
@@ -4793,7 +4829,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 416146,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/1jO9T05pWsWLcCOfLHIc8R"
@@ -5395,6 +5431,24 @@
       "duration_ms": 420923,
       "name": "We Come",
       "url": "https://open.spotify.com/track/23J7PQA9qpFLOMv3MdCOyM"
+    },
+    {
+      "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
     },
     {
       "album": {

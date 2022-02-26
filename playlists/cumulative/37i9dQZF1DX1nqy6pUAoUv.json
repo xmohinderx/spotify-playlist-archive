@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Tr\u00e9 Burt",
+  "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
   "name": "Contemporary Folk",
   "published_playlist_ids": [
     "79ANrvDhADPfS6kpFqiqNP"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Arkansas",
       "url": "https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
@@ -305,6 +305,28 @@
       "duration_ms": 463133,
       "name": "Between the Dirt and the Stars",
       "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
+    },
+    {
+      "album": {
+        "name": "Spell Songs II: Let the Light In",
+        "url": "https://open.spotify.com/album/0kMRuEo2NrqpeWeQKEZuKN"
+      },
+      "artists": [
+        {
+          "name": "Spell Songs",
+          "url": "https://open.spotify.com/artist/5GL5xJTQ7CG216T9L2C0gz"
+        },
+        {
+          "name": "Julie Fowlis",
+          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273560,
+      "name": "Bird of the Blizzard",
+      "url": "https://open.spotify.com/track/0O6m0MtKrl8KZpavDZX6lQ"
     },
     {
       "album": {
@@ -454,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Ana\u00efs Mitchell",
+        "url": "https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Bright Star",
+      "url": "https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ"
+    },
+    {
+      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -585,10 +625,28 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 232066,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/50FakcsMM8aCyRJuNu5PSW"
+    },
+    {
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "album": {
@@ -607,6 +665,28 @@
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "album": {
+        "name": "Dooley's Farm (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/4791TVASdMpbKGxM6wj9Yw"
     },
     {
       "album": {
@@ -657,7 +737,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 293093,
       "name": "Debtors' Prison",
       "url": "https://open.spotify.com/track/5dyQtYRxhnBUs9rwuGCcGi"
@@ -919,7 +999,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 217816,
       "name": "Give a Little Love (feat. Sufjan Stevens)",
       "url": "https://open.spotify.com/track/0FfcviVA8x0FaVIwwZVUJE"
@@ -1043,7 +1123,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 278167,
       "name": "Green Eyes - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
@@ -1115,7 +1195,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 249213,
       "name": "Heart to Ride",
       "url": "https://open.spotify.com/track/3ksOjny1fxhYeRAMunOLcv"
@@ -1322,6 +1402,28 @@
     },
     {
       "album": {
+        "name": "I Know You Know Me (With Matt Berninger)",
+        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199123,
+      "name": "I Know You Know Me (With Matt Berninger)",
+      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "album": {
         "name": "I Will Be Your Shield",
         "url": "https://open.spotify.com/album/1rcdnPaa79UeiOmkLHbDGU"
       },
@@ -1409,7 +1511,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 238560,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
@@ -1499,7 +1601,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 293240,
       "name": "Learnin' to Drown",
       "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
@@ -1625,7 +1727,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 252880,
       "name": "Los Lunas",
       "url": "https://open.spotify.com/track/4a3qPo0Jl2ws3tpHlz8SlS"
@@ -1651,6 +1753,24 @@
       "duration_ms": 217746,
       "name": "Love and Chains",
       "url": "https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ"
+    },
+    {
+      "album": {
+        "name": "Good and Green Again",
+        "url": "https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM"
+      },
+      "artists": [
+        {
+          "name": "Jake Xerxes Fussell",
+          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238461,
+      "name": "Love Farewell",
+      "url": "https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63"
     },
     {
       "album": {
@@ -1755,7 +1875,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX"
@@ -2141,7 +2261,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 297773,
       "name": "Pretty Polly",
       "url": "https://open.spotify.com/track/737aOcPrTs5bMeDl8Gywud"
@@ -2171,7 +2291,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
@@ -2193,6 +2313,24 @@
       "duration_ms": 276576,
       "name": "Queen Jane Approximately",
       "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
+    },
+    {
+      "album": {
+        "name": "Real Heart",
+        "url": "https://open.spotify.com/album/3MnrQYNpy5o9H4bGhkkpdU"
+      },
+      "artists": [
+        {
+          "name": "Mason Jennings",
+          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "Real Heart",
+      "url": "https://open.spotify.com/track/6jjpqcjHaH42fu2lY4E0Wl"
     },
     {
       "album": {
@@ -2351,7 +2489,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 210480,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/3u0YCKg5DNalvfOnSrivFQ"
@@ -2499,7 +2637,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 204575,
       "name": "The Good Life - Acoustic",
       "url": "https://open.spotify.com/track/1aK4qQZ5w5neaQxhxP8w4n"
@@ -2539,6 +2677,24 @@
       "duration_ms": 260303,
       "name": "The Lonely Persistence of Time",
       "url": "https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p"
+    },
+    {
+      "album": {
+        "name": "The Man Was Burning",
+        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155665,
+      "name": "The Man Was Burning",
+      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
     },
     {
       "album": {
@@ -2713,7 +2869,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 195529,
       "name": "The Woman Who Planted Trees",
       "url": "https://open.spotify.com/track/3jaEz5rDU8pYZCPPY51rDm"
@@ -2767,7 +2923,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
@@ -2785,7 +2941,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 211786,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/3vuhk4DMMf4bQePny04bhs"
@@ -2846,6 +3002,24 @@
     },
     {
       "album": {
+        "name": "Vini W\u00e8",
+        "url": "https://open.spotify.com/album/05sG8hbCEVtuHbtoA2QdYr"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274840,
+      "name": "Vini W\u00e8",
+      "url": "https://open.spotify.com/track/15k4qMUlrAfEyuQILWe110"
+    },
+    {
+      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -2883,7 +3057,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 189702,
       "name": "Wade In The Water (Feat. The War and Treaty, with The Blind Boys of Alabama)",
       "url": "https://open.spotify.com/track/2gjB0dkFCQMwhy58wf7zix"
@@ -2901,7 +3075,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 306213,
       "name": "Walk Into a Storm",
       "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
@@ -2973,10 +3147,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 245546,
       "name": "What Then Cried Jo Soap",
       "url": "https://open.spotify.com/track/2mJmHq00bqo5hpsF5sEB4K"
+    },
+    {
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/5r7E20BjrX92gBt3cI14E5"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300206,
+      "name": "When I Was a Girl in Colorado",
+      "url": "https://open.spotify.com/track/0GtgXo2HxsL1Ja0EXxC0s3"
     },
     {
       "album": {
@@ -3027,7 +3219,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"

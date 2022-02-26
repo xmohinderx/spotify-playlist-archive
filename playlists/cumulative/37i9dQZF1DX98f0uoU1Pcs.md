@@ -2,10 +2,11 @@
 
 ### [Noisy](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
-> The perfect mix of Punk, Rock, Alt  & Indie\. Cover: Fontaines D.C.
+> The perfect mix of Punk, Rock, Alt  & Indie\. Cover: SASAMI
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-25 |  |
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 |  |
 | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/track/4BwPKXsMkinmd1okNTryUc) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/album/4qq5LjTdwWXVdMAjubHwnK) | 2:56 | 2021-10-07 | 2022-02-22 |
 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 | 2022-01-31 |  |
@@ -14,6 +15,7 @@
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-12-07 |  |
 | [Alphabet](https://open.spotify.com/track/32Xy5JWUdXb4GLZ0Eug06N) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Alphabet](https://open.spotify.com/album/71Aynu7WtmIHqxvvDHoTEh) | 2:53 | 2021-10-07 |  |
 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 | 2021-10-29 |  |
+| [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-02-25 |  |
 | [Bad Bite](https://open.spotify.com/track/16NPxCHpfh6Y1iXn2QTs2J) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Bad Bite](https://open.spotify.com/album/4JWsBNMXOSxbjd1eIdTTEo) | 3:10 | 2021-10-07 | 2022-01-08 |
 | [Bad Love](https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Bad Love](https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0) | 2:30 | 2022-02-21 |  |
 | [Badlands](https://open.spotify.com/track/35q5Q5szEL8lr1VbKrc6ri) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [Badlands](https://open.spotify.com/album/27ckS7pEnLVutpJjJbuoi2) | 8:29 | 2021-10-07 |  |
@@ -21,8 +23,9 @@
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ypHme2lqJbZQjk3LOAqPD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [BATTERY NOT INCLUDED](https://open.spotify.com/album/1eDCjMOm70DpKkzw2mxfhx) | 2:53 | 2022-01-25 |  |
 | [Best Of Friends](https://open.spotify.com/track/3pZZrFZEN1pcOUiPGDqcjd) | [Palma Violets](https://open.spotify.com/artist/3sVKVwY8TD445BiC6Q4B43) | [Best Of Friends/Last of the Summer Wine](https://open.spotify.com/album/0OZlVkU18tdzL0NDZLXKaw) | 3:32 | 2021-10-07 |  |
 | [Bet My Blood](https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Bet My Blood](https://open.spotify.com/album/6G5IHNBlR3Ac0fSRwUgFFn) | 2:59 | 2021-10-07 | 2022-02-22 |
+| [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 | 2022-02-25 |  |
 | [Big Bite](https://open.spotify.com/track/16ThVjXmR8yTDihJ5g70r4) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Big Bite](https://open.spotify.com/album/0TCf57rej2wShcUzX91XOK) | 2:21 | 2021-10-07 | 2022-02-01 |
-| [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 | 2021-10-07 |  |
+| [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 | 2021-10-07 | 2022-02-26 |
 | [BLACKOUT](https://open.spotify.com/track/61bO92138QIRSQftKGl4fD) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [BLACKOUT](https://open.spotify.com/album/2eQ9dXLAvjLRGCApSlNJfu) | 2:53 | 2021-10-07 | 2022-01-08 |
 | [Bone Blossom Green](https://open.spotify.com/track/4mQmReGlJftOqZLwYAI9vH) | [The Mary Veils](https://open.spotify.com/artist/64bSGonWU3cJ5JFgZx52zz) | [Eyes](https://open.spotify.com/album/6d5v4120CpZzetL9nJqFsE) | 3:57 | 2022-02-23 |  |
 | [Born On The Outs](https://open.spotify.com/track/5UmHneYq5165Xpff7THbwM) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [Born On The Outs](https://open.spotify.com/album/0YhdZgcJoeb3AmtWbfrnIn) | 3:34 | 2021-10-07 |  |
@@ -78,6 +81,7 @@
 | [I Am Who I Think You Think I Am](https://open.spotify.com/track/2w1JajdAZoH0tlkABzR1Xv) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [I Am Who I Think You Think I Am](https://open.spotify.com/album/30BPK8DMcoasIQkKiBqwUQ) | 3:37 | 2021-10-07 | 2022-01-08 |
 | [I Don't Belong](https://open.spotify.com/track/5cROm5vS1sK0gM3NQL5Gr6) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Don't Belong](https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW) | 4:31 | 2021-10-07 |  |
 | [I Hate My Life](https://open.spotify.com/track/0BFn6Tx59l6tYDge5IZ9e1) | [Mr\. Max](https://open.spotify.com/artist/4laks2a8FFBHbLUcS5Eli5) | [I Hate My Life](https://open.spotify.com/album/1Dz1Mhh2Ch8ddZYAENV8Me) | 3:10 | 2021-10-07 |  |
+| [I'll Make You See God](https://open.spotify.com/track/3MbhMiPevTFKJtJQUjkdSZ) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [I'll Make You See God](https://open.spotify.com/album/0NouYsEc5RT38lVFTUvmsV) | 4:52 | 2022-02-25 |  |
 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 | 2022-01-07 | 2022-02-22 |
 | [I'm Your President](https://open.spotify.com/track/0DabkRkFD74ltGae3xc2Qi) | [Mother's Cake](https://open.spotify.com/artist/4tXtAqJV0KS75ndQsYh1GG) | [Cyberfunk!](https://open.spotify.com/album/3xY4LXoc9298yS7bAUMYeZ) | 2:30 | 2021-10-07 |  |
 | [In the Stone](https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Mirror II](https://open.spotify.com/album/06swqSES9WCGwO1LRhXrxw) | 4:07 | 2022-01-07 |  |
@@ -126,6 +130,7 @@
 | [Rage All Over](https://open.spotify.com/track/3x3wQ19oWPbgJ8sUlqedv9) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Rage All Over](https://open.spotify.com/album/7kJQwKshJqbovj4pItkNYT) | 3:32 | 2021-10-07 | 2022-01-08 |
 | [Rip It Up](https://open.spotify.com/track/6INTk2XZ9uQemi6STedkB6) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 1:43 | 2021-10-07 | 2022-01-08 |
 | [Rot](https://open.spotify.com/track/1RNPJPzixqVMv1oOhtOeLA) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Rot](https://open.spotify.com/album/0cSwU3Xvv5guTM0qlBSyY8) | 3:21 | 2021-10-07 | 2022-01-08 |
+| [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 | 2022-02-25 |  |
 | [Scratchcard Lanyard](https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [New Long Leg](https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz) | 4:06 | 2022-01-07 |  |
 | [Security](https://open.spotify.com/track/310b6rhKJa6lFBNccqQeCl) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/4poJkjWruWqqGsumQggoQB) | 3:47 | 2021-10-07 | 2022-01-08 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-01-07 |  |

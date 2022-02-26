@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9tPFwDMOaN1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9tPFwDMOaN1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tPFwDMOaN1)
 
-### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/12lAZQWLG8b3pM25Gnfv99)
+### [K\-Pop Daebak](https://open.spotify.com/playlist/12lAZQWLG8b3pM25Gnfv99)
 
-> Fresh new vibe, same old playlist you love! Turn ON \(온\) the movement! Cover: NMIXX
+> Bringing you the latest and greatest in the world of K\-Pop! \#KDaebak Cover: STAYC
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

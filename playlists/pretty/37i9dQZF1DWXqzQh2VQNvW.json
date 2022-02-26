@@ -1,13 +1,45 @@
 {
   "description": "The latest and greatest music out now!",
-  "num_followers": 83016,
+  "num_followers": 83085,
   "original_name": "Vibes Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzEzNjQyNywwMDAwMDNiMjAwMDAwMTdlOTI5MDI2NDEwMDAwMDE3NTBiMDAzYTZj",
+  "snapshot_id": "MTY0NTc2NTMyMCwwMDAwMDNiMzAwMDAwMTdmMmY0MWRkOTMwMDAwMDE3NTBiMDAzYTZj",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+    },
+    {
+      "added_at": "2022-01-25 18:47:07",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
     {
       "added_at": "2022-01-25 18:47:07",
       "album": {
@@ -33,20 +65,20 @@
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
-      "added_at": "2022-01-25 18:47:07",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx"
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I"
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2022-01-25 18:47:07",
@@ -63,6 +95,54 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv"
+      },
+      "artists": [
+        {
+          "name": "James Lanman",
+          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Light Switch (Instrumental)",
+        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
+    },
+    {
+      "added_at": "2022-01-25 18:47:07",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I"
     },
     {
       "added_at": "2022-01-25 18:47:07",
@@ -119,22 +199,6 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": "2022-01-25 18:47:07",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "added_at": "2022-01-25 18:47:07",
@@ -815,22 +879,6 @@
     {
       "added_at": "2022-01-25 18:47:07",
       "album": {
-        "name": "Miss This",
-        "url": "https://open.spotify.com/album/6Jc2mARX4L9WneAlYrLWJw"
-      },
-      "artists": [
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        }
-      ],
-      "duration_ms": 102333,
-      "name": "Miss This",
-      "url": "https://open.spotify.com/track/2O0tojYEkArXefAqL93mrj"
-    },
-    {
-      "added_at": "2022-01-25 18:47:07",
-      "album": {
         "name": "Already There",
         "url": "https://open.spotify.com/album/2Yz7RFQXL1Ug3lkv2OXbgN"
       },
@@ -1163,22 +1211,6 @@
     {
       "added_at": "2022-01-25 18:47:07",
       "album": {
-        "name": "Material Boy",
-        "url": "https://open.spotify.com/album/3vt5FHwacHdkIvL05cJvLU"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 224625,
-      "name": "Material Boy",
-      "url": "https://open.spotify.com/track/56BN5JPTAc3UGvRhQzpoqp"
-    },
-    {
-      "added_at": "2022-01-25 18:47:07",
-      "album": {
         "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y"
       },
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2022-01-25 18:47:07",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3gIzo73IbdwgslkfliWnyy"
-      },
-      "artists": [
-        {
-          "name": "Jordan Suaste",
-          "url": "https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0"
-        }
-      ],
-      "duration_ms": 205401,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/3uG6rdUthcTvbK70fwkPky"
-    },
-    {
-      "added_at": "2022-01-25 18:47:07",
-      "album": {
         "name": "There's Really A Wolf",
         "url": "https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC"
       },
@@ -1327,26 +1343,6 @@
       "duration_ms": 188396,
       "name": "Passive Aggressive",
       "url": "https://open.spotify.com/track/167HWbEImETmEG2oiNTwWj"
-    },
-    {
-      "added_at": "2022-01-25 18:47:07",
-      "album": {
-        "name": "i'm a fucking wreck",
-        "url": "https://open.spotify.com/album/5Y4oW7VUpiI7tRJPr7dtWz"
-      },
-      "artists": [
-        {
-          "name": "trials",
-          "url": "https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai"
-        },
-        {
-          "name": "Daniyel",
-          "url": "https://open.spotify.com/artist/4Zgs72EVDddJE8pa3oGC4L"
-        }
-      ],
-      "duration_ms": 127002,
-      "name": "i'm a fucking wreck",
-      "url": "https://open.spotify.com/track/4qTjGEyBDwkQ9RVaaL6eGa"
     },
     {
       "added_at": "2022-01-25 18:47:07",

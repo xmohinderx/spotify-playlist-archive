@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Matt Schuster, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,108 likes - 112 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,097 likes - 112 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

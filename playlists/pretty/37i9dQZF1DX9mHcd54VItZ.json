@@ -1,13 +1,29 @@
 {
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v?si=Lhg7WGbsQE6lGCS0xYmQRg\">Fuzigish</a>",
-  "num_followers": 9839,
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=9hoUsqccRN2FqLrRk29y5g\">Dan Patlansky</a>",
+  "num_followers": 9846,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTEzNTE0MCwwMDAwMDJiMDAwMDAwMTdmMDliMjE1MGQwMDAwMDE3ZjA4ZTAwZTZm",
+  "snapshot_id": "MTY0NTc3Mzg3NywwMDAwMDJiMTAwMDAwMTdmMmZjNDcyNDQwMDAwMDE3ZjJmYzNjNWU2",
   "tracks": [
+    {
+      "added_at": "2022-02-25 07:24:37",
+      "album": {
+        "name": "Shelter Of Bones",
+        "url": "https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr"
+      },
+      "artists": [
+        {
+          "name": "Dan Patlansky",
+          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Soul Parasite",
+      "url": "https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz"
+    },
     {
       "added_at": "2022-02-17 21:59:00",
       "album": {
@@ -313,6 +329,22 @@
       "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
     },
     {
+      "added_at": "2022-02-25 07:24:37",
+      "album": {
+        "name": "I Feel Fine",
+        "url": "https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv"
+      },
+      "artists": [
+        {
+          "name": "Billy Inglish",
+          "url": "https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC"
+        }
+      ],
+      "duration_ms": 188228,
+      "name": "I Feel Fine",
+      "url": "https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj"
+    },
+    {
       "added_at": "2021-03-25 22:00:00",
       "album": {
         "name": "Undone (Elephant in the room)",
@@ -475,6 +507,22 @@
       "duration_ms": 212718,
       "name": "Until I Forget You",
       "url": "https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC"
+    },
+    {
+      "added_at": "2022-02-25 07:24:37",
+      "album": {
+        "name": "Shelter Of Bones",
+        "url": "https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr"
+      },
+      "artists": [
+        {
+          "name": "Dan Patlansky",
+          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "Selfish Lover",
+      "url": "https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU"
     },
     {
       "added_at": "2021-11-11 21:59:00",

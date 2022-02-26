@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,101 likes - 55 songs - 3 hr 17 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,102 likes - 62 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,12 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 53 | [Tapping in Boyd Hill](https://open.spotify.com/track/14h2xjYyzgxqM3CxRFE6JO) | [Somatoast](https://open.spotify.com/artist/6TgxNzWMXI7y4dhm5sPBL5) | [Tapping in Boyd Hill](https://open.spotify.com/album/3Y5wYJebF1ABImA0rPF6Yo) | 3:12 |
 | 54 | [Gone'd Off That Ooee \- Vide & EAZYBAKED Remix](https://open.spotify.com/track/4cjLj63HqtAx775vqM0TJ2) | [Bricksquash](https://open.spotify.com/artist/2p86MlyUomQNCpi3vfPGYM), [Vide](https://open.spotify.com/artist/2zuL2fhF4xRzyCikWcmlea), [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Skreet Force One / Re\-Bricked](https://open.spotify.com/album/4nBogeQ6jJMYwKilTxZ2lp) | 3:41 |
 | 55 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 |
+| 56 | [Phantom](https://open.spotify.com/track/7fGeTLKVm9BY8KsqSl6Ke1) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Phantom](https://open.spotify.com/album/1lHmOYabioXFvBI5WnV7HU) | 3:44 |
+| 57 | [Do What You Love](https://open.spotify.com/track/2d6VpS0QGYPDipralkDfCY) | [9 Theory](https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK) | [Comfort In The Orange Glow](https://open.spotify.com/album/5IPhg5fIyLvkA2eJj3tsOQ) | 3:10 |
+| 58 | [See You](https://open.spotify.com/track/2OQ0lsnpgmwmaIuSfVFIDx) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [See You](https://open.spotify.com/album/1Q6A1gHBqhS3uq5nQpzv30) | 4:38 |
+| 59 | [Dumb \- dnb edit](https://open.spotify.com/track/5VspIe3SteTgIT8jJA3V7J) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Dumb \(dnb edit\)](https://open.spotify.com/album/66lKWt1amMXKhZLGKt96rd) | 3:48 |
+| 60 | [Switch](https://open.spotify.com/track/6cUrJ1tZ82b6UwS69og24J) | [Mize](https://open.spotify.com/artist/31uPFWR7sBQ3dcZ8y8zOzY) | [Switch](https://open.spotify.com/album/6dtKFemPXxxMVQBlVwYq4g) | 4:06 |
+| 61 | [Keep It Low \(INZO Remix\)](https://open.spotify.com/track/5q0qSXk9GZHsyrovYMogO8) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Leisure Season Vol\. 1 Remixed](https://open.spotify.com/album/6O0GS8bjHDCx7ZavQ2fqrH) | 2:37 |
+| 62 | [Find Your Way](https://open.spotify.com/track/05xa7uXssS5nOaI5rk3Syb) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Marenn Sukie](https://open.spotify.com/artist/0iCikBx8HjlrYP10DDxzle) | [Find Your Way / This Time](https://open.spotify.com/album/6V6ATIIr6w7PYmsPd5WNpk) | 7:02 |
 
-Snapshot ID: `MTgxMSxhNmMwZTA2YjQ3Njc4NmI3MmZlMjFhMzI1ZDJmOTFhZWUzNzE3MDhm`
+Snapshot ID: `MTgxOCw5YmE3MGNkMjdmMjYyMzg5N2MxZDk3ZmY1MjhjZmE5MzY3ZDM0NjVk`

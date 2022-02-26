@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201273,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1"
+    },
+    {
+      "album": {
         "name": "If I Don't",
         "url": "https://open.spotify.com/album/4bN4XhEzN22vgDdXvGIVE5"
       },

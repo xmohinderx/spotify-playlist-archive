@@ -1,13 +1,53 @@
 {
   "description": "Holdin' it down for the westside. Cover: YG",
-  "num_followers": 682667,
+  "num_followers": 682745,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQ2MCwwMDAwMDUwZTAwMDAwMTdmMGIzNDZmNTkwMDAwMDE3ZWMyNjkzZmYx",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDUwZjAwMDAwMTdmMmY0MGYzNWUwMDAwMDE3ZWMyNjkzZmYx",
   "tracks": [
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "MAGIC (feat. Mustard)",
+        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "duration_ms": 226006,
+      "name": "MAGIC (feat. Mustard)",
+      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 222225,
+      "name": "moved to miami (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
+    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -35,26 +75,6 @@
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "MAGIC (feat. Mustard)",
-        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        }
-      ],
-      "duration_ms": 226006,
-      "name": "MAGIC (feat. Mustard)",
-      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
         "name": "Wait Too Long (feat. Blxst)",
         "url": "https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 222225,
-      "name": "moved to miami (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -113,20 +113,40 @@
       "url": "https://open.spotify.com/track/2ZFFX9m6T3vsB9yJoURXZH"
     },
     {
-      "added_at": "2022-01-24 22:26:04",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "BSG",
-        "url": "https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3"
+        "name": "2 Aliv\u00eb",
+        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Mainline",
+        "url": "https://open.spotify.com/album/0dHJydcIeqGlNLBTuUQwEN"
       },
       "artists": [
         {
           "name": "Baby Stone Gorillas",
           "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
         }
       ],
-      "duration_ms": 220392,
-      "name": "Main Line",
-      "url": "https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU"
+      "duration_ms": 216672,
+      "name": "Mainline",
+      "url": "https://open.spotify.com/track/5pdN5KBRpkowHngLmeBEDe"
     },
     {
       "added_at": "2022-01-14 21:22:38",
@@ -167,6 +187,42 @@
       "duration_ms": 210027,
       "name": "Gospel (with Eminem)",
       "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Do It Up",
+        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "duration_ms": 244968,
+      "name": "Do It Up",
+      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Do Whatever to Survive",
+        "url": "https://open.spotify.com/album/1OeC8jjhHEdm65M7p7NfyW"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Do Whatever to Survive",
+      "url": "https://open.spotify.com/track/6RR2dOw3NE5pim5KGyNEYj"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -841,26 +897,6 @@
       "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
     },
     {
-      "added_at": "2021-10-16 03:23:08",
-      "album": {
-        "name": "From the Westside With Love Three",
-        "url": "https://open.spotify.com/album/32N4rOq6seLb4TLkb4dfuL"
-      },
-      "artists": [
-        {
-          "name": "Dom Kennedy",
-          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
-        },
-        {
-          "name": "Quentin Miller",
-          "url": "https://open.spotify.com/artist/6po19E0R9xffrgzrg84TC9"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/72hQfSeaOHttqYdaCmUC7Z"
-    },
-    {
       "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "GOTTI",
@@ -907,66 +943,6 @@
       "duration_ms": 170702,
       "name": "About You",
       "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Milan",
-        "url": "https://open.spotify.com/album/57XdUQtynNRvVafh9HMfRV"
-      },
-      "artists": [
-        {
-          "name": "Suigeneris",
-          "url": "https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Milan",
-      "url": "https://open.spotify.com/track/5IxOlNnq8GDOH3iENer7uX"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Beethoven (feat. YN Jay)",
-        "url": "https://open.spotify.com/album/1VYk22PNAMNyBKeZn4f30c"
-      },
-      "artists": [
-        {
-          "name": "Kenndog",
-          "url": "https://open.spotify.com/artist/2NLseG7xyv3fHY5U8AUntx"
-        },
-        {
-          "name": "YN Jay",
-          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
-        }
-      ],
-      "duration_ms": 195900,
-      "name": "Beethoven (feat. YN Jay)",
-      "url": "https://open.spotify.com/track/60DNcGqrNtk2JNuwlKLOH3"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Again (feat. E-40 & LaRussell)",
-        "url": "https://open.spotify.com/album/5Bkh6aMGVFe3uF9cdBLLBm"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        }
-      ],
-      "duration_ms": 168855,
-      "name": "Again (feat. E-40 & LaRussell)",
-      "url": "https://open.spotify.com/track/4Z596XVbpeZgJnnK9txkxf"
     }
   ],
   "unique_name": "Westside Story",

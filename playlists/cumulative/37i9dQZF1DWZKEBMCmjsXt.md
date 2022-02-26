@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZKEBMCmjsXt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZKEBMCmjsXt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZKEBMCmjsXt)
 
-### R&B Matters: The Playlist
+### [R&B Matters: The Playlist](https://open.spotify.com/playlist/4WsWm8Av1mc89IOh54htA5)
 
 > These tracks were produced, written, and/or performed by the artists featured on Spotify's R&B Matters podcast.
 

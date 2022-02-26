@@ -852,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/4RFlBj7vLZ72jtihEXY0Ib"
+      },
+      "artists": [
+        {
+          "name": "Sean Waters",
+          "url": "https://open.spotify.com/artist/7xAiCdg8rJmhZtvpYnpbGD"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212975,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp"
+    },
+    {
+      "album": {
         "name": "The Last Revel",
         "url": "https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2"
       },
@@ -1619,6 +1637,24 @@
       "duration_ms": 142663,
       "name": "The Devil In You",
       "url": "https://open.spotify.com/track/4nA3rdugWqbUozPJCrNR0j"
+    },
+    {
+      "album": {
+        "name": "The Fox and the River",
+        "url": "https://open.spotify.com/album/6ZMRkSwZzjYwBMmM3aCfeq"
+      },
+      "artists": [
+        {
+          "name": "Kate Prascher",
+          "url": "https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185540,
+      "name": "The Fox and the River",
+      "url": "https://open.spotify.com/track/1hRSSZblPpjmq4vU4ZeZ0t"
     },
     {
       "album": {

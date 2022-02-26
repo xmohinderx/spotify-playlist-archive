@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Djangology",
+        "url": "https://open.spotify.com/album/25QeMhEESQIg9oDVPq9chK"
+      },
+      "artists": [
+        {
+          "name": "Duane Andrews",
+          "url": "https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204139,
+      "name": "Djangology",
+      "url": "https://open.spotify.com/track/42gtiaKzcoCMEOLkiuYf4U"
+    },
+    {
+      "album": {
         "name": "Folk Songs",
         "url": "https://open.spotify.com/album/7fEjk6IjjNZwM70grqR4QL"
       },

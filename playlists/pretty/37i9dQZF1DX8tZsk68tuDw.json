@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Jaded",
-  "num_followers": 1965617,
+  "num_followers": 1965688,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQwMCwwMDAwMDNjZjAwMDAwMTdmMGIzMzg1NzcwMDAwMDE3ZWMxOTUzYzQ1",
+  "snapshot_id": "MTY0NTc2NTIwMCwwMDAwMDNkMDAwMDAwMTdmMmY0MDA5NTcwMDAwMDE3ZWMxOTUzYzQ1",
   "tracks": [
     {
       "added_at": "2022-01-21 05:00:00",
@@ -61,36 +61,40 @@
       "url": "https://open.spotify.com/track/0S9KX56e4zQs11nKc6s9jK"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
+        "name": "Side Effect (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/3zZfGVDKje9EiK2q4pki53"
       },
       "artists": [
         {
-          "name": "Seamus D",
-          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
         }
       ],
-      "duration_ms": 180719,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
+      "duration_ms": 144193,
+      "name": "Side Effect (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/4op0sQ8BfzRsW4gGGlR7TU"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/6y0Si6D3V7IgZwwEqT1BA4"
+        "name": "Don\u2019t Keep Me Waiting",
+        "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
       },
       "artists": [
         {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 260540,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/4RVcOvimtLKS94rEEzxYtB"
+      "duration_ms": 209687,
+      "name": "Don\u2019t Keep Me Waiting",
+      "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -113,6 +117,38 @@
       "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
     },
     {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/6y0Si6D3V7IgZwwEqT1BA4"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "duration_ms": 260540,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/4RVcOvimtLKS94rEEzxYtB"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
+      },
+      "artists": [
+        {
+          "name": "Seamus D",
+          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+        }
+      ],
+      "duration_ms": 180719,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
+    },
+    {
       "added_at": "2022-01-28 05:23:21",
       "album": {
         "name": "Human Touch",
@@ -133,6 +169,26 @@
       "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
     },
     {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Who Do You Love",
+        "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Hold Tight",
@@ -147,26 +203,6 @@
       "duration_ms": 176381,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/5or0ryC6EUT7kS92UEGqxd"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Side Effect (feat. Au/Ra)",
-        "url": "https://open.spotify.com/album/3zZfGVDKje9EiK2q4pki53"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 144193,
-      "name": "Side Effect (feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/4op0sQ8BfzRsW4gGGlR7TU"
     },
     {
       "added_at": "2022-01-28 05:23:21",
@@ -189,6 +225,22 @@
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
     },
     {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "SEXUAL",
+        "url": "https://open.spotify.com/album/3h1FyQdZSsIeel16epLcn1"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "SEXUAL",
+      "url": "https://open.spotify.com/track/4PZunWMdRDz63eZHAzoeD2"
+    },
+    {
       "added_at": "2022-02-18 05:00:00",
       "album": {
         "name": "Amanh\u00e3",
@@ -203,6 +255,22 @@
       "duration_ms": 212903,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Locco",
+        "url": "https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 183875,
+      "name": "Locco",
+      "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -221,56 +289,80 @@
       "url": "https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD"
     },
     {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Dani Girl",
+        "url": "https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Dani Girl",
+      "url": "https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Slut Pop",
-        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 118153,
-      "name": "Treat Me Like A Slut",
-      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+      "duration_ms": 187619,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
     },
     {
-      "added_at": "2022-02-18 05:00:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+        "name": "House of Wax",
+        "url": "https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW"
       },
       "artists": [
         {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         },
         {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
         }
       ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+      "duration_ms": 168780,
+      "name": "Issa Vibe",
+      "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Locco",
-        "url": "https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj"
+        "name": "La candela viva",
+        "url": "https://open.spotify.com/album/7vxhUdJugQ2iMlF9DEzygr"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
         }
       ],
-      "duration_ms": 183875,
-      "name": "Locco",
-      "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
+      "duration_ms": 174600,
+      "name": "La candela viva",
+      "url": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -297,6 +389,38 @@
       "url": "https://open.spotify.com/track/23DTsnKCwj5Gf2J1aZXMNh"
     },
     {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "CircoLoco Records & NEZ Present CLR 002",
+        "url": "https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 215624,
+      "name": "You Wanna?",
+      "url": "https://open.spotify.com/track/6BRJxAgTCr7zCOmTkZuY2Q"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Roll Play",
+        "url": "https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Roll Play",
+      "url": "https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Admit It (U Don't Want 2)",
@@ -315,6 +439,38 @@
       "duration_ms": 385074,
       "name": "Admit It (U Don't Want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "BOYZ",
+        "url": "https://open.spotify.com/album/42RXpd1cxEckm91miDtiAs"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 240321,
+      "name": "BOYZ",
+      "url": "https://open.spotify.com/track/79ixYcSOhGVaG69GHfVOXJ"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -361,20 +517,24 @@
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo"
+        "name": "Blow (feat. Eliza Legzdina)",
+        "url": "https://open.spotify.com/album/5QRQpruHjoHQIIKHos7jkw"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
         }
       ],
-      "duration_ms": 187619,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
+      "duration_ms": 189759,
+      "name": "Blow (feat. Eliza Legzdina)",
+      "url": "https://open.spotify.com/track/0hyFVAYTF77ELCKmxxjYDD"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -483,6 +643,22 @@
       "duration_ms": 242000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "NO MIND",
+        "url": "https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "NO MIND",
+      "url": "https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -603,6 +779,26 @@
       "duration_ms": 193333,
       "name": "You Should Already Know",
       "url": "https://open.spotify.com/track/6fBHOF46O8LUNI78ZtAK7S"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Crave The Bassline",
+        "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 166962,
+      "name": "Crave The Bassline",
+      "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -735,22 +931,6 @@
       "duration_ms": 151681,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "Workout Series, Vol. 14",
-        "url": "https://open.spotify.com/album/0ylMf3PXGrQvj6CTkl6D4Z"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller (Aus)",
-          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
-        }
-      ],
-      "duration_ms": 271697,
-      "name": "The Lead",
-      "url": "https://open.spotify.com/track/6UmIvOlWvXtO03fALva6Lu"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -901,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3VXCwR1wRVt4sHyDtOvFgI"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Still Dancing",
-        "url": "https://open.spotify.com/album/2IB8hj5awPqXqpnnLcLs9t"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 163945,
-      "name": "Still Dancing",
-      "url": "https://open.spotify.com/track/5dz5wG17HqqvUtDyvRymye"
-    },
-    {
       "added_at": "2022-02-18 05:00:00",
       "album": {
         "name": "Stay",
@@ -949,6 +1113,22 @@
       "url": "https://open.spotify.com/track/6ZqWXWIh6yy2tfJwX0xnO3"
     },
     {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "Workout Series, Vol. 14",
+        "url": "https://open.spotify.com/album/0ylMf3PXGrQvj6CTkl6D4Z"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller (Aus)",
+          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
+        }
+      ],
+      "duration_ms": 271697,
+      "name": "The Lead",
+      "url": "https://open.spotify.com/track/6UmIvOlWvXtO03fALva6Lu"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Honest (feat. Slayyyter)",
@@ -967,26 +1147,6 @@
       "duration_ms": 178689,
       "name": "Honest (feat. Slayyyter)",
       "url": "https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "God Is a DJ",
-        "url": "https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "God is A DJ",
-      "url": "https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -1529,30 +1689,6 @@
       "url": "https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd"
     },
     {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "Dance Tonight",
-        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
-    },
-    {
       "added_at": "2022-01-28 05:23:21",
       "album": {
         "name": "beachin",
@@ -1571,46 +1707,6 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
-    },
-    {
-      "added_at": "2022-01-28 05:23:21",
-      "album": {
-        "name": "to hell with it (Remixes)",
-        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Anz",
-          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
-        }
-      ],
-      "duration_ms": 311066,
-      "name": "All my friends know - Anz Remix",
-      "url": "https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/4oq6mGyGUEH6sG9oShCOrU"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 240544,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/70nUQ9n4i1jJiZLlo6OtR8"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -1697,26 +1793,6 @@
       "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
     },
     {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "TALKIN",
-        "url": "https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V"
-      },
-      "artists": [
-        {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        },
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        }
-      ],
-      "duration_ms": 230078,
-      "name": "TALKIN",
-      "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Searching",
@@ -1737,66 +1813,6 @@
       "url": "https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Slow Nights",
-        "url": "https://open.spotify.com/album/3JcqnZwUnWKF6KOHilSpak"
-      },
-      "artists": [
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Slow Nights",
-      "url": "https://open.spotify.com/track/5TD67ukVHXuP8Cxp4MxhYb"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Never Surrender (feat. Sarah de Warren)",
-        "url": "https://open.spotify.com/album/5RqW9pQeAqQyd2iCWbSvIE"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Never Surrender (feat. Sarah de Warren)",
-      "url": "https://open.spotify.com/track/5jTmGRML5e3IlhWB2x0F7W"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "The Navigator",
-        "url": "https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 363103,
-      "name": "The Navigator",
-      "url": "https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw"
-    },
-    {
       "added_at": "2022-01-07 05:01:00",
       "album": {
         "name": "Feelwitchu",
@@ -1811,22 +1827,6 @@
       "duration_ms": 193266,
       "name": "Feelwitchu",
       "url": "https://open.spotify.com/track/4bLjPoP25YBKGei1CfBgE2"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "ADOLESCENCE",
-        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 188724,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/5qysxEb8AgQ5GLNg1cpGcp"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1887,22 +1887,6 @@
       "duration_ms": 225000,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/7B5NyuAKnhLj0aasbRpaIp"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 226620,
-      "name": "Everything Is Going To Be Alright",
-      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
     },
     {
       "added_at": "2021-12-10 05:01:00",

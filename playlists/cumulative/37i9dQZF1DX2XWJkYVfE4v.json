@@ -620,6 +620,28 @@
     },
     {
       "album": {
+        "name": "La nuit froide et sombre (Arr. for String Quartet by Sini Simonen)",
+        "url": "https://open.spotify.com/album/5248WNXNGhcDgcNMTRxLS2"
+      },
+      "artists": [
+        {
+          "name": "Orlande de Lassus",
+          "url": "https://open.spotify.com/artist/66hSfMemmixjY58p7KcTV6"
+        },
+        {
+          "name": "Castalian String Quartet",
+          "url": "https://open.spotify.com/artist/60AmiJmah4IkoN4LVWu0SW"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154352,
+      "name": "La nuit froide et sombre (Arr. for String Quartet by Sini Simonen)",
+      "url": "https://open.spotify.com/track/4vz9FAIGm1VjhfhPHtU530"
+    },
+    {
+      "album": {
         "name": "Anne-Sophie Mutter - A Portrait (International Version)",
         "url": "https://open.spotify.com/album/5dvKq2dKtVmfqFwP7KVIS5"
       },
@@ -647,6 +669,24 @@
       "duration_ms": 407600,
       "name": "Massenet: Tha\u00efs: M\u00e9ditation",
       "url": "https://open.spotify.com/track/6Rkb9ZW2YEvLLqKRmbk6nA"
+    },
+    {
+      "album": {
+        "name": "Midwinter",
+        "url": "https://open.spotify.com/album/38fLpzIszQjCAZ2FTIuTi7"
+      },
+      "artists": [
+        {
+          "name": "Czarina Frost",
+          "url": "https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Midwinter",
+      "url": "https://open.spotify.com/track/3U0Jz4y4SiseCKtL6jdDOZ"
     },
     {
       "album": {

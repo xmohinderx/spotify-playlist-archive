@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 168995,
       "name": "Detr\u00e1s de la Wii",
       "url": "https://open.spotify.com/track/6jboNxLDUBv3HBJ3RQpj4m"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 186500,
       "name": "feeld",
       "url": "https://open.spotify.com/track/7gehxl61HOkqIKF4gO7PBf"
@@ -1184,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "La rivi\u00e8re",
+        "url": "https://open.spotify.com/album/72DZjGPRX4fd8rpHmvb3Vt"
+      },
+      "artists": [
+        {
+          "name": "Anna Majidson",
+          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/2GgyYB3Hstk8KrX6AsGemA"
+    },
+    {
+      "album": {
         "name": "La Novela",
         "url": "https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY"
       },
@@ -1351,6 +1369,24 @@
       "duration_ms": 175280,
       "name": "love & doubt",
       "url": "https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ"
+    },
+    {
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/3sLSczzqvkRNRtcK9AH7Ei"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183927,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/1ozrsYUgNJxFjYQ56uMCJU"
     },
     {
       "album": {
@@ -1699,7 +1735,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 207973,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/19VskVnejF7oVZPDXgWjeK"
@@ -1779,6 +1815,32 @@
       "duration_ms": 138268,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
+    },
+    {
+      "album": {
+        "name": "Picnic In The Park",
+        "url": "https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB"
+      },
+      "artists": [
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Chocoholic",
+          "url": "https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177073,
+      "name": "Picnic In The Park",
+      "url": "https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746"
     },
     {
       "album": {
@@ -1988,6 +2050,24 @@
     },
     {
       "album": {
+        "name": "Say Hello",
+        "url": "https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr"
+      },
+      "artists": [
+        {
+          "name": "Gym and Swim",
+          "url": "https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223187,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR"
+    },
+    {
+      "album": {
         "name": "Se Apag\u00f3",
         "url": "https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe"
       },
@@ -2057,6 +2137,24 @@
       "duration_ms": 167044,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
+    },
+    {
+      "album": {
+        "name": "Sol de Ayer",
+        "url": "https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA"
+      },
+      "artists": [
+        {
+          "name": "Adi\u00f3s Amores",
+          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190484,
+      "name": "Sol de Ayer",
+      "url": "https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG"
     },
     {
       "album": {
@@ -2249,7 +2347,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 353653,
       "name": "Teor\u00eda del Cuerpo Enamorado",
       "url": "https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM"
@@ -2307,7 +2405,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 191086,
       "name": "Todas Menos T\u00fa",
       "url": "https://open.spotify.com/track/7f1BZ7o9IWCnWh9yu71nMu"
@@ -2567,7 +2665,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 233733,
       "name": "YA HABIBI",
       "url": "https://open.spotify.com/track/5iFKrNqnuwvPhqXIWuUsHW"

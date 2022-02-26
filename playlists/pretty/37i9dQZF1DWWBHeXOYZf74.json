@@ -1,32 +1,44 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Khruangbin & Leon Bridges",
-  "num_followers": 1324125,
+  "description": "Genre-less. Quality first always. Cover: Bakar",
+  "num_followers": 1324260,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTYyNjg4MiwwMDAwMDQxNDAwMDAwMTdmMjcwMTc5MzMwMDAwMDE3ZjA5OTY2MDJj",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDQxNTAwMDAwMTdmMmY0MGYzNzYwMDAwMDE3ZjJkMmI1NzVh",
   "tracks": [
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Invincible (feat. Daniel Caesar)",
-        "url": "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Invincible (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
+      "duration_ms": 187626,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
     },
     {
       "added_at": "2022-02-23 14:34:42",
@@ -43,6 +55,74 @@
       "duration_ms": 161081,
       "name": "Loose",
       "url": "https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "CHICKEN TERIYAKI",
+        "url": "https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "AMAZING",
+        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Naruda (Fall In Your Arms Again)",
+        "url": "https://open.spotify.com/album/2BDOmHLpZ1tvVOOq7OyI98"
+      },
+      "artists": [
+        {
+          "name": "1000 Beasts",
+          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naruda (Fall In Your Arms Again)",
+      "url": "https://open.spotify.com/track/2e7FLtv5JjOr1IN8yCTcZQ"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Zatoichi [Feat. slowthai]",
+        "url": "https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "Zatoichi [Feat. slowthai]",
+      "url": "https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -65,20 +145,36 @@
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Walkin",
-        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
       },
       "artists": [
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
         }
       ],
-      "duration_ms": 280004,
-      "name": "Walkin",
-      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
+      "duration_ms": 216045,
+      "name": "Star City - Radio Edit",
+      "url": "https://open.spotify.com/track/1DxjrGvRHPxmLF8TEmsqwt"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "The Slow Rush B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "The Boat I Row",
+      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -97,20 +193,164 @@
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
     },
     {
-      "added_at": "2022-02-18 05:00:00",
+      "added_at": "2022-02-11 17:29:08",
       "album": {
-        "name": "AMAZING",
-        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+        "name": "Nova / Moth",
+        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+      "duration_ms": 342000,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "NW3",
+        "url": "https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "NW3",
+      "url": "https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Lightning Of July",
+        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Lightning Of July",
+      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Invincible (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Invincible (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 296554,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Walkin",
+        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 280004,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "anotherlife",
+        "url": "https://open.spotify.com/album/1S1ni6UGY99ajlkItmtTqs"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "anotherlife",
+      "url": "https://open.spotify.com/track/4ydCaKmqhbTPCMl7tb8TnR"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "mr. wednesday",
+        "url": "https://open.spotify.com/album/1v9w8KZbZfeO4nxjw6w5sW"
+      },
+      "artists": [
+        {
+          "name": "keni can fly",
+          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
+        },
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/01g5m9mFKoN0VD1tcKxdh8"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "mr. wednesday",
+      "url": "https://open.spotify.com/track/6t8c0ZcctzvkCIxPqTHmud"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -133,54 +373,6 @@
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Lightning Of July",
-        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Lightning Of July",
-      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "anotherlife",
-        "url": "https://open.spotify.com/album/1S1ni6UGY99ajlkItmtTqs"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "anotherlife",
-      "url": "https://open.spotify.com/track/4ydCaKmqhbTPCMl7tb8TnR"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Billions",
-        "url": "https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 296554,
-      "name": "Billions",
-      "url": "https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm"
-    },
-    {
       "added_at": "2022-02-18 05:00:00",
       "album": {
         "name": "Pulses of Light",
@@ -195,22 +387,6 @@
       "duration_ms": 286529,
       "name": "Pulses of Light",
       "url": "https://open.spotify.com/track/3Pb9BgklV5BiAeOSSRklHh"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "The Slow Rush B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "The Boat I Row",
-      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -237,46 +413,6 @@
       "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "mr. wednesday",
-        "url": "https://open.spotify.com/album/1v9w8KZbZfeO4nxjw6w5sW"
-      },
-      "artists": [
-        {
-          "name": "keni can fly",
-          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
-        },
-        {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/01g5m9mFKoN0VD1tcKxdh8"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "mr. wednesday",
-      "url": "https://open.spotify.com/track/6t8c0ZcctzvkCIxPqTHmud"
-    },
-    {
-      "added_at": "2022-02-11 17:29:08",
-      "album": {
-        "name": "Nova / Moth",
-        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
-    },
-    {
       "added_at": "2022-02-02 18:07:05",
       "album": {
         "name": "Skin Tight (feat. Steve Lacy)",
@@ -295,26 +431,6 @@
       "duration_ms": 227001,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -875,26 +991,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 209777,
-      "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
-      "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
       },
@@ -1271,22 +1367,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Rap?",
-        "url": "https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm"
-      },
-      "artists": [
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Meagan Good",
-      "url": "https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "MENTHOL*",
         "url": "https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf"
       },
@@ -1419,22 +1499,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Build Me a Way",
-        "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 141932,
-      "name": "Build Me a Way - Single Version",
-      "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "concrete",
         "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
@@ -1541,22 +1605,6 @@
       "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "TWOPOINTFIVE",
-        "url": "https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 123983,
-      "name": "NEO",
-      "url": "https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc"
-    },
-    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "PBFF",
@@ -1655,22 +1703,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Faisal (Envelops Me)",
-        "url": "https://open.spotify.com/album/4ypZdBrZq9WRWbEkpqUA4D"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 250291,
-      "name": "Faisal (Envelops Me)",
-      "url": "https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Fearmonger (feat. Daoud)",
         "url": "https://open.spotify.com/album/0JbVdMR0ZFKjwyobLRPPXW"
       },
@@ -1719,46 +1751,6 @@
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "I Need Nothing From You",
-        "url": "https://open.spotify.com/album/1uGTPzOxYMjAnq3vy3OBxv"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "I Need Nothing From You",
-      "url": "https://open.spotify.com/track/2iqn4H1SVAfsVNKeQYz4V2"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Fellowship (Remix) ft. Ambr\u00e9 & Alex Isley",
-        "url": "https://open.spotify.com/album/0z9WlDfltYm5CAyWHIkXPd"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        },
-        {
-          "name": "Ambre",
-          "url": "https://open.spotify.com/artist/5mmOgnbsj8LXOUWqLPcoMa"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 220290,
-      "name": "Fellowship (Remix) ft. Ambr\u00e9 & Alex Isley",
-      "url": "https://open.spotify.com/track/23quKa0BHCq8CKcoFKbHRL"
     },
     {
       "added_at": "2021-12-24 05:00:00",

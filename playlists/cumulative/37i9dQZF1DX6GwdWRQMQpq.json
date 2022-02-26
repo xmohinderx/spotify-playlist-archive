@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doja Cat\n",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Flo Milli\n",
   "name": "Feelin' Myself",
   "published_playlist_ids": [
     "0FtcGJDMEWLAVf67SoV0Nd"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 112973,
       "name": "BBM (Bad Bitch Mentality)",
       "url": "https://open.spotify.com/track/063jdVCwrYUHdyeoJvQq3H"
@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty"
+      },
+      "artists": [
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127821,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC"
+    },
+    {
+      "album": {
         "name": "Ice Baby",
         "url": "https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK"
       },
@@ -763,7 +781,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 166875,
       "name": "Lick (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 178266,
       "name": "Meagan Good",
       "url": "https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf"
@@ -984,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "PBC",
+        "url": "https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154510,
+      "name": "PBC",
+      "url": "https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU"
+    },
+    {
+      "album": {
         "name": "Pedi",
         "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
       },
@@ -999,6 +1035,24 @@
       "duration_ms": 125272,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
+    },
+    {
+      "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/300dMnEjqffViFhMqTTAm7"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/4GH6iowVcqBysygV2hbcH5"
     },
     {
       "album": {
@@ -1089,7 +1143,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 162070,
       "name": "R U That (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4G9ASa9c5scdal2puHntMR"
@@ -1235,6 +1289,24 @@
       "duration_ms": 172248,
       "name": "Sl*t Him Out",
       "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
+    },
+    {
+      "album": {
+        "name": "Slim Waist",
+        "url": "https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "Slim Waist",
+      "url": "https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Classic Artists New Music](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
-> Icons only\. Cover: Bryan Adams
+> Icons only\. Cover: Tears for Fears
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI) | 4:07 | 2022-01-14 | 2022-02-12 |
 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 | 2022-02-11 |  |
 | [Brand New Day](https://open.spotify.com/track/10j6yneyjo8szVHBij2nVm) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Brand New Day](https://open.spotify.com/album/345VHvecrNrNs7SWlTJqPj) | 3:56 | 2021-10-22 |  |
-| [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 | 2022-01-14 |  |
+| [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 | 2022-01-14 | 2022-02-26 |
 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 | 2021-10-22 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 |  |
+| [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 | 2022-02-25 |  |
 | [Every One of Us](https://open.spotify.com/track/6SkgB0rRsGB0ZkSGkPWaOW) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt), [The Unsung Heroes](https://open.spotify.com/artist/0Hj4TOkvfWyweKo7lIipSg) | [Every One of Us](https://open.spotify.com/album/3Z08OEw7y50bZNAbapjP8B) | 3:25 | 2021-10-22 |  |
 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 | 2021-10-22 |  |
 | [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 | 2021-10-22 |  |
@@ -36,7 +37,7 @@
 | [Mr Haze](https://open.spotify.com/track/7G5WlOGP22EwQjb50il1ZZ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Hi \(Deluxe\)](https://open.spotify.com/album/3vSFoYoiYD8ir8VYaGx6Vn) | 3:39 | 2021-10-22 |  |
 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-28 |  |
 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 | 2021-10-22 |  |
-| [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2021-12-03 |  |
+| [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2021-12-03 | 2022-02-26 |
 | [One Hell Of A Life](https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7) | 5:23 | 2021-12-03 |  |
 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 | 2021-10-29 |  |
 | [One More Time](https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [One More Time](https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y) | 3:58 | 2021-10-22 |  |
@@ -46,6 +47,7 @@
 | [Scream](https://open.spotify.com/track/1X8eckB81MHBEcixZkvJW9) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 2:11 | 2021-10-22 | 2022-02-12 |
 | [Show Them The Way](https://open.spotify.com/track/39K8KN3Jl5uLz2ykGsNflf) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Show Them The Way](https://open.spotify.com/album/2o90fgeg8x1NNc6TxhduLq) | 6:31 | 2021-10-22 |  |
 | [So Happy It Hurts](https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K) | 3:35 | 2021-10-22 |  |
+| [Something More](https://open.spotify.com/track/78iDUyTI0by4QFEhvLFlQT) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Something More](https://open.spotify.com/album/5vBvJNtpYPXYyPRKZSE54n) | 3:33 | 2022-02-25 |  |
 | [Superwoman](https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/0ltGYHMBZivXbYkjbxyeVV) | 3:41 | 2021-10-22 |  |
 | [Thank You For Waiting \(For Me\)](https://open.spotify.com/track/5Rrv0TThpkqB2U4UskRnt2) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 4:53 | 2021-10-22 |  |
 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 | 2021-10-22 |  |

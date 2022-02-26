@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 190217,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/2v0gJT1kDcuZEWe3fFw2BM"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 203395,
       "name": "All Around The World (feat. Bryn Christopher)",
       "url": "https://open.spotify.com/track/1oW9LQ9KyFZ6rihgDbn14z"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 251906,
       "name": "Clearly",
       "url": "https://open.spotify.com/track/5XBqGcLYOZi8CEW83Ug7Fs"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 217687,
       "name": "Free To Go",
       "url": "https://open.spotify.com/track/172BxPrgDzSgLzFK6jfGpz"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 183481,
       "name": "Give 'n' Take",
       "url": "https://open.spotify.com/track/5N5eDeqI0bRGUMPB1aEczU"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 246520,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 188050,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/3DjTPYpKXu20hmrmnT4iqd"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 168823,
       "name": "How Did I Find You",
       "url": "https://open.spotify.com/track/7dhh5MGe898uMm7TrCUvwj"
@@ -1797,7 +1797,7 @@
       },
       "artists": [
         {
-          "name": "M\u00f6we",
+          "name": "M\u00d6WE",
           "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
         }
       ],
@@ -2442,6 +2442,32 @@
     },
     {
       "album": {
+        "name": "Picnic In The Park",
+        "url": "https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB"
+      },
+      "artists": [
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Chocoholic",
+          "url": "https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177073,
+      "name": "Picnic In The Park",
+      "url": "https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746"
+    },
+    {
+      "album": {
         "name": "A Different Beat",
         "url": "https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj"
       },
@@ -2453,7 +2479,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
@@ -2657,7 +2683,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 242009,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/34fPoV7ITqe8hPZNKBXTfd"
@@ -2937,7 +2963,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 194323,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/6DlxVlOMWDG71sNyaJtmTy"
@@ -3421,7 +3447,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 208595,
       "name": "What If I? (The Grocery Store Song)",
       "url": "https://open.spotify.com/track/6P36aEYl4HwrDeEefZIGAF"
@@ -3685,7 +3711,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 210000,
       "name": "Yung Luv",
       "url": "https://open.spotify.com/track/4Xx4oojaE3MlJKpgtilgp1"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Jack Harlow and Gunna.",
+  "description": "New music from Kodak Black and Lil Durk. ",
   "name": "RapCaviar",
   "published_playlist_ids": [
     "5P8tKmuueRelbQ17C8xRQo"
@@ -3673,7 +3673,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 194050,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
@@ -9494,6 +9494,24 @@
     },
     {
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/3ov6J7XhPyxpGSrYjL5cZl"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/5c5jh86Kat4XkgycuKsDqp"
+    },
+    {
+      "album": {
         "name": "ERYS (Deluxe)",
         "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58"
       },
@@ -10273,6 +10291,24 @@
       "duration_ms": 169696,
       "name": "Keeper (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5b2CRPYt0QNA0jaCJNIIdn"
+    },
+    {
+      "album": {
+        "name": "Straight Back To It",
+        "url": "https://open.spotify.com/album/3FWN0P76YHiCIKqK0Nw0Ji"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198782,
+      "name": "Khabib",
+      "url": "https://open.spotify.com/track/55wjPy1tWmBFyVVtYrGl9a"
     },
     {
       "album": {
@@ -16343,7 +16379,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 148687,
       "name": "Retaliation",
       "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"

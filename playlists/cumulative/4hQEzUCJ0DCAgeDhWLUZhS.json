@@ -3634,6 +3634,24 @@
     },
     {
       "album": {
+        "name": "Sex Magik",
+        "url": "https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206274,
+      "name": "Sex Magik",
+      "url": "https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7"
+    },
+    {
+      "album": {
         "name": "Shadowland",
         "url": "https://open.spotify.com/album/5scdC0iQINKXXSwqwHTyVi"
       },

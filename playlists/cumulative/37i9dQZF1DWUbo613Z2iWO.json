@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-24",
   "description": "Make room for these R&B/Soul artists on the rise! Photo: Mahalia.",
   "name": "The Newness",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4ueLTB3jzF1gxFZXFoisSk"
+  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +109,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 177914,
       "name": "Bling Up",
       "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
@@ -172,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Complicated (Remastered)",
+        "url": "https://open.spotify.com/album/2GAUJEqmLi9MhHp0EiX3mO"
+      },
+      "artists": [
+        {
+          "name": "Raiche",
+          "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195967,
+      "name": "Complicated - Remastered",
+      "url": "https://open.spotify.com/track/1tW9w4AJjqNqVJZ2CkC83g"
+    },
+    {
+      "album": {
         "name": "Still FWM",
         "url": "https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO"
       },
@@ -223,7 +243,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 166293,
       "name": "Ease My Mind (Come Over)",
       "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
@@ -379,10 +399,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 170880,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1LyHrn75GOF559UF4MNNnv"
+    },
+    {
+      "album": {
+        "name": "Grown",
+        "url": "https://open.spotify.com/album/6R6dEkUpLr7wUuYBKpUpxy"
+      },
+      "artists": [
+        {
+          "name": "Brahny",
+          "url": "https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196880,
+      "name": "Grown",
+      "url": "https://open.spotify.com/track/1ThVOUDQwQsgeSdoxrkPGc"
     },
     {
       "album": {
@@ -455,7 +493,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 201060,
       "name": "It's About A Girl",
       "url": "https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd"
@@ -480,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Glass Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/66Ll7oWTbdIqxWyo1TkiQG"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/5GxeSssLNXPoD4uJYxHQBL"
+    },
+    {
+      "album": {
         "name": "Sis. He wasn't the one",
         "url": "https://open.spotify.com/album/5YevC69TIurE8iNXuEH4U3"
       },
@@ -495,7 +551,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 182527,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2UPZsKorPS5xSr4BRhOxny"
@@ -517,6 +573,28 @@
       "duration_ms": 134626,
       "name": "Letter To Ur Ex",
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
+    },
+    {
+      "album": {
+        "name": "Louie Bag (feat. Smino)",
+        "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227756,
+      "name": "Louie Bag (feat. Smino)",
+      "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
     },
     {
       "album": {
@@ -793,7 +871,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 227673,
       "name": "Slow Down (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
@@ -837,6 +915,24 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS"
+    },
+    {
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/136E0FzmsWqfjBbiT29CMW"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw"
     },
     {
       "album": {
@@ -895,6 +991,24 @@
       "duration_ms": 262210,
       "name": "SUPERFINE",
       "url": "https://open.spotify.com/track/3I18yc91YWnLAMTQSS4SiE"
+    },
+    {
+      "album": {
+        "name": "Suppress (Original)",
+        "url": "https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Suppress",
+      "url": "https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX"
     },
     {
       "album": {

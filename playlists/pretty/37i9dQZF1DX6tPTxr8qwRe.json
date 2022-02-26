@@ -1,13 +1,81 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Tessa Violet",
-  "num_followers": 250522,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Nessa Barrett",
+  "num_followers": 250814,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQ2MCwwMDAwMDA3ODAwMDAwMTdmMGIzNDZmNzgwMDAwMDE3ZjAxMDFiNDM2",
+  "snapshot_id": "MTY0NTc2NTIwMCwwMDAwMDA3OTAwMDAwMTdmMmY0MDA5NTMwMDAwMDE3ZjI4YzIwMTFi",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "dying on the inside",
+        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 204847,
+      "name": "dying on the inside",
+      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "duration_ms": 153222,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "FU In My Head",
+        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "BOO HOO",
+        "url": "https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        },
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "duration_ms": 170502,
+      "name": "BOO HOO",
+      "url": "https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK"
+    },
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
@@ -23,6 +91,70 @@
       "duration_ms": 162360,
       "name": "YES MOM",
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Moderation",
+        "url": "https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Moderation",
+      "url": "https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Inside (Deluxe)",
+        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Hayloft II",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 159651,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Mean Girls",
+        "url": "https://open.spotify.com/album/0L0C2pdLE0gfdtXdivLbWd"
+      },
+      "artists": [
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Mean Girls",
+      "url": "https://open.spotify.com/track/1ACbgqWv4OYTqd3BBYVLVF"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -41,20 +173,36 @@
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
-      "added_at": "2022-02-04 05:01:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "FU In My Head",
-        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+        "name": "Make A Wish",
+        "url": "https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp"
       },
       "artists": [
         {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+          "name": "Julietta",
+          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
         }
       ],
-      "duration_ms": 167248,
-      "name": "FU In My Head",
-      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+      "duration_ms": 158918,
+      "name": "Make A Wish",
+      "url": "https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Allergic",
+        "url": "https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g"
+      },
+      "artists": [
+        {
+          "name": "HAVEN",
+          "url": "https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Allergic",
+      "url": "https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -77,68 +225,20 @@
       "url": "https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz"
     },
     {
-      "added_at": "2022-02-04 05:01:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Allergic",
-        "url": "https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g"
+        "name": "side effects of being human",
+        "url": "https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8"
       },
       "artists": [
         {
-          "name": "HAVEN",
-          "url": "https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd"
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
         }
       ],
-      "duration_ms": 144782,
-      "name": "Allergic",
-      "url": "https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc"
-      },
-      "artists": [
-        {
-          "name": "Elle Lexxa",
-          "url": "https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "Liquorice",
-      "url": "https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Inside (Deluxe)",
-        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Hayloft II",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Black Hole Friend",
-        "url": "https://open.spotify.com/album/1a6I3qRj7ojopif2jXoXEV"
-      },
-      "artists": [
-        {
-          "name": "Chymes",
-          "url": "https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4"
-        }
-      ],
-      "duration_ms": 139121,
-      "name": "Black Hole Friend",
-      "url": "https://open.spotify.com/track/78irBGVYCFS8UeuEjatKzR"
+      "duration_ms": 132000,
+      "name": "almost 20",
+      "url": "https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -157,52 +257,40 @@
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "ur just horny",
-        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 178256,
-      "name": "ur just horny",
-      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
-    },
-    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Read The Room",
-        "url": "https://open.spotify.com/album/66hA0bftjpanygAoCYZhou"
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc"
       },
       "artists": [
         {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+          "name": "Elle Lexxa",
+          "url": "https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve"
         }
       ],
-      "duration_ms": 166711,
-      "name": "Read The Room",
-      "url": "https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p"
+      "duration_ms": 142018,
+      "name": "Liquorice",
+      "url": "https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j"
     },
     {
-      "added_at": "2022-01-07 05:00:00",
+      "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy"
+        "name": "GAY 4 ME (feat. Lauren Sanderson)",
+        "url": "https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu"
       },
       "artists": [
         {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 187831,
-      "name": "rapunzel",
-      "url": "https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl"
+      "duration_ms": 174739,
+      "name": "GAY 4 ME (feat. Lauren Sanderson)",
+      "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -223,6 +311,86 @@
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Black Hole Friend",
+        "url": "https://open.spotify.com/album/1a6I3qRj7ojopif2jXoXEV"
+      },
+      "artists": [
+        {
+          "name": "Chymes",
+          "url": "https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4"
+        }
+      ],
+      "duration_ms": 139121,
+      "name": "Black Hole Friend",
+      "url": "https://open.spotify.com/track/78irBGVYCFS8UeuEjatKzR"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 187831,
+      "name": "rapunzel",
+      "url": "https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "ur just horny",
+        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 178256,
+      "name": "ur just horny",
+      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "FCKN IN LOVE",
+        "url": "https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9"
+      },
+      "artists": [
+        {
+          "name": "Fefe Dobson",
+          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
+        }
+      ],
+      "duration_ms": 194419,
+      "name": "FCKN IN LOVE",
+      "url": "https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Read The Room",
+        "url": "https://open.spotify.com/album/66hA0bftjpanygAoCYZhou"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "duration_ms": 166711,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -271,6 +439,22 @@
       "duration_ms": 160000,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/5o6XukezQCeF9aLPyS1jOz"
+    },
+    {
+      "added_at": "2022-01-14 17:52:12",
+      "album": {
+        "name": "Kind of Love",
+        "url": "https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Kind of Love",
+      "url": "https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -339,22 +523,6 @@
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2022-02-07 06:01:07",
-      "album": {
-        "name": "SAOKO",
-        "url": "https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -471,22 +639,6 @@
       "duration_ms": 152033,
       "name": "SUCKER4PAIN",
       "url": "https://open.spotify.com/track/5pZdqQTXSH5A1tLYg3JiPw"
-    },
-    {
-      "added_at": "2022-01-14 17:52:12",
-      "album": {
-        "name": "Kind of Love",
-        "url": "https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Kind of Love",
-      "url": "https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1183,22 +1335,6 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR"
-    },
-    {
-      "added_at": "2022-01-14 17:52:12",
-      "album": {
-        "name": "LEVITATE",
-        "url": "https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 183274,
-      "name": "LEVITATE",
-      "url": "https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736"
     },
     {
       "added_at": "2021-12-17 05:01:00",

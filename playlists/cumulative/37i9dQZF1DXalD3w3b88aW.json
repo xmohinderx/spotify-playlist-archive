@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-24",
   "description": "The emotional interludes we wish were longer.",
   "name": "Mood Swing",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1WgjuGPGPoZVKEll7oH1Vz"
+  ],
   "tracks": [
     {
       "album": {
@@ -623,7 +625,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 42693,
       "name": "Intermission-lude",
       "url": "https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj"
@@ -807,7 +809,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 120933,
       "name": "Never Felt This Way",
       "url": "https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke"

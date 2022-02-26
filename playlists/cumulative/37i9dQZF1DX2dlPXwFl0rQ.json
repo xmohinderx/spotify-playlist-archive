@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
+  "description": "Estas son las indomables del Regional Mexicano. Erika Vidrio & Diana Reyes en portada.",
   "name": "Mujeres Brav\u00edas",
   "published_playlist_ids": [
     "0i8T7w20lOXAWefxMbsjZ0"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 267666,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/4drGRFC2Y197G9ZUty4wgW"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 145962,
       "name": "Amanecidas",
       "url": "https://open.spotify.com/track/0x5tlzZojby71L614PGzvo"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 195500,
       "name": "Amor De Unos Botes",
       "url": "https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 219941,
       "name": "Borracha De Amor",
       "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 163960,
       "name": "Cada Quien Su Gusto",
       "url": "https://open.spotify.com/track/6lyembOsPmVy52cfCj8nO8"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 158778,
       "name": "Cheque En Blanco",
       "url": "https://open.spotify.com/track/4JNtuFkaKrJrxi9Grof8DK"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 186569,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/7LvUCgGPYADdVng9zLINs3"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 181813,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf"
@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Cuando Me Importabas",
+        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192913,
+      "name": "Cuando Me Importabas",
+      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
+    },
+    {
+      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -573,6 +591,28 @@
       "duration_ms": 166066,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh"
+    },
+    {
+      "album": {
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/0ThunE3MLebOEpHB76UtP3"
+      },
+      "artists": [
+        {
+          "name": "Karina Sofia",
+          "url": "https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH"
+        },
+        {
+          "name": "Eduardo Perez",
+          "url": "https://open.spotify.com/artist/2VJLOaGQ35FZnSBWs5sWlr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214021,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/6NbmwBCJd1K9GBu4kE0sOy"
     },
     {
       "album": {
@@ -641,7 +681,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 185070,
       "name": "El \u00daltimo Trago",
       "url": "https://open.spotify.com/track/4FfxvqOOvnMTohiuI97IOr"
@@ -789,7 +829,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 186245,
       "name": "Estan Lloviendo Lagrimas",
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
@@ -897,7 +937,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 192827,
       "name": "Hoy Dame el Gusto",
       "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
@@ -1009,7 +1049,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 247706,
       "name": "Jab\u00f3n De Olor",
       "url": "https://open.spotify.com/track/1Bqux8vSIgwoRycpC0eLcV"
@@ -1027,7 +1067,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 170155,
       "name": "La Cama No Miente",
       "url": "https://open.spotify.com/track/4ULKICvxhUw4gQmTQX8r7e"
@@ -1227,7 +1267,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 220427,
       "name": "Lo Mal Que Me Trataste",
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
@@ -1245,7 +1285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 195140,
       "name": "Los Besos Jam\u00e1s",
       "url": "https://open.spotify.com/track/0bZQ9HbhGjMYvs1lvjEDYA"
@@ -1285,7 +1325,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 166933,
       "name": "Mala Racha",
       "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
@@ -1307,6 +1347,24 @@
       "duration_ms": 196819,
       "name": "Malas Noticias",
       "url": "https://open.spotify.com/track/0w0f5plxeyfRx8neIHAFOQ"
+    },
+    {
+      "album": {
+        "name": "Maldito",
+        "url": "https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG"
     },
     {
       "album": {
@@ -1339,10 +1397,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 144621,
       "name": "Mas Cabrona Que Bonita",
       "url": "https://open.spotify.com/track/47qaLsUxBVX56IgAV2fn6F"
+    },
+    {
+      "album": {
+        "name": "Me Sacudo y Me Levanto",
+        "url": "https://open.spotify.com/album/5b55LGRHrmVcCqWxAOdjVj"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199953,
+      "name": "Me Sacudo y Me Levanto",
+      "url": "https://open.spotify.com/track/313y55UYQyxu7ej9ApU8Oy"
     },
     {
       "album": {
@@ -1357,7 +1437,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 183946,
       "name": "Me Termin\u00e9 Enamorando",
       "url": "https://open.spotify.com/track/47vgK6LmWhBnfku8IywMm1"
@@ -1505,7 +1585,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 182533,
       "name": "Mi Gordito",
       "url": "https://open.spotify.com/track/53pTfNmLBdciGhUPX8ziTc"
@@ -1617,7 +1697,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 151320,
       "name": "No Cualquiera",
       "url": "https://open.spotify.com/track/4Vz4r4bWkhkgQUjhs6huhM"
@@ -1689,7 +1769,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 182280,
       "name": "No Lo Vi Venir",
       "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"
@@ -1707,7 +1787,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 174671,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
@@ -1797,10 +1877,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 263546,
       "name": "Nos Equivocamos",
       "url": "https://open.spotify.com/track/3VWXZ8sDfUqviwRdK7NoBx"
+    },
+    {
+      "album": {
+        "name": "No Le Lloro A Cabrones",
+        "url": "https://open.spotify.com/album/1yb6Tix7xyNRTrWOqEGgqc"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Ojal\u00e1 Que No Puedas",
+      "url": "https://open.spotify.com/track/2KtO9NfY8sY3gJyEKdUhFr"
     },
     {
       "album": {
@@ -1833,7 +1931,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 172013,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
@@ -2029,7 +2127,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 194604,
       "name": "Por Ti Me Abrazar\u00e9",
       "url": "https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp"
@@ -2159,7 +2257,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 196440,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
@@ -2405,7 +2503,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
@@ -2647,7 +2745,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 191542,
       "name": "Un D\u00eda 27",
       "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
@@ -2683,7 +2781,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 175105,
       "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
       "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"

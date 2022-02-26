@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Starlight Passage",
+        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
+      },
+      "artists": [
+        {
+          "name": "Starlight Passage",
+          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148301,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
+    },
+    {
+      "album": {
         "name": "Slowdonia EP",
         "url": "https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s"
       },
@@ -1025,6 +1043,24 @@
       "duration_ms": 184318,
       "name": "Centasphere",
       "url": "https://open.spotify.com/track/66moRq1v80qKGkwxuPwUYM"
+    },
+    {
+      "album": {
+        "name": "Change Of Tides",
+        "url": "https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53"
+      },
+      "artists": [
+        {
+          "name": "Stories Seldom Told",
+          "url": "https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Change Of Tides",
+      "url": "https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE"
     },
     {
       "album": {

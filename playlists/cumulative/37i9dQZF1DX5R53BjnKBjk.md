@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Amanhecer](https://open.spotify.com/track/6pLe3v36K2JZQ83g5Tzqpf) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/0935Xbp9VAkdEFCHXIMGGu) | 4:23 | 2022-01-07 |  |
+| [Amanhecer](https://open.spotify.com/track/6pLe3v36K2JZQ83g5Tzqpf) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/0935Xbp9VAkdEFCHXIMGGu) | 4:23 | 2022-01-07 | 2022-02-26 |
 | [Antes e Agora](https://open.spotify.com/track/0ixvkDEjhg6Qgxnm5vx1pk) | [Vintilamor](https://open.spotify.com/artist/7b063540QilA3bvw6qehet) | [Antes e Agora](https://open.spotify.com/album/2Db82NFqE0UYpFajdRUwEi) | 2:55 | 2022-01-07 |  |
 | [Apetite](https://open.spotify.com/track/5ahZdgNIccEiKU1wmUJT45) | [Marina Miglio](https://open.spotify.com/artist/5OS4BFYXloJYiNnyqYK6bH) | [Apetite](https://open.spotify.com/album/7En7KqiCwS09bCfvBaPwMG) | 3:06 | 2022-01-07 |  |
 | [Arengueiro](https://open.spotify.com/track/1eqCDSXJWFfJubteuPmBoa) | [dias blue](https://open.spotify.com/artist/6PwQl6FYCZ6vIiMCOu1rxu) | [Arengueiro](https://open.spotify.com/album/4ssl923wnEWMnOyQg8FCeT) | 3:40 | 2022-01-07 |  |
@@ -29,6 +29,7 @@
 | [Diga\-me](https://open.spotify.com/track/1NuJEGUFkcygXNjcSMcbdP) | [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Salamanka](https://open.spotify.com/artist/0TpzpzpahCAoko5pXwQAYA), [Tainã Troccoli](https://open.spotify.com/artist/41AuzbTV7cdahoooXbRlRc) | [Diga\-me](https://open.spotify.com/album/6NrL8zeO6CKcwdFnC2ooS0) | 3:19 | 2022-01-07 |  |
 | [Espectro do Tempo](https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO) | [Inês é Morta](https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG) | [Espectro do Tempo](https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S) | 4:33 | 2022-01-07 |  |
 | [Eu Não Aceito](https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD) | [THAIIS](https://open.spotify.com/artist/6rk3l4BH83MMtX4snVTZM7) | [Eu Não Aceito](https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg) | 3:04 | 2022-01-07 |  |
+| [faking it](https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [faking it](https://open.spotify.com/album/6jrsAhgiUnsXTVxYeHpSLN) | 2:31 | 2022-02-25 |  |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:16 | 2022-02-04 |  |
 | [Florianópolis](https://open.spotify.com/track/4cyzdFwju6h0gXmxSDb2gk) | [Tuany](https://open.spotify.com/artist/2Duysb9mqQW8ds4D0F6Knb) | [Longe Daqui](https://open.spotify.com/album/4TMd5W0fAfdYAwWB4lEHqi) | 4:04 | 2022-01-07 |  |
 | [Fuga](https://open.spotify.com/track/2fsUMYtYOVfZbTqMw0bpOC) | [Karla](https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck) | [Fuga](https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1) | 3:36 | 2022-01-14 |  |

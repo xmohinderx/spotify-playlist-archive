@@ -1,15 +1,15 @@
 {
   "description": "La scena italiana indipendente, senza etichette di genere. Cover: Arssalendo",
-  "num_followers": 3271,
+  "num_followers": 3281,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc0MzY2MCwwMDAwMDA0MjAwMDAwMTdmMmRmNzVjNjAwMDAwMDE3ZjA4NGUxZTZm",
+  "snapshot_id": "MTY0NTc5OTYzMSwwMDAwMDA0NDAwMDAwMTdmMzE0ZDZhYWIwMDAwMDE3ZjA4NGUxZTZm",
   "tracks": [
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Dentro c'\u00e8 il mare",
         "url": "https://open.spotify.com/album/5aEK5V4zFWxBAvLUbmgbFz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2tv7NEqYF2SwlJrgfuaWYx"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Vorrei Che Fosse Odio",
         "url": "https://open.spotify.com/album/1L8Ti5F6cv65EZ1fAmxHQX"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4HUROdvXWBTlGmklebPYwY"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "WAXTAPE: I\u00b0 Movimento",
         "url": "https://open.spotify.com/album/6L2C2usmO2lUMeyn5oODia"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7FTRmUthoMgAWpwUiDb1X8"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "2am",
         "url": "https://open.spotify.com/album/4HTzRHG6Q3JHr5r8yO80Ia"
@@ -73,7 +73,27 @@
       "url": "https://open.spotify.com/track/7nHB2O8UFMODCklpaEQ0K0"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
+      "album": {
+        "name": "NEMICO PUBBLICO",
+        "url": "https://open.spotify.com/album/2KNOrtZwOgmjEEatVfc7wg"
+      },
+      "artists": [
+        {
+          "name": "Noire",
+          "url": "https://open.spotify.com/artist/1LuNkE456QWnj7JquZ2khG"
+        },
+        {
+          "name": "Golfy",
+          "url": "https://open.spotify.com/artist/70HOnCnxvR4AvFtCFpWhm9"
+        }
+      ],
+      "duration_ms": 213284,
+      "name": "NEMICO PUBBLICO",
+      "url": "https://open.spotify.com/track/2CxTnx4oMR9085kEpCrTKU"
+    },
+    {
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/3dLLEeVAfEE1JzS4BM7F4q"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/583K03BHY3GF6BgVgERG8f"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Foot Forward",
         "url": "https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "X4",
         "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
@@ -121,27 +141,39 @@
       "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
-        "name": "Mi Perdo",
-        "url": "https://open.spotify.com/album/5hSSGeYtTsU2nfqAcs6glW"
+        "name": "Sciura Milanese",
+        "url": "https://open.spotify.com/album/1ITICNjOqSkSVOngl30Xmh"
       },
       "artists": [
         {
-          "name": "Foreverboymush",
-          "url": "https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE"
-        },
-        {
-          "name": "natimernero!",
-          "url": "https://open.spotify.com/artist/6WVxJVBY4poIPr4JJC964i"
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Mi Perdo",
-      "url": "https://open.spotify.com/track/5d0VQD4SXszYet33J7aMlk"
+      "duration_ms": 190698,
+      "name": "Sciura Milanese",
+      "url": "https://open.spotify.com/track/5sdqPOejvlS6P9qI7BfqrA"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
+      "album": {
+        "name": "Mostri",
+        "url": "https://open.spotify.com/album/2hSbpU4BfzMnFAxQTZftSY"
+      },
+      "artists": [
+        {
+          "name": "Letizya",
+          "url": "https://open.spotify.com/artist/0SGqPFl7AJj1wopvJltvdv"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Mostri",
+      "url": "https://open.spotify.com/track/7kLdAM0vmvZhsx9nZb6ePk"
+    },
+    {
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "RICCI",
         "url": "https://open.spotify.com/album/2VuqUJSDkuiip9Z5QEjsKk"
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/5t7YErUpV2VUm2xNHJlx5Z"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "MOSTRO",
         "url": "https://open.spotify.com/album/3NcqQNX1QU5AxVND7PlLnQ"
@@ -181,7 +213,23 @@
       "url": "https://open.spotify.com/track/7pXmuWWUgO44XxDe2B5DUZ"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
+      "album": {
+        "name": "tutto il resto",
+        "url": "https://open.spotify.com/album/0kTmlD0hQ9evTPk0tr3nn9"
+      },
+      "artists": [
+        {
+          "name": "grungelo",
+          "url": "https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "tutto il resto",
+      "url": "https://open.spotify.com/track/4KH4ljdbGfdEViO6AnAdZQ"
+    },
+    {
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "FILM AMERICANI",
         "url": "https://open.spotify.com/album/7FcApNMMQVhwRluJTLGNiR"
@@ -197,23 +245,43 @@
       "url": "https://open.spotify.com/track/3D6INHioHKzzzL8wdIJ963"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
-        "name": "Sciura Milanese",
-        "url": "https://open.spotify.com/album/1ITICNjOqSkSVOngl30Xmh"
+        "name": "Mi Perdo",
+        "url": "https://open.spotify.com/album/5hSSGeYtTsU2nfqAcs6glW"
       },
       "artists": [
         {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+          "name": "Foreverboymush",
+          "url": "https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE"
+        },
+        {
+          "name": "natimernero!",
+          "url": "https://open.spotify.com/artist/6WVxJVBY4poIPr4JJC964i"
         }
       ],
-      "duration_ms": 190698,
-      "name": "Sciura Milanese",
-      "url": "https://open.spotify.com/track/5sdqPOejvlS6P9qI7BfqrA"
+      "duration_ms": 168000,
+      "name": "Mi Perdo",
+      "url": "https://open.spotify.com/track/5d0VQD4SXszYet33J7aMlk"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
+      "album": {
+        "name": "Premi Play",
+        "url": "https://open.spotify.com/album/4McxEPqiG19gjFGlpxXY62"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Neve",
+          "url": "https://open.spotify.com/artist/5EZhdYH1kaoL7mUQe9U7LA"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "PREMI PLAY",
+      "url": "https://open.spotify.com/track/3X1l6zRsguD3Fiiw9Aa1Be"
+    },
+    {
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Kuni",
         "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
@@ -229,7 +297,23 @@
       "url": "https://open.spotify.com/track/7tzxOWVf9ibdVSbIAYVJUr"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
+      "album": {
+        "name": "Kids are electric",
+        "url": "https://open.spotify.com/album/0toWLZlewVkUCZA6vz1pV7"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/1DA9Pygk9iFWJVYzVPmuUj"
+    },
+    {
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Sij Sto Buono",
         "url": "https://open.spotify.com/album/0NGbN4e6LltnZ8e7xwYW9F"
@@ -245,7 +329,7 @@
       "url": "https://open.spotify.com/track/6Xcvp1hX9ptUlU4cRLbUjV"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Depressi",
         "url": "https://open.spotify.com/album/0avgzKVzqjR8LPjFzQ2ova"
@@ -265,55 +349,7 @@
       "url": "https://open.spotify.com/track/7H1Wg9UZrHykhscdOlJmZq"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "monet",
-        "url": "https://open.spotify.com/album/5Xb58mMTE45imhKCM67ubv"
-      },
-      "artists": [
-        {
-          "name": "grungelo",
-          "url": "https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "monet",
-      "url": "https://open.spotify.com/track/4eEky5qm6cK5PImsAjxUv8"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "FNF",
-        "url": "https://open.spotify.com/album/74IL2CXgDQeTrGaoAIysoK"
-      },
-      "artists": [
-        {
-          "name": "Yasmina",
-          "url": "https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "FNF",
-      "url": "https://open.spotify.com/track/5LdH54qTjVMmQlZbOR6dhr"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "Senti",
-        "url": "https://open.spotify.com/album/5oyLe4c1prFyOBc3PQAKYZ"
-      },
-      "artists": [
-        {
-          "name": "NAVA",
-          "url": "https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R"
-        }
-      ],
-      "duration_ms": 173497,
-      "name": "Senti",
-      "url": "https://open.spotify.com/track/0t85kk0s8cAiay0Zb5S0jh"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "4 SU 4",
         "url": "https://open.spotify.com/album/4V8nzdCFJnS5p5FYfZQfaF"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/5uru01hwqZY2v2mu3eMMmU"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Sad Movida",
         "url": "https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "NON TORNO + INDIETRO",
         "url": "https://open.spotify.com/album/3U138Lx2pacyQfOlib1Rvc"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/7KGLXBqsrWV8BSENQSHmau"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Roma&Milano",
         "url": "https://open.spotify.com/album/2H4fq1mHOupRy9okiFfCqz"
@@ -381,7 +417,7 @@
       "url": "https://open.spotify.com/track/3Blp71EcoRUPgE2NqLB5ta"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Spunta Blu",
         "url": "https://open.spotify.com/album/3YeeLx8JiL85Y9HyGxikVq"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/40ifRw1z1s0gPZmiPkFYgc"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Spero di Star Male",
         "url": "https://open.spotify.com/album/16bT7x95aKRXsjyrQ8iFBB"
@@ -413,7 +449,7 @@
       "url": "https://open.spotify.com/track/2QRuIq2NGKUCyLAizWcMrj"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "SIAMO RAGAZZU",
         "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Noia",
         "url": "https://open.spotify.com/album/4hLbwV7dLUnizmWCR83rSk"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/0z0yhn5LrYtWfVBAhK8ovm"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "TACHIPIRINA",
         "url": "https://open.spotify.com/album/3BVeauYVPDnelvCAUIiGGT"
@@ -473,7 +509,7 @@
       "url": "https://open.spotify.com/track/1x17TC92uRtiKvmJUA83pw"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Kubrick a gela",
         "url": "https://open.spotify.com/album/6uvUq8eIrPfa7N6AUdTRVH"
@@ -493,27 +529,7 @@
       "url": "https://open.spotify.com/track/0CyeNX6CdmlR52K2SMKUAa"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "Salice",
-        "url": "https://open.spotify.com/album/1KETHPt4P9yeJwQLnw7bkK"
-      },
-      "artists": [
-        {
-          "name": "Alice",
-          "url": "https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk"
-        },
-        {
-          "name": "Altea",
-          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Salice",
-      "url": "https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "TIK TOK",
         "url": "https://open.spotify.com/album/4PnRlQHLqIRIEnZ60TaxcB"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/2CU6hINQcXZMSbDxqNx4e3"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4CxIQ6IzOip0BgonGRs5Jg"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/0aCXgc8vMDXnbA1HXSHJjN"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Coastal",
         "url": "https://open.spotify.com/album/1jcbSFBD1tEXYfIqtcp2Pi"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/499iMmA9adQFojnWynrU2r"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Quando",
         "url": "https://open.spotify.com/album/2adLcYLHWnXTAFgVlAq5I1"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/74ksYBVr5TRuWOcfiv9yk9"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "FUTURO3",
         "url": "https://open.spotify.com/album/3883plODFEQ6pDJEQu6oJ0"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/4OwBb9qYw9zULd8IE1spnr"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "WA MA",
         "url": "https://open.spotify.com/album/0peqmjQqsaInLlPOMsrdvW"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/1JVcz6FDGNIXMbRiLHJb7o"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Tu Sei (feat. Masamasa)",
         "url": "https://open.spotify.com/album/7z6RfYhDrbDuCCGDEqMyvC"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/1TCTy62QZffhcBkImGRs7l"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "NEVADA",
         "url": "https://open.spotify.com/album/4XQ9SEbz9V0UHbQwQg3zGw"
@@ -653,23 +669,7 @@
       "url": "https://open.spotify.com/track/73B45b4tXShxsfQqZXwUUG"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "manifesti e immaginari sensibili",
-        "url": "https://open.spotify.com/album/3wsOpQI2L8V4kgFdSsGZZZ"
-      },
-      "artists": [
-        {
-          "name": "MIGLIO",
-          "url": "https://open.spotify.com/artist/3hlMj1IgrGj38QOpyDVSj6"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "autostrade",
-      "url": "https://open.spotify.com/track/3OwcSsogJ82GBwWRJiiz2L"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/5joDcRBcJ39guv4r5mqJEa"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/7excphdpqwL6l5vMMd0da4"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "SERIE TVB (feat. Caneda)",
         "url": "https://open.spotify.com/album/0dEYDYzvw2JypREklUHgg8"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/57s75yvz68X8dJhrrKOnna"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "goddamn",
         "url": "https://open.spotify.com/album/2VWCy3ui3OjSa6gqhxSHTR"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/3BLgoDnKegcilQMQvcCl1W"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Dimmi come fai",
         "url": "https://open.spotify.com/album/0y4h9INQaAM2V9qcyc04Ea"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/49F4jj7bITQolCO4Q5CxB0"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "tre del mattino",
         "url": "https://open.spotify.com/album/7lZqqQEAjinqJEfkuXZ7Ry"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/5JBJweytMZUsriXUWCXb6D"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Sale",
         "url": "https://open.spotify.com/album/51IFolaHwi1LoKzoGQHl2A"
@@ -785,27 +785,7 @@
       "url": "https://open.spotify.com/track/4TJA2Pc8fV87Uir23XEt00"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "astri",
-        "url": "https://open.spotify.com/album/334zRAnYHewvgONpvxyUk8"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Simoke",
-          "url": "https://open.spotify.com/artist/5flfXTDhxoQeENtwLVlLHt"
-        }
-      ],
-      "duration_ms": 180284,
-      "name": "astri",
-      "url": "https://open.spotify.com/track/5bdmR2sCheqRudAID6ahVp"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "DOGMA",
         "url": "https://open.spotify.com/album/2OKzoJrVAk3BeFCyHbYnv7"
@@ -825,23 +805,7 @@
       "url": "https://open.spotify.com/track/0hc2eM8xNeobLPlS4UFinw"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5a3wHiW0VvEM0r2vW0vyii"
-      },
-      "artists": [
-        {
-          "name": "Light d'Orange",
-          "url": "https://open.spotify.com/artist/2AaLRVvf4NdqmfKrZtwgPN"
-        }
-      ],
-      "duration_ms": 133542,
-      "name": "Tutto da prendere",
-      "url": "https://open.spotify.com/track/2xQxcqomBDMRjOMeENJ0Df"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Saturno / Macchine intelligenti",
         "url": "https://open.spotify.com/album/0tnld7S6Ew0VHSog7cPjD4"
@@ -857,7 +821,7 @@
       "url": "https://open.spotify.com/track/5no9sktP36a7LKjohrJ4XC"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Cenere",
         "url": "https://open.spotify.com/album/5wBHUSY3Oc6eytdfMWpbZT"
@@ -873,7 +837,7 @@
       "url": "https://open.spotify.com/track/4vGp3JRMvgReM7suaUphjn"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Discomoneta",
         "url": "https://open.spotify.com/album/5FzsFijou9m3iNCAxSdYMj"
@@ -897,39 +861,7 @@
       "url": "https://open.spotify.com/track/2qZdZw7wAo6URlj1j0edfJ"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "Non imparo mai",
-        "url": "https://open.spotify.com/album/7rKE1oS8ui351iS0y75EjJ"
-      },
-      "artists": [
-        {
-          "name": "Maura",
-          "url": "https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Non imparo mai",
-      "url": "https://open.spotify.com/track/4kfcMfRe0UuENCkO25EXgE"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "Cemento",
-        "url": "https://open.spotify.com/album/1crXKMxBTr3vTS6PmcH0v3"
-      },
-      "artists": [
-        {
-          "name": "Strebla",
-          "url": "https://open.spotify.com/artist/44w8rfovyQLiJeOJEFXM3m"
-        }
-      ],
-      "duration_ms": 303080,
-      "name": "Decapito",
-      "url": "https://open.spotify.com/track/3FUq8yo44HQTVzO64AffEf"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Ahmed",
         "url": "https://open.spotify.com/album/3Axokv5DEMeXWwkpMTvz4c"
@@ -945,23 +877,7 @@
       "url": "https://open.spotify.com/track/6NdGOuJv5GJrRJv8vBDdhk"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "Autumn Parade",
-        "url": "https://open.spotify.com/album/4ELh8wC094MgcV7L0mi7A1"
-      },
-      "artists": [
-        {
-          "name": "Planet Butter",
-          "url": "https://open.spotify.com/artist/5naixVJ23Qmj2CLO8W5AqG"
-        }
-      ],
-      "duration_ms": 225062,
-      "name": "Autumn Parade",
-      "url": "https://open.spotify.com/track/6rN0F0ZRbifcz43WHLuxwb"
-    },
-    {
-      "added_at": "2022-02-24 23:01:00",
+      "added_at": "2022-02-25 14:33:51",
       "album": {
         "name": "Ch.ills",
         "url": "https://open.spotify.com/album/35TDJaOMKi3g35WJjZ9vVL"

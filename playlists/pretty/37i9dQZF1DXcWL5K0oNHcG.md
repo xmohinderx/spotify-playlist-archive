@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Nathan\-Paul\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,912 likes - 102 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,958 likes - 102 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

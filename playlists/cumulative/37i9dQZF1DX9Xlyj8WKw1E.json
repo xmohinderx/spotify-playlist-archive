@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "AHHH HA",
+        "url": "https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186538,
+      "name": "AHHH HA",
+      "url": "https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp"
+    },
+    {
+      "album": {
         "name": "Vino Valentino",
         "url": "https://open.spotify.com/album/6VUwc3uOKpIwynTknkl4NO"
       },
@@ -284,6 +302,24 @@
     },
     {
       "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/66M1yxhYoJ0iT7k36rOpid"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134347,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4"
+    },
+    {
+      "album": {
         "name": "For One",
         "url": "https://open.spotify.com/album/2GJAMiQTR6PO3EOvRcr5Mt"
       },
@@ -313,7 +349,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 131018,
       "name": "Get My Way",
       "url": "https://open.spotify.com/track/6AJT1CZjVSZV72Mu3I8uwv"
@@ -469,7 +505,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 117054,
       "name": "Know Yo Place",
       "url": "https://open.spotify.com/track/55n1El8TPzXb2q9wi1CPkt"
@@ -513,6 +549,28 @@
       "duration_ms": 167500,
       "name": "Lemme See",
       "url": "https://open.spotify.com/track/1u4pvznoU57shxIRC1SCzE"
+    },
+    {
+      "album": {
+        "name": "CircoLoco Records & NEZ Present CLR 002",
+        "url": "https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166356,
+      "name": "Let's Get It",
+      "url": "https://open.spotify.com/track/1Lpl62qGlJaaojgGiJNVho"
     },
     {
       "album": {
@@ -837,7 +895,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 179252,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/0dWveOD00663ojF1djcg0I"
@@ -877,7 +935,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 146635,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/2PSFFWO59XLq7CK0m63lcS"
@@ -989,7 +1047,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 213472,
       "name": "Single For The Night",
       "url": "https://open.spotify.com/track/52xVPyGwuke1m6LZgQPWow"
@@ -1059,6 +1117,28 @@
       "duration_ms": 222830,
       "name": "Survivor's Guilt (feat. G Herbo)",
       "url": "https://open.spotify.com/track/1ZTOr7I40ziaQb1vvCM3Ar"
+    },
+    {
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201737,
+      "name": "Take You Back (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/1WrVBzjNuyDBqh0kXHFsCr"
     },
     {
       "album": {
@@ -1147,6 +1227,32 @@
       "duration_ms": 200486,
       "name": "Want It Bad (with Nigo)",
       "url": "https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA"
+    },
+    {
+      "album": {
+        "name": "What's Mine (feat. Mick Jenkins) [Remix]",
+        "url": "https://open.spotify.com/album/4H38sKAmyzTmA1qKfF6UL8"
+      },
+      "artists": [
+        {
+          "name": "Ridgio",
+          "url": "https://open.spotify.com/artist/5r8qfCuOo2mfyB5gxCq5jt"
+        },
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167926,
+      "name": "What's Mine (feat. Mick Jenkins) [Remix]",
+      "url": "https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe"
     },
     {
       "album": {

@@ -2040,6 +2040,24 @@
     },
     {
       "album": {
+        "name": "Taormina",
+        "url": "https://open.spotify.com/album/0J3DkSJheCCLgfQSyhdurt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "Love me again",
+      "url": "https://open.spotify.com/track/4Nt6VXEs0TiEVoLOHu6xkF"
+    },
+    {
+      "album": {
         "name": "Love Theme from Cinema Paradiso",
         "url": "https://open.spotify.com/album/2zTHgwYMoODuee24i4GPUH"
       },
@@ -2775,6 +2793,24 @@
       "duration_ms": 183902,
       "name": "Regenbogen",
       "url": "https://open.spotify.com/track/5vxJG9LhA0Og1hUrXYLkV7"
+    },
+    {
+      "album": {
+        "name": "Rest Sea",
+        "url": "https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq"
+      },
+      "artists": [
+        {
+          "name": "Glen Beasley",
+          "url": "https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133206,
+      "name": "Rest Sea",
+      "url": "https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm"
     },
     {
       "album": {

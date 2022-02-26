@@ -1,13 +1,61 @@
 {
   "description": "Emerging music breaking waves.  Cover: Saba",
-  "num_followers": 9980,
+  "num_followers": 10216,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQwMCwwMDAwMDAyYTAwMDAwMTdmMGIzMzg1NmUwMDAwMDE3ZWU1ZGY0OWMx",
+  "snapshot_id": "MTY0NTgyODQ5MSwwMDAwMDAyZDAwMDAwMTdmMzMwNWM3MGUwMDAwMDE3ZWU1ZGY0OWMx",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/66M1yxhYoJ0iT7k36rOpid"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        }
+      ],
+      "duration_ms": 134347,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Fortified",
+        "url": "https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w"
+      },
+      "artists": [
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "duration_ms": 197020,
+      "name": "Fortified",
+      "url": "https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko"
+    },
+    {
+      "added_at": "2022-02-25 20:14:54",
+      "album": {
+        "name": "The Weekend'",
+        "url": "https://open.spotify.com/album/5KGnxtC1znFMaV4OGYLl59"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "The Weekend'",
+      "url": "https://open.spotify.com/track/0SIBaEfFtGq46JdZsYkkVQ"
+    },
     {
       "added_at": "2022-02-18 05:00:00",
       "album": {
@@ -49,6 +97,38 @@
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
     },
     {
+      "added_at": "2021-12-01 18:01:35",
+      "album": {
+        "name": "Sim Simma",
+        "url": "https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Sim Simma",
+      "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
+    },
+    {
+      "added_at": "2022-02-25 20:14:54",
+      "album": {
+        "name": "On a Roll",
+        "url": "https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 147069,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/17TrsHFROsZTyJJHt7ZJPU"
+    },
+    {
       "added_at": "2022-02-18 05:00:00",
       "album": {
         "name": "Few Good Things",
@@ -69,6 +149,22 @@
       "url": "https://open.spotify.com/track/62wCJ41qEAobGOxrtdgo6X"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/3vEWvYAC6uedBaHV9bM2NM"
+      },
+      "artists": [
+        {
+          "name": "Malik Moses",
+          "url": "https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/0L8bf6ph4kDnHtKRnY95aH"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Para\u00edso",
@@ -83,22 +179,6 @@
       "duration_ms": 212267,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "Post Nut Clarity",
-        "url": "https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 113239,
-      "name": "Post Nut Clarity",
-      "url": "https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -119,58 +199,34 @@
     {
       "added_at": "2022-02-18 05:00:00",
       "album": {
-        "name": "Rick James",
-        "url": "https://open.spotify.com/album/7hcfy3rrMfzKXtCYFHHiA7"
+        "name": "Post Nut Clarity",
+        "url": "https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f"
       },
       "artists": [
         {
-          "name": "Joseph Chilliams",
-          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
-        },
-        {
-          "name": "MIA GLADSTONE",
-          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
         }
       ],
-      "duration_ms": 121081,
-      "name": "Rick James",
-      "url": "https://open.spotify.com/track/5WXpatjEQWyxbe9a107sGT"
+      "duration_ms": 113239,
+      "name": "Post Nut Clarity",
+      "url": "https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac"
     },
     {
-      "added_at": "2022-02-18 05:00:00",
+      "added_at": "2022-02-25 20:14:54",
       "album": {
-        "name": "Birds & Bees",
-        "url": "https://open.spotify.com/album/1HAbHnM7A3saeFtPaoAtAN"
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 240164,
-      "name": "Soakin (feat. Gwen Bunn)",
-      "url": "https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB"
-      },
-      "artists": [
-        {
-          "name": "Ria Sean",
-          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
-        }
-      ],
-      "duration_ms": 154001,
-      "name": "Pin Me Down",
-      "url": "https://open.spotify.com/track/4KHNu7aACwjtsTtw3N2mji"
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -197,20 +253,60 @@
       "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
     },
     {
-      "added_at": "2021-12-01 18:01:35",
+      "added_at": "2022-02-18 05:00:00",
       "album": {
-        "name": "Sim Simma",
-        "url": "https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg"
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB"
       },
       "artists": [
         {
-          "name": "Luke Bar$",
-          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Sim Simma",
-      "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
+      "duration_ms": 154001,
+      "name": "Pin Me Down",
+      "url": "https://open.spotify.com/track/4KHNu7aACwjtsTtw3N2mji"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "Birds & Bees",
+        "url": "https://open.spotify.com/album/1HAbHnM7A3saeFtPaoAtAN"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "duration_ms": 240164,
+      "name": "Soakin (feat. Gwen Bunn)",
+      "url": "https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "Rick James",
+        "url": "https://open.spotify.com/album/7hcfy3rrMfzKXtCYFHHiA7"
+      },
+      "artists": [
+        {
+          "name": "Joseph Chilliams",
+          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+        },
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        }
+      ],
+      "duration_ms": 121081,
+      "name": "Rick James",
+      "url": "https://open.spotify.com/track/5WXpatjEQWyxbe9a107sGT"
     },
     {
       "added_at": "2022-02-04 05:00:08",
@@ -479,38 +575,6 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "READY OR NOT",
-        "url": "https://open.spotify.com/album/2VUujSP9RgeXCw2QYBh2s2"
-      },
-      "artists": [
-        {
-          "name": "T$AN",
-          "url": "https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "READY OR NOT",
-      "url": "https://open.spotify.com/track/0BrjFCqjdRwlLJXm34kbvE"
-    },
-    {
-      "added_at": "2021-10-29 05:31:22",
-      "album": {
-        "name": "Fight Night",
-        "url": "https://open.spotify.com/album/6T36i0JuiP1B24fwk4sAA2"
-      },
-      "artists": [
-        {
-          "name": "Boyscoutsam",
-          "url": "https://open.spotify.com/artist/6mzQSW98vK1vHNearVSG0c"
-        }
-      ],
-      "duration_ms": 138296,
-      "name": "Fight Night",
-      "url": "https://open.spotify.com/track/5dlicVIRU7PVOKAtN9dN1L"
     },
     {
       "added_at": "2021-11-23 20:13:51",
@@ -1011,26 +1075,6 @@
       "duration_ms": 98181,
       "name": "Bust Back (feat. Gavo & MDMA)",
       "url": "https://open.spotify.com/track/4NTVH64xInXu2XsUMfIHoP"
-    },
-    {
-      "added_at": "2021-10-29 05:31:22",
-      "album": {
-        "name": "rearrange",
-        "url": "https://open.spotify.com/album/4thDLfTlxhnnu5VgwOXE61"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        },
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        }
-      ],
-      "duration_ms": 160806,
-      "name": "rearrange",
-      "url": "https://open.spotify.com/track/2RKBYcGZg5YfjWxsG9TgGr"
     },
     {
       "added_at": "2021-09-01 11:33:05",

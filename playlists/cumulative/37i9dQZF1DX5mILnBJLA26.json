@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh?si=VpvTblFdQZegp7Elx6N1LQ\">DJ Obza</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV?si=EhfahK84Tpu0RdUaMoR_OQ\">Ntokzin</a>",
   "name": "AmaPiano Grooves",
   "published_playlist_ids": [
     "1OROzyYVlgHk2xjXQZDV5G"
@@ -483,16 +483,16 @@
           "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
         },
         {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
           "name": "Pabi Cooper",
           "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
         },
         {
           "name": "Young Stunna",
           "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
         }
       ],
       "date_added": "2022-02-18",
@@ -2820,6 +2820,28 @@
     },
     {
       "album": {
+        "name": "Sika Bopha",
+        "url": "https://open.spotify.com/album/3LRQVI3iSzleiY3ETabuoJ"
+      },
+      "artists": [
+        {
+          "name": "Ntokzin",
+          "url": "https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425880,
+      "name": "Sika Bopha",
+      "url": "https://open.spotify.com/track/6WoADSeE4dmkzXKGBQbbu1"
+    },
+    {
+      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -3833,7 +3855,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 377187,
       "name": "Video Jive",
       "url": "https://open.spotify.com/track/60n9qdYKZd91YaiwJsvzz8"

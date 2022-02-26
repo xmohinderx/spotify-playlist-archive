@@ -916,6 +916,32 @@
     },
     {
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Will Anderson",
+          "url": "https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn"
+        },
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/6512LmhVpv9NGbuvrFSKWk"
+    },
+    {
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },

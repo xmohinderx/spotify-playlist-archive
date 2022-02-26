@@ -1,13 +1,97 @@
 {
   "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 35213,
+  "num_followers": 35229,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDUyMCwwMDAwMDAzZTAwMDAwMTdmMGIzNTU5YTIwMDAwMDE3ZWQ5ZWQwNzZm",
+  "snapshot_id": "MTY0NTc2NTMyMCwwMDAwMDAzZjAwMDAwMTdmMmY0MWRkOTQwMDAwMDE3ZWQ5ZWQwNzZm",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Baby We're Through",
+        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
+      },
+      "artists": [
+        {
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Sand Castles",
+      "url": "https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "I Shall Not Be Moved",
+        "url": "https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "I Shall Not Be Moved",
+      "url": "https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "Highest Bidder",
+        "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Highest Bidder",
+      "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
+    },
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
@@ -25,20 +109,20 @@
       "url": "https://open.spotify.com/track/2AHYMvycHP8KlxZjv11Hnm"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Highest Bidder",
-        "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/70RF8bGlKiXs5pzBfaeHDT"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
         }
       ],
-      "duration_ms": 214054,
-      "name": "Highest Bidder",
-      "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
+      "duration_ms": 358000,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -73,24 +157,20 @@
       "url": "https://open.spotify.com/track/3uYWtoQd5lPBrE8OhBP2Wg"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Hooray Hooray",
-        "url": "https://open.spotify.com/album/49WXct9dVEokilWT2A7muj"
+        "name": "Someday Soon",
+        "url": "https://open.spotify.com/album/59OdbKQn7rlmeFIxO9OEpG"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
         }
       ],
-      "duration_ms": 259946,
-      "name": "Hooray Hooray",
-      "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
+      "duration_ms": 144906,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/08mEB4ByPXw2GFJfPfqvAl"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -113,20 +193,20 @@
       "url": "https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "New Way of Walking",
-        "url": "https://open.spotify.com/album/0Agtzdkxg9yg1BhVO4Lbwd"
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
       "artists": [
         {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 315000,
-      "name": "New Way of Walking",
-      "url": "https://open.spotify.com/track/6pdn2fxWKwdRHrwqA3u4HV"
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -163,6 +243,22 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Bonnie",
+        "url": "https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -211,22 +307,6 @@
       "duration_ms": 227539,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4gbcahqV1z0rl2m4IGbDp8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 184394,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/5Z2xLgNGVEkIbXiHpj3t0L"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -365,22 +445,6 @@
       "url": "https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
-    },
-    {
       "added_at": "2021-12-10 05:01:00",
       "album": {
         "name": "Leave Me Alone",
@@ -411,22 +475,6 @@
       "duration_ms": 289786,
       "name": "Black Horizon",
       "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Stones",
-        "url": "https://open.spotify.com/album/1kcBgQaYOSCO8G2D6Kk8KT"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 205153,
-      "name": "Stones",
-      "url": "https://open.spotify.com/track/3WCu21jYrADpRuoPcQ7onA"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -545,22 +593,6 @@
       "url": "https://open.spotify.com/track/3h6b6VFjiJUM2jeG7tGjrH"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Sunshine City",
-        "url": "https://open.spotify.com/album/1MxTTpJSDtNjni0SF5zIMt"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 257094,
-      "name": "Sunshine City",
-      "url": "https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Tell Mamala",
@@ -635,22 +667,6 @@
       "duration_ms": 192484,
       "name": "She Calls Me Kingfish",
       "url": "https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Root City",
-        "url": "https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 172332,
-      "name": "Root City",
-      "url": "https://open.spotify.com/track/047ghmBqV2962LxO24aUm9"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -873,22 +889,6 @@
       "url": "https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Somewhere",
@@ -983,22 +983,6 @@
       "duration_ms": 238226,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Full Moon, Half Crazy",
-        "url": "https://open.spotify.com/album/4jaqIASmnRVNEpK54iXLyB"
-      },
-      "artists": [
-        {
-          "name": "Altered Five Blues Band",
-          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Full Moon, Half Crazy",
-      "url": "https://open.spotify.com/track/2mH1duZvwv83ft7fV56Y3z"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1517,22 +1501,6 @@
       "url": "https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw"
     },
     {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "She's A Self Made Man",
-        "url": "https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "She's A Self Made Man",
-      "url": "https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk"
-    },
-    {
       "added_at": "2021-04-13 15:26:57",
       "album": {
         "name": "The Big Sound of Lil' Ed & The Blues Imperials",
@@ -1547,122 +1515,6 @@
       "duration_ms": 219733,
       "name": "Giving Up On Your Love",
       "url": "https://open.spotify.com/track/1b4iMXi38xiZM6emdMlU0O"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/5t93hSW6hOhojflI6pjits"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "War In My Mind",
-        "url": "https://open.spotify.com/album/3yDiN64DXyOgZSJ5oR6o7S"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 215911,
-      "name": "Bad Woman Blues",
-      "url": "https://open.spotify.com/track/0rw2FKykg4yKVbt7XelcwC"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/0O2cq6Qpljvqt4zBas4On2"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/09NEAaQ8HTHtyTRfkZI4Gm"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Woman Like You",
-      "url": "https://open.spotify.com/track/2LAwa7amti4xehvCeWBRQ7"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Up and Rolling",
-        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Up and Rolling",
-      "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "We Get By",
-      "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
     },
     {
       "added_at": "2021-04-13 15:26:57",
@@ -1683,602 +1535,6 @@
       "duration_ms": 272933,
       "name": "Lucky Guy",
       "url": "https://open.spotify.com/track/6MBT2rtlyXmTcZqYEAvmjL"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "The Well",
-        "url": "https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "The Well",
-      "url": "https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Blackbirds",
-        "url": "https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "Blues For The Weepers",
-      "url": "https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Signs, High Times",
-      "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
-      },
-      "artists": [
-        {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "50 - Just warming up !",
-        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "50 Years",
-      "url": "https://open.spotify.com/track/0z1d5h194QHSRIk7tRNS9c"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Blacktop Run",
-        "url": "https://open.spotify.com/album/0zGFPsM8HHJaXJlu6FADM0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 234417,
-      "name": "Somebody Gotta Make A Move",
-      "url": "https://open.spotify.com/track/042Z5Eet8OEt82P29EPidO"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1IJzemlY2uWoq0Newmo8Rw"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 235815,
-      "name": "Red Rooster",
-      "url": "https://open.spotify.com/track/68TIixr81tmDL0b9VVIUPt"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Blues Comin' On",
-        "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 317819,
-      "name": "Old Time Used to Be",
-      "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Blues In Mono",
-        "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Well Well Well",
-      "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "All Out Of Tears",
-        "url": "https://open.spotify.com/album/6KqkVRVyCAaNmou8aqYkzj"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 391306,
-      "name": "All Out Of Tears",
-      "url": "https://open.spotify.com/track/5UAWb4S8wXDLaoowdYs6ln"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Blue Sky",
-        "url": "https://open.spotify.com/album/4eXFt8xb1vaaivb332kvu1"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
-        },
-        {
-          "name": "The Brotherhood",
-          "url": "https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW"
-        },
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Troubled Man",
-      "url": "https://open.spotify.com/track/2jg5t9K7AkFwivcExkrLX9"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Spirit Rising",
-        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 218088,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "My Blues Pathway",
-        "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
-      },
-      "artists": [
-        {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
-        }
-      ],
-      "duration_ms": 313253,
-      "name": "Struggle for Grace",
-      "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Thinking 'Bout Myself",
-        "url": "https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX"
-      },
-      "artists": [
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        },
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Thinking 'Bout Myself",
-      "url": "https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Ice Cream In Hell",
-        "url": "https://open.spotify.com/album/6dopecoqDNzo58krvM3NO4"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 284194,
-      "name": "Last One To Know",
-      "url": "https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Rawer Than Raw",
-        "url": "https://open.spotify.com/album/0Ar6NKv30rwDh3mhZha61I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3GC6jhvSskDuRpL9XZ4bdJ"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Handle Me with Care",
-        "url": "https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI"
-      },
-      "artists": [
-        {
-          "name": "Jade Macrae",
-          "url": "https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 337933,
-      "name": "Oh My Darling",
-      "url": "https://open.spotify.com/track/3vnlOTElobxdCHvgGyLrGN"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Last Light on the Highway",
-        "url": "https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Oh Miss Carolina",
-      "url": "https://open.spotify.com/track/2ebAPmQjP4GkGULOtisl5x"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Threw Me to the Wolves",
-        "url": "https://open.spotify.com/album/5wwJpsU8T5zdRT2X8XnZ7s"
-      },
-      "artists": [
-        {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
-        }
-      ],
-      "duration_ms": 232088,
-      "name": "Threw Me To The Wolves",
-      "url": "https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Church of the Blues",
-        "url": "https://open.spotify.com/album/4Zy8gXmsSdNNeVjrmCIq3T"
-      },
-      "artists": [
-        {
-          "name": "Watermelon Slim",
-          "url": "https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN"
-        }
-      ],
-      "duration_ms": 189717,
-      "name": "Get Out of My Life Woman",
-      "url": "https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN"
-      },
-      "artists": [
-        {
-          "name": "Don Bryant",
-          "url": "https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I"
-        }
-      ],
-      "duration_ms": 175143,
-      "name": "99 Pounds",
-      "url": "https://open.spotify.com/track/4WstfPz3tDUFjpU3vp8VDN"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "United State of Mind",
-        "url": "https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        },
-        {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
-        },
-        {
-          "name": "Livingstone Brown",
-          "url": "https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD"
-        }
-      ],
-      "duration_ms": 201065,
-      "name": "On Fire Like Zsa Zsa",
-      "url": "https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Cypress Grove",
-        "url": "https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws"
-      },
-      "artists": [
-        {
-          "name": "Jimmy \"Duck\" Holmes",
-          "url": "https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D"
-        }
-      ],
-      "duration_ms": 251528,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Sons",
-        "url": "https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6"
-      },
-      "artists": [
-        {
-          "name": "The Heavy",
-          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
-        }
-      ],
-      "duration_ms": 186884,
-      "name": "Burn Bright",
-      "url": "https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Something on Me",
-        "url": "https://open.spotify.com/album/3z9KcFNyeQreZhj36G74hr"
-      },
-      "artists": [
-        {
-          "name": "Snowy White",
-          "url": "https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH"
-        },
-        {
-          "name": "The White Flames",
-          "url": "https://open.spotify.com/artist/5zRIFTHDQwGWKZ7z61fFKb"
-        }
-      ],
-      "duration_ms": 464085,
-      "name": "Something on Me",
-      "url": "https://open.spotify.com/track/5YL4xxr4qrZQMDk4QdyGtD"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Sorry You Couldn't Make It",
-        "url": "https://open.spotify.com/album/3Z2NP5RmJvOwxdRm2AGKAA"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        },
-        {
-          "name": "Justin Vernon",
-          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
-        },
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "Sleeping Without You Is a Dragg (feat. Justin Vernon, Jenny Lewis)",
-      "url": "https://open.spotify.com/track/647yyMzcgJc1dON8QddRFo"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Harlem",
-        "url": "https://open.spotify.com/album/2eST5Em3wuzueE8AkR2kTF"
-      },
-      "artists": [
-        {
-          "name": "King Solomon Hicks",
-          "url": "https://open.spotify.com/artist/1kwMZiFnFBuniUpHpNHEds"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "421 South Main",
-      "url": "https://open.spotify.com/track/1ZUXEmilOsIa5jfp9ooaAF"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "All My Dues Are Paid",
-        "url": "https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg"
-      },
-      "artists": [
-        {
-          "name": "Frank Bey",
-          "url": "https://open.spotify.com/artist/0na4KYz5VSu44CvyPGVzKE"
-        }
-      ],
-      "duration_ms": 251813,
-      "name": "All My Dues Are Paid",
-      "url": "https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Homemade Disaster",
-        "url": "https://open.spotify.com/album/4JoSX9ytrWjExenqs4yWrp"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 194564,
-      "name": "Homemade Disaster",
-      "url": "https://open.spotify.com/track/4k4JY0DFEustCvGDCs0Ur7"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "100 Years Of Blues",
-        "url": "https://open.spotify.com/album/0FVnunlqxdepVfMF2DBgI6"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop & Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/1lxMdFIZ1fKJzdG9QFkhnO"
-        },
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "What The Hell?",
-      "url": "https://open.spotify.com/track/5oLJtF9K70uDnGDOh6RpLC"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "The Pleasure's All Mine",
-        "url": "https://open.spotify.com/album/2eU1uCapVBdvZ2OHIFKgqu"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/7aMpVz4aI7m7qTaBz1tuW2"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 263472,
-      "name": "Me And My Guitar",
-      "url": "https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Ten Thousand Watts",
-        "url": "https://open.spotify.com/album/3ItR2zuQVdk1tO16cz2GFl"
-      },
-      "artists": [
-        {
-          "name": "Altered Five Blues Band",
-          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
-        }
-      ],
-      "duration_ms": 198602,
-      "name": "Mischief Man",
-      "url": "https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT"
-    },
-    {
-      "added_at": "2020-12-14 22:44:22",
-      "album": {
-        "name": "Don't You Wish It Was True",
-        "url": "https://open.spotify.com/album/4SdB0aFLlvQtlV1uxnQmqO"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        },
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Don't You Wish It Was True",
-      "url": "https://open.spotify.com/track/232W8a3C1Kjz9Mr9OjXOhl"
     }
   ],
   "unique_name": "Got Blues",

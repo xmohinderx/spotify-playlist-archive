@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those who like the newest songs loud. Very loud. Cover: Muse",
+  "description": "For those who like the newest songs loud. Very loud. Cover: Bad Omens",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 187000,
       "name": "Boys Will Be Girls",
       "url": "https://open.spotify.com/track/4udlUigO56yYlO51LJkDAO"
@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182243,
+      "name": "CHAOS",
+      "url": "https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe"
+    },
+    {
+      "album": {
         "name": "CHOKE",
         "url": "https://open.spotify.com/album/3zOPNnVojU3wnPUzRcEoLJ"
       },
@@ -789,6 +807,28 @@
       "duration_ms": 193545,
       "name": "Cutting It Close",
       "url": "https://open.spotify.com/track/1jipnlJGT2EWWg9LoSY1De"
+    },
+    {
+      "album": {
+        "name": "Dance With My Demons EP",
+        "url": "https://open.spotify.com/album/1wiN698F4pEAtQv8ZkvZX1"
+      },
+      "artists": [
+        {
+          "name": "Blame My Youth",
+          "url": "https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP"
+        },
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229462,
+      "name": "Dance With My Demons (feat. The Score)",
+      "url": "https://open.spotify.com/track/0sHK5UJRZhUKWbcSeLZPha"
     },
     {
       "album": {
@@ -1071,7 +1111,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
@@ -1226,6 +1266,24 @@
     },
     {
       "album": {
+        "name": "This Is How The World Ends",
+        "url": "https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247092,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/3z67pAKSP7DQkRpWOD28T1"
+    },
+    {
+      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/4sXZNB1EZZ4WRbcNaykfkK"
       },
@@ -1237,7 +1295,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 132986,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/616yLeci0BpJVGROFfVxMI"
@@ -1403,7 +1461,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 177201,
       "name": "Gappetto",
       "url": "https://open.spotify.com/track/3a31RvVMMyz6dIXMN4IdNe"
@@ -1841,7 +1899,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
@@ -1949,7 +2007,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 188127,
       "name": "Kill The Noise",
       "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
@@ -1971,6 +2029,32 @@
       "duration_ms": 177882,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3lecNIKPdDJoJngGhemome"
+    },
+    {
+      "album": {
+        "name": "KULT (feat. Jasiah)",
+        "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177149,
+      "name": "KULT (feat. Jasiah)",
+      "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
     },
     {
       "album": {
@@ -2087,6 +2171,24 @@
       "duration_ms": 209000,
       "name": "Light Up The Sky",
       "url": "https://open.spotify.com/track/4LlGoVOEmGQtskdfAN415G"
+    },
+    {
+      "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E"
     },
     {
       "album": {
@@ -2503,7 +2605,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 157969,
       "name": "Piggy",
       "url": "https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE"
@@ -2977,7 +3079,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 205205,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
@@ -3208,6 +3310,24 @@
     },
     {
       "album": {
+        "name": "such.a.shame",
+        "url": "https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198375,
+      "name": "such.a.shame",
+      "url": "https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R"
+    },
+    {
+      "album": {
         "name": "Child Of The State",
         "url": "https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y"
       },
@@ -3379,7 +3499,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 241499,
       "name": "THE DEATH OF PEACE OF MIND",
       "url": "https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD"
@@ -3401,6 +3521,24 @@
       "duration_ms": 253430,
       "name": "The First 21",
       "url": "https://open.spotify.com/track/4wDPO0BFLJHFVbh0vvSljY"
+    },
+    {
+      "album": {
+        "name": "The Liars Club",
+        "url": "https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228834,
+      "name": "The Liars Club",
+      "url": "https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt"
     },
     {
       "album": {
@@ -3445,6 +3583,24 @@
       "duration_ms": 222817,
       "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/6VRy0kgSkyQO4VzIaxYJ1Q"
+    },
+    {
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
       "album": {
@@ -3535,6 +3691,24 @@
       "duration_ms": 227753,
       "name": "Three Chords",
       "url": "https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
     },
     {
       "album": {

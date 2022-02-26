@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167661,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/6AAjuNnSGoXZZEZg5s17dv"
+    },
+    {
+      "album": {
         "name": "El Nono Luigi",
         "url": "https://open.spotify.com/album/37n2A9nZh8EeEbUjc15a15"
       },
@@ -1065,6 +1083,24 @@
       "duration_ms": 212944,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241410,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN"
     },
     {
       "album": {

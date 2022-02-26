@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best in alt, folk, and indie rock. Cover: Wilderado",
+  "description": "The best in alt, folk, and indie rock. Cover: Tears for Fears",
   "name": "Rockin' Vibes",
   "published_playlist_ids": [
     "0rsiUCSpnpRaY4LTurJ99p"
@@ -625,6 +625,24 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
+      },
+      "artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250565,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
     },
     {
       "album": {
@@ -1300,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "album": {
         "name": "The Boy Named If",
         "url": "https://open.spotify.com/album/5UvNnPzKxLMYz6bYi8NpoS"
       },
@@ -1463,7 +1499,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 157440,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/2MYnCTl6YBHtLmaExW0agG"
@@ -1503,7 +1539,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 282093,
       "name": "No Small Thing",
       "url": "https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6"
@@ -1579,7 +1615,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 177815,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/0iQTeVvJNmp6Hqo4DBwICQ"
@@ -2275,6 +2311,24 @@
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/0GY2MWZBsPjHJetTPAacuG"
+    },
+    {
+      "album": {
+        "name": "The Tipping Point",
+        "url": "https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253226,
+      "name": "The Tipping Point",
+      "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
     },
     {
       "album": {

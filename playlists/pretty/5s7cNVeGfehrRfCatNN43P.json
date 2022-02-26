@@ -6,45 +6,277 @@
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjIxMCxmM2E1NWRmNWNmNTcxNGMxNjI0Y2JhNmVkNjM4OWY2MDdmMzAxMjc2",
+  "snapshot_id": "MjIxNixiZTVkZjRiMmYwYzMwYzBiNmFiOGE3MGMzODhmMmYxNDRmYzJiM2Qz",
   "tracks": [
     {
-      "added_at": "2022-02-18 09:07:55",
+      "added_at": "2022-02-25 08:07:37",
       "album": {
-        "name": "Love Like That",
-        "url": "https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s"
+        "name": "dying on the inside",
+        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
       },
       "artists": [
         {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 214119,
-      "name": "Love Like That",
-      "url": "https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y"
+      "duration_ms": 204847,
+      "name": "dying on the inside",
+      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
-      "added_at": "2022-02-18 09:07:55",
+      "added_at": "2022-02-25 08:07:37",
       "album": {
-        "name": "DWYSSWM (Don't Worry Your Secret's Safe With Me)",
-        "url": "https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn"
+        "name": "TOO YOUNG",
+        "url": "https://open.spotify.com/album/7E4kMAaogsTTTwfBqpHSId"
       },
       "artists": [
         {
-          "name": "Cody Frost",
-          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 189906,
-      "name": "DWYSSWM",
-      "url": "https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq"
+      "duration_ms": 196588,
+      "name": "TOO YOUNG",
+      "url": "https://open.spotify.com/track/1skY5KsZWth85O6Rgzp06F"
     },
     {
-      "added_at": "2022-02-18 09:07:55",
+      "added_at": "2022-02-25 08:07:37",
       "album": {
-        "name": "Trouble (from \u2018Three Months\u2019)",
-        "url": "https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8"
+        "name": "The Basics Are Coming Back / Burnout",
+        "url": "https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1"
+      },
+      "artists": [
+        {
+          "name": "0171",
+          "url": "https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX"
+        }
+      ],
+      "duration_ms": 218595,
+      "name": "The Basics Are Coming Back",
+      "url": "https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "side effects of being human",
+        "url": "https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "almost 20",
+      "url": "https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "CHICKEN TERIYAKI",
+        "url": "https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Burning My Bridges",
+        "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Burning My Bridges",
+      "url": "https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ"
+    },
+    {
+      "added_at": "2022-02-25 10:21:16",
+      "album": {
+        "name": "Kiss It",
+        "url": "https://open.spotify.com/album/1vGnngtp0vzWa71HaA54Il"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "duration_ms": 193924,
+      "name": "Kiss It",
+      "url": "https://open.spotify.com/track/1gLHvCiqD3D8SOC8CJMoao"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Girls Can Do Anything",
+        "url": "https://open.spotify.com/album/21ZOZVvKJtmGn4OjW8f3wW"
+      },
+      "artists": [
+        {
+          "name": "July Jones",
+          "url": "https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Girls Can Do Anything",
+      "url": "https://open.spotify.com/track/6heGVcEj4wAyvdM9vg81kF"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Every Bottle (Is My Boyfriend)",
+        "url": "https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Every Bottle (Is My Boyfriend)",
+      "url": "https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "My Best Friend Is My Therapist",
+        "url": "https://open.spotify.com/album/1cBIFIPEPOtEkW62yUxRLh"
+      },
+      "artists": [
+        {
+          "name": "Erica Manzoli",
+          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "My Best Friend Is My Therapist",
+      "url": "https://open.spotify.com/track/56k4t2ROEMQTNC3j6JOqdO"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Don't Call Me A Friend",
+        "url": "https://open.spotify.com/album/0nqRDLcgNPQyuDHaFWH4EX"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 156418,
+      "name": "Don't Call Me A Friend",
+      "url": "https://open.spotify.com/track/42CbU4IOINfy3jqXJa2BUQ"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Dancing Feet (feat. DNCE)",
+        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Dancing Feet (feat. DNCE)",
+      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "No Woman Is an Island",
+        "url": "https://open.spotify.com/album/48nyQbTxPaLcqXrjlisIrU"
+      },
+      "artists": [
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "duration_ms": 270306,
+      "name": "No Woman Is an Island",
+      "url": "https://open.spotify.com/track/2kfr4vDXbvlHNsXu3ShkVI"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Liv",
+        "url": "https://open.spotify.com/album/79EBxzypBTVb44rJjpajE1"
+      },
+      "artists": [
+        {
+          "name": "Bendik",
+          "url": "https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo"
+        }
+      ],
+      "duration_ms": 186507,
+      "name": "Noen g\u00e5r f\u00f8rst",
+      "url": "https://open.spotify.com/track/6PAHROf9VJvb39pUsH5hcl"
+    },
+    {
+      "added_at": "2022-02-25 08:07:37",
+      "album": {
+        "name": "Wait (from \u2018Three Months\u2019)",
+        "url": "https://open.spotify.com/album/1GnTOysHh33Zw6FqVWcV9q"
       },
       "artists": [
         {
@@ -52,281 +284,57 @@
           "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         },
         {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Trouble (from \u2018Three Months\u2019)",
-      "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"
+      "duration_ms": 209533,
+      "name": "Wait - from \u2018Three Months\u2019",
+      "url": "https://open.spotify.com/track/70iazIU8mYvhSouvV7LZir"
     },
     {
-      "added_at": "2022-02-18 09:07:55",
+      "added_at": "2022-02-25 08:07:37",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/2MIWXHiODW5ERIJx7FZKj6"
+        "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+        "url": "https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC"
       },
       "artists": [
         {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
-        }
-      ],
-      "duration_ms": 219898,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/2Fia4eleF1Oj1CgdPh2DyZ"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Protection From Evil",
-        "url": "https://open.spotify.com/album/3hNh7iEEfp5cqpcSH7MWeB"
-      },
-      "artists": [
-        {
-          "name": "Ibibio Sound Machine",
-          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
-        }
-      ],
-      "duration_ms": 276541,
-      "name": "Protection From Evil",
-      "url": "https://open.spotify.com/track/5newIYRXaFeceipG6ZmIno"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2Xq1V8fJL89IUm4eOBzMOu"
-      },
-      "artists": [
-        {
-          "name": "George Alice",
-          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
-        }
-      ],
-      "duration_ms": 213661,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Read The Room",
-        "url": "https://open.spotify.com/album/66hA0bftjpanygAoCYZhou"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 166711,
-      "name": "Read The Room",
-      "url": "https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Slow Song (with Dragonette)",
-        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         },
         {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "What If I'm Wrong",
-        "url": "https://open.spotify.com/album/5fBSeRMtF6zuDCkQ6Kpknd"
-      },
-      "artists": [
-        {
-          "name": "Florrie",
-          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
-        }
-      ],
-      "duration_ms": 172958,
-      "name": "What If I'm Wrong",
-      "url": "https://open.spotify.com/track/4mYX1mH0gLzrBIiMLtXOvF"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Oversharer",
-        "url": "https://open.spotify.com/album/2pyeKmNIktnLPTruiHyxb3"
-      },
-      "artists": [
-        {
-          "name": "Blithe",
-          "url": "https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4"
-        }
-      ],
-      "duration_ms": 159303,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1pYVUSo8iF3gSVjhVOFPy1"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Disrespectful",
-        "url": "https://open.spotify.com/album/73fDT1q6Y3ADL0hokKEnvG"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         },
         {
-          "name": "Becce J",
-          "url": "https://open.spotify.com/artist/3oq7pPTvwW6l6yl89fQbYC"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Always Be My Baby Boy (feat. Becce J)",
-      "url": "https://open.spotify.com/track/5ycjyEkMSlLCMifjYgQOfp"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 194820,
-      "name": "Naturally",
-      "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
+      "duration_ms": 172953,
+      "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+      "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
     },
     {
-      "added_at": "2022-02-18 09:07:55",
+      "added_at": "2022-02-25 08:07:37",
       "album": {
-        "name": "Everything But You (feat. A7S)",
-        "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
+        "name": "SPACE MAN",
+        "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
         }
       ],
-      "duration_ms": 198014,
-      "name": "Everything But You (feat. A7S)",
-      "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/3o8lhNYrKvv25wA5sZFBL1"
-      },
-      "artists": [
-        {
-          "name": "Call Me Loop",
-          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/3L1y08P3oCRP1ecxyCEfnm"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Headlights (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Headlights (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
-    },
-    {
-      "added_at": "2022-02-18 09:07:55",
-      "album": {
-        "name": "Fall with Me",
-        "url": "https://open.spotify.com/album/1f2WsNbnkkpn2GheMHPiCP"
-      },
-      "artists": [
-        {
-          "name": "King Henry",
-          "url": "https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5"
-        },
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "duration_ms": 198635,
-      "name": "Fall with Me",
-      "url": "https://open.spotify.com/track/0gVJWqxKrXR6Z9GJMitKDj"
+      "duration_ms": 217320,
+      "name": "SPACE MAN",
+      "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

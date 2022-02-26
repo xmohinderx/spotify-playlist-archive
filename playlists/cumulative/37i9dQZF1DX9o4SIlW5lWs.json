@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 254693,
       "name": "A Pesar de Todos",
       "url": "https://open.spotify.com/track/3sruqhzDXhj9jqlgrUWqr6"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 217494,
       "name": "Amor de Verdad",
       "url": "https://open.spotify.com/track/4nJ3IvzpHPCUPzQ0oUf2L2"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 246101,
       "name": "Como Se Perdona",
       "url": "https://open.spotify.com/track/52hNmGfSHnXUh8pjYgSjtU"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 236000,
       "name": "Como Te Lo Digo / Tonta - Live Session",
       "url": "https://open.spotify.com/track/4jHbPBldpwH1ex593Ffnsh"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 167026,
       "name": "Como una Pelota",
       "url": "https://open.spotify.com/track/0breWXQSP2vFZw2VQHeSnH"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 249822,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/2jOBay9vG5Za3c4fgTd70V"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 187393,
       "name": "De Amor Voy a Morirme",
       "url": "https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf"
@@ -757,6 +757,24 @@
       "duration_ms": 236973,
       "name": "El Embrujo",
       "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
+    },
+    {
+      "album": {
+        "name": "El Gil de Tu Ex",
+        "url": "https://open.spotify.com/album/79Q8ojORhTTSYAh51k6rtf"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167680,
+      "name": "El Gil de Tu Ex",
+      "url": "https://open.spotify.com/track/3BoHuCCm0Dr8TGtKV9kl4g"
     },
     {
       "album": {
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 183066,
       "name": "Fuiste",
       "url": "https://open.spotify.com/track/4El1IIpdwvw1keVLr2oAnw"
@@ -1393,6 +1411,28 @@
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
+    },
+    {
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        },
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235035,
+      "name": "Lo Que Son las Cosas",
+      "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
     },
     {
       "album": {
@@ -1751,7 +1791,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 324789,
       "name": "No Estamos los Dos",
       "url": "https://open.spotify.com/track/4rB7If7QkuWwFgGoAFHSxB"
@@ -2235,7 +2275,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 248600,
       "name": "Se Que Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE"
@@ -2271,7 +2311,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 218128,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
@@ -2351,7 +2391,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 171400,
       "name": "Sigo Enamorado de Ti",
       "url": "https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ"
@@ -2423,7 +2463,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 223232,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/71kqyXptHmPcqG4bnRZz9u"
@@ -2517,7 +2557,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 79594,
       "name": "Tiene Espinas el Rosal",
       "url": "https://open.spotify.com/track/6p3lVBHIY9nHJgVaOoMLU6"
@@ -2589,7 +2629,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 350354,
       "name": "Tributo A Grupo Trinidad Bonus Track / Zorros Amantes / Qui\u00e9n Te Quiere / Es Una Noche Para Amar / Conversemos - Bonus Track",
       "url": "https://open.spotify.com/track/6q5U7c1J8Ec53YGQh0l2Bm"
@@ -2751,7 +2791,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 219488,
       "name": "Vagabundo y So\u00f1ador",
       "url": "https://open.spotify.com/track/3QgwN8NQrf1bRjaR82002L"
@@ -2787,7 +2827,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -2877,7 +2917,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 217293,
       "name": "Ya Lleg\u00f3 el Sabor",
       "url": "https://open.spotify.com/track/6L7yows5K4HrSZnz3yppeC"
@@ -3018,6 +3058,24 @@
     },
     {
       "album": {
+        "name": "Yo Quiero Ser Tu Amor",
+        "url": "https://open.spotify.com/album/2d04SHoHJiDrizSId1EoHl"
+      },
+      "artists": [
+        {
+          "name": "Diego R\u00edos",
+          "url": "https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Yo Quiero Ser Tu Amor",
+      "url": "https://open.spotify.com/track/7oEs1y8dFJ7QBmYg2w6fZ0"
+    },
+    {
+      "album": {
         "name": "Sigo Mi Camino",
         "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
       },
@@ -3047,7 +3105,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 204293,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/53NcJRablHg60JNQUlgNNY"

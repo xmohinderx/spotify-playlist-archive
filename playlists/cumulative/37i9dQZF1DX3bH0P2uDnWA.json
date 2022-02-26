@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "Cookie Monster (Atom Smith Remix)",
+        "url": "https://open.spotify.com/album/2xhOnFUsQM8HDW8WMtXvQs"
+      },
+      "artists": [
+        {
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
+        },
+        {
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Cookie Monster - Atom Smith Remix Radio Edit",
+      "url": "https://open.spotify.com/track/1uE0kd0NxA9tnybOSI4rHJ"
+    },
+    {
+      "album": {
         "name": "Crazy Cat",
         "url": "https://open.spotify.com/album/74GNHd060Ba5P13cwmFHHV"
       },
@@ -977,6 +999,28 @@
       "duration_ms": 213015,
       "name": "Headless Horseman",
       "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
+    },
+    {
+      "album": {
+        "name": "Vintage Vibes",
+        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "Hep Cat Boogie",
+      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
     },
     {
       "album": {

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 237373,
       "name": "Antolog\u00eda De Caricias",
       "url": "https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 302960,
       "name": "Ay hombre",
       "url": "https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4"
@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Creiste",
+        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257488,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
+    },
+    {
+      "album": {
         "name": "Mas Bachata",
         "url": "https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW"
       },
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 235560,
       "name": "Cuando El Amor Se Va",
       "url": "https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "El Alchohol",
       "url": "https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 283946,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2ssrxcAv3AvQ7xWXkYmkuH"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 260386,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/05XwC0A5ZfyMJbwtO4yngG"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Morire Bebiendo",
       "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 246853,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/6Wxa8i0xhEqvbqqoxjSQwW"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 256333,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/309M0MPexbrLYbGpqKstYa"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 228624,
       "name": "Voy Pa Alla",
       "url": "https://open.spotify.com/track/5VC9MOMTd5SvjIEnHTHewV"

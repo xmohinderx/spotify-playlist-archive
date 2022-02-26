@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6Mi3Mw1YGw5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Mi3Mw1YGw5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Mi3Mw1YGw5)
 
-### Verzuz: 112 vs\. Jagged Edge
+### [Verzuz: 112 vs\. Jagged Edge](https://open.spotify.com/playlist/2i41uVOJOix2UUDuYM4DYP)
 
 > Brought to you by <a href="spotify:artist:2cADQgiLMjNhbsfeN52Bf3">Swizz Beatz</a> and <a href="spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ">Timbaland</a>.
 

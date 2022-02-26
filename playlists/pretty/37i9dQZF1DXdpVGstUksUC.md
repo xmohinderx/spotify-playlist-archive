@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,640 likes - 150 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,863 likes - 150 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

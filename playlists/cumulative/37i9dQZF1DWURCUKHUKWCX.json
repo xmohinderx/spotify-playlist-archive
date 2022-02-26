@@ -948,6 +948,24 @@
     },
     {
       "album": {
+        "name": "#002 Hymns",
+        "url": "https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163648,
+      "name": "Inno (Prologo)",
+      "url": "https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte"
+    },
+    {
+      "album": {
         "name": "Inventing Light",
         "url": "https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0"
       },

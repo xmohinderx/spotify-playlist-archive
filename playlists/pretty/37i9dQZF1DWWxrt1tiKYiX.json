@@ -1,15 +1,15 @@
 {
   "description": "Stripped-down versions of all your favorite pop hits. Cover: Taylor Swift",
-  "num_followers": 85440,
+  "num_followers": 85562,
   "original_name": "Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDUyMCwwMDAwMDAxNzAwMDAwMTdmMGIzNTU5YTAwMDAwMDE3ZGI5ZmIzNzUz",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAxODAwMDAwMTdmMmY0MGYzNzgwMDAwMDE3ZGI5ZmIzNzUz",
   "tracks": [
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5jAIouBES8LWMiriuNq170"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Fall Into Me (Acoustic)",
         "url": "https://open.spotify.com/album/72yeKeLsex6CggzAfQ2mKz"
@@ -41,159 +41,7 @@
       "url": "https://open.spotify.com/track/3tb8o3JQwicRSkbaB2uUcG"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Skinny Dipping (Acoustic)",
-        "url": "https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 192887,
-      "name": "Skinny Dipping - Acoustic",
-      "url": "https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Shivers (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "Shivers - Acoustic Version",
-      "url": "https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Light Switch (Acoustic)",
-        "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 186295,
-      "name": "Light Switch - Acoustic",
-      "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Head on Fire (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4XXBWeAI6h6Ymh0zlBHNCb"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 197597,
-      "name": "Head on Fire - Acoustic Version",
-      "url": "https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 223268,
-      "name": "My Universe - Acoustic Version",
-      "url": "https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Sweet Talker (Acoustic)",
-        "url": "https://open.spotify.com/album/40XJMYKd3XQ9h8kVJqZUs7"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 181609,
-      "name": "Sweet Talker - Acoustic",
-      "url": "https://open.spotify.com/track/16pWf68x1CzECOHELpeH0S"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Start Walking (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2WtZ6nN30t7FmI4JXYAVAN"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 204290,
-      "name": "Start Walking - Acoustic Version",
-      "url": "https://open.spotify.com/track/7gFoo5dFwUmy219QoPEjAR"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Brave (Acoustic)",
-        "url": "https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 228532,
-      "name": "Brave - Acoustic",
-      "url": "https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Life Goes On (Acoustic)",
-        "url": "https://open.spotify.com/album/0lQiE1GyOTVwz6VPy8vY6u"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 161028,
-      "name": "Life Goes On - Acoustic",
-      "url": "https://open.spotify.com/track/0QPiTFqPuUt6NPcJGv5E9u"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Chasing Stars (Stripped)",
         "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
@@ -217,71 +65,111 @@
       "url": "https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+        "name": "Skinny Dipping (Acoustic)",
+        "url": "https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 172563,
-      "name": "Sunshine - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OAuga7P1grWVNYp9v2qGq"
+      "duration_ms": 192887,
+      "name": "Skinny Dipping - Acoustic",
+      "url": "https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Loverboy (Acoustic)",
-        "url": "https://open.spotify.com/album/0RbC7QVHD6RKZfFNjM3FnM"
+        "name": "Shivers (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF"
       },
       "artists": [
         {
-          "name": "A-Wall",
-          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Loverboy - Acoustic",
-      "url": "https://open.spotify.com/track/6EdlzHYryob6RgNPuxVCeI"
+      "duration_ms": 206986,
+      "name": "Shivers - Acoustic Version",
+      "url": "https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+        "name": "Life Goes On (Acoustic)",
+        "url": "https://open.spotify.com/album/0lQiE1GyOTVwz6VPy8vY6u"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 223429,
-      "name": "Latch - Acoustic",
-      "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
+      "duration_ms": 161028,
+      "name": "Life Goes On - Acoustic",
+      "url": "https://open.spotify.com/track/0QPiTFqPuUt6NPcJGv5E9u"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Bite Me (Acoustic)",
-        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
+        "name": "Light Switch (Acoustic)",
+        "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
+      "duration_ms": 186295,
+      "name": "Light Switch - Acoustic",
+      "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Head on Fire (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4XXBWeAI6h6Ymh0zlBHNCb"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 197597,
+      "name": "Head on Fire - Acoustic Version",
+      "url": "https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 223268,
+      "name": "My Universe - Acoustic Version",
+      "url": "https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
@@ -297,43 +185,23 @@
       "url": "https://open.spotify.com/track/7EwVFWY45ClBKUV93a76db"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Burning Bridges (Up Close, Acoustic)",
-        "url": "https://open.spotify.com/album/7iDmvsp438Mr3g1j4unr5F"
+        "name": "Sweet Talker (Acoustic)",
+        "url": "https://open.spotify.com/album/40XJMYKd3XQ9h8kVJqZUs7"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 168538,
-      "name": "Burning Bridges - Up Close, Acoustic",
-      "url": "https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao"
+      "duration_ms": 181609,
+      "name": "Sweet Talker - Acoustic",
+      "url": "https://open.spotify.com/track/16pWf68x1CzECOHELpeH0S"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
@@ -353,151 +221,71 @@
       "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Better Days (Stripped)",
-        "url": "https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK"
+        "name": "Start Walking (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2WtZ6nN30t7FmI4JXYAVAN"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
         }
       ],
-      "duration_ms": 210884,
-      "name": "Better Days - Stripped",
-      "url": "https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi"
+      "duration_ms": 204290,
+      "name": "Start Walking - Acoustic Version",
+      "url": "https://open.spotify.com/track/7gFoo5dFwUmy219QoPEjAR"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+        "name": "Brave (Acoustic)",
+        "url": "https://open.spotify.com/album/0moObTfsJiVZCaZsAwP3wK"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 157692,
-      "name": "July - Spotify Singles",
-      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
+      "duration_ms": 228532,
+      "name": "Brave - Acoustic",
+      "url": "https://open.spotify.com/track/2bNhvD9NrWBqtf79htNx2r"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 176652,
-      "name": "you broke me first - Spotify Singles",
-      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
+      "duration_ms": 172563,
+      "name": "Sunshine - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OAuga7P1grWVNYp9v2qGq"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Confetti (Acoustic)",
-        "url": "https://open.spotify.com/album/6tBB5iinI1azfsyvSgQVVm"
+        "name": "Loverboy (Acoustic)",
+        "url": "https://open.spotify.com/album/0RbC7QVHD6RKZfFNjM3FnM"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Confetti - Acoustic",
-      "url": "https://open.spotify.com/track/1iw5L7Yi2qh2QMLQ0hMtKC"
+      "duration_ms": 215040,
+      "name": "Loverboy - Acoustic",
+      "url": "https://open.spotify.com/track/6EdlzHYryob6RgNPuxVCeI"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 218900,
-      "name": "Before You Go - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Fly Away (RIP King T)",
-        "url": "https://open.spotify.com/album/5L0hCFPh4J7M77QYu2OltJ"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 173703,
-      "name": "Fly Away - RIP King T",
-      "url": "https://open.spotify.com/track/5l4rlMRDBwWBchh6phCXte"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Bad Habits (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Bad Habits - Acoustic Version",
-      "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Lover (First Dance Remix)",
-        "url": "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Lover - First Dance Remix",
-      "url": "https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Remember (Acoustic)",
-        "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Remember - Acoustic",
-      "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Looks Like Me (Acoustic)",
         "url": "https://open.spotify.com/album/47bsK3xszAvwlsfp0KubZS"
@@ -513,7 +301,219 @@
       "url": "https://open.spotify.com/track/256ArsGaVttMIF56zoSzT9"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 223429,
+      "name": "Latch - Acoustic",
+      "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Bite Me (Acoustic)",
+        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Bite Me - Acoustic",
+      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Burning Bridges (Up Close, Acoustic)",
+        "url": "https://open.spotify.com/album/7iDmvsp438Mr3g1j4unr5F"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 168538,
+      "name": "Burning Bridges - Up Close, Acoustic",
+      "url": "https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Better Days (Stripped)",
+        "url": "https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 210884,
+      "name": "Better Days - Stripped",
+      "url": "https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "July - Spotify Singles",
+      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 176652,
+      "name": "you broke me first - Spotify Singles",
+      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Confetti (Acoustic)",
+        "url": "https://open.spotify.com/album/6tBB5iinI1azfsyvSgQVVm"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Confetti - Acoustic",
+      "url": "https://open.spotify.com/track/1iw5L7Yi2qh2QMLQ0hMtKC"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 218900,
+      "name": "Before You Go - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Fly Away (RIP King T)",
+        "url": "https://open.spotify.com/album/5L0hCFPh4J7M77QYu2OltJ"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 173703,
+      "name": "Fly Away - RIP King T",
+      "url": "https://open.spotify.com/track/5l4rlMRDBwWBchh6phCXte"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Bad Habits (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Bad Habits - Acoustic Version",
+      "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Lover (First Dance Remix)",
+        "url": "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Lover - First Dance Remix",
+      "url": "https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Remember (Acoustic)",
+        "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Remember - Acoustic",
+      "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/1xKftSvUbbwou80OuiQZFt"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/3Plgpbvrf4pS7dVeUmzyK9"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Paradise (Acoustic)",
         "url": "https://open.spotify.com/album/23yHB7E61DTKC1cWORnuhS"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Funny (Stripped)",
         "url": "https://open.spotify.com/album/7yIoOSWZ0XQ0dQmjQE6LwB"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/3Y7OKgEqnFTAH61TSHBpyo"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
         "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Just About Over You (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Diamonds (Acoustic)",
         "url": "https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "My Head & My Heart (Acoustic)",
         "url": "https://open.spotify.com/album/0M087TM0WfDrEh6lGIR18P"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/6UBi37Yx8KL3yEHBA1oivc"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Maren Morris: Reimagined",
         "url": "https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Black And White (Stripped)",
         "url": "https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Drunk On Emotions (Stripped)",
         "url": "https://open.spotify.com/album/4DUl4eui8ahkGijjHiQC0s"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/3TaUhDXyTGPZpWbgD5LoUk"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Goodbye (Acoustic)",
         "url": "https://open.spotify.com/album/6Y0kqeOoMTTuHZEeCwmDrQ"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/3Rsm29m9f0zygvNM2JMgn9"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/1Nqzqrf8Gzapm03aVTQBWP"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/1YYFccBnGLTgNpzVjmAKQr"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Intentions (Acoustic)",
         "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Minefields (Live Acoustic)",
         "url": "https://open.spotify.com/album/02lEy3RsCbRPfEbHO6IWo7"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/1C2o1BM7TI9uzQTvWrFU7h"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Glad You Exist (Acoustic)",
         "url": "https://open.spotify.com/album/1FXEP0SJSiEtCFeU1zS56V"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/52RNWUgJBF3LOqt3iw1s77"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Remember That Night? (Acoustic)",
         "url": "https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "One Night (Stripped Version)",
         "url": "https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "When The Lights Go Out (Piano)",
         "url": "https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Share That Love (Acoustic)",
         "url": "https://open.spotify.com/album/49WG3joqPsDgkN5rmAgCBG"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/31BOrBVgxuqUFOQwaa4s40"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Train Wreck (Acoustic)",
         "url": "https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "willow (lonely witch version)",
         "url": "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/0U0etHtpARihOUUY8Akc7y"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Bad (Acoustic)",
         "url": "https://open.spotify.com/album/6dxCR3nNb2InDCZslFNmhD"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/3nIOj4RC4F6FcaALZKVLWB"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Breaking Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/6XYyxgvciVfSwfy1Lr3aqW"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/5GoESTIjlsimLSqtLPBhDw"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Giants (Guitar)",
         "url": "https://open.spotify.com/album/0MSjhom26Fks1kedwf6ZaW"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/73bMIXlioc1cKjgMdEiKps"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Missing Piece (Acoustic)",
         "url": "https://open.spotify.com/album/4JYIftikyGLI2vxlWKeWmB"
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/3U9rKD4n0Gk03dxsAMkGs2"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Crashing (Remixes)",
         "url": "https://open.spotify.com/album/08zPkf6ym2ujJlcyBPAdsA"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1SreIFDe15GQC4BrdZW2Hh"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Hypnotized (Acoustic)",
         "url": "https://open.spotify.com/album/1YX8gwRQ8VUmJPTN54pVDv"
@@ -1061,27 +1061,7 @@
       "url": "https://open.spotify.com/track/1o9c8bI4cIWj26DC14nMOF"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/0QK2iz42DII4IWWQOzNg3l"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "fuck, i\u2019m lonely - stripped",
-      "url": "https://open.spotify.com/track/35JIFWky1D0rMRs3gUsQyg"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Trampoline (Stripped)",
         "url": "https://open.spotify.com/album/6RPcqbYgcBZw5pSkPfnALB"
@@ -1097,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "I Do (Acoustic)",
         "url": "https://open.spotify.com/album/0wkXv1imF91qYQeBzXhkAA"
@@ -1117,7 +1097,7 @@
       "url": "https://open.spotify.com/track/65kVMNO2Q0RGw8zEnXA2E3"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz"
@@ -1137,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv"
@@ -1153,7 +1133,7 @@
       "url": "https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "17 (Acoustic)",
         "url": "https://open.spotify.com/album/6KeC6LLX6HHL4H9w2wb2K9"
@@ -1169,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4ensio3acJ17PegjBcmXVg"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
@@ -1189,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Safe With Me (with Audrey Mika) [Acoustic]",
         "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
@@ -1209,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Sad Tonight (Original + Acoustic)",
         "url": "https://open.spotify.com/album/3NkEzmCBqHZiLjoJsRpG5L"
@@ -1225,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1aXIgw5xYdFSZhoK1f6VbI"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Wish It Would Rain (Piano Version)",
         "url": "https://open.spotify.com/album/34bQ1ACZOV5ynaJuePpqVr"
@@ -1241,7 +1221,7 @@
       "url": "https://open.spotify.com/track/1N0VH1ox2VN1u19j0HkIVP"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Three. Two. One. (Alternate Versions)",
         "url": "https://open.spotify.com/album/7ANFds5bgqG6WycfbGlFfD"
@@ -1257,7 +1237,7 @@
       "url": "https://open.spotify.com/track/2yT9NODpTJU5baYzEUTW38"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Alien (Acoustic)",
         "url": "https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU"
@@ -1273,7 +1253,7 @@
       "url": "https://open.spotify.com/track/5IYKZF1nw5V0GtxQN7mspQ"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "So What! (Acoustic)",
         "url": "https://open.spotify.com/album/5dLmrV9qbdoP6N3XCvQvF8"
@@ -1289,7 +1269,7 @@
       "url": "https://open.spotify.com/track/11TMCwobbRFkN4XtDs8g5u"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "To Be Young (feat. Doja Cat) [Acoustic]",
         "url": "https://open.spotify.com/album/55S3bs4sdQeFuHdTXiLQ9G"
@@ -1309,7 +1289,7 @@
       "url": "https://open.spotify.com/track/3iSu8rkvERzl5iY5GEGE1h"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
@@ -1325,7 +1305,7 @@
       "url": "https://open.spotify.com/track/76W2GSF7RhguLirVZ7gClG"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Too Close (Live Acoustic)",
         "url": "https://open.spotify.com/album/7hKBW8gY2UEGd4Ng6s9SSP"
@@ -1341,7 +1321,7 @@
       "url": "https://open.spotify.com/track/51AU7hD7lbLeEppubr1JdS"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Safe Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0"
@@ -1357,7 +1337,7 @@
       "url": "https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
@@ -1373,7 +1353,7 @@
       "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Mine (Stripped Version)",
         "url": "https://open.spotify.com/album/2djoKJZLB1vXSGxVOLhl5b"
@@ -1393,7 +1373,7 @@
       "url": "https://open.spotify.com/track/5GbX3kHPKh1tZhDzUbHqcf"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "There's No Way",
         "url": "https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx"
@@ -1413,7 +1393,7 @@
       "url": "https://open.spotify.com/track/71OIThiJmbKLnqbmNAAREk"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
@@ -1429,7 +1409,7 @@
       "url": "https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Better Break My Heart",
         "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
@@ -1445,7 +1425,7 @@
       "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "i don't wanna know",
         "url": "https://open.spotify.com/album/3EXg4D2T5PY1NBP2aiBWrf"
@@ -1465,7 +1445,7 @@
       "url": "https://open.spotify.com/track/25nRDHdWic4DCEJbaI6iDe"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
@@ -1481,7 +1461,7 @@
       "url": "https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Somebody (Acoustic)",
         "url": "https://open.spotify.com/album/5DbmSBevpqojf8A69IEwhR"
@@ -1497,7 +1477,7 @@
       "url": "https://open.spotify.com/track/0nWFVoAELIeNcPikBntCJi"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Someone To You",
         "url": "https://open.spotify.com/album/5pUQMrcO8qgvOWtBh853N5"
@@ -1513,7 +1493,7 @@
       "url": "https://open.spotify.com/track/12feeSGKNVKrzuKazFpTNN"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Stay (Acoustic)",
         "url": "https://open.spotify.com/album/33I53O0BDLOUyecefvTf2R"
@@ -1533,7 +1513,7 @@
       "url": "https://open.spotify.com/track/1EXxVBTTTzjgon6hWh3TuD"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Joke's On You (Acoustic)",
         "url": "https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ"
@@ -1549,7 +1529,7 @@
       "url": "https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "My My My! (Acoustic)",
         "url": "https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q"
@@ -1565,7 +1545,7 @@
       "url": "https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Dancing On My Own (Acoustic)",
         "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
@@ -1581,7 +1561,7 @@
       "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Never Seen The Rain (Alternate Version)",
         "url": "https://open.spotify.com/album/6MX2RQGxwnKc0iGlxTaWoS"
@@ -1597,7 +1577,7 @@
       "url": "https://open.spotify.com/track/0bd5hilfGwAKLPehO4SnYP"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "i'm so tired... (Stripped - Live in LA)",
         "url": "https://open.spotify.com/album/3bKSufZXpfGRvQ5qKBLJNh"
@@ -1617,7 +1597,7 @@
       "url": "https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "New Rules (Acoustic)",
         "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
@@ -1633,7 +1613,7 @@
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "In Your Arms (with X Ambassadors) - Stripped",
         "url": "https://open.spotify.com/album/1wXEZNc51l2gJSP3fm6Cni"
@@ -1653,7 +1633,7 @@
       "url": "https://open.spotify.com/track/33w2gkvsI5iAnMI8z8mYln"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
@@ -1669,7 +1649,7 @@
       "url": "https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG"
@@ -1685,7 +1665,7 @@
       "url": "https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL"
@@ -1705,7 +1685,7 @@
       "url": "https://open.spotify.com/track/5ViQpaAk3MlvdGPctEUNTw"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
@@ -1721,7 +1701,7 @@
       "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Everytime (Cover)",
         "url": "https://open.spotify.com/album/6BUQxlgMnt6sDXkfcm7Clm"

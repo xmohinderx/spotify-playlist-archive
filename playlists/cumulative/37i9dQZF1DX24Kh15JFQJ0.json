@@ -1418,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "Patsy Cline Crazy",
+        "url": "https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt"
+      },
+      "artists": [
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229696,
+      "name": "Patsy Cline Crazy",
+      "url": "https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy"
+    },
+    {
+      "album": {
         "name": "The Duets",
         "url": "https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb"
       },

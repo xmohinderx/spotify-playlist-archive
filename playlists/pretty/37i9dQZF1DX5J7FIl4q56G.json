@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Bad Omens",
-  "num_followers": 575278,
+  "num_followers": 575629,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
@@ -39,6 +39,22 @@
       "duration_ms": 217000,
       "name": "Home",
       "url": "https://open.spotify.com/track/6ZJJQrRZvxcRuitO9x1Dj9"
+    },
+    {
+      "added_at": "2022-02-25 00:00:00",
+      "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 204676,
+      "name": "Just Pretend",
+      "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
     },
     {
       "added_at": "2022-02-25 00:00:00",
@@ -207,7 +223,7 @@
     {
       "added_at": "2022-02-25 00:00:00",
       "album": {
-        "name": "Criminal",
+        "name": "Criminal (feat. Danny Case of From Ashes To New)",
         "url": "https://open.spotify.com/album/2Or8hZShFn4NUmSqg1pHaP"
       },
       "artists": [
@@ -221,7 +237,7 @@
         }
       ],
       "duration_ms": 247826,
-      "name": "Criminal",
+      "name": "Criminal (feat. Danny Case of From Ashes To New)",
       "url": "https://open.spotify.com/track/3NluPOPFVQ14Yglv86Cf0r"
     },
     {
@@ -403,6 +419,22 @@
       "duration_ms": 346238,
       "name": "Eternal Darkness",
       "url": "https://open.spotify.com/track/5KF33B01qnGgBYIp35LD6f"
+    },
+    {
+      "added_at": "2022-02-25 00:00:00",
+      "album": {
+        "name": "The Darkest Day of Man",
+        "url": "https://open.spotify.com/album/2EVITLbmfwFPzSGWVDBSbE"
+      },
+      "artists": [
+        {
+          "name": "The Voynich Code",
+          "url": "https://open.spotify.com/artist/7I2a6G196mt3zp1Qs0EAkj"
+        }
+      ],
+      "duration_ms": 178857,
+      "name": "The Darkest Day of Man",
+      "url": "https://open.spotify.com/track/3sqSBkIE3hLUWzAtDfvbGc"
     },
     {
       "added_at": "2022-02-25 00:00:00",

@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 211213,
       "name": "Brother",
       "url": "https://open.spotify.com/track/7JDnCjOAuR6snlt3k6VtbO"
@@ -854,6 +854,28 @@
     },
     {
       "album": {
+        "name": "Just Wrong",
+        "url": "https://open.spotify.com/album/17YsrMtHDv5KmqLWeqcAVd"
+      },
+      "artists": [
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Just Wrong",
+      "url": "https://open.spotify.com/track/20B96sgEcofUFcwtvWxXfK"
+    },
+    {
+      "album": {
         "name": "Koma Kaprifol",
         "url": "https://open.spotify.com/album/2K6NzSo1DWgQsAenWfryBM"
       },
@@ -925,7 +947,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 320279,
       "name": "Lockdown Drive",
       "url": "https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1"
@@ -1621,7 +1643,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 124001,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/21qFaiN2O06j08MVK13xnG"
@@ -1805,7 +1827,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 231454,
       "name": "Synchronized Swigging",
       "url": "https://open.spotify.com/track/3akI3Xo8cyRrPbKAALJENF"
@@ -2069,7 +2091,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 254610,
       "name": "Tremendoce (feat. Jonas Kullhammar & Per \"Texas\" Johansson)",
       "url": "https://open.spotify.com/track/1uZKWan10GRRfqLUOUVrJt"
@@ -2091,7 +2113,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 259093,
       "name": "Try Walk with Me",
       "url": "https://open.spotify.com/track/7oebiuuObYBjX2F4kuTKfn"
@@ -2243,7 +2265,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 136421,
       "name": "Yipee",
       "url": "https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo"

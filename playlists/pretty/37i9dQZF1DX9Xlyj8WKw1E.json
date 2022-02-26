@@ -1,72 +1,28 @@
 {
   "description": "Midwest music breaking waves. Vic Mensa.",
-  "num_followers": 1782,
+  "num_followers": 1798,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIyNTE1NSwwMDAwMDAxNTAwMDAwMTdmMGYwZjljNjYwMDAwMDE3ZjBmMGM3ZjAy",
+  "snapshot_id": "MTY0NTgyMTE2NiwwMDAwMDAxNjAwMDAwMTdmMzI5NjA0NDMwMDAwMDE3ZjBmMGM3ZjAy",
   "tracks": [
     {
-      "added_at": "2022-02-18 22:05:21",
+      "added_at": "2022-02-25 20:32:46",
       "album": {
-        "name": "Vino Valentino",
-        "url": "https://open.spotify.com/album/6VUwc3uOKpIwynTknkl4NO"
+        "name": "AHHH HA",
+        "url": "https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi"
       },
       "artists": [
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 159834,
-      "name": "Alone Wit U",
-      "url": "https://open.spotify.com/track/37vKMVS09fFGhcaSkOA7mv"
-    },
-    {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
-        "name": "Survivor's Guilt (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/5YOSBQ1qVEKRJo5YGBiE7p"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 222830,
-      "name": "Survivor's Guilt (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1ZTOr7I40ziaQb1vvCM3Ar"
-    },
-    {
-      "added_at": "2022-02-18 22:05:21",
-      "album": {
-        "name": "Don't Play That",
-        "url": "https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 133613,
-      "name": "Don't Play That",
-      "url": "https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL"
+      "duration_ms": 186538,
+      "name": "AHHH HA",
+      "url": "https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -91,6 +47,26 @@
       "duration_ms": 256000,
       "name": "City of Gods",
       "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
+    },
+    {
+      "added_at": "2022-02-18 22:05:21",
+      "album": {
+        "name": "Don't Play That",
+        "url": "https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 133613,
+      "name": "Don't Play That",
+      "url": "https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -127,6 +103,26 @@
       "duration_ms": 161948,
       "name": "Sincerely Face",
       "url": "https://open.spotify.com/track/1waGPIj1dVvVj1K7g2Qqkl"
+    },
+    {
+      "added_at": "2022-01-29 00:28:11",
+      "album": {
+        "name": "Survivor's Guilt (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5YOSBQ1qVEKRJo5YGBiE7p"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 222830,
+      "name": "Survivor's Guilt (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1ZTOr7I40ziaQb1vvCM3Ar"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -275,6 +271,26 @@
     {
       "added_at": "2022-02-18 22:05:21",
       "album": {
+        "name": "Vino Valentino",
+        "url": "https://open.spotify.com/album/6VUwc3uOKpIwynTknkl4NO"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+        }
+      ],
+      "duration_ms": 159834,
+      "name": "Alone Wit U",
+      "url": "https://open.spotify.com/track/37vKMVS09fFGhcaSkOA7mv"
+    },
+    {
+      "added_at": "2022-02-18 22:05:21",
+      "album": {
         "name": "Few Good Things",
         "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
       },
@@ -319,6 +335,46 @@
       "duration_ms": 243840,
       "name": "No Yeast (feat. Boldy James)",
       "url": "https://open.spotify.com/track/3x9UBH1vVMNVLCPTx9duyZ"
+    },
+    {
+      "added_at": "2022-02-25 20:32:46",
+      "album": {
+        "name": "What's Mine (feat. Mick Jenkins) [Remix]",
+        "url": "https://open.spotify.com/album/4H38sKAmyzTmA1qKfF6UL8"
+      },
+      "artists": [
+        {
+          "name": "Ridgio",
+          "url": "https://open.spotify.com/artist/5r8qfCuOo2mfyB5gxCq5jt"
+        },
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "What's Mine (feat. Mick Jenkins) [Remix]",
+      "url": "https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe"
+    },
+    {
+      "added_at": "2022-02-25 20:32:46",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/66M1yxhYoJ0iT7k36rOpid"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        }
+      ],
+      "duration_ms": 134347,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4"
     },
     {
       "added_at": "2021-11-23 21:08:14",
@@ -449,6 +505,26 @@
       "url": "https://open.spotify.com/track/2mMfkW04nw3sBm4Nvisqqj"
     },
     {
+      "added_at": "2022-02-25 20:32:46",
+      "album": {
+        "name": "CircoLoco Records & NEZ Present CLR 002",
+        "url": "https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Let's Get It",
+      "url": "https://open.spotify.com/track/1Lpl62qGlJaaojgGiJNVho"
+    },
+    {
       "added_at": "2022-01-29 00:28:11",
       "album": {
         "name": "Remain Calm",
@@ -523,6 +599,26 @@
       "duration_ms": 205758,
       "name": "Elon Musk (feat. Gunna)",
       "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
+    },
+    {
+      "added_at": "2022-02-25 20:32:46",
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 201737,
+      "name": "Take You Back (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/1WrVBzjNuyDBqh0kXHFsCr"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -667,26 +763,6 @@
       "duration_ms": 150047,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/5N6vjwJxMYFUMxpKwl1MC7"
-    },
-    {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
-        "name": "Tiers",
-        "url": "https://open.spotify.com/album/1HIkq2YafXRzNeWWKNvu1d"
-      },
-      "artists": [
-        {
-          "name": "BackWood Jones",
-          "url": "https://open.spotify.com/artist/1EnqhiHKKjWrmjeqzCF3Vj"
-        },
-        {
-          "name": "Rockie Fresh",
-          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
-        }
-      ],
-      "duration_ms": 179252,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/0dWveOD00663ojF1djcg0I"
     },
     {
       "added_at": "2022-02-18 22:05:21",
@@ -917,54 +993,6 @@
       "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
     },
     {
-      "added_at": "2021-11-23 21:08:14",
-      "album": {
-        "name": "Single For The Night",
-        "url": "https://open.spotify.com/album/3XM1kHkESoB6PUPVMQbsSs"
-      },
-      "artists": [
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        }
-      ],
-      "duration_ms": 213472,
-      "name": "Single For The Night",
-      "url": "https://open.spotify.com/track/52xVPyGwuke1m6LZgQPWow"
-    },
-    {
-      "added_at": "2021-11-23 21:08:14",
-      "album": {
-        "name": "Get My Way",
-        "url": "https://open.spotify.com/album/4TGlSUKZEjmh4Sj1mtYFAW"
-      },
-      "artists": [
-        {
-          "name": "Tay Outlaw",
-          "url": "https://open.spotify.com/artist/63NScFEHlgit34dvvivwYi"
-        }
-      ],
-      "duration_ms": 131018,
-      "name": "Get My Way",
-      "url": "https://open.spotify.com/track/6AJT1CZjVSZV72Mu3I8uwv"
-    },
-    {
-      "added_at": "2022-01-29 00:28:11",
-      "album": {
-        "name": "Know Yo Place",
-        "url": "https://open.spotify.com/album/0vLKb8NiKUlVhLBLl7mSsS"
-      },
-      "artists": [
-        {
-          "name": "Rahli",
-          "url": "https://open.spotify.com/artist/6WwVzGJQWr2jU3iBgl8WPm"
-        }
-      ],
-      "duration_ms": 117054,
-      "name": "Know Yo Place",
-      "url": "https://open.spotify.com/track/55n1El8TPzXb2q9wi1CPkt"
-    },
-    {
       "added_at": "2021-10-08 04:52:26",
       "album": {
         "name": "HUH?",
@@ -1007,22 +1035,6 @@
       "duration_ms": 195446,
       "name": "Offense (feat. Babyface Ray, 42 Dugg)",
       "url": "https://open.spotify.com/track/26vz4FXMIgRyGj2hxmzttd"
-    },
-    {
-      "added_at": "2021-11-23 21:08:14",
-      "album": {
-        "name": "A 64 East Saga",
-        "url": "https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8"
-      },
-      "artists": [
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 146635,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/2PSFFWO59XLq7CK0m63lcS"
     },
     {
       "added_at": "2021-11-23 21:08:14",

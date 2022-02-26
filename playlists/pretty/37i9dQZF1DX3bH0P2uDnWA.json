@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 269417,
+  "num_followers": 269597,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQ2MCwwMDAwMDA2MDAwMDAwMTdmMGIzNDZmNmQwMDAwMDE3MjYxYTM2NDE2",
+  "snapshot_id": "MTY0NTc2NTMyMCwwMDAwMDA2MTAwMDAwMTdmMmY0MWRkOTkwMDAwMDE3MjYxYTM2NDE2",
   "tracks": [
     {
       "added_at": "2022-01-21 05:01:00",
@@ -79,6 +79,26 @@
       "duration_ms": 199186,
       "name": "POP SONG",
       "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Vintage Vibes",
+        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Hep Cat Boogie",
+      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -163,6 +183,26 @@
       "duration_ms": 228993,
       "name": "Code Red",
       "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Cookie Monster (Atom Smith Remix)",
+        "url": "https://open.spotify.com/album/2xhOnFUsQM8HDW8WMtXvQs"
+      },
+      "artists": [
+        {
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
+        },
+        {
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Cookie Monster - Atom Smith Remix Radio Edit",
+      "url": "https://open.spotify.com/track/1uE0kd0NxA9tnybOSI4rHJ"
     },
     {
       "added_at": "2021-10-22 04:02:00",

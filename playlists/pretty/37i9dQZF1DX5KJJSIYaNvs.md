@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover:   Tulsi Kumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,417 likes - 41 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,472 likes - 41 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 29 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 |
 | 30 | [Do Gallan](https://open.spotify.com/track/69zSOewOfa2IvIRMveL1Cc) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Do Gallan](https://open.spotify.com/album/2HrVaAJe8MmP7D3lXqhR2x) | 4:11 |
 | 31 | [Vail](https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Vail](https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm) | 3:20 |
-| 32 | [Fikkar Koi Na \- Female Version](https://open.spotify.com/track/3aUeXn3MYEojxXBqrdJlgy) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Sync](https://open.spotify.com/artist/1JT2GXhUeRkIglDUazBmVH), [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3) | [Fikkar Koi Na \(Female Version\)](https://open.spotify.com/album/07HlaUf3JFUc8jhxvlnLcE) | 2:52 |
+| 32 | [Fikkar Koi Na \- Female Version](https://open.spotify.com/track/3aUeXn3MYEojxXBqrdJlgy) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3), [Sync](https://open.spotify.com/artist/1JT2GXhUeRkIglDUazBmVH) | [Fikkar Koi Na \(Female Version\)](https://open.spotify.com/album/07HlaUf3JFUc8jhxvlnLcE) | 2:52 |
 | 33 | [Kehndi Haan Kehndi Naa](https://open.spotify.com/track/7jl8FKIm4v4RfaGXLEV0s6) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Kehndi Haan Kehndi Naa](https://open.spotify.com/album/5KBhZPdX6L8iWK8E6azUde) | 3:21 |
 | 34 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 |
 | 35 | [Video Bana De](https://open.spotify.com/track/7hXcOpRn1c1zFG6sOFcfj5) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Video Bana De](https://open.spotify.com/album/5dCxhMSOKC6RTwWcAFCtM0) | 3:07 |

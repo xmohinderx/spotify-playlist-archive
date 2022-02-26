@@ -2,7 +2,7 @@
 
 ### [Carnival](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 
-> Carnival 2022 is in session, follow Kes as he takes us on a trip to the Trinidad
+> Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

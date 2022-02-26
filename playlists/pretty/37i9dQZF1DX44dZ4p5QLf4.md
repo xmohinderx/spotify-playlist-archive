@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,636 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,788 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 6 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 |
 | 7 | [Built My Home](https://open.spotify.com/track/6FIC1Y4IpNssSMNGRdmKf7) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Miss Catharsis](https://open.spotify.com/album/3PoGDb50l4mcpZTlLT0zlz) | 3:17 |
 | 8 | [Illusions](https://open.spotify.com/track/7KbAnSIxjZb8AXkMM1EfTG) | [EMY](https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG) | [Illusions](https://open.spotify.com/album/351WcL5BItxQNGjf4zVCkw) | 3:21 |
-| 9 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnous](https://open.spotify.com/artist/6E6u4TU4voMEUH9gBN9w9Y) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 |
+| 9 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 |
 | 10 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 |
 | 11 | [Home](https://open.spotify.com/track/3wa8JC8fe9gtsrMj7pXiKz) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI) | 3:03 |
 | 12 | [Lessons \- Remix](https://open.spotify.com/track/3k6Eu5Gq7PM7krNbCqkQUs) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Lessons \(Remix\)](https://open.spotify.com/album/78IsczI1FMVEkgbynVBvHl) | 6:37 |

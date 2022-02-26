@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos del Regional Mexicano](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Eden Muñoz, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Christian Nodal, al millón con La Reina.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

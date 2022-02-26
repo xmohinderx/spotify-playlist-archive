@@ -2414,6 +2414,24 @@
     },
     {
       "album": {
+        "name": "I Got It",
+        "url": "https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/1JDkzuh3dAeEWkldLgT3qs"
       },
@@ -4633,8 +4651,8 @@
       },
       "artists": [
         {
-          "name": "Shemarr",
-          "url": "https://open.spotify.com/artist/54HhP8SAEGiragWDF8dBuH"
+          "name": "Marrgxela",
+          "url": "https://open.spotify.com/artist/4jvSn0Ijc8PoLahVQJmk2l"
         }
       ],
       "date_added": "2022-02-02",

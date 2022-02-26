@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Hailey Whitters",
+  "description": "A new shade of Country. Cover: Zach Bryan",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -211,6 +211,28 @@
       "duration_ms": 170206,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/0oP1BhXWDnjhpLXoZmMkBU"
+    },
+    {
+      "album": {
+        "name": "Broken Families",
+        "url": "https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197391,
+      "name": "Broken Families",
+      "url": "https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR"
     },
     {
       "album": {
@@ -435,7 +457,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 189585,
       "name": "Country as Fuck",
       "url": "https://open.spotify.com/track/3rXcD1ODKBv1MJnb1PY2pL"
@@ -493,7 +515,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
@@ -558,6 +580,32 @@
     },
     {
       "album": {
+        "name": "Dooley's Farm (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221302,
+      "name": "Dooley's Farm (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd"
+    },
+    {
+      "album": {
         "name": "Dublin, Texas",
         "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
@@ -573,6 +621,24 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302578,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9"
     },
     {
       "album": {
@@ -677,7 +743,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 221773,
       "name": "Flash Paper",
       "url": "https://open.spotify.com/track/2HwuqFCH8jDGMEV19YMWD6"
@@ -699,6 +765,24 @@
       "duration_ms": 221533,
       "name": "For the Birds",
       "url": "https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq"
+    },
+    {
+      "album": {
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
       "album": {
@@ -1123,7 +1207,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 176443,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/11vIZRwrFkxHIxeSxjEegy"
@@ -1297,7 +1381,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 176346,
       "name": "It Takes One To Know One",
       "url": "https://open.spotify.com/track/68kPetBJF8tl8DxflbOqPI"
@@ -1858,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192539,
+      "name": "Roll",
+      "url": "https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
       },
@@ -2209,7 +2311,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 271933,
       "name": "The Fight Song (feat. Caitlin Rose)",
       "url": "https://open.spotify.com/track/37yOe37MGecnwyReOjmr8O"

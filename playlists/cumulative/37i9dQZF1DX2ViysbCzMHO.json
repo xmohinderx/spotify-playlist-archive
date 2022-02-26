@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "ABCDEFU (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7on7eQbCCF9vPj2vnL2Txb"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169976,
+      "name": "ABCDEFU - Live Acoustic",
+      "url": "https://open.spotify.com/track/11oLOD6csB1XCKLxAgDnG7"
+    },
+    {
+      "album": {
         "name": "All I Know About Girls",
         "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },

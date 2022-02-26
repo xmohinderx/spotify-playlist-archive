@@ -2396,6 +2396,24 @@
     },
     {
       "album": {
+        "name": "SNOW",
+        "url": "https://open.spotify.com/album/3R8UalrmNYbLDw6Gd3X2nd"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "SNOW",
+      "url": "https://open.spotify.com/track/0C6BcGOiT8IMezEPAW5sOq"
+    },
+    {
+      "album": {
         "name": "Speak Up (feat. Elsa Mickayla)",
         "url": "https://open.spotify.com/album/6cVuY3mB3GEqrHY3p7Eys3"
       },

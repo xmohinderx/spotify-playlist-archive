@@ -1,13 +1,45 @@
 {
-  "description": "All new, all blues. Cover: Sugaray Rayford",
-  "num_followers": 112083,
+  "description": "All new, all blues. Cover: Chris St. Hilaire",
+  "num_followers": 112131,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDUyMCwwMDAwMDBiNTAwMDAwMTdmMGIzNTU5OWYwMDAwMDE3ZTQ1ZGJiZGU0",
+  "snapshot_id": "MTY0NTc2NTMyMCwwMDAwMDBiNjAwMDAwMTdmMmY0MWRkOTIwMDAwMDE3ZjI3OWNkMDZj",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Practice What You Preach",
+        "url": "https://open.spotify.com/album/5FtVDZRzGwWzBqcsC0bmXf"
+      },
+      "artists": [
+        {
+          "name": "Chris St. Hilaire",
+          "url": "https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn"
+        }
+      ],
+      "duration_ms": 165680,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 220974,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
+    },
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Darkness I Feel",
+        "url": "https://open.spotify.com/album/1kANdOqNzn3Ua5rKRezSFj"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Darkness I Feel",
+      "url": "https://open.spotify.com/track/43haQPyxARYypn8u8ocsym"
+    },
+    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Please Take My Hand",
@@ -39,6 +87,26 @@
       "duration_ms": 183896,
       "name": "Please Take My Hand",
       "url": "https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Spin Me Round",
+        "url": "https://open.spotify.com/album/4VegcvNuAqwaoVLpugOT2e"
+      },
+      "artists": [
+        {
+          "name": "Augie Bello",
+          "url": "https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg"
+        },
+        {
+          "name": "Casey Abrams",
+          "url": "https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Spin Me Round",
+      "url": "https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -73,22 +141,6 @@
       "url": "https://open.spotify.com/track/1kQX0xM3efET212Y1Lq0ZG"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Good for Nothing",
@@ -103,6 +155,22 @@
       "duration_ms": 190506,
       "name": "Good for Nothing",
       "url": "https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "The Man Was Burning",
+        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "duration_ms": 155665,
+      "name": "The Man Was Burning",
+      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
     },
     {
       "added_at": "2021-08-20 04:02:00",

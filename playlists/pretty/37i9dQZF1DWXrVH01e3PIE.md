@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > La casa del Trap de Argentino\. Foto: Bhavi & LIT killah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,658 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,773 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 10 | [Solo en la Capital](https://open.spotify.com/track/17buDxmd7vsHfSiHChazkS) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Atrapado en las Colinas](https://open.spotify.com/album/2Tuewq0PbKjIgUtIuCx1PL) | 2:42 |
 | 11 | [Lambo \- Remix](https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Lambo \(Remix\)](https://open.spotify.com/album/3GXikZX8EISv22KFluFDBx) | 4:11 |
 | 12 | [A tus Pies](https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:31 |
-| 13 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMÁ](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 |
+| 13 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMA](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 |
 | 14 | [OPA](https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OPA](https://open.spotify.com/album/7t8Tx5nUmUqw8rydzPSKFh) | 2:50 |
 | 15 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 |
 | 16 | [OTRA NOCHE](https://open.spotify.com/track/1JszOi9nTXFR5gxFyczhEw) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 2:49 |

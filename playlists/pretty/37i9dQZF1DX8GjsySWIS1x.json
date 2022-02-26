@@ -1,12 +1,12 @@
 {
   "description": "The latest in gaming music.",
-  "num_followers": 598787,
+  "num_followers": 598943,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTY0NTIzNCwwMDAwMDA1NzAwMDAwMTdmMjgxOTgwNzkwMDAwMDE3Yjg4MGY3MmI3",
+  "snapshot_id": "MTY0NTgwODA2NCwwMDAwMDA1ODAwMDAwMTdmMzFjZTE5NDcwMDAwMDE3Yjg4MGY3MmI3",
   "tracks": [
     {
       "added_at": "2022-01-05 21:28:14",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
+      "added_at": "2022-02-25 16:54:24",
+      "album": {
+        "name": "Fight Back",
+        "url": "https://open.spotify.com/album/3mwJO0XY1Yjq4O9oTHks6L"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Fight Back",
+      "url": "https://open.spotify.com/track/2zNTjCDUzoKhImvJfnk3vG"
+    },
+    {
       "added_at": "2021-10-15 16:30:09",
       "album": {
         "name": "SugarCrash!",
@@ -223,6 +239,30 @@
       "duration_ms": 120157,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
+    },
+    {
+      "added_at": "2022-02-25 16:54:24",
+      "album": {
+        "name": "Let's Drink Bleach",
+        "url": "https://open.spotify.com/album/2fRMFTkFrDtFtat8wheGEO"
+      },
+      "artists": [
+        {
+          "name": "Unknown Brain",
+          "url": "https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I"
+        },
+        {
+          "name": "Iyaz",
+          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Rooftop (feat. Iyaz & Shiah Maisel)",
+      "url": "https://open.spotify.com/track/4ie9pArPwNLe9JyEWLazfg"
     },
     {
       "added_at": "2022-02-23 19:40:34",

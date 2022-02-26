@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Get Out / Been Drinking",
+        "url": "https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I"
+      },
+      "artists": [
+        {
+          "name": "Sam Vance-Law",
+          "url": "https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G"
+    },
+    {
+      "album": {
         "name": "The Royal Concept EP",
         "url": "https://open.spotify.com/album/6rHd8d5VpLDE3TdgtrwZre"
       },

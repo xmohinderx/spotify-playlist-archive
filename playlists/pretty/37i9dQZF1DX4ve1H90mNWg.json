@@ -1,12 +1,12 @@
 {
   "description": "Texas music breaking waves. Cover, Mike Dimes. ",
-  "num_followers": 3103,
+  "num_followers": 3114,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIyNjQxNSwwMDAwMDAxMjAwMDAwMTdmMGYyMmQ2MjgwMDAwMDE3ZjBmMjIyZmUz",
+  "snapshot_id": "MTY0NTgyNDM2NiwwMDAwMDAxNTAwMDAwMTdmMzJjNmQ2ZjYwMDAwMDE3ZjBmMjIyZmUz",
   "tracks": [
     {
       "added_at": "2022-02-18 23:20:15",
@@ -49,10 +49,10 @@
       "url": "https://open.spotify.com/track/4cl6Z9a9lA9MY8lXiPQoFA"
     },
     {
-      "added_at": "2022-02-18 23:20:15",
+      "added_at": "2022-02-25 20:31:31",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj"
+        "name": "Slim Waist",
+        "url": "https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH"
       },
       "artists": [
         {
@@ -60,25 +60,9 @@
           "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
         }
       ],
-      "duration_ms": 152647,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
-    },
-    {
-      "added_at": "2022-02-18 23:20:15",
-      "album": {
-        "name": "After School",
-        "url": "https://open.spotify.com/album/3TRO7QJOiXQ3fUHd9TeDY1"
-      },
-      "artists": [
-        {
-          "name": "Whookilledkenny",
-          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
-        }
-      ],
-      "duration_ms": 139505,
-      "name": "After School",
-      "url": "https://open.spotify.com/track/2CpiEirGpP9IcTRiJ2tj60"
+      "duration_ms": 168175,
+      "name": "Slim Waist",
+      "url": "https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG"
     },
     {
       "added_at": "2022-01-29 00:07:15",
@@ -101,6 +85,70 @@
       "url": "https://open.spotify.com/track/0Ky1dUtWUl9WvaAuXrqWU1"
     },
     {
+      "added_at": "2022-01-29 00:07:15",
+      "album": {
+        "name": "We Not Humping",
+        "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 144195,
+      "name": "We Not Humping",
+      "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
+    },
+    {
+      "added_at": "2022-02-18 23:20:15",
+      "album": {
+        "name": "After School",
+        "url": "https://open.spotify.com/album/3TRO7QJOiXQ3fUHd9TeDY1"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "duration_ms": 139505,
+      "name": "After School",
+      "url": "https://open.spotify.com/track/2CpiEirGpP9IcTRiJ2tj60"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/1KnrbTqOq3GgMjf8fjlCwu"
+      },
+      "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        }
+      ],
+      "duration_ms": 153547,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7qeLgN61bBOdBUEEleUVN7"
+    },
+    {
+      "added_at": "2022-02-18 23:20:15",
+      "album": {
+        "name": "Talk My Shit",
+        "url": "https://open.spotify.com/album/2iQMcX4Rm7wNAuAR7ArUxS"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        }
+      ],
+      "duration_ms": 149903,
+      "name": "Talk My Shit",
+      "url": "https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN"
+    },
+    {
       "added_at": "2021-11-23 21:12:19",
       "album": {
         "name": "Still FWM",
@@ -121,52 +169,40 @@
       "url": "https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv"
     },
     {
-      "added_at": "2021-11-23 21:12:19",
+      "added_at": "2022-02-25 21:26:06",
       "album": {
-        "name": "Minor Setback",
-        "url": "https://open.spotify.com/album/7tnjEm8hHVuiPzixWLFPxn"
+        "name": "Codependency",
+        "url": "https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB"
       },
       "artists": [
         {
-          "name": "DJ Chose",
-          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+          "name": "David Saint Val",
+          "url": "https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J"
         }
       ],
-      "duration_ms": 149263,
-      "name": "Minor Setback",
-      "url": "https://open.spotify.com/track/7mLuBJwfOa3GcP8UeBDU04"
+      "duration_ms": 200681,
+      "name": "Codependency",
+      "url": "https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf"
     },
     {
-      "added_at": "2022-01-29 00:07:15",
+      "added_at": "2021-10-15 08:49:03",
       "album": {
-        "name": "We Not Humping",
-        "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
+        "name": "Life of a DON",
+        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
       "artists": [
         {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 144195,
-      "name": "We Not Humping",
-      "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
-    },
-    {
-      "added_at": "2022-02-18 23:20:15",
-      "album": {
-        "name": "Talk My Shit",
-        "url": "https://open.spotify.com/album/2iQMcX4Rm7wNAuAR7ArUxS"
-      },
-      "artists": [
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
         {
-          "name": "Yella Beezy",
-          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 149903,
-      "name": "Talk My Shit",
-      "url": "https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN"
+      "duration_ms": 183513,
+      "name": "Flocky Flocky (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG"
     },
     {
       "added_at": "2022-01-29 00:07:15",
@@ -187,22 +223,6 @@
       "duration_ms": 170000,
       "name": "Rose Gold Stripper Pole (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/41xbRAC6Vv2cu3o5HSh4tE"
-    },
-    {
-      "added_at": "2021-11-23 21:12:19",
-      "album": {
-        "name": "Now What",
-        "url": "https://open.spotify.com/album/3dg8YvsU5kI0Y16lZwkOaG"
-      },
-      "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        }
-      ],
-      "duration_ms": 154748,
-      "name": "Now What",
-      "url": "https://open.spotify.com/track/2ZMMv3r44alpiPBJk3LFHF"
     },
     {
       "added_at": "2022-01-29 00:07:15",
@@ -309,26 +329,6 @@
       "url": "https://open.spotify.com/track/2urE4My6PcNLELXCRnCoVj"
     },
     {
-      "added_at": "2021-10-15 08:49:03",
-      "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 183513,
-      "name": "Flocky Flocky (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG"
-    },
-    {
       "added_at": "2021-09-10 16:25:30",
       "album": {
         "name": "BIG PERSONA (feat. Tyler, The Creator)",
@@ -367,6 +367,38 @@
       "duration_ms": 168997,
       "name": "Hello (with Saucy Santana)",
       "url": "https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp"
+    },
+    {
+      "added_at": "2021-11-23 21:12:19",
+      "album": {
+        "name": "Now What",
+        "url": "https://open.spotify.com/album/3dg8YvsU5kI0Y16lZwkOaG"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "duration_ms": 154748,
+      "name": "Now What",
+      "url": "https://open.spotify.com/track/2ZMMv3r44alpiPBJk3LFHF"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/761RA2KlGjkUZbTrGhS7WH"
+      },
+      "artists": [
+        {
+          "name": "TAP TEEZY",
+          "url": "https://open.spotify.com/artist/26491QfceM0yHyjHHkanvD"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6rmTnarPDxVjWjCb8dxtri"
     },
     {
       "added_at": "2022-01-29 00:07:15",
@@ -497,6 +529,22 @@
       "url": "https://open.spotify.com/track/42ollc35fN6l5HZh8R3jWD"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "100 Years",
+        "url": "https://open.spotify.com/album/55StU7kaJVUrOg2d8cDubS"
+      },
+      "artists": [
+        {
+          "name": "Jayson Lyric",
+          "url": "https://open.spotify.com/artist/2CtJ90yJjxn0nL4a2lH0SA"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/3IgI0TzODwJxJ3coO9aqjC"
+    },
+    {
       "added_at": "2021-09-10 16:25:30",
       "album": {
         "name": "Broken Love",
@@ -593,6 +641,30 @@
       "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Neck Up (feat. Bairi & Dende)",
+        "url": "https://open.spotify.com/album/2nq2LFe4KtUgVTo2m77J97"
+      },
+      "artists": [
+        {
+          "name": "Deante' Hitchcock",
+          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
+        },
+        {
+          "name": "Bairi",
+          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 305960,
+      "name": "Neck Up (feat. Bairi & Dende)",
+      "url": "https://open.spotify.com/track/4RDBqutpLfd5wgkTCVc0Pd"
+    },
+    {
       "added_at": "2021-10-29 05:45:04",
       "album": {
         "name": "MARINE",
@@ -685,22 +757,6 @@
       "url": "https://open.spotify.com/track/57M7zz6261e3C16CE7urOv"
     },
     {
-      "added_at": "2022-01-29 00:07:15",
-      "album": {
-        "name": "That's Ok",
-        "url": "https://open.spotify.com/album/6924S13fWDdiqmhcPiE3V9"
-      },
-      "artists": [
-        {
-          "name": "Cam Wallace",
-          "url": "https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG"
-        }
-      ],
-      "duration_ms": 132496,
-      "name": "That's Ok",
-      "url": "https://open.spotify.com/track/6bSKQMbPAJSRC6JuNbFT5g"
-    },
-    {
       "added_at": "2022-02-18 23:20:15",
       "album": {
         "name": "Casa Blanco",
@@ -777,6 +833,22 @@
       "url": "https://open.spotify.com/track/7wh3IlhUFO3Mb2vHeKABJC"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Lust Just Vibe",
+        "url": "https://open.spotify.com/album/3mtzI3SxILm0y8sU2HuBCH"
+      },
+      "artists": [
+        {
+          "name": "Martina Marie",
+          "url": "https://open.spotify.com/artist/42Tsa4pAqU1FYWER3Mnria"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Mixing",
+      "url": "https://open.spotify.com/track/7FrslE7dUphprY9SwimGoT"
+    },
+    {
       "added_at": "2022-01-29 00:07:15",
       "album": {
         "name": "Juice Box",
@@ -791,62 +863,6 @@
       "duration_ms": 169012,
       "name": "Juice Box",
       "url": "https://open.spotify.com/track/2jViL46toq1BVMaXGHQZF2"
-    },
-    {
-      "added_at": "2022-02-18 23:20:15",
-      "album": {
-        "name": "Fully",
-        "url": "https://open.spotify.com/album/7ckUIf6MMU3jx2mYCxIJE5"
-      },
-      "artists": [
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        },
-        {
-          "name": "GGO Kurt",
-          "url": "https://open.spotify.com/artist/0vz5Vjiz8a9dq9PEBACdRG"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Fully",
-      "url": "https://open.spotify.com/track/3pFpmPbKmlZkn2bx3BjZeZ"
-    },
-    {
-      "added_at": "2021-07-12 09:13:04",
-      "album": {
-        "name": "Blood Sample",
-        "url": "https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3"
-      },
-      "artists": [
-        {
-          "name": "OMB Bloodbath",
-          "url": "https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 189325,
-      "name": "Not Gang (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0"
-    },
-    {
-      "added_at": "2022-01-29 00:07:15",
-      "album": {
-        "name": "Daddy",
-        "url": "https://open.spotify.com/album/0hpUYsZh6KX7eeo6C4WgD4"
-      },
-      "artists": [
-        {
-          "name": "Martina Marie",
-          "url": "https://open.spotify.com/artist/42Tsa4pAqU1FYWER3Mnria"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/4purtg9Xq4w4MXu8RLUB3t"
     },
     {
       "added_at": "2022-01-29 00:07:15",

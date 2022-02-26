@@ -1332,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Sunday Sermons",
+        "url": "https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Sunday Sermons",
+      "url": "https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs"
+    },
+    {
+      "album": {
         "name": "Talking To God",
         "url": "https://open.spotify.com/album/7JgroVcKnQavSOJ0xzu2CA"
       },
@@ -1697,6 +1715,28 @@
       "duration_ms": 214729,
       "name": "Whites Creek",
       "url": "https://open.spotify.com/track/4rWQo8QRfK24fOzg0rEwRF"
+    },
+    {
+      "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/4765xGMEoI3u2OOrNtNqQx"
+      },
+      "artists": [
+        {
+          "name": "The Swon Brothers",
+          "url": "https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY"
+        },
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202867,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6AbFsKUHKy3ua32eZmA1wv"
     },
     {
       "album": {

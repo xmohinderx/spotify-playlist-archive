@@ -614,6 +614,24 @@
     },
     {
       "album": {
+        "name": "00s Piano Covers",
+        "url": "https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B"
+      },
+      "artists": [
+        {
+          "name": "Henry Smith",
+          "url": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182625,
+      "name": "I'm Yours - Piano Version",
+      "url": "https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2"
+    },
+    {
+      "album": {
         "name": "Imagine What a Wonderful World",
         "url": "https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC"
       },

@@ -1,13 +1,85 @@
 {
-  "description": "New jazz for open minds. Cover: Brandee Younger",
-  "num_followers": 799745,
+  "description": "New jazz for open minds. Cover: Blue Lab Beats",
+  "num_followers": 799883,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTY0NjE5MCwwMDAwMDFjMDAwMDAwMTdmMjgyODE1YjUwMDAwMDE3ZWZmOGEzZTkx",
+  "snapshot_id": "MTY0NTc2ODEzNCwwMDAwMDFjMTAwMDAwMTdmMmY2Y2NkYzQwMDAwMDE3ZjI4M2Y3MDZk",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        }
+      ],
+      "duration_ms": 265022,
+      "name": "Warp",
+      "url": "https://open.spotify.com/track/0U9hekAvk594eG77ipTLDR"
+    },
+    {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "For Some Time",
+        "url": "https://open.spotify.com/album/64fUfACCDGOOHA8OcPDL01"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        },
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Kris Davis",
+          "url": "https://open.spotify.com/artist/3Noi5BtszygxpaGkmvSNGv"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        },
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "For Some Time",
+      "url": "https://open.spotify.com/track/6Aze3fJpctyiW2b11U5K1j"
+    },
+    {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "If I Should Lose You",
+        "url": "https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 327251,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf"
+    },
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
@@ -45,6 +117,46 @@
       "url": "https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML"
     },
     {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/7Gr4BU3sEqzzfpeIJiyO9E"
+      },
+      "artists": [
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Libra",
+      "url": "https://open.spotify.com/track/0A63tsENDnCLcmZE7UEpDj"
+    },
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "De-Dah",
@@ -59,6 +171,82 @@
       "duration_ms": 255682,
       "name": "De-Dah",
       "url": "https://open.spotify.com/track/5Mr3wSYstgd22IE5GzprgT"
+    },
+    {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/5PnsHCt16798AKmngcZMBP"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 401560,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/0xWvC0sXy50OhLr2f8lZTV"
+    },
+    {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "RGB",
+        "url": "https://open.spotify.com/album/2TxhVHh1bMkqBnhJAod8Y9"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Aiden McKeon",
+          "url": "https://open.spotify.com/artist/3HtbSwA6ASwHmClcy6KF5n"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "RGB",
+      "url": "https://open.spotify.com/track/2JgSWztfXsSFkYKhMNh8gz"
+    },
+    {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        },
+        {
+          "name": "Dylan Jones",
+          "url": "https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG"
+        }
+      ],
+      "duration_ms": 215863,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -77,36 +265,76 @@
       "url": "https://open.spotify.com/track/31KtddFzLJobEIyxBHT3gS"
     },
     {
-      "added_at": "2022-02-10 23:00:00",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/55HaJYtXUgeT4Xs0XHbXGp"
+        "name": "Just Coolin\u2019",
+        "url": "https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa"
       },
       "artists": [
         {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1"
+      "duration_ms": 408240,
+      "name": "Just Coolin\u2019",
+      "url": "https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ"
     },
     {
-      "added_at": "2022-02-10 23:00:00",
+      "added_at": "2022-02-25 05:48:54",
       "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+        "name": "Love Brings Happiness",
+        "url": "https://open.spotify.com/album/61bEOxbzEl2evLjBmii1es"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Loren Oden",
+          "url": "https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ"
         }
       ],
-      "duration_ms": 280400,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+      "duration_ms": 293781,
+      "name": "Love Brings Happiness",
+      "url": "https://open.spotify.com/track/1siSBgeVP8XmhgvjQadP38"
+    },
+    {
+      "added_at": "2022-02-25 05:48:54",
+      "album": {
+        "name": "Naked Truth",
+        "url": "https://open.spotify.com/album/1J2ioWaCeYQxhBs5kGsOG1"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp"
+        },
+        {
+          "name": "Yonathan Avishai",
+          "url": "https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7"
+        },
+        {
+          "name": "Barak Mori",
+          "url": "https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP"
+        },
+        {
+          "name": "Ziv Ravitz",
+          "url": "https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Naked Truth - Pt. 8",
+      "url": "https://open.spotify.com/track/1YulPZXMQ3FAjBfwRQmBH3"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -171,22 +399,6 @@
       "duration_ms": 248562,
       "name": "Unrest II",
       "url": "https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Just Coolin\u2019",
-        "url": "https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 408240,
-      "name": "Just Coolin\u2019",
-      "url": "https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -339,78 +551,6 @@
       "duration_ms": 223078,
       "name": "maybe as his skies are wide",
       "url": "https://open.spotify.com/track/71ub8FJO1gg3OmLfBdrl53"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Loping",
-        "url": "https://open.spotify.com/album/47HeBBOOQdUShj9mWPTPiy"
-      },
-      "artists": [
-        {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
-        },
-        {
-          "name": "Matthew Stevens",
-          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
-        },
-        {
-          "name": "Kris Davis",
-          "url": "https://open.spotify.com/artist/3Noi5BtszygxpaGkmvSNGv"
-        },
-        {
-          "name": "Dave Holland",
-          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
-        },
-        {
-          "name": "Terri Lyne Carrington",
-          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
-        }
-      ],
-      "duration_ms": 307055,
-      "name": "Loping",
-      "url": "https://open.spotify.com/track/6qKaQAZktNloYhd4BZxFLk"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Morse Code",
-        "url": "https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy"
-      },
-      "artists": [
-        {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Noah Denton",
-          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
-        },
-        {
-          "name": "Rob Araujo",
-          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
-        },
-        {
-          "name": "Raghav Mehrotra",
-          "url": "https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1"
-        },
-        {
-          "name": "Aidan McKeon",
-          "url": "https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk"
-        },
-        {
-          "name": "Noah Wise",
-          "url": "https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Morse Code",
-      "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
       "added_at": "2022-02-10 23:00:00",

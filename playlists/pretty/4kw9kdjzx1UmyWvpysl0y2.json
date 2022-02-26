@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127662,
+  "num_followers": 127663,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI2NywwNTVkZTEzZDQ4MDM3YzdjYzA2ODY5NmM4YzhmZDgzMTZiN2Y0NDA4",
+  "snapshot_id": "MzI3MSwyNjljOWRhNjI3ZGYxNzhhZDU0OTM1Y2E2OTM5MjZhZjVjZDZiM2Qw",
   "tracks": [
+    {
+      "added_at": "2022-02-25 17:48:51",
+      "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Robin Vane",
+          "url": "https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW"
+        }
+      ],
+      "duration_ms": 200815,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq"
+    },
+    {
+      "added_at": "2022-02-25 17:48:51",
+      "album": {
+        "name": "Austrumi",
+        "url": "https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si"
+      },
+      "artists": [
+        {
+          "name": "Stendahl",
+          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Austrumi",
+      "url": "https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS"
+    },
     {
       "added_at": "2022-02-24 17:30:43",
       "album": {
@@ -1115,46 +1151,6 @@
       "duration_ms": 255000,
       "name": "Find You",
       "url": "https://open.spotify.com/track/7bl50TyWM1apVF684jNU2e"
-    },
-    {
-      "added_at": "2021-11-23 17:35:14",
-      "album": {
-        "name": "Shadow (Acoustic)",
-        "url": "https://open.spotify.com/album/240Kl4TuM2QTwUNs4CJb3o"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        },
-        {
-          "name": "JT Roach",
-          "url": "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Shadow - Acoustic",
-      "url": "https://open.spotify.com/track/4zhtUqtROlgV1RYSm9Fk2D"
-    },
-    {
-      "added_at": "2021-11-22 17:22:12",
-      "album": {
-        "name": "Tripwire",
-        "url": "https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 185996,
-      "name": "Tripwire",
-      "url": "https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

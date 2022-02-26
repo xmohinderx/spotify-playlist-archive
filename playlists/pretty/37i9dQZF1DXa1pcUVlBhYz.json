@@ -1,32 +1,276 @@
 {
   "description": "Electronic + Dance making waves, every month. Cover: KAYTRANADA.",
-  "num_followers": 9071,
+  "num_followers": 9096,
   "original_name": "Electronic + Dance Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc1MDM0MywwMDAwMDAwMDFkYWM1YzNmZDNkNWEzOWEzZWM3MjUxMDEyYmE3NDE1",
+  "snapshot_id": "MTY0NTgzNjUzNCwwMDAwMDAwMGQzYjY3MDcxY2M3NTMwYjQ3YjFjNDVlOTM5NGM3NTIz",
   "tracks": [
     {
-      "added_at": "2022-02-01 14:55:30",
+      "added_at": "2022-02-25 05:01:00",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "Wild Side (feat. KAYTRANADA) [KAYTRANADA Remix]",
+        "url": "https://open.spotify.com/album/2VzKdDTQMJ8VReWnmEOiSN"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+      "duration_ms": 264000,
+      "name": "Wild Side (feat. KAYTRANADA) - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/2smDPFcFsLTxDrckkOL2gR"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Getting Late",
+        "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        }
+      ],
+      "duration_ms": 254557,
+      "name": "Getting Late",
+      "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "added_at": "2022-02-01 14:55:30",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 175416,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "CircoLoco Records & NEZ Present CLR 002",
+        "url": "https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 215624,
+      "name": "You Wanna?",
+      "url": "https://open.spotify.com/track/6BRJxAgTCr7zCOmTkZuY2Q"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Tell Me What To Do",
+        "url": "https://open.spotify.com/album/0dv69CwaPecupmMpu0cocl"
+      },
+      "artists": [
+        {
+          "name": "Lake Stovall",
+          "url": "https://open.spotify.com/artist/1EEuN5YJWn70WP9YkfW38X"
+        }
+      ],
+      "duration_ms": 205777,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/3kqk3kfgy6ENe1Y6YdrJVH"
+    },
+    {
+      "added_at": "2022-02-01 14:55:30",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 258456,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Ethiopia (Boddhi Satva Ancestral Soul Dub)",
+        "url": "https://open.spotify.com/album/5NllzQSC7PQYXXF2qccTK5"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        },
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        }
+      ],
+      "duration_ms": 249831,
+      "name": "Ethiopia - Boddhi Satva Ancestral Soul Dub",
+      "url": "https://open.spotify.com/track/7CKDVz4lP7qJz6M2y3ZlYU"
+    },
+    {
+      "added_at": "2022-02-01 14:55:30",
+      "album": {
+        "name": "You Could Be",
+        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
+      },
+      "artists": [
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 218024,
+      "name": "You Could Be",
+      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "2 Luv U Better",
+        "url": "https://open.spotify.com/album/0B1f88cgCSb3VAMCLqEK73"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Lambo Beach",
+          "url": "https://open.spotify.com/artist/1v8jvO1mW5bU5IiIozqj3N"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "2 Luv U Better",
+      "url": "https://open.spotify.com/track/3PFUozfCJJKXLtUEcEvdTR"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Ayye Mane (feat. Blue November, Lauren Truee & Garrott Odom)",
+        "url": "https://open.spotify.com/album/5MWOMY7MLOh5crS1CRUpxT"
+      },
+      "artists": [
+        {
+          "name": "J.Robb",
+          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
+        },
+        {
+          "name": "Blue November",
+          "url": "https://open.spotify.com/artist/4htVqP1ktKHtZzGFgBUcNm"
+        },
+        {
+          "name": "Lauren Truee",
+          "url": "https://open.spotify.com/artist/58RDtlBpStz1cVtzhKVbwZ"
+        },
+        {
+          "name": "Garrott Odom",
+          "url": "https://open.spotify.com/artist/3JuP0m7MlXW5bQy8DlGbx4"
+        }
+      ],
+      "duration_ms": 248580,
+      "name": "Ayye Mane (feat. Blue November, Lauren Truee & Garrott Odom)",
+      "url": "https://open.spotify.com/track/3pt3WoId5BLSCGWsHAOHAW"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Zfrek",
+          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Shake My Ass",
+      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Classics II",
+        "url": "https://open.spotify.com/album/2oCs1zkolJFbWmjEIqJFQn"
+      },
+      "artists": [
+        {
+          "name": "Lakim",
+          "url": "https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI"
+        }
+      ],
+      "duration_ms": 250775,
+      "name": "A Pimp Named Slickback",
+      "url": "https://open.spotify.com/track/69IzWtMP6VAEr5kpA5tURl"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Vibrate EP",
+        "url": "https://open.spotify.com/album/1XA5pJst8an1je2nL1abwX"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 128955,
+      "name": "Put Cha Back In It",
+      "url": "https://open.spotify.com/track/2HaDgYUwvxt4bqVuwaY8uY"
     },
     {
       "added_at": "2022-02-01 14:55:30",
@@ -51,18 +295,42 @@
     {
       "added_at": "2022-02-01 14:55:30",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj"
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 258456,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3"
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
     },
     {
       "added_at": "2022-02-01 14:55:30",
@@ -79,26 +347,6 @@
       "duration_ms": 281381,
       "name": "Joy",
       "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
-    },
-    {
-      "added_at": "2022-02-01 14:55:30",
-      "album": {
-        "name": "You Could Be",
-        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
-      },
-      "artists": [
-        {
-          "name": "Anz",
-          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 218024,
-      "name": "You Could Be",
-      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
     },
     {
       "added_at": "2022-02-01 14:55:30",
@@ -135,26 +383,6 @@
       "duration_ms": 204730,
       "name": "Nothing More To Say",
       "url": "https://open.spotify.com/track/6AZeqOMQc0S7gpnmPJ34ao"
-    },
-    {
-      "added_at": "2022-02-01 14:55:30",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 175416,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
       "added_at": "2022-02-01 14:55:30",
@@ -1443,26 +1671,6 @@
     {
       "added_at": "2022-02-01 14:55:30",
       "album": {
-        "name": "U.",
-        "url": "https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 157304,
-      "name": "U.",
-      "url": "https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o"
-    },
-    {
-      "added_at": "2022-02-01 14:55:30",
-      "album": {
         "name": "Microdosing",
         "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
       },
@@ -1475,26 +1683,6 @@
       "duration_ms": 238167,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
-    },
-    {
-      "added_at": "2022-02-01 14:55:30",
-      "album": {
-        "name": "No Atlas",
-        "url": "https://open.spotify.com/album/1KTanq3HZYExUz3I7pa07f"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        },
-        {
-          "name": "myst milano.",
-          "url": "https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z"
-        }
-      ],
-      "duration_ms": 210625,
-      "name": "No Atlas",
-      "url": "https://open.spotify.com/track/41zA33xErWnQTK7W6gj3da"
     },
     {
       "added_at": "2022-02-01 14:55:30",
@@ -1595,34 +1783,6 @@
       "duration_ms": 196109,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6"
-    },
-    {
-      "added_at": "2022-02-01 14:55:30",
-      "album": {
-        "name": "No More Looking Back (feat. Steffanie Christi'an) [David Penn Remix]",
-        "url": "https://open.spotify.com/album/4yTRADe3bgrEcJCx6U9WmE"
-      },
-      "artists": [
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Steffanie Christi'an",
-          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 185375,
-      "name": "No More Looking Back (feat. Steffanie Christi'an) - David Penn Remix",
-      "url": "https://open.spotify.com/track/2odfKlY77Ng9g6XbK1qhtS"
     }
   ],
   "unique_name": "Electronic + Dance Frequency",

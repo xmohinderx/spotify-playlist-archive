@@ -308,6 +308,44 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
+      },
+      "artists": [
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+        },
+        {
+          "name": "Seamus Blake",
+          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
+        },
+        {
+          "name": "M\u00e5rten Lundgren",
+          "url": "https://open.spotify.com/artist/0SnwpOHFkjrgXRZ0QBRfUU"
+        },
+        {
+          "name": "Martin Sjostedt",
+          "url": "https://open.spotify.com/artist/6bdkZsFJke5IhwIe7MEK8Y"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364506,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
+    },
+    {
+      "album": {
         "name": "American Tune",
         "url": "https://open.spotify.com/album/3WC2NOxjIvS5lhJvaWufKD"
       },
@@ -840,6 +878,46 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1djEqiwSoAxfiY9Wo1l2mj"
+      },
+      "artists": [
+        {
+          "name": "Kristen Lee Sergeant",
+          "url": "https://open.spotify.com/artist/5ccV9rNbLyJDuhUstyL2eb"
+        },
+        {
+          "name": "Jeb Patton",
+          "url": "https://open.spotify.com/artist/0wYKpSqMDbPDpq2wVxqNgj"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270803,
+      "name": "Chiaroscuro",
+      "url": "https://open.spotify.com/track/0ytuZShLSnHWQG9uFVJEJl"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me (Alternate Version)",
+        "url": "https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Come Away With Me - Alternate Version",
+      "url": "https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD"
+    },
+    {
+      "album": {
         "name": "Love Stories",
         "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
       },
@@ -1035,7 +1113,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 296053,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/5TDb8Vv6JMNtovV051It7Z"
@@ -1649,7 +1727,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 448640,
       "name": "From a Mother to a Child",
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
@@ -1733,7 +1811,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 356147,
       "name": "Ghost in the Night",
       "url": "https://open.spotify.com/track/1hn9FXzDObHWssesbc7CqL"
@@ -1986,6 +2064,28 @@
     },
     {
       "album": {
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/7wALZWZ9gYukW7hI37hGaM"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        },
+        {
+          "name": "Charles Jones",
+          "url": "https://open.spotify.com/artist/54SLl07eCSMFL8u2H3MwKl"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271638,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/7md1zupNUTkv8Atxhu94CL"
+    },
+    {
+      "album": {
         "name": "I Could Have Danced All Night",
         "url": "https://open.spotify.com/album/56gYmyonwmKvjU8ZIX8R2A"
       },
@@ -2103,6 +2203,24 @@
       "duration_ms": 171513,
       "name": "I Fall to Pieces",
       "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
+    },
+    {
+      "album": {
+        "name": "I Feel Foolish",
+        "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "I Feel Foolish",
+      "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
     },
     {
       "album": {
@@ -2361,7 +2479,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 297820,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/6mYrRzQ0YmrWdIDY1hS4pj"
@@ -2459,7 +2577,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 278385,
       "name": "I'm Gonna Live Till I Die",
       "url": "https://open.spotify.com/track/2SnYeRhFn71dGPgj0pxWAg"
@@ -2572,6 +2690,28 @@
     },
     {
       "album": {
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+      },
+      "artists": [
+        {
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "If I Loved You",
+      "url": "https://open.spotify.com/track/6mMaZQLLPCMxOWhTjBpRkW"
+    },
+    {
+      "album": {
         "name": "Best Love Ballads",
         "url": "https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n"
       },
@@ -2637,7 +2777,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 228550,
       "name": "In France they kiss on main street",
       "url": "https://open.spotify.com/track/17Ck9L9rEHlugzfZqF5mfH"
@@ -3629,7 +3769,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 215346,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/7qPJo6KJN9qrAIYjl2l4y2"
@@ -4413,7 +4553,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
@@ -5109,7 +5249,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 190486,
       "name": "Tigers",
       "url": "https://open.spotify.com/track/1x4QmtRWua9LlY7jf3J2c4"
@@ -5241,7 +5381,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 239553,
       "name": "Try",
       "url": "https://open.spotify.com/track/6QO8cmea5q5c1cHrQg81nf"

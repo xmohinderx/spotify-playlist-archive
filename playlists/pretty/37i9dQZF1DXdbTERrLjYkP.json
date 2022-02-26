@@ -1,13 +1,61 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Dylan Conrique",
-  "num_followers": 52000,
+  "num_followers": 52135,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTE2MDQ2MCwwMDAwMDA0NTAwMDAwMTdmMGIzNDZmNzQwMDAwMDE3ZWZmNjFhODA4",
+  "snapshot_id": "MTY0NTc2NTIwMCwwMDAwMDA0NjAwMDAwMTdmMmY0MDA5M2IwMDAwMDE3ZWZmNjFhODA4",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 169765,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "we're all sad here",
+        "url": "https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "life, im over you",
+      "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Forward / Slash",
+        "url": "https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi"
+      },
+      "artists": [
+        {
+          "name": "Leanna Firestone",
+          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+        }
+      ],
+      "duration_ms": 263541,
+      "name": "Google Translate / poppies",
+      "url": "https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX"
+    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -23,6 +71,58 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "can't hate you yet",
+        "url": "https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "duration_ms": 202623,
+      "name": "can't hate you yet",
+      "url": "https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "reckless driving (feat. Ben Kessler)",
+        "url": "https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 189247,
+      "name": "reckless driving (feat. Ben Kessler)",
+      "url": "https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "And I'm Still Thinking About That",
+        "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Same Effect",
+      "url": "https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU"
     },
     {
       "added_at": "2022-02-16 04:47:00",
@@ -57,22 +157,6 @@
       "url": "https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "we're all sad here",
-        "url": "https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 203470,
-      "name": "life, im over you",
-      "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
-    },
-    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Fat Funny Friend",
@@ -87,6 +171,22 @@
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -135,6 +235,22 @@
       "duration_ms": 190052,
       "name": "mona lisa",
       "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "I Wanna Be a Boy",
+        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
+      },
+      "artists": [
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "I Wanna Be a Boy",
+      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -329,22 +445,6 @@
       "url": "https://open.spotify.com/track/55tJrxAsKjmkFK1PMSY5Uh"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Way Up",
-        "url": "https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX"
-      },
-      "artists": [
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        }
-      ],
-      "duration_ms": 150230,
-      "name": "Way Up",
-      "url": "https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI"
-    },
-    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "pretty when u cry",
@@ -359,22 +459,6 @@
       "duration_ms": 218433,
       "name": "pretty when u cry",
       "url": "https://open.spotify.com/track/5XVz2gm474WOD26Q3pp9PA"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "I Wanna Be a Boy",
-        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "I Wanna Be a Boy",
-      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -427,22 +511,6 @@
       "duration_ms": 157142,
       "name": "Flood",
       "url": "https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "all my ghosts",
-        "url": "https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "all my ghosts",
-      "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1123,22 +1191,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7"
-      },
-      "artists": [
-        {
-          "name": "Lila Drew",
-          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
-        }
-      ],
-      "duration_ms": 215997,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Didn\u2019t Know Shit - Spotify Studio It's Hits Recording",
         "url": "https://open.spotify.com/album/6MGDXlKW5AMEduAezjbQ5f"
       },
@@ -1175,22 +1227,6 @@
       "duration_ms": 197786,
       "name": "Out Of Excuses",
       "url": "https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 237758,
-      "name": "Augusta",
-      "url": "https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1443,26 +1479,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Meant To Be",
-        "url": "https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        },
-        {
-          "name": "Charlie Oriain",
-          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Raining in June",
         "url": "https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 215980,
       "name": "Back to Friends",
       "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Love You From a Distance",
-        "url": "https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Love You From a Distance",
-      "url": "https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

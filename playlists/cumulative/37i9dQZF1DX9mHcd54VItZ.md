@@ -2,7 +2,7 @@
 
 ### [SA Rock Essentials](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
-> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v?si=Lhg7WGbsQE6lGCS0xYmQRg">Fuzigish</a>
+> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=9hoUsqccRN2FqLrRk29y5g">Dan Patlansky</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Hollow](https://open.spotify.com/track/629X30psE0HDVwMflpkOKm) | [Soul Suture](https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA), [Fred Honig](https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf) | [The Art of Escape / The Escape of Art](https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl) | 4:03 | 2021-09-02 |  |
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2021-11-25 |  |
 | [How To Feel](https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT) | [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [City Of God & The Jungle Below](https://open.spotify.com/album/5yb4js7PRWrxekpSYLgW2x) | 4:29 | 2021-12-02 |  |
+| [I Feel Fine](https://open.spotify.com/track/38vkHnCGWGvUaj6Y56Ejnj) | [Billy Inglish](https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC) | [I Feel Fine](https://open.spotify.com/album/51jmh9S7sUGP5j2oBtwmOv) | 3:08 | 2022-02-25 |  |
 | [In Search of Better Days](https://open.spotify.com/track/3jywquF2vpOwQoKfQ5Nv2Y) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 4:44 | 2021-09-23 |  |
 | [Invisible Visitor](https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Invisible Visitor](https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP) | 3:51 | 2021-11-11 |  |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 |  |
@@ -56,6 +57,7 @@
 | [Prodigal Son](https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Prodigal Son](https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT) | 3:31 | 2021-11-11 |  |
 | [Psycho Killer \- Single Version](https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Psycho Killer](https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG) | 3:59 | 2021-05-06 |  |
 | [Raise a Glass](https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70) | [Kabaal Klankbaan](https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb) | [Hunted Women](https://open.spotify.com/album/1NLDUu7ubHfSYJhJG8nEUp) | 3:08 | 2021-11-11 |  |
+| [Selfish Lover](https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:14 | 2022-02-25 |  |
 | [She's Got Soul](https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [She's got Soul](https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq) | 3:09 | 2021-05-05 |  |
 | [Sick & Tired](https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF) | [Dyluded](https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW) | [Sick & Tired](https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE) | 2:32 | 2021-11-11 |  |
 | [Silwer](https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Silwer](https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F) | 3:41 | 2021-09-02 |  |
@@ -63,6 +65,7 @@
 | [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 |  |
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 |  |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 |  |
+| [Soul Parasite](https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:31 | 2022-02-25 |  |
 | [State of Emergency](https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [State of Emergency](https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj) | 3:12 | 2021-10-14 |  |
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 |  |
 | [Tattoos](https://open.spotify.com/track/1RTBUEn7eJaL8mDaCBCVqe) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Tattoos](https://open.spotify.com/album/1l4qhYVEvbdsep8C8AYaw8) | 3:55 | 2021-11-05 |  |

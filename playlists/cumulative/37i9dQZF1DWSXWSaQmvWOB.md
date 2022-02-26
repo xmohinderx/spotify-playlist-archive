@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
-> Your daily dose of soul\-infused music! Cover: Samm Henshaw
+> Your daily dose of soul\-infused music! Cover: Joss Stone
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "21ST CENTURY BITCH",
+        "url": "https://open.spotify.com/album/3Kj5vTVyzOGBwp71lO6pYo"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165282,
+      "name": "21ST CENTURY BITCH",
+      "url": "https://open.spotify.com/track/6b4gtrHODf0L93GxIKEotN"
+    },
+    {
+      "album": {
         "name": "54321",
         "url": "https://open.spotify.com/album/5IQH1SedZzC0r72T7LZrnA"
       },
@@ -153,7 +171,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 192489,
       "name": "Balboa",
       "url": "https://open.spotify.com/track/7BQd7bXMRvyXyoLFpxz0hb"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 258385,
       "name": "Disappoint Me",
       "url": "https://open.spotify.com/track/4IgAaoVjaTgWowz4wtn1AJ"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 243093,
       "name": "Down at St. Joe's",
       "url": "https://open.spotify.com/track/25GJR3OtBxfZ3HG6egiVT7"
@@ -1378,6 +1396,28 @@
     },
     {
       "album": {
+        "name": "Neurotic (feat. Lukas Rossi)",
+        "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        },
+        {
+          "name": "Lukas Rossi",
+          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Neurotic (feat. Lukas Rossi)",
+      "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
+    },
+    {
+      "album": {
         "name": "See What\u2019s On The Inside",
         "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
       },
@@ -1953,7 +1993,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 241746,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/7upbIK2WVAzQKTnN4bgFKV"
@@ -1989,10 +2029,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 267971,
       "name": "The Devil Comes with a Smile",
       "url": "https://open.spotify.com/track/17qb0QIL1YFUzrXyfH4E3A"
+    },
+    {
+      "album": {
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/0sZZRx6viGLYvf5tC7YvCl"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246336,
+      "name": "The Grey",
+      "url": "https://open.spotify.com/track/1MsbKe5C1bVDdVqsJWemkj"
+    },
+    {
+      "album": {
+        "name": "The Liars Club",
+        "url": "https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228834,
+      "name": "The Liars Club",
+      "url": "https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt"
     },
     {
       "album": {
@@ -2329,6 +2405,24 @@
       "duration_ms": 287250,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/3FV3v7gQSKYrvAm8HsGapX"
+    },
+    {
+      "album": {
+        "name": "Rock Believer (Deluxe)",
+        "url": "https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262146,
+      "name": "When You Know (Where You Come From)",
+      "url": "https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2"
     },
     {
       "album": {

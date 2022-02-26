@@ -760,6 +760,28 @@
     },
     {
       "album": {
+        "name": "Nigarva",
+        "url": "https://open.spotify.com/album/05No3gS9N7QCymw9SzRRQv"
+      },
+      "artists": [
+        {
+          "name": "Girish Ramanjaneya",
+          "url": "https://open.spotify.com/artist/20fv9nOfjtq6tzizZ2RdhM"
+        },
+        {
+          "name": "Megha Aditi Gowda",
+          "url": "https://open.spotify.com/artist/3FMWOU7KqkLu2ktVYQkyaj"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260167,
+      "name": "Edeyalli Eno Ondu",
+      "url": "https://open.spotify.com/track/4QHpfMt55h09MnwqjJSzU5"
+    },
+    {
+      "album": {
         "name": "Ee Prema (From \"Love Mocktail 2\")",
         "url": "https://open.spotify.com/album/2JoiAIgUhBhJ6LxAMpi08f"
       },

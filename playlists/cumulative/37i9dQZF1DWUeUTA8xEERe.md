@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUeUTA8xEERe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUeUTA8xEERe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUeUTA8xEERe)
 
-### JD's Jook Joint
+### [JD's Jook Joint](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 

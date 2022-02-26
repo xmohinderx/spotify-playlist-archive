@@ -24,6 +24,28 @@
     },
     {
       "album": {
+        "name": "The Xperience (Live)",
+        "url": "https://open.spotify.com/album/2IUtSVYnypmEFugkvsWHQ4"
+      },
+      "artists": [
+        {
+          "name": "The Full Bump",
+          "url": "https://open.spotify.com/artist/65jSGg8uFsWlplXmWgaBpp"
+        },
+        {
+          "name": "Big Action",
+          "url": "https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194847,
+      "name": "9-5 - Live",
+      "url": "https://open.spotify.com/track/6nGtQpAg5wAXdRLk6qI23R"
+    },
+    {
+      "album": {
         "name": "Street Antidote",
         "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
       },
@@ -267,6 +289,24 @@
       "duration_ms": 257359,
       "name": "Classy",
       "url": "https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW"
+    },
+    {
+      "album": {
+        "name": "Only Fans, Vol. 1",
+        "url": "https://open.spotify.com/album/2DnKPmWnaiZD350AHdLljC"
+      },
+      "artists": [
+        {
+          "name": "Big Action",
+          "url": "https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161136,
+      "name": "Club Godzilla",
+      "url": "https://open.spotify.com/track/0zSWfzxS8BObYNkl7bqkQg"
     },
     {
       "album": {

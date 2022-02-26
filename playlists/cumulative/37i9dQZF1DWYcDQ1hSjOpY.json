@@ -1556,6 +1556,42 @@
     },
     {
       "album": {
+        "name": "Dusk Sermons",
+        "url": "https://open.spotify.com/album/6jTsueHPtmp2svmRED9FOk"
+      },
+      "artists": [
+        {
+          "name": "Le Palade",
+          "url": "https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201663,
+      "name": "Dusk Sermons",
+      "url": "https://open.spotify.com/track/4eoA6gqXBqpCuCemOineDh"
+    },
+    {
+      "album": {
+        "name": "Een mooie droom",
+        "url": "https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw"
+      },
+      "artists": [
+        {
+          "name": "Zeb Maessen",
+          "url": "https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Een mooie droom",
+      "url": "https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N"
+    },
+    {
+      "album": {
         "name": "If You Please",
         "url": "https://open.spotify.com/album/12aULoazclVKrdDnYSESym"
       },

@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 558933,
       "name": "Coma Waering",
       "url": "https://open.spotify.com/track/5JsfsxlFQ0EwfLN95YKI5B"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Lie Beneath the Stars",
+        "url": "https://open.spotify.com/album/4hTYTkctuDjDJNm5C52kOm"
+      },
+      "artists": [
+        {
+          "name": "Rokkr",
+          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389530,
+      "name": "Lie Beneath the Stars",
+      "url": "https://open.spotify.com/track/7ILPkivkaRXqU3A2cZdFAl"
+    },
+    {
+      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 158306,
       "name": "Loomer",
       "url": "https://open.spotify.com/track/1kAQmY7yNW6LFdDftDbe1X"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 328873,
       "name": "Memories You'll Never Feel Again",
       "url": "https://open.spotify.com/track/0GWtkT95L68vtFTpHTj24M"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 319226,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 1352413,
       "name": "Storm",
       "url": "https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 364293,
       "name": "The Eternal - 2007 Remaster",
       "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 250833,
       "name": "Whiskey and Wine",
       "url": "https://open.spotify.com/track/0wbtDWO7BNhYgdBEnHhtFB"

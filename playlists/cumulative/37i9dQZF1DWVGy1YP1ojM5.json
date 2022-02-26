@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Get Rich & Cry Trying",
+        "url": "https://open.spotify.com/album/0TvYTAWUaXheMKBOO9jl9k"
+      },
+      "artists": [
+        {
+          "name": "IV4",
+          "url": "https://open.spotify.com/artist/7z1y0PfVnWsyNGLUsY0EtG"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Can't Find Love in L.A.",
+      "url": "https://open.spotify.com/track/0NifoawGXlUd8kkeqPRgB2"
+    },
+    {
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2"
       },

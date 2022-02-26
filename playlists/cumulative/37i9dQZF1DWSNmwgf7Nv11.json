@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 76000,
       "name": "Amaretto Lime",
       "url": "https://open.spotify.com/track/02PG5UbF2V3BiyxIyyI2Qf"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 233405,
       "name": "Bare",
       "url": "https://open.spotify.com/track/0Lg7CTyeg8Zviv6HYFg2kM"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 275114,
       "name": "Broken Wing",
       "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 227706,
       "name": "Causing Trouble - Kormac Remix",
       "url": "https://open.spotify.com/track/1qUgzpJVwoKPINBGbgOZAG"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 228533,
       "name": "Goat",
       "url": "https://open.spotify.com/track/0I74VCDu3RbCMuyToTUtzl"
@@ -1728,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/6JrjsP5gTul3KwGvhXBron"
       },
@@ -2089,6 +2107,28 @@
       "duration_ms": 230626,
       "name": "Pale November Dew",
       "url": "https://open.spotify.com/track/1k0lOmYQWNyQnQYs0RepPV"
+    },
+    {
+      "album": {
+        "name": "Nakama",
+        "url": "https://open.spotify.com/album/7kPc6efhRopgssDtCKhY7i"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        },
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274826,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/78dfUJzw0hQnRlxgFY1qFY"
     },
     {
       "album": {

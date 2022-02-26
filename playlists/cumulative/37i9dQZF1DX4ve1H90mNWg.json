@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100 Years",
+        "url": "https://open.spotify.com/album/55StU7kaJVUrOg2d8cDubS"
+      },
+      "artists": [
+        {
+          "name": "Jayson Lyric",
+          "url": "https://open.spotify.com/artist/2CtJ90yJjxn0nL4a2lH0SA"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/3IgI0TzODwJxJ3coO9aqjC"
+    },
+    {
+      "album": {
         "name": "1942",
         "url": "https://open.spotify.com/album/7tCg3OiduEfxOrvyK1zJL4"
       },
@@ -202,6 +220,24 @@
     },
     {
       "album": {
+        "name": "Codependency",
+        "url": "https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB"
+      },
+      "artists": [
+        {
+          "name": "David Saint Val",
+          "url": "https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200681,
+      "name": "Codependency",
+      "url": "https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf"
+    },
+    {
+      "album": {
         "name": "Daddy",
         "url": "https://open.spotify.com/album/0hpUYsZh6KX7eeo6C4WgD4"
       },
@@ -213,7 +249,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 168437,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/4purtg9Xq4w4MXu8RLUB3t"
@@ -315,7 +351,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 159133,
       "name": "Fully",
       "url": "https://open.spotify.com/track/3pFpmPbKmlZkn2bx3BjZeZ"
@@ -555,10 +591,28 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 149263,
       "name": "Minor Setback",
       "url": "https://open.spotify.com/track/7mLuBJwfOa3GcP8UeBDU04"
+    },
+    {
+      "album": {
+        "name": "Lust Just Vibe",
+        "url": "https://open.spotify.com/album/3mtzI3SxILm0y8sU2HuBCH"
+      },
+      "artists": [
+        {
+          "name": "Martina Marie",
+          "url": "https://open.spotify.com/artist/42Tsa4pAqU1FYWER3Mnria"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Mixing",
+      "url": "https://open.spotify.com/track/7FrslE7dUphprY9SwimGoT"
     },
     {
       "album": {
@@ -577,6 +631,32 @@
       "duration_ms": 125506,
       "name": "Mr. Put It On",
       "url": "https://open.spotify.com/track/42ollc35fN6l5HZh8R3jWD"
+    },
+    {
+      "album": {
+        "name": "Neck Up (feat. Bairi & Dende)",
+        "url": "https://open.spotify.com/album/2nq2LFe4KtUgVTo2m77J97"
+      },
+      "artists": [
+        {
+          "name": "Deante' Hitchcock",
+          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
+        },
+        {
+          "name": "Bairi",
+          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305960,
+      "name": "Neck Up (feat. Bairi & Dende)",
+      "url": "https://open.spotify.com/track/4RDBqutpLfd5wgkTCVc0Pd"
     },
     {
       "album": {
@@ -613,7 +693,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 189325,
       "name": "Not Gang (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0"
@@ -826,6 +906,24 @@
     },
     {
       "album": {
+        "name": "Slim Waist",
+        "url": "https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "Slim Waist",
+      "url": "https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG"
+    },
+    {
+      "album": {
         "name": "Started This",
         "url": "https://open.spotify.com/album/1ihXaJ1k65mNfkIEPaAxM2"
       },
@@ -895,7 +993,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 132496,
       "name": "That's Ok",
       "url": "https://open.spotify.com/track/6bSKQMbPAJSRC6JuNbFT5g"
@@ -913,10 +1011,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 152647,
       "name": "The Best",
       "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
+    },
+    {
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/1KnrbTqOq3GgMjf8fjlCwu"
+      },
+      "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153547,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7qeLgN61bBOdBUEEleUVN7"
     },
     {
       "album": {
@@ -957,6 +1073,24 @@
       "duration_ms": 176526,
       "name": "WALK",
       "url": "https://open.spotify.com/track/7MiNSmlB2O2NrllWXltofY"
+    },
+    {
+      "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/761RA2KlGjkUZbTrGhS7WH"
+      },
+      "artists": [
+        {
+          "name": "TAP TEEZY",
+          "url": "https://open.spotify.com/artist/26491QfceM0yHyjHHkanvD"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196179,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6rmTnarPDxVjWjCb8dxtri"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7DCJxqVk5NA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7DCJxqVk5NA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7DCJxqVk5NA)
 
-### I Love My HBCU
+### [I Love My HBCU](https://open.spotify.com/playlist/07IB4uo6shwfxg692bIhLi)
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 

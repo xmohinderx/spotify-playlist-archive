@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Backdoor",
+        "url": "https://open.spotify.com/album/3rCLrfv45EOFmiqCWWQC9T"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125269,
+      "name": "Backdoor",
+      "url": "https://open.spotify.com/track/699kkSUZd5MljUFnaA18iD"
+    },
+    {
+      "album": {
         "name": "Bad Man (Smooth Criminal)",
         "url": "https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5"
       },
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 195446,
       "name": "Offense (feat. Babyface Ray, 42 Dugg)",
       "url": "https://open.spotify.com/track/26vz4FXMIgRyGj2hxmzttd"

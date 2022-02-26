@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 437906,
       "name": "A Sea Of Love",
       "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 412000,
       "name": "Antec\u00e1mara",
       "url": "https://open.spotify.com/track/42RLy3PPI7zlf18MP095BC"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 399141,
       "name": "Ardent Flux",
       "url": "https://open.spotify.com/track/4cGFQX45YRFCmucn1kjcJ9"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 374237,
       "name": "Cuted",
       "url": "https://open.spotify.com/track/3gdhXa2iXDmPfkIlQehzyH"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 389000,
       "name": "Dissolution",
       "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 419749,
       "name": "Earth Tapes",
       "url": "https://open.spotify.com/track/5BOTsGMzl9BpUIGk4qAE8j"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 173883,
       "name": "Garlands",
       "url": "https://open.spotify.com/track/2OU3aFpcNqVEZ7tvZ0013P"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 270796,
       "name": "Genera II",
       "url": "https://open.spotify.com/track/0yWHG5YEGdORusADKKlAdv"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 590000,
       "name": "Interstices",
       "url": "https://open.spotify.com/track/0q3iG7HlsDetEhFukIyEoc"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 253047,
       "name": "Kosmic Headroom",
       "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Low Voltage",
       "url": "https://open.spotify.com/track/0xqf2NDfzJKWzHQAfLl6mo"
@@ -1220,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "One Last Glimpse",
+        "url": "https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS"
+      },
+      "artists": [
+        {
+          "name": "Caldera",
+          "url": "https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517599,
+      "name": "Plant Memory",
+      "url": "https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ"
+    },
+    {
+      "album": {
         "name": "Phthalo Blue",
         "url": "https://open.spotify.com/album/6uvCj7v4s1XRRN8XDXeeJP"
       },
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 467159,
       "name": "Small Triumphs and Deep Disappointments",
       "url": "https://open.spotify.com/track/0vIZVb4SiFVnyu8hQSwxK1"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 353000,
       "name": "wander into",
       "url": "https://open.spotify.com/track/3E9IXQVQhaf79PXNr24GDy"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 432000,
       "name": "When the Sun Is About to Sleep",
       "url": "https://open.spotify.com/track/1kgyMp6P40HS9wWg6yeR3i"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 330285,
       "name": "Woolspeak",
       "url": "https://open.spotify.com/track/7rO7EbiyeOy0yL0ROnBOKW"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 363120,
       "name": "Your Pond",
       "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"

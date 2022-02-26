@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "blablablue",
+        "url": "https://open.spotify.com/album/1cyCmy6etmUKPWqmfAxrOz"
+      },
+      "artists": [
+        {
+          "name": "Delv!s",
+          "url": "https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5PC9pAUZns03tp7SxXjVgo"
+    },
+    {
+      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
       },
@@ -265,7 +283,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 272640,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/6csk7RGrFhxbi6hPwQImPf"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 217519,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/67abo3o0GemMBmypVt6A92"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 209160,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 211677,
       "name": "for life",
       "url": "https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy"
@@ -529,6 +547,32 @@
       "duration_ms": 238250,
       "name": "For So Long (Brittle)",
       "url": "https://open.spotify.com/track/51sYB5jn8WyVL1xJRKOtMb"
+    },
+    {
+      "album": {
+        "name": "Black Radio III",
+        "url": "https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345680,
+      "name": "Forever [Feat. PJ Morton & India.Arie]",
+      "url": "https://open.spotify.com/track/2IXLSYxZBRa7KiQm6yyFYo"
     },
     {
       "album": {
@@ -583,7 +627,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
@@ -627,6 +671,28 @@
       "duration_ms": 134742,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/7AoCNArsiCSt4vr2dqAjJx"
+    },
+    {
+      "album": {
+        "name": "Go Easy, Kid (with James Blake)",
+        "url": "https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "Go Easy, Kid (with James Blake)",
+      "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
     },
     {
       "album": {
@@ -897,7 +963,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 253146,
       "name": "If Only",
       "url": "https://open.spotify.com/track/2vHUqWBW12TJqsE8lJGsK1"
@@ -1103,7 +1169,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 200440,
       "name": "Love Overgrown",
       "url": "https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52"
@@ -1165,7 +1231,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 259851,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH"
@@ -1295,7 +1361,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 252853,
       "name": "My Life",
       "url": "https://open.spotify.com/track/2hPY2x0M6k8pQiBxeCzD5T"
@@ -1403,7 +1469,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 205769,
       "name": "Old Love (Bonus)",
       "url": "https://open.spotify.com/track/6saFywPB1ofkLwuy95UQXc"
@@ -1696,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/5nZgnFLJ28nItazEit9DiL"
+      },
+      "artists": [
+        {
+          "name": "Meaghan Maples",
+          "url": "https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168801,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/4GUNIph7cHEIfSKUdn7TaB"
+    },
+    {
+      "album": {
         "name": "Don't Forget to Look Up",
         "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
       },
@@ -1761,7 +1845,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 300295,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
@@ -2061,7 +2145,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 201053,
       "name": "We Were Never Friends",
       "url": "https://open.spotify.com/track/0txG3MJ2CO3031axdnyyTD"

@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Burned Out",
+        "url": "https://open.spotify.com/album/29fXlrBSPq0n5QSfONE0wX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy McComb",
+          "url": "https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178965,
+      "name": "Burned Out",
+      "url": "https://open.spotify.com/track/76i6pbHbUXVngXGmqmaAeO"
+    },
+    {
+      "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/2crKE8V3gDJVhribqhsPh9"
       },

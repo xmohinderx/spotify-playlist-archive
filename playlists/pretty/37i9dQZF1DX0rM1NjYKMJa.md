@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 ### [Carnival](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> Carnival 2022 is in session, follow Kes as he takes us on a trip to the Trinidad
+> Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,034 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,551 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 59 | [Middle](https://open.spotify.com/track/3o5bbcji9zTkMbjZRJwNQ8) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Middle](https://open.spotify.com/album/6ZMl4RcfU3LfWX6YvqDiYr) | 2:45 |
 | 60 | [Vent](https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [International Stephen](https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6) | [Vent](https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc) | 3:45 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAzMjAwMDAwMTdmMmNlM2M5NmIwMDAwMDE3ZjFlNDcwZTU4`
+Snapshot ID: `MTY0NTc3OTkwNCwwMDAwMDAzNTAwMDAwMTdmMzAyMDY2MzQwMDAwMDE3ZjFlNDcwZTU4`

@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 117356,
       "name": "1000-7",
       "url": "https://open.spotify.com/track/2L2iWhBsyosVcxx36iurfa"
@@ -8057,7 +8057,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 194181,
       "name": "\u0434\u0438\u0441\u043a\u043e \u044d\u043b\u0438\u0437\u0438\u0443\u043c",
       "url": "https://open.spotify.com/track/6HWwx65IbS7PA2WKlvNbPS"
@@ -9424,6 +9424,24 @@
     },
     {
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg"
+      },
+      "artists": [
+        {
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169130,
+      "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
+      "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
+    },
+    {
+      "album": {
         "name": "Sense Of Human",
         "url": "https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm"
       },
@@ -9627,7 +9645,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 150000,
       "name": "\u041b\u0438\u0444\u043e\u043d",
       "url": "https://open.spotify.com/track/1vLBDj2hhzAVskV5OUQ5d2"
@@ -10883,7 +10901,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-26",
       "duration_ms": 146526,
       "name": "\u041e\u0433\u043d\u0438",
       "url": "https://open.spotify.com/track/4vFuw6PFe5H4CvvEB8jgGN"
@@ -11717,7 +11735,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 128470,
       "name": "\u041f\u0440\u0438\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/2INWHGzw5qTbdeLDARChfe"

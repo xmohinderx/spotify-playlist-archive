@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "Baby We're Through",
+        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
+    },
+    {
+      "album": {
         "name": "Ashkelon",
         "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
       },
