@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/41YL3HcXd3zTXa1rMZY5uR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/41YL3HcXd3zTXa1rMZY5uR.md) - [plain]
 | 20 | [Paint It, Black](https://open.spotify.com/track/73SPjNZV2wVy8imEmckGYw) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Collection: The London Years](https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB) | 3:44 |
 | 21 | [My Love](https://open.spotify.com/track/2j1GzI1DwpEado5Rjw0wxk) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 2:44 |
 | 22 | [Lightnin' Strikes \(Re\-Recorded\)](https://open.spotify.com/track/4EmnbjGWk5kOnK50l61JVo) | [Lou Christie](https://open.spotify.com/artist/5bLcI9Jo6RyrrHzG9veVyn) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:54 |
-| 23 | [Wild Thing \(Re\-Recorded\)](https://open.spotify.com/track/695D3IeuIXeUHX2RUlnfQp) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:33 |
+| 23 | [Wild Thing \(Re\-Recorded\)](https://open.spotify.com/track/695D3IeuIXeUHX2RUlnfQp) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:44 |
 | 24 | [Kicks \(Re\-Recorded\)](https://open.spotify.com/track/1Xvvq9dCK4MJMgAlnSWd5c) | [Paul Revere & The Raiders](https://open.spotify.com/artist/32HPpJAhgnGPT3V7UOggzi) | [Good Morning Vietnam \- Music & Words Of The '60s](https://open.spotify.com/album/3s7Z6DpfP8IHBxg8O07ZMH) | 2:45 |
 | 25 | [Sunshine Superman](https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 3:15 |
 | 26 | [Paperback Writer](https://open.spotify.com/track/5mTkC4GQu1q5GuOk57rJaK) | [The Silver Beetles](https://open.spotify.com/artist/1MLXQOUzVRfjYAu5xyEntV) | [A Tribute to the Beatles](https://open.spotify.com/album/29NzKzffUVuWXZvnfebLWr) | 2:17 |

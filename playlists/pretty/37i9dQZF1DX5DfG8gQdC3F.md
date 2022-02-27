@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Fefe Dobson
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,255 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,279 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 63 | [Dey For Me](https://open.spotify.com/track/1eEkjFWORg5NBhFuEPnPNa) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Insincerely AP](https://open.spotify.com/album/3kj8MeAuCML4nMgO4wNbEg) | 3:13 |
 | 64 | [Hold You](https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [LÖV](https://open.spotify.com/album/0xATpwMQQqS5Gb7gS16MIa) | 5:37 |
 | 65 | [Take Me Somewhere](https://open.spotify.com/track/70UlGPMsr7TqIZaMqIdWxq) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Take Me Somewhere](https://open.spotify.com/album/1PSewy5ZiQW7HfKxyqeikP) | 3:00 |
-| 66 | [Put Your Hands On My \_\_\_\_ \- Original Phonk Version](https://open.spotify.com/track/2uXjxpMbkIhwq4bmgTezRT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Put Your Hands On My \_\_\_\_ \(Original Phonk Version\)](https://open.spotify.com/album/7cuKP1OEU3YT6xAkaGi0cd) | 2:12 |
+| 66 | [Put Your Hands On My \_\_\_\_ \(feat\. Saucy Santana\) \- Original Phonk Version](https://open.spotify.com/track/2uXjxpMbkIhwq4bmgTezRT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Put Your Hands On My \_\_\_\_ \(feat\. Saucy Santana\) \[Original Phonk Version\]](https://open.spotify.com/album/7cuKP1OEU3YT6xAkaGi0cd) | 2:12 |
 | 67 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
 | 68 | [Respect](https://open.spotify.com/track/0PeScdUkFEeFRsIqMdr8tj) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [Respect](https://open.spotify.com/album/5JNQCu3nV5lWee8INFmUU9) | 4:07 |
 | 69 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 |

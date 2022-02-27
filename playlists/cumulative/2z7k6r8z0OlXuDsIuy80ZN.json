@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10 Minutos",
+        "url": "https://open.spotify.com/album/5S9iQ1vKSkrToyFKS9INLM"
+      },
+      "artists": [
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163593,
+      "name": "10 Minutos",
+      "url": "https://open.spotify.com/track/7EbZqc1rELPFw89Y4uhpYK"
+    },
+    {
+      "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/15V2zidbxeAZaYxodPkE3T"
       },
@@ -570,6 +588,28 @@
     },
     {
       "album": {
+        "name": "Me Quedo (feat. Ana Mena)",
+        "url": "https://open.spotify.com/album/2vVt1IgIral9JtNxlVRW3i"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163353,
+      "name": "Me Quedo (feat. Ana Mena)",
+      "url": "https://open.spotify.com/track/1MdsletWuIR9ItEnitWRwp"
+    },
+    {
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -697,7 +737,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 167280,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
@@ -853,7 +893,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"

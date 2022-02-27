@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 194197,
       "name": "After Midnight (1AM)",
       "url": "https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 177952,
       "name": "Before We Were Us",
       "url": "https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx"
@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/43j2VGSMiVDi3IyCUzhp65"
+      },
+      "artists": [
+        {
+          "name": "Fia Moon",
+          "url": "https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195790,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/04FvHQz6oc5RKmM6jcUrSU"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/1bOhzCexdGpt6MKJYm3sjw"
       },
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 222096,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/2GkIiFzUqrWMsUOW0ZfI9t"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 214306,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2jA0WVcVDWXfbTdZeI0GsN"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 167943,
       "name": "Fall Before You",
       "url": "https://open.spotify.com/track/1Nq0NBvGr3uPtKu0IhhBWM"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/16zwjXTQj9HDu47UOZJza8"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 178518,
       "name": "Fatherhood",
       "url": "https://open.spotify.com/track/4Agd4mAiF6gchnzen5g9iC"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 169453,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 366004,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 173058,
       "name": "If You Were on Fire",
       "url": "https://open.spotify.com/track/6TYS3UzhmDBsYHBCpYl5Rg"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 194047,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7BPNnaH7sze0E9U6iy1jNp"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 238641,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/1iur4z7GfEuZjjo9MvKKkA"
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 262978,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw"
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 174567,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 228626,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/6n4JuG8pLp7czHiIbbA5D4"
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 217368,
       "name": "Rockland",
       "url": "https://open.spotify.com/track/2fooMOezILHFlxkCqq3RRm"
@@ -3085,7 +3103,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
@@ -3157,7 +3175,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 216292,
       "name": "Tired",
       "url": "https://open.spotify.com/track/0UTmk2WK2RxXGGbctDijga"
@@ -3341,7 +3359,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 236923,
       "name": "we were younger then",
       "url": "https://open.spotify.com/track/25PMrVEHB19u2R0ySwyzfT"
@@ -3395,7 +3413,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
@@ -3467,7 +3485,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 154875,
       "name": "Would If I Could",
       "url": "https://open.spotify.com/track/2vwc2P19e6Uk9wJy78y8Q1"
@@ -3521,7 +3539,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 176533,
       "name": "You",
       "url": "https://open.spotify.com/track/3D22Pu7OtwnStfE2t2xFPN"
@@ -3539,7 +3557,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 186154,
       "name": "You Make Me Mad",
       "url": "https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5"

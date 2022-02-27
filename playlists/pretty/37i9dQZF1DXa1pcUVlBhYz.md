@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: KAYTRANADA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,096 likes - 91 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,110 likes - 91 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 90 | [Judgement](https://open.spotify.com/track/65CNFUjISyOi08DsvpiUvD) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Judgement](https://open.spotify.com/album/0EugyVMjLUJEtY2ssLl1Ek) | 3:10 |
 | 91 | [Move Your Body](https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Move Your Body](https://open.spotify.com/album/7KrVkLXp05Tn5MoZYVEhop) | 3:16 |
 
-Snapshot ID: `MTY0NTgzNjUzNCwwMDAwMDAwMGQzYjY3MDcxY2M3NTMwYjQ3YjFjNDVlOTM5NGM3NTIz`
+Snapshot ID: `MTY0NTkyMzIyMSwwMDAwMDAwMGQzYjY3MDcxY2M3NTMwYjQ3YjFjNDVlOTM5NGM3NTIz`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcDoDDetPsEg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcDoDDetPsEg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcDoDDetPsEg)
 
-### Who We Be
+### [Who We Be](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
 
 > The Biggest Hip Hop, UK Rap, R&B Dancehall & Afrobeat playlist
 

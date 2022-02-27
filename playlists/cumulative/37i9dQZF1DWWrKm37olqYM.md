@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWrKm37olqYM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWrKm37olqYM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWrKm37olqYM)
 
-### Baltimore Club
+### [Baltimore Club](https://open.spotify.com/playlist/5TALYxdz8KvCUOjfUqx9cT)
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Mighty Mark
 

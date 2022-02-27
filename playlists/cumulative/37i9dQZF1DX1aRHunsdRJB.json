@@ -41,7 +41,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 153947,
       "name": "Ah Love It (Ting Nice)",
       "url": "https://open.spotify.com/track/2bsdAXYvB3F5MduMPo24M3"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 175216,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 151431,
       "name": "Bad in Bum Bum / Back Bend",
       "url": "https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 202422,
       "name": "Demon Girl",
       "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/6ZcjqhiK2heWFJUb3BmO9x"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 164106,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 199148,
       "name": "Good WiFi",
       "url": "https://open.spotify.com/track/6lYTAtpgedSEcb4vXBslhh"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/7KUycbr4gbHJnpW4RmoC2B"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175187,
+      "name": "I Wish - Raw",
+      "url": "https://open.spotify.com/track/2U110D3cv4pWCi04QMQcF1"
+    },
+    {
+      "album": {
         "name": "Do This Riddim",
         "url": "https://open.spotify.com/album/1cvkRbxgIbpekbmOoxbrYh"
       },
@@ -791,10 +809,32 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 151588,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/0MxxWHbOpqdF9f1O9jCw8L"
+    },
+    {
+      "album": {
+        "name": "Arch & Bend Riddim Reloaded",
+        "url": "https://open.spotify.com/album/5l7lnLGSa1TFfpKQioDPI0"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136724,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip"
     },
     {
       "album": {
@@ -809,7 +849,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Lookin' for China",
       "url": "https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw"
@@ -861,7 +901,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 119040,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/28Nm0rgLcn4OUQTocqoDZO"
@@ -1101,7 +1141,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 203499,
       "name": "Rough Wine",
       "url": "https://open.spotify.com/track/1ocvBpgOHbD0vtnhD0cJSM"
@@ -1137,7 +1177,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 185025,
       "name": "Sexin",
       "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
@@ -1203,7 +1243,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 199606,
       "name": "Soak Me Good",
       "url": "https://open.spotify.com/track/4b3AroQUoiU1rGvGlcg4DD"
@@ -1239,7 +1279,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 139109,
       "name": "Split in De Middle",
       "url": "https://open.spotify.com/track/0l60FqgMdi5nCgNVG7e3Wo"
@@ -1323,7 +1363,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 135941,
       "name": "The People Man (T.P.M.)",
       "url": "https://open.spotify.com/track/4s0lXstgGUbGesnLJb02Hy"
@@ -1389,7 +1429,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/1wuEorTikzzwzsOZBPFpzT"
@@ -1483,10 +1523,28 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 176000,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
+    },
+    {
+      "album": {
+        "name": "Gas Station Riddim",
+        "url": "https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y"
     },
     {
       "album": {
@@ -1513,7 +1571,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 227356,
       "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
       "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
@@ -1549,7 +1607,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 202332,
       "name": "Wileside Government",
       "url": "https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N"
@@ -1603,7 +1661,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 182773,
       "name": "Work",
       "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"

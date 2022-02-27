@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Fatherson
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,695 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,833 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 29 | [Find the Truth](https://open.spotify.com/track/0JsUNJ9Ey27qGwZwpwPOvK) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Find the Truth](https://open.spotify.com/album/7tYFnGuoxnMf66arjNzvTH) | 2:53 |
 | 30 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
 | 31 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 |
-| 32 | [Killing Time](https://open.spotify.com/track/5RShGAYnwQ8Wxrkft4uOEX) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Killing Time](https://open.spotify.com/album/3ejG2M4qiovk22WUuhkRAU) | 3:15 |
+| 32 | [killing time](https://open.spotify.com/track/5RShGAYnwQ8Wxrkft4uOEX) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [killing time](https://open.spotify.com/album/3ejG2M4qiovk22WUuhkRAU) | 3:15 |
 | 33 | [Zuckerpunch](https://open.spotify.com/track/6c9HQATXAVBT9zSf1EAOzp) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Zuckerpunch](https://open.spotify.com/album/05Zrv0PnoaREUU16icFl9n) | 2:30 |
 | 34 | [Dreams](https://open.spotify.com/track/3Cnii774lsLmq8wgoLKHhP) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Dreams](https://open.spotify.com/album/1fMAyYN3GLTJpW1AEUS3MV) | 3:24 |
 | 35 | [Make It Right](https://open.spotify.com/track/3YIo8llthdNC8Si3W2CIPP) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Make It Right](https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7) | 2:33 |

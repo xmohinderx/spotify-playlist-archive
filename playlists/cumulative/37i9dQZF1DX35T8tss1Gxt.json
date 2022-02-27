@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-02-25",
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Jonathan McReynolds & Mali Music ",
   "name": "Rhythm & Praise",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3eK48lf8axZCOz8TG1pXO8"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "2nd Win",
+      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+    },
     {
       "album": {
         "name": "Act Right",
@@ -123,7 +143,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 287205,
       "name": "All This",
       "url": "https://open.spotify.com/track/15uuKZIuhC2bzgsya33JxW"
@@ -145,7 +165,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 182800,
       "name": "Alright (Remix)",
       "url": "https://open.spotify.com/track/4L5xjNPFX2243oxglUUUvH"
@@ -247,10 +267,28 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 234116,
       "name": "Be Real Black For Me",
       "url": "https://open.spotify.com/track/0IF9SiJ4SUvImDmyQsXAbj"
+    },
+    {
+      "album": {
+        "name": "Be Still & Know",
+        "url": "https://open.spotify.com/album/63YKWgcjhf0DssJz1VnEwB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Smith",
+          "url": "https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Be Still & Know",
+      "url": "https://open.spotify.com/track/40wgxyznBlfLzdZ7bnBzKJ"
     },
     {
       "album": {
@@ -385,7 +423,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 270837,
       "name": "Child of Heaven - Acoustic",
       "url": "https://open.spotify.com/track/6AnbAlzobyXxS6XMBuUNmj"
@@ -483,10 +521,46 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 162020,
       "name": "Corner (O Ti De)",
       "url": "https://open.spotify.com/track/0fSlJ4Dkaij64XsWU9u2hw"
+    },
+    {
+      "album": {
+        "name": "Outta Line",
+        "url": "https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ"
+      },
+      "artists": [
+        {
+          "name": "BrvndonP",
+          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194166,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4JK3GyeM5KmkakCb8DjQg4"
+    },
+    {
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/32mkshtSeN7GuwuoT9bHfX"
+      },
+      "artists": [
+        {
+          "name": "Sensere",
+          "url": "https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249577,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/6FckE16VQCnThMBqLbZi3c"
     },
     {
       "album": {
@@ -541,7 +615,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 240000,
       "name": "Eternal Eyes",
       "url": "https://open.spotify.com/track/7uj5EABJQit9vNb4IPwf3y"
@@ -585,7 +659,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 237684,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/4yUdZ5MKh2XWoxcUP1wKlQ"
@@ -669,7 +743,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 154506,
       "name": "Feels Like Church",
       "url": "https://open.spotify.com/track/6OLSL2Le6FXcqEFQv2AZ8N"
@@ -767,7 +841,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 275412,
       "name": "Goin' Up (feat. Aaron Cole)",
       "url": "https://open.spotify.com/track/2WGLMKLoN34qT6vTPVo3Xa"
@@ -814,6 +888,28 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/6qefOTAOSsliUx3W7jbFTJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Em D",
+          "url": "https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180625,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6bk3bPeIavAVuYhhKq6OTY"
+    },
+    {
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/3A3N6KXEpBHkZgoVYAAssQ"
       },
@@ -825,7 +921,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 191000,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3UNR9m5zgR6Bjd5tdeQSef"
@@ -1039,7 +1135,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 215954,
       "name": "I'm Here For You",
       "url": "https://open.spotify.com/track/6lVq26NCgPzh9FzpwuRL1t"
@@ -1061,6 +1157,28 @@
       "duration_ms": 505120,
       "name": "If God / Nothing But the Blood",
       "url": "https://open.spotify.com/track/4PV4l6wZmLt8gI5BzhkUY1"
+    },
+    {
+      "album": {
+        "name": "It's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/6WRMe7MtrPjDyf3S64mu6F"
+      },
+      "artists": [
+        {
+          "name": "Titus Showers",
+          "url": "https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc"
+        },
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240845,
+      "name": "It's Gonna Be Alright - Remix Radio Edit",
+      "url": "https://open.spotify.com/track/3RM2kL165af3sq7Q9kpTiA"
     },
     {
       "album": {
@@ -1137,7 +1255,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 150653,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
@@ -1155,7 +1273,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 153402,
       "name": "Kinda Love",
       "url": "https://open.spotify.com/track/6N16WmTbELJ8p6MFUE9lcr"
@@ -1235,7 +1353,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 172800,
       "name": "Let Go (Remix)",
       "url": "https://open.spotify.com/track/3xU3enlRz3j3e5Y5CXCKXP"
@@ -1253,7 +1371,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 219614,
       "name": "Let Him In",
       "url": "https://open.spotify.com/track/00JwSM2j1iwqba0cEZUJNu"
@@ -1293,7 +1411,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 201730,
       "name": "LOVE IS KING",
       "url": "https://open.spotify.com/track/3WKSA8rEMJTyGaU4mCzDT2"
@@ -1329,7 +1447,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 209302,
       "name": "Love Your Neighbor",
       "url": "https://open.spotify.com/track/3aCCPNjccDGxtvM78Y7s3F"
@@ -1483,7 +1601,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 254592,
       "name": "My Psalm",
       "url": "https://open.spotify.com/track/5jVwieEo4qWNZgzBiNTOTx"
@@ -1657,7 +1775,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 408814,
       "name": "Not Lucky, I'm Loved",
       "url": "https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8"
@@ -1746,6 +1864,24 @@
     },
     {
       "album": {
+        "name": "Open Heaven - The Maranda Experience",
+        "url": "https://open.spotify.com/album/0fDYbAkAwZFfE9IRpdENID"
+      },
+      "artists": [
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331066,
+      "name": "Open Heaven - Live",
+      "url": "https://open.spotify.com/track/0IcLmIBWX0FK9ZV4truRAk"
+    },
+    {
+      "album": {
         "name": "Out of My Mind (feat. Camper)",
         "url": "https://open.spotify.com/album/7BACuIZxJrIGvQlIxXVlT0"
       },
@@ -1761,7 +1897,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 196245,
       "name": "Out of My Mind (feat. Camper)",
       "url": "https://open.spotify.com/track/55MZizyMxvrAK1IgYVrPmk"
@@ -1779,7 +1915,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 205333,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R"
@@ -1848,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/4kPmrOm92X5Z9320B6IOsG"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367595,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/4PFArZky2W4NCAxAJ4LuA7"
+    },
+    {
+      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -1867,7 +2021,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 224100,
       "name": "Pretty Brown Skin (feat. EUGENE KIING & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/5EAX9QacyUHrlftFcpmELT"
@@ -1907,7 +2061,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 162666,
       "name": "prove it",
       "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
@@ -1929,7 +2083,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 326478,
       "name": "Psalm 91",
       "url": "https://open.spotify.com/track/0DG9MlPHBIaiki54DnsF6E"
@@ -1973,7 +2127,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 154923,
       "name": "Reign",
       "url": "https://open.spotify.com/track/48inpbneBqWG0DYtTWnv3p"
@@ -1999,7 +2153,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 176000,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/7FwjUHTuAFPSZCKcAiify8"
@@ -2043,7 +2197,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 194973,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/04B186DxbKn5aDCXduKAv3"
@@ -2086,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+    },
+    {
+      "album": {
         "name": "Shout to the Lord",
         "url": "https://open.spotify.com/album/48USOS8BlA33ib4hR7HhLn"
       },
@@ -2119,7 +2291,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 244129,
       "name": "Sick World",
       "url": "https://open.spotify.com/track/2W8wffJ4JEZRnTKJdxBu7A"
@@ -2243,7 +2415,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/2JKSjhXTmCgsG2JiTQKTGd"
@@ -2339,6 +2511,42 @@
       "duration_ms": 196120,
       "name": "trust in you",
       "url": "https://open.spotify.com/track/1dkehSF3jpeDXfeiJBzWcz"
+    },
+    {
+      "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/1CPKTm68pKVIhAEL7ho4uG"
+      },
+      "artists": [
+        {
+          "name": "Butterfly Ali",
+          "url": "https://open.spotify.com/artist/3kjcPBROf41pWXnGJFU8Oi"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143221,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/2TIh3Qm02Nm5rxgnOZc0dR"
+    },
+    {
+      "album": {
+        "name": "Unappreciated",
+        "url": "https://open.spotify.com/album/2WaPe5z2ciT5xkxofR8L2s"
+      },
+      "artists": [
+        {
+          "name": "Erica Mason",
+          "url": "https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180023,
+      "name": "Unappreciated",
+      "url": "https://open.spotify.com/track/0WmoLUqAtbN2IuSGVjL8X5"
     },
     {
       "album": {
@@ -2443,7 +2651,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 178834,
       "name": "You",
       "url": "https://open.spotify.com/track/1SJdqZMc1xRxAO0J87ClGG"
@@ -2505,7 +2713,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 292272,
       "name": "You Didn't Break It",
       "url": "https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN"

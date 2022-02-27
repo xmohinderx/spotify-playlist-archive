@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from ROSALÍA, Coldplay, Kodak Black, OneRepublic, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,869,077 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,869,237 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 29 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 30 | [nyc](https://open.spotify.com/track/5Z2TdpE5zqC7BN0bwtlWM1) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [nyc](https://open.spotify.com/album/710cqlMWoL0vFYNP2T7l9N) | 1:15 |
 | 31 | [fool4love](https://open.spotify.com/track/0RSgXjblj8lNRMQBveuJfA) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fool4love](https://open.spotify.com/album/1RJudDWxEImNZZT8KfrTh2) | 2:08 |
-| 32 | [Put Your Hands On My \_\_\_\_ \- Original Phonk Version](https://open.spotify.com/track/2uXjxpMbkIhwq4bmgTezRT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Put Your Hands On My \_\_\_\_ \(Original Phonk Version\)](https://open.spotify.com/album/7cuKP1OEU3YT6xAkaGi0cd) | 2:12 |
+| 32 | [Put Your Hands On My \_\_\_\_ \(feat\. Saucy Santana\) \- Original Phonk Version](https://open.spotify.com/track/2uXjxpMbkIhwq4bmgTezRT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Put Your Hands On My \_\_\_\_ \(feat\. Saucy Santana\) \[Original Phonk Version\]](https://open.spotify.com/album/7cuKP1OEU3YT6xAkaGi0cd) | 2:12 |
 | 33 | [Doppelgänger](https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Doppelgänger](https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc) | 3:14 |
 | 34 | [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 |
 | 35 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 61 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 |
 | 62 | [Magic](https://open.spotify.com/track/47Gp8oW808q6j4Oxg9iGLw) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic](https://open.spotify.com/album/2X2jLJr3W0IMGbCVwzSjc3) | 3:06 |
 | 63 | [Back Words](https://open.spotify.com/track/3KWR8SEGBcxMklHWsLHU42) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Back Words](https://open.spotify.com/album/29epwn0AEmjRReVddVsGBZ) | 3:19 |
-| 64 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days \(Live In Nashville, TN/2021\)](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
+| 64 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
 | 65 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 |
 | 66 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 |
 | 67 | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW) | 2:57 |

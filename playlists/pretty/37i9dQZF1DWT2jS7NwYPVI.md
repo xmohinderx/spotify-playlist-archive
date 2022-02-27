@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,229 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,312 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 46 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 |
 | 47 | [IN THREES](https://open.spotify.com/track/1TIBjAmf6B2K0xfcb7ja7r) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [JordyPurp](https://open.spotify.com/artist/7uEPTaEXCsV396Tt2OalLy) | [IN THREES](https://open.spotify.com/album/7eCCtzR9Vx8Rupmlo1O8eA) | 3:05 |
 | 48 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 |
-| 49 | [Killing Time](https://open.spotify.com/track/5RShGAYnwQ8Wxrkft4uOEX) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Killing Time](https://open.spotify.com/album/3ejG2M4qiovk22WUuhkRAU) | 3:15 |
+| 49 | [killing time](https://open.spotify.com/track/5RShGAYnwQ8Wxrkft4uOEX) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [killing time](https://open.spotify.com/album/3ejG2M4qiovk22WUuhkRAU) | 3:15 |
 | 50 | [27 Club](https://open.spotify.com/track/5VzSiFJ4aIIk7CH8edrMMm) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [27 Club](https://open.spotify.com/album/548YYAqvz0iL09oldWVENe) | 2:42 |
 | 51 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 |
 | 52 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 |

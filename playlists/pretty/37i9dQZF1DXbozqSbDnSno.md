@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbozqSbDnSno.md) - [plain]
 
 > David Tennant, Sir Ian McKellen, and other inspired prophets of Shakespeare's histories await...
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,802 likes - 87 songs - 18 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,801 likes - 87 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

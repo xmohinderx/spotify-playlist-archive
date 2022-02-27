@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Aftermath of You",
+        "url": "https://open.spotify.com/album/2y6nghXRk9cnDstVXqobZf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Barrios",
+          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158868,
+      "name": "Aftermath of You",
+      "url": "https://open.spotify.com/track/3Wj01X92SlOLgahw1OvC5c"
+    },
+    {
+      "album": {
         "name": "The Identity Crisis: Side A",
         "url": "https://open.spotify.com/album/5JfMAZvLNeAx7DY2t5yvtS"
       },
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 146410,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3r6oQ66z8GfFNdAmjZr2ct"
@@ -3817,6 +3835,24 @@
       "duration_ms": 184253,
       "name": "Dancing in the Mirror",
       "url": "https://open.spotify.com/track/4h0lirk2bZfueiTWUQ0UYh"
+    },
+    {
+      "album": {
+        "name": "Dark Bird",
+        "url": "https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217242,
+      "name": "Dark Bird",
+      "url": "https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN"
     },
     {
       "album": {
@@ -11959,7 +11995,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 168159,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/6LfzViiIqsweZi9V8A2BvG"
@@ -12527,6 +12563,32 @@
       "duration_ms": 167458,
       "name": "Prom",
       "url": "https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX"
+    },
+    {
+      "album": {
+        "name": "PS5 (with TOMORROW X TOGETHER feat. Alan Walker)",
+        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152214,
+      "name": "PS5 (with TOMORROW X TOGETHER feat. Alan Walker)",
+      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
     },
     {
       "album": {
@@ -17749,7 +17811,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 173912,
       "name": "Winter In LA",
       "url": "https://open.spotify.com/track/2nuOpLwdmen2BRhV2fOvXM"

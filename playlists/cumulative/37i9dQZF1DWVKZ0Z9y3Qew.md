@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVKZ0Z9y3Qew.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVKZ0Z9y3Qew) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVKZ0Z9y3Qew)
 
-### Ripple Effect: PNW
+### [Ripple Effect: PNW](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
 
 > Pacific Northwest music breaking waves\. Cover, Sango.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: ROSALÍA \- CHICKEN TERIYAKI](https://open.spotify.com/playlist/0A5ZJCfyXJm9VA43UcvXcE)
+### [HOT NOW: ROSALÍA \- CHICKEN TERIYAKI](https://open.spotify.com/playlist/1dFZcyMQEmk5cQSIUnSLB0)
 
 > ¡No busques más! La música del momento está aquí.
 

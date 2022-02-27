@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaod7SIWA11W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaod7SIWA11W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaod7SIWA11W)
 
-### Lifted Frequency
+### [Lifted Frequency](https://open.spotify.com/playlist/3GMEBhg58xE6pI1nu7uZoh)
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  DOE
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: 2Frères
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,654 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,676 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 26 | [Les gentils bandits](https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Les gentils bandits / Focus](https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv) | 3:40 |
 | 27 | [J'aime ta photo](https://open.spotify.com/track/000mlZk4su6mh0WvFlNUOc) | [Ellemetue](https://open.spotify.com/artist/3DYW5k3Q20xKcomupznCRo) | [Les crucifiés figuratifs](https://open.spotify.com/album/6zGLsViSVtPNcUi4Mz92YY) | 3:33 |
 | 28 | [Renaissance](https://open.spotify.com/track/1pAWb2h5M4FIuo8SfNrdkf) | [Dice B](https://open.spotify.com/artist/6AEnNhEnTlUsEnQ41XZEZ9), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Renaissance](https://open.spotify.com/album/76Bg23vQo9SdkJ6BfLVWSH) | 2:36 |
-| 29 | [Je me souviens plus \(Radio Edit\)](https://open.spotify.com/track/1oxo5QrF91l7UFqegS3cH9) | [Jé Lalune](https://open.spotify.com/artist/7yTxKllx2y7fgcPPckLb2C) | [Je me souviens plus \(Radio Edit\)](https://open.spotify.com/album/1vRIz0BI5Oa8CjXDY6q5cE) | 3:16 |
+| 29 | [Je me souviens plus \(Radio Edit\)](https://open.spotify.com/track/1oxo5QrF91l7UFqegS3cH9) | [Jé Lalune](https://open.spotify.com/artist/4zEfYbafYHBBWtgoU9fXYh) | [Je me souviens plus \(Radio Edit\)](https://open.spotify.com/album/1vRIz0BI5Oa8CjXDY6q5cE) | 3:16 |
 | 30 | [Prières](https://open.spotify.com/track/4YFaeDCJfOmbL8pS4XzKlI) | [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P), [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Prières](https://open.spotify.com/album/6lsdYWzklvHMXHgOtMbjmZ) | 3:15 |
 | 31 | [Boulevard Alexandre](https://open.spotify.com/track/3nDmcZ3bJQoc3kITSjocoE) | [Heïka](https://open.spotify.com/artist/4qxlfgk1WmgpadIa5sVC61) | [Boulevard Alexandre](https://open.spotify.com/album/7qK4fRCeA00Jnvcp6bTknx) | 2:55 |
 | 32 | [Le cadran](https://open.spotify.com/track/4l11yUeN0UrkwFYWiSyyMC) | [Marcus Wilcour](https://open.spotify.com/artist/6fB9PFcHK9nL7j5SnQUWOt) | [Le cadran](https://open.spotify.com/album/6xhSCPGZbGtPK3N3ue48hZ) | 3:10 |

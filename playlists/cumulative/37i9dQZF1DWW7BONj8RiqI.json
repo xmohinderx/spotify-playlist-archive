@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5tJt1IXP2O1bI3IOwCFgBy"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177239,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6F721B9BrRiEiSTyK554rZ"
+    },
+    {
+      "album": {
         "name": "VENT DELUXE",
         "url": "https://open.spotify.com/album/7MyHCz9ZMfRlIpfs4ov6Cq"
       },
@@ -107,6 +125,24 @@
       "duration_ms": 182117,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4tlgccJjMDLc29R9qhkKdz"
+    },
+    {
+      "album": {
+        "name": "Band Parade",
+        "url": "https://open.spotify.com/album/6jXr4E3rxL6gXXfophsJH1"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250632,
+      "name": "Band Parade",
+      "url": "https://open.spotify.com/track/5SlZRyJO2SgRrRwLz48NmD"
     },
     {
       "album": {
@@ -339,10 +375,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 244578,
       "name": "Dear Promoter",
       "url": "https://open.spotify.com/track/4WMQmMmceazgRSRr7har02"
+    },
+    {
+      "album": {
+        "name": "Dingolay",
+        "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207034,
+      "name": "Dingolay",
+      "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
     },
     {
       "album": {
@@ -448,6 +506,28 @@
     },
     {
       "album": {
+        "name": "For It All",
+        "url": "https://open.spotify.com/album/41JtJvR4pdVVfWkDBSr6su"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "EKO",
+          "url": "https://open.spotify.com/artist/4rrW3AXaZGkgXLUGizDSbt"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187125,
+      "name": "For It All",
+      "url": "https://open.spotify.com/track/1c0M02hy4rf3DGfaRYDv1E"
+    },
+    {
+      "album": {
         "name": "The Wal\u00e9 Project",
         "url": "https://open.spotify.com/album/0ISnwh4dunq4gUPT9TsmMq"
       },
@@ -521,7 +601,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 198857,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
@@ -666,6 +746,28 @@
     },
     {
       "album": {
+        "name": "Kasandra",
+        "url": "https://open.spotify.com/album/2qxti8VFUyX4aQXIKohedA"
+      },
+      "artists": [
+        {
+          "name": "Stadic",
+          "url": "https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0"
+        },
+        {
+          "name": "Freetown Collective",
+          "url": "https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Kasandra",
+      "url": "https://open.spotify.com/track/465uwaHwIbasa0Q4EcK3YM"
+    },
+    {
+      "album": {
         "name": "Leave It Alone",
         "url": "https://open.spotify.com/album/3jq2dxPxhY68zowXMq3sB2"
       },
@@ -805,6 +907,28 @@
       "duration_ms": 184440,
       "name": "Mash Up",
       "url": "https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn"
+    },
+    {
+      "album": {
+        "name": "Mash Up",
+        "url": "https://open.spotify.com/album/3oKIMBVHVEB6O62tRjR2rQ"
+      },
+      "artists": [
+        {
+          "name": "Erphaan Alves",
+          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
+        },
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190353,
+      "name": "Mash Up",
+      "url": "https://open.spotify.com/track/4aoNC3tF8z1wxhJ0ysQGFR"
     },
     {
       "album": {
@@ -1033,7 +1157,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 181311,
       "name": "Practice",
       "url": "https://open.spotify.com/track/1EKknHsn1t1VDiNhLpRDdz"
@@ -1051,7 +1175,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 285653,
       "name": "Pump Me Up",
       "url": "https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta"
@@ -1221,7 +1345,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 185660,
       "name": "Shine Pon Me",
       "url": "https://open.spotify.com/track/0zIuvZCCVstLrzEybQw01V"
@@ -1279,7 +1403,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 215334,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR"
@@ -1431,7 +1555,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 186000,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
@@ -1533,6 +1657,24 @@
       "duration_ms": 223720,
       "name": "Trini",
       "url": "https://open.spotify.com/track/0ldH1S3dN0T3D3VRC4BJCh"
+    },
+    {
+      "album": {
+        "name": "Under Vibes",
+        "url": "https://open.spotify.com/album/1uwIw4s4d30p9lcKhjhYf2"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "Under Vibes",
+      "url": "https://open.spotify.com/track/1Spx6aeKCATnqGXA1x5uiE"
     },
     {
       "album": {

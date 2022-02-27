@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVezbGpUvpz7.md) - [plain]
 
 > The essential Poe listening experience, from vintage radio versions to contemporary readings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,807 likes - 66 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,804 likes - 66 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

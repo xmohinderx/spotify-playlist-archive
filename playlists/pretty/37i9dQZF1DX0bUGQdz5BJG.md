@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Teddy Robb
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,757 likes - 138 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,773 likes - 138 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

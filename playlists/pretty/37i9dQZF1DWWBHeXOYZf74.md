@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,260 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,333 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 54 | [Mascarade \(feat\. Lous and The Yakuza\) \- Radio Edit](https://open.spotify.com/track/45qyXu23cbQYUqfovmA3Yv) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2) | 2:35 |
 | 55 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 |
 | 56 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 |
-| 57 | [Satellite \(feat\. Louis Cole & Genevieve Artadi\) \[from Insecure: Music From The HBO Original Series, Season 5\]](https://open.spotify.com/track/0Um5dcYQxSTtzboALXL5qf) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Insecure: Music From The HBO Original Series, Season 5](https://open.spotify.com/album/74jWOzgLNuKdJHSYOHySXN) | 4:32 |
+| 57 | [Satellite Space Age Edition \(feat\. Louis Cole & Genevieve Artadi\) \[from Insecure: Music From The HBO Original Series, Season 5\]](https://open.spotify.com/track/0Um5dcYQxSTtzboALXL5qf) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Insecure: Music From The HBO Original Series, Season 5](https://open.spotify.com/album/74jWOzgLNuKdJHSYOHySXN) | 4:32 |
 | 58 | [This Morning \(feat\. Arin Ray & Smino\)](https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [DRONES](https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa) | 3:43 |
 | 59 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 60 | [2010](https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [2010](https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3) | 2:28 |

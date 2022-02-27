@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU65QzegR429.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU65QzegR429) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU65QzegR429)
 
-### Latin Frequency
+### [Latin Frequency](https://open.spotify.com/playlist/0zMa04VYLgYObHIDHZsMot)
 
 > Latin music making waves\. Cover: Goyo
 

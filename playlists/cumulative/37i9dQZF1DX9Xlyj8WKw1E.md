@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9Xlyj8WKw1E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Xlyj8WKw1E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Xlyj8WKw1E)
 
-### Ripple Effect:  Midwest
+### [Ripple Effect:  Midwest](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
 
 > Midwest music breaking waves\. Vic Mensa.
 

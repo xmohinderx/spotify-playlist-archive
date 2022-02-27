@@ -749,7 +749,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 504456,
       "name": "Ham Hocks and Cabbage",
       "url": "https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr"
@@ -1306,6 +1306,36 @@
     },
     {
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/4O2qrIuZgFCiU4aDaBadJY"
+      },
+      "artists": [
+        {
+          "name": "Graham Harvey",
+          "url": "https://open.spotify.com/artist/1JJR7xNYRfi4iuY7mVQ0DS"
+        },
+        {
+          "name": "Dave O'Higgins",
+          "url": "https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm"
+        },
+        {
+          "name": "Jeremy Brown",
+          "url": "https://open.spotify.com/artist/0Ov05kdgJtUwMZXGCkCDAQ"
+        },
+        {
+          "name": "Josh Morrison",
+          "url": "https://open.spotify.com/artist/4ynl1ZTEDPTMBQy8ws8qs9"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331080,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/45Hg9G6ErEpv0zXDzEs5i3"
+    },
+    {
+      "album": {
         "name": "My Funny Valentine",
         "url": "https://open.spotify.com/album/7G76oUsCSR0H1jKt4V17xt"
       },
@@ -1550,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "Runmar\u00f6",
+        "url": "https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341746,
+      "name": "Runmar\u00f6",
+      "url": "https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ"
+    },
+    {
+      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/2BpAy5GfHM0An9M0TOprBq"
       },
@@ -1753,7 +1801,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
@@ -2043,7 +2091,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 440513,
       "name": "The Winter of My Discontent",
       "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
@@ -2087,7 +2135,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 304293,
       "name": "Theme For Ernie",
       "url": "https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO"

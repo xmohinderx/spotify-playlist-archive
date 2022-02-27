@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWNlm4v5v5Qw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWNlm4v5v5Qw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWNlm4v5v5Qw)
 
-### Ripple Effect: DMV
+### [Ripple Effect: DMV](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 > DMV music breaking waves\. Cover: Alex Vaughn
 

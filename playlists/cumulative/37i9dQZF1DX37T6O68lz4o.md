@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX37T6O68lz4o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX37T6O68lz4o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX37T6O68lz4o)
 
-### Ripple Effect: New England
+### [Ripple Effect: New England](https://open.spotify.com/playlist/00m3TONAbF60v2PgKEF6G2)
 
 > New England music breaking waves\. Cover, Vintage Lee
 

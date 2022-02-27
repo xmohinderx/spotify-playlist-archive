@@ -7173,7 +7173,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 151983,
       "name": "\u0432 \u0442\u0435\u043c\u043d\u043e\u0442\u0435",
       "url": "https://open.spotify.com/track/5JDtUGEFLwq2r26yhHM89E"
@@ -8057,7 +8057,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 194181,
       "name": "\u0434\u0438\u0441\u043a\u043e \u044d\u043b\u0438\u0437\u0438\u0443\u043c",
       "url": "https://open.spotify.com/track/6HWwx65IbS7PA2WKlvNbPS"
@@ -9645,7 +9645,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "\u041b\u0438\u0444\u043e\u043d",
       "url": "https://open.spotify.com/track/1vLBDj2hhzAVskV5OUQ5d2"
@@ -14219,6 +14219,24 @@
       "duration_ms": 164000,
       "name": "\u042f \u041d\u0415 \u0417\u041d\u0410\u042e",
       "url": "https://open.spotify.com/track/76uQsHqCk7tPQPlxdhYpyL"
+    },
+    {
+      "album": {
+        "name": "\u042f \u043d\u0435 \u0442\u0435\u0440\u044f\u044e \u043d\u0430\u0434\u0435\u0436\u0434\u044b",
+        "url": "https://open.spotify.com/album/0UJbTad51DE5RIrwr7z0wz"
+      },
+      "artists": [
+        {
+          "name": "Dzhizus",
+          "url": "https://open.spotify.com/artist/7kB4F3PktJEy9jbwI6ujjZ"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "\u042f \u043d\u0435 \u0442\u0435\u0440\u044f\u044e \u043d\u0430\u0434\u0435\u0436\u0434\u044b",
+      "url": "https://open.spotify.com/track/2yKu0WgrgnMrl1tLOOFNd0"
     },
     {
       "album": {

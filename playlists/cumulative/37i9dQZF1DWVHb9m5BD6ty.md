@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVHb9m5BD6ty.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVHb9m5BD6ty) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVHb9m5BD6ty)
 
-### Frequency UK & Ireland
+### [Frequency UK & Ireland](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 > The home of  Black British & Irish music\. Cover: Little Simz
 

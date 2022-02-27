@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 117394,
       "name": "a mosh pit love story",
       "url": "https://open.spotify.com/track/5Q7JUXXghzKqPPS2IrJK8O"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 120115,
       "name": "BANTER.",
       "url": "https://open.spotify.com/track/14ebwzoKQJcoDjrOZUbWrS"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 115200,
       "name": "BLOODLINE",
       "url": "https://open.spotify.com/track/3EqkflivbF639pZxjyl7JN"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 109595,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/0IGxkEgMeF1dwOSIj2IUrT"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 176840,
       "name": "CUM",
       "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 122289,
       "name": "DEATH BLOW freestyle",
       "url": "https://open.spotify.com/track/7ojp6FPLCPo2krGRCKxbN3"
@@ -934,6 +934,28 @@
     },
     {
       "album": {
+        "name": "FULL SEND RMX",
+        "url": "https://open.spotify.com/album/7uyYKltusTjpA3SZyTX9dY"
+      },
+      "artists": [
+        {
+          "name": "BLXCKBUSTA",
+          "url": "https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119272,
+      "name": "FULL SEND RMX",
+      "url": "https://open.spotify.com/track/1j3SmM9Z34uaIbiMr0yWOQ"
+    },
+    {
+      "album": {
         "name": "GANG!!!",
         "url": "https://open.spotify.com/album/4nP7j30TkBQLpY2wommHRs"
       },
@@ -981,7 +1003,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 123552,
       "name": "GHOST OF YOU",
       "url": "https://open.spotify.com/track/3bXLc0fRHfSheyFcNyM0X0"
@@ -1091,7 +1113,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "GULAG",
       "url": "https://open.spotify.com/track/6IHTOqENC1p8jOgaAc9zLi"
@@ -1109,7 +1131,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 131200,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1z8Ryd5EjADc14IFJJvjNH"
@@ -1251,7 +1273,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 172173,
       "name": "I Think It's Time That I Emerge",
       "url": "https://open.spotify.com/track/4AxnwDsuPBrgXTBqenWTiB"
@@ -1331,7 +1353,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 177462,
       "name": "IMAGES OF DEATH",
       "url": "https://open.spotify.com/track/6UTnrnfRCB3A2GYMTZh3uw"
@@ -1375,7 +1397,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 131083,
       "name": "In N Out (feat. TheHxliday & Rico Nasty)",
       "url": "https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K"
@@ -1411,7 +1433,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "iPHoNe 12",
       "url": "https://open.spotify.com/track/7HdPTwgiZHMVyOm2rPWkDm"
@@ -1625,7 +1647,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 128524,
       "name": "Malto",
       "url": "https://open.spotify.com/track/28Y3DUUjSZILtwaHLp6xbl"
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
@@ -1799,7 +1821,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 148800,
       "name": "NIGHTMARE!",
       "url": "https://open.spotify.com/track/3m3PvBLWGFW6QNXtFvmRsg"
@@ -1927,7 +1949,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 190145,
       "name": "Once From Evil",
       "url": "https://open.spotify.com/track/2DzXsSC3wLb1IqD8kI5poM"
@@ -1949,7 +1971,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 125022,
       "name": "OVERPOWER",
       "url": "https://open.spotify.com/track/0NVYHo87E610AvyQ6SUbeE"
@@ -2061,7 +2083,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 107500,
       "name": "Private",
       "url": "https://open.spotify.com/track/79PXeW2SPqJ3lcSXoPbpmU"
@@ -2109,7 +2131,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Ragnarok",
       "url": "https://open.spotify.com/track/77iJlK3UBnJ6ifrKHbvtbf"
@@ -2295,7 +2317,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 211288,
       "name": "SPIDERBLOOD",
       "url": "https://open.spotify.com/track/0kx1cK3Lhr7yaJ47uvG36X"
@@ -2397,7 +2419,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 170116,
       "name": "Taido",
       "url": "https://open.spotify.com/track/5Z35FamwW6D2Rkm0tOiFHp"
@@ -2419,7 +2441,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 154630,
       "name": "Tarkov",
       "url": "https://open.spotify.com/track/0XkUKsDtftbYFiYf6Yvceo"
@@ -2513,7 +2535,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 133186,
       "name": "THERAPY!",
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
@@ -2625,7 +2647,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 156666,
       "name": "Virtualisis",
       "url": "https://open.spotify.com/track/289lLz63YXI4R3N4xB74G3"

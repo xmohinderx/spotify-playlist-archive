@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Alex Vaughn
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,851 likes - 66 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,875 likes - 66 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/5ymFsfuMVDuG43ksIqCohv"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -2123,6 +2123,28 @@
       "duration_ms": 310393,
       "name": "Come to Life",
       "url": "https://open.spotify.com/track/6DZz58CbF0AKw5PCKqNKcM"
+    },
+    {
+      "album": {
+        "name": "CONTACT FATAL",
+        "url": "https://open.spotify.com/album/5tDOThSevtilM0kO9vQJ0m"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "ZIOAN",
+          "url": "https://open.spotify.com/artist/0VYkOLinOR4qlo9ARphFKu"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "CONTACT FATAL",
+      "url": "https://open.spotify.com/track/5IqPGGvekdnZis9XhcyXeh"
     },
     {
       "album": {
@@ -6481,7 +6503,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "LUX",
       "url": "https://open.spotify.com/track/19sabig1utocg27L2pE1dj"
@@ -8777,7 +8799,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 140634,
       "name": "Restart",
       "url": "https://open.spotify.com/track/56EmQyGejndg9liKFbQxEC"
@@ -10235,7 +10257,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"

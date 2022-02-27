@@ -438,6 +438,28 @@
     },
     {
       "album": {
+        "name": "Cheating in the Daylight",
+        "url": "https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        },
+        {
+          "name": "Willie Clayton",
+          "url": "https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327680,
+      "name": "Cheating in the Daylight",
+      "url": "https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk"
+    },
+    {
+      "album": {
         "name": "Funkify Your Life: The Meters Anthology",
         "url": "https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz"
       },
@@ -762,6 +784,24 @@
     },
     {
       "album": {
+        "name": "No Limit to My Love",
+        "url": "https://open.spotify.com/album/2avr9sLLhLCs0H3DcuW2BY"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210644,
+      "name": "Gonna Lift You Up",
+      "url": "https://open.spotify.com/track/1UIeLWeNp3Vx0Ge3NLUggt"
+    },
+    {
+      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -1079,7 +1119,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 195266,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
@@ -1357,7 +1397,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 290440,
       "name": "Lady (You Bring Me Up)",
       "url": "https://open.spotify.com/track/7l3QyhptrvjiNS5dOcUQvr"
@@ -1627,7 +1667,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 160600,
       "name": "Nothing But A Heartache",
       "url": "https://open.spotify.com/track/621JEkyIPeNSfyOb6tplfi"
@@ -1811,7 +1851,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 167666,
       "name": "Shake What Your Mama",
       "url": "https://open.spotify.com/track/4KLiNPRah1bWQyisb2NtoS"
@@ -1941,7 +1981,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 149293,
       "name": "Soul Connection",
       "url": "https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH"
@@ -1977,7 +2017,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 180055,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"

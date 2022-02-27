@@ -725,7 +725,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 147840,
       "name": "Complicated - Faustix Remix",
       "url": "https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ"
@@ -3582,6 +3582,32 @@
     },
     {
       "album": {
+        "name": "Hopeless Heart",
+        "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151903,
+      "name": "Hopeless Heart",
+      "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
+    },
+    {
+      "album": {
         "name": "How It's Done",
         "url": "https://open.spotify.com/album/5cyIYDrPZOsfwtnvYMWvgY"
       },
@@ -3715,7 +3741,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/38eDoBAphAMkPVPLFOkyKI"
@@ -6033,7 +6059,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 173173,
       "name": "Only Want You - Martin Jensen Remix",
       "url": "https://open.spotify.com/track/5dC3Cv6uGfyr16zJtr6n1n"
@@ -8801,7 +8827,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 193187,
       "name": "Tough Love - Ti\u00ebsto Remix / Radio Edit",
       "url": "https://open.spotify.com/track/7bF6tCO3gFb8INrEDcjNT5"
@@ -9412,6 +9438,28 @@
     },
     {
       "album": {
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
+    },
+    {
+      "album": {
         "name": "When In Rome (Mark Sixma Remix)",
         "url": "https://open.spotify.com/album/2Zcps6IVafbUlq6Ycl0BEV"
       },
@@ -9651,7 +9699,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 210434,
       "name": "Winners Anthem",
       "url": "https://open.spotify.com/track/2kQvw0jH3JKKWVBccDPK9Y"

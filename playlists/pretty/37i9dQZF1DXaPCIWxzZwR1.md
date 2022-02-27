@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,868 likes - 102 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,680 likes - 102 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

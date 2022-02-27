@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 62613,
       "name": "Agatha All Along",
       "url": "https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 162053,
       "name": "All About You",
       "url": "https://open.spotify.com/track/5c7tO3OhDBA4CUkdGoKkI2"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 217747,
       "name": "All Of The Feelings",
       "url": "https://open.spotify.com/track/1fEK1jDlHEXiV1H73jHOVZ"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 231213,
       "name": "AM To PM",
       "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 212333,
       "name": "Applause",
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 177360,
       "name": "Beat Of My Drum",
       "url": "https://open.spotify.com/track/1C3kbf0IYyUJa80NgAS6DS"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 156581,
       "name": "Bop!",
       "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
@@ -679,6 +679,24 @@
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
+    },
+    {
+      "album": {
+        "name": "With The Music I Die (Deluxe)",
+        "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
+      },
+      "artists": [
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "Buy My Love",
+      "url": "https://open.spotify.com/track/1iJOPIayVpj8dmvK50IARA"
     },
     {
       "album": {
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 151866,
       "name": "Daddy AF",
       "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 252033,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0cNH1IsjBVRdeDcpwHAfve"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 243995,
       "name": "Do It",
       "url": "https://open.spotify.com/track/4oB9UvwZUkic3nWWZKULqs"
@@ -1209,10 +1227,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 228520,
       "name": "Doing It (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/0TkwJ7TLLnnckRL3PkdPsU"
+    },
+    {
+      "album": {
+        "name": "Jukebox",
+        "url": "https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Renea",
+          "url": "https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213706,
+      "name": "Dollhouse",
+      "url": "https://open.spotify.com/track/0YiYzuSET7RzVqywWlchwp"
     },
     {
       "album": {
@@ -1245,7 +1281,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 230173,
       "name": "Don't Wanna Dance Alone",
       "url": "https://open.spotify.com/track/3iboHCsNoKn6FrL7FgOClO"
@@ -1281,7 +1317,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 229346,
       "name": "Ego",
       "url": "https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN"
@@ -1299,7 +1335,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 205884,
       "name": "Evacuate The Dancefloor - Radio Edit",
       "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
@@ -1433,7 +1469,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 232666,
       "name": "G.U.Y.",
       "url": "https://open.spotify.com/track/5ve8saw5u0CbP9fcyNzmxN"
@@ -1473,7 +1509,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 200853,
       "name": "Gold Trans Am",
       "url": "https://open.spotify.com/track/5pOeKpXet0UPJyjjM2k7v0"
@@ -1651,7 +1687,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 461737,
       "name": "Greatest Hits Megamix",
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
@@ -2097,7 +2133,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
@@ -2393,7 +2429,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 241866,
       "name": "Leave Get Out",
       "url": "https://open.spotify.com/track/1bYubJyLO1fCa6umTXpUeJ"
@@ -2537,7 +2573,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 172426,
       "name": "Love So Soft",
       "url": "https://open.spotify.com/track/16QN8cBubEq706vNtPpOME"
@@ -2685,7 +2721,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 264520,
       "name": "Marry The Night",
       "url": "https://open.spotify.com/track/4tB0UIYNWsUYsIR3r6a8zY"
@@ -2703,7 +2739,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
@@ -2833,7 +2869,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 200733,
       "name": "New York City",
       "url": "https://open.spotify.com/track/130hhZowWzkA4bypB0dtgc"
@@ -2909,7 +2945,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 189933,
       "name": "Nothing in This World",
       "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
@@ -3043,7 +3079,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 193924,
       "name": "On The Metro",
       "url": "https://open.spotify.com/track/2NZFQ5xAY6obCPiJjtMD6L"
@@ -3383,7 +3419,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 216925,
       "name": "Rhythm Of Love",
       "url": "https://open.spotify.com/track/5C3pgfD9ux8oT6VUqSVkeg"
@@ -3455,7 +3491,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 221451,
       "name": "Screwed",
       "url": "https://open.spotify.com/track/6YhyLXlXUIR6CZCP9x5Crj"
@@ -3491,7 +3527,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 179373,
       "name": "Show Me How You Burlesque (Burlesque) - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
@@ -3527,7 +3563,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 210813,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3Sfz97E5X6dm1172XOZ8wO"
@@ -3549,7 +3585,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 213534,
       "name": "Slumber Party feat. Tinashe",
       "url": "https://open.spotify.com/track/2i9q8CteBmpslOJeQdMGqA"
@@ -3741,7 +3777,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 189666,
       "name": "Stuttering",
       "url": "https://open.spotify.com/track/7HzfdxXTZJLrec5mrtFDk6"
@@ -3813,7 +3849,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 183080,
       "name": "Take It Like A Man",
       "url": "https://open.spotify.com/track/7eQv49zr4VwNyGP0kXH1ZQ"
@@ -3885,7 +3921,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 219213,
       "name": "Tonight I\u2019m Getting Over You",
       "url": "https://open.spotify.com/track/471JtpRQ0oox9OoZcbB8OO"
@@ -4011,7 +4047,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 197386,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"

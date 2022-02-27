@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5qjSia2PLFP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5qjSia2PLFP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5qjSia2PLFP)
 
-### Ripple Effect
+### [Ripple Effect](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 > Emerging music breaking waves\.  Cover: Saba
 

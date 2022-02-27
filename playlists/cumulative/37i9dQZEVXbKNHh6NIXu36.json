@@ -88,6 +88,28 @@
     },
     {
       "album": {
+        "name": "187 Allstars \u201822",
+        "url": "https://open.spotify.com/album/3bXAKp1T2ViXKffJLB6snF"
+      },
+      "artists": [
+        {
+          "name": "Sa4",
+          "url": "https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR"
+        },
+        {
+          "name": "187 Strassenbande",
+          "url": "https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181539,
+      "name": "187 Allstars \u201822",
+      "url": "https://open.spotify.com/track/7jQcjzl8yPQsmxpO5orx4Y"
+    },
+    {
+      "album": {
         "name": "1976",
         "url": "https://open.spotify.com/album/6Zi3ddIocKjhG7Kef8YIAY"
       },
@@ -179,7 +201,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 172288,
       "name": "2CB",
       "url": "https://open.spotify.com/track/0FKw2vfEDxDuRisr4kU8Ok"
@@ -508,6 +530,32 @@
     },
     {
       "album": {
+        "name": "Gl\u00fccklich Unzufrieden",
+        "url": "https://open.spotify.com/album/4v7FIDgOzJkbBfYTsn3h4b"
+      },
+      "artists": [
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "GINI",
+          "url": "https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181351,
+      "name": "Allein (feat. Sido & GINI)",
+      "url": "https://open.spotify.com/track/4ZJQl6tmrVbtvhh7qav7Aa"
+    },
+    {
+      "album": {
         "name": "allein allein",
         "url": "https://open.spotify.com/album/6iXjICPffE7hHceHshw4oc"
       },
@@ -717,7 +765,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 169000,
       "name": "Alright (feat. KIDDO)",
       "url": "https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp"
@@ -987,6 +1035,28 @@
       "duration_ms": 165476,
       "name": "Auf & Ab",
       "url": "https://open.spotify.com/track/0RSZ8EmUPEN3ySfCgytPke"
+    },
+    {
+      "album": {
+        "name": "Auf die Feinde (feat. RAF Camora)",
+        "url": "https://open.spotify.com/album/2taa0jOFmAOC9Fke38887f"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Auf die Feinde (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/4Ir5arQOnMzt0wSB2lq6U3"
     },
     {
       "album": {
@@ -3110,6 +3180,24 @@
     },
     {
       "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/6DDUnsJPuaLsnTfruIp9Ks"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219935,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/0dtmf5crBXbjBtveo8ggJA"
+    },
+    {
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX"
       },
@@ -4243,7 +4331,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -7147,7 +7235,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
@@ -8321,7 +8409,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
@@ -8423,7 +8511,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -8985,6 +9073,24 @@
       "duration_ms": 339249,
       "name": "Off The Grid",
       "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7AarLMaKEYfBWSmtUWZJ82"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144838,
+      "name": "Offday",
+      "url": "https://open.spotify.com/track/3z1wcTPPAKnuhKXHoFMXSb"
     },
     {
       "album": {
@@ -11197,7 +11303,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
@@ -11903,7 +12009,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -13594,6 +13700,32 @@
     },
     {
       "album": {
+        "name": "WHEN I DIE",
+        "url": "https://open.spotify.com/album/2RZnTMXOOrTMXnSR9TeyAc"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Anonym",
+          "url": "https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe"
+        },
+        {
+          "name": "BOJAN",
+          "url": "https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173844,
+      "name": "WHEN I DIE",
+      "url": "https://open.spotify.com/track/61iL9OUfIipm3Udr0Zs1oe"
+    },
+    {
+      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -13723,6 +13855,28 @@
       "duration_ms": 123262,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
+    },
+    {
+      "album": {
+        "name": "Wie viele Lieder muss ich noch schreiben?",
+        "url": "https://open.spotify.com/album/4JubIw2TXZDQGoOX5ddY23"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193254,
+      "name": "Wie viele Lieder muss ich noch schreiben?",
+      "url": "https://open.spotify.com/track/3CQhud304mI5VmW6EjoTDg"
     },
     {
       "album": {
@@ -13959,7 +14113,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-27",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

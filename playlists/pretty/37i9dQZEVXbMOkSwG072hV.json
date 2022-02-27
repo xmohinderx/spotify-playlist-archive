@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 343978,
+  "num_followers": 344000,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk5MTE4MTY1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk5MTkyNDk2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "Hits 2021 (Mashup)",
+        "url": "https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "Hits 2021 - Mashup",
+      "url": "https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Se Liga no Beat",
         "url": "https://open.spotify.com/album/2CgQC1DGvhMhHo3Y364sUQ"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Non Stop Rock'n Roll",
         "url": "https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Terra Prometida",
         "url": "https://open.spotify.com/album/3JQ0qcFa7gDWy2MULfJ1RY"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/2HNTWEJx0FtU6UQfT01VR1"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
@@ -121,7 +141,23 @@
       "url": "https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "As 20 Mais",
+        "url": "https://open.spotify.com/album/4H4QhPQO53houbnuplv7u6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Diau",
+          "url": "https://open.spotify.com/artist/0z85r54XfJHxKGXwjVBYua"
+        }
+      ],
+      "duration_ms": 210128,
+      "name": "Paulinha",
+      "url": "https://open.spotify.com/track/14LPUDmEJiVgnBzYVWaJaa"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "\u00c9 S\u00f3 Blus\u00e3o da Ecko e Bon\u00e9 da Lacoste Vs Putaria (feat. Mc Denny)",
         "url": "https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf"
@@ -141,39 +177,27 @@
       "url": "https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
-        "name": "PIRATA",
-        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
+        "name": "AUTOMOTIVO GOSTOSINHO - PIUI TICTAC X DESCE COM A PERERECA",
+        "url": "https://open.spotify.com/album/6dTvhV3deIaVpF8kjEPavw"
       },
       "artists": [
         {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Anarrana",
-        "url": "https://open.spotify.com/album/2aocmg4mm3KfV0mvbGyveH"
-      },
-      "artists": [
+          "name": "dj fury",
+          "url": "https://open.spotify.com/artist/31F57cAEyyEHY2coP5Q6DV"
+        },
         {
-          "name": "MC Japa",
-          "url": "https://open.spotify.com/artist/2RzyuZzD2apLpKBELlsOjV"
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
         }
       ],
-      "duration_ms": 153234,
-      "name": "Anarrana",
-      "url": "https://open.spotify.com/track/3QJSeb51jHsaLxIwSVcs8N"
+      "duration_ms": 163027,
+      "name": "AUTOMOTIVO GOSTOSINHO - PIUI TICTAC X DESCE COM A PERERECA",
+      "url": "https://open.spotify.com/track/4BwhGkcKozX7fDokjTsWO1"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
@@ -189,7 +213,39 @@
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "PIRATA",
+        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "Anarrana",
+        "url": "https://open.spotify.com/album/2aocmg4mm3KfV0mvbGyveH"
+      },
+      "artists": [
+        {
+          "name": "MC Japa",
+          "url": "https://open.spotify.com/artist/2RzyuZzD2apLpKBELlsOjV"
+        }
+      ],
+      "duration_ms": 153234,
+      "name": "Anarrana",
+      "url": "https://open.spotify.com/track/3QJSeb51jHsaLxIwSVcs8N"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Conto do Plug",
         "url": "https://open.spotify.com/album/5LdjM3D2YAQRmMUOfs9enU"
@@ -205,7 +261,7 @@
       "url": "https://open.spotify.com/track/3CDVijhs5pS7UPr9etzV2J"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Black Lan\u00e7a (Catucando Gostosinho)",
         "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
@@ -225,31 +281,7 @@
       "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
-        "url": "https://open.spotify.com/album/1hGF2T38nY17dxGWZ0e1QQ"
-      },
-      "artists": [
-        {
-          "name": "JC NO BEAT",
-          "url": "https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U"
-        },
-        {
-          "name": "MC Teteu",
-          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
-        },
-        {
-          "name": "DJ F7",
-          "url": "https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
-      "url": "https://open.spotify.com/track/0EMAzKGOFxJgG9vHsm7ciF"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Tuf Tuf Pof Pof",
         "url": "https://open.spotify.com/album/4h7QfGIwKtRwi3KZ27LVdj"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/5IgFVuxghOxiIYRnjUsqi1"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Latchika (Brega Funk)",
         "url": "https://open.spotify.com/album/6ncW72txrBAPifHyHbAEBW"
@@ -305,7 +337,79 @@
       "url": "https://open.spotify.com/track/0I8X7pzQ2ucsJeD18fqO2F"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
+        "url": "https://open.spotify.com/album/1hGF2T38nY17dxGWZ0e1QQ"
+      },
+      "artists": [
+        {
+          "name": "JC NO BEAT",
+          "url": "https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U"
+        },
+        {
+          "name": "MC Teteu",
+          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
+        },
+        {
+          "name": "DJ F7",
+          "url": "https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Eu Vou Machucar S\u00f3 um Pouquinho X Catucando Gostosinho",
+      "url": "https://open.spotify.com/track/0EMAzKGOFxJgG9vHsm7ciF"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "Numanice #2",
+        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 164141,
+      "name": "Maldivas",
+      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Ameno Amapiano Remix (You Wanna Bamba)",
         "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
@@ -325,55 +429,7 @@
       "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 232019,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Numanice #2",
-        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 164141,
-      "name": "Maldivas",
-      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "212",
         "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
@@ -393,7 +449,63 @@
       "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "All For Us (from the HBO Original Series Euphoria)",
+        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "All For Us - from the HBO Original Series Euphoria",
+      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "DA UMA TRAGADA NO BECK",
         "url": "https://open.spotify.com/album/1Z7wDfi6A95BOd4UNA35bv"
@@ -425,63 +537,7 @@
       "url": "https://open.spotify.com/track/6tUckTusXmzVZP3H3lDU6d"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "All For Us (from the HBO Original Series Euphoria)",
-        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "All For Us - from the HBO Original Series Euphoria",
-      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Toxic Pony",
         "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
@@ -505,7 +561,7 @@
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Uptown Funk Remix RJ",
         "url": "https://open.spotify.com/album/1wEtVTCziAOIu1Qr3OcvfE"
@@ -525,43 +581,23 @@
       "url": "https://open.spotify.com/track/30oKgF1npDvpJCtXXum3zz"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
-        "name": "LAst dAy oN EaRTh",
-        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
+        "name": "Captain (whistle)",
+        "url": "https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "Nutcase22",
+          "url": "https://open.spotify.com/artist/223shoqJ9oge1jE0QKyV1K"
         }
       ],
-      "duration_ms": 172755,
-      "name": "LAst dAy oN EaRTh",
-      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
+      "duration_ms": 214819,
+      "name": "Captain (whistle)",
+      "url": "https://open.spotify.com/track/2GPh676erhgaOyMRmQNOc6"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "QVVJFA?",
-        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Sei Partir",
-      "url": "https://open.spotify.com/track/3hqjvHfk55d0eBJUBICfC5"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Incrivel Jogando a Potranca",
         "url": "https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5"
@@ -581,7 +617,7 @@
       "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
@@ -597,23 +633,43 @@
       "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
-        "name": "Captain (whistle)",
-        "url": "https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX"
+        "name": "LAst dAy oN EaRTh",
+        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
       },
       "artists": [
         {
-          "name": "Nutcase22",
-          "url": "https://open.spotify.com/artist/223shoqJ9oge1jE0QKyV1K"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 214819,
-      "name": "Captain (whistle)",
-      "url": "https://open.spotify.com/track/2GPh676erhgaOyMRmQNOc6"
+      "duration_ms": 172755,
+      "name": "LAst dAy oN EaRTh",
+      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "QVVJFA?",
+        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Sei Partir",
+      "url": "https://open.spotify.com/track/3hqjvHfk55d0eBJUBICfC5"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Depende",
         "url": "https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li"
@@ -637,7 +693,7 @@
       "url": "https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Naturalidade",
         "url": "https://open.spotify.com/album/7KYPAw6gfdL82Kbm04XmYw"
@@ -657,27 +713,7 @@
       "url": "https://open.spotify.com/track/6HBnE8JFs1hfq1qLP65kxE"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "QVVJFA?",
-        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/3PWfXDkLIqfbTdEyv812za"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Melhor Plug do Mundo",
         "url": "https://open.spotify.com/album/2z7rZteJxAc31IE5Dnt0Cw"
@@ -697,7 +733,27 @@
       "url": "https://open.spotify.com/track/2i9kS134847LgKQYO2NxCx"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "QVVJFA?",
+        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3PWfXDkLIqfbTdEyv812za"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
@@ -713,7 +769,27 @@
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "RITMADA SIGILOSA",
+        "url": "https://open.spotify.com/album/5QnXPHSkNLFt5fvFQyysvg"
+      },
+      "artists": [
+        {
+          "name": "djfuryzl",
+          "url": "https://open.spotify.com/artist/6CHfctV0xTse0qz9LGlpoK"
+        },
+        {
+          "name": "mc vick",
+          "url": "https://open.spotify.com/artist/4qtHHP8OjqTgpORJDTIAPj"
+        }
+      ],
+      "duration_ms": 153437,
+      "name": "RITMADA SIGILOSA",
+      "url": "https://open.spotify.com/track/18BnpVPlaPsHIK7fhHz5mq"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Piriquita",
         "url": "https://open.spotify.com/album/0CCqdwm8Fygvd1IBH8oOdl"
@@ -733,23 +809,43 @@
       "url": "https://open.spotify.com/track/4utrDZkvrYtvwLq3iCzsOb"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
-        "name": "Chamyto Freestyle 2",
-        "url": "https://open.spotify.com/album/00XA0XPL17vHksVaxWzwWc"
+        "name": "ESSE \u00c9 LADR\u00c3O",
+        "url": "https://open.spotify.com/album/5RVAa6VkF8XRN9N6DLTtTF"
       },
       "artists": [
         {
-          "name": "D$ Luqi",
-          "url": "https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt"
+          "name": "DJ BRUNIN DA NT",
+          "url": "https://open.spotify.com/artist/3ifiFpeJ4X5nYagCluflvg"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
         }
       ],
-      "duration_ms": 121379,
-      "name": "Chamyto Freestyle 2",
-      "url": "https://open.spotify.com/track/1PY9IEVAOTy8x7I9xn4LI1"
+      "duration_ms": 213980,
+      "name": "ESSE \u00c9 LADR\u00c3O",
+      "url": "https://open.spotify.com/track/5rz7ZQkMpQHGDXC62P2Axw"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
+    },
+    {
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Bask Freestyle 2 Speed",
         "url": "https://open.spotify.com/album/50Ced9dAegxUeWIRzshMfA"
@@ -781,7 +877,7 @@
       "url": "https://open.spotify.com/track/22peDY0PHE4LTqbnTWsPHj"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
@@ -797,59 +893,7 @@
       "url": "https://open.spotify.com/track/6RA5wqeXofVKhJQjRW2qUL"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 135046,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "ESSE \u00c9 LADR\u00c3O",
-        "url": "https://open.spotify.com/album/5RVAa6VkF8XRN9N6DLTtTF"
-      },
-      "artists": [
-        {
-          "name": "DJ BRUNIN DA NT",
-          "url": "https://open.spotify.com/artist/3ifiFpeJ4X5nYagCluflvg"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        }
-      ],
-      "duration_ms": 213980,
-      "name": "ESSE \u00c9 LADR\u00c3O",
-      "url": "https://open.spotify.com/track/5rz7ZQkMpQHGDXC62P2Axw"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Vontade De Morder",
         "url": "https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1"
@@ -869,23 +913,7 @@
       "url": "https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "Vs Head Vs Heart",
-        "url": "https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8"
-      },
-      "artists": [
-        {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        }
-      ],
-      "duration_ms": 202907,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Joga na Cara",
         "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
@@ -905,67 +933,39 @@
       "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
-        "name": "Me Mama Ai, Oque Que Tem?",
-        "url": "https://open.spotify.com/album/4S4DCjHuHzaorD68wgjVlP"
+        "name": "Chamyto Freestyle 2",
+        "url": "https://open.spotify.com/album/00XA0XPL17vHksVaxWzwWc"
       },
       "artists": [
         {
-          "name": "DJ Guih MS",
-          "url": "https://open.spotify.com/artist/7BRrnLVibTwGNUP5HkiBUY"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+          "name": "D$ Luqi",
+          "url": "https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt"
         }
       ],
-      "duration_ms": 215975,
-      "name": "Me Mama Ai, Oque Que Tem?",
-      "url": "https://open.spotify.com/track/5HHJE7JkqkWP7QeT7DHdSs"
+      "duration_ms": 121379,
+      "name": "Chamyto Freestyle 2",
+      "url": "https://open.spotify.com/track/1PY9IEVAOTy8x7I9xn4LI1"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
       },
       "artists": [
         {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+      "duration_ms": 135046,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
     },
     {
-      "added_at": "2022-02-25 15:29:25",
-      "album": {
-        "name": "RITMADA SIGILOSA",
-        "url": "https://open.spotify.com/album/5QnXPHSkNLFt5fvFQyysvg"
-      },
-      "artists": [
-        {
-          "name": "djfuryzl",
-          "url": "https://open.spotify.com/artist/6CHfctV0xTse0qz9LGlpoK"
-        },
-        {
-          "name": "mc vick",
-          "url": "https://open.spotify.com/artist/4qtHHP8OjqTgpORJDTIAPj"
-        }
-      ],
-      "duration_ms": 153437,
-      "name": "RITMADA SIGILOSA",
-      "url": "https://open.spotify.com/track/18BnpVPlaPsHIK7fhHz5mq"
-    },
-    {
-      "added_at": "2022-02-25 15:29:25",
+      "added_at": "2022-02-26 12:08:16",
       "album": {
         "name": "Novinha Malada do Insta",
         "url": "https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj"

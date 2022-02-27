@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,173 likes - 92 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,246 likes - 92 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 29 | [Hard Feelings](https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Hard Feelings](https://open.spotify.com/album/6Qu6frqdt6vgg7PLvbV9bT) | 3:19 |
 | 30 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/4xUxUapKru3Z7uOJygVVRD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Lose My Mind / Losing You](https://open.spotify.com/album/0WByFFwg5PiVbjbQEkWEXB) | 3:20 |
 | 31 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 |
-| 32 | [Put Your Hands On My \_\_\_\_ \- Original Phonk Version](https://open.spotify.com/track/2uXjxpMbkIhwq4bmgTezRT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Put Your Hands On My \_\_\_\_ \(Original Phonk Version\)](https://open.spotify.com/album/7cuKP1OEU3YT6xAkaGi0cd) | 2:12 |
+| 32 | [Put Your Hands On My \_\_\_\_ \(feat\. Saucy Santana\) \- Original Phonk Version](https://open.spotify.com/track/2uXjxpMbkIhwq4bmgTezRT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Put Your Hands On My \_\_\_\_ \(feat\. Saucy Santana\) \[Original Phonk Version\]](https://open.spotify.com/album/7cuKP1OEU3YT6xAkaGi0cd) | 2:12 |
 | 33 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 |
 | 34 | [CHARGER](https://open.spotify.com/track/0ZHSbNRrrfAs8hwEuecJM6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM) | [CHARGER](https://open.spotify.com/album/5y1t9JGawPBdgJjd3Ogl0a) | 1:53 |
 | 35 | [Come Around](https://open.spotify.com/track/3TpkcCHblOWMzalss4ug24) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Come Around](https://open.spotify.com/album/4uHx96O6wgOe0RN01ApoKT) | 2:53 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 88 | [last week](https://open.spotify.com/track/0LkURTUPnUK1Ave7Y9Rk5m) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [last week](https://open.spotify.com/album/3UMkTQglogAqf12RwotZuz) | 2:19 |
 | 89 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 |
 | 90 | [Back Words](https://open.spotify.com/track/3KWR8SEGBcxMklHWsLHU42) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Back Words](https://open.spotify.com/album/29epwn0AEmjRReVddVsGBZ) | 3:19 |
-| 91 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days \(Live In Nashville, TN/2021\)](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
+| 91 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
 | 92 | [I Like](https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [I Like](https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty) | 2:07 |
 
 Snapshot ID: `MTY0NTc0MzYwMCwwMDAwMDM2MTAwMDAwMTdmMmRmNjcyMjEwMDAwMDE3ZjJkZTQyNTUw`
