@@ -1366,6 +1366,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Lo\-fi Indie](/playlists/pretty/37i9dQZF1DX0CIO5EOSHeD.md)
 - [Locked In](/playlists/pretty/37i9dQZF1DWTl4y3vgJOXW.md)
 - [lofi beats](/playlists/pretty/37i9dQZF1DWWQRwui0ExPn.md)
+- [lofi hip hop chill/study music](/playlists/pretty/0Wd4x2oJ5GDXP6QXroSGD9.md)
 - [LolliPOP](/playlists/pretty/37i9dQZF1DWUEZXXfFphen.md)
 - [Lone Star Blues](/playlists/pretty/37i9dQZF1DXeaMD6NdSui3.md)
 - [Lorem](/playlists/pretty/37i9dQZF1DXdwmD5Q7Gxah.md)
