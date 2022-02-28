@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sMl692aSSY.md) - [plain]
 
 > A fresh and varied selection of nonfiction — updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,729 likes - 59 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,728 likes - 59 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

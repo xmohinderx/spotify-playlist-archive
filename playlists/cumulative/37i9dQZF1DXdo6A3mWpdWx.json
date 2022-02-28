@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 232411,
       "name": "3AM Eternal - Live at the S.S.L.",
       "url": "https://open.spotify.com/track/0ldLTYuqnHU92weLtw6W9m"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 233960,
       "name": "Ain't No Man",
       "url": "https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 228013,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 233866,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/1MkcvwNhKiE5vyrw73xZtY"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 254933,
       "name": "Black or White",
       "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Boom Boom Boom - Don't Break My Balls Mix",
       "url": "https://open.spotify.com/track/1m3YR95r3ZuLtu66T8l4Ab"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 210933,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/4jP1ex7l0wwogPtcvmGoIe"
@@ -851,10 +851,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 263162,
       "name": "Dreams (Will Come Alive)",
       "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
+    },
+    {
+      "album": {
+        "name": "Ebeneezer Goode - EP",
+        "url": "https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV"
+      },
+      "artists": [
+        {
+          "name": "The Shamen",
+          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "Ebeneezer Goode - Beat Edit",
+      "url": "https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt"
     },
     {
       "album": {
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Freestyler",
       "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 261133,
       "name": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & M\u00fda)",
       "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 184373,
       "name": "I Won't Let The Sun Go Down On Me - 7\" Original Radio",
       "url": "https://open.spotify.com/track/63anYuuPBLeU0CB52vZUAF"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 210426,
       "name": "If I Can't Have You - 7\" Edit",
       "url": "https://open.spotify.com/track/7CQwrwJSd2XBYUiGkyQyWC"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Killer",
       "url": "https://open.spotify.com/track/5jhDeobWatA1XAHWKOWPh2"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 216520,
       "name": "La Primavera - UK Radio Edit",
       "url": "https://open.spotify.com/track/1aepCwv2LhrYRIk9g3OAZb"
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 232826,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 223426,
       "name": "Mamma Mia - Radio Version",
       "url": "https://open.spotify.com/track/0i2UIuXKAoDrK1LzI5qUcd"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 235026,
       "name": "Missing - Todd Terry Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 291800,
       "name": "Move On Baby",
       "url": "https://open.spotify.com/track/1PavRrF6Ydo0HSePmMt5tL"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
@@ -2338,6 +2356,28 @@
     },
     {
       "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/2ANQ6hLrvOnhRUQEmMsjLi"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Tina Cousins",
+          "url": "https://open.spotify.com/artist/2uhEmRPgI5Ppg2T3o8VP31"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Mysterious Times",
+      "url": "https://open.spotify.com/track/3w6BcLgFqVSOK8RnV4k7Cd"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -2349,7 +2389,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 252071,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
@@ -2367,7 +2407,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 212000,
       "name": "Never Let Her Slip Away - Essential Edit",
       "url": "https://open.spotify.com/track/7qW3zwIxGaE4LJfYJpaGjp"
@@ -2443,7 +2483,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 236226,
       "name": "One and One - Radio",
       "url": "https://open.spotify.com/track/5cXTJiry5czVBiN2YjffKo"
@@ -2797,7 +2837,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 226466,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV"
@@ -2909,7 +2949,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 358226,
       "name": "Stay",
       "url": "https://open.spotify.com/track/17PIimsvVwdgFlo7SqpflK"
@@ -3047,7 +3087,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 204586,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
@@ -3180,6 +3220,24 @@
     },
     {
       "album": {
+        "name": "Basic Injection",
+        "url": "https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj"
+      },
+      "artists": [
+        {
+          "name": "Basic Element",
+          "url": "https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "The Promise Man",
+      "url": "https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW"
+    },
+    {
+      "album": {
         "name": "The Rhythm of the Night",
         "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
       },
@@ -3245,7 +3303,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 270333,
       "name": "There's Nothing I Won't Do - Original Edit",
       "url": "https://open.spotify.com/track/22RGeL5eCVCCXeTDZLzYdC"
@@ -3443,7 +3501,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 278778,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
@@ -3621,7 +3679,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
@@ -3711,7 +3769,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 234106,
       "name": "Wheel of Fortune",
       "url": "https://open.spotify.com/track/4I5WIQUCG630PniJcCwJtV"
@@ -3823,7 +3881,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"

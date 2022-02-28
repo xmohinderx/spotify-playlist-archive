@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 177657,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 138857,
       "name": "buckshot boy",
       "url": "https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 129339,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 222640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 199778,
       "name": "Dirty Tampon",
       "url": "https://open.spotify.com/track/3QI6lpysfZtQhYHA3uxOqz"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 181356,
       "name": "Everything's Fucked",
       "url": "https://open.spotify.com/track/4TB8yXdbtiVT8Wlgz5Bnbm"
@@ -765,10 +765,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "album": {
+        "name": "God Mode",
+        "url": "https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK"
+      },
+      "artists": [
+        {
+          "name": "Y!KES",
+          "url": "https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262053,
+      "name": "God Mode",
+      "url": "https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l"
     },
     {
       "album": {
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 168500,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 186386,
       "name": "I Just Needed You",
       "url": "https://open.spotify.com/track/3lqm790H1ZQlMid2mvChDn"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 221573,
       "name": "i luv that u hate me",
       "url": "https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 190239,
       "name": "Imprint",
       "url": "https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix"
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 151908,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/3mkXhFOYSb3O52x70Pj9Z7"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 159212,
       "name": "Meant to be",
       "url": "https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 178162,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/1jnldPFWWKVxYVQuaYzk1D"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 171429,
       "name": "monday",
       "url": "https://open.spotify.com/track/0sAHHpXdFBarjfTsntW1ZP"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 220538,
       "name": "Obey (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 126033,
       "name": "Party At The Cemetery",
       "url": "https://open.spotify.com/track/4O3hlqw3P2SA0SvsyKuYCu"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 161037,
       "name": "phuck u",
       "url": "https://open.spotify.com/track/6TCHh0VTnbXq5iAKK4JBjG"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 149818,
       "name": "Pissed in the Morning",
       "url": "https://open.spotify.com/track/3cKgffGir3V6y0iGR75KHT"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 162559,
       "name": "Play Pretend (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/2Dn2KgWEzKdmQEyDsOS1GU"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 208695,
       "name": "These Days R Mine",
       "url": "https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 214320,
       "name": "WAYWURD sON",
       "url": "https://open.spotify.com/track/1vn5HbJduxB1ae0QjV2Wm7"

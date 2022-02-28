@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31018,
+  "num_followers": 31043,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTkyMzAyMiwwMDAwMDAwMDIyNThhZWE3OTRkMTAwM2E5NWRkZjFlYjgxNjE1ODdh",
+  "snapshot_id": "MTY0NjAwOTM2MiwwMDAwMDAwMDYxY2FkODhiYTc1YzYxNjRkYTQ1YzU5YTI3MTJhYTEy",
   "tracks": [
     {
       "added_at": "2019-10-02 08:53:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 231773,
-      "name": "One Drop",
-      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
+      "duration_ms": 213893,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
     },
     {
       "added_at": "2019-10-02 08:53:00",
@@ -75,8 +75,8 @@
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Exodus (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
       "artists": [
         {
@@ -84,25 +84,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 256240,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/4Gq2ydMKhDZmctzkmk2bYo"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Roots, Rock, Reggae",
-      "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
+      "duration_ms": 231773,
+      "name": "One Drop",
+      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
     },
     {
       "added_at": "2019-10-02 08:53:00",
@@ -123,8 +107,8 @@
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
       "artists": [
         {
@@ -132,9 +116,25 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 240333,
-      "name": "So Much Trouble In The World",
-      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
+      "duration_ms": 188313,
+      "name": "Real Situation",
+      "url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
     },
     {
       "added_at": "2019-10-02 08:53:00",
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs"
+      "duration_ms": 256240,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/4Gq2ydMKhDZmctzkmk2bYo"
     },
     {
       "added_at": "2019-10-02 08:53:00",
@@ -187,6 +187,38 @@
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Natty Dread",
+      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Roots, Rock, Reggae",
+      "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
         "name": "Catch A Fire",
         "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
       },
@@ -196,9 +228,105 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 282533,
-      "name": "High Tide Or Low Tide - Jamaican Version",
-      "url": "https://open.spotify.com/track/2P7dqEsGAvdVBCWeycm0vI"
+      "duration_ms": 217440,
+      "name": "Kinky Reggae - Original Album Version",
+      "url": "https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Rastaman Chant",
+      "url": "https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Rastaman Live Up",
+      "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "So Much Trouble In The World",
+      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 460226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/5nDPGDOqmAeSV4hXQsAU01"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
     },
     {
       "added_at": "2019-10-02 08:53:00",
@@ -235,38 +363,6 @@
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Rastaman Chant",
-      "url": "https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Exodus (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 460226,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/5nDPGDOqmAeSV4hXQsAU01"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -276,15 +372,15 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 188313,
-      "name": "Real Situation",
-      "url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ"
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
       "artists": [
         {
@@ -292,105 +388,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213893,
-      "name": "Positive Vibration",
-      "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 298506,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Kinky Reggae - Original Album Version",
-      "url": "https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Forever Loving Jah",
-      "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Natty Dread",
-      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
+      "duration_ms": 302640,
+      "name": "Mix Up, Mix Up",
+      "url": "https://open.spotify.com/track/12zYQ3dOGdclP6Iy2a0bgy"
     },
     {
       "added_at": "2019-10-02 08:53:00",
@@ -420,15 +420,15 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
+      "duration_ms": 242333,
+      "name": "Forever Loving Jah",
+      "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
     },
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
@@ -436,15 +436,15 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 327133,
-      "name": "Rastaman Live Up",
-      "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
+      "duration_ms": 298506,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
     },
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
       },
       "artists": [
         {
@@ -452,9 +452,25 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 302640,
-      "name": "Mix Up, Mix Up",
-      "url": "https://open.spotify.com/track/12zYQ3dOGdclP6Iy2a0bgy"
+      "duration_ms": 282533,
+      "name": "High Tide Or Low Tide - Jamaican Version",
+      "url": "https://open.spotify.com/track/2P7dqEsGAvdVBCWeycm0vI"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2019-10-02 08:53:00",
@@ -491,22 +507,6 @@
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2019-10-02 08:53:00",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
-    },
-    {
-      "added_at": "2019-10-02 08:53:00",
-      "album": {
         "name": "Natty Dread",
         "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 226240,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/3PQLYVskjUeRmRIfECsL0X"
+    },
+    {
+      "added_at": "2019-10-02 08:53:00",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
     }
   ],
   "unique_name": "Legendary Labels: Tuff Gong",

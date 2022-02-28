@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Zaquin com Mc Rick, Chefin e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,730,764 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,730,891 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 17 | [Bonde das Novinhas](https://open.spotify.com/track/6PkW5MUItJefN0oNUCm7zC) | [MC Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o), [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d) | [Bonde das Novinhas](https://open.spotify.com/album/0kNpbORPaIV2X17pwtAcGK) | 2:09 |
 | 18 | [Imagina Aí \- Ao Vivo](https://open.spotify.com/track/3zN5Ujzcj3kc0DJcLi2eVv) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Imagina Aí \(Ao Vivo\)](https://open.spotify.com/album/04JBt603YzMLcYs2YePeTV) | 3:02 |
 | 19 | [Beijinho, Love e Tchau](https://open.spotify.com/track/2rIEzUuaamNmuwGHBAiQac) | [Sandro e Cícero](https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5), [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Beijinho, Love e Tchau](https://open.spotify.com/album/7tgYz3PoB9qU5vungcxvhg) | 2:15 |
-| 20 | [Dono do Som](https://open.spotify.com/track/3D4F1PlLTms7EeYiPjMy2u) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Cremosinho](https://open.spotify.com/artist/13aB5itd8jury5uVkNyhUU), [Rod Bala](https://open.spotify.com/artist/24rIgNARCQe7pFuEw9Do6R) | [Dono do Som](https://open.spotify.com/album/7jIBW1TYkjdXrHgttJF5Zx) | 2:31 |
+| 20 | [O Dono do Som](https://open.spotify.com/track/3D4F1PlLTms7EeYiPjMy2u) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Cremosinho](https://open.spotify.com/artist/13aB5itd8jury5uVkNyhUU), [Rod Bala](https://open.spotify.com/artist/24rIgNARCQe7pFuEw9Do6R) | [O Dono do Som](https://open.spotify.com/album/7jIBW1TYkjdXrHgttJF5Zx) | 2:31 |
 | 21 | [Deu Samba](https://open.spotify.com/track/7BqSo3V281UKdeBKAzeSri) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Deu Samba](https://open.spotify.com/album/6yupRb4nOpCLUV80DgrTbJ) | 3:45 |
 | 22 | [Partidão \(Partido Alto\)](https://open.spotify.com/track/4bSURn6F7zxEZuQwMShKeV) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moacyr Luz](https://open.spotify.com/artist/5VdzirhEjTkESMJw5sfbJN), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Partidão \(Partido Alto\)](https://open.spotify.com/album/0e9SoenblNyVP3gMqemuLb) | 2:54 |
 | 23 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 |

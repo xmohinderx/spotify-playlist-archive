@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tulus
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,105 likes - 120 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,113 likes - 120 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 35 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 |
 | 36 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 37 | [Melesat](https://open.spotify.com/track/3nkosaaEYNIOzVMqaQplbb) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [8 Ball](https://open.spotify.com/artist/4JV6JFLPTf2eDCJ7fFcdNh) | [Melesat](https://open.spotify.com/album/4RSa8WPDyNUfIYoXTq3f0b) | 3:57 |
-| 38 | [Dan Senyumlah](https://open.spotify.com/track/2t8RKWspJ4kGpwwbO8RFnF) | [Ipang Lazuardi](https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh), [Yudis Dwiko](https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ), [Javafinger](https://open.spotify.com/artist/1Vbm0T7SS9DvbS6NFDmIVK), [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Dan Senyumlah](https://open.spotify.com/album/60iAiXUf2TQ8Uz9JQpFpma) | 4:57 |
+| 38 | [Dan Senyumlah](https://open.spotify.com/track/2t8RKWspJ4kGpwwbO8RFnF) | [Ipang Lazuardi](https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh), [Yudis Dwiko](https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ), [Javafinger](https://open.spotify.com/artist/1Vbm0T7SS9DvbS6NFDmIVK), [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Dan Senyumlah](https://open.spotify.com/album/60iAiXUf2TQ8Uz9JQpFpma) | 4:58 |
 | 39 | [Cinta Tiada Batas](https://open.spotify.com/track/44eaCuGcfusDtWnp8xqt5h) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Cinta Tiada Batas](https://open.spotify.com/album/6OAI3NOZazrdSqcITWz9OT) | 4:05 |
 | 40 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 |
 | 41 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/3G2FS86ctPb7BqRH9Cp9M6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3O1ZHXPJBX6CKBaxzlH5c3) | 3:20 |

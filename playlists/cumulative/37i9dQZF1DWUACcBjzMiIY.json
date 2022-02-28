@@ -55,7 +55,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 341800,
       "name": "A New Day Has Come",
       "url": "https://open.spotify.com/track/1Hck0Y3AgGLIvv9pRuq3ti"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 250053,
       "name": "Beautiful Trauma",
       "url": "https://open.spotify.com/track/1ipE3bBLWeLkIvxWUaxpSu"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 238000,
       "name": "Bonfire Heart",
       "url": "https://open.spotify.com/track/6H2NtlZr110yO3uwphiTKk"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 278373,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 255560,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7ra7mVrA3SGTNzImA7UacC"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 238066,
       "name": "I Try",
       "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "It's So Hard to Say Goodbye to Yesterday",
       "url": "https://open.spotify.com/track/3I9oojmw2NH3yCkVtV3DtV"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 235080,
       "name": "Living in the Moment",
       "url": "https://open.spotify.com/track/3ce7k1L4EkZppZPz1EJWTS"
@@ -2551,7 +2551,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 234106,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
@@ -2627,7 +2627,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
@@ -2778,6 +2778,24 @@
     },
     {
       "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4"
+    },
+    {
+      "album": {
         "name": "Over And Over Again",
         "url": "https://open.spotify.com/album/1IVuFM49EVxrSfn6AJZAn9"
       },
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 210580,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
@@ -2959,7 +2977,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 221595,
       "name": "Pray",
       "url": "https://open.spotify.com/track/3BgvCj5oUc8jpL8YCB9y8S"
@@ -2977,7 +2995,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
@@ -3049,7 +3067,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -3197,7 +3215,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 241693,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc"
@@ -3493,7 +3511,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 276146,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4dp8cI4USaMlFzJ5MeBsVs"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
@@ -3857,7 +3875,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 217986,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/3pLTOP0G0etiWUknFoRpsr"
@@ -3929,7 +3947,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 189333,
       "name": "The Other",
       "url": "https://open.spotify.com/track/1lntL1cI2UIWlxjL5QiN8g"
@@ -4091,7 +4109,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
@@ -4181,7 +4199,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 177523,
       "name": "watch",
       "url": "https://open.spotify.com/track/44jVYj3TXig7Cf1vkgulnQ"
@@ -4343,7 +4361,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Where Were You In The Morning?",
       "url": "https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI"
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"

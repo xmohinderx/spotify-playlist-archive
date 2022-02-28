@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 315026,
       "name": "Cool Down The Pace",
       "url": "https://open.spotify.com/track/069XwdkglfN94CvwUZvBxv"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 167600,
       "name": "East of the River Nile - 1971 Version",
       "url": "https://open.spotify.com/track/44Oy8VNAjajn6zT2BRUxzy"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 163538,
       "name": "Eastern Standard Time",
       "url": "https://open.spotify.com/track/04cCYxaUC2LObYVTGlRYBX"
@@ -719,10 +719,28 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 161560,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g"
+    },
+    {
+      "album": {
+        "name": "Burnin' (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281026,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
     },
     {
       "album": {
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 201213,
       "name": "Illya Kuryakin",
       "url": "https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 153320,
       "name": "It Mek",
       "url": "https://open.spotify.com/track/4UjAUBivCvCFc5La3N4FS2"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 219866,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 318106,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 177306,
       "name": "Samfie Man",
       "url": "https://open.spotify.com/track/7lg50PPjR4ae8VaSXWp46z"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 191160,
       "name": "The Sun Stop Shining",
       "url": "https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 174160,
       "name": "Train To Skaville",
       "url": "https://open.spotify.com/track/466HPqJP2wrgOyI222XvPs"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 252466,
       "name": "Working On a Groovy Thing",
       "url": "https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH"

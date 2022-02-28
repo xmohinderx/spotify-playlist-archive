@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV?si=EhfahK84Tpu0RdUaMoR\_OQ">Ntokzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,555 likes - 75 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,946 likes - 75 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

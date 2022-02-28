@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 469071,
       "name": "5 Dollar Shake",
       "url": "https://open.spotify.com/track/7sOQGEBjsGKjlocniTTWR4"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2019-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 309847,
       "name": "Anatolia",
       "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 327740,
       "name": "Ayutthaya",
       "url": "https://open.spotify.com/track/1KYLEmYHG5gHEJI0JkxiWN"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 465000,
       "name": "Cafune",
       "url": "https://open.spotify.com/track/2O3V17L93GZyCDX6vhEKz5"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 400000,
       "name": "Can You See What I See",
       "url": "https://open.spotify.com/track/1EbwNU8Iz75oAHWW6mtVDe"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
@@ -1885,7 +1885,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 403933,
       "name": "Filinta - Spaniol Remix",
       "url": "https://open.spotify.com/track/3Ea68m51Xmg5JbZ3i8DEhO"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 385702,
       "name": "Flou",
       "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 403831,
       "name": "Flowers in Mind",
       "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
@@ -2029,7 +2029,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 442235,
       "name": "Furyosa",
       "url": "https://open.spotify.com/track/4byi7mRCIFK2Eaid40iAPP"
@@ -2193,7 +2193,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 408979,
       "name": "Glow - Original Mix",
       "url": "https://open.spotify.com/track/7qkxPq8XJ2cbWlDueS3cnH"
@@ -2211,7 +2211,7 @@
       ],
       "date_added": "2020-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 405213,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
@@ -2255,6 +2255,24 @@
       "duration_ms": 432000,
       "name": "Hexagon Earth Theorists",
       "url": "https://open.spotify.com/track/1WtmCWyHLhEUfP7OLKY0dg"
+    },
+    {
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/3CgwmAyCL3JW0B7Wf3bloH"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/6GwVuZ5VtLIVjmPOkuonle"
     },
     {
       "album": {
@@ -2309,7 +2327,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 404000,
       "name": "I am I",
       "url": "https://open.spotify.com/track/6wYjMwScxU3eWFWLgo94Pd"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2020-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 384330,
       "name": "Izivunguvungu - Chlo\u00e9 Remix",
       "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 223637,
       "name": "Lotus - Radio Edit",
       "url": "https://open.spotify.com/track/3tx2LWG7qvk51C8A6d3qdg"
@@ -3043,7 +3061,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 279000,
       "name": "Man Dies Alone - Short Version",
       "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
@@ -3105,7 +3123,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 318435,
       "name": "Marichi - MUTA Remix",
       "url": "https://open.spotify.com/track/0iAsylb1NJLd7Lx1Ep774N"
@@ -3123,7 +3141,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 359808,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
@@ -3297,7 +3315,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 394672,
       "name": "Minotauro",
       "url": "https://open.spotify.com/track/2BWsqXBDOvEQSbyyE51u5f"
@@ -3333,7 +3351,7 @@
       ],
       "date_added": "2019-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 388477,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/79HMJ5AO1qCA4JLZAsrM5j"
@@ -3355,7 +3373,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
@@ -3373,7 +3391,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 400513,
       "name": "Monday Prayers",
       "url": "https://open.spotify.com/track/6G4JWB0ddvIa5NyXDS8EjU"
@@ -3395,7 +3413,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 453717,
       "name": "Monterrey Paris Texas",
       "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
@@ -3931,7 +3949,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
@@ -4255,7 +4273,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 374828,
       "name": "Rio Secreto",
       "url": "https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh"
@@ -4759,7 +4777,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
@@ -4817,7 +4835,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
@@ -5533,7 +5551,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
@@ -5649,7 +5667,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 347409,
       "name": "\u00c0nima",
       "url": "https://open.spotify.com/track/1FaxSOVfMZNsVRiJsfq9B0"

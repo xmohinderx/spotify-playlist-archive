@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2shzuwwKw0y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2shzuwwKw0y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2shzuwwKw0y)
 
-### Corridos Perrones
+### [Corridos Perrones](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Los Tucanes de Tijuana en portada.
 

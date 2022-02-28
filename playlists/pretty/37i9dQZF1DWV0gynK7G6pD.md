@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Dardust
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,793 likes - 69 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,949 likes - 69 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

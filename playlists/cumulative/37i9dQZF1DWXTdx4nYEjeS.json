@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/5VeTnCn59BLrrk95uNRiBL"
@@ -439,10 +439,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+    },
+    {
+      "album": {
+        "name": "Camina (Suave y Elegante)",
+        "url": "https://open.spotify.com/album/3io8feqVIqEiEXlvxXaGM6"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209614,
+      "name": "Camina (Suave y Elegante)",
+      "url": "https://open.spotify.com/track/1fi9cZSvHWP7z6N8HihILu"
     },
     {
       "album": {
@@ -533,7 +555,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 234306,
       "name": "Circunvalaci\u00f3n",
       "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
@@ -880,6 +902,28 @@
     },
     {
       "album": {
+        "name": "El Himno de Nosotros",
+        "url": "https://open.spotify.com/album/0Yg3S4PC0McwT8weJEhPtA"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        },
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187452,
+      "name": "El Himno de Nosotros",
+      "url": "https://open.spotify.com/track/0Ex5cmVTs8mBEDWtSfi8XM"
+    },
+    {
+      "album": {
         "name": "El Pr\u00f3ximo Viernes",
         "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
       },
@@ -1055,7 +1099,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 221985,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds"
@@ -1175,7 +1219,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
@@ -1255,7 +1299,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
@@ -1407,7 +1451,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
@@ -1429,7 +1473,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 194826,
       "name": "La Mirada",
       "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
@@ -1501,7 +1545,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 215760,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/3Jg5JiM9JHmePPTHdrcxgk"
@@ -1751,7 +1795,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 275508,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/1xiJPP4NLxuCr4ecoyq6jR"
@@ -1791,7 +1835,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 265080,
       "name": "M\u00edrenla (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6uVn5zh14u5G8UNIDFrfwr"
@@ -2019,7 +2063,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 222706,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
@@ -2451,7 +2495,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 234733,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd"
@@ -2491,7 +2535,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 210712,
       "name": "Quiero Regalarte Mi Amor (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/1HjqrGHsd6scxN1qmcJQnS"
@@ -2725,7 +2769,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 179904,
       "name": "Ser Guitarra",
       "url": "https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q"
@@ -3131,7 +3175,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 149880,
       "name": "Tu Locura",
       "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
@@ -3489,7 +3533,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 208764,
       "name": "Ya Lo Sab\u00e9s",
       "url": "https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg"

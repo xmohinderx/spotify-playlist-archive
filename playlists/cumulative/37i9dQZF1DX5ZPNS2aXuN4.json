@@ -1262,6 +1262,28 @@
     },
     {
       "album": {
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/7JgiTh5ClL0IWDvdeaIRi0"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433520,
+      "name": "Sonata for Solo Violin, Sz. 117, BB 124: III. Melodia: Adagio",
+      "url": "https://open.spotify.com/track/5zjRcZJ2ovQchCLfwELitx"
+    },
+    {
+      "album": {
         "name": "Bartok: Complete String Quartets",
         "url": "https://open.spotify.com/album/4BfClmPbz9bkaffnpuafzd"
       },
@@ -1575,28 +1597,6 @@
       "duration_ms": 278280,
       "name": "Violin Rhapsody No. 1, Sz. 86: I. Lass\u00fa. Moderato",
       "url": "https://open.spotify.com/track/5tjiFvlt9moF2YZhFE77xd"
-    },
-    {
-      "album": {
-        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
-        "url": "https://open.spotify.com/album/7JgiTh5ClL0IWDvdeaIRi0"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "James Ehnes",
-          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 433520,
-      "name": "Violin Sonata, Sz. 117: III. Melodia: Adagio",
-      "url": "https://open.spotify.com/track/5zjRcZJ2ovQchCLfwELitx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5ZPNS2aXuN4"

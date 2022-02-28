@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jokLVYoXC3.md) - [plain]
 
 > A selection of some of our favorite fiction – featuring short stories, novels, plays, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,932 likes - 94 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,936 likes - 94 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

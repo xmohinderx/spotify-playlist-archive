@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4geSlFB9288.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4geSlFB9288) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4geSlFB9288)
 
-### [indie gaming](https://open.spotify.com/playlist/71xyXlsmVYRC5l9ScrAZ7v)
+### [indie gaming](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
 
 > Indie music to keep your gaming session properly soundtracked.
 

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Trap Latino. Foto: Rauw Alejandro.",
-  "num_followers": 500916,
+  "num_followers": 501007,
   "original_name": "TRAPPERZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2ODgwMCwwMDAwMDE2YjAwMDAwMTdmMmY3NmY3OGQwMDAwMDE3ZjJmNzJhYzk3",
+  "snapshot_id": "MTY0NTk0MTc5MywwMDAwMDE2YzAwMDAwMTdmMzljNmEzMDQwMDAwMDE3ZjJmNzJhYzk3",
   "tracks": [
     {
       "added_at": "2022-02-25 06:00:00",
@@ -18,19 +18,11 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 279471,
-      "name": "FCK U X2",
-      "url": "https://open.spotify.com/track/7CLRoWBqSizI8Zpolsud5K"
+      "duration_ms": 206001,
+      "name": "GTR",
+      "url": "https://open.spotify.com/track/5Xn6OX5j9WLGN4r6Fznfjo"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -89,22 +81,6 @@
       "url": "https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l"
     },
     {
-      "added_at": "2022-02-25 06:00:00",
-      "album": {
-        "name": "TRAP CAKE VOL. 2",
-        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 206001,
-      "name": "GTR",
-      "url": "https://open.spotify.com/track/5Xn6OX5j9WLGN4r6Fznfjo"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "D\u00eda De Pago",
@@ -143,6 +119,30 @@
       "duration_ms": 184131,
       "name": "AYER",
       "url": "https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s"
+    },
+    {
+      "added_at": "2022-02-25 06:00:00",
+      "album": {
+        "name": "TRAP CAKE VOL. 2",
+        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 279471,
+      "name": "FCK U X2",
+      "url": "https://open.spotify.com/track/7CLRoWBqSizI8Zpolsud5K"
     },
     {
       "added_at": "2022-01-21 05:01:00",

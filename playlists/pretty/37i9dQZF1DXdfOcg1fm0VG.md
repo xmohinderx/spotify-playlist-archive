@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,070 likes - 95 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,289 likes - 95 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 14 | [Assassin's Creed IV Black Flag Main Theme](https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Assassin's Creed 4: Black Flag \(Original Game Soundtrack\)](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) | 2:13 |
 | 15 | [Have a Short Rest](https://open.spotify.com/track/6ebNn9bRWksrrrWotc6xcV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:11 |
 | 16 | [The Drop](https://open.spotify.com/track/6vIL1KWpWZOLhbpJ6xCjGU) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc) | [Death Stranding \(Original Score Volume 2\)](https://open.spotify.com/album/31IhCTqab094HwqAjqGENb) | 1:01 |
-| 17 | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\) \(feat\. Julie Elven\)](https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP) | [Joris de Man](https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\) \(feat\. Julie Elven\)](https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC) | 2:55 |
+| 17 | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\) \(feat\. Julie Elven\)](https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP) | [Joris de Man](https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\)](https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC) | 2:55 |
 | 18 | [Super Mario Bros: Theme](https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 4:12 |
 | 19 | [\(Theme From\) Red Dead Redemption](https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 5:38 |
 | 20 | [Arkham City Main Theme](https://open.spotify.com/track/1m73S45l5u5Al1jQCNBVsf) | [Nick Arundel](https://open.spotify.com/artist/28nfdxDKC9hymmAjsfrdIP) | [Batman: Arkham City \(Original Video Game Score\)](https://open.spotify.com/album/1TXy0eNffZssA66lDpoAPL) | 2:47 |

@@ -359,7 +359,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 210817,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 179156,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 201081,
       "name": "Don't Know What To Do",
       "url": "https://open.spotify.com/track/7ibZWzytUh41z5ycK2I5N8"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 205820,
       "name": "HANN (Alone)",
       "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 181263,
       "name": "How You Like That",
       "url": "https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3"
@@ -2177,7 +2177,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 179946,
       "name": "LALARY",
       "url": "https://open.spotify.com/track/7MAYPBHfAqUnwTr9QLKTbs"
@@ -2339,7 +2339,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 210960,
       "name": "LION",
       "url": "https://open.spotify.com/track/4TArUx34wOehwpnbXlKBQY"
@@ -3143,7 +3143,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 176153,
       "name": "Purple",
       "url": "https://open.spotify.com/track/1vTnqL5pQuOkT6smX8ntCP"
@@ -3835,7 +3835,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "Uh-Oh",
       "url": "https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL"
@@ -3979,7 +3979,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 189986,
       "name": "water color",
       "url": "https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w"
@@ -4269,6 +4269,24 @@
       "duration_ms": 232906,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "album": {
+        "name": "MAMA THE IDOL",
+        "url": "https://open.spotify.com/album/5vcF3WhSZFnDO6oL1A4VNR"
+      },
+      "artists": [
+        {
+          "name": "MAMADOL",
+          "url": "https://open.spotify.com/artist/4RYQvLQe6W9FuaLp3x8hob"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "WooAh HIP",
+      "url": "https://open.spotify.com/track/4DKDfm5OLW1dIOEAH76Zmg"
     },
     {
       "album": {
@@ -4569,7 +4587,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 199873,
       "name": "\ub2ec\ub77c\ub2ec\ub77c (DALLA DALLA)",
       "url": "https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 157358,
       "name": "1984",
       "url": "https://open.spotify.com/track/0BhUDBjyi50j1kDfJLsyys"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 120000,
       "name": "9 PM",
       "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Agoura Eyes",
       "url": "https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 168607,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/56AuxQI50J898m8QTtHxQR"
@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Are You",
+        "url": "https://open.spotify.com/album/0bxVHE0OnDNiTnw7O2VdKQ"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214419,
+      "name": "Are You",
+      "url": "https://open.spotify.com/track/5SfQmmOQp5Id17CnInfHp8"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 168521,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 152164,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 229830,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 276961,
       "name": "Don\u2019t Worry",
       "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 194181,
       "name": "Five Points",
       "url": "https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 437188,
       "name": "Forrest Glade",
       "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 170347,
       "name": "Healing",
       "url": "https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 200697,
       "name": "Lupino",
       "url": "https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0"
@@ -1358,6 +1376,28 @@
     },
     {
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220954,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf"
+    },
+    {
+      "album": {
         "name": "Moments of Clarity",
         "url": "https://open.spotify.com/album/0ZkvxP4rlPTtTEhmaFEiqs"
       },
@@ -1387,7 +1427,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 162597,
       "name": "Morning Workout",
       "url": "https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE"
@@ -1567,7 +1607,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 131320,
       "name": "Off Grid Lullaby",
       "url": "https://open.spotify.com/track/36Qu69Yh1qYjj03A1J6k2R"
@@ -1585,7 +1625,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Oh La La",
       "url": "https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9"
@@ -1661,7 +1701,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 217043,
       "name": "Palm Beach",
       "url": "https://open.spotify.com/track/6nR1DVH1bd69bmDlrjDNvf"
@@ -1697,7 +1737,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 335335,
       "name": "Push",
       "url": "https://open.spotify.com/track/1i5lXpzjo8qBAVRvEoBl7Z"
@@ -1733,7 +1773,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 171137,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
@@ -1935,7 +1975,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 193577,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws"
@@ -2043,7 +2083,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 144905,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW"
@@ -2061,7 +2101,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
@@ -2151,7 +2191,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 160166,
       "name": "Sunny Cruisin",
       "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
@@ -2360,6 +2400,42 @@
     },
     {
       "album": {
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z"
+    },
+    {
+      "album": {
+        "name": "Title Theme",
+        "url": "https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Title Theme",
+      "url": "https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7"
+    },
+    {
+      "album": {
         "name": "Under Water",
         "url": "https://open.spotify.com/album/2lNccIpLWGysgBFlZWNQdL"
       },
@@ -2479,7 +2555,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 144444,
       "name": "Wasted Heart",
       "url": "https://open.spotify.com/track/6id4Mr1gebIDtrRpGU3kMa"
@@ -2519,7 +2595,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"

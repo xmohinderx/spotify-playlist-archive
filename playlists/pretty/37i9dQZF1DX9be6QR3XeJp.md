@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: July 7
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,931 likes - 95 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,932 likes - 95 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

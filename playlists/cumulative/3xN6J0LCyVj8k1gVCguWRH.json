@@ -9046,6 +9046,24 @@
     },
     {
       "album": {
+        "name": "Head's In the Roses",
+        "url": "https://open.spotify.com/album/7sA606v1aM7SvInD8V1ZFe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Wilde",
+          "url": "https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "Head's In the Roses",
+      "url": "https://open.spotify.com/track/7cUd9jKNcrEzFc6XCdyWLW"
+    },
+    {
+      "album": {
         "name": "headlock",
         "url": "https://open.spotify.com/album/0A2M1sznVUU9UxKIEueFmH"
       },

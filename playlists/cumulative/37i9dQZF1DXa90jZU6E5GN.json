@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 194680,
       "name": "Better Dig Two",
       "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 188386,
       "name": "Blowin' Smoke",
       "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Good Ol' Girls",
+        "url": "https://open.spotify.com/album/1CInmFaqPNAz8Ei7bUtZ85"
+      },
+      "artists": [
+        {
+          "name": "Ashland Craft",
+          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209926,
+      "name": "Good Ol' Girls",
+      "url": "https://open.spotify.com/track/5X0Rmtx7bM9MIaPCpRwd40"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 204626,
       "name": "Independence Day",
       "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 200693,
       "name": "Little Good-Byes",
       "url": "https://open.spotify.com/track/5ZX3IrB9tPxOoBZdXILNpy"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 195026,
       "name": "Paris (Ooh La La)",
       "url": "https://open.spotify.com/track/34saS5yPSyoZ6QYwC7YGfe"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 187005,
       "name": "Rowdy",
       "url": "https://open.spotify.com/track/4a8k8x4bYFiUZLgs6DS0YR"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 204760,
       "name": "We R Who We R",
       "url": "https://open.spotify.com/track/6lCTs5NDYctSQutADkeEsA"
@@ -1497,6 +1515,24 @@
       "duration_ms": 238773,
       "name": "Whose Bed Have Your Boots Been Under?",
       "url": "https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy"
+    },
+    {
+      "album": {
+        "name": "Why Not Me",
+        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211266,
+      "name": "Why Not Me",
+      "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"
     },
     {
       "album": {

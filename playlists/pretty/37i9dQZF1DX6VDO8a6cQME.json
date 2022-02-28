@@ -1,12 +1,12 @@
 {
   "description": "The '90s had an amazing soundtrack. Let's reminisce with these R&B jams!",
-  "num_followers": 2809430,
+  "num_followers": 2810155,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTkyMzEyNSwwMDAwMDAwMGI4MTVlNmUwNTcxNzdiNTY5OTNlYzYwZWQxNTBmZDMz",
+  "snapshot_id": "MTY0NjAwOTQ2OCwwMDAwMDAwMDIwOWVkZWEyODcyZjZiYjE0NjljZmY5MWY0YjRkMDU2",
   "tracks": [
     {
       "added_at": "2021-08-20 04:02:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
-      },
-      "artists": [
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Keep the Faith",
         "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
@@ -107,26 +91,6 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq"
-      },
-      "artists": [
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Still Not a Player (feat. Joe)",
-      "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -147,18 +111,58 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
       },
       "artists": [
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
         }
       ],
-      "duration_ms": 269973,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
+      "duration_ms": 286400,
+      "name": "I Can Love You",
+      "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Still Not a Player (feat. Joe)",
+      "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -195,6 +199,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "Personal Conversation",
         "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
@@ -211,62 +231,6 @@
       "duration_ms": 229773,
       "name": "Faded Pictures",
       "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Blaque",
-        "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
-      },
-      "artists": [
-        {
-          "name": "Blaque",
-          "url": "https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ"
-        },
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Bring It All to Me (feat. *NSYNC)",
-      "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Bad Boy's 10th Anniversary- The Hits",
-        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 277320,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/1poK64Wt7p7VwrAbFgD5hS"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "I Can Love You",
-      "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -291,6 +255,74 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "R&B Hits",
+        "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Come and Talk to Me - Remix",
+      "url": "https://open.spotify.com/track/5xE7sFTlv2yrG9mmhDSpdq"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        },
+        {
+          "name": "Lisa \"Left Eye\" Lopes",
+          "url": "https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
+      "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Steelo",
+      "url": "https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
       },
@@ -303,6 +335,50 @@
       "duration_ms": 226800,
       "name": "Right Here - Human Nature Radio Mix",
       "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Only You (feat. The Notorious B.I.G.) - Radio Mix",
+      "url": "https://open.spotify.com/track/7jg3Irt0hqnss3HvaPP2D2"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Mob Wives The Female Hip Hop Compilation",
+        "url": "https://open.spotify.com/album/7dkY4ctXrVqWOQ1edo6NUQ"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 290906,
+      "name": "If Your Girl Only Knew (feat Timbaland and Missy Elliott)",
+      "url": "https://open.spotify.com/track/0tDeSKBOBsKHFurhXURSXp"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -339,66 +415,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        },
-        {
-          "name": "Lisa \"Left Eye\" Lopes",
-          "url": "https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
-      "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Mob Wives The Female Hip Hop Compilation",
-        "url": "https://open.spotify.com/album/7dkY4ctXrVqWOQ1edo6NUQ"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 290906,
-      "name": "If Your Girl Only Knew (feat Timbaland and Missy Elliott)",
-      "url": "https://open.spotify.com/track/0tDeSKBOBsKHFurhXURSXp"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/5X82VFLvjpeWQlTSShqqj0"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/1Owp8VOaFEk4r7zkvGOHmE"
       },
@@ -415,206 +431,54 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 277320,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/1poK64Wt7p7VwrAbFgD5hS"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Blaque",
+        "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
+      },
+      "artists": [
+        {
+          "name": "Blaque",
+          "url": "https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ"
         },
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 260426,
-      "name": "Only You (feat. The Notorious B.I.G.) - Radio Mix",
-      "url": "https://open.spotify.com/track/7jg3Irt0hqnss3HvaPP2D2"
+      "duration_ms": 218186,
+      "name": "Bring It All to Me (feat. *NSYNC)",
+      "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
     },
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "R&B Hits",
-        "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
       "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 295386,
-      "name": "Come and Talk to Me - Remix",
-      "url": "https://open.spotify.com/track/5xE7sFTlv2yrG9mmhDSpdq"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
-      },
-      "artists": [
-        {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Steelo",
-      "url": "https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Case",
-        "url": "https://open.spotify.com/album/26zgq8Yop0g9V9We6seQID"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        },
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Touch Me Tease Me",
-      "url": "https://open.spotify.com/track/4xrBjUq18fvXK68DJEi5XM"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "You Used to Love Me",
-      "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Candy Rain",
-        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
-      },
-      "artists": [
-        {
-          "name": "Soul For Real",
-          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Every Little Thing I Do",
-      "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Soul Sisters",
-        "url": "https://open.spotify.com/album/5VljSlqVFj6AlttWE82WC2"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "Hey Mr. DJ",
-      "url": "https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ"
+      "duration_ms": 349560,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/5X82VFLvjpeWQlTSShqqj0"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -643,70 +507,50 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
         }
       ],
-      "duration_ms": 265106,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/6fRUYwwUOmQbuwe9KujqQG"
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
       "artists": [
         {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
         }
       ],
-      "duration_ms": 261399,
-      "name": "Hit Me Off",
-      "url": "https://open.spotify.com/track/0yNCFwihschpOwSgK31f2O"
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 219120,
-      "name": "You Make Me Wanna...",
-      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "House Of Music",
-        "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        },
-        {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "Let's Get Down",
-      "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -731,6 +575,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "You Used to Love Me",
+      "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "Do You Wanna Ride?",
         "url": "https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk"
       },
@@ -747,18 +607,158 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Fever for da Flavor",
-        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
       "artists": [
         {
-          "name": "H-Town",
-          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 330945,
-      "name": "Knockin' da Boots",
-      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Kenny Lattimore",
+        "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "duration_ms": 331560,
+      "name": "Never Too Busy",
+      "url": "https://open.spotify.com/track/0TNAK7LNCi7AKDZAbhWQXr"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Candy Rain",
+        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
+      },
+      "artists": [
+        {
+          "name": "Soul For Real",
+          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Every Little Thing I Do",
+      "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Case",
+        "url": "https://open.spotify.com/album/26zgq8Yop0g9V9We6seQID"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        },
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Touch Me Tease Me",
+      "url": "https://open.spotify.com/track/4xrBjUq18fvXK68DJEi5XM"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "House Of Music",
+        "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "Let's Get Down",
+      "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "New Jack City (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Williams",
+          "url": "https://open.spotify.com/artist/27TmRLInIAVyWyU14KlALf"
+        }
+      ],
+      "duration_ms": 303706,
+      "name": "I'm Dreamin'",
+      "url": "https://open.spotify.com/track/04VArZKHm1xesMxqnsutDY"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/6fRUYwwUOmQbuwe9KujqQG"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 261399,
+      "name": "Hit Me Off",
+      "url": "https://open.spotify.com/track/0yNCFwihschpOwSgK31f2O"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Soul Sisters",
+        "url": "https://open.spotify.com/album/5VljSlqVFj6AlttWE82WC2"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "Hey Mr. DJ",
+      "url": "https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -779,34 +779,34 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
       },
       "artists": [
         {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Just Kickin' It",
-      "url": "https://open.spotify.com/track/51RvCRzeTqoQgdOBgcpHtT"
+      "duration_ms": 219120,
+      "name": "You Make Me Wanna...",
+      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
     },
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Mya",
-        "url": "https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e"
+        "name": "Diary Of A Mad Band",
+        "url": "https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj"
       },
       "artists": [
         {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 264933,
-      "name": "It's All About Me",
-      "url": "https://open.spotify.com/track/4Wtk0YYWUcx1JYicaq5Jd0"
+      "duration_ms": 300906,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/3RNvMhYFEwpCgPnDGKR5MB"
     }
   ],
   "unique_name": "I Love My '90s R&B",

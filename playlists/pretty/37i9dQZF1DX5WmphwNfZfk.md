@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,720 likes - 94 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,724 likes - 94 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 93 | [Testimony](https://open.spotify.com/track/7G1MizOFPJo9mzcfewUIc1) | [Gustavo Guaapo](https://open.spotify.com/artist/2S9z4eFhx79PnOTaHN2l5D) | [Testimony](https://open.spotify.com/album/2P6LJpjmKpQwOaTjvdnqKs) | 2:25 |
 | 94 | [Love Crimes](https://open.spotify.com/track/1mQnu0MBj6Fodl25LTPelF) | [Harman](https://open.spotify.com/artist/7E2SCkykx5uOljc7dpISHI) | [Love Crimes](https://open.spotify.com/album/6r2KPELb6CKYAd1wtjOWiX) | 2:56 |
 
-Snapshot ID: `MTY0NTkyMzA5NywwMDAwMDAwMDE0YWFiMjc5MjM2MjJhMTUwNGQxYzUzOTA1ZTZhNjU3`
+Snapshot ID: `MTY0NjAwOTQzOSwwMDAwMDAwMDE0YWFiMjc5MjM2MjJhMTUwNGQxYzUzOTA1ZTZhNjU3`

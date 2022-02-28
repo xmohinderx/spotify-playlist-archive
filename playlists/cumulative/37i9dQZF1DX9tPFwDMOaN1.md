@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9tPFwDMOaN1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9tPFwDMOaN1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tPFwDMOaN1)
 
-### [K\-Pop Daebak](https://open.spotify.com/playlist/2v0V5wSwctAjDvRV1p5KKj)
+### [K\-Pop Daebak](https://open.spotify.com/playlist/0DPECkGD3cQbH17pAKSjBj)
 
 > Bringing you the latest and greatest in the world of K\-Pop! \#KDaebak Cover: STAYC
 

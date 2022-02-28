@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 247136,
       "name": "11-11",
       "url": "https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 199906,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Envious",
       "url": "https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 273485,
       "name": "I Won't Forget",
       "url": "https://open.spotify.com/track/0GNDtlr5gUvO8SfjIkj3bP"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 265365,
       "name": "Lose My Mind (feat. Mr Gabriel) [Luttrell Remix]",
       "url": "https://open.spotify.com/track/6OUOx8rnWrmAfjbl9CSqB8"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/18XoiSzpBYBGBhDb52acQw"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 312069,
       "name": "Maia",
       "url": "https://open.spotify.com/track/2rcD1hgU1oAAunEPEb7l4D"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 230040,
       "name": "Numb",
       "url": "https://open.spotify.com/track/51NQg3QIzvSwxZrrT6kEDx"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 269036,
       "name": "Overtones",
       "url": "https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 202839,
       "name": "Pure",
       "url": "https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 212289,
       "name": "Say It With Your Eyes",
       "url": "https://open.spotify.com/track/2SlXYzSwnUR7GIovMvhwrZ"
@@ -1660,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "The Art Of Walking On Your Own / Never Felt This Way",
+        "url": "https://open.spotify.com/album/23MR6aPYuc4ingJXBjWE7Q"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279193,
+      "name": "The Art Of Walking On Your Own",
+      "url": "https://open.spotify.com/track/4voAJlFZfZVqLcOyVGcvBP"
+    },
+    {
+      "album": {
         "name": "The Beast",
         "url": "https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578"
       },
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 338181,
       "name": "The Daisy",
       "url": "https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 270002,
       "name": "The Sun Made For A Soft Landing",
       "url": "https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 240250,
       "name": "Untroubled",
       "url": "https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7"

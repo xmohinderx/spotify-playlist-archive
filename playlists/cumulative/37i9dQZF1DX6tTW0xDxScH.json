@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 239946,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/6PhqFutjkq3tzchjqS5nF7"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 245826,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 191670,
       "name": "If Not For You (Demo)",
       "url": "https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU"
@@ -857,6 +857,24 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM"
+    },
+    {
+      "album": {
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/1807UGT7j0EO6EhGXu9zrs"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173473,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/17BBfm9oQzNsX1PjnsOgRG"
     },
     {
       "album": {
@@ -1193,6 +1211,24 @@
       "duration_ms": 225680,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4YtJXdV21LXGwQbl5rl70W"
+    },
+    {
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "album": {
@@ -1619,7 +1655,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
@@ -1821,7 +1857,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 221877,
       "name": "Someone",
       "url": "https://open.spotify.com/track/3zBHER77TmCpe4IbjGH6Ty"
@@ -2355,7 +2391,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 194911,
       "name": "Years Ago",
       "url": "https://open.spotify.com/track/5UxUkbybJ8nroGVC9tIKat"

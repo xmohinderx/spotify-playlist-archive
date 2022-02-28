@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: \u5e73\u4e95 \u5927",
+  "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: Awich",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -45,6 +45,24 @@
       "duration_ms": 215404,
       "name": "ACTION (with ZAZEN BOYS)",
       "url": "https://open.spotify.com/track/7KRwCd1TCyUtrpGXZNDiwA"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186872,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV"
     },
     {
       "album": {
@@ -334,6 +352,24 @@
     },
     {
       "album": {
+        "name": "Dreaming of you",
+        "url": "https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153602,
+      "name": "Dreaming of you",
+      "url": "https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -381,7 +417,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 186623,
       "name": "Face To Face",
       "url": "https://open.spotify.com/track/6NOrFgIJyaZ50hN3FxrPLl"
@@ -537,7 +573,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 161423,
       "name": "GIOTF (feat. JP THE WAVY)",
       "url": "https://open.spotify.com/track/11HUvojdq0GOZAHyxKzfZ0"
@@ -790,6 +826,28 @@
     },
     {
       "album": {
+        "name": "REFLECTION (feat. \u4e2d\u6751\u4f73\u7a42)",
+        "url": "https://open.spotify.com/album/13jQMgxK2VECQAxVSz89Ja"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294786,
+      "name": "REFLECTION (feat. \u4e2d\u6751\u4f73\u7a42)",
+      "url": "https://open.spotify.com/track/0WDhwnZ325K5LUvx1FywgW"
+    },
+    {
+      "album": {
         "name": "Rock The World",
         "url": "https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw"
       },
@@ -911,6 +969,32 @@
       "duration_ms": 226779,
       "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
+    },
+    {
+      "album": {
+        "name": "We Comin' (f**k dat s**t)",
+        "url": "https://open.spotify.com/album/0Xj5HT1p3FjsoJdcXhQvGP"
+      },
+      "artists": [
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/4TNIbTL8IpTGjM86BDHHV7"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/6OpMRIjVFIAMC6T63wvFrP"
     },
     {
       "album": {
@@ -1059,7 +1143,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 212238,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/4jYD7ymSQNBO8ONy89rKuA"
@@ -1153,7 +1237,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 215664,
       "name": "\u3044\u3051\u306a\u3044baby",
       "url": "https://open.spotify.com/track/2YFkYS11X5biooHpEQtMc8"
@@ -1424,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30ec\u30f3\u30c0\u30fc",
         "url": "https://open.spotify.com/album/1T18qFuxU67pmxaZWQRY3f"
       },
@@ -1475,7 +1577,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 205066,
       "name": "\u30af\u30e9\u30d5\u30c8 feat. ZORN",
       "url": "https://open.spotify.com/track/3SK8OeL2MYLg77zEqbMyzh"
@@ -1739,6 +1841,24 @@
       "duration_ms": 263017,
       "name": "\u30d7\u30e9\u30c8\u30fc",
       "url": "https://open.spotify.com/track/5LPyVrjwXEvHE3mcjYrSoT"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30e9\u30cd\u30c6\u30b9",
+        "url": "https://open.spotify.com/album/5nPYtI4EAPBpu1JlHuYjfc"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280854,
+      "name": "\u30d7\u30e9\u30cd\u30c6\u30b9",
+      "url": "https://open.spotify.com/track/5ugDd8e8AlZMUYvHTCEyz1"
     },
     {
       "album": {
@@ -2045,7 +2165,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 240400,
       "name": "\u544a\u767d",
       "url": "https://open.spotify.com/track/1wSx4QJ82TQpT2WAjAa2fA"
@@ -2214,6 +2334,24 @@
     },
     {
       "album": {
+        "name": "\u62db\u304d\u732b / \u30a8\u30b8\u30bd\u30f3",
+        "url": "https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189135,
+      "name": "\u62db\u304d\u732b",
+      "url": "https://open.spotify.com/track/4v3xQkDOwrl015xvrISVsA"
+    },
+    {
+      "album": {
         "name": "\u6469\u5929\u697c",
         "url": "https://open.spotify.com/album/4MS2FUKzECOcgt69p1y97q"
       },
@@ -2283,6 +2421,24 @@
       "duration_ms": 294933,
       "name": "\u671d\u304c\u6765\u308b",
       "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
+    },
+    {
+      "album": {
+        "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
     },
     {
       "album": {
@@ -2441,7 +2597,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 230109,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V"
@@ -2459,7 +2615,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-28",
       "duration_ms": 307666,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
