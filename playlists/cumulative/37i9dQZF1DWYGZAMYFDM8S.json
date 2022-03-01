@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "Alps",
       "url": "https://open.spotify.com/track/5eG8QuQKOBvDeCyoOeMkhT"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 190229,
       "name": "Answers (Acoustic)",
       "url": "https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 265280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6jBGH36Ue2beiIFrjakDkX"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 208500,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5PlgebgDZ7vyCOqGxMhElC"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/52duG8ozTHVfGR87UGuqUt"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 251184,
       "name": "Fever to the Form",
       "url": "https://open.spotify.com/track/6OTthGcvrclj6XUs1JRN2J"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Fresh Water in an Empty Vase",
       "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
@@ -1389,6 +1389,24 @@
       "duration_ms": 263133,
       "name": "Hold Me - Alternate Version",
       "url": "https://open.spotify.com/track/3JiqfgX20NPxT070KqaQV7"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6U7sAGTr4LjZ4mZ2VL5SWn"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199953,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3lgbXYU6IdTpqyWI2a4lGo"
     },
     {
       "album": {
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 266340,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 157174,
       "name": "I'll Keep You",
       "url": "https://open.spotify.com/track/753h0atsE418iQyz7Jbtci"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 185746,
       "name": "Love Brought Weight",
       "url": "https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM"
@@ -1939,7 +1957,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 191435,
       "name": "Moontalk",
       "url": "https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
@@ -3251,7 +3269,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 235030,
       "name": "Us - Acoustic",
       "url": "https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6"
@@ -3305,7 +3323,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 214513,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/3ikdwkWiegWXB08gyAr3mt"
@@ -3399,7 +3417,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 158386,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/0qFFiR3SiXqgnQvX6Q1WOO"
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 234382,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6lRFrEmU09wbl8rMKpgZB6"
@@ -3583,7 +3601,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 259798,
       "name": "You\u2019re Free Now (feat. Sarah Jarosz)",
       "url": "https://open.spotify.com/track/0n5BiC98D3E0EZimzsboGW"

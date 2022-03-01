@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
-> hyperpop is a community\. Cover: midwxst
+> hyperpop is a community\. Cover: gabby start
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

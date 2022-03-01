@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Raw and unfiltered. Cover: Fontaines D.C.",
+  "description": "Raw and unfiltered. Cover: SASAMI",
   "name": "pulp",
   "published_playlist_ids": [
     "6icr08W6LxkqPUtZpmcgvv"
@@ -41,6 +41,24 @@
       "duration_ms": 193117,
       "name": "17",
       "url": "https://open.spotify.com/track/6M6B25BFwE2h7W5izrDYmD"
+    },
+    {
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152462,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
     },
     {
       "album": {
@@ -1542,6 +1560,24 @@
     },
     {
       "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153357,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3bGQc58jpE4J9xlqavrTPb"
+    },
+    {
+      "album": {
         "name": "Havasu",
         "url": "https://open.spotify.com/album/6Uxjn5Rskks7mUFhWp7UPV"
       },
@@ -1915,6 +1951,24 @@
       "duration_ms": 205934,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/5o0KFn33JBbKfoVXUkD1sd"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7A1taOMSajIBn3qCW0OYBg"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/0MfFiBddXSbI73TLpjjMV3"
     },
     {
       "album": {

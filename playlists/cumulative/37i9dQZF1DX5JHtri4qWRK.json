@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 301560,
       "name": "Another Sad Love Song",
       "url": "https://open.spotify.com/track/70iDnqYvxCPl3mPd3ddxgD"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 262693,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 231933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 266306,
       "name": "Bust Your Windows",
       "url": "https://open.spotify.com/track/0rE8OLQpoOFe2xa35twgve"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 206413,
       "name": "Can't Help but Wait",
       "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 208040,
       "name": "Can't Raise a Man",
       "url": "https://open.spotify.com/track/6M6VhzTJLT9loondGYVzR0"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 192546,
       "name": "Change (with Kehlani)",
       "url": "https://open.spotify.com/track/2qhId6ko1ug9A0mw8BQJs8"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 246773,
       "name": "Charlene",
       "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Don't Hurt Yourself (feat. Jack White)",
       "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 310466,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj"
@@ -496,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/0v1FiNbsrogBpgITmV9qTG"
+    },
+    {
+      "album": {
         "name": "Cooleyhighharmony (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
@@ -507,7 +525,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 351466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 206160,
       "name": "Fool to Love",
       "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 377506,
       "name": "Friend Of Mine - Remix",
       "url": "https://open.spotify.com/track/35irxCsC8QXJ1IN0eioD3H"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 222091,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 295826,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 286333,
       "name": "Heartbreaker - Album Version (Featuring Jay-Z)",
       "url": "https://open.spotify.com/track/04dsp6nEtP0mZLSwd9ivlA"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 216960,
       "name": "Holding You Down (Goin' in Circles)",
       "url": "https://open.spotify.com/track/5UdicZrmNt418AmwNixCJP"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 236120,
       "name": "How Could You",
       "url": "https://open.spotify.com/track/64yUcdHn7XLVJxFubjVwOr"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 216893,
       "name": "How Do I Breathe",
       "url": "https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 317560,
       "name": "I Get Lonely",
       "url": "https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 274226,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
@@ -1239,6 +1257,24 @@
       "duration_ms": 218072,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
+    },
+    {
+      "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227853,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
     },
     {
       "album": {
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 193006,
       "name": "Lose My Love",
       "url": "https://open.spotify.com/track/5ZbtYedjpo7Sw2mqjNCUdx"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 260399,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9"
@@ -1513,7 +1549,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 301173,
       "name": "Me, Myself and I",
       "url": "https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF"
@@ -1531,7 +1567,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 281000,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4bqKvbtxRkV7G1u1bphkzi"
@@ -1567,7 +1603,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 284666,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
@@ -1665,7 +1701,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
@@ -1705,7 +1741,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 263440,
       "name": "No More (Baby I'ma Do Right)",
       "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
@@ -1763,7 +1799,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 242466,
       "name": "Officially Missing You",
       "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
@@ -1799,7 +1835,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 337640,
       "name": "One Wish",
       "url": "https://open.spotify.com/track/6QON2WlAI1QayzhgebwvWd"
@@ -1915,7 +1951,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 234133,
       "name": "Pullin' Me Back",
       "url": "https://open.spotify.com/track/5hF2LnbkpnXCkksMSeWcxZ"
@@ -1951,10 +1987,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 294720,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT"
+    },
+    {
+      "album": {
+        "name": "Last Train Home",
+        "url": "https://open.spotify.com/album/5ATm7ZqY52PBYM1rMZanwT"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Return Policy",
+      "url": "https://open.spotify.com/track/4UNflUqlXxtr8M1fC7iEQK"
     },
     {
       "album": {
@@ -2099,7 +2153,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 250880,
       "name": "Since You've Been Gone",
       "url": "https://open.spotify.com/track/6gA3b0M69d0SzuZqWtZXWD"
@@ -2135,10 +2189,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 207186,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/5203pcq3cNteJuOVhIEnt6"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266287,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma"
     },
     {
       "album": {
@@ -2175,7 +2247,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 324280,
       "name": "Soon as I Get Home",
       "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
@@ -2265,7 +2337,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 240857,
       "name": "Tell Me The Truth",
       "url": "https://open.spotify.com/track/0FR5NHM3nofBz36olnYKNo"
@@ -2283,7 +2355,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 267680,
       "name": "The Way That I Love You",
       "url": "https://open.spotify.com/track/7Cnw8C3WEhL5OxvTbRtIIp"
@@ -2373,7 +2445,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 221720,
       "name": "Too Little Too Late",
       "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
@@ -2445,7 +2517,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 247840,
       "name": "U Got It Bad",
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
@@ -2463,7 +2535,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 235333,
       "name": "Unappreciated",
       "url": "https://open.spotify.com/track/5ZelMPn7vupvsTToUTvcbF"
@@ -2525,7 +2597,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 242826,
       "name": "We Need A Resolution (feat. Timbaland)",
       "url": "https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j"

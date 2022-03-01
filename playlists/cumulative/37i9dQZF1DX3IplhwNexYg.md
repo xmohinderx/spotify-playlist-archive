@@ -2,12 +2,13 @@
 
 ### [pulp](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
-> Raw and unfiltered\. Cover: Fontaines D.C.
+> Raw and unfiltered\. Cover: SASAMI
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(You're Better\) Than Ever](https://open.spotify.com/track/4oZbuLXzaXBHKLrMJQq3Ie) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Kiss Yr Frenemies](https://open.spotify.com/album/7MBEDhV5OFYhCq6fkmQNUT) | 2:21 | 2021-03-09 | 2022-01-17 |
 | [17](https://open.spotify.com/track/6M6B25BFwE2h7W5izrDYmD) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [17](https://open.spotify.com/album/2R7HViCC1W5fNTEVYbWVog) | 3:13 | 2022-02-04 |  |
+| [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-28 |  |
 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 | 2021-03-09 | 2022-01-17 |
 | [3](https://open.spotify.com/track/2JNx996AAVsi1OLdxSP6xf) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [3](https://open.spotify.com/album/4SWFRq8izGzkqSb2BG2BaY) | 3:01 | 2022-01-17 |  |
 | [Advice](https://open.spotify.com/track/6sGKhzoyBaXJUmjd8z3NuY) | [Gabrielle Graves](https://open.spotify.com/artist/57kmu1y4MHclkEskT1iB2j) | [Advice](https://open.spotify.com/album/1aevEls5wxPs6XvvvJQ7Hg) | 4:18 | 2021-03-09 | 2022-01-17 |
@@ -91,6 +92,7 @@
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-03-09 | 2022-01-22 |
 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 | 2022-01-17 |  |
 | [Lux](https://open.spotify.com/track/3OBlUMdio4gMywyU63AhT9) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Lux](https://open.spotify.com/album/1VCH62Yg84u6WevIg7oEiK) | 1:39 | 2021-03-09 | 2022-02-04 |
+| [Make It Right](https://open.spotify.com/track/3bGQc58jpE4J9xlqavrTPb) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 2:33 | 2022-02-28 |  |
 | [Making the Most of It](https://open.spotify.com/track/728EWD7qN8QAwkG17bHkjW) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Havasu](https://open.spotify.com/album/6Uxjn5Rskks7mUFhWp7UPV) | 3:57 | 2022-01-24 |  |
 | [Marbles](https://open.spotify.com/track/5ojNSrZr722qBzhBNUfIRT) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Marbles / Walk in the Woods](https://open.spotify.com/album/6If9NdOnS1vFsRyqX5SH8a) | 2:29 | 2021-03-09 | 2022-01-17 |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-01-21 |  |
@@ -111,6 +113,7 @@
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2022-01-17 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 | 2022-01-24 |  |
 | [Roadkill](https://open.spotify.com/track/5o0KFn33JBbKfoVXUkD1sd) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63) | 3:25 | 2021-06-25 |  |
+| [Rockstar](https://open.spotify.com/track/0MfFiBddXSbI73TLpjjMV3) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/7A1taOMSajIBn3qCW0OYBg) | 3:09 | 2022-02-28 |  |
 | [Salt](https://open.spotify.com/track/0KbMVWAxdxV1KYWqjGd0ey) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Salt](https://open.spotify.com/album/2XzP8cHUnafrR7zgBdbn3t) | 3:24 | 2022-01-17 |  |
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Security](https://open.spotify.com/track/1IyNQIczrOabSeU3HEJNwT) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/7BbLKYoBNvPRnHnFQq1Fkt) | 3:47 | 2021-07-30 |  |

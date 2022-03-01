@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,331 likes - 88 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,661 likes - 88 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

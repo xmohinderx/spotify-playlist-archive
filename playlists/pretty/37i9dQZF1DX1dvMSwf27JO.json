@@ -1,12 +1,12 @@
 {
   "description": "and why aren't you in uniform?",
-  "num_followers": 398921,
+  "num_followers": 399201,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIyMjU5OCwwMDAwMDA3YTAwMDAwMTdmMGVlODk2YWEwMDAwMDE3YjE3N2MzMWU3",
+  "snapshot_id": "MTY0NjA1OTkxMywwMDAwMDA3YjAwMDAwMTdmNDBkMGZmY2MwMDAwMDE3YjE3N2MzMWU3",
   "tracks": [
     {
       "added_at": "2021-08-05 18:08:26",
@@ -137,6 +137,46 @@
       "url": "https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz"
     },
     {
+      "added_at": "2022-01-14 18:14:36",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Hypnotize - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+    },
+    {
+      "added_at": "2022-02-28 14:51:53",
+      "album": {
+        "name": "NO ONE EVER REALLY DIES",
+        "url": "https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/4PpuH4mxL0rD35mOWaLoKS"
+    },
+    {
       "added_at": "2022-02-16 19:19:33",
       "album": {
         "name": "For My Own Sake",
@@ -167,22 +207,6 @@
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK"
-    },
-    {
-      "added_at": "2022-01-14 18:14:36",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Hypnotize - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
     },
     {
       "added_at": "2022-02-11 16:44:05",

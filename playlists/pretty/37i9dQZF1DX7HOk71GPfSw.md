@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> hyperpop is a community\. Cover: midwxst
+> hyperpop is a community\. Cover: gabby start
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,517 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,770 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [You Make It Look so Easy \- Lucky](https://open.spotify.com/track/2lstVoHls0zu9Lm2avJwsU) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [You Make It Look So Easy \(Playtime\)](https://open.spotify.com/album/3K4fsmRZS9ubnsgfWRQmTe) | 3:52 |
 | 100 | [sick](https://open.spotify.com/track/4c9sDWdPn61U5gkwlu8zke) | [bleach](https://open.spotify.com/artist/3lQ7lf6EHZzz2EhFBhVdtp) | [sick](https://open.spotify.com/album/5hLP6G8OzuxMDUjMjn7McU) | 2:46 |
 
-Snapshot ID: `MTY0NTgyNDAxNiwwMDAwMDEzMzAwMDAwMTdmMzJjMTdlZTQwMDAwMDE3ZjMyOTM2NWU3`
+Snapshot ID: `MTY0NjA3OTU3NCwwMDAwMDEzNDAwMDAwMTdmNDFmZDAwY2YwMDAwMDE3ZjQxZmM5YjZm`

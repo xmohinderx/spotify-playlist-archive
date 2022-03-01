@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 217494,
       "name": "Amor de Verdad",
       "url": "https://open.spotify.com/track/4nJ3IvzpHPCUPzQ0oUf2L2"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 181542,
       "name": "B\u00fascate Un Hombre Que Te Quiera",
       "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 145516,
       "name": "Chau",
       "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 191177,
       "name": "El Trato",
       "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 228401,
       "name": "Esperandote",
       "url": "https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 241705,
       "name": "Esta Noche Quiero Brandy",
       "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 236801,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4"
@@ -1765,7 +1765,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 190266,
       "name": "No Es Mi Despedida",
       "url": "https://open.spotify.com/track/4Eyw6tmKn3JHAlOBo60iQU"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 230960,
       "name": "Nunca volveras",
       "url": "https://open.spotify.com/track/1OIWkgEPj4QiZykulYMSYD"
@@ -2095,6 +2095,24 @@
       "duration_ms": 251000,
       "name": "Que Bello",
       "url": "https://open.spotify.com/track/7cSaRsCIekpL1auJQU4V4T"
+    },
+    {
+      "album": {
+        "name": "Que Ironia",
+        "url": "https://open.spotify.com/album/4U1fGuwPIF0jeebgA0I0Tq"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154883,
+      "name": "Que Ironia",
+      "url": "https://open.spotify.com/track/1nxIcj8r0wjMUJ5uQAWENm"
     },
     {
       "album": {
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 205043,
       "name": "Un So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/50pB6rEpZ1aDV2clo97wvf"
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 252495,
       "name": "Ya No Caigo M\u00e1s",
       "url": "https://open.spotify.com/track/7dTz3Y350lyH2LT20MxrkV"

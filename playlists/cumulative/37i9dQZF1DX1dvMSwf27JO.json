@@ -1054,6 +1054,32 @@
     },
     {
       "album": {
+        "name": "NO ONE EVER REALLY DIES",
+        "url": "https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/4PpuH4mxL0rD35mOWaLoKS"
+    },
+    {
+      "album": {
         "name": "Lose My Cool",
         "url": "https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB"
       },

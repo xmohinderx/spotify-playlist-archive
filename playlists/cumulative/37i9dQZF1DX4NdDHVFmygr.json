@@ -644,6 +644,24 @@
     },
     {
       "album": {
+        "name": "La vie",
+        "url": "https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE"
+      },
+      "artists": [
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198635,
+      "name": "La vie",
+      "url": "https://open.spotify.com/track/6aI2dHYNpvnm4sNfVs4Bum"
+    },
+    {
+      "album": {
         "name": "La Vie",
         "url": "https://open.spotify.com/album/4eDWdMdsRcu0p0L5wE8fld"
       },

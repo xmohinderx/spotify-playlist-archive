@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 226960,
       "name": "Alone",
       "url": "https://open.spotify.com/track/133kp8Z4SADHKea8OYyzgt"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 238066,
       "name": "Autumn Memories (with Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 230969,
       "name": "Beautiful My Love",
       "url": "https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 249640,
       "name": "But I'll Miss You",
       "url": "https://open.spotify.com/track/7AyxUdou9NrGU64bTc9dsT"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 213000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/0oGKpQHFFae8WWCXQtfliO"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 239122,
       "name": "Flower Way",
       "url": "https://open.spotify.com/track/6Jstg15yIAoAP7rAgFrYYH"
@@ -1308,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Red Moon: Full Bloom",
+        "url": "https://open.spotify.com/album/14e8BacNESwLG1UVELyG8r"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/6rX4ZMxZC6spPAIsr0i7j2"
+    },
+    {
+      "album": {
         "name": "Crash Landing on You OST Part 11",
         "url": "https://open.spotify.com/album/29KU88wZtAigritdYGvgPk"
       },
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 280360,
       "name": "Give You My Heart",
       "url": "https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 210240,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 227866,
       "name": "I still love you a lot",
       "url": "https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 219146,
       "name": "I will",
       "url": "https://open.spotify.com/track/1cwCsOMKxYrVmvTFT4Q7mY"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 229867,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/6foDgrZtjOAJektiejSJI3"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 227000,
       "name": "My Love (Duet Ver.)",
       "url": "https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 225893,
       "name": "Nobody else",
       "url": "https://open.spotify.com/track/5nq9Sj7bH80RAARWo08jIT"
@@ -2621,7 +2639,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 244493,
       "name": "Not Fine",
       "url": "https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi"
@@ -2924,6 +2942,24 @@
     },
     {
       "album": {
+        "name": "Ghost Doctor, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4toPwTrNu6DrRmXestTGzS"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246999,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/5NBfTcPP4lziv3z36P2OPI"
+    },
+    {
+      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -2957,7 +2993,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 204356,
       "name": "Say Yes (Feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA"
@@ -3015,7 +3051,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 221946,
       "name": "Should\u2032ve known",
       "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
@@ -3221,7 +3257,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -3463,7 +3499,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 242292,
       "name": "The Truth Untold",
       "url": "https://open.spotify.com/track/48XfojJC87VKLlUotYV0Gm"
@@ -3665,7 +3701,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 200720,
       "name": "U Hoo Hoo",
       "url": "https://open.spotify.com/track/3fRKoqpAB9jOAMDQXg2fwa"

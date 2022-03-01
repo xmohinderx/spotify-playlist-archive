@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 250338,
       "name": "Before I Move Off",
       "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 423933,
       "name": "Everything You Do Is A Balloon",
       "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/1cz0kAvZ6lKUQHpzbcI8wF"
@@ -1266,6 +1266,24 @@
     },
     {
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
+      },
+      "artists": [
+        {
+          "name": "Shlohmo",
+          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302210,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
+    },
+    {
+      "album": {
         "name": "Play The Ghost",
         "url": "https://open.spotify.com/album/5k7zYeNXukePTst4h0shET"
       },
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 266640,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 256133,
       "name": "Smokebelch II (Beatless Mix)",
       "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 170186,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 299448,
       "name": "Way Ur Touchin Me",
       "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 197407,
       "name": "\u2665",
       "url": "https://open.spotify.com/track/3PMyRSdnhCmXeP93bF89XG"

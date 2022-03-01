@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 246923,
       "name": "5 Years",
       "url": "https://open.spotify.com/track/1OcNbaIFy9eavtVLRaD6c2"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 207986,
       "name": "A Second To Midnight",
       "url": "https://open.spotify.com/track/3lwKYKDxE2tNDDC24WAYRT"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 203425,
       "name": "All Along",
       "url": "https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 220645,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/7HtFDgrDfV9R8wlBaCLuXk"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 330579,
       "name": "All Love",
       "url": "https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 340000,
       "name": "As The Night Moves In",
       "url": "https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 318900,
       "name": "Back 2 Love (feat. Desmond 'DSP' Powell)",
       "url": "https://open.spotify.com/track/6fjsLcQMJ0OfTMfy3wEYAs"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 163308,
       "name": "Body",
       "url": "https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 392812,
       "name": "Bourgie Bourgie",
       "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 267187,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 409387,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/0aITsSU1pXt3Tt3noutwzM"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 181533,
       "name": "Forever Man (How Many Times) - Earth n Days Remix",
       "url": "https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 445128,
       "name": "Gimmie Love - Norenoise Remix",
       "url": "https://open.spotify.com/track/4rOhAvDFLksOVSclsjWpfg"
@@ -937,6 +937,32 @@
       "duration_ms": 230426,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/19yoeoiZxhtfgNNhMDDh5i"
+    },
+    {
+      "album": {
+        "name": "God Made Me Funky (David Morales Kings of House NYC Radio Edit)",
+        "url": "https://open.spotify.com/album/2m6a9SR7ikwwOGFgFNNyKT"
+      },
+      "artists": [
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        },
+        {
+          "name": "DJ Gomi",
+          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
+        },
+        {
+          "name": "Aaron K. Gray",
+          "url": "https://open.spotify.com/artist/6TgzrtBwlDUTEcYLF8corT"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176017,
+      "name": "God Made Me Funky - David Morales Kings of House NYC Radio Edit",
+      "url": "https://open.spotify.com/track/4Cxcyy2Ji7XNvbqnJNKhLZ"
     },
     {
       "album": {
@@ -973,7 +999,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 313283,
       "name": "Grand Hi",
       "url": "https://open.spotify.com/track/5oMYXuBnP7sPVZ0aRtCMn0"
@@ -995,7 +1021,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 228150,
       "name": "Gravitate - Edit",
       "url": "https://open.spotify.com/track/12pkjwuAMbcYNPAXgF8Jsl"
@@ -1013,7 +1039,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 192581,
       "name": "Gullible",
       "url": "https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7"
@@ -1075,7 +1101,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -1177,7 +1203,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 231428,
       "name": "In Her Eyes - Korn\u00e9l Kovacs Remix",
       "url": "https://open.spotify.com/track/0ZO43yG1f0yKh2raZ3uEaO"
@@ -1279,7 +1305,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
@@ -1663,7 +1689,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 407688,
       "name": "Money",
       "url": "https://open.spotify.com/track/2owh0G4llO1sz8NsrUT4Nn"
@@ -1831,7 +1857,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 206447,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS"
@@ -1979,7 +2005,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 262893,
       "name": "Real Groove - Studio 2054 Remix",
       "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
@@ -2037,7 +2063,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 177971,
       "name": "Reason",
       "url": "https://open.spotify.com/track/37EKnLlRqJcb8XMgYaAbCL"
@@ -2091,7 +2117,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 212313,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
@@ -2113,7 +2139,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 463448,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/6xTcH212eGgLNSZVrevp0u"
@@ -2175,7 +2201,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 204132,
       "name": "Second Chance (feat. Kimberly Davis)",
       "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
@@ -2355,7 +2381,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
@@ -2373,7 +2399,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 487619,
       "name": "The Best Rapper Alive",
       "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
@@ -2391,7 +2417,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 261543,
       "name": "The Fixer",
       "url": "https://open.spotify.com/track/5Q3ez9AGCQZ99sZgoepUDB"
@@ -2493,7 +2519,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 268474,
       "name": "To the City",
       "url": "https://open.spotify.com/track/1m9fKwozHvJCLIr2tuVSTG"
@@ -2595,7 +2621,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 412537,
       "name": "V\u00edrus Do Amor - Krystal Klear Remix",
       "url": "https://open.spotify.com/track/3vLri456XBZfba2mTxATe3"
@@ -2631,7 +2657,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 217379,
       "name": "We Want Our Clubs Back",
       "url": "https://open.spotify.com/track/3uTQEBLSKHtAcDcp6fTwfh"

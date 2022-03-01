@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Tiana Major9
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,696 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,797 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 100 | [Push It \(feat\. Young Thug\)](https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:30 |
 | 101 | [Survivor's Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/1ZTOr7I40ziaQb1vvCM3Ar) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/5YOSBQ1qVEKRJo5YGBiE7p) | 3:42 |
 
-Snapshot ID: `MTY0NjAwOTEzNSwwMDAwMDAwMGFlYTBiZjRiOTJkOGNhYjMwMjI1OTczNGZjZWIxNTM3`
+Snapshot ID: `MTY0NjA5NjAwNCwwMDAwMDAwMGFlYTBiZjRiOTJkOGNhYjMwMjI1OTczNGZjZWIxNTM3`

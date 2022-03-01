@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Featuring the 'Noteable' songwriters who create your favorite songs.  Cover: Nicolle Galyon",
+  "description": "Featuring the 'Noteable' songwriters who create your favorite songs.  Cover: Tom Douglas",
   "name": "Country Songwriters",
   "published_playlist_ids": [
     "6gIQ4ulEp086lqaMqKxqFK"
@@ -95,6 +95,24 @@
       "duration_ms": 197359,
       "name": "Almost All Good",
       "url": "https://open.spotify.com/track/0veEfwoK2YndOqJ0jIeLww"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0bsmuUBwDdNAPCcuV05gLF"
     },
     {
       "album": {
@@ -322,6 +340,60 @@
     },
     {
       "album": {
+        "name": "Between The Pines (Acoustic Mixtape)",
+        "url": "https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241866,
+      "name": "Come Over - Acoustic Mixtape",
+      "url": "https://open.spotify.com/track/5ZuDo4T5NU7jg5y0yV2Otk"
+    },
+    {
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253880,
+      "name": "Cop Car",
+      "url": "https://open.spotify.com/track/7LJOfS8evyKfP8Fl5rdZXw"
+    },
+    {
+      "album": {
+        "name": "boom.",
+        "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Craig",
+      "url": "https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r"
+    },
+    {
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -353,6 +425,24 @@
       "duration_ms": 209906,
       "name": "Crowded Table",
       "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
+    },
+    {
+      "album": {
+        "name": "Deciding Who to Be",
+        "url": "https://open.spotify.com/album/3W73Hea7h4JxaM39Y9gJfe"
+      },
+      "artists": [
+        {
+          "name": "Brinley Addington",
+          "url": "https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196521,
+      "name": "Deciding Who to Be",
+      "url": "https://open.spotify.com/track/4RLc5qTQTrraUBOUGYRqfx"
     },
     {
       "album": {
@@ -389,10 +479,36 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 161000,
       "name": "Dirt on My Boots",
       "url": "https://open.spotify.com/track/29HapPRVNbjLxkMp92m5rk"
+    },
+    {
+      "album": {
+        "name": "Dirt on My Boots",
+        "url": "https://open.spotify.com/album/6rpSPKwoAfkLk1mNxVvQyc"
+      },
+      "artists": [
+        {
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+        },
+        {
+          "name": "Jesse Frasure",
+          "url": "https://open.spotify.com/artist/7oLBWgHxUovQlxZG2D6bNy"
+        },
+        {
+          "name": "Ashley Gorley",
+          "url": "https://open.spotify.com/artist/0kTOf32ibrDhDYZCjbZ64T"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Dirt on My Boots",
+      "url": "https://open.spotify.com/track/6GU9iBzArpImM40kV9jUpe"
     },
     {
       "album": {
@@ -632,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "Fire Away",
+      "url": "https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT"
+    },
+    {
+      "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
@@ -838,6 +972,28 @@
     },
     {
       "album": {
+        "name": "boom.",
+        "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "Halloween (feat. Nicolle Galyon)",
+      "url": "https://open.spotify.com/track/0dKwVCi0hOtIX3dCIMrHuU"
+    },
+    {
+      "album": {
         "name": "Hard Things",
         "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
       },
@@ -973,6 +1129,24 @@
       "duration_ms": 178492,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3vrbDNAVcVKOW2tukIpjho"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230775,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
     },
     {
       "album": {
@@ -1214,6 +1388,24 @@
     },
     {
       "album": {
+        "name": "Between The Pines (Acoustic Mixtape)",
+        "url": "https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "I Met A Girl - Acoustic Mixtape",
+      "url": "https://open.spotify.com/track/3oBxf3KvflYpaFSR4S3wKv"
+    },
+    {
+      "album": {
         "name": "Love, Tom (Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK"
       },
@@ -1299,6 +1491,32 @@
       "duration_ms": 162000,
       "name": "If the Boot Fits",
       "url": "https://open.spotify.com/track/39XSf0AnSQYbTrfC9G2cZo"
+    },
+    {
+      "album": {
+        "name": "The Marfa Tapes",
+        "url": "https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p"
+      },
+      "artists": [
+        {
+          "name": "Jack Ingram",
+          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150186,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ"
     },
     {
       "album": {
@@ -1512,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/6juq8VGe9hkJQdIanJm1rm"
+      },
+      "artists": [
+        {
+          "name": "Joey Hyde",
+          "url": "https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196911,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/5CcIVjWnXxXJqGLnBVtgLP"
+    },
+    {
+      "album": {
         "name": "2016 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb"
       },
@@ -1642,6 +1878,32 @@
     },
     {
       "album": {
+        "name": "HIXTAPE: Vol. 1",
+        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Hunter Phelps",
+          "url": "https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq"
+        },
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "My Kinda Livin\u2019 (HARDY feat. Hunter Phelps, Jameson Rodgers)",
+      "url": "https://open.spotify.com/track/17E5XweAlvnU7pkghMgvMs"
+    },
+    {
+      "album": {
         "name": "Love, Tom (Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK"
       },
@@ -1718,6 +1980,42 @@
     },
     {
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215933,
+      "name": "Nashville, TN",
+      "url": "https://open.spotify.com/track/0fLeL6TVmrMgDMW1iC1puo"
+    },
+    {
+      "album": {
+        "name": "Original Songwriter Demos",
+        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
+      },
+      "artists": [
+        {
+          "name": "Shane McAnally",
+          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/51oFJ8Q2KufbTRnBSfsDjX"
+    },
+    {
+      "album": {
         "name": "New Wings",
         "url": "https://open.spotify.com/album/2KejjW4UZgG4LejGToYi9S"
       },
@@ -1751,6 +2049,28 @@
       "duration_ms": 179541,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/3ZjdOqo5c1PJNxDyKSv9Rf"
+    },
+    {
+      "album": {
+        "name": "No More of 'Em",
+        "url": "https://open.spotify.com/album/7tHHcmBNOH2LD0oNNYKAux"
+      },
+      "artists": [
+        {
+          "name": "Noah Hicks",
+          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+        },
+        {
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "No More of 'Em",
+      "url": "https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe"
     },
     {
       "album": {
@@ -2324,6 +2644,24 @@
     },
     {
       "album": {
+        "name": "Still Not over You",
+        "url": "https://open.spotify.com/album/1fdvxTdyKVqhBj1dDa8Pl7"
+      },
+      "artists": [
+        {
+          "name": "Brinley Addington",
+          "url": "https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187078,
+      "name": "Still Not over You",
+      "url": "https://open.spotify.com/track/733l03FgEyPyOORfxExyyN"
+    },
+    {
+      "album": {
         "name": "The Balladeer",
         "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
       },
@@ -2513,6 +2851,32 @@
       "duration_ms": 269893,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/13Afx0TSu0tO8xJEiZUjCK"
+    },
+    {
+      "album": {
+        "name": "The Driver",
+        "url": "https://open.spotify.com/album/6YXkbmsVABrzPBO6Vknj2P"
+      },
+      "artists": [
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Eric Paslay",
+          "url": "https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274013,
+      "name": "The Driver",
+      "url": "https://open.spotify.com/track/1LDeuD3jbSpHucsd0nOt6t"
     },
     {
       "album": {
@@ -2831,7 +3195,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 195186,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/5kqS0hdikr4ye4UwR548F6"
@@ -2875,6 +3239,28 @@
       "duration_ms": 208523,
       "name": "Two Birds",
       "url": "https://open.spotify.com/track/4dXYpeXEDUAB9PONc1hT1A"
+    },
+    {
+      "album": {
+        "name": "Undivided",
+        "url": "https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175920,
+      "name": "Undivided",
+      "url": "https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7"
     },
     {
       "album": {
@@ -2933,6 +3319,46 @@
       "duration_ms": 228013,
       "name": "Wake up Loving You",
       "url": "https://open.spotify.com/track/1E1LaXgZRkBOljpGXtlR7B"
+    },
+    {
+      "album": {
+        "name": "Between The Pines (Acoustic Mixtape)",
+        "url": "https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "We Are Tonight - Acoustic Mixtape",
+      "url": "https://open.spotify.com/track/5G4upYoNLjklTY6qD32pSf"
+    },
+    {
+      "album": {
+        "name": "We Were",
+        "url": "https://open.spotify.com/album/2Km77rh3Acs42qRQydKwLV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188886,
+      "name": "We Were",
+      "url": "https://open.spotify.com/track/4t64dPfqlZa7fFGPSKavId"
     },
     {
       "album": {
@@ -3071,6 +3497,24 @@
       "duration_ms": 248320,
       "name": "Whiskey Lullaby",
       "url": "https://open.spotify.com/track/28fV7UpKzp6BoawvKYTaNZ"
+    },
+    {
+      "album": {
+        "name": "Whiskey Mode",
+        "url": "https://open.spotify.com/album/7N1YlqTjrOBPWZ8uccFmJ7"
+      },
+      "artists": [
+        {
+          "name": "Hunter Phelps",
+          "url": "https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Whiskey Mode",
+      "url": "https://open.spotify.com/track/37Vr9VYnUtMZXxZ9DkR6Qv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: The Maine ft Taking Back Sunday & Charlotte Sands",
+  "description": "All the best new songs from the pop punk scene. Cover: Avril Lavigne",
   "name": "Pop Punk's Not Dead",
   "published_playlist_ids": [
     "1ZPuIvGxHPsGj5FOHcdzdv"
@@ -131,6 +131,28 @@
       "duration_ms": 191440,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK"
+    },
+    {
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5yLayeW2yw7QpH06QVIpiv"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Bois Lie",
+      "url": "https://open.spotify.com/track/14td7C4K7BX8jsSYtgtQqy"
     },
     {
       "album": {
@@ -443,7 +465,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 140160,
       "name": "elegy",
       "url": "https://open.spotify.com/track/33yVBJ4wdUkItubqKA5UvY"
@@ -461,7 +483,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 194789,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/5lYsGl4zkG80JH1FOYIxDI"
@@ -567,6 +589,28 @@
       "duration_ms": 159157,
       "name": "Every Guy Ever",
       "url": "https://open.spotify.com/track/5pgOXFPQROrmboHmcTYonC"
+    },
+    {
+      "album": {
+        "name": "Everybody but You",
+        "url": "https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "Ben Barlow",
+          "url": "https://open.spotify.com/artist/1gNBwWBXaNtgxRm7XL4UtA"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227393,
+      "name": "Everybody But You",
+      "url": "https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU"
     },
     {
       "album": {
@@ -693,7 +737,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 210154,
       "name": "Hard to Explain",
       "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
@@ -895,7 +939,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 180705,
       "name": "In my head",
       "url": "https://open.spotify.com/track/6535xdBUeKaJ6kEJ2tqoAJ"
@@ -967,7 +1011,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 124426,
       "name": "Life Goes On!!",
       "url": "https://open.spotify.com/track/4BUMZqK5EvcqlRg1SfJ2v3"
@@ -989,7 +1033,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 145103,
       "name": "Love It When You Hate Me (feat. blackbear)",
       "url": "https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr"
@@ -1081,6 +1125,32 @@
       "duration_ms": 170833,
       "name": "Matching Piece",
       "url": "https://open.spotify.com/track/3TkhGiMSW4s29s1EMTmeyh"
+    },
+    {
+      "album": {
+        "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
+        "url": "https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU"
+      },
+      "artists": [
+        {
+          "name": "GARZI",
+          "url": "https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv"
+        },
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "MESS (with Kellin Quinn of Sleeping With Sirens)",
+      "url": "https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr"
     },
     {
       "album": {
@@ -1301,7 +1371,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 100443,
       "name": "Portuguese Knives",
       "url": "https://open.spotify.com/track/2xiaqtvivM2PUPpSVqaIw6"
@@ -1647,7 +1717,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 216888,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/4TTxKf21Dips2BWk32usFf"

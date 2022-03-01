@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5ja5oV6Kto0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ja5oV6Kto0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ja5oV6Kto0)
 
-### [Altè Cruise](https://open.spotify.com/playlist/7pF4eqr29AOzUGMPmKhLmc)
+### [Alté Cruise](https://open.spotify.com/playlist/7pF4eqr29AOzUGMPmKhLmc)
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp?si=N1S9euB7S0\-t\_UfhSVNoGw"> SuperJazzClub </a>
 

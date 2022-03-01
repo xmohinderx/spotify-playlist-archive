@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 191226,
       "name": "Better (Stripped)",
       "url": "https://open.spotify.com/track/3rOJlbv7FeB1kYnpf7vA9m"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/58Mmq9tDlN7jiUqmvugggD"
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 217049,
       "name": "Lonely - Mahogany Sessions",
       "url": "https://open.spotify.com/track/1WVpCn4WGCrgGXhhtyUzyM"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 198048,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/1wiw9ZdiSm3PZfdZqCzb0A"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
@@ -1861,6 +1861,24 @@
       "duration_ms": 271285,
       "name": "Not Me That You're Thinking 'Bout",
       "url": "https://open.spotify.com/track/16u0ZLBYb1eQiPtt32QMU0"
+    },
+    {
+      "album": {
+        "name": "Not My Fault",
+        "url": "https://open.spotify.com/album/4P3tzuxw1GbcMoZT0yi2I4"
+      },
+      "artists": [
+        {
+          "name": "Madi Beede",
+          "url": "https://open.spotify.com/artist/6ju6KugSiJ1luEBrdxAHUV"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166606,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/6UTIhC7SMebdZRooBi6ojZ"
     },
     {
       "album": {
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 211006,
       "name": "OK",
       "url": "https://open.spotify.com/track/07W2d2U9GilTDQIkp73MIm"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 347520,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 255205,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko"
@@ -2763,7 +2781,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"

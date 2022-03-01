@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 302666,
       "name": "Blind and Frozen",
       "url": "https://open.spotify.com/track/4KcpQ5bJZnkIS5OHKGl7Lp"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 213800,
       "name": "Blood Brothers",
       "url": "https://open.spotify.com/track/0R0Od004mm1yRHEVnpygoj"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 235295,
       "name": "From Hell with Love",
       "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 170200,
       "name": "Get It",
       "url": "https://open.spotify.com/track/0vXC7Q017BJWeytEmDUPNy"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 278026,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 173546,
       "name": "Life Marches On",
       "url": "https://open.spotify.com/track/5wWsbm1EAgvRMklDImERqS"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 246209,
       "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
       "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 239626,
       "name": "Light up the Sky",
       "url": "https://open.spotify.com/track/0AY6XbTfRSk9wpCIQTnwc0"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 374453,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
@@ -1293,6 +1293,24 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283400,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
     },
     {
       "album": {
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 167372,
       "name": "She's A Blast",
       "url": "https://open.spotify.com/track/428x14AvuMoTmmO6pBeozu"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 226000,
       "name": "Sleep Now In the Fire",
       "url": "https://open.spotify.com/track/2MdOev92luNB127tb4l6N1"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 220266,
       "name": "Superbeast",
       "url": "https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 212040,
       "name": "Ten Thousand Fists",
       "url": "https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 233079,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2BZ973nCW5OT1k1psRBsyU"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 309132,
       "name": "Wrong Direction",
       "url": "https://open.spotify.com/track/4hpTKkNF9yvip5ZE8BleO7"

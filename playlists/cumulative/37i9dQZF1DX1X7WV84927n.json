@@ -2304,6 +2304,28 @@
     },
     {
       "album": {
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185502,
+      "name": "Untouchable",
+      "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
+    },
+    {
+      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/3ttm1D2LtKbN9i8UBZkvuC"
       },
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 179906,
       "name": "Wake up!",
       "url": "https://open.spotify.com/track/7jTvkoH7CRx0rIhFW5OM8b"

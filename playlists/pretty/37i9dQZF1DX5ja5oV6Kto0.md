@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain](/playlists/plain/37i9dQZF1DX5ja5oV6Kto0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ja5oV6Kto0)
 
-### [Altè Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
+### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp?si=N1S9euB7S0\-t\_UfhSVNoGw"> SuperJazzClub </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,343 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,400 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Hopeless Place](https://open.spotify.com/track/6bMnInhzH6gpqY0tOdI2cP) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Hopeless Place](https://open.spotify.com/album/4PYdU9KnQadcLIvKMLeV3b) | 2:42 |
 | 80 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 |
 
-Snapshot ID: `MTY0NTc0MzYwMCwwMDAwMDBiYjAwMDAwMTdmMmRmNjcyNjQwMDAwMDE3ZjJiNzUwNmJm`
+Snapshot ID: `MTY0NjAzNTM3OSwwMDAwMDBiYzAwMDAwMTdmM2Y1YWEzY2MwMDAwMDE3ZjNmNWE2ODkx`

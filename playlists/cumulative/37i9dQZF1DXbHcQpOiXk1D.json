@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280400,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+    },
+    {
+      "album": {
         "name": "At Least a Double Fold",
         "url": "https://open.spotify.com/album/7KvPRMY4Ds9Q4M0sl4vlZR"
       },
@@ -277,7 +295,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 351120,
       "name": "Better Days - Full Length",
       "url": "https://open.spotify.com/track/30zOLT8Rbxj0FTxQPhNmLj"
@@ -335,7 +353,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 237579,
       "name": "Borders",
       "url": "https://open.spotify.com/track/64kPvG0cDJ7ePFIZi8KBn9"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 407551,
       "name": "Breathe Suite B",
       "url": "https://open.spotify.com/track/35vHk6BGTJxKqlTJnkJyWg"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 197036,
       "name": "Cigars (feat. Alfie Neale & Jarki Monno)",
       "url": "https://open.spotify.com/track/0RVJGI35nVNlRqJMlIYOe4"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 265800,
       "name": "Coy Moon",
       "url": "https://open.spotify.com/track/7ljDP1XNvsjWbiuSgDsVC9"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 325500,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 294004,
       "name": "Eye Glass",
       "url": "https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 240947,
       "name": "Howufeel",
       "url": "https://open.spotify.com/track/4btEBsYlxoY0b8JC3GYAt0"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 369160,
       "name": "If I Know",
       "url": "https://open.spotify.com/track/7EKgrGZqebKLFiNaLbvb7X"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 349629,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 193357,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/210QQ9PIeYxjcHaMNNdzbJ"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 206095,
       "name": "Never Stopped for the Sun 'till Now",
       "url": "https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 263960,
       "name": "Odysea",
       "url": "https://open.spotify.com/track/0eg7p0AvjI5NYzcoVBUuFM"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 472733,
       "name": "Pace",
       "url": "https://open.spotify.com/track/6bfUKVbNibJV0sjzNNjgSM"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 175706,
       "name": "piano joint",
       "url": "https://open.spotify.com/track/7bz6B6gqfRRiCI34j3JzCI"
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/5GZFPLrGgPH0cG2R12aaVM"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 728346,
       "name": "Source [Feat. Ms MAURICE, Cassie Kinoshi, Richie Seivwright]",
       "url": "https://open.spotify.com/track/760WV9S8e01SgZzdkZYqvp"
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 267856,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/4hGMFPGgQ56bwUw8DQMOHa"
@@ -2653,7 +2671,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 300288,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/6R1R6czIpUXR6vhWWqfgC2"
@@ -2733,7 +2751,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 183653,
       "name": "sweet wurli",
       "url": "https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71"
@@ -2759,7 +2777,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 205091,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/59Q0Io9CKIqZfPCJhRwH79"
@@ -2785,7 +2803,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 272817,
       "name": "Talking to the Walls - Ash Walker Remix",
       "url": "https://open.spotify.com/track/0YZ0pUxBhyzdvVZifFRm5l"
@@ -2843,7 +2861,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 423203,
       "name": "The Afternoon of Human Life",
       "url": "https://open.spotify.com/track/06Zwd53J0LySW31tdYEuz6"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 283599,
       "name": "The Good Mixer",
       "url": "https://open.spotify.com/track/2GxF6fun3qMMoylt2NiJ5N"
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 256453,
       "name": "The Spiral",
       "url": "https://open.spotify.com/track/4IyMVcUla2fue99pJpCquG"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 269573,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/7nlR2dYMSBaVNz259BQwFU"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
@@ -3193,7 +3211,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 496546,
       "name": "Warm Data",
       "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
@@ -3327,7 +3345,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 308600,
       "name": "Youth",
       "url": "https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1"

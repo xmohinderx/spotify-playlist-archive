@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS"
+      },
+      "artists": [
+        {
+          "name": "Push & Play",
+          "url": "https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "Artwork",
+      "url": "https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f"
+    },
+    {
+      "album": {
         "name": "Bay Leaves",
         "url": "https://open.spotify.com/album/5ktazOzcMJcyaEg2lcYlKS"
       },
@@ -493,6 +511,24 @@
       "duration_ms": 188250,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe"
+    },
+    {
+      "album": {
+        "name": "cube",
+        "url": "https://open.spotify.com/album/1I7pnfVVnQEeWte95QP6Nv"
+      },
+      "artists": [
+        {
+          "name": "nadezhiko",
+          "url": "https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142522,
+      "name": "cube",
+      "url": "https://open.spotify.com/track/62DXVqz8CdKLH2xsJiRAvE"
     },
     {
       "album": {

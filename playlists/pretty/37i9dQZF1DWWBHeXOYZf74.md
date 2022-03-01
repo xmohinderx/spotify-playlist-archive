@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,371 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,437 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [All Of The Time](https://open.spotify.com/track/5cnsoV2GXggZXhC27SqYpv) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [All Of The Time](https://open.spotify.com/album/4r5R7JXV1JnuxLqEnXIGMR) | 3:02 |
 | 100 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 
-Snapshot ID: `MTY0NTc2NTI2MCwwMDAwMDQxNTAwMDAwMTdmMmY0MGYzNzYwMDAwMDE3ZjJkMmI1NzVh`
+Snapshot ID: `MTY0NjA1ODY4MSwwMDAwMDQxNjAwMDAwMTdmNDBiZTM1N2YwMDAwMDE3ZjJkMmI1NzVh`

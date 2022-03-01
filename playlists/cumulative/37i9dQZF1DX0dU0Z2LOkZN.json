@@ -1464,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "tenacity",
+        "url": "https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx"
+      },
+      "artists": [
+        {
+          "name": "barry straw",
+          "url": "https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "tenacity",
+      "url": "https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk"
+    },
+    {
+      "album": {
         "name": "Mugen Manga Melodies Vol. 1 (Reissue)",
         "url": "https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh"
       },

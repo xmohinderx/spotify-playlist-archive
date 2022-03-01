@@ -52,6 +52,36 @@
     },
     {
       "album": {
+        "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+        "url": "https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172953,
+      "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+      "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
+    },
+    {
+      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/7MeJTbIP5TayBYdMltHFXZ"
       },
@@ -1387,7 +1417,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 172538,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/7mQmVvJCFwhHSSXwZwnPRQ"

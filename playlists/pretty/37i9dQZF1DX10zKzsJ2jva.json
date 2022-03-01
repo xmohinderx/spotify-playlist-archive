@@ -1,29 +1,13 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Christian Nodal",
-  "num_followers": 11605414,
+  "num_followers": 11606784,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDYwOTAwMDAwMTdmMmY0MGYzNWEwMDAwMDE3ZjJjZTVlMDQx",
+  "snapshot_id": "MTY0NjA2NjYwNCwwMDAwMDYwYTAwMDAwMTdmNDEzNzFiOTEwMDAwMDE3ZjJjZTVlMDQx",
   "tracks": [
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
     {
       "added_at": "2022-02-18 05:01:00",
       "album": {
@@ -179,6 +163,22 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2022-02-18 05:01:00",

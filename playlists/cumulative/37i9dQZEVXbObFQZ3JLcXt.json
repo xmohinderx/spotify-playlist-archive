@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Bertahan Terluka",
+        "url": "https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240759,
+      "name": "Bertahan Terluka",
+      "url": "https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO"
+    },
+    {
+      "album": {
         "name": "Selamat Ulang Tahun",
         "url": "https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG"
       },
@@ -3749,7 +3767,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
@@ -3959,7 +3977,7 @@
       ],
       "date_added": "2021-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 227595,
       "name": "Terlukis Indah",
       "url": "https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa"
@@ -4161,7 +4179,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 248253,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP"

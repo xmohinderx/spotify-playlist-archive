@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 231066,
       "name": "A Light On In The Dark",
       "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 221842,
       "name": "B61",
       "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 287623,
       "name": "Call Me When You Land",
       "url": "https://open.spotify.com/track/4oRgpwXGPigjcEkp0mPgad"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
@@ -370,6 +370,24 @@
     },
     {
       "album": {
+        "name": "Colorado Blues",
+        "url": "https://open.spotify.com/album/7mk5dBCDyzFHhEmg3JwtWQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Culwell",
+          "url": "https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "Colorado Blues",
+      "url": "https://open.spotify.com/track/2qew8GpEiZ9ApwgWPamrj3"
+    },
+    {
+      "album": {
         "name": "Your Hero Is Not Dead",
         "url": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
       },
@@ -381,7 +399,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 258266,
       "name": "Confirmation (SSBD)",
       "url": "https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG"
@@ -461,7 +479,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 166013,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/7AddFQXBCAmMPWcV2K9nmp"
@@ -479,7 +497,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 214944,
       "name": "Down in the Country",
       "url": "https://open.spotify.com/track/7cxRBKW8sz7BImPV6mdiIn"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 216786,
       "name": "Dylan Thomas",
       "url": "https://open.spotify.com/track/6x14wL9HvABR2Rix8N88EH"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 178168,
       "name": "Everybody (feat. Jenny Lewis)",
       "url": "https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 236350,
       "name": "Graceland Too",
       "url": "https://open.spotify.com/track/44spdItKKM7rOtKswbBG0U"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 218626,
       "name": "Neon Skyline",
       "url": "https://open.spotify.com/track/7H37kk96CEP7iOkihLUst0"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 206413,
       "name": "New Love Cassette",
       "url": "https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 177339,
       "name": "Oom Sha La La",
       "url": "https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 212680,
       "name": "Run",
       "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
@@ -2615,7 +2633,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 177508,
       "name": "Time is Wasting",
       "url": "https://open.spotify.com/track/3hFqHAoeRri5Bs2iFmGQTL"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 176733,
       "name": "to Perth, before the border closes",
       "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
@@ -2759,7 +2777,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 185240,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/3z6QhS1zOdSSt6VevNJQMV"

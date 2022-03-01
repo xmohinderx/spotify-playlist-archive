@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 688199,
+  "num_followers": 688341,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjAwOTU4NiwwMDAwMDAwMGM3Zjg5MjYzMzNmMTIwYTc3YmY1NjUyMjhjZWJjNGE4",
+  "snapshot_id": "MTY0NjA5NjQ1MCwwMDAwMDAwMGZhZDUzZWJhYTQwMjBkYmI1NjI4MDIwZDk5MWY3ZDA0",
   "tracks": [
     {
       "added_at": "2022-02-25 05:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -71,22 +87,6 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
         "name": "Neva Gonna Break My Heart Again",
         "url": "https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE"
       },
@@ -99,6 +99,22 @@
       "duration_ms": 318521,
       "name": "Neva Gonna Break My Heart Again",
       "url": "https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -119,22 +135,6 @@
       "duration_ms": 302240,
       "name": "How Much Can A Heart Take (feat. Yebba)",
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -191,62 +191,54 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Never My Love: The Anthology",
-        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 204055,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
+        "name": "Love Is The New Black",
+        "url": "https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
         }
       ],
-      "duration_ms": 299366,
-      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+      "duration_ms": 395493,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "All About You",
-        "url": "https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge"
+        "name": "Same Girl",
+        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
         }
       ],
-      "duration_ms": 180095,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -307,18 +299,22 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+      "duration_ms": 180095,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -335,58 +331,6 @@
       "duration_ms": 198133,
       "name": "Rich Kids",
       "url": "https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Take Me Away (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Take Me Away (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 325105,
-      "name": "What It Is",
-      "url": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Same Girl",
-        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
-      },
-      "artists": [
-        {
-          "name": "Tess Henley",
-          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
-        }
-      ],
-      "duration_ms": 182751,
-      "name": "Same Girl",
-      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -415,50 +359,38 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+      "duration_ms": 325105,
+      "name": "What It Is",
+      "url": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Louie Bag (feat. Smino)",
+        "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        },
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+      "duration_ms": 227756,
+      "name": "Louie Bag (feat. Smino)",
+      "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -483,50 +415,110 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "summer night o8",
-        "url": "https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw"
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 203158,
-      "name": "summer night o8",
-      "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
+        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 299366,
+      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Never My Love: The Anthology",
+        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 204055,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Ledisi Sings Nina",
+        "url": "https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc"
       },
       "artists": [
         {
           "name": "Ledisi",
           "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
         }
       ],
-      "duration_ms": 256542,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
+      "duration_ms": 219436,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+        "name": "The Best Things",
+        "url": "https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
         }
       ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+      "duration_ms": 196608,
+      "name": "The Best Things",
+      "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -563,42 +555,6 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Louie Bag (feat. Smino)",
-        "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 227756,
-      "name": "Louie Bag (feat. Smino)",
-      "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "The Best Things",
-        "url": "https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t"
-      },
-      "artists": [
-        {
-          "name": "Kindred The Family Soul",
-          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "The Best Things",
-      "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
         "name": "DARLING",
         "url": "https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb"
       },
@@ -615,8 +571,24 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "then, now & again",
-        "url": "https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "summer night o8",
+        "url": "https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw"
       },
       "artists": [
         {
@@ -624,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
         }
       ],
-      "duration_ms": 252786,
-      "name": "Break Me",
-      "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
+      "duration_ms": 203158,
+      "name": "summer night o8",
+      "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -647,22 +619,18 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Ledisi Sings Nina",
-        "url": "https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc"
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
       },
       "artists": [
         {
           "name": "Ledisi",
           "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
         }
       ],
-      "duration_ms": 219436,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA"
+      "duration_ms": 256542,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -683,58 +651,122 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Running Outta Love (feat. Tori Kelly)",
-        "url": "https://open.spotify.com/album/5Or2V3ZWeIcdpnrFwCn1Wp"
+        "name": "Take Me Away (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         },
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 265586,
-      "name": "Running Outta Love (feat. Tori Kelly)",
-      "url": "https://open.spotify.com/track/5jYF7Xmvmn7sNjtuPXaXfQ"
+      "duration_ms": 172493,
+      "name": "Take Me Away (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Love Is The New Black",
-        "url": "https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
         }
       ],
-      "duration_ms": 395493,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
+      "duration_ms": 335731,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "One Night In Miami... (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF"
+        "name": "DON'T PLAY WITH MY HEART",
+        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
       },
       "artists": [
         {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
         }
       ],
-      "duration_ms": 181760,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6"
+      "duration_ms": 219351,
+      "name": "DON'T PLAY WITH MY HEART",
+      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Every Word (feat. Krysten Simone)",
+        "url": "https://open.spotify.com/album/7yk8zzo9gYc0GvfAENJsOc"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Krysten Simone",
+          "url": "https://open.spotify.com/artist/0hn6MIbOu7wcJcTpLD5KfQ"
+        }
+      ],
+      "duration_ms": 167790,
+      "name": "Every Word (feat. Krysten Simone)",
+      "url": "https://open.spotify.com/track/5NyONMWLkVKu8Mcgjn20aq"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 242921,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "then, now & again",
+        "url": "https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Break Me",
+      "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -775,70 +807,18 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
       "artists": [
         {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 255109,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Don't You Forget",
-        "url": "https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx"
-      },
-      "artists": [
-        {
-          "name": "Louis York",
-          "url": "https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Don't You Forget",
-      "url": "https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD"
-      },
-      "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        }
-      ],
-      "duration_ms": 335731,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Midnight River (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Midnight River (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
+      "duration_ms": 203483,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -859,18 +839,18 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO"
+        "name": "Don't You Forget",
+        "url": "https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx"
       },
       "artists": [
         {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+          "name": "Louis York",
+          "url": "https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb"
         }
       ],
-      "duration_ms": 242921,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj"
+      "duration_ms": 318666,
+      "name": "Don't You Forget",
+      "url": "https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -887,6 +867,22 @@
       "duration_ms": 236640,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "One Night In Miami... (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/6cFjFN3jw2IoZqY3GO27s6"
     }
   ],
   "unique_name": "Soul Coffee",

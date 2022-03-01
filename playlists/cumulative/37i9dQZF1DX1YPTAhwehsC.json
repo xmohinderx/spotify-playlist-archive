@@ -958,6 +958,24 @@
     },
     {
       "album": {
+        "name": "Me & Mine, Pt. 2",
+        "url": "https://open.spotify.com/album/28MmOl4C6EpO0egdg9MJ64"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175372,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/5AOKx1HU33X5G01txaSNyQ"
+    },
+    {
+      "album": {
         "name": "Lethal Weapon",
         "url": "https://open.spotify.com/album/2IM1YBUPe1aC4UawhmjVMg"
       },
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 153051,
       "name": "My Everything (Part II) (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/3JjO7Qtxgt8kzUM2sA7eZ4"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 211653,
       "name": "Rambo",
       "url": "https://open.spotify.com/track/0lihymBRdQmqdUFDTMyLRU"
@@ -1763,6 +1781,28 @@
       "duration_ms": 111840,
       "name": "Talk Nice",
       "url": "https://open.spotify.com/track/1qo8LZ0OHfObYJpA8Zdfhl"
+    },
+    {
+      "album": {
+        "name": "Tatii",
+        "url": "https://open.spotify.com/album/1uUHuOqRSWLrV31PtRy8aN"
+      },
+      "artists": [
+        {
+          "name": "LouGotCash",
+          "url": "https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK"
+        },
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190406,
+      "name": "Tatii",
+      "url": "https://open.spotify.com/track/7sCtozN7toW1hjzCQKOerP"
     },
     {
       "album": {

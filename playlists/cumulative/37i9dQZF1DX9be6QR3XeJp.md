@@ -2,7 +2,7 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
-> Discover your new favourite artists\. Cover: July 7
+> Discover your new favourite artists\. Cover: Wet Leg
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Black](https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Black](https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr) | 2:43 | 2022-02-18 |  |
 | [Burning](https://open.spotify.com/track/37mG6IjvmVd0bKf83D7ZGt) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Burning](https://open.spotify.com/album/21aYxAH1YpxxBW6XfnBz0b) | 3:03 | 2022-02-18 |  |
 | [Can you](https://open.spotify.com/track/52VXLQTSzgIGjwFMx3ty3U) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 3:39 | 2022-02-18 |  |
+| [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-03-01 |  |
 | [Cherry Bomb](https://open.spotify.com/track/3MyuOZO9kWyvluRgxBoMus) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Cherry Bomb](https://open.spotify.com/album/78a6SHXF3uUFDqZ1FBCS7h) | 3:17 | 2022-02-18 |  |
 | [Chicken Lemon Rice](https://open.spotify.com/track/4dXXwHB7WfozMLhkpBvLvw) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Chicken Lemon Rice](https://open.spotify.com/album/6WW0z789UPK64cjkMgjhZy) | 2:33 | 2022-02-18 |  |
 | [Convalesce \(feat\. REGALJASON\)](https://open.spotify.com/track/0mFflI3yK2y3SJybiAMgLr) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [A Shadow of My Former Self](https://open.spotify.com/artist/2zBz80goR5JIdfV6TDkjCl), [REGALJASON](https://open.spotify.com/artist/7xXVzcfLvLi79nRtcwTNP0) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 4:09 | 2022-02-18 |  |

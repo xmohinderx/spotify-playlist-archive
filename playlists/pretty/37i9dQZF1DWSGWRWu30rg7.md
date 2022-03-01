@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Mezzaluna\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,131 likes - 89 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,127 likes - 89 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

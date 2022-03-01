@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 193288,
       "name": "31",
       "url": "https://open.spotify.com/track/2oGYin33bQAA7M2s0pSQQ6"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 244814,
       "name": "A Game For Two",
       "url": "https://open.spotify.com/track/4ssrskiEvEb5otPI75SlP7"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 248727,
       "name": "Alag Si Ek Hasi",
       "url": "https://open.spotify.com/track/70EtcjcAOmKpiRycmiuBQd"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 177600,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/62IflgB9DAseNCHfkGBpkL"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 353750,
       "name": "Bihag",
       "url": "https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 195348,
       "name": "Dil Kya Kare",
       "url": "https://open.spotify.com/track/0t6dmEWhWChHunOngzhZl7"
@@ -1176,6 +1176,28 @@
     },
     {
       "album": {
+        "name": "For Lost Memories",
+        "url": "https://open.spotify.com/album/2TanOHczOXIfYGglP1ayrK"
+      },
+      "artists": [
+        {
+          "name": "Shourya Malhotra",
+          "url": "https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS"
+        },
+        {
+          "name": "Varun Rajput",
+          "url": "https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "For Lost Memories",
+      "url": "https://open.spotify.com/track/40UwGMkYxIG7Mc3tShZeLL"
+    },
+    {
+      "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/7BUQFChLJv6kARWAl73nVx"
       },
@@ -1187,7 +1209,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 249402,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/6pqTfK8KVNY97rdcJTcv9P"
@@ -1205,7 +1227,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 144750,
       "name": "games with my heart",
       "url": "https://open.spotify.com/track/4VRB0HAmowcN28VJOS8YQY"
@@ -1317,7 +1339,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 211636,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/1MO8cWWrdUKYVCjkb7bCR9"
@@ -1379,7 +1401,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 234000,
       "name": "hues of autumn",
       "url": "https://open.spotify.com/track/3FhkU4wmGMYs8sYEZ0mbgm"
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 175324,
       "name": "I've been waiting",
       "url": "https://open.spotify.com/track/6ZHgVnde6D4MQWI6WqsR8b"
@@ -2711,7 +2733,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 120000,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2sRTQLM4795m4a1XQbTgp3"
@@ -2765,7 +2787,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 207316,
       "name": "meet me when",
       "url": "https://open.spotify.com/track/5APX3OZJg6tD1TDSty0NYs"
@@ -2801,7 +2823,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 190715,
       "name": "Mehmaan",
       "url": "https://open.spotify.com/track/37gqvQTZBhLcd8asMTeIKR"
@@ -3425,7 +3447,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 146000,
       "name": "Reh Ja Sath",
       "url": "https://open.spotify.com/track/70Sww4aNEAPpscGIari2Aq"
@@ -4073,7 +4095,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 190199,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5bOwnBLmVtmhvCX4xH6aLa"
@@ -4211,7 +4233,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 256571,
       "name": "Sunshine on the Street",
       "url": "https://open.spotify.com/track/2i9RJNKfewyJ5dJZAWQKul"
@@ -4229,7 +4251,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 205090,
       "name": "Tell me",
       "url": "https://open.spotify.com/track/6ajDLytZHTxhJ7Z2effAjs"
@@ -4265,7 +4287,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 217731,
       "name": "Teri Yaadein Reh Gayi",
       "url": "https://open.spotify.com/track/61kfmoABrZR5SVE2WpSHlW"
@@ -4493,7 +4515,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 218714,
       "name": "To Bend or Break",
       "url": "https://open.spotify.com/track/2cbjz0tBmeQQF5XX8wBfZ1"
@@ -4761,7 +4783,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 198545,
       "name": "Water Raft",
       "url": "https://open.spotify.com/track/5SCvcEC798XyMtLxtbYgkN"
@@ -4841,7 +4863,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 222681,
       "name": "Yaadein Banate Hai",
       "url": "https://open.spotify.com/track/7flzvsf1mEhBQD3yFeUbMj"
@@ -5015,7 +5037,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-01",
       "duration_ms": 178800,
       "name": "Your Best",
       "url": "https://open.spotify.com/track/10XpcY7siZYCfmo5pTBqIo"

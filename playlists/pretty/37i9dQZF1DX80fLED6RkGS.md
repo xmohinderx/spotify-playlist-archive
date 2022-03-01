@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=sLI4n7mHSAiv4ET\_PvrWYA">Exray Taniua</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,140 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,147 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Usiniharibie Mood](https://open.spotify.com/track/5OflrN0O5MUtruSRH3KILR) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Usiniharibie Mood](https://open.spotify.com/album/3mq6fqMK9F02QEU8u1vPHZ) | 2:40 |
 | 2 | [KISHASH](https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [KISHASH](https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b) | 2:39 |
 | 3 | [Sipangwingwi](https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Sipangwingwi](https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn) | 3:26 |
-| 4 | [Sikusoma](https://open.spotify.com/track/71GCW6cSkWo32gnlARwNbH) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Third Eye Simba](https://open.spotify.com/artist/05YkplHc6Ub6YhaM90FgyS), [Kemboste](https://open.spotify.com/artist/1z9mH17UE163MWdaejVtJI) | [Sikusoma](https://open.spotify.com/album/1a3FoCe2PhDksA9NLkaTov) | 3:06 |
+| 4 | [Sikusoma](https://open.spotify.com/track/71GCW6cSkWo32gnlARwNbH) | [Third Eye Simba](https://open.spotify.com/artist/05YkplHc6Ub6YhaM90FgyS), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Kemboste](https://open.spotify.com/artist/1z9mH17UE163MWdaejVtJI) | [Sikusoma](https://open.spotify.com/album/1a3FoCe2PhDksA9NLkaTov) | 3:06 |
 | 5 | [Pombe Na Kizungu Mingi](https://open.spotify.com/track/5GGS1P0wgAlCma5d0J5gez) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Unaware](https://open.spotify.com/album/00B8H64IOd5NUMeeOLIMZw) | 3:21 |
 | 6 | [BIZZ NI BIZZ](https://open.spotify.com/track/2aHwfcPILQmSLOTHHfQqiY) | [Ethic](https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz) | [BIZZ NI BIZZ](https://open.spotify.com/album/6pBjx6fARnklsLoPDBErLF) | 3:52 |
 | 7 | [Shamra Shamra \- Remix](https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Gabu](https://open.spotify.com/artist/1Lon3hB1ZcGAeJSHNBAL4Y), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6), [Kristoff](https://open.spotify.com/artist/2io3BTkaSQLmkQ1Ayy0vXn), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Frasha](https://open.spotify.com/artist/3MObo2QpsSE0Hhetox5yR0), [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Three Wise Goats](https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR) | 4:48 |

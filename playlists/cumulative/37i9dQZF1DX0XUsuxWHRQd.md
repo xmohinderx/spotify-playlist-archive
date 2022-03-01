@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
-> New music from Kodak Black and Lil Durk.
+> New music from Kodak Black, Lil Durk, DaBaby and YoungBoy Never Broke Again.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,7 @@
 | [I Spy](https://open.spotify.com/track/5X3rA2iFKmOIG33Kheij8T) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [I Spy](https://open.spotify.com/album/7aOGK4EL5w97pGNunf39h2) | 3:06 | 2020-05-01 | 2020-05-08 |
 | [I Think I Luv Her \(feat\. YG\)](https://open.spotify.com/track/6VYXuUz1nYMap8gtqeIrQB) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I Think I Luv Her \(feat\. YG\)](https://open.spotify.com/album/6SLjG25W8rKuvSUExihz7g) | 2:40 | 2019-10-25 | 2020-01-24 |
 | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/track/3xB5uHrhe0uaIxNGf3JwZA) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/album/6xtugMcB7hTNJH14wYxzBJ) | 2:43 | 2019-10-16 | 2019-11-22 |
-| [I Wish](https://open.spotify.com/track/5c5jh86Kat4XkgycuKsDqp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Wish](https://open.spotify.com/album/3ov6J7XhPyxpGSrYjL5cZl) | 2:45 | 2022-02-25 |  |
+| [I Wish](https://open.spotify.com/track/5c5jh86Kat4XkgycuKsDqp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Wish](https://open.spotify.com/album/3ov6J7XhPyxpGSrYjL5cZl) | 2:45 | 2022-02-25 | 2022-03-01 |
 | [i\-drip\-or\-is](https://open.spotify.com/track/7w7SyRdoQRGiskBPJBhjS4) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 3:57 | 2019-07-06 | 2019-08-13 |
 | [I.Y.B.](https://open.spotify.com/track/2sU586qrQQhByPLqEF7pLX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I.Y.B.](https://open.spotify.com/album/0Okv5s6Eu9ADmNTMJWXpuL) | 1:33 | 2021-11-20 | 2021-11-27 |
 | [Ice \(feat\. Gunna & Lil Baby\)](https://open.spotify.com/track/6KCt9V6Lev0M04rFUj8ANC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:57 | 2019-06-21 | 2019-08-17 |
@@ -1028,6 +1028,7 @@
 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 | 2021-02-06 | 2021-05-22 |
 | [Up The Side \(feat\. Young Thug\)](https://open.spotify.com/track/2L6lh2RmMs1yz4FQzdbwOn) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:38 | 2021-06-05 | 2021-07-10 |
 | [UP THE SMOKE \(with Offset\)](https://open.spotify.com/track/09TZsMHXEtQkdmMJZPLKup) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [UP THE SMOKE \(with Offset\)](https://open.spotify.com/album/1ID5rMIT1C61W2OLQ3rctp) | 3:08 | 2019-11-22 | 2020-03-06 |
+| [Usain Boo](https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:06 | 2022-02-28 |  |
 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 | 2019-10-26 | 2019-11-01 |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-18 | 2021-10-30 |
 | [VACATION](https://open.spotify.com/track/6q2uIyLqASSpv2SIv2ehWK) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [VACATION](https://open.spotify.com/album/42XA3CG4dOtlaVKq5ZRNRh) | 3:12 | 2020-06-19 | 2020-06-29 |
