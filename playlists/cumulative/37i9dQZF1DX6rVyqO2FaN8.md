@@ -2,7 +2,7 @@
 
 ### [Still Hot](https://open.spotify.com/playlist/0TBZn7zfejqBGy43W0aTCF)
 
-> Recent tracks from the Hot Country playlist that are still smokin'\.  Cover: Carrie Underwood and Jason Aldean
+> Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Jimmie Allen
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

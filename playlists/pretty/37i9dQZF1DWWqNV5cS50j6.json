@@ -1,12 +1,12 @@
 {
   "description": "Featuring new music by Araya.",
-  "num_followers": 631387,
+  "num_followers": 631469,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA3OTMzMywwMDAwMDI1ZTAwMDAwMTdmNDFmOTU0NWMwMDAwMDE3ZjIyMDI5ZDBl",
+  "snapshot_id": "MTY0NjE2NDA4NCwwMDAwMDI2MDAwMDAwMTdmNDcwNjg2NGMwMDAwMDE3ZjIyMDI5ZDBl",
   "tracks": [
     {
       "added_at": "2022-02-28 16:03:13",
@@ -55,22 +55,6 @@
       "duration_ms": 172346,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/5BkazOzXKqpVE4RI7Dbxnw"
-    },
-    {
-      "added_at": "2021-09-07 18:46:36",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-02-25 05:09:00",
@@ -171,6 +155,22 @@
       "duration_ms": 189133,
       "name": "Infinite Straight",
       "url": "https://open.spotify.com/track/6Us2KEkxAPZge1yTpCSKWd"
+    },
+    {
+      "added_at": "2021-09-07 18:46:36",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-02-04 05:03:00",
@@ -543,6 +543,22 @@
       "duration_ms": 152967,
       "name": "prism",
       "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
+    },
+    {
+      "added_at": "2022-03-01 19:48:03",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/53Gj9IfS2qInEcIrmBK99s"
+      },
+      "artists": [
+        {
+          "name": "Joshoo",
+          "url": "https://open.spotify.com/artist/7BuZYuru2eFUpXMFtkVIdx"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/0Vr11jCXTQK0tyCQcEjZhq"
     },
     {
       "added_at": "2021-10-01 20:12:50",
@@ -1683,22 +1699,6 @@
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ"
-    },
-    {
-      "added_at": "2022-02-28 20:15:33",
-      "album": {
-        "name": "predictable",
-        "url": "https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 179850,
-      "name": "n2o",
-      "url": "https://open.spotify.com/track/4z3cLkhxB7dTf1L7xrHTly"
     }
   ],
   "unique_name": "anti pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > Explore the ever\-evolving roots & folk scene\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,329 likes - 101 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,362 likes - 101 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 101650,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
@@ -3593,7 +3593,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 93919,
       "name": "Na Mezhi",
       "url": "https://open.spotify.com/track/2AlxcFQueCwOvtsoHaMXQh"
@@ -3877,7 +3877,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 167926,
       "name": "Notes",
       "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
@@ -5129,7 +5129,7 @@
       ],
       "date_added": "2020-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 116000,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu"
@@ -5505,7 +5505,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 166448,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5"
@@ -5629,6 +5629,24 @@
       "duration_ms": 273000,
       "name": "Teka",
       "url": "https://open.spotify.com/track/64z6fgsd7813f8cOvzyJnE"
+    },
+    {
+      "album": {
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
     },
     {
       "album": {

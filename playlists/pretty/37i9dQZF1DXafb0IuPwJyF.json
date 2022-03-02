@@ -1,29 +1,13 @@
 {
   "description": "Hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: Awich",
-  "num_followers": 572752,
+  "num_followers": 573093,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTk3NDAwMCwwMDAwMDJmZDAwMDAwMTdmM2JiMjExZjMwMDAwMDE3ZjM4NDFiM2Yz",
+  "snapshot_id": "MTY0NjE3MTI4MiwwMDAwMDJmZTAwMDAwMTdmNDc3NDVkYTEwMDAwMDE3ZjM4NDFiM2Yz",
   "tracks": [
-    {
-      "added_at": "2022-02-27 15:00:00",
-      "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
-    },
     {
       "added_at": "2022-02-27 15:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 193990,
       "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
       "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+    },
+    {
+      "added_at": "2022-02-27 15:00:00",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
     },
     {
       "added_at": "2022-02-27 15:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-02-27 15:00:00",
       "album": {
+        "name": "3\u6708\u306e\u5e30\u308a\u9053",
+        "url": "https://open.spotify.com/album/4X3LwKBdbwqznwtNPenS62"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 218819,
+      "name": "3\u6708\u306e\u5e30\u308a\u9053",
+      "url": "https://open.spotify.com/track/609ZaFJuwGmqSsCDFCYIwG"
+    },
+    {
+      "added_at": "2022-02-27 15:00:00",
+      "album": {
         "name": "The Rumbling",
         "url": "https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 278118,
       "name": "W / X / Y",
       "url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49"
-    },
-    {
-      "added_at": "2022-02-27 15:00:00",
-      "album": {
-        "name": "3\u6708\u306e\u5e30\u308a\u9053",
-        "url": "https://open.spotify.com/album/4X3LwKBdbwqznwtNPenS62"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 218819,
-      "name": "3\u6708\u306e\u5e30\u308a\u9053",
-      "url": "https://open.spotify.com/track/609ZaFJuwGmqSsCDFCYIwG"
     },
     {
       "added_at": "2022-02-27 15:00:00",

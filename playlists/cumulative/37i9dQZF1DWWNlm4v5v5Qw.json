@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/6e86wqdUXeqszz46DTgyxg"
+      },
+      "artists": [
+        {
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
+        },
+        {
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/4wtniyqqJAs8ZRmUAhy4GI"
+    },
+    {
+      "album": {
         "name": "Who Are You Seeing?",
         "url": "https://open.spotify.com/album/63mmjUpQSGAJBMbKxAczBh"
       },

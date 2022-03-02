@@ -2,7 +2,7 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
-> Country music making waves\. Cover: Willie Jones
+> Country music making waves\. Cover: Sacha
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

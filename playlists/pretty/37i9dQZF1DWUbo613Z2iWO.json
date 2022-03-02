@@ -1,12 +1,12 @@
 {
   "description": "Make room for these R&B/Soul artists on the rise! Photo: Mahalia.",
-  "num_followers": 17016,
+  "num_followers": 17044,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA2ODIyOCwwMDAwMDAxZjAwMDAwMTdmNDE0ZmUzNTkwMDAwMDE3ZjBhM2Y3OGMy",
+  "snapshot_id": "MTY0NjE3NDIwNCwwMDAwMDAyMDAwMDAwMTdmNDdhMGYxMmQwMDAwMDE3ZjBhM2Y3OGMy",
   "tracks": [
     {
       "added_at": "2022-02-18 05:00:00",
@@ -295,6 +295,26 @@
       "duration_ms": 240164,
       "name": "Soakin (feat. Gwen Bunn)",
       "url": "https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP"
+    },
+    {
+      "added_at": "2022-03-01 22:36:44",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/6e86wqdUXeqszz46DTgyxg"
+      },
+      "artists": [
+        {
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
+        },
+        {
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
+        }
+      ],
+      "duration_ms": 192005,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/4wtniyqqJAs8ZRmUAhy4GI"
     },
     {
       "added_at": "2022-02-12 00:16:32",

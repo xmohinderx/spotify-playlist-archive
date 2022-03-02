@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 237106,
       "name": "Andan Busc\u00e1ndome",
       "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
@@ -298,6 +298,24 @@
     },
     {
       "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l"
+      },
+      "artists": [
+        {
+          "name": "ForyFive",
+          "url": "https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189833,
+      "name": "Beibi",
+      "url": "https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
       },
@@ -375,7 +393,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "C14TORCE II",
       "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 141688,
       "name": "Digame Usted",
       "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 244210,
       "name": "Dm",
       "url": "https://open.spotify.com/track/396ixTcpiq8mNGclHGN8wK"
@@ -1113,6 +1131,24 @@
       "duration_ms": 216306,
       "name": "GPS (feat. French Montana)",
       "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
+    },
+    {
+      "album": {
+        "name": "GRACIAS POR NADA",
+        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219448,
+      "name": "GRACIAS POR NADA",
+      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
     },
     {
       "album": {
@@ -1263,7 +1299,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
@@ -1557,7 +1593,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 224556,
       "name": "No Lo Se",
       "url": "https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD"
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 164352,
       "name": "No Puedo Fingir",
       "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
@@ -1773,7 +1809,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 230434,
       "name": "Pa Mi",
       "url": "https://open.spotify.com/track/4qkun7AaUFno3rE8xp0zYi"
@@ -1905,7 +1941,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Prefiero",
       "url": "https://open.spotify.com/track/1WrVjFkswM2JthLruEiCoD"
@@ -2363,7 +2399,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 187046,
       "name": "S\u00e1banas An\u00f3nimas",
       "url": "https://open.spotify.com/track/2VJ74YqEINo2GpS1b9dPpX"
@@ -2577,7 +2613,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 183703,
       "name": "Una Semana",
       "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
@@ -2665,7 +2701,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Vuelve a Mi",
       "url": "https://open.spotify.com/track/4iI2kB0pyRFZdq1BJ1ZQFv"
@@ -2739,7 +2775,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 162869,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"

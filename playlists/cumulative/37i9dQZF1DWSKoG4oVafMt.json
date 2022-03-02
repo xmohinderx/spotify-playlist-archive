@@ -590,6 +590,28 @@
     },
     {
       "album": {
+        "name": "Dil Tera",
+        "url": "https://open.spotify.com/album/39Lal7OnGGdjCpUZco8s3o"
+      },
+      "artists": [
+        {
+          "name": "Sara Gurpal",
+          "url": "https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v"
+        },
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Dil Tera",
+      "url": "https://open.spotify.com/track/7hm32SIdor0IvdJ36H3BvT"
+    },
+    {
+      "album": {
         "name": "Distance Love",
         "url": "https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY"
       },
@@ -1101,6 +1123,28 @@
       "duration_ms": 206060,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
+    },
+    {
+      "album": {
+        "name": "Jaan Te Bani 2",
+        "url": "https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs"
+      },
+      "artists": [
+        {
+          "name": "Balraj",
+          "url": "https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi"
+        },
+        {
+          "name": "G Guri",
+          "url": "https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298559,
+      "name": "Jaan Te Bani 2",
+      "url": "https://open.spotify.com/track/54EZSryDgRSvx3altQXVya"
     },
     {
       "album": {
@@ -2071,6 +2115,24 @@
       "duration_ms": 225956,
       "name": "Marjaawaan (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/6nDFhdxDZBbwEDbsJYVdqS"
+    },
+    {
+      "album": {
+        "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+        "url": "https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248006,
+      "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+      "url": "https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU"
     },
     {
       "album": {

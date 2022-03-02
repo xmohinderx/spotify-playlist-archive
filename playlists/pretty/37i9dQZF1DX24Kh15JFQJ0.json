@@ -1,64 +1,244 @@
 {
-  "description": "The latest music from our Country Heroes.\nCover: Tracy Lawrence",
-  "num_followers": 233436,
-  "original_name": "New Traditions: Country Heroes",
+  "description": "The latest music from our Country Heroes.\nCover: Dolly Parton",
+  "num_followers": 233488,
+  "original_name": "New Traditions Country Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NzE0MCwwMDAwMDBiNDAwMDAwMTdmMmY1ZGE1ZWMwMDAwMDE3ZTllNDllNzg4",
+  "snapshot_id": "MTY0NjExMDgwMCwwMDAwMDBiNTAwMDAwMTdmNDNkOTc4ZjgwMDAwMDE3ZjNkOTJkNTg0",
   "tracks": [
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "Don't Drink Whiskey",
-        "url": "https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD"
+        "name": "Big Dreams and Faded Jeans",
+        "url": "https://open.spotify.com/album/3dTp47JrsjNtAZa6XReLlk"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 218617,
-      "name": "Don't Drink Whiskey",
-      "url": "https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE"
+      "duration_ms": 247213,
+      "name": "Big Dreams and Faded Jeans",
+      "url": "https://open.spotify.com/track/7GU9wHH2KHXfvHsRxMBH5T"
     },
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "Did I Shave My Legs For This? (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7LLjjbEIbUTpMROr1AkCSL"
+        "name": "Ain't That Kind of Cowboy",
+        "url": "https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4"
       },
       "artists": [
         {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 201374,
+      "name": "Ain't That Kind of Cowboy",
+      "url": "https://open.spotify.com/track/25QJf8CvD8WtK5iF4vRpQO"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Waste Of A Whiskey Drink",
+        "url": "https://open.spotify.com/album/54RJlVwpUPj4jqzCyY6Exu"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Waste Of A Whiskey Drink",
+      "url": "https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "How Far Can It Go? (feat. Trisha Yearwood)",
+        "url": "https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
         },
         {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 175258,
+      "name": "How Far Can It Go? (feat. Trisha Yearwood)",
+      "url": "https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Never Seen The World (feat. Vince Gill)",
+        "url": "https://open.spotify.com/album/26LS0dqjZmqP8Xd9oSkkw1"
+      },
+      "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        },
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        },
-        {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
         },
         {
           "name": "Vince Gill",
           "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 319320,
-      "name": "Strawberry Wine - 2021 Version",
-      "url": "https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn"
+      "duration_ms": 191506,
+      "name": "Never Seen The World (feat. Vince Gill)",
+      "url": "https://open.spotify.com/track/0O7Hlfi7hBVZ0WSvIE1SRI"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Not A Dry Eye In The House",
+        "url": "https://open.spotify.com/album/3iOsbjIjInM7sXnfb47IeT"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Seely",
+          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Not A Dry Eye In The House",
+      "url": "https://open.spotify.com/track/7IhQxfKt1rWvPSpWJcIpIk"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Set In Stone",
+        "url": "https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 184707,
+      "name": "Set In Stone",
+      "url": "https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Can't Even Get The Blues (Revived)",
+        "url": "https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Can't Even Get The Blues - Revived",
+      "url": "https://open.spotify.com/track/2NikNS7ZoIKCe3nnpKarZB"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "I Saw The Light",
+        "url": "https://open.spotify.com/album/6xgWPrEIArT7J0WNJjJs8I"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 112320,
+      "name": "I Saw The Light",
+      "url": "https://open.spotify.com/track/7gIu8tkCEcIdVoljpO849s"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Rita Wilson",
+          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
+        },
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "When This Is Over (feat. The Oak Ridge Boys)",
+      "url": "https://open.spotify.com/track/6U1MkhLKg0j00z9ZiWcl46"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "The Highway",
+        "url": "https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA"
+      },
+      "artists": [
+        {
+          "name": "Terri Clark",
+          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
+        }
+      ],
+      "duration_ms": 209958,
+      "name": "The Highway",
+      "url": "https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/04del8uubDhGl0xMyWUfQu"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 193725,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/0QlVTCl7DKwI4pxuHgJtLo"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Every Girl (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 199145,
+      "name": "I Dare You to Love",
+      "url": "https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL"
     },
     {
       "added_at": "2022-02-25 05:32:20",
@@ -315,22 +495,6 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "Every Girl (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 199145,
-      "name": "I Dare You to Love",
-      "url": "https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
         "name": "Storms of Life (35th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U"
       },
@@ -387,6 +551,42 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
+        "name": "Did I Shave My Legs For This? (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7LLjjbEIbUTpMROr1AkCSL"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 319320,
+      "name": "Strawberry Wine - 2021 Version",
+      "url": "https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
         "name": "Dear Miss Loretta",
         "url": "https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn"
       },
@@ -439,22 +639,6 @@
       "duration_ms": 239933,
       "name": "Gonna Be Alright",
       "url": "https://open.spotify.com/track/3wQWy9KSrcMviSoFRNGeDI"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "Big Dreams and Faded Jeans",
-        "url": "https://open.spotify.com/album/3dTp47JrsjNtAZa6XReLlk"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "Big Dreams and Faded Jeans",
-      "url": "https://open.spotify.com/track/7GU9wHH2KHXfvHsRxMBH5T"
     },
     {
       "added_at": "2022-02-25 05:32:20",
@@ -559,26 +743,6 @@
       "duration_ms": 278200,
       "name": "Neon Moon - with Kacey Musgraves",
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/505DGCQ7YCwILZLmizg0yK"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 219394,
-      "name": "Eagle When She Flies",
-      "url": "https://open.spotify.com/track/6a253LpGaq8byPMmTuyBPw"
     },
     {
       "added_at": "2022-02-25 05:32:20",
@@ -751,6 +915,22 @@
       "duration_ms": 230860,
       "name": "Blanket on the Ground",
       "url": "https://open.spotify.com/track/0fNVf87epF7g8qTtAozihN"
+    },
+    {
+      "added_at": "2022-02-25 05:32:20",
+      "album": {
+        "name": "Don't Drink Whiskey",
+        "url": "https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 218617,
+      "name": "Don't Drink Whiskey",
+      "url": "https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE"
     },
     {
       "added_at": "2022-02-25 05:32:20",
@@ -947,22 +1127,6 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "I Saw The Light",
-        "url": "https://open.spotify.com/album/6xgWPrEIArT7J0WNJjJs8I"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 112320,
-      "name": "I Saw The Light",
-      "url": "https://open.spotify.com/track/7gIu8tkCEcIdVoljpO849s"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
         "name": "You Look Good",
         "url": "https://open.spotify.com/album/2YprzSRabRlUGbRM0j80pm"
       },
@@ -995,22 +1159,6 @@
       "duration_ms": 184065,
       "name": "Big Bertha (feat. Vince Gill)",
       "url": "https://open.spotify.com/track/63zeH35ojREKtEyTZjisUW"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "Set In Stone",
-        "url": "https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 184707,
-      "name": "Set In Stone",
-      "url": "https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa"
     },
     {
       "added_at": "2022-02-25 05:32:20",
@@ -1199,22 +1347,6 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "The Highway",
-        "url": "https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA"
-      },
-      "artists": [
-        {
-          "name": "Terri Clark",
-          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
-        }
-      ],
-      "duration_ms": 209958,
-      "name": "The Highway",
-      "url": "https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
         "name": "Reboot...Brand New Man/Believe",
         "url": "https://open.spotify.com/album/0BNJ0USnQIvtEdWYmooZ8q"
       },
@@ -1291,50 +1423,6 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Rita Wilson",
-          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
-        },
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "When This Is Over (feat. The Oak Ridge Boys)",
-      "url": "https://open.spotify.com/track/6U1MkhLKg0j00z9ZiWcl46"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "Old School",
-        "url": "https://open.spotify.com/album/04del8uubDhGl0xMyWUfQu"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 193725,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/0QlVTCl7DKwI4pxuHgJtLo"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
         "name": "Sent From Above",
         "url": "https://open.spotify.com/album/2seNA62osJS4t03QBjdkW3"
       },
@@ -1347,22 +1435,6 @@
       "duration_ms": 145210,
       "name": "Sent From Above",
       "url": "https://open.spotify.com/track/51jVJF72pOhKxMTuZsi0p4"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "Can't Even Get The Blues (Revived)",
-        "url": "https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Can't Even Get The Blues - Revived",
-      "url": "https://open.spotify.com/track/2NikNS7ZoIKCe3nnpKarZB"
     },
     {
       "added_at": "2022-02-25 05:32:20",
@@ -1467,58 +1539,6 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "Waste Of A Whiskey Drink",
-        "url": "https://open.spotify.com/album/54RJlVwpUPj4jqzCyY6Exu"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Waste Of A Whiskey Drink",
-      "url": "https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "Never Seen The World (feat. Vince Gill)",
-        "url": "https://open.spotify.com/album/26LS0dqjZmqP8Xd9oSkkw1"
-      },
-      "artists": [
-        {
-          "name": "Alex Hall",
-          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Never Seen The World (feat. Vince Gill)",
-      "url": "https://open.spotify.com/track/0O7Hlfi7hBVZ0WSvIE1SRI"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "I Called Mama",
-        "url": "https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 211576,
-      "name": "I Called Mama",
-      "url": "https://open.spotify.com/track/3YuvAPidBWldqjagOryo40"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/58EoMAmdNnJRVAAMePEr6p"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 196502,
       "name": "Ain't No Closing Me Down",
       "url": "https://open.spotify.com/track/4kqSHwiAg5Su68ifqjUPNm"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
-        "name": "Not A Dry Eye In The House",
-        "url": "https://open.spotify.com/album/3iOsbjIjInM7sXnfb47IeT"
-      },
-      "artists": [
-        {
-          "name": "Jeannie Seely",
-          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Not A Dry Eye In The House",
-      "url": "https://open.spotify.com/track/7IhQxfKt1rWvPSpWJcIpIk"
     },
     {
       "added_at": "2022-02-25 05:32:20",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "Ain't That Kind of Cowboy",
-        "url": "https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 201374,
-      "name": "Ain't That Kind of Cowboy",
-      "url": "https://open.spotify.com/track/25QJf8CvD8WtK5iF4vRpQO"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
         "name": "The Duets",
         "url": "https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb"
       },
@@ -1915,26 +1899,6 @@
     {
       "added_at": "2022-02-25 05:32:20",
       "album": {
-        "name": "How Far Can It Go? (feat. Trisha Yearwood)",
-        "url": "https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        },
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 175258,
-      "name": "How Far Can It Go? (feat. Trisha Yearwood)",
-      "url": "https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI"
-    },
-    {
-      "added_at": "2022-02-25 05:32:20",
-      "album": {
         "name": "Tradition Lives",
         "url": "https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO"
       },
@@ -1981,6 +1945,6 @@
       "url": "https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm"
     }
   ],
-  "unique_name": "New Traditions: Country Heroes",
+  "unique_name": "New Traditions Country Heroes",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0"
 }

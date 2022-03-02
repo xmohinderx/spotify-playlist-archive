@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 147653,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 317426,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 241861,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0o9aEkfuFqYgcVqXSNSxjL"
@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Keep in Line",
+        "url": "https://open.spotify.com/album/0k5jwmJHT4lsTT9tatZ807"
+      },
+      "artists": [
+        {
+          "name": "Maybird",
+          "url": "https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Keep in Line",
+      "url": "https://open.spotify.com/track/45FKtXcNaJVtbfCumiUHHe"
+    },
+    {
+      "album": {
         "name": "Lemurian Promenade",
         "url": "https://open.spotify.com/album/0GVRN6mAUoizZ1zSozX9wY"
       },
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 190845,
       "name": "My Kind of Woman",
       "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 150713,
       "name": "Sun Medallion",
       "url": "https://open.spotify.com/track/2avVVXPzzk3aRD63rMr5SG"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 224218,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1cZDkuHwMgjR9KhZnrW4s2"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 152684,
       "name": "What a Pleasure",
       "url": "https://open.spotify.com/track/5nnuMMrPgKJRxUqbU86fvv"

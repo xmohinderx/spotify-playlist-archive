@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Fatherson
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,230 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,332 likes - 54 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 47 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 |
 | 48 | [Witness](https://open.spotify.com/track/4xpXKkEIQaXFYKcTrw78NC) | [The Post War](https://open.spotify.com/artist/4ofDiFRQz0rN8FPm6T0ozM) | [Anecdoche](https://open.spotify.com/album/4BfRtkSpfeGE1XAeIpx578) | 4:42 |
 | 49 | [Caught](https://open.spotify.com/track/46nccm1ZvlvHspOQHcPskS) | [Poly](https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS) | [Caught](https://open.spotify.com/album/1DKTP2s9fuYxUxiw84DYRI) | 4:29 |
-| 50 | [Bad Dream](https://open.spotify.com/track/4A13g03FEeD4hAH5JnxBp7) | [An Honest Mistake](https://open.spotify.com/artist/10AFY2pkSdVHy940701lu6), [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ), [Bright Minder](https://open.spotify.com/artist/0SzTWLfzCw9i8xBXtiKLz0) | [Bad Dream](https://open.spotify.com/album/3WUPRxenLBnvIuth0uIKwM) | 3:09 |
-| 51 | [Hung Jury](https://open.spotify.com/track/4XbAxmfVnbQ4IWLbpG4w9n) | [Exit Kid](https://open.spotify.com/artist/5ggEk1sdRrzR2Kv75GRfBZ) | [Basis](https://open.spotify.com/album/3WykiAOYsjnymVcxtWZofb) | 3:18 |
-| 52 | [Standing Here](https://open.spotify.com/track/2svRbVWvrBUvW1J935XBuC) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Just a Ride](https://open.spotify.com/album/5rWu7OxkpzwMMXZmaNqsgn) | 4:02 |
-| 53 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
-| 54 | [One Pill](https://open.spotify.com/track/0dbPddX5UemiR1aoVBKY9r) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [One Pill](https://open.spotify.com/album/0jbyDsbuvna46mJX3vPIcy) | 2:56 |
-| 55 | [I Feel Fine](https://open.spotify.com/track/0CfTEKNclPW4aJ23nGyoxo) | [The Mills](https://open.spotify.com/artist/7Fu8ZVPEqjAIJZNpCnX8nG) | [Useless](https://open.spotify.com/album/1H0cPlWmVTvFJVUDoq7VUQ) | 2:30 |
+| 50 | [Hung Jury](https://open.spotify.com/track/4XbAxmfVnbQ4IWLbpG4w9n) | [Exit Kid](https://open.spotify.com/artist/5ggEk1sdRrzR2Kv75GRfBZ) | [Basis](https://open.spotify.com/album/3WykiAOYsjnymVcxtWZofb) | 3:18 |
+| 51 | [Standing Here](https://open.spotify.com/track/2svRbVWvrBUvW1J935XBuC) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Just a Ride](https://open.spotify.com/album/5rWu7OxkpzwMMXZmaNqsgn) | 4:02 |
+| 52 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
+| 53 | [One Pill](https://open.spotify.com/track/0dbPddX5UemiR1aoVBKY9r) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [One Pill](https://open.spotify.com/album/0jbyDsbuvna46mJX3vPIcy) | 2:56 |
+| 54 | [I Feel Fine](https://open.spotify.com/track/0CfTEKNclPW4aJ23nGyoxo) | [The Mills](https://open.spotify.com/artist/7Fu8ZVPEqjAIJZNpCnX8nG) | [Useless](https://open.spotify.com/album/1H0cPlWmVTvFJVUDoq7VUQ) | 2:30 |
 
-Snapshot ID: `MTY0NTc0MzYwMCwwMDAwMDMwNjAwMDAwMTdmMmRmNjcyMzQwMDAwMDE3ZjI3MWEwMmEx`
+Snapshot ID: `MTY0NjE2NDE5NSwwMDAwMDMwNzAwMDAwMTdmNDcwODM4NzcwMDAwMDE3ZjI3MWEwMmEx`

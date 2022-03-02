@@ -6,6 +6,42 @@
   "tracks": [
     {
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/5xdEIdeZPrbIrnNjaDa2LQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/07ImVpWJfK77AqgKtAQAme"
+    },
+    {
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/5N10k1tVLDpLhYE9Ojz7dY"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181422,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/4TU5I4gmEwDjcOuEAMCBQB"
+    },
+    {
+      "album": {
         "name": "Remembering Me",
         "url": "https://open.spotify.com/album/4dziAM5y6HeViXiF5bAGbK"
       },
@@ -43,7 +79,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 380928,
       "name": "Anthem of Our Souls",
       "url": "https://open.spotify.com/track/3yDOQZjvEI3SVSCWeY5GcV"
@@ -65,7 +101,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale)",
       "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
@@ -101,7 +137,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 213976,
       "name": "Be the Light (Radio Edit)",
       "url": "https://open.spotify.com/track/62O09SIJyoBvEEvI8XnJtl"
@@ -155,7 +191,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 186200,
       "name": "Bigger Story",
       "url": "https://open.spotify.com/track/012DUuLdefLSpuOvf3StFg"
@@ -181,6 +217,28 @@
       "duration_ms": 146020,
       "name": "Burn The Ships (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z"
+    },
+    {
+      "album": {
+        "name": "Call Of The Wild",
+        "url": "https://open.spotify.com/album/7911Oc9rua6FbPHBfjG4BS"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Call Of The Wild - Neon Feather Remix",
+      "url": "https://open.spotify.com/track/7G52lyjc0oVHHUn2AudnMZ"
     },
     {
       "album": {
@@ -220,6 +278,32 @@
     },
     {
       "album": {
+        "name": "Clear View (Remix)",
+        "url": "https://open.spotify.com/album/02tpfSEXtcYoAXk6JOA2H6"
+      },
+      "artists": [
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "Clear View (Remix)",
+      "url": "https://open.spotify.com/track/1OdEnDiOeNLQIqM8uKV5tu"
+    },
+    {
+      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/11UPUq8hVQ8xAP4sDVVaVw"
       },
@@ -235,10 +319,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/5cdVjOTp2QPOmYlFuCtkAP"
+    },
+    {
+      "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158198,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU"
     },
     {
       "album": {
@@ -253,7 +355,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 145074,
       "name": "DYSFUNCTIONAL",
       "url": "https://open.spotify.com/track/1Ul8uZz3foXwCasaCPgVZb"
@@ -275,7 +377,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 214038,
       "name": "Electric",
       "url": "https://open.spotify.com/track/7AQxzmkhwBJwgSYr0qQTVf"
@@ -333,7 +435,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 254026,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
@@ -416,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+    },
+    {
+      "album": {
         "name": "Friend Of Sinners",
         "url": "https://open.spotify.com/album/2X2zfQA7I9MI3KrU5yeZ2k"
       },
@@ -470,6 +590,46 @@
     },
     {
       "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/4YkSOIrrw4jBfs53MAvbu8"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        },
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165080,
+      "name": "Good Day (feat. Social Club Misfits)",
+      "url": "https://open.spotify.com/track/382CUuS56h9lajPb215LuP"
+    },
+    {
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2otqZVvW83kij45qpJaipl"
+    },
+    {
+      "album": {
         "name": "Good Friend",
         "url": "https://open.spotify.com/album/4IggY2CGPgR4IX6LHoFoT5"
       },
@@ -481,7 +641,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 171546,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK"
@@ -507,6 +667,24 @@
       "duration_ms": 224634,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
+    },
+    {
+      "album": {
+        "name": "Godsend",
+        "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
     },
     {
       "album": {
@@ -568,6 +746,28 @@
     },
     {
       "album": {
+        "name": "Higher (HYMN Remix)",
+        "url": "https://open.spotify.com/album/08xXt5aiOTpxzJ299vhbdB"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        },
+        {
+          "name": "HYMN",
+          "url": "https://open.spotify.com/artist/4I82kEjicS6qdfnEqC8tbJ"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206227,
+      "name": "Higher - HYMN Remix",
+      "url": "https://open.spotify.com/track/5mGfNohrEXnZOXRiA6wnXS"
+    },
+    {
+      "album": {
         "name": "Episode 1 - EP",
         "url": "https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx"
       },
@@ -583,6 +783,24 @@
       "duration_ms": 186213,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf"
+    },
+    {
+      "album": {
+        "name": "Higher Than Mine",
+        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185062,
+      "name": "Higher Than Mine",
+      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
     },
     {
       "album": {
@@ -651,7 +869,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 199757,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/62sxM2Uha39CysCoVcoGKT"
@@ -756,6 +974,42 @@
     },
     {
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/2xWjpqfAtDlFdmbKYpAl8Y"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/5xv9rwOC7YZC2Gv7XFfJM6"
+    },
+    {
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/3UOCEOeOpQEcLithw3QCF8"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222159,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/3tPJHHygrSqPgZPoAxON8B"
+    },
+    {
+      "album": {
         "name": "LIFE IS GOOD",
         "url": "https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N"
       },
@@ -775,6 +1029,42 @@
       "duration_ms": 187871,
       "name": "LIFE IS GOOD",
       "url": "https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/6UDHIPpyN6BCVumCrZ7r4G"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/4yw6kmacxlzs42Lg3zvRkJ"
+    },
+    {
+      "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210697,
+      "name": "Like You Love Me",
+      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
     },
     {
       "album": {
@@ -829,10 +1119,40 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 260331,
       "name": "Miracle (Live)",
       "url": "https://open.spotify.com/track/0lEqGUzVc5hPbtItKYaVrb"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5AmXZU3x9PMA0p5Y5pD9C4"
+      },
+      "artists": [
+        {
+          "name": "Platon Emil",
+          "url": "https://open.spotify.com/artist/08WKaltWCl4lLaEq0UvYeQ"
+        },
+        {
+          "name": "Stefan Nixdorf",
+          "url": "https://open.spotify.com/artist/1vSbKVRsNhyZ3fjC66vraJ"
+        },
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        },
+        {
+          "name": "Kristen Hicks",
+          "url": "https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213410,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp"
     },
     {
       "album": {
@@ -847,7 +1167,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 254464,
       "name": "More Than Enough (Studio)",
       "url": "https://open.spotify.com/track/5Z5TKmLIeZZHazfNYajEcf"
@@ -905,7 +1225,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 233024,
       "name": "Never Let You Go - Live",
       "url": "https://open.spotify.com/track/6g3zF52ZzbTL3eu7lxxsoQ"
@@ -945,10 +1265,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 174573,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/16HcQdDA5srhtubE1iahCF"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "album": {
@@ -971,6 +1309,24 @@
       "duration_ms": 219186,
       "name": "Not Today - Remix",
       "url": "https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/32gl65iGiX83BcWQtohszk"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "NOW!",
+      "url": "https://open.spotify.com/track/3zQTibEtR6c4c0MaOjnrNb"
     },
     {
       "album": {
@@ -1043,7 +1399,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 194526,
       "name": "Sanctuary - Neon Feather Remix",
       "url": "https://open.spotify.com/track/22VXDtneDqNVmNxt9FGFaB"
@@ -1090,6 +1446,32 @@
     },
     {
       "album": {
+        "name": "Stay (Remix) [feat. Eris Ford]",
+        "url": "https://open.spotify.com/album/6cZRxLsUIWMricmggksk3T"
+      },
+      "artists": [
+        {
+          "name": "Quinten Coblentz",
+          "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
+        },
+        {
+          "name": "GIDI",
+          "url": "https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI"
+        },
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Stay (feat. Eris Ford) - Remix",
+      "url": "https://open.spotify.com/track/6jxmiJbjn6pH8nxEKCFw72"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4VBXA24rGMiOJEviWRofgS"
       },
@@ -1101,7 +1483,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 199304,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1PqDvk6t4pI1kAWWjvxVYU"
@@ -1119,7 +1501,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 197300,
       "name": "Stuck Inside My Head - Single Mix",
       "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
@@ -1144,6 +1526,28 @@
     },
     {
       "album": {
+        "name": "Take up My Cross",
+        "url": "https://open.spotify.com/album/57anwGoRcq8db6qLSp5XB9"
+      },
+      "artists": [
+        {
+          "name": "Canyon Worship",
+          "url": "https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh"
+        },
+        {
+          "name": "Amanda Riffe",
+          "url": "https://open.spotify.com/artist/5HM5gxgsOPrWixDWTHY4q1"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210355,
+      "name": "Take up My Cross",
+      "url": "https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6"
+    },
+    {
+      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -1162,6 +1566,28 @@
     },
     {
       "album": {
+        "name": "Worship: The Remix Project, Vol. 3",
+        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Skye Reedy",
+          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236025,
+      "name": "The Blessing - Reyer Remix",
+      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
+    },
+    {
+      "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/7xXyEzdawnwduIZDPw4Bxh"
       },
@@ -1173,7 +1599,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 172598,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW"
@@ -1191,7 +1617,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
@@ -1260,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "album": {
         "name": "Where the Light Dances",
         "url": "https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP"
       },
@@ -1271,7 +1715,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 218965,
       "name": "Where the Light Dances",
       "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
@@ -1395,7 +1839,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 193809,
       "name": "Working On It",
       "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
@@ -1431,7 +1875,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 180600,
       "name": "You Tell Me",
       "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"

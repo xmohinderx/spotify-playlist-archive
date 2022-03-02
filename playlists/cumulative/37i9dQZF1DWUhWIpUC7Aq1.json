@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Nino Rojo",
+        "url": "https://open.spotify.com/album/4ZMzm0EaZcpkCH8L3hIY6t"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134373,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/31cI8gcEKRIMRjuGzPe4W1"
+    },
+    {
+      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
       },
@@ -277,7 +295,7 @@
     {
       "album": {
         "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+        "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
       },
       "artists": [
         {
@@ -288,6 +306,24 @@
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 353946,
+      "name": "Casimir Pulaski Day",
+      "url": "https://open.spotify.com/track/1u1YU1LE0FWHFOHpR2iXua"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-02",
       "duration_ms": 353946,
       "name": "Casimir Pulaski Day",
       "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
@@ -413,10 +449,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 348893,
       "name": "Elephant Gun",
       "url": "https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz"
+    },
+    {
+      "album": {
+        "name": "Where'd You Learn To Kiss That Way?",
+        "url": "https://open.spotify.com/album/1Lr3IdIToxtcNiCLcf04MB"
+      },
+      "artists": [
+        {
+          "name": "The Field Mice",
+          "url": "https://open.spotify.com/artist/3KH6DLHeoFZgVbtKiLXb6L"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Emma's House",
+      "url": "https://open.spotify.com/track/7IeinCxS7XtnmYKE1FBkRe"
     },
     {
       "album": {
@@ -431,7 +485,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 209386,
       "name": "Every Single Night",
       "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
@@ -731,7 +785,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 207880,
       "name": "Hotel Song",
       "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
@@ -839,7 +893,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 196240,
       "name": "Keep It Clean",
       "url": "https://open.spotify.com/track/0hPHOFbf3uKhBL2VaZ9YGn"
@@ -861,6 +915,24 @@
       "duration_ms": 183173,
       "name": "Let's Talk About Spaceships",
       "url": "https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz"
+    },
+    {
+      "album": {
+        "name": "Volume Two",
+        "url": "https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "Lingering Still",
+      "url": "https://open.spotify.com/track/33U7GUYHZDkEYtEXt1Sg8P"
     },
     {
       "album": {
@@ -933,6 +1005,24 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "album": {
+        "name": "Widow City",
+        "url": "https://open.spotify.com/album/1hJ5tTaozVlnfu2Uif1pSn"
+      },
+      "artists": [
+        {
+          "name": "The Fiery Furnaces",
+          "url": "https://open.spotify.com/artist/03G0pJHLHj7FRuCV5OYzpv"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201706,
+      "name": "My Egyptian Grammar",
+      "url": "https://open.spotify.com/track/2Ak3Seew0GuwIsJSqd5mMF"
     },
     {
       "album": {
@@ -1242,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261253,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+    },
+    {
+      "album": {
         "name": "Juno - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
       },
@@ -1325,7 +1433,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 195013,
       "name": "That Green Gentleman (Things Have Changed)",
       "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"

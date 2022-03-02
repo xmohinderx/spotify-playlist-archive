@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NZFqAdV1lo.md) - [plain]
 
 > Some advice is best taken with a pillar of salt\. \[Warning: Explicit Content\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,519 likes - 26 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,518 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

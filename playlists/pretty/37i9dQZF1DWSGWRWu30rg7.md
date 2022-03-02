@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Mezzaluna\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,127 likes - 89 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,111 likes - 89 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 23 | [Milky Way](https://open.spotify.com/track/7HcgfyFCYG8iLRGpSRslwS) | [Antartick](https://open.spotify.com/artist/6eGS6zJgd1ltsAvGbVskmc) | [Milky Way](https://open.spotify.com/album/4kA2NVCoVUB4X2rv0WEO73) | 3:19 |
 | 24 | [Bukan Untukmu](https://open.spotify.com/track/6B99cGhUpt77JPJsGKMpZo) | [Soraya Ghyna](https://open.spotify.com/artist/52cFdhGlbTaJd19QGf7t8m) | [Melekat](https://open.spotify.com/album/04n4gCylGp36i1TM32pCRf) | 4:43 |
 | 25 | [HEALING](https://open.spotify.com/track/21HyRSI1QHYIPkxWWqQAxG) | [MIRO](https://open.spotify.com/artist/6sV7aktTOOdO9fWAlwAlx8) | [HEALING](https://open.spotify.com/album/7d0QWFDtUjMFZW8RxNlHfR) | 3:30 |
-| 26 | [fantasy](https://open.spotify.com/track/53WDzDaEqad3bkkcjAtQ8N) | [TRU](https://open.spotify.com/artist/3fTnOsnzB3qr1aVOAIAAR1) | [1725](https://open.spotify.com/album/2Kk2e2kCMsjQQugdFPDg0l) | 4:14 |
+| 26 | [fantasy](https://open.spotify.com/track/53WDzDaEqad3bkkcjAtQ8N) | [TRU](https://open.spotify.com/artist/3fTnOsnzB3qr1aVOAIAAR1) | [1725](https://open.spotify.com/album/2Kk2e2kCMsjQQugdFPDg0l) | 4:10 |
 | 27 | [FEELGOOD](https://open.spotify.com/track/1QXiyXpx5rOQRdAgSvNJ5X) | [Outsiderbxck](https://open.spotify.com/artist/57MzQNdRumtgm635H3zx9T), [Prince Firman](https://open.spotify.com/artist/5fOmKBU33yyTthY1XP5Qim) | [FEELGOOD](https://open.spotify.com/album/6K1mwTluVsiKZBPCQcHLn1) | 3:08 |
 | 28 | [just a friend](https://open.spotify.com/track/4cncYULx5UmMmeuKRmB8LV) | [SVVARA](https://open.spotify.com/artist/7CRyUCbjNhERW7HTevMD7M) | [Chromatic Side](https://open.spotify.com/album/4IOJtR40Cj7RdcLAk8Y5Xu) | 4:37 |
 | 29 | [Forever Yours](https://open.spotify.com/track/2FeG7fbhVNlVxWXx9uDXqC) | [Flowerbaby](https://open.spotify.com/artist/5fu2fvrcBE90L1GbRmsj1q) | [MIRACLES](https://open.spotify.com/album/19o1y2WqR88st1zakP8sBc) | 3:39 |

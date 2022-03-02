@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Josh Kerr
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Peytan Porter
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [The Only Thing](https://open.spotify.com/track/7yzUuwUZk07zmeRNTPeIYQ) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/1nH2M5l54JzGUaWvJzDqVY) | 3:09 | 2021-12-31 |  |
 | [The Road](https://open.spotify.com/track/4FZI7N03gZMZY59QEqnC7I) | [Cort Carpenter](https://open.spotify.com/artist/6lfRjPeIhzhxRovhoTGtsn) | [The Road](https://open.spotify.com/album/072rBBXzlxzLJDqy80hP6q) | 3:07 | 2021-12-31 | 2022-02-12 |
 | [The Way Back](https://open.spotify.com/track/4ZyzYYf3r0D03aFWInHHNo) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [The Way Back](https://open.spotify.com/album/7BzyMdpi9CcAWuojOVrrlu) | 3:00 | 2021-12-31 |  |
+| [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 | 2022-03-01 |  |
 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 | 2021-12-31 |  |
 | [Think You Know Someone](https://open.spotify.com/track/3NChyBhQpbHKzIHeyfZT5w) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Think You Know Someone](https://open.spotify.com/album/73AKWFQnLqG0Yo9e9PP1he) | 3:12 | 2021-12-31 | 2022-02-12 |
 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 | 2021-12-31 | 2022-02-12 |

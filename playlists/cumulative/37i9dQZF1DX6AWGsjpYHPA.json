@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "ANTH01",
+        "url": "https://open.spotify.com/album/5ZscjYDLx3luVuDWPMkT3x"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403080,
+      "name": "Another Girl",
+      "url": "https://open.spotify.com/track/0GREcaqrfl68u5hW5FeL8p"
+    },
+    {
+      "album": {
         "name": "Um Viol\u00e3o em Primeiro Plano",
         "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
       },
@@ -309,7 +327,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 253843,
       "name": "Bout Dat",
       "url": "https://open.spotify.com/track/3otHUuZtcrhhc92oJlcKyR"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 350933,
       "name": "Check up Your Head",
       "url": "https://open.spotify.com/track/65hmRaQv17S8tWAHfYuX90"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 316866,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 284666,
       "name": "Cosmosis",
       "url": "https://open.spotify.com/track/4q2Jdr5xFZPcNVMtsxjW6v"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 324271,
       "name": "Desert Mule",
       "url": "https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 134600,
       "name": "Dirtknock",
       "url": "https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/0CarV7bYpdZomES1VtPQDh"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 180500,
       "name": "Fonction Naturelle",
       "url": "https://open.spotify.com/track/6WhWYLxIDeUDTtKmp8F7mX"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 198626,
       "name": "Gospel For A New Century",
       "url": "https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 185929,
       "name": "Human Race",
       "url": "https://open.spotify.com/track/2pLqaNLScfyPB76HX0cnL4"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 303880,
       "name": "I Heard the Voice of Music Say",
       "url": "https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 233892,
       "name": "I Tcho Tchass",
       "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 213960,
       "name": "Jimtastic Blues",
       "url": "https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 155634,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 193401,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 259665,
       "name": "Me veo volar",
       "url": "https://open.spotify.com/track/684XSgemiOaXwuRP5fbJSr"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 314693,
       "name": "My Queen Is Albertina Sisulu",
       "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 274213,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 213947,
       "name": "No Gangster",
       "url": "https://open.spotify.com/track/5otluRxna3pAB35cJoiKgA"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 256250,
       "name": "NYCBB",
       "url": "https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 277245,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4Bigp1M2cas5ocOo0nO8kn"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 391111,
       "name": "Outlook Remains Untouched",
       "url": "https://open.spotify.com/track/5XkFY9AdesErbMzRpBo4Ja"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 157043,
       "name": "Raise It Up",
       "url": "https://open.spotify.com/track/5mS0JXt10eEjAeC7wVhEzU"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 341432,
       "name": "Raw Chef",
       "url": "https://open.spotify.com/track/3KfNOSIKV6kBpx6yesYEkC"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 166200,
       "name": "Romeo (feat. Bas)",
       "url": "https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 218226,
       "name": "Safe In My Arms",
       "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 280993,
       "name": "Say What You Will",
       "url": "https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 237240,
       "name": "Send In The Clowns",
       "url": "https://open.spotify.com/track/5bRvzswH5BS2eFLUu5t1WD"
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 194257,
       "name": "Snowing Throw - Lose Again",
       "url": "https://open.spotify.com/track/5ilb0B5bZwMxS25e6SLrBb"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 208518,
       "name": "Suffer and Swim",
       "url": "https://open.spotify.com/track/5FAfSZWgGvX8feO5M0mBUe"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 290847,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
@@ -2687,7 +2705,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 321204,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 273866,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
@@ -2785,7 +2803,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 362481,
       "name": "Tjomme - DJ Koze Remix",
       "url": "https://open.spotify.com/track/01EWHtr2PejHSQMwh3Z4G9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Zaquin com Mc Rick, Chefin e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731,064 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731,197 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Festa De Verdade](https://open.spotify.com/track/3GlAMCG6vRETnz151WWvUP) | [Maellen](https://open.spotify.com/artist/0HMN7572MhSLJU8hM6sA3I), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Festa De Verdade](https://open.spotify.com/album/5HbK0He7AZ7co4AVrpJPlT) | 2:58 |
 | 42 | [Quem Tu Gosta Que Bota Em Mim](https://open.spotify.com/track/16s6JT9jS0rQ0GIgmB3IbX) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg) | [Quem Tu Gosta Que Bota Em Mim](https://open.spotify.com/album/79bEnJfICypFHprGvHeGFV) | 2:12 |
 | 43 | [Bandida](https://open.spotify.com/track/4rMeJJ9tmc4GLIpVUoJ84y) | [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0) | [Bandida](https://open.spotify.com/album/11kKOWKBsT5B3s5mRLUwtz) | 2:53 |
-| 44 | [Eu Pratico, Ela Pratica](https://open.spotify.com/track/5cPm8IW6YnXYhV3gjsSNjx) | [Mc TK](https://open.spotify.com/artist/4Pp7UGMhS1lI05WCQ1NWCQ), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Eu Pratico, Ela Pratica](https://open.spotify.com/album/3BkGuEZjDdOSQINJyPTCqm) | 2:32 |
+| 44 | [Eu Pratico, Ela Pratica](https://open.spotify.com/track/5cPm8IW6YnXYhV3gjsSNjx) | [Mc Tk](https://open.spotify.com/artist/5D10dhAkzhBFMSDrmdE5mD), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Eu Pratico, Ela Pratica](https://open.spotify.com/album/3BkGuEZjDdOSQINJyPTCqm) | 2:32 |
 | 45 | [Minha Ex Me Odeia](https://open.spotify.com/track/7i3QcmtAlcyLIfpXgo7BAm) | [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR), [MC Belga ST](https://open.spotify.com/artist/6vSSGJblDBRsfGL5RfsUVm) | [Minha Ex Me Odeia](https://open.spotify.com/album/2lzUQbcWoWllrmu0eb95x6) | 3:45 |
 | 46 | [Hora do Show](https://open.spotify.com/track/3ijpEuK3ixwIsoR1nZw3Uz) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Hora do Show](https://open.spotify.com/album/6V400GqGeys1UV8WaH6MMv) | 2:39 |
 | 47 | [Larirá \(feat\. Kayuá\)](https://open.spotify.com/track/0Te8Wu8PdhJcUPGsLjrws9) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH) | [Larirá \(feat\. Kayuá\)](https://open.spotify.com/album/6G0inwBWqxewgIr7ZE1PW5) | 2:55 |

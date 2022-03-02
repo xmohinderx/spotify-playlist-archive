@@ -3726,6 +3726,32 @@
     },
     {
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Lil B",
+          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237699,
+      "name": "Fair Chance",
+      "url": "https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn"
+    },
+    {
+      "album": {
         "name": "LAUNCH",
         "url": "https://open.spotify.com/album/6y30jtuAasNVSYRjeFJjWC"
       },
@@ -9997,6 +10023,36 @@
       "duration_ms": 331080,
       "name": "Standing In The Middle Of The Field",
       "url": "https://open.spotify.com/track/26tlnKBG3LeFAX1sLysAev"
+    },
+    {
+      "album": {
+        "name": "Star (A$AP Ferg Remix)",
+        "url": "https://open.spotify.com/album/3fIOgH4gojdfs7MithEkkm"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "Mono/Poly",
+          "url": "https://open.spotify.com/artist/0rKc6ImQCM6pmYrQj5zcra"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277920,
+      "name": "Star - A$AP Ferg Remix",
+      "url": "https://open.spotify.com/track/5Zut03Lmj0Qf48FdVObACI"
     },
     {
       "album": {

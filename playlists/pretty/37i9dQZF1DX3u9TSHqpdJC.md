@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: TAELA\. Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,465 likes - 174 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,537 likes - 174 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

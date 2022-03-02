@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 224000,
       "name": "1.28.19",
       "url": "https://open.spotify.com/track/0Wjczjn4UW1DBl0Hzt9bkx"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 180673,
       "name": "ACAB (feat. 7000, redveil, Chance the Rapper)",
       "url": "https://open.spotify.com/track/5pUSYF0Ml7XtLCmGy2b8Wy"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 269418,
       "name": "Contact",
       "url": "https://open.spotify.com/track/7ypuC93uVLeCbU58TtKQg9"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 185344,
       "name": "Credit (Can I?)",
       "url": "https://open.spotify.com/track/03FzQCFcXav5HVYg7T7Gug"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 164943,
       "name": "Herringbone",
       "url": "https://open.spotify.com/track/0ekkYaWO7OR9RBWtOcGPKM"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 158389,
       "name": "Live a Little",
       "url": "https://open.spotify.com/track/6B1TtaLjTJ3ZpxrstljeMV"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/4ROzAiT7TDnLNwZm1LWepl"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 190838,
       "name": "Peso",
       "url": "https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO"
@@ -1739,10 +1739,32 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 174239,
       "name": "Popeye",
       "url": "https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd"
+    },
+    {
+      "album": {
+        "name": "Power Power (feat. Shaun Ross)",
+        "url": "https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Shaun Ross",
+          "url": "https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Power Power (feat. Shaun Ross)",
+      "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
     },
     {
       "album": {
@@ -2035,7 +2057,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 205320,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/0MbH6aXMUVPHDiBHiuhhKx"
@@ -2445,7 +2467,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 188839,
       "name": "Why You in LA",
       "url": "https://open.spotify.com/track/1QjDtSyFQhYX9YB2h7xS8F"
@@ -2587,7 +2609,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 210430,
       "name": "Zatoichi [Feat. slowthai]",
       "url": "https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6"

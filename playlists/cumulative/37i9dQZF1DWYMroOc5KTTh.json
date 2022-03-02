@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 246640,
       "name": "A Place Called",
       "url": "https://open.spotify.com/track/4EobWHoWFV1c6wbyBZ8qeo"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 289670,
       "name": "Ain't Got Time",
       "url": "https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 229893,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 231352,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/79g4Bb5vUU63OfjXG2j9Af"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 229090,
       "name": "Big Bad Mood (feat. Miraa May)",
       "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 214853,
       "name": "Bunny",
       "url": "https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 245601,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 204878,
       "name": "Diana (You Don't Even Know)",
       "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/0hRRNHeSZv2x6pHCcXPAct"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 273853,
       "name": "Full Attention",
       "url": "https://open.spotify.com/track/1kSJQOaDfJZk8ZL4D5ysBd"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 279059,
       "name": "GO (Detroit Swindle Remix)",
       "url": "https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm"
@@ -1389,10 +1389,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 220080,
       "name": "Heaven - Edit",
       "url": "https://open.spotify.com/track/0TQPsmBbAKI6mIs1BjGJkI"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
       "album": {
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 194103,
       "name": "I Don't Wanna Lose You - Edit",
       "url": "https://open.spotify.com/track/7ErWxcxjkfmRXiL0CD08FN"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 201681,
       "name": "I Think You Should Know",
       "url": "https://open.spotify.com/track/0MRCdC2CM5hDqX0udNEuBr"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 425136,
       "name": "In Due Time",
       "url": "https://open.spotify.com/track/6RJwd1g1aVRSCBQW2PJxPq"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 236196,
       "name": "Inner Drum",
       "url": "https://open.spotify.com/track/6F3jrCP8aRbAQ1OUWvKurZ"
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 164874,
       "name": "Joyfulness - Radio Edit",
       "url": "https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 186954,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/7zg74P8yN5Z9dW1LI4oPpd"
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 238186,
       "name": "Lore",
       "url": "https://open.spotify.com/track/0QswOQrUWKn93eOYBh6wWC"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 218046,
       "name": "Make It Better",
       "url": "https://open.spotify.com/track/13BOL5TQDF3mEZ9uRh25ud"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 263878,
       "name": "Ndeko Solo",
       "url": "https://open.spotify.com/track/3fsaBPSlFoPMx3hnO0vmL9"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 304486,
       "name": "New Gods - Ron Basejam Remix",
       "url": "https://open.spotify.com/track/3Pckvky9FxWNjlmHa22QuB"
@@ -2529,7 +2547,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 166958,
       "name": "Red Flashing Lights",
       "url": "https://open.spotify.com/track/6RdBOKVp5WxSoG0xt2WnNq"
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 269000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 217768,
       "name": "Skylab District",
       "url": "https://open.spotify.com/track/5N9ORjMVySSfAbW3NbEHeX"
@@ -2969,7 +2987,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 215979,
       "name": "The Last Time I Saw You",
       "url": "https://open.spotify.com/track/6gHcbKtydW4jO5scP8J0qn"
@@ -3107,7 +3125,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 457627,
       "name": "Untitled Needs",
       "url": "https://open.spotify.com/track/5FA3tfPhY3BSKr4vr9OVON"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 400866,
       "name": "We Found It (feat. Bakar)",
       "url": "https://open.spotify.com/track/0tksfbNUnGKvpGI9FtHmKO"

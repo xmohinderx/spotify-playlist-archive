@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "60-40",
+        "url": "https://open.spotify.com/album/3DQUtoy3TQs7Ctkr3jvGAf"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250715,
+      "name": "60-40",
+      "url": "https://open.spotify.com/track/18ajehCOx17pVPxxHe8Vd7"
+    },
+    {
+      "album": {
         "name": "A Tu Manera (Remix)",
         "url": "https://open.spotify.com/album/0JCTdXqGfjQObVF4ilRZ31"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 161495,
       "name": "Buena Onda",
       "url": "https://open.spotify.com/track/2BvGBY2zBcEptXP5K8pRuy"
@@ -236,6 +254,24 @@
     },
     {
       "album": {
+        "name": "Cielo Perdido",
+        "url": "https://open.spotify.com/album/0Qg8Brq5SedIFFlaMivUPD"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229598,
+      "name": "Cielo Perdido",
+      "url": "https://open.spotify.com/track/1OnJP2Aed5r50I4FXz0TW5"
+    },
+    {
+      "album": {
         "name": "Con Todo Remix",
         "url": "https://open.spotify.com/album/3ORV3dPWCFfgitWJFcMbOq"
       },
@@ -277,10 +313,32 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 172465,
       "name": "C\u00f3mo Dejarte",
       "url": "https://open.spotify.com/track/3UyqBs5XB58GJ1H98wruKN"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Pa\u2019 All\u00e1",
+        "url": "https://open.spotify.com/album/41SvsYRO8fVE8zsLNxfk8J"
+      },
+      "artists": [
+        {
+          "name": "Imprenta Fragante",
+          "url": "https://open.spotify.com/artist/0aRuSv9WkCvxeZOgYJL9G3"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226687,
+      "name": "De Aqu\u00ed Pa\u2019 All\u00e1",
+      "url": "https://open.spotify.com/track/0be8ZrVxq5jFl9ijZahHJE"
     },
     {
       "album": {
@@ -325,7 +383,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 187431,
       "name": "Diles",
       "url": "https://open.spotify.com/track/38Tj0qQJ9mJpL7seyMIEnW"
@@ -409,10 +467,40 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 198225,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/3gHaQEGp0cO2ZElmmVQXeg"
+    },
+    {
+      "album": {
+        "name": "Encontre Tu Amor (Remix)",
+        "url": "https://open.spotify.com/album/24zKAnw9dTligp97G89XeC"
+      },
+      "artists": [
+        {
+          "name": "Mikey A",
+          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/0fYfYphxFJlUiyqGvvNlkF"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263478,
+      "name": "Encontre Tu Amor (Remix)",
+      "url": "https://open.spotify.com/track/4U4IsZZurZhVnkxnkzXqsJ"
     },
     {
       "album": {
@@ -435,7 +523,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
@@ -457,7 +545,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 260000,
       "name": "Follow Jesus",
       "url": "https://open.spotify.com/track/1KCixu5SCW28FqvjoxjnVw"
@@ -501,7 +589,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 205333,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/0rLTlPI6pHkqaWD4aMgQGz"
@@ -537,7 +625,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 197308,
       "name": "Hablan y Hablan",
       "url": "https://open.spotify.com/track/5p61XRUgkdMrKslLpOSuw5"
@@ -559,6 +647,28 @@
       "duration_ms": 201600,
       "name": "Haremos",
       "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
+    },
+    {
+      "album": {
+        "name": "Hoy Yo Vivir\u00e9",
+        "url": "https://open.spotify.com/album/3PT3BZNuHKwbhyZUzC02Xq"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206524,
+      "name": "Hoy Yo Vivir\u00e9",
+      "url": "https://open.spotify.com/track/2E18zSJ5sMQKomyClmmzPI"
     },
     {
       "album": {
@@ -613,10 +723,32 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 157000,
       "name": "Inmenso",
       "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
+    },
+    {
+      "album": {
+        "name": "Isa\u00edas 60:2",
+        "url": "https://open.spotify.com/album/3l04X9nIiiHTH9LfHH75Dx"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234559,
+      "name": "Isa\u00edas 60:2",
+      "url": "https://open.spotify.com/track/7bjHbd2HCnf3m4vxFvdYcJ"
     },
     {
       "album": {
@@ -686,6 +818,64 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/3wTWogljdWM0KKN8jhr3gm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/5IiNGJpeajwa7B7QuR0FpS"
+    },
+    {
+      "album": {
+        "name": "La Media Vuelta",
+        "url": "https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R"
+    },
+    {
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/2M253GMXCAKTKLtm2uGdp2"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "Latinos",
+      "url": "https://open.spotify.com/track/0tLbFnGtKIR37kamt4qiAZ"
+    },
+    {
+      "album": {
         "name": "Lente",
         "url": "https://open.spotify.com/album/5ERkznsAlQ08Ha962OBMwr"
       },
@@ -733,10 +923,28 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 201832,
       "name": "Lo Mejor de Mi",
       "url": "https://open.spotify.com/track/0I8hQkFykJrXbJgWUlhjGx"
+    },
+    {
+      "album": {
+        "name": "Antivirus",
+        "url": "https://open.spotify.com/album/4w7Slsv9LjzUCJRafERJx7"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211696,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/7A8j7qaoYsKa38Cvg64AZz"
     },
     {
       "album": {
@@ -791,6 +999,24 @@
       "duration_ms": 202792,
       "name": "Me Han Hablado",
       "url": "https://open.spotify.com/track/3GNQflg4ttd3aAuJjqXX2w"
+    },
+    {
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/3NS0k92g00iLsABc1dvY8i"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188673,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/1GHsomI2FA0uTisZwUccd5"
     },
     {
       "album": {
@@ -853,6 +1079,28 @@
       "duration_ms": 199210,
       "name": "Mujer Virtuosa",
       "url": "https://open.spotify.com/track/2TvBh2DIHWl0s1aycqWFP6"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206230,
+      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
+      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
     },
     {
       "album": {
@@ -960,6 +1208,32 @@
     },
     {
       "album": {
+        "name": "No Lo Merezco",
+        "url": "https://open.spotify.com/album/3L2AyymWN8gptTDXXAwoiA"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Jeiby",
+          "url": "https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243830,
+      "name": "No Lo Merezco",
+      "url": "https://open.spotify.com/track/27aZifmFpZjZIvlablsEnt"
+    },
+    {
+      "album": {
         "name": "No M\u00e1s",
         "url": "https://open.spotify.com/album/1Yu6bKHy545AZSh1rb4sWz"
       },
@@ -1029,7 +1303,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 269464,
       "name": "Oveja Negra",
       "url": "https://open.spotify.com/track/0L43hNiLima6doVgzkqVLx"
@@ -1113,7 +1387,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 220800,
       "name": "Ponte Happy :)",
       "url": "https://open.spotify.com/track/3kcAeZsJQnZFndYM5yTC6G"
@@ -1153,7 +1427,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 227001,
       "name": "Revol\u00fa",
       "url": "https://open.spotify.com/track/1zaQLu8zWH6C3BZXR4vS6I"
@@ -1179,7 +1453,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 203368,
       "name": "Saben Quienes Somos",
       "url": "https://open.spotify.com/track/3oSBdeTbpDMXRZF057e40v"
@@ -1201,6 +1475,28 @@
       "duration_ms": 174840,
       "name": "Santo",
       "url": "https://open.spotify.com/track/0I0oOv4kxYmZTElXj0FOxQ"
+    },
+    {
+      "album": {
+        "name": "Se Enamor\u00f3",
+        "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Se Enamor\u00f3",
+      "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
     },
     {
       "album": {
@@ -1237,7 +1533,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 190290,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/34XLtADuzGmudXQtdReX26"
@@ -1291,7 +1587,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 205215,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/5wqbq3itqGpnGBHHOaXoF7"
@@ -1339,7 +1635,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 213798,
       "name": "Sin Exigir",
       "url": "https://open.spotify.com/track/2ryqtwvpQWCsys0DAXl1In"
@@ -1408,6 +1704,24 @@
     },
     {
       "album": {
+        "name": "Tiene Que Doler",
+        "url": "https://open.spotify.com/album/0dmqPNCl9Nm3rvB2pIwadA"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252201,
+      "name": "Tiene Que Doler",
+      "url": "https://open.spotify.com/track/0bDyORtU8rnoeGiL6swHVB"
+    },
+    {
+      "album": {
         "name": "Toca La Guitarra Viejo",
         "url": "https://open.spotify.com/album/4BtGTrVPKP0FIV95gzoFur"
       },
@@ -1459,6 +1773,36 @@
       "duration_ms": 214204,
       "name": "Todo",
       "url": "https://open.spotify.com/track/4Ic1a9OYYRpTrfSN15xGIN"
+    },
+    {
+      "album": {
+        "name": "Todo Es Mejor (Remix)",
+        "url": "https://open.spotify.com/album/7JuhdM5Q9H80rpyuC3FV9T"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "JxA Music",
+          "url": "https://open.spotify.com/artist/3016RUT7jzAjbJi9Eqz2rX"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237900,
+      "name": "Todo Es Mejor - Remix",
+      "url": "https://open.spotify.com/track/3nCaGrRdXCmTiaLkVAP9Gm"
     },
     {
       "album": {
@@ -1539,6 +1883,28 @@
       "duration_ms": 198008,
       "name": "Tu Eres Mi Hijo",
       "url": "https://open.spotify.com/track/6PhqbUNGXfbLwztItdWT05"
+    },
+    {
+      "album": {
+        "name": "Tu Me Das",
+        "url": "https://open.spotify.com/album/3udqLD9rDbFnWSWF8rHTsl"
+      },
+      "artists": [
+        {
+          "name": "Josue Escogido",
+          "url": "https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "Tu Me Das",
+      "url": "https://open.spotify.com/track/31gIVLeOeNWqiswcAoFCpS"
     },
     {
       "album": {

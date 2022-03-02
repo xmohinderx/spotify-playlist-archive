@@ -1,13 +1,225 @@
 {
-  "description": "The country way of testifying. \nCover: Tenille Townes",
-  "num_followers": 243439,
+  "description": "The country way of testifying. \nCover: Brent Cobb",
+  "num_followers": 243496,
   "original_name": "Country by the Grace of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NzIzNiwwMDAwMDA4OTAwMDAwMTdmMmY1ZjFhNTMwMDAwMDE3ZWIyYThiZDEw",
+  "snapshot_id": "MTY0NjExMDgwMCwwMDAwMDA4YTAwMDAwMTdmNDNkOTc4ZjcwMDAwMDE3ZjNkOGMyNjQz",
   "tracks": [
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "Just a Closer Walk with Thee",
+        "url": "https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 220363,
+      "name": "Just a Closer Walk with Thee",
+      "url": "https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "Lord, I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 169317,
+      "name": "Lord, I Hope This Day Is Good",
+      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "Bettie James Gold Edition",
+        "url": "https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "If It Wasn't For Trucks",
+        "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Randy Owen",
+          "url": "https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Beat Up Bible",
+      "url": "https://open.spotify.com/track/5R7TAOPx2H0ImjCkdb4PXR"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "One More Hallelujah",
+        "url": "https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3"
+      },
+      "artists": [
+        {
+          "name": "Brennley Brown",
+          "url": "https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8"
+        }
+      ],
+      "duration_ms": 252231,
+      "name": "One More Hallelujah",
+      "url": "https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "Rubberband",
+        "url": "https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b"
+      },
+      "artists": [
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "How I Learned to Pray",
+      "url": "https://open.spotify.com/track/1zy9Ypjqd8TTxYsYEQOCy7"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "Bloodlines",
+        "url": "https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "duration_ms": 233213,
+      "name": "Bloodlines",
+      "url": "https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 235904,
+      "name": "Got Me (feat. Shane & Shane)",
+      "url": "https://open.spotify.com/track/0jPyxhlX59YdIqCc0soDwR"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/05XWUOLckWAk8WqIWZ18IV"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 256906,
+      "name": "There Is a God",
+      "url": "https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Church In A Chevy",
+      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
+    },
+    {
+      "added_at": "2022-02-25 05:33:56",
+      "album": {
+        "name": "The Struggle",
+        "url": "https://open.spotify.com/album/3YC3za841d6jr4Gkgi3Dx4"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 223076,
+      "name": "The Struggle",
+      "url": "https://open.spotify.com/track/0IH6d4yjydoocRdMxaiJpY"
+    },
     {
       "added_at": "2022-02-25 05:33:56",
       "album": {
@@ -319,22 +531,6 @@
     {
       "added_at": "2022-02-25 05:33:56",
       "album": {
-        "name": "Just a Closer Walk with Thee",
-        "url": "https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 220363,
-      "name": "Just a Closer Walk with Thee",
-      "url": "https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
         "name": "Day with Jesus",
         "url": "https://open.spotify.com/album/3KGAeln42pur213kCU0iHH"
       },
@@ -367,26 +563,6 @@
       "duration_ms": 191975,
       "name": "Finally Home (feat. Craig Morgan)",
       "url": "https://open.spotify.com/track/0TBkgBR2VLYeTG9ynsoIkm"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
-        "name": "If It Wasn't For Trucks",
-        "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Randy Owen",
-          "url": "https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77"
     },
     {
       "added_at": "2022-02-25 05:33:56",
@@ -475,46 +651,6 @@
     {
       "added_at": "2022-02-25 05:33:56",
       "album": {
-        "name": "Bettie James Gold Edition",
-        "url": "https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        },
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
-        "name": "The Struggle",
-        "url": "https://open.spotify.com/album/3YC3za841d6jr4Gkgi3Dx4"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 223076,
-      "name": "The Struggle",
-      "url": "https://open.spotify.com/track/0IH6d4yjydoocRdMxaiJpY"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
         "name": "Talking To God",
         "url": "https://open.spotify.com/album/7JgroVcKnQavSOJ0xzu2CA"
       },
@@ -575,22 +711,6 @@
       "duration_ms": 257360,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/3Rkk851fZjIsglV2jbBPDd"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Church In A Chevy",
-      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
     },
     {
       "added_at": "2022-02-25 05:33:56",
@@ -751,22 +871,6 @@
     {
       "added_at": "2022-02-25 05:33:56",
       "album": {
-        "name": "Bloodlines",
-        "url": "https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz"
-      },
-      "artists": [
-        {
-          "name": "Tim & The Glory Boys",
-          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
-        }
-      ],
-      "duration_ms": 233213,
-      "name": "Bloodlines",
-      "url": "https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
         "name": "Company's Comin'",
         "url": "https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm"
       },
@@ -787,18 +891,22 @@
     {
       "added_at": "2022-02-25 05:33:56",
       "album": {
-        "name": "Rubberband",
-        "url": "https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b"
+        "name": "Chris Tomlin & Friends: Summer EP",
+        "url": "https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z"
       },
       "artists": [
         {
-          "name": "Charlie Worsham",
-          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 260440,
-      "name": "How I Learned to Pray",
-      "url": "https://open.spotify.com/track/1zy9Ypjqd8TTxYsYEQOCy7"
+      "duration_ms": 201533,
+      "name": "Good To Be Loved By You (with Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu"
     },
     {
       "added_at": "2022-02-25 05:33:56",
@@ -919,26 +1027,6 @@
     {
       "added_at": "2022-02-25 05:33:56",
       "album": {
-        "name": "Lord, I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 169317,
-      "name": "Lord, I Hope This Day Is Good",
-      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr"
       },
@@ -1007,22 +1095,6 @@
     {
       "added_at": "2022-02-25 05:33:56",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/05XWUOLckWAk8WqIWZ18IV"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 256906,
-      "name": "There Is a God",
-      "url": "https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -1051,26 +1123,6 @@
       "duration_ms": 203200,
       "name": "I Saw God Today",
       "url": "https://open.spotify.com/track/7maV3I3KQNYpsOWYTOhGqn"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 235904,
-      "name": "Got Me (feat. Shane & Shane)",
-      "url": "https://open.spotify.com/track/0jPyxhlX59YdIqCc0soDwR"
     },
     {
       "added_at": "2022-02-25 05:33:56",
@@ -1163,22 +1215,6 @@
       "duration_ms": 198520,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
-        "name": "One More Hallelujah",
-        "url": "https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3"
-      },
-      "artists": [
-        {
-          "name": "Brennley Brown",
-          "url": "https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8"
-        }
-      ],
-      "duration_ms": 252231,
-      "name": "One More Hallelujah",
-      "url": "https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l"
     },
     {
       "added_at": "2022-02-25 05:33:56",
@@ -1355,22 +1391,6 @@
       "duration_ms": 196493,
       "name": "Pray About Everything",
       "url": "https://open.spotify.com/track/7eOizXz9BZ7Vc6Scgwh1hC"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Beat Up Bible",
-      "url": "https://open.spotify.com/track/5R7TAOPx2H0ImjCkdb4PXR"
     },
     {
       "added_at": "2022-02-25 05:33:56",
@@ -1591,26 +1611,6 @@
       "duration_ms": 201480,
       "name": "I Saw The Light",
       "url": "https://open.spotify.com/track/3S0dPaZYCax8OnwTFEoEPw"
-    },
-    {
-      "added_at": "2022-02-25 05:33:56",
-      "album": {
-        "name": "Chris Tomlin & Friends: Summer EP",
-        "url": "https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Good To Be Loved By You (with Tyler Hubbard)",
-      "url": "https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu"
     }
   ],
   "unique_name": "Country by the Grace of God",

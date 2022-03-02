@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=g1XhWZa3Soe0WiYo2qQNkQ">Oscar Mbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,625 likes - 75 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,661 likes - 75 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

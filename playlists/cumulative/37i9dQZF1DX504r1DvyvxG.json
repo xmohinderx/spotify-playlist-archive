@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Alice's Restaurant",
+        "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
+      },
+      "artists": [
+        {
+          "name": "Arlo Guthrie",
+          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1116933,
+      "name": "Alice's Restaurant Massacree",
+      "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (2020 Mix)",
         "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
       },
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 272333,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 177760,
       "name": "Oh Dear, What Can The Matter Be",
       "url": "https://open.spotify.com/track/580Am1PtXEC1hVVibksKRE"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 258333,
       "name": "The Watchman's Gone",
       "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"

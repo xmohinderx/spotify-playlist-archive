@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cukhkYKVZW.md) - [plain]
 
 > Listen to the original demo tracks and stories behind Country&\#x27;s biggest hits with acclaimed songwriter Shane McAnally, featuring the EXCLUSIVE release of Kacey Musgraves&\#x27; Mama&\#x27;s Broken Heart – only on Spotify!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 52 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 52 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

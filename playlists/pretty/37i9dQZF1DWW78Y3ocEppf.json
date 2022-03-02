@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: SZA",
-  "num_followers": 24556,
+  "num_followers": 24600,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA5NjAyMSwwMDAwMDAwMDY5YmVjN2M1MjE3M2YyNDI4ODAyMDA1YjhmMzc0OTc1",
+  "snapshot_id": "MTY0NjE4MjM2NSwwMDAwMDAwMDFhMjQ2ZDYyMzczYWEyZWY1NTk2MWY5Yzk4OGI4Yzkz",
   "tracks": [
     {
       "added_at": "2022-02-25 05:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "I Hate You 2",
-        "url": "https://open.spotify.com/album/1QqVbA9TLKTdsVcFn44NGa"
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
       },
       "artists": [
         {
-          "name": "Abby Jasmine",
-          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 160000,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/5KXkEQx57UUspGxofsA8be"
+      "duration_ms": 223414,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -103,26 +103,6 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 196786,
-      "name": "Anymore (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
         "name": "Pick Up Your Feelings",
         "url": "https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7"
       },
@@ -139,42 +119,58 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Brag (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/2SxvstE24VIYBAy8jQRswO"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "Nesta",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Brag (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW"
+      "duration_ms": 203056,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "TBH",
-        "url": "https://open.spotify.com/album/4U3RNjH7iKyqC0xwYtIUFk"
+        "name": "Wasting Time ( feat. Drake & The Neptunes )",
+        "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
       },
       "artists": [
         {
-          "name": "Bri Steves",
-          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         },
         {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
         }
       ],
-      "duration_ms": 220106,
-      "name": "GAF (feat. Guapdad 4000)",
-      "url": "https://open.spotify.com/track/2IMxBnxu3m0DByGJrBAzUT"
+      "duration_ms": 301304,
+      "name": "Wasting Time ( feat. Drake & The Neptunes )",
+      "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Separated",
+        "url": "https://open.spotify.com/album/4b9eaV1dw6cOAoTcYcI1ri"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/3PWu6X1aFJra9Bj5u53e4N"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -227,106 +223,6 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 223414,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Wasting Time ( feat. Drake & The Neptunes )",
-        "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        }
-      ],
-      "duration_ms": 301304,
-      "name": "Wasting Time ( feat. Drake & The Neptunes )",
-      "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Frank For You",
-        "url": "https://open.spotify.com/album/1NxJyMpFWsTT1vaHEXC3uW"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 249751,
-      "name": "Frank For You",
-      "url": "https://open.spotify.com/track/6ionsmjjnodm4pynvQxrgv"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Smokin Out The Window",
-        "url": "https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 197442,
-      "name": "Smokin Out The Window",
-      "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "LIMBO",
-        "url": "https://open.spotify.com/album/52rl7hijFwivkLWm2txuUq"
-      },
-      "artists": [
-        {
-          "name": "Njomza",
-          "url": "https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "tidal wave (feat. Ari Lennox)",
-      "url": "https://open.spotify.com/track/0aWktqLfsl8QRLNlywINuO"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
         "name": "Girl Like Me (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/7zur3l7Shcxd6JfOFl8UB0"
       },
@@ -347,128 +243,28 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Hate Our Love (with Big Sean)",
-        "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
       },
       "artists": [
         {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Hate Our Love (with Big Sean)",
-      "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
+      "duration_ms": 196786,
+      "name": "Anymore (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Separated",
-        "url": "https://open.spotify.com/album/4b9eaV1dw6cOAoTcYcI1ri"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Separated",
-      "url": "https://open.spotify.com/track/3PWu6X1aFJra9Bj5u53e4N"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134626,
-      "name": "Letter To Ur Ex",
-      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "LOVE FOR YAH",
-        "url": "https://open.spotify.com/album/5KTFId5ARTzs1o9Rg0z1fc"
-      },
-      "artists": [
-        {
-          "name": "Khi Infinite",
-          "url": "https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "LOVE FOR YAH",
-      "url": "https://open.spotify.com/track/04LlU1JuheF9ROhxK9VG3u"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Get Home SAFE (Part 1)",
-        "url": "https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "By My Side (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d"
-      },
-      "artists": [
-        {
-          "name": "Maryann Vasquez",
-          "url": "https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
+        "name": "Frank For You",
+        "url": "https://open.spotify.com/album/1NxJyMpFWsTT1vaHEXC3uW"
       },
       "artists": [
         {
@@ -476,9 +272,9 @@
           "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
         }
       ],
-      "duration_ms": 185198,
-      "name": "Bitch Don't Be Mad",
-      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
+      "duration_ms": 249751,
+      "name": "Frank For You",
+      "url": "https://open.spotify.com/track/6ionsmjjnodm4pynvQxrgv"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -503,70 +299,106 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 314848,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M"
       },
       "artists": [
         {
-          "name": "Nesta",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 203056,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u"
+      "duration_ms": 192574,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "You Two",
-        "url": "https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f"
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/0Kz1Ppo4NsglUs4f23zOXj"
       },
       "artists": [
         {
-          "name": "BARii",
-          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
-        }
-      ],
-      "duration_ms": 188410,
-      "name": "You Two",
-      "url": "https://open.spotify.com/track/4grms0czBnzj0hi18xzIae"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Table For Two",
-        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Siaira Shawn",
+          "url": "https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX"
         },
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 302240,
-      "name": "How Much Can A Heart Take (feat. Yebba)",
-      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
+      "duration_ms": 166372,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/2Ogtr9Qylrc3jyI5JKBVhj"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Letter To Ur Ex",
+      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Hate Our Love (with Big Sean)",
+        "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hate Our Love (with Big Sean)",
+      "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -591,6 +423,38 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
+        "name": "Tragic",
+        "url": "https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 207314,
+      "name": "Tragic",
+      "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d"
+      },
+      "artists": [
+        {
+          "name": "Maryann Vasquez",
+          "url": "https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
         "name": "2 You",
         "url": "https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo"
       },
@@ -607,34 +471,18 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "So Frequently",
-        "url": "https://open.spotify.com/album/773nWzQZ7Uy2BekzwLAUYI"
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
       },
       "artists": [
         {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
         }
       ],
-      "duration_ms": 181813,
-      "name": "So Frequently",
-      "url": "https://open.spotify.com/track/5dpEHuTqnkM0SxzRpme5Bi"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "S.O.L.A.R.",
-        "url": "https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 188839,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
+      "duration_ms": 226278,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -659,22 +507,50 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
+        }
+      ],
+      "duration_ms": 255109,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "You Two",
+        "url": "https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f"
+      },
+      "artists": [
+        {
+          "name": "BARii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+        }
+      ],
+      "duration_ms": 188410,
+      "name": "You Two",
+      "url": "https://open.spotify.com/track/4grms0czBnzj0hi18xzIae"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
       },
       "artists": [
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 252746,
-      "name": "Could've Been (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+      "duration_ms": 314848,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -699,114 +575,86 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "R\u00e9sum\u00e9",
-        "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 180357,
-      "name": "R\u00e9sum\u00e9",
-      "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/6U726nWLVts6WivbWjjdIq"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 158272,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0kzUzaT9BZzrXXloLk49ig"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Self Care",
-        "url": "https://open.spotify.com/album/2gApx3pkIQIhji8B30p23w"
+        "name": "DON'T PLAY WITH MY HEART",
+        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
       },
       "artists": [
         {
-          "name": "Savannah Cristina",
-          "url": "https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN"
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
         }
       ],
-      "duration_ms": 158226,
-      "name": "Self Love",
-      "url": "https://open.spotify.com/track/38RCMCP7DkKnztuBDOGlE5"
+      "duration_ms": 219351,
+      "name": "DON'T PLAY WITH MY HEART",
+      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "To Myself (Deluxe)",
-        "url": "https://open.spotify.com/album/2RKhRRDOU32gaoNRrQICbG"
+        "name": "X Tapes",
+        "url": "https://open.spotify.com/album/617IqqrVM4ldqwFGkHAXU0"
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Paloma Ford",
+          "url": "https://open.spotify.com/artist/3H91WvXn7klxNAxzQ9CqVK"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 174208,
-      "name": "Damn",
-      "url": "https://open.spotify.com/track/3GI61nYQMfL6diHPFU0YLB"
+      "duration_ms": 280949,
+      "name": "All For Nothing",
+      "url": "https://open.spotify.com/track/6mQJSMRpen9xCVdol1YMg5"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M"
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/5oimSytgAUa5GF6pZRnzYD"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         }
       ],
-      "duration_ms": 192574,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "So So Sick",
-        "url": "https://open.spotify.com/album/6YEmBhITTqQZ4sYsh5tcqD"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 237279,
-      "name": "So So Sick",
-      "url": "https://open.spotify.com/track/4edxOO3ZAuDTlJi3P98kDH"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Worst (I Assume)",
-        "url": "https://open.spotify.com/album/0bHH4umiElJUvPIvqrQVfA"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 187751,
-      "name": "Worst (I Assume)",
-      "url": "https://open.spotify.com/track/6LUHCk4qqqupsz0yF48Opr"
+      "duration_ms": 176065,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3iJf0dg0PGISj0ied0T0g0"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -827,8 +675,92 @@
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "Shoulda",
-        "url": "https://open.spotify.com/album/3sQ1EVwf6xDXaNOK32a7h8"
+        "name": "alone / the catch up",
+        "url": "https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 188115,
+      "name": "the catch up",
+      "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Could've Been (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Comeback.",
+        "url": "https://open.spotify.com/album/0YPxsm4lh9nFvkGYNSYXsa"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/4i1sWZe3erL8QVRCdwMoxT"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Table For Two",
+        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
       },
       "artists": [
         {
@@ -836,19 +768,107 @@
           "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         },
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 217433,
-      "name": "Shoulda",
-      "url": "https://open.spotify.com/track/4nRYjMFeJOJQbNC0QDLOkS"
+      "duration_ms": 302240,
+      "name": "How Much Can A Heart Take (feat. Yebba)",
+      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
-        "name": "DYING 4 YOUR LOVE",
-        "url": "https://open.spotify.com/album/1EUCSZciwmAutnu9M8lqZW"
+        "name": "Hues",
+        "url": "https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 126192,
+      "name": "Lay Up",
+      "url": "https://open.spotify.com/track/6XkHHMfaghZ1SNf3V5yM5b"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "R\u00e9sum\u00e9",
+        "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 180357,
+      "name": "R\u00e9sum\u00e9",
+      "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Same Space? (Remix)",
+        "url": "https://open.spotify.com/album/5KTLZx1qToHWZJJp83C3H6"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Same Space? - Remix",
+      "url": "https://open.spotify.com/track/1sVEcxx3au6WWt8WcQO4N9"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "trying not to think about it",
+        "url": "https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Anxiety (Burlinda\u2019s Theme)",
+      "url": "https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "On One",
+        "url": "https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205808,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
       "artists": [
         {
@@ -856,41 +876,9 @@
           "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 206773,
-      "name": "DYING 4 YOUR LOVE",
-      "url": "https://open.spotify.com/track/5d6qTZOLnj4zbgFGRoJiNz"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Hard 4 Me 2 Love You",
-        "url": "https://open.spotify.com/album/1PtHdtq6JgoCxawh4fwZHl"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Hard 4 Me 2 Love You",
-      "url": "https://open.spotify.com/track/4YF1ucCHnZHQFxeLxtPLpS"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Can We Be Friends?",
-        "url": "https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 176825,
-      "name": "Can We Be Friends?",
-      "url": "https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP"
+      "duration_ms": 265676,
+      "name": "LOST YOU (screwed not chopped)",
+      "url": "https://open.spotify.com/track/2kJijusZZbCWGbjTe5afS1"
     }
   ],
   "unique_name": "Some Kinda Way",

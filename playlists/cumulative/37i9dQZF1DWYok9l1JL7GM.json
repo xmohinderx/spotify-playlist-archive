@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 281960,
       "name": "#1 Stunna",
       "url": "https://open.spotify.com/track/7kBdenpTmgWfAz9clmBcok"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 304226,
       "name": "B.O.B. - Bombs Over Baghdad",
       "url": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 216706,
       "name": "Bring Em Out",
       "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 299746,
       "name": "Chunk up the Deuce",
       "url": "https://open.spotify.com/track/7y5A3Ge2GixgSTwCU6fu5p"
@@ -381,10 +381,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 211400,
       "name": "Danger (Been So Long) featuring Nivea",
       "url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg"
+    },
+    {
+      "album": {
+        "name": "Boyz N Da Hood",
+        "url": "https://open.spotify.com/album/56SzsFOWRCqayvViYU63kk"
+      },
+      "artists": [
+        {
+          "name": "Boyz N Da Hood",
+          "url": "https://open.spotify.com/artist/030sRm1rnXI9MeQ23pdax8"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256800,
+      "name": "Dem Boyz",
+      "url": "https://open.spotify.com/track/59xyRqG06dGbTmmJFVFbyQ"
     },
     {
       "album": {
@@ -407,7 +425,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 221733,
       "name": "Down For My N's",
       "url": "https://open.spotify.com/track/4Dw6V4mhZAGkFSTQ4GUMIZ"
@@ -548,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Tha Carter",
+        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281826,
+      "name": "Go DJ",
+      "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
+    },
+    {
+      "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
@@ -581,7 +617,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 292333,
       "name": "Ha",
       "url": "https://open.spotify.com/track/3b0dX6Q2lxp7OX5lFt0nba"
@@ -603,6 +639,24 @@
       "duration_ms": 246386,
       "name": "Hard in Da Paint",
       "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
+    },
+    {
+      "album": {
+        "name": "Mind Of Mystikal",
+        "url": "https://open.spotify.com/album/6ZFUMvnLkGErstI6DWISYn"
+      },
+      "artists": [
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345066,
+      "name": "Here I Go",
+      "url": "https://open.spotify.com/track/0Sizq91V0brNa9RBpMfeOB"
     },
     {
       "album": {
@@ -699,7 +753,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 188493,
       "name": "Hypnotized (feat. Akon)",
       "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
@@ -721,6 +775,46 @@
       "duration_ms": 254400,
       "name": "I'm a Thug",
       "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
+    },
+    {
+      "album": {
+        "name": "Rappa Ternt Sanga (Expanded Edition)",
+        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239413,
+      "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
+      "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
+    },
+    {
+      "album": {
+        "name": "Rappa Ternt Sanga (Expanded Edition)",
+        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "I'm Sprung",
+      "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
     },
     {
       "album": {
@@ -787,6 +881,24 @@
       "duration_ms": 259040,
       "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
       "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD"
+    },
+    {
+      "album": {
+        "name": "Charge It 2 Da Game",
+        "url": "https://open.spotify.com/album/4j2FDRlXnrp2yYoWvM5lE2"
+      },
+      "artists": [
+        {
+          "name": "Silkk The Shocker",
+          "url": "https://open.spotify.com/artist/0iEVT8dLNSSmipPOrDGu2z"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198995,
+      "name": "It Ain't My Fault",
+      "url": "https://open.spotify.com/track/0EvsLFtgq2ToSaH8UXmPK0"
     },
     {
       "album": {
@@ -1199,7 +1311,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 256973,
       "name": "Shake Ya Ass",
       "url": "https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD"
@@ -1265,6 +1377,32 @@
       "duration_ms": 258680,
       "name": "Shoulder Lean (feat. T.I.)",
       "url": "https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii"
+    },
+    {
+      "album": {
+        "name": "When The Smoke Clears",
+        "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261972,
+      "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
+      "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
     },
     {
       "album": {
@@ -1662,6 +1800,24 @@
     },
     {
       "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "U Don't Know Me",
+      "url": "https://open.spotify.com/track/2SuMoyOaAVBg5AzfKyZaKV"
+    },
+    {
+      "album": {
         "name": "Face Off",
         "url": "https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU"
       },
@@ -1753,7 +1909,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 258066,
       "name": "What Happened To That Boy",
       "url": "https://open.spotify.com/track/20Sp7dNLM3NjIu3TInDqjq"

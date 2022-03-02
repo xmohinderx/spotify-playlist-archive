@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 154173,
       "name": "A Glass Of Champagne",
       "url": "https://open.spotify.com/track/3lm0QsdpQrypDUbHexpVWK"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 403640,
       "name": "Ain't Gonna Bump No More (With No Big Fat Woman)",
       "url": "https://open.spotify.com/track/0XXjBRi5sNWojqxmYJGiA2"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 217320,
       "name": "Ain't No Stoppin' Us Now - Single Version",
       "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 260893,
       "name": "Angeleyes",
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 193133,
       "name": "Baby, Don't Change Your Mind",
       "url": "https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 296333,
       "name": "Boogie On Reggae Woman",
       "url": "https://open.spotify.com/track/7wOKVOhqghB6rCyaPWVegJ"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 242093,
       "name": "Brown Girl in the Ring",
       "url": "https://open.spotify.com/track/0rT9KyAEDNr0kbBL5Qfo8k"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 149159,
       "name": "Daddy Cool / The Girl Can't Help It",
       "url": "https://open.spotify.com/track/4Q0ML89z8cVzfuR04Sq8Md"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 188546,
       "name": "Dancin' on a Saturday Night - Rerecorded",
       "url": "https://open.spotify.com/track/7bge2xGtSUZhBsE1mN70FY"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 185733,
       "name": "I Can't Stand the Rain",
       "url": "https://open.spotify.com/track/2SWmfd8iv4CiBOztWJebux"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 180280,
       "name": "I Saw the Light - 2015 Remaster",
       "url": "https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 196440,
       "name": "I Was Made for Dancin'",
       "url": "https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL"
@@ -1770,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Keep The Fire Burnin'",
+        "url": "https://open.spotify.com/album/3Sv1qO5IxLep7mOBuQ8fi7"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320333,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/3WimzuWXQt4bnd4jcv0Gov"
+    },
+    {
+      "album": {
         "name": "Isn't She Lovely",
         "url": "https://open.spotify.com/album/3NiqelW1Xr5h1w8zf6MaLY"
       },
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 180666,
       "name": "Knock Three Times",
       "url": "https://open.spotify.com/track/4Z0K8WzmzsPpX0Po6qMfEh"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 197693,
       "name": "Kung Fu Fighting",
       "url": "https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 240986,
       "name": "Listen To What The Man Said - Remastered 2014",
       "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 235200,
       "name": "MacArthur Park - Single Version",
       "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 179466,
       "name": "Never Can Say Goodbye - Single Version",
       "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 288426,
       "name": "No More Tears (Enough Is Enough)",
       "url": "https://open.spotify.com/track/2WOxDSMVbPy8rsK9oMtWuj"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 214793,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/2dxzbWYNq1RHRMlkwN6dlM"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 343773,
       "name": "Ooh what a life",
       "url": "https://open.spotify.com/track/26LXuBlHw2DZWcVcfMVlmi"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 208333,
       "name": "Rock Me Gently",
       "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
@@ -2895,7 +2913,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 182139,
       "name": "Save Your Kisses For Me",
       "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Shadow Dancing",
       "url": "https://open.spotify.com/track/4K9rsZnoVWNSmmb3X8bmvT"
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 177773,
       "name": "Stoned Love - Single Version",
       "url": "https://open.spotify.com/track/03IOfDZjjJNG8lDrpEB0ZS"
@@ -3277,7 +3295,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "Summer Night City",
       "url": "https://open.spotify.com/track/35iCSlFxyiawRBUOtQAkeT"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
@@ -3443,7 +3461,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "The Bitch Is Back",
       "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
@@ -3479,7 +3497,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 189386,
       "name": "The Candy Man",
       "url": "https://open.spotify.com/track/5yjuIx3UvOKHwLsCuM3DMM"
@@ -3497,7 +3515,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 242640,
       "name": "The Hustle",
       "url": "https://open.spotify.com/track/1uYyXXqWQJ0fBQ0a7iMU0a"
@@ -3551,7 +3569,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
@@ -3645,7 +3663,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 309173,
       "name": "Voulez-Vous",
       "url": "https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V"
@@ -3897,7 +3915,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 209906,
       "name": "You See The Trouble With Me",
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"

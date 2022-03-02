@@ -2615,7 +2615,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 271897,
       "name": "Beyond Imagination",
       "url": "https://open.spotify.com/track/5z40PeXEmVwWes8PQI7oZq"
@@ -4293,7 +4293,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 196568,
       "name": "Dear Mama",
       "url": "https://open.spotify.com/track/1qUVgTwfcnO0GXOD89SCwz"
@@ -7473,7 +7473,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 254500,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
@@ -12755,7 +12755,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 105000,
       "name": "Morgensol",
       "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
@@ -20839,7 +20839,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
@@ -22935,6 +22935,28 @@
       "duration_ms": 236906,
       "name": "\u732e\u5448(\u30b7\u30e5\u30fc\u30de\u30f3\u306e\u6b4c\u66f2\u306b\u3088\u308b) S.566",
       "url": "https://open.spotify.com/track/2BcoxFxJYKgNJ04OvcjIHa"
+    },
+    {
+      "album": {
+        "name": "\u7ba1\u5f26\u697d\u7d44\u66f2 \u7b2c3\u756a \u30cb\u9577\u8abf BWV 1068: G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/3JNTQwUs7ggr8fsFiVNhuC"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Miyuji Kaneko",
+          "url": "https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "\u7ba1\u5f26\u697d\u7d44\u66f2 \u7b2c3\u756a \u30cb\u9577\u8abf BWV 1068: G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/4uSFOXu5fSfbWMLsNPikp0"
     },
     {
       "album": {

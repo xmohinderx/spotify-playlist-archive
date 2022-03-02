@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-30",
   "description": "Instrumental guitar for rainy day contemplation.",
-  "name": "Sad Guitar",
+  "name": "Sad Acoustic Guitar",
   "published_playlist_ids": [
     "2jQErRkNwTxb0OdKWiZk3c"
   ],
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 127693,
       "name": "Ali",
       "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 107986,
       "name": "Am B",
       "url": "https://open.spotify.com/track/1eSo95uRMEYkDmYiUKXH0I"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 154157,
       "name": "Amorosa",
       "url": "https://open.spotify.com/track/2U9Abi4ZwTuJXyyuru5aZJ"
@@ -199,10 +199,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 186791,
       "name": "Bibo No Aozora",
       "url": "https://open.spotify.com/track/5JitZNsoYf7zzF2MDcwO8G"
+    },
+    {
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/0hWDQ5WjbOBkWUfFxgI10B"
+      },
+      "artists": [
+        {
+          "name": "Rob Willard",
+          "url": "https://open.spotify.com/artist/4AZkp9pNQJf5f8EZkjVgTl"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119295,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/2mnkJQfcSdnT71z3FUpCFD"
     },
     {
       "album": {
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 174191,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 123581,
       "name": "Brudmarsch efter Larsh\u00f6ga Jonte",
       "url": "https://open.spotify.com/track/3QWBP15zIN6pwEbYOyevEr"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 147750,
       "name": "Distant Shore",
       "url": "https://open.spotify.com/track/358grkBo9B5eR7qlnmSIGv"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 102000,
       "name": "Dublin",
       "url": "https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 215750,
       "name": "Floral Hymn",
       "url": "https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 122422,
       "name": "Hala",
       "url": "https://open.spotify.com/track/4xgEeZ6bNs1RZFriF62CPx"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 201536,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/72kzmpkU8SInAnxEYrYZyY"
@@ -851,6 +869,24 @@
       "duration_ms": 170434,
       "name": "Honestly It's Quite Painful",
       "url": "https://open.spotify.com/track/0MchwTPqyY6PGAxUHs9IPQ"
+    },
+    {
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4"
+      },
+      "artists": [
+        {
+          "name": "Dean M Parker",
+          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "I Still Believe In You",
+      "url": "https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea"
     },
     {
       "album": {
@@ -919,7 +955,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 110300,
       "name": "Kulning",
       "url": "https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3"
@@ -1160,6 +1196,42 @@
     },
     {
       "album": {
+        "name": "Lost Paradise",
+        "url": "https://open.spotify.com/album/3VvTkRXePc0BnMqyEsL6gI"
+      },
+      "artists": [
+        {
+          "name": "Constance Timon",
+          "url": "https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161239,
+      "name": "Lost Paradise",
+      "url": "https://open.spotify.com/track/5MXvA3O0Yu0QmpcQv63Sbu"
+    },
+    {
+      "album": {
+        "name": "Love in song",
+        "url": "https://open.spotify.com/album/2YcZID7ZEhB6erimWQrBWU"
+      },
+      "artists": [
+        {
+          "name": "Michael Blaese",
+          "url": "https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "Love in song",
+      "url": "https://open.spotify.com/track/4eSyxZqzEqbN0mlTgCq4uh"
+    },
+    {
+      "album": {
         "name": "Love Theme from Cinema Paradiso",
         "url": "https://open.spotify.com/album/2zTHgwYMoODuee24i4GPUH"
       },
@@ -1175,6 +1247,24 @@
       "duration_ms": 175528,
       "name": "Love Theme from Cinema Paradiso",
       "url": "https://open.spotify.com/track/4MUav1d7d504Wf8VT129dT"
+    },
+    {
+      "album": {
+        "name": "Lovelight",
+        "url": "https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB"
+      },
+      "artists": [
+        {
+          "name": "Geoff Henzel",
+          "url": "https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113038,
+      "name": "Lovelight",
+      "url": "https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N"
     },
     {
       "album": {
@@ -1333,7 +1423,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 211999,
       "name": "Mixtlan",
       "url": "https://open.spotify.com/track/75p0DeAYdpGsevS7azLsPu"
@@ -1466,6 +1556,24 @@
     },
     {
       "album": {
+        "name": "Olden Spirit",
+        "url": "https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj"
+      },
+      "artists": [
+        {
+          "name": "Aleena Pearson",
+          "url": "https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149713,
+      "name": "Olden Spirit",
+      "url": "https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6"
+    },
+    {
+      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3"
       },
@@ -1549,7 +1657,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 105626,
       "name": "Piano Ele\u0301ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
@@ -1592,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161214,
+      "name": "Red Fir",
+      "url": "https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV"
+    },
+    {
+      "album": {
         "name": "Kosmos",
         "url": "https://open.spotify.com/album/4PccTvSaNHUMfjbqaquhSl"
       },
@@ -1607,6 +1733,24 @@
       "duration_ms": 115814,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0QqRbSMVB8TuRp1mGRwtDU"
+    },
+    {
+      "album": {
+        "name": "Rest Sea",
+        "url": "https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq"
+      },
+      "artists": [
+        {
+          "name": "Glen Beasley",
+          "url": "https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133206,
+      "name": "Rest Sea",
+      "url": "https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm"
     },
     {
       "album": {
@@ -1697,6 +1841,24 @@
       "duration_ms": 80487,
       "name": "Sin Ropa",
       "url": "https://open.spotify.com/track/2tVNCE8ugILalQhS838rfU"
+    },
+    {
+      "album": {
+        "name": "Skogstorp",
+        "url": "https://open.spotify.com/album/1JjqSNcFCy0xcUmnQdeqau"
+      },
+      "artists": [
+        {
+          "name": "Emelia Ball",
+          "url": "https://open.spotify.com/artist/5uYgVHgxwX630kEUVntTzs"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204833,
+      "name": "Skogstorp",
+      "url": "https://open.spotify.com/track/1vTxgY8aHELBPbWRPWnvZM"
     },
     {
       "album": {
@@ -1819,7 +1981,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 89040,
       "name": "Telefono A",
       "url": "https://open.spotify.com/track/6E6U7GLpd3Hod0QEv2AvsJ"
@@ -1855,7 +2017,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 103132,
       "name": "The Discovery",
       "url": "https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN"
@@ -1873,7 +2035,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 241515,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/3tcB32nXoEIlkYBKzrO3j5"
@@ -1891,7 +2053,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 174448,
       "name": "The Golden Spiral",
       "url": "https://open.spotify.com/track/39xnGvtkISN4yTF85ndmUP"
@@ -2035,7 +2197,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 160783,
       "name": "Vero Amore",
       "url": "https://open.spotify.com/track/1kkvNP512ctkEDMJIq2ca3"
@@ -2107,7 +2269,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 169443,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/4i8k0moTL3u9w4TsT7Es5A"
@@ -2165,6 +2327,24 @@
       "duration_ms": 230452,
       "name": "Zauberblume",
       "url": "https://open.spotify.com/track/0FwDRIMPR7TRC0FQwd7yRQ"
+    },
+    {
+      "album": {
+        "name": "Zita",
+        "url": "https://open.spotify.com/album/1fpvvgQM16OfF1PjHmH64r"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "Zita",
+      "url": "https://open.spotify.com/track/06atvPAAccSFyPWrQuxjrr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3bgBpcV2oGY"

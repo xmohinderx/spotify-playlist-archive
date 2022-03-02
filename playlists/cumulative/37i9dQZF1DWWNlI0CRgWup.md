@@ -2,13 +2,15 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Benjamin Epps
+> Découvrez notre sélection des artistes à suivre\. Photo : Ocevne
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Au bout de ma rue](https://open.spotify.com/track/1ZpXOfL9NpKMjitFteTZlk) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Au bout de ma rue](https://open.spotify.com/album/4kK37mGx9LtXd6vsTAmO6W) | 3:54 | 2021-12-02 | 2022-02-04 |
+| [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-03-01 |  |
 | [Bleu ciel](https://open.spotify.com/track/7al5eTCBSN7klkRl7FEJqm) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Bleu ciel](https://open.spotify.com/album/5thRrdDMwAy3lVxh3MKfUU) | 2:48 | 2021-12-02 |  |
 | [BMW BOYZ](https://open.spotify.com/track/1oBSDxr6s8mVZPf1vcF6J9) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [BMW BOYZ](https://open.spotify.com/album/1q7JfRmk5FoF8XGlCaY0r2) | 1:58 | 2022-02-03 |  |
+| [Bohémien](https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Une saison en enfance](https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ) | 3:14 | 2022-03-01 |  |
 | [Bonita](https://open.spotify.com/track/5YkXkfXWTE1pk6l2m78JnH) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Bonita](https://open.spotify.com/album/1vZ7dIXeNdHJkUhT0lVf0E) | 3:07 | 2021-12-02 | 2022-02-04 |
 | [CE QUE LE PIPS DEMANDE \- A COLORS SHOW](https://open.spotify.com/track/6vnFX4F6QdMX8LN1pwsrfE) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [CE QUE LE PIPS DEMANDE \- A COLORS SHOW](https://open.spotify.com/album/3RYuX3dqqAsDsvenKA75TF) | 3:30 | 2022-02-03 |  |
 | [Comme moi \(feat\. Tiakola\)](https://open.spotify.com/track/2ave3RUa35dqPnxyxtcRml) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Comme moi \(feat\. Tiakola\)](https://open.spotify.com/album/6lRjPcc3B5H7mrVEzqEPwZ) | 2:54 | 2021-12-02 | 2022-02-04 |
@@ -17,14 +19,15 @@
 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2022-02-03 |  |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-07 |  |
 | [Dilemme](https://open.spotify.com/track/34UANp5qxDg6YcgrlDeILZ) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Dilemme](https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6) | 3:05 | 2021-12-02 |  |
-| [Episode III \- "Les mains libres"](https://open.spotify.com/track/09H1lojoD6C9ygAa62inrW) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Yuzmv](https://open.spotify.com/album/5YLIrkBDqVtlFvD86zZeKH) | 3:19 | 2021-12-02 |  |
+| [Docteur](https://open.spotify.com/track/1qCQFjFqqDR1p2uorkJZfI) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Docteur](https://open.spotify.com/album/7APXfTmDk0JVFyEIjZmZsS) | 2:57 | 2022-03-01 |  |
+| [Episode III \- "Les mains libres"](https://open.spotify.com/track/09H1lojoD6C9ygAa62inrW) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Yuzmv](https://open.spotify.com/album/5YLIrkBDqVtlFvD86zZeKH) | 3:19 | 2021-12-02 | 2022-03-02 |
 | [Filage et faits](https://open.spotify.com/track/2FeFLCNEoZSFB9H9cAY5at) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Filage et faits](https://open.spotify.com/album/0LXyoJhbPZkfv5LQKqfqtC) | 3:05 | 2021-12-02 | 2022-02-08 |
 | [Fous](https://open.spotify.com/track/6iDJJTC95l6eQBRfUKWrq3) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Fous](https://open.spotify.com/album/2sOcYT0QyNgZEuYvQ6gfI7) | 2:31 | 2021-12-02 | 2022-02-04 |
 | [Je suis fan](https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Je suis fan](https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH) | 2:48 | 2021-12-02 |  |
 | [Last Time](https://open.spotify.com/track/2Ibz7YggOBpCHDEamETUFq) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Last Time](https://open.spotify.com/album/6k0C4P2h1qRr3HORw3ziNg) | 2:57 | 2022-02-03 |  |
-| [Le bandit](https://open.spotify.com/track/07sR3VWgf8rO9RLe3ZpLJO) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Naissance](https://open.spotify.com/album/777TYc92TnLNyqITPySyBG) | 3:54 | 2021-12-02 |  |
+| [Le bandit](https://open.spotify.com/track/07sR3VWgf8rO9RLe3ZpLJO) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Naissance](https://open.spotify.com/album/777TYc92TnLNyqITPySyBG) | 3:54 | 2021-12-02 | 2022-03-02 |
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2021-12-02 | 2022-02-04 |
-| [le manège](https://open.spotify.com/track/1544oKxSzETEcBpOKdf3de) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [le manège](https://open.spotify.com/album/6Qt86ubTBo7keQIxje0qNW) | 3:49 | 2021-12-02 |  |
+| [le manège](https://open.spotify.com/track/1544oKxSzETEcBpOKdf3de) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [le manège](https://open.spotify.com/album/6Qt86ubTBo7keQIxje0qNW) | 3:49 | 2021-12-02 | 2022-03-02 |
 | [Le temps passe](https://open.spotify.com/track/24o720A8MCkwTWWytpMZld) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe](https://open.spotify.com/album/2JZquiQA5Vg3J0HYokRdyE) | 3:12 | 2021-12-02 |  |
 | [Les bonnes manières](https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Les bonnes manières](https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4) | 2:58 | 2022-02-03 |  |
 | [Ma meilleure vie](https://open.spotify.com/track/1qKrfVLSMse9xdSqccbidX) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Ma meilleure vie](https://open.spotify.com/album/6I3kI8W6fauUBxhvstGwDj) | 4:20 | 2021-12-02 | 2022-02-08 |
@@ -35,10 +38,11 @@
 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 | 2021-12-02 |  |
 | [Que tout s'danse](https://open.spotify.com/track/5btPpAAwVyA8bRc3Ol8gqQ) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À nous](https://open.spotify.com/album/2dCJ1XBaEXo7JX38wXFJrm) | 3:34 | 2021-12-02 |  |
 | [Rayons Gamma](https://open.spotify.com/track/3vk4CWWFlo1UAjCFG6ctZq) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Rayons Gamma](https://open.spotify.com/album/6ehX4nmU1nqwljgu7ZPbbn) | 3:15 | 2022-02-07 |  |
+| [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 | 2022-03-01 |  |
 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 | 2021-12-02 |  |
 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 | 2021-12-02 |  |
 | [The Hill](https://open.spotify.com/track/2deS1gZIjmyBkHNqVjgDfE) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Hill](https://open.spotify.com/album/2q2yy8DwiAsLC2G02puine) | 4:00 | 2021-12-02 | 2022-02-04 |
-| [Toute la vie](https://open.spotify.com/track/7I8MDzoGI7GVB4bFUwg1hG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Toute la vie](https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ) | 3:29 | 2021-12-02 |  |
+| [Toute la vie](https://open.spotify.com/track/7I8MDzoGI7GVB4bFUwg1hG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Toute la vie](https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ) | 3:29 | 2021-12-02 | 2022-03-02 |
 | [Téco](https://open.spotify.com/track/4rlAcwbAvwpqcmeHSya6fd) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Téco](https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN) | 2:42 | 2022-02-03 | 2022-02-08 |
 | [Vega](https://open.spotify.com/track/4lT57AWvtIWIc8kEhqjD06) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Vega](https://open.spotify.com/album/7KPtPt18RqcaqqZvFarHjG) | 4:00 | 2021-12-02 | 2022-01-15 |
 | [Vue sur la mer](https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Enfant roi](https://open.spotify.com/album/6zz44IeTCesmYEWHPhMgkI) | 2:34 | 2022-02-07 |  |

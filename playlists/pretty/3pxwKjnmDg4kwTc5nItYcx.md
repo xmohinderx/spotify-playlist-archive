@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Sara Kays
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,270 likes - 215 songs - 11 hr 41 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,268 likes - 215 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 10 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 |
 | 11 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 |
 | 12 | [tiki](https://open.spotify.com/track/6OxoIcvexK5hRQqCeseXeH) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [tiki](https://open.spotify.com/album/7AdommYIuTNghRELj7rSKB) | 2:38 |
-| 13 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/6mo2igP35dc39V1zXwKJjr) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 |
+| 13 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 |
 | 14 | [Beautiful](https://open.spotify.com/track/3RjL8AnKslWWPmlNLTJsAU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:14 |
 | 15 | [IFIW \(I Feel It When\)](https://open.spotify.com/track/1iwfa8eZrNSuJRgdIoliT9) | [Rami](https://open.spotify.com/artist/0TlBL4XarAQyeGsIpzCeWc) | [IFIW \(I Feel It When\)](https://open.spotify.com/album/3Phps3EppB9UOJ3EyLbsG1) | 2:41 |
 | 16 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 |

@@ -145,10 +145,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 194680,
       "name": "Better Dig Two",
       "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
+    },
+    {
+      "album": {
+        "name": "Only What I Feel",
+        "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
+      },
+      "artists": [
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Blame It on Your Heart",
+      "url": "https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz"
     },
     {
       "album": {
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 204760,
       "name": "We R Who We R",
       "url": "https://open.spotify.com/track/6lCTs5NDYctSQutADkeEsA"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 211266,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"

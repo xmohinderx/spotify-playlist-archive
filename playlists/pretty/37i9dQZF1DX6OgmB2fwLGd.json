@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the Internet. Cover: Yeat",
-  "num_followers": 1072668,
+  "num_followers": 1073426,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA2ODU4MywwMDAwMDJjZjAwMDAwMTdmNDE1NTRjMzQwMDAwMDE3ZjA5NGMwMGNl",
+  "snapshot_id": "MTY0NjE3Mjg2MSwwMDAwMDJkNjAwMDAwMTdmNDc4YzcyNjQwMDAwMDE3ZjA5NGMwMGNl",
   "tracks": [
+    {
+      "added_at": "2022-03-01 21:26:35",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL"
+    },
     {
       "added_at": "2022-02-10 16:05:00",
       "album": {
@@ -23,6 +39,34 @@
       "duration_ms": 100517,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/2I8EDARURigigunOxtg7oi"
+    },
+    {
+      "added_at": "2022-03-01 22:10:38",
+      "album": {
+        "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+        "url": "https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 172953,
+      "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+      "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
     },
     {
       "added_at": "2022-02-21 19:19:05",
@@ -57,22 +101,6 @@
       "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
     },
     {
-      "added_at": "2022-01-31 22:16:27",
-      "album": {
-        "name": "FREELANCE",
-        "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
-      },
-      "artists": [
-        {
-          "name": "Ben Reilly",
-          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
-        }
-      ],
-      "duration_ms": 165550,
-      "name": "Maytag (Tax Free)",
-      "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
-    },
-    {
       "added_at": "2022-02-18 05:05:00",
       "album": {
         "name": "2 Aliv\u00eb",
@@ -91,6 +119,22 @@
       "duration_ms": 181440,
       "name": "Rackz got m\u00eb (feat. Gunna)",
       "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
+    },
+    {
+      "added_at": "2022-01-31 22:16:27",
+      "album": {
+        "name": "FREELANCE",
+        "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "duration_ms": 165550,
+      "name": "Maytag (Tax Free)",
+      "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
     },
     {
       "added_at": "2022-02-03 00:21:09",
@@ -129,6 +173,22 @@
       "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
     },
     {
+      "added_at": "2022-03-01 21:13:37",
+      "album": {
+        "name": "Everywhereigo",
+        "url": "https://open.spotify.com/album/5W150vEDIbzQt4BMWaxNbY"
+      },
+      "artists": [
+        {
+          "name": "Babyxsosa",
+          "url": "https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ"
+        }
+      ],
+      "duration_ms": 135471,
+      "name": "Everywhereigo",
+      "url": "https://open.spotify.com/track/3DICBZOMaEWbCxwUfPGcE5"
+    },
+    {
       "added_at": "2022-02-25 05:48:00",
       "album": {
         "name": "nyc",
@@ -165,20 +225,20 @@
       "url": "https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9"
     },
     {
-      "added_at": "2022-02-19 22:00:47",
+      "added_at": "2022-03-01 21:29:51",
       "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+        "name": "RGB",
+        "url": "https://open.spotify.com/album/71t3ZOUKRMBw0lp3N6yR2M"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "CRASH RARRI",
+          "url": "https://open.spotify.com/artist/2c2ekMthLByoJhFMLLl2Ch"
         }
       ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+      "duration_ms": 185160,
+      "name": "RGB",
+      "url": "https://open.spotify.com/track/08hDpMZBxJ11C4Eev0cXvt"
     },
     {
       "added_at": "2022-02-18 05:05:00",
@@ -195,22 +255,6 @@
       "duration_ms": 139702,
       "name": "Liu Kang",
       "url": "https://open.spotify.com/track/0S9b5SJy3arLNCmF43DAiu"
-    },
-    {
-      "added_at": "2022-01-21 16:42:10",
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 153999,
-      "name": "Ginseng Strip 2002",
-      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
     },
     {
       "added_at": "2022-02-02 22:22:20",
@@ -285,6 +329,54 @@
       "url": "https://open.spotify.com/track/4GKHIuAyQBWSvrVxoej52H"
     },
     {
+      "added_at": "2022-02-19 22:00:47",
+      "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-01-10 18:03:55",
+      "album": {
+        "name": "Wokeup",
+        "url": "https://open.spotify.com/album/1n9NQI2R10g4jQHmLdWKSl"
+      },
+      "artists": [
+        {
+          "name": "KANKAN",
+          "url": "https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs"
+        }
+      ],
+      "duration_ms": 115343,
+      "name": "Wokeup",
+      "url": "https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R"
+    },
+    {
+      "added_at": "2022-01-21 16:42:10",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+    },
+    {
       "added_at": "2021-11-10 00:56:03",
       "album": {
         "name": "Eternal Atake",
@@ -337,24 +429,32 @@
       "url": "https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
+      "added_at": "2022-01-05 17:21:06",
       "album": {
-        "name": "Falling Off",
-        "url": "https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og"
+        "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+        "url": "https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X"
       },
       "artists": [
         {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
         },
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 264272,
-      "name": "Falling Off (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381"
+      "duration_ms": 279853,
+      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+      "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
     },
     {
       "added_at": "2022-01-26 18:19:14",
@@ -441,6 +541,22 @@
       "url": "https://open.spotify.com/track/0UTgiWqnHq17CEUW0QokQ2"
     },
     {
+      "added_at": "2022-02-25 20:26:00",
+      "album": {
+        "name": "i know you hate me",
+        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 124516,
+      "name": "i know you hate me",
+      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
+    },
+    {
       "added_at": "2022-01-04 18:47:15",
       "album": {
         "name": "I Feel Fantastic",
@@ -455,34 +571,6 @@
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
-    },
-    {
-      "added_at": "2022-01-05 17:21:06",
-      "album": {
-        "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
-        "url": "https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 279853,
-      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
-      "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
     },
     {
       "added_at": "2021-10-19 18:03:30",
@@ -517,6 +605,22 @@
       "url": "https://open.spotify.com/track/7K6vDqSG3OUFTxyoY9G1Gu"
     },
     {
+      "added_at": "2021-09-24 04:05:00",
+      "album": {
+        "name": "WERKKK",
+        "url": "https://open.spotify.com/album/2ANxZEqymsAttB5oVSZBeQ"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "duration_ms": 96940,
+      "name": "WERKKK",
+      "url": "https://open.spotify.com/track/708tKJhHcGSsYoxd5SBr7W"
+    },
+    {
       "added_at": "2022-02-21 19:19:05",
       "album": {
         "name": "Hit",
@@ -547,22 +651,6 @@
       "duration_ms": 154424,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
-    },
-    {
-      "added_at": "2022-02-25 20:26:00",
-      "album": {
-        "name": "i know you hate me",
-        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 124516,
-      "name": "i know you hate me",
-      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
     },
     {
       "added_at": "2022-02-02 22:30:54",
@@ -629,6 +717,22 @@
       "url": "https://open.spotify.com/track/1kWjuuleSkjjdncR75pGcj"
     },
     {
+      "added_at": "2022-03-01 21:13:37",
+      "album": {
+        "name": "Van Goghs Left Ear",
+        "url": "https://open.spotify.com/album/1f92L2RYQBvolOuzzpQYbP"
+      },
+      "artists": [
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        }
+      ],
+      "duration_ms": 66782,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G"
+    },
+    {
       "added_at": "2022-01-21 16:55:33",
       "album": {
         "name": "Slo-Be Bryant 3",
@@ -643,22 +747,6 @@
       "duration_ms": 123428,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5yfMsbJda8sXVfnJHgm8Ke"
-    },
-    {
-      "added_at": "2022-01-10 18:03:55",
-      "album": {
-        "name": "Wokeup",
-        "url": "https://open.spotify.com/album/1n9NQI2R10g4jQHmLdWKSl"
-      },
-      "artists": [
-        {
-          "name": "KANKAN",
-          "url": "https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs"
-        }
-      ],
-      "duration_ms": 115343,
-      "name": "Wokeup",
-      "url": "https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R"
     },
     {
       "added_at": "2021-12-14 15:29:17",
@@ -747,6 +835,22 @@
       "duration_ms": 269727,
       "name": "lost souls (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
+    },
+    {
+      "added_at": "2022-03-01 21:14:12",
+      "album": {
+        "name": "Istbu (I'll Shoot This Bitch Up)",
+        "url": "https://open.spotify.com/album/5AAdGxRnMIWBZ0K0BiWqci"
+      },
+      "artists": [
+        {
+          "name": "Shooter McShootem",
+          "url": "https://open.spotify.com/artist/0iYOm5jZveoUVliLeAP8xE"
+        }
+      ],
+      "duration_ms": 188342,
+      "name": "Istbu (I'll Shoot This Bitch Up)",
+      "url": "https://open.spotify.com/track/44jbVr6FfDXB6mbqyvS7ir"
     },
     {
       "added_at": "2022-01-06 15:55:16",
@@ -953,20 +1057,24 @@
       "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
     },
     {
-      "added_at": "2021-09-24 04:05:00",
+      "added_at": "2022-03-01 22:12:30",
       "album": {
-        "name": "WERKKK",
-        "url": "https://open.spotify.com/album/2ANxZEqymsAttB5oVSZBeQ"
+        "name": "Throw It Back (Abow)",
+        "url": "https://open.spotify.com/album/5mnNOn8Xg5oEXL0frscPIU"
       },
       "artists": [
         {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+          "name": "TarioP",
+          "url": "https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp"
+        },
+        {
+          "name": "ShantiiP",
+          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
         }
       ],
-      "duration_ms": 96940,
-      "name": "WERKKK",
-      "url": "https://open.spotify.com/track/708tKJhHcGSsYoxd5SBr7W"
+      "duration_ms": 70542,
+      "name": "Throw It Back (Abow)",
+      "url": "https://open.spotify.com/track/23yxlmsXxljX6AVF2NlYP6"
     },
     {
       "added_at": "2021-12-03 14:21:15",

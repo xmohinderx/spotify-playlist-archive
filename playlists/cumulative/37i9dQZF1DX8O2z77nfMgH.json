@@ -3296,6 +3296,28 @@
     },
     {
       "album": {
+        "name": "En La Nota",
+        "url": "https://open.spotify.com/album/4m7isIpdneErnO4KeOYf7I"
+      },
+      "artists": [
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236808,
+      "name": "En La Nota",
+      "url": "https://open.spotify.com/track/7yF0os5HiLmmPXt9EuOZ1w"
+    },
+    {
+      "album": {
         "name": "En la Nube",
         "url": "https://open.spotify.com/album/4FAc1CsHzh8uy8FWBCuBKE"
       },
@@ -4835,28 +4857,6 @@
       "duration_ms": 151000,
       "name": "La lluvia",
       "url": "https://open.spotify.com/track/7zalxwP011KW2aoLAGxDdM"
-    },
-    {
-      "album": {
-        "name": "La Nota",
-        "url": "https://open.spotify.com/album/4m7isIpdneErnO4KeOYf7I"
-      },
-      "artists": [
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        },
-        {
-          "name": "John C",
-          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
-        }
-      ],
-      "date_added": "2022-02-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236808,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/7yF0os5HiLmmPXt9EuOZ1w"
     },
     {
       "album": {
@@ -10608,7 +10608,7 @@
     },
     {
       "album": {
-        "name": "Un Rey y un Diez",
+        "name": "Un Rey y un Diez (Caminante)",
         "url": "https://open.spotify.com/album/3vzpxd2NrnXIUd5FR11H9K"
       },
       "artists": [
@@ -10625,7 +10625,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198508,
-      "name": "Un Rey y un Diez",
+      "name": "Un Rey y un Diez (Caminante)",
       "url": "https://open.spotify.com/track/2xeNmNRIvqZa4Im8VO5tzQ"
     },
     {

@@ -2,7 +2,7 @@
 
 ### [Radar España](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
-> Descubre hoy a los artistas de mañana\. Foto: Rorro
+> Descubre hoy a los artistas de mañana\. Foto: Walls
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

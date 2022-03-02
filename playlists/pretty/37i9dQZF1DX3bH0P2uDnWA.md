@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,099 likes - 154 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,218 likes - 154 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 141 | [Twenties](https://open.spotify.com/track/7FQyzz3MRRyIHB2xuPjQhL) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Loredana Grimaudo](https://open.spotify.com/artist/1TgSFLGyPHVMMJkEJqZq73) | [Twenties](https://open.spotify.com/album/7413jwxa7Q2UbGbegbuMBj) | 3:10 |
 | 142 | [Topswing](https://open.spotify.com/track/5Pjg9XU50SLeDrMUpDjTk0) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Topswing](https://open.spotify.com/album/3bENoRQYUhngTHiM4bL18Q) | 4:15 |
 | 143 | [Lady Bedford](https://open.spotify.com/track/78rRM78zyNFDMVsPDYfKdi) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [Lady Bedford](https://open.spotify.com/album/3Y3Q2asNftRaeDVmbVCen6) | 2:28 |
-| 144 | [Very Nice People](https://open.spotify.com/track/3vKqNw4TfDPY2UcWosAscs) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8) | [Very Nice People \(Electro Swing\)](https://open.spotify.com/album/5SqULWKwqf6knpJQ6HD73V) | 3:02 |
+| 144 | [Very Nice People](https://open.spotify.com/track/3vKqNw4TfDPY2UcWosAscs) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/21KMDYR4YeXGnEjmDhOyvW) | [Very Nice People \(Electro Swing\)](https://open.spotify.com/album/5SqULWKwqf6knpJQ6HD73V) | 3:02 |
 | 145 | [Smoking Room](https://open.spotify.com/track/2AljeKmM4Moi21lYEzOHU8) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Smoking Room](https://open.spotify.com/album/3SxNifroyuI7xfbq8tdZIn) | 4:18 |
 | 146 | [J'veux du soleil \(feat\. Au P'tit Bonheur\) \[Gramophonedzie Remix\]](https://open.spotify.com/track/75HOjGeq8N5q7lFoB4oUoE) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Au P'Tit Bonheur](https://open.spotify.com/artist/6aA4f67AL9W1VxtO78M06b), [Julie Gayet](https://open.spotify.com/artist/2XrdbEWWwN5PiI1VCHwFql), [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc) | [Greatest Hits Remixed](https://open.spotify.com/album/4eGWe7746nlrNFJioqvnYL) | 6:08 |
 | 147 | [Hold the Night](https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Lady Swing](https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E) | 4:20 |

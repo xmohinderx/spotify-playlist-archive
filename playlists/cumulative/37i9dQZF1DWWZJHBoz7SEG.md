@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
-> ¡Maná y Christian Nodal; ROSALÍA, Cali y el Dandee, Maria Becerra, y más!
+> ¡Maná y Christian Nodal; ROSALÍA; Cali y el Dandee,; Maria Becerra; y más!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

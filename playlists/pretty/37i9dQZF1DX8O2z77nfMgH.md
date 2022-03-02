@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con ROSALÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,456 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,459 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 33 | [Bien](https://open.spotify.com/track/0DEVtqbfgNn1YmkBYNGoWD) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Bien](https://open.spotify.com/album/6HrvRthUDKBN8evJ9sOfSo) | 2:04 |
 | 34 | [LUV](https://open.spotify.com/track/5mlHkFqYudU2d4LFamZp95) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LO MAS XULO DE TU INSTA](https://open.spotify.com/album/3R0wKL7ZkgsGXUNrsG2X0v) | 2:43 |
 | 35 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 |
-| 36 | [La Nota](https://open.spotify.com/track/7yF0os5HiLmmPXt9EuOZ1w) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [La Nota](https://open.spotify.com/album/4m7isIpdneErnO4KeOYf7I) | 3:56 |
-| 37 | [Un Rey y un Diez](https://open.spotify.com/track/2xeNmNRIvqZa4Im8VO5tzQ) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Un Rey y un Diez](https://open.spotify.com/album/3vzpxd2NrnXIUd5FR11H9K) | 3:18 |
+| 36 | [En La Nota](https://open.spotify.com/track/7yF0os5HiLmmPXt9EuOZ1w) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [En La Nota](https://open.spotify.com/album/4m7isIpdneErnO4KeOYf7I) | 3:56 |
+| 37 | [Un Rey y un Diez \(Caminante\)](https://open.spotify.com/track/2xeNmNRIvqZa4Im8VO5tzQ) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Un Rey y un Diez \(Caminante\)](https://open.spotify.com/album/3vzpxd2NrnXIUd5FR11H9K) | 3:18 |
 | 38 | [La Carta](https://open.spotify.com/track/2AZVr8zUNL94BqbhVdSRLf) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [La Carta](https://open.spotify.com/album/2TPA65kSjTdTfol1Kv5fcD) | 2:39 |
 | 39 | [Mi Obsesión](https://open.spotify.com/track/4CS718xngvqyooIgqt7Zq3) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Mi Obsesión](https://open.spotify.com/album/1Lw2xX4sBAkLxDItt6QRF4) | 2:57 |
 | 40 | [Ya No Me Hables](https://open.spotify.com/track/2evewrPsMc78CG7U3ftWCo) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [KID & SERGI: VOL I](https://open.spotify.com/album/3Wd5eZzeDgn4cT1j2DW4MF) | 2:59 |

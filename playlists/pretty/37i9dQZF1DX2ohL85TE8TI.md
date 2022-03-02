@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama from Snowdrop, Jirisan and more..\. \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Forecasting Love and Weather\(기상청 사람들\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,418 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,754 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 50 | [If you're with me](https://open.spotify.com/track/30aVEUz4NgkGuegz32gjl8) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 51 | [Between Love and Breakup \(The Forbidden Marriage X Jung Dong Ha\)](https://open.spotify.com/track/53v1UfykwSTXfK3vG8e9U5) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Between Love and Breakup \(The Forbidden Marriage X Jung Dong Ha\)](https://open.spotify.com/album/3AQ49O22u6JQLozO6JQnWC) | 4:33 |
 | 52 | [ENFP \(Back to You X Rothy\)](https://open.spotify.com/track/10L1cmcA9Pp3Katey4tA8w) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [ENFP \(Back to You X Rothy\)](https://open.spotify.com/album/7fWejPKDbEOkagtYUhvKuZ) | 3:20 |
-| 53 | [Jagyeokru](https://open.spotify.com/track/40apaEIUuU7hyCeVS32HgW) | [A\-vine](https://open.spotify.com/artist/5EJyOsaFGVvz5ggzhzMVdk) | [오디오드라마 해시의 신루 OST Pt.1](https://open.spotify.com/album/2WFON3SmVtvrW6EwPABknE) | 2:57 |
+| 53 | [Jagyeokru \(feat\. Hailey Jung\)](https://open.spotify.com/track/40apaEIUuU7hyCeVS32HgW) | [A\-vine](https://open.spotify.com/artist/5EJyOsaFGVvz5ggzhzMVdk), [헤일리 정](https://open.spotify.com/artist/0WOJBYFAMoNeGVcniDlgcj) | [Audio Drama Twilight's Mirage OST Pt\. 1](https://open.spotify.com/album/2WFON3SmVtvrW6EwPABknE) | 2:57 |
 | 54 | [The Veiled Path](https://open.spotify.com/track/2iu5E0I9RYnCC2Qn3ouZ33) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Young Lady And Gentleman \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5U0cliOy1dfUWkJKP4JsHv) | 3:28 |
 | 55 | [Pray For Me](https://open.spotify.com/track/29ycXqOUkbHJTs1YKUqe7S) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [One Ordinary Day \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2dcbalhmZ32VWBPkgvWTPK) | 3:31 |
 | 56 | [Dance Dance \(from ″Go Go Bella″, Bella Theme\)](https://open.spotify.com/track/2Oo6DFS4KDoPIw6VR5MNHX) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Go Go Bella OST Part 1](https://open.spotify.com/album/7q0QDrNlfXoO8TgTjNP5fI) | 3:01 |

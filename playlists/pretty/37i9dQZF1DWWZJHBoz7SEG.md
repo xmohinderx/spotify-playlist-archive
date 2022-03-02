@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> ¡Maná y Christian Nodal; ROSALÍA, Cali y el Dandee, Maria Becerra, y más!
+> ¡Maná y Christian Nodal; ROSALÍA; Cali y el Dandee,; Maria Becerra; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,343 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,962 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 50 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 |
 
-Snapshot ID: `MTY0NTc2ODgwMCwwMDAwMDQwYzAwMDAwMTdmMmY3NmY3OGYwMDAwMDE3ZjJjNTI5NWFl`
+Snapshot ID: `MTY0NjE3NDQyNywwMDAwMDQwZDAwMDAwMTdmNDdhNDViMTcwMDAwMDE3ZjJjNTI5NWFl`

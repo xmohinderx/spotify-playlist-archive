@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 160940,
       "name": "Buried",
       "url": "https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 230653,
       "name": "Coast (feat. Cherrie)",
       "url": "https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 192847,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 238481,
       "name": "Dumba Nengue",
       "url": "https://open.spotify.com/track/2PBWMips0ip5rBS5rhzpjI"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 233605,
       "name": "Faller",
       "url": "https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 186301,
       "name": "F\u00f6rlorat mot v\u00e4rlden",
       "url": "https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 197626,
       "name": "Ghost Killer",
       "url": "https://open.spotify.com/track/04l6PAC8SUtEPTY3IdRuT7"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 217834,
       "name": "Good Things Come to Those Who Wait",
       "url": "https://open.spotify.com/track/4k392FaIeAtWi8XUyQXMvA"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 184828,
       "name": "Happy New Year - Spotify Singles: Holiday",
       "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 199426,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 72857,
       "name": "Jag har en s\u00e5ng",
       "url": "https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 168750,
       "name": "Jag Lovar",
       "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
@@ -1968,6 +1968,24 @@
     },
     {
       "album": {
+        "name": "Jag vill inte br\u00e5ka",
+        "url": "https://open.spotify.com/album/5Z3GZBgr9rs1RKymbV2PjS"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174917,
+      "name": "Jag vill inte br\u00e5ka",
+      "url": "https://open.spotify.com/track/0at5EUHXolMCt8H7cLWIHA"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/34mio8hxaosvK9PV8xt1Ko"
       },
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 163348,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 177103,
       "name": "K\u00e4nner ingenting",
       "url": "https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 194800,
       "name": "Live and Let Live",
       "url": "https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 207083,
       "name": "Love Someone Like Me",
       "url": "https://open.spotify.com/track/0zCBRkTEhl68qxb1EOS58g"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 172187,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 134687,
       "name": "My Name",
       "url": "https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE"
@@ -2715,7 +2733,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 161453,
       "name": "Nu Brinner \u00c4ngarna",
       "url": "https://open.spotify.com/track/3RmmF7UZoucWbBy8zuG3T5"
@@ -2733,7 +2751,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 237693,
       "name": "Nu stannar vi p\u00e5 marken",
       "url": "https://open.spotify.com/track/6AmXtz8CoUpH0AXvRSucLx"
@@ -2889,7 +2907,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 216160,
       "name": "Pengar",
       "url": "https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i"
@@ -3033,7 +3051,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "Quit Your Job",
       "url": "https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry"
@@ -3087,7 +3105,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 162576,
       "name": "Ringar p\u00e5 vattnet",
       "url": "https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC"
@@ -3127,7 +3145,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 200436,
       "name": "Rom-Com",
       "url": "https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS"
@@ -3145,7 +3163,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 206372,
       "name": "Rulla eftertexten",
       "url": "https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn"
@@ -3307,7 +3325,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 180340,
       "name": "Se mig, bara se mig",
       "url": "https://open.spotify.com/track/7qZRHmZgslebCewAQPR3Vz"
@@ -3401,7 +3419,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 180234,
       "name": "Sista g\u00e5ngen",
       "url": "https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm"
@@ -3603,7 +3621,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 199034,
       "name": "Sommardag",
       "url": "https://open.spotify.com/track/2LWwXk56lQAa5zuHd6snBB"
@@ -3665,7 +3683,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 194836,
       "name": "Start Walking",
       "url": "https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z"
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 177245,
       "name": "Stoppa tiden",
       "url": "https://open.spotify.com/track/7AmSDYMfUdmhlAmimBkfVu"
@@ -4137,7 +4155,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 194595,
       "name": "Var \u00e4r du?",
       "url": "https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW"
@@ -4159,7 +4177,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 192500,
       "name": "Vart jag mig \u00e4n v\u00e4nder",
       "url": "https://open.spotify.com/track/7LSJsHMkNJ10DLteRSvd0V"
@@ -4285,7 +4303,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 222497,
       "name": "VIKOMMER\u00c5D\u00d6",
       "url": "https://open.spotify.com/track/0GdhtbBV4AWM3QTL09OFPF"
@@ -4321,7 +4339,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 252000,
       "name": "Vinna \u2013 Spotify Studio Recording (fr\u00e5n \"De fria\")",
       "url": "https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s"
@@ -4531,7 +4549,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 243203,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1"

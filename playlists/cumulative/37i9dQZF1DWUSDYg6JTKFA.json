@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "What If We",
+        "url": "https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "Give Me Your Eyes",
+      "url": "https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki"
+    },
+    {
+      "album": {
         "name": "Glory and Majesty",
         "url": "https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF"
       },
@@ -315,7 +333,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
@@ -553,6 +571,24 @@
       "duration_ms": 222546,
       "name": "I Need A Miracle",
       "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
+    },
+    {
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300373,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
     },
     {
       "album": {
@@ -897,7 +933,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 217799,
       "name": "Rise",
       "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
@@ -1017,6 +1053,24 @@
       "duration_ms": 185946,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/10EsmmPLFJt1Ubof7uXegf"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
     },
     {
       "album": {

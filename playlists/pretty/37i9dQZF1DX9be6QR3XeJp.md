@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Wet Leg
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,931 likes - 96 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,144 likes - 96 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
+| 1 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 |
 | 2 | [The Way I Do](https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Rendezvous @ 7](https://open.spotify.com/album/783S0ZXyJ63o5txGFV5ej0) | 3:13 |
 | 3 | [Hate You, I Love You](https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Hate You, I Love You](https://open.spotify.com/album/3MEz34mMadTHxqUvEF1HFH) | 2:36 |
 | 4 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 95 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 96 | [Think That I Don't Need Your Love](https://open.spotify.com/track/15lQe5EUD55Fkq7HWLnJp5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/75Y9qwXRX8OHrDrYTKuBMg) | 3:43 |
 
-Snapshot ID: `MTY0NjA5MjgwMCwwMDAwMDE1ODAwMDAwMTdmNDJjNmQwNzEwMDAwMDE3ZjQwZWFiNjMx`
+Snapshot ID: `MTY0NjE4Mjc0NSwwMDAwMDAwMGRlMmJiNTI2OTY4MzFkMDczODM3OTMxYmYzMjVmMTEx`

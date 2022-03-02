@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 261173,
       "name": "A Christmas Carol Main Title",
       "url": "https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 212426,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 166386,
       "name": "Christmas Time Is Here - Vocal",
       "url": "https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 173693,
       "name": "Django",
       "url": "https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 235266,
       "name": "Finale (from the motion picture, \"Home Alone 2: Lost In New York)",
       "url": "https://open.spotify.com/track/2SIuzuio78aB01RGY90d59"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 135443,
       "name": "Futile Devices (Doveman Remix)",
       "url": "https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 157506,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 184777,
       "name": "Let It Snow, Let It Snow, Let It Snow",
       "url": "https://open.spotify.com/track/0GEQ0otjCdvAelfJqGifX1"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 222640,
       "name": "Libre Soy",
       "url": "https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "Love My Way",
       "url": "https://open.spotify.com/track/3GITxE9ghA1r7iOZXRbS6O"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 293533,
       "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
       "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
@@ -1197,6 +1197,28 @@
       "duration_ms": 229080,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/47F10EemSKAI6A85hLIpn0"
+    },
+    {
+      "album": {
+        "name": "Drive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5c8OkYLDmxShOqZYG765wA"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        },
+        {
+          "name": "Lovefoxxx",
+          "url": "https://open.spotify.com/artist/73XWBHR8NMgn23HuezjtuP"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259800,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/1lwZpC6261myEb2nikGWrU"
     },
     {
       "album": {
@@ -1323,7 +1345,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 108013,
       "name": "Overture - (The Nightmare Before Christmas)",
       "url": "https://open.spotify.com/track/4r2IPR6tLBgF1dl2FqcPfF"
@@ -1453,7 +1475,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Run Rudolph Run - Single Version",
       "url": "https://open.spotify.com/track/0hwXYsTm1ulCoAwfMtHHKb"
@@ -1741,7 +1763,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 188933,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/1l2CvcIAL1MtPbtZhh0Z77"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 373893,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/1pPhNmpoziuF4VAw75L6FH"
@@ -2037,7 +2059,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 182706,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/3PD9zS9RFsRFuPel4CsmXe"

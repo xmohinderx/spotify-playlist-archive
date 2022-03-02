@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 201743,
       "name": "2 almas",
       "url": "https://open.spotify.com/track/3x8wse8y39pB0hhu4MeEql"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 167218,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 142040,
       "name": "Aj\u00e1",
       "url": "https://open.spotify.com/track/4YqdIV12MK7UWIyba06ClS"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 231111,
       "name": "Confusi\u00f3n",
       "url": "https://open.spotify.com/track/1fSkREDvtJw4pGkudpJzEF"
@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "1917",
+        "url": "https://open.spotify.com/album/7bsEhVPhZ0ChPBkJ7FWWFC"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291984,
+      "name": "Drogas Caras",
+      "url": "https://open.spotify.com/track/7AU8H4KWP6qEDHj9qcoiRN"
+    },
+    {
+      "album": {
         "name": "El D\u00eda Que Me Odies",
         "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
       },
@@ -691,7 +709,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "El D\u00eda Que Me Odies",
       "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 212000,
       "name": "En un Rinconcito",
       "url": "https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 210964,
       "name": "Healing",
       "url": "https://open.spotify.com/track/06Aj2PCegwIn406WuXvdqg"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 198260,
       "name": "Mi Cama",
       "url": "https://open.spotify.com/track/3aCuRkhwq3gTII6b3WWESK"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 166578,
       "name": "No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/0yYxQhoJe1My3LhcIPIkXQ"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 192507,
       "name": "NOW",
       "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 168804,
       "name": "Qui\u00e9n Dir\u00eda",
       "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 200963,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 188890,
       "name": "Supersticiones",
       "url": "https://open.spotify.com/track/5GrHtKe0JT9ADVKTcOq2K9"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 183547,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/0WVk9ryyXfyTshKnLQ1EZ2"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "UNDOSTRES",
       "url": "https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 137775,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75"

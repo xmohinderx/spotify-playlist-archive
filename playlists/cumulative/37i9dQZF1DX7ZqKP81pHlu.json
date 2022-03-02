@@ -718,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Nad El Borkan",
+        "url": "https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU"
+      },
+      "artists": [
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256601,
+      "name": "Nad El Borkan",
+      "url": "https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3"
+    },
+    {
+      "album": {
         "name": "Nhassel fi Chkoune",
         "url": "https://open.spotify.com/album/0oSld3Mvd2nIvnhnAHvDOz"
       },

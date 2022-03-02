@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX24Kh15JFQJ0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24Kh15JFQJ0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24Kh15JFQJ0)
 
-### [New Traditions: Country Heroes](https://open.spotify.com/playlist/2QKuxbEAfyIMJZTRGd49m6)
+### [New Traditions Country Heroes](https://open.spotify.com/playlist/2QKuxbEAfyIMJZTRGd49m6)
 
-> The latest music from our Country Heroes.<br/>Cover: Tracy Lawrence
+> The latest music from our Country Heroes.<br/>Cover: Dolly Parton
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-10-15 |  |
 | [Don't Drink Whiskey](https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Don't Drink Whiskey](https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD) | 3:38 | 2022-01-28 |  |
 | [Dusty Old Dust](https://open.spotify.com/track/2WNcZzyx0W4ufueyWSF3qd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Dusty Old Dust](https://open.spotify.com/album/5vrzgbC6QkrdYSXIc6UM68) | 5:40 | 2021-10-15 |  |
-| [Eagle When She Flies](https://open.spotify.com/track/6a253LpGaq8byPMmTuyBPw) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Eagle When She Flies](https://open.spotify.com/album/505DGCQ7YCwILZLmizg0yK) | 3:39 | 2021-10-15 |  |
+| [Eagle When She Flies](https://open.spotify.com/track/6a253LpGaq8byPMmTuyBPw) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Eagle When She Flies](https://open.spotify.com/album/505DGCQ7YCwILZLmizg0yK) | 3:39 | 2021-10-15 | 2022-03-02 |
 | [Easy Goin](https://open.spotify.com/track/6AoFAz2zZRdC43mzVU01Sf) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Easy Goin](https://open.spotify.com/album/52qFba0o5xWWhpP6CUVxXe) | 3:08 | 2021-10-15 |  |
 | [Every Little Honky Tonk Bar](https://open.spotify.com/track/64Zm9wNGj6coqg4zsb0Soj) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Every Little Honky Tonk Bar](https://open.spotify.com/album/3YPIY3nVjvhEGX9yRwwYx6) | 3:14 | 2021-10-15 |  |
 | [Everybody's Talkin'](https://open.spotify.com/track/3zqmP9CKPHOhzVntc2ropS) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Out of Sane](https://open.spotify.com/album/1UUgUFNRDCZlumiG2c2qXJ) | 3:31 | 2021-10-15 |  |
@@ -50,7 +50,7 @@
 | [Holes in the Wall \(feat\. Tracy Byrd\)](https://open.spotify.com/track/68juMHiJPLVDit4W3WmsP1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Hindsight 2020, Vol\. 2: Price of Fame](https://open.spotify.com/album/1SYBN8T25jAmIstn5swHeA) | 2:59 | 2021-10-15 |  |
 | [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 | 2021-10-15 |  |
 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT) | 2:55 | 2021-10-15 |  |
-| [I Called Mama](https://open.spotify.com/track/3YuvAPidBWldqjagOryo40) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [I Called Mama](https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA) | 3:31 | 2021-10-15 |  |
+| [I Called Mama](https://open.spotify.com/track/3YuvAPidBWldqjagOryo40) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [I Called Mama](https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA) | 3:31 | 2021-10-15 | 2022-03-02 |
 | [I Dare You to Love](https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl \(Deluxe Edition\)](https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO) | 3:19 | 2021-10-15 |  |
 | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/track/3OjOvDWOs299i08qEvOanH) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/album/7FOwTnSqH3KAgmt6SYstvJ) | 3:30 | 2021-10-15 |  |
 | [I Saw The Light](https://open.spotify.com/track/7gIu8tkCEcIdVoljpO849s) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Saw The Light](https://open.spotify.com/album/6xgWPrEIArT7J0WNJjJs8I) | 1:52 | 2021-11-12 |  |

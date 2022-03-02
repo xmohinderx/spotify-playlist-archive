@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,372 likes - 92 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,440 likes - 93 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,13 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 82 | [Happy Girl](https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Happy Girl](https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh) | 3:03 |
 | 83 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 |
 | 84 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 |
-| 85 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
-| 86 | [I'll Be There](https://open.spotify.com/track/68YCVGoqg3Yxv8kMhLTsDm) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [I'll Be There](https://open.spotify.com/album/17piO7NZ4Y5Fz1S4f9bi6y) | 2:48 |
-| 87 | [RUNAWAY](https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RUNAWAY](https://open.spotify.com/album/4m4Ohp8rvOe3YANkKTb40C) | 3:15 |
-| 88 | [last week](https://open.spotify.com/track/0LkURTUPnUK1Ave7Y9Rk5m) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [last week](https://open.spotify.com/album/3UMkTQglogAqf12RwotZuz) | 2:19 |
-| 89 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 |
-| 90 | [Back Words](https://open.spotify.com/track/3KWR8SEGBcxMklHWsLHU42) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Back Words](https://open.spotify.com/album/29epwn0AEmjRReVddVsGBZ) | 3:19 |
-| 91 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
-| 92 | [I Like](https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [I Like](https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty) | 2:07 |
+| 85 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 |
+| 86 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
+| 87 | [I'll Be There](https://open.spotify.com/track/68YCVGoqg3Yxv8kMhLTsDm) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [I'll Be There](https://open.spotify.com/album/17piO7NZ4Y5Fz1S4f9bi6y) | 2:48 |
+| 88 | [RUNAWAY](https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RUNAWAY](https://open.spotify.com/album/4m4Ohp8rvOe3YANkKTb40C) | 3:15 |
+| 89 | [last week](https://open.spotify.com/track/0LkURTUPnUK1Ave7Y9Rk5m) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [last week](https://open.spotify.com/album/3UMkTQglogAqf12RwotZuz) | 2:19 |
+| 90 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 |
+| 91 | [Back Words](https://open.spotify.com/track/3KWR8SEGBcxMklHWsLHU42) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Back Words](https://open.spotify.com/album/29epwn0AEmjRReVddVsGBZ) | 3:19 |
+| 92 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
+| 93 | [I Like](https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [I Like](https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty) | 2:07 |
 
 Snapshot ID: `MTY0NTc0MzYwMCwwMDAwMDM2MTAwMDAwMTdmMmRmNjcyMjEwMDAwMDE3ZjJkZTQyNTUw`

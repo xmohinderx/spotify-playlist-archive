@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0Wd4x2oJ5GDXP6QXroSGD9.md) - cumulative - [plain](/playlists/plain/0Wd4x2oJ5GDXP6QXroSGD9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Wd4x2oJ5GDXP6QXroSGD9)
 
-### lofi hip hop chill/study music
+### [lofi hip hop chill/study music](https://open.spotify.com/playlist/4JM2L2envXGFQsKlA6eLmY)
 
 > Best lofi music to study or chill to.
 

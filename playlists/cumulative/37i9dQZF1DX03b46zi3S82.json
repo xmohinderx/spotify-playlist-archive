@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Bad Dream That Will Pass Away",
+        "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "A Bad Dream That Will Pass Away",
+      "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "album": {
         "name": "A bed of tulips",
         "url": "https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 140254,
       "name": "Anything Can Be",
       "url": "https://open.spotify.com/track/43rgJwC0nHNlkJmWq77kA5"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 159500,
       "name": "At Rest",
       "url": "https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 127892,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
@@ -1736,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
+    },
+    {
+      "album": {
         "name": "Deepest Woods",
         "url": "https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe"
       },
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 179197,
       "name": "Late",
       "url": "https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx"
@@ -2161,7 +2197,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 166727,
       "name": "Melts Into Air",
       "url": "https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F"
@@ -2637,6 +2673,24 @@
       "duration_ms": 165511,
       "name": "Qu\u00e9rete a ti mesmo",
       "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+    },
+    {
+      "album": {
+        "name": "Raconteur",
+        "url": "https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107717,
+      "name": "Raconteur",
+      "url": "https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK"
     },
     {
       "album": {
@@ -3195,7 +3249,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-02",
       "duration_ms": 112781,
       "name": "Stay With Us",
       "url": "https://open.spotify.com/track/4Pacn01OYBrPjxTVMSe5At"
@@ -3307,6 +3361,24 @@
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6goPA6XgFxqaIhaIk1IXhY"
+    },
+    {
+      "album": {
+        "name": "Symbios",
+        "url": "https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173161,
+      "name": "Symbios",
+      "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"
     },
     {
       "album": {

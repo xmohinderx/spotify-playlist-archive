@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
-> New Music Discovery is what we're about\. Try it on for size\. Cover: Maddie & Tae
+> New Music Discovery is what we're about\. Try it on for size\. Cover: ERNEST
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

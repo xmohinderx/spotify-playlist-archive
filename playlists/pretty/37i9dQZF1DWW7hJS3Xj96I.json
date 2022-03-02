@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90!",
-  "num_followers": 947693,
+  "num_followers": 947836,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA5NjAyMiwwMDAwMDAwMDdhOTFlOWU5OTVmNjE3NGE2MmVhYzk0MTNiYzBiOTdh",
+  "snapshot_id": "MTY0NjE4MjM2NiwwMDAwMDAwMDY0ZjRhNTg5NThiNDNhNDEzMTZiMTIxODlkYzE5MzVj",
   "tracks": [
     {
       "added_at": "2021-12-09 23:02:57",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
         "name": "16 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/6ugipz6Zx3IWPW4hGPP9Fk"
       },
@@ -75,50 +59,18 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
         }
       ],
-      "duration_ms": 281173,
-      "name": "Bella Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/39t2XXSG5vyjBq8fyA6kA3"
-      },
-      "artists": [
-        {
-          "name": "Calo",
-          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Formas De Amor",
-      "url": "https://open.spotify.com/track/5MfHBAD6xKLwRygDd2pHbP"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "Superexitos Vol. 2",
-        "url": "https://open.spotify.com/album/6Qjuh2f96ox5s3DpgL62rz"
-      },
-      "artists": [
-        {
-          "name": "The Sacados",
-          "url": "https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6"
-        }
-      ],
-      "duration_ms": 219454,
-      "name": "Mas De Lo Que Te Imaginas (Classic Version)",
-      "url": "https://open.spotify.com/track/3PRhLVCZkhI47NI4iwxCNT"
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -139,18 +91,50 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/39t2XXSG5vyjBq8fyA6kA3"
       },
       "artists": [
         {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Desesperada",
-      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
+      "duration_ms": 241933,
+      "name": "Formas De Amor",
+      "url": "https://open.spotify.com/track/5MfHBAD6xKLwRygDd2pHbP"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Bella Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "Superexitos Vol. 2",
+        "url": "https://open.spotify.com/album/6Qjuh2f96ox5s3DpgL62rz"
+      },
+      "artists": [
+        {
+          "name": "The Sacados",
+          "url": "https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6"
+        }
+      ],
+      "duration_ms": 219454,
+      "name": "Mas De Lo Que Te Imaginas (Classic Version)",
+      "url": "https://open.spotify.com/track/3PRhLVCZkhI47NI4iwxCNT"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -187,22 +171,6 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Monica Naranjo",
-        "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
-      },
-      "artists": [
-        {
-          "name": "Monica Naranjo",
-          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Solo Se Vive una Vez",
-      "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -215,22 +183,6 @@
       "duration_ms": 289600,
       "name": "Suave",
       "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "Ellas Cantan Asi",
-        "url": "https://open.spotify.com/album/2EpJrEzShLtmq7mfnzIwmA"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Con los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/2wtGwtUIBtL8ZdJN91PePX"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -251,18 +203,18 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Historias De Amor: Lo Mejor De Sentidos Opuestos",
-        "url": "https://open.spotify.com/album/1ve3pQBkzBRbTRR36PH0Tv"
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
       },
       "artists": [
         {
-          "name": "Sentidos Opuestos",
-          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 267320,
-      "name": "\u00bfDonde Est\u00e1n?",
-      "url": "https://open.spotify.com/track/3LIOqIGge9NmgXuzbkOmIf"
+      "duration_ms": 227733,
+      "name": "Desesperada",
+      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -283,6 +235,22 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
+        "name": "Monica Naranjo",
+        "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
+      },
+      "artists": [
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Solo Se Vive una Vez",
+      "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -295,6 +263,22 @@
       "duration_ms": 310813,
       "name": "Clavado En Un Bar",
       "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "Historias De Amor: Lo Mejor De Sentidos Opuestos",
+        "url": "https://open.spotify.com/album/1ve3pQBkzBRbTRR36PH0Tv"
+      },
+      "artists": [
+        {
+          "name": "Sentidos Opuestos",
+          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+        }
+      ],
+      "duration_ms": 267320,
+      "name": "\u00bfDonde Est\u00e1n?",
+      "url": "https://open.spotify.com/track/3LIOqIGge9NmgXuzbkOmIf"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -331,18 +315,18 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Mucho Azucar (Grandes Exitos)",
-        "url": "https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV"
+        "name": "Ellas Cantan Asi",
+        "url": "https://open.spotify.com/album/2EpJrEzShLtmq7mfnzIwmA"
       },
       "artists": [
         {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 210866,
-      "name": "S\u00f3lo Se Vive una Vez",
-      "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
+      "duration_ms": 210760,
+      "name": "Con los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/2wtGwtUIBtL8ZdJN91PePX"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -363,50 +347,18 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Fey",
-        "url": "https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh"
+        "name": "Mucho Azucar (Grandes Exitos)",
+        "url": "https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV"
       },
       "artists": [
         {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
         }
       ],
-      "duration_ms": 221173,
-      "name": "Media Naranja",
-      "url": "https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 359173,
-      "name": "No es lo mismo",
-      "url": "https://open.spotify.com/track/6p7KLIvLhnACzXHuUi00zs"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "En Extasis",
-        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Gracias A Dios",
-      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+      "duration_ms": 210866,
+      "name": "S\u00f3lo Se Vive una Vez",
+      "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -427,6 +379,38 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
+        "name": "En Extasis",
+        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Gracias A Dios",
+      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "Fey",
+        "url": "https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Media Naranja",
+      "url": "https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
         "name": "El Sapo",
         "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
       },
@@ -439,38 +423,6 @@
       "duration_ms": 123960,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "Estas Buena",
-        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Te Ves Buena",
-      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "The Summer Is Magic - Ep",
-        "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
-      },
-      "artists": [
-        {
-          "name": "Playahitty",
-          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "The Summer Is Magic - Radio Mix",
-      "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -491,54 +443,6 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Ojos As\u00ed",
-      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
-        }
-      ],
-      "duration_ms": 262546,
-      "name": "M\u00edrame a los Ojos",
-      "url": "https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/35pQoBuosurSPDG6vQlT0I"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/2wsgX6SnEUwd6x18cC31uC"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
         "name": "Tu Angel De La Guarda",
         "url": "https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL"
       },
@@ -551,22 +455,6 @@
       "duration_ms": 206600,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf"
-    },
-    {
-      "added_at": "2021-12-09 23:02:57",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/0X0BfLqYvgp8SHUlRPoWts"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Como Un Trueno",
-      "url": "https://open.spotify.com/track/6HCUC1WENuTneci2DskHwR"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -587,22 +475,98 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
       "artists": [
         {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        },
-        {
-          "name": "Anayka",
-          "url": "https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV"
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
         }
       ],
-      "duration_ms": 260533,
-      "name": "Rica y Apretadita (feat. Anayka)",
-      "url": "https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ"
+      "duration_ms": 262546,
+      "name": "M\u00edrame a los Ojos",
+      "url": "https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "The Summer Is Magic - Ep",
+        "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
+      },
+      "artists": [
+        {
+          "name": "Playahitty",
+          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "The Summer Is Magic - Radio Mix",
+      "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "MDO",
+        "url": "https://open.spotify.com/album/1Qh8IqiGgpCGxHGXQdpbVr"
+      },
+      "artists": [
+        {
+          "name": "MDO",
+          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "No Puedo Olvidarme Ti",
+      "url": "https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "Grandes exitos 1997-2004",
+        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 359173,
+      "name": "No es lo mismo",
+      "url": "https://open.spotify.com/track/6p7KLIvLhnACzXHuUi00zs"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/35pQoBuosurSPDG6vQlT0I"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/2wsgX6SnEUwd6x18cC31uC"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/0X0BfLqYvgp8SHUlRPoWts"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Como Un Trueno",
+      "url": "https://open.spotify.com/track/6HCUC1WENuTneci2DskHwR"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -623,18 +587,34 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "MDO",
-        "url": "https://open.spotify.com/album/1Qh8IqiGgpCGxHGXQdpbVr"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "MDO",
-          "url": "https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 210520,
-      "name": "No Puedo Olvidarme Ti",
-      "url": "https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq"
+      "duration_ms": 235733,
+      "name": "Ojos As\u00ed",
+      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "Estas Buena",
+        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Te Ves Buena",
+      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -719,18 +699,18 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
       "artists": [
         {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 264280,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2021-12-09 23:02:57",
@@ -751,18 +731,38 @@
     {
       "added_at": "2021-12-09 23:02:57",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
         }
       ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
+    },
+    {
+      "added_at": "2021-12-09 23:02:57",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        },
+        {
+          "name": "Anayka",
+          "url": "https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV"
+        }
+      ],
+      "duration_ms": 260533,
+      "name": "Rica y Apretadita (feat. Anayka)",
+      "url": "https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ"
     },
     {
       "added_at": "2021-12-09 23:02:57",

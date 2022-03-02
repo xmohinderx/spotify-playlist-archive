@@ -968,6 +968,24 @@
     },
     {
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/7glPCixt19lrdyGMIVxQJd"
+      },
+      "artists": [
+        {
+          "name": "Ace Hood",
+          "url": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147676,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/7fvp5QxFPZrv5eFY6EXp9o"
+    },
+    {
+      "album": {
         "name": "Grinding All Season",
         "url": "https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2"
       },

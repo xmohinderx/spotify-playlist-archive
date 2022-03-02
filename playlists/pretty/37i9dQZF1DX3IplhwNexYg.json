@@ -1,12 +1,12 @@
 {
   "description": "Raw and unfiltered. Cover: SASAMI",
-  "num_followers": 103433,
+  "num_followers": 103527,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA2OTMyMCwwMDAwMDA3ZTAwMDAwMTdmNDE2MDhjYTkwMDAwMDE3ZjQxNjA0OTc4",
+  "snapshot_id": "MTY0NjEyOTI1MSwwMDAwMDA3ZjAwMDAwMTdmNDRmMzAzYmYwMDAwMDE3ZjQxNjA0OTc4",
   "tracks": [
     {
       "added_at": "2022-02-28 17:28:40",
@@ -55,6 +55,22 @@
       "duration_ms": 153357,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3bGQc58jpE4J9xlqavrTPb"
+    },
+    {
+      "added_at": "2022-03-01 10:07:31",
+      "album": {
+        "name": "Angelica",
+        "url": "https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn"
     },
     {
       "added_at": "2022-02-28 17:28:40",
@@ -1055,22 +1071,6 @@
       "duration_ms": 217159,
       "name": "Once More For The Ocean",
       "url": "https://open.spotify.com/track/4Cvscvb1bbHSsY8lwmSwIQ"
-    },
-    {
-      "added_at": "2022-02-28 17:28:40",
-      "album": {
-        "name": "The Year I Broke",
-        "url": "https://open.spotify.com/album/4MWAP25bhaNgK9ANcplc9J"
-      },
-      "artists": [
-        {
-          "name": "Prince of Lilies",
-          "url": "https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5"
-        }
-      ],
-      "duration_ms": 238875,
-      "name": "The Year I Broke",
-      "url": "https://open.spotify.com/track/7tdoduOQJNzwq7f8CdMLBw"
     }
   ],
   "unique_name": "pulp",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum.  Cover: Josh Kerr",
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum.  Cover: Peytan Porter",
   "name": "Young Nashville",
   "published_playlist_ids": [
     "3ZmZ8VTqhMzD1YGM4aAkJ4"
@@ -2315,6 +2315,24 @@
       "duration_ms": 180742,
       "name": "The Way Back",
       "url": "https://open.spotify.com/track/4ZyzYYf3r0D03aFWInHHNo"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik"
+      },
+      "artists": [
+        {
+          "name": "Peytan Porter",
+          "url": "https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170474,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS"
     },
     {
       "album": {
