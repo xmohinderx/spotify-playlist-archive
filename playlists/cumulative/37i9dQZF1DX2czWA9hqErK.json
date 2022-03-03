@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 247315,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/6rb8nnxO6NcPM6kl9iF8Ij"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 212230,
       "name": "Fixing Me Breaking You",
       "url": "https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 201135,
       "name": "Highs And The Lows",
       "url": "https://open.spotify.com/track/57F4g2ejOTNNwOi096ygMw"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 191335,
       "name": "I Wish I Never Said I Love You",
       "url": "https://open.spotify.com/track/5skBOIu0bYqM1wqeEgGFtk"
@@ -1818,6 +1818,24 @@
     },
     {
       "album": {
+        "name": "Lies & Cheats",
+        "url": "https://open.spotify.com/album/4GWHyoDSIt73mzsGymN1Ey"
+      },
+      "artists": [
+        {
+          "name": "Nathan Grisdale",
+          "url": "https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226116,
+      "name": "Lies & Cheats",
+      "url": "https://open.spotify.com/track/5CpAElXaFax1RVC8AU8dA4"
+    },
+    {
+      "album": {
         "name": "Like I Do",
         "url": "https://open.spotify.com/album/0AaaRwz24KqFzKlqYUfUuZ"
       },
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 238641,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/1iur4z7GfEuZjjo9MvKKkA"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 262978,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 174567,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
@@ -2901,7 +2919,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 198369,
       "name": "Something Sentimental",
       "url": "https://open.spotify.com/track/6mnqCMfVvuXz1rN7upr13S"
@@ -3229,7 +3247,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 216292,
       "name": "Tired",
       "url": "https://open.spotify.com/track/0UTmk2WK2RxXGGbctDijga"
@@ -3485,7 +3503,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
@@ -3539,7 +3557,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 261510,
       "name": "Whose Life?",
       "url": "https://open.spotify.com/track/4ZBPIZ9ucyCYObAYPKPOs6"

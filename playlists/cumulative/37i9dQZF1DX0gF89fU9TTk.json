@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
   "name": "Hits UP",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3TGj756pi2TgmaL4E5mf1J"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 191989,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/5WOAErKdSpXwj0wKlezVl8"
@@ -172,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Changed (OHKI Roller Rink Remix)",
+        "url": "https://open.spotify.com/album/2KRTW1LTZzYHzGZbpGoJ98"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182758,
+      "name": "Changed - OHKI Roller Rink Remix",
+      "url": "https://open.spotify.com/track/7h8sVS1zlPsMIQZDyFmFSK"
+    },
+    {
+      "album": {
         "name": "Choose to Praise (Reinvented)",
         "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
       },
@@ -201,7 +221,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 200350,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
@@ -241,6 +261,32 @@
       "duration_ms": 200324,
       "name": "Earth",
       "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+    },
+    {
+      "album": {
+        "name": "Edge of Time (Bala Mandala Remix)",
+        "url": "https://open.spotify.com/album/3lQfdE3f9o8tcERGl6uZeH"
+      },
+      "artists": [
+        {
+          "name": "William Matthews",
+          "url": "https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA"
+        },
+        {
+          "name": "Lauren Evans",
+          "url": "https://open.spotify.com/artist/3C7ueB5rQVcVfh0ryluAvk"
+        },
+        {
+          "name": "Bala Mandala",
+          "url": "https://open.spotify.com/artist/6wz0tpwgz2ASbD9cWqxb64"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260610,
+      "name": "Edge of Time (Bala Mandala Remix)",
+      "url": "https://open.spotify.com/track/4qjDLG7d5gQoE2vkQKOrjz"
     },
     {
       "album": {
@@ -353,7 +399,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/3HBJo3avOKynYfKIfTecjX"
@@ -396,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
+      },
+      "artists": [
+        {
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194335,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
@@ -425,7 +489,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 216707,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3uK2cHWyHd9Lfau3gMAHW9"
@@ -461,7 +525,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2ifo08ftWXW39Alpkb4dKI"
@@ -483,6 +547,24 @@
       "duration_ms": 171546,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK"
+    },
+    {
+      "album": {
+        "name": "Grip of Grace",
+        "url": "https://open.spotify.com/album/4ZtCH3TpeVc0MWIpEC1se0"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307559,
+      "name": "Grip of Grace",
+      "url": "https://open.spotify.com/track/1krkicizq4r7FIsqYiTjwo"
     },
     {
       "album": {
@@ -715,7 +797,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 154305,
       "name": "It's Coming",
       "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
@@ -737,7 +819,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 218946,
       "name": "I\u2019ve Got A Fire",
       "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
@@ -962,6 +1044,50 @@
     },
     {
       "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "album": {
+        "name": "Love Goes On",
+        "url": "https://open.spotify.com/album/02SXNKeiGrK5R1pewdef3T"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Hezekia",
+          "url": "https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N"
+        },
+        {
+          "name": "H!ERO",
+          "url": "https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222597,
+      "name": "Love Goes On - Remix",
+      "url": "https://open.spotify.com/track/5UdR96WgFNSPA1N4GvkWgy"
+    },
+    {
+      "album": {
         "name": "Love Me Like You",
         "url": "https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he"
       },
@@ -1154,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "Heaven Life (Live)",
+        "url": "https://open.spotify.com/album/5JRlSur175Jn3M9X6In0HF"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "Nobody But You - Live",
+      "url": "https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop"
+    },
+    {
+      "album": {
         "name": "Not a Chance",
         "url": "https://open.spotify.com/album/1k2UtyplIjOPU4UBJnTEMO"
       },
@@ -1165,7 +1309,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/5yqIFVBn9Ra40WuXhpMEFf"
@@ -1183,7 +1327,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 181598,
       "name": "Not Too Far",
       "url": "https://open.spotify.com/track/1UAZPeZdpFFYa8wanZCj1H"
@@ -1255,7 +1399,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 162894,
       "name": "Phenomena (DA DA) - Live",
       "url": "https://open.spotify.com/track/5SU08C7u2nFFZ10QyvI8RO"
@@ -1291,7 +1435,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
@@ -1411,7 +1555,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 221693,
       "name": "State Of Mind - Live",
       "url": "https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl"
@@ -1451,7 +1595,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 210355,
       "name": "Take up My Cross",
       "url": "https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6"
@@ -1553,7 +1697,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 194493,
       "name": "To Get To Me",
       "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"
@@ -1589,7 +1733,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 200360,
       "name": "Way Truth Life - Live",
       "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
@@ -1626,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Quarantine Sessions",
+        "url": "https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234969,
+      "name": "WE\u2019RE GOING PUBLIC (Acoustic)",
+      "url": "https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4"
+    },
+    {
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -1655,7 +1817,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Wind + Waves",
       "url": "https://open.spotify.com/track/2VhspIZudDKIFjevS5tcWk"

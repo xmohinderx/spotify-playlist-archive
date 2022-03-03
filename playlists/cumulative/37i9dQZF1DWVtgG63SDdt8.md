@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVtgG63SDdt8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVtgG63SDdt8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVtgG63SDdt8)
 
-### New Music Friday Christian
+### [New Music Friday Christian](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Blessing Offor
 

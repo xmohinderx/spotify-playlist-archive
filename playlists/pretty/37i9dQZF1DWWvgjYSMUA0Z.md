@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,390 likes - 82 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,488 likes - 82 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 9 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 |
 | 10 | [Recline](https://open.spotify.com/track/5sAIeiXf3O08GhLBb9sO9R) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Recline](https://open.spotify.com/album/6Whp4MggXtkjsGYWct0aGU) | 4:14 |
 | 11 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 |
-| 12 | [Voice Healing](https://open.spotify.com/track/0kaXyVNzFEfBqkXW5dOC6m) | [Johan Davidsson](https://open.spotify.com/artist/4ZkyvyKqLdUXLmDc3qrgbm) | [Voice Healing](https://open.spotify.com/album/7xYSAwu51DTDeaB5qStm0N) | 6:18 |
+| 12 | [Voice Healing](https://open.spotify.com/track/0kaXyVNzFEfBqkXW5dOC6m) | [Johan Davidsson](https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi) | [Voice Healing](https://open.spotify.com/album/7xYSAwu51DTDeaB5qStm0N) | 6:18 |
 | 13 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 |
 | 14 | [Kindred Spirit](https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:19 |
 | 15 | [Sunrise Glory](https://open.spotify.com/track/1jAENgcKZknON4aQSvr4Be) | [Laksmi Sand](https://open.spotify.com/artist/7H5gwCLGNCQ8guLmXFdoJy) | [Laksmi Sand](https://open.spotify.com/album/4zERgFjOw6RNdbpGBeI4EO) | 2:32 |

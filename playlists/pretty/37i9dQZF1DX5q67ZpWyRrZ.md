@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > The best of the country's independent artists\. Cover: Anumita Nadesan
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,700 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,502 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 13 | [Mishri](https://open.spotify.com/track/1xtkLqZcGPQZP9549WlmfH) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mishri](https://open.spotify.com/album/0xAwBbCJPemAmPVOIe5UXw) | 3:20 |
 | 14 | [Kaagaz Ki Naav](https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Kaagaz Ki Naav](https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu) | 4:57 |
 | 15 | [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 |
-| 16 | [Khamoshi](https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Khamoshi](https://open.spotify.com/album/7lWycnEMRXAuuNs7t9dQxy) | 3:09 |
-| 17 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 |
+| 16 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 |
+| 17 | [Khamoshi](https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Khamoshi](https://open.spotify.com/album/7lWycnEMRXAuuNs7t9dQxy) | 3:09 |
 | 18 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 |
 | 19 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 |
 | 20 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 84 | [Khaali Si Rooh](https://open.spotify.com/track/1QUZRkSFhpdYDWiD5cyu20) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6) | [Khaali Si Rooh](https://open.spotify.com/album/4KMgvwY6zwqErkUNGBB1P3) | 3:02 |
 | 85 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 |
 
-Snapshot ID: `MTY0NjA1Mjk3NiwwMDAwMDEyYjAwMDAwMTdmNDA2NzI2Y2YwMDAwMDE3ZWZkNGRkYmI1`
+Snapshot ID: `MTY0NjIxNDU1OSwwMDAwMDEyYzAwMDAwMTdmNGEwOGI1ZTAwMDAwMDE3ZWZkNGRkYmI1`

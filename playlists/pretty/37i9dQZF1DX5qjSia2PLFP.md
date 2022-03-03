@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > Emerging music breaking waves\.  Cover: Saba
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,561 likes - 68 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,620 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

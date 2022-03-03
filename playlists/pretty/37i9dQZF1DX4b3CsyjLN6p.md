@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4b3CsyjLN6p.md) - [plain]
 
 > It's like that game you use to play when you were bored, only different\. \[Warning: Explicit Content\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,551 likes - 20 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,552 likes - 20 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

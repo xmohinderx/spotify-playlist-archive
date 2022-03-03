@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 154173,
       "name": "A Glass Of Champagne",
       "url": "https://open.spotify.com/track/3lm0QsdpQrypDUbHexpVWK"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "Ain't No Stoppin' Us Now - Single Version",
       "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 260893,
       "name": "Angeleyes",
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 193133,
       "name": "Baby, Don't Change Your Mind",
       "url": "https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 175119,
       "name": "Black Is Black",
       "url": "https://open.spotify.com/track/3Ac2O2uVXIPWaU9aIvwRqg"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 303533,
       "name": "Boogie Nights",
       "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 188133,
       "name": "Born to Be Alive",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 242093,
       "name": "Brown Girl in the Ring",
       "url": "https://open.spotify.com/track/0rT9KyAEDNr0kbBL5Qfo8k"
@@ -606,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Disco Nights",
+        "url": "https://open.spotify.com/album/2AWqMVNq3a8Cin6wQWDnbh"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Contact - UK 7\" Single Version",
+      "url": "https://open.spotify.com/track/2nkW5NxnKjwFlUuUHpwoKy"
+    },
+    {
+      "album": {
         "name": "Cool For Cats",
         "url": "https://open.spotify.com/album/6BXnJVcUbSdC6E82xouYK5"
       },
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 149159,
       "name": "Daddy Cool / The Girl Can't Help It",
       "url": "https://open.spotify.com/track/4Q0ML89z8cVzfuR04Sq8Md"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 188546,
       "name": "Dancin' on a Saturday Night - Rerecorded",
       "url": "https://open.spotify.com/track/7bge2xGtSUZhBsE1mN70FY"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 182543,
       "name": "Doctor's Orders",
       "url": "https://open.spotify.com/track/0mOIj8tjNHcOBWSTGXmGVr"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 435160,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/0bFGteEuBXbVd0fbV2XpD3"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 284840,
       "name": "Don't You Worry 'Bout A Thing",
       "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 291226,
       "name": "From New York to L.A.",
       "url": "https://open.spotify.com/track/1hV8qrJMyGJ5tJubYCNG6c"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 307946,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 185733,
       "name": "I Can't Stand the Rain",
       "url": "https://open.spotify.com/track/2SWmfd8iv4CiBOztWJebux"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/59mUgn4E4DWcB2lh5oRG2I"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 200653,
       "name": "Instant Karma! (We All Shine On) - Remastered 2010",
       "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 320333,
       "name": "Instant Replay",
       "url": "https://open.spotify.com/track/3WimzuWXQt4bnd4jcv0Gov"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 211720,
       "name": "Kissin' in the Back Row of the Movies",
       "url": "https://open.spotify.com/track/3XPX8bOozgShCrhWbLC0ZL"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 197693,
       "name": "Kung Fu Fighting",
       "url": "https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 251333,
       "name": "Love Is The Drug",
       "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "MacArthur Park - Single Version",
       "url": "https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ"
@@ -3057,7 +3075,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 228986,
       "name": "Singin' in the Rain",
       "url": "https://open.spotify.com/track/3BaGUR1uHi7w1uEfBRjsfc"
@@ -3129,7 +3147,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 207480,
       "name": "Some Girls",
       "url": "https://open.spotify.com/track/4areksgU8Nn6bf0kIAY8q0"
@@ -3295,7 +3313,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 214706,
       "name": "Summer Night City",
       "url": "https://open.spotify.com/track/35iCSlFxyiawRBUOtQAkeT"
@@ -3371,7 +3389,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
@@ -3461,7 +3479,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 224933,
       "name": "The Bitch Is Back",
       "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
@@ -3479,7 +3497,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
@@ -3497,7 +3515,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "The Candy Man",
       "url": "https://open.spotify.com/track/5yjuIx3UvOKHwLsCuM3DMM"
@@ -3515,7 +3533,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "The Hustle",
       "url": "https://open.spotify.com/track/1uYyXXqWQJ0fBQ0a7iMU0a"
@@ -3569,7 +3587,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
@@ -3616,6 +3634,28 @@
     },
     {
       "album": {
+        "name": "The Essential MFSB",
+        "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346680,
+      "name": "TSOP (The Sound of Philadelphia) (feat. The Three Degrees)",
+      "url": "https://open.spotify.com/track/6BEWwyzvc51WyacKoxJX4S"
+    },
+    {
+      "album": {
         "name": "A's & B's",
         "url": "https://open.spotify.com/album/6CzzK91Y1KngXnXK3tTfVn"
       },
@@ -3627,7 +3667,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 192386,
       "name": "Under the Moon of Love",
       "url": "https://open.spotify.com/track/34LMQb9wE70d6KhZhzHUo1"
@@ -3663,7 +3703,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 309173,
       "name": "Voulez-Vous",
       "url": "https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V"
@@ -3915,7 +3955,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 209906,
       "name": "You See The Trouble With Me",
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"

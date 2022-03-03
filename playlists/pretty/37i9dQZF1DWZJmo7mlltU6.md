@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,653 likes - 96 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,773 likes - 96 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

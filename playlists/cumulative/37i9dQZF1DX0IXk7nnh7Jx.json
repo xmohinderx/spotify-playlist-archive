@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
   "name": "Indie Spirit",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7vzhDddiv6oXbXOyLANGbq"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 259523,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/3Qh3FjLQl6VnJfXiXfe1jf"
@@ -79,7 +81,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 224388,
       "name": "Are You There, Do You Care",
       "url": "https://open.spotify.com/track/05i5Z4lz4876TjOofZwBq6"
@@ -209,7 +211,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 183640,
       "name": "Captive",
       "url": "https://open.spotify.com/track/2f3EkdJtuokX2L85cK0yOz"
@@ -373,7 +375,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 179747,
       "name": "Dream",
       "url": "https://open.spotify.com/track/2TlXByjar2RtNj3ao3lR4b"
@@ -427,7 +429,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 239333,
       "name": "Far Kingdom (reimagined)",
       "url": "https://open.spotify.com/track/7rjwZiCmwudgo74jFUOQj1"
@@ -575,10 +577,28 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 235312,
       "name": "Gone Are the Days (Julie Odnoralov Remix)",
       "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
+    },
+    {
+      "album": {
+        "name": "Held by Your Love",
+        "url": "https://open.spotify.com/album/1tCkBpM6Fpf3wf9pWh3yFZ"
+      },
+      "artists": [
+        {
+          "name": "Lion & Bear",
+          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266169,
+      "name": "Held by Your Love",
+      "url": "https://open.spotify.com/track/0kpBBTRrCmupemEosDzcMe"
     },
     {
       "album": {
@@ -600,6 +620,28 @@
     },
     {
       "album": {
+        "name": "I Am One",
+        "url": "https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250409,
+      "name": "I Am One",
+      "url": "https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Know",
         "url": "https://open.spotify.com/album/6yYA31nTW832gp9usVSyhF"
       },
@@ -611,7 +653,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 229257,
       "name": "I Don\u2019t Know",
       "url": "https://open.spotify.com/track/3tKhWuILxx3tWTNMkZ3GuF"
@@ -629,7 +671,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 164520,
       "name": "I Had a Dream I Knew You Better",
       "url": "https://open.spotify.com/track/3MsYV9iIVJpWLh3pRmqU3Z"
@@ -647,7 +689,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 211426,
       "name": "I Want To Know",
       "url": "https://open.spotify.com/track/0FRQsErh58lld5YhZ9vcvA"
@@ -705,6 +747,32 @@
       "duration_ms": 249321,
       "name": "It's a Wonderful Life",
       "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
+    },
+    {
+      "album": {
+        "name": "Wilder Years",
+        "url": "https://open.spotify.com/album/6IljQe2zOTrM6NQpKfmrOb"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204202,
+      "name": "It's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI"
     },
     {
       "album": {
@@ -781,6 +849,24 @@
       "duration_ms": 193480,
       "name": "Magic in the Moment",
       "url": "https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3"
+    },
+    {
+      "album": {
+        "name": "Never Grow Tired",
+        "url": "https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M"
+      },
+      "artists": [
+        {
+          "name": "The Evidence",
+          "url": "https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261736,
+      "name": "Never Grow Tired",
+      "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
     },
     {
       "album": {
@@ -867,10 +953,28 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 266762,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r"
+    },
+    {
+      "album": {
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197445,
+      "name": "Reciprocate",
+      "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
     },
     {
       "album": {
@@ -903,7 +1007,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 287751,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/02O2UvHTQuPdhGqhVgaucv"
@@ -1047,7 +1151,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/3siXfTF5Czys5WTvyeYMSY"
@@ -1112,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
+      },
+      "artists": [
+        {
+          "name": "The Bookouts",
+          "url": "https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320003,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
+    },
+    {
+      "album": {
         "name": "Peace to All Who Enter Here",
         "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
       },
@@ -1159,7 +1281,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 186857,
       "name": "What Living's All About",
       "url": "https://open.spotify.com/track/6kyXGiAum5xXiezOPBn23M"
@@ -1199,7 +1321,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206546,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"

@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 159485,
       "name": "Chemtrails",
       "url": "https://open.spotify.com/track/5wmMMx7cwkEpBvm0KkdVEY"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 204535,
       "name": "Control Your Mind",
       "url": "https://open.spotify.com/track/04Kj7WmPnRBNSrf9jPhKI3"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 176175,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/23BMl5kfWlCCBX4Jf207Sc"
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 256500,
       "name": "Lone Wolf",
       "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
@@ -1547,6 +1547,32 @@
       "duration_ms": 174643,
       "name": "Monsters (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
+    },
+    {
+      "album": {
+        "name": "Morenito",
+        "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
+      },
+      "artists": [
+        {
+          "name": "Chile",
+          "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
+        },
+        {
+          "name": "Mystic Natives",
+          "url": "https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY"
+        },
+        {
+          "name": "Aynes",
+          "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190819,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
     },
     {
       "album": {
@@ -1659,7 +1685,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 127804,
       "name": "P&P",
       "url": "https://open.spotify.com/track/1Dg9uEReIZnjuOSOQk5qWU"
@@ -1801,7 +1827,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 227592,
       "name": "Quarters",
       "url": "https://open.spotify.com/track/3hbGUFRmdqoRHFMP7yutxN"
@@ -1919,7 +1945,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -2277,7 +2303,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 359126,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 148825,
       "name": "A mal tiempo, buena cara",
       "url": "https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 120124,
       "name": "After Dawn",
       "url": "https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 136400,
       "name": "Cascade",
       "url": "https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 128624,
       "name": "Charming Spring",
       "url": "https://open.spotify.com/track/3HLqkcMhbDNLW56o1CpuUA"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 118793,
       "name": "Dancing Butterflies",
       "url": "https://open.spotify.com/track/4h5GTzoptGcmml3VwBkP6t"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 140170,
       "name": "Der Vogel auf dem Felsen",
       "url": "https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M"
@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 139026,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/2XtkXvXNsqpTBddG6W4dkA"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 128250,
       "name": "Eros",
       "url": "https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO"
@@ -2241,6 +2241,24 @@
       "duration_ms": 162808,
       "name": "Falling Trees",
       "url": "https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD"
+    },
+    {
+      "album": {
+        "name": "Fare la limonata",
+        "url": "https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W"
+      },
+      "artists": [
+        {
+          "name": "Anastasio Confortola",
+          "url": "https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Fare la limonata",
+      "url": "https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj"
     },
     {
       "album": {
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 163500,
       "name": "Free Ground",
       "url": "https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT"
@@ -3271,7 +3289,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 162307,
       "name": "Im Garten nebenan",
       "url": "https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ"
@@ -3289,7 +3307,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 159446,
       "name": "Imagery Noir",
       "url": "https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs"
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 167684,
       "name": "Impact",
       "url": "https://open.spotify.com/track/5TWGzcdRlJzdY93R7ydCYv"
@@ -3487,7 +3505,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 155250,
       "name": "Intermedanos",
       "url": "https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP"
@@ -3505,7 +3523,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 150509,
       "name": "Intermediate",
       "url": "https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6"
@@ -4315,7 +4333,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 211764,
       "name": "Logos",
       "url": "https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s"
@@ -4333,7 +4351,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 134363,
       "name": "Loire",
       "url": "https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m"
@@ -4405,7 +4423,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 154680,
       "name": "Lost Nights",
       "url": "https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb"
@@ -4610,6 +4628,24 @@
     },
     {
       "album": {
+        "name": "Meandering",
+        "url": "https://open.spotify.com/album/2Q4TRJ0g4yMoOUcCciKZr9"
+      },
+      "artists": [
+        {
+          "name": "JON",
+          "url": "https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Meandering",
+      "url": "https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo"
+    },
+    {
+      "album": {
         "name": "Melodrome",
         "url": "https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk"
       },
@@ -4729,7 +4765,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 160354,
       "name": "Memory of Home",
       "url": "https://open.spotify.com/track/5rizD1JChPpwo5SUQm4nGF"
@@ -5017,7 +5053,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 215500,
       "name": "My Mind Made Up",
       "url": "https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO"
@@ -5053,7 +5089,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 136250,
       "name": "M\u00e8re bien-aim\u00e9e",
       "url": "https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh"
@@ -5179,7 +5215,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 129121,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR"
@@ -5251,10 +5287,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 119578,
       "name": "Nothingness Began Slowly",
       "url": "https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2"
+    },
+    {
+      "album": {
+        "name": "Notre terre",
+        "url": "https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML"
+      },
+      "artists": [
+        {
+          "name": "Matt\u00e9o Roussel",
+          "url": "https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Notre terre",
+      "url": "https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C"
     },
     {
       "album": {
@@ -5287,7 +5341,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 176627,
       "name": "O Soave Fanciulla",
       "url": "https://open.spotify.com/track/5HQp593kflHm8LV12MepjR"
@@ -5377,7 +5431,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 144059,
       "name": "One Another",
       "url": "https://open.spotify.com/track/5TmkmJXYc4wT0lShzHAHJ0"
@@ -5561,6 +5615,24 @@
       "duration_ms": 163795,
       "name": "Passing Robes",
       "url": "https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d"
+    },
+    {
+      "album": {
+        "name": "Peace Frame",
+        "url": "https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH"
+      },
+      "artists": [
+        {
+          "name": "Mauvais Roger",
+          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179257,
+      "name": "Peace Frame",
+      "url": "https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax"
     },
     {
       "album": {
@@ -6511,7 +6583,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 120406,
       "name": "Salon musique",
       "url": "https://open.spotify.com/track/1UpWPe0O0aNGWmouew7puk"
@@ -6767,6 +6839,24 @@
       "duration_ms": 150260,
       "name": "Serpent\u00e9a",
       "url": "https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD"
+    },
+    {
+      "album": {
+        "name": "Shinsetsu",
+        "url": "https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A"
+      },
+      "artists": [
+        {
+          "name": "Ida Aoi",
+          "url": "https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179816,
+      "name": "Shinsetsu",
+      "url": "https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH"
     },
     {
       "album": {
@@ -7379,7 +7469,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 189875,
       "name": "Talawanda",
       "url": "https://open.spotify.com/track/0y3yFju7xqGgYx6TD0ygau"
@@ -7397,7 +7487,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 178674,
       "name": "Tana",
       "url": "https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP"
@@ -7667,10 +7757,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 179452,
       "name": "The Stars Above",
       "url": "https://open.spotify.com/track/3KPbdCdwxJtzCiAFSaoK5l"
+    },
+    {
+      "album": {
+        "name": "The Taste of Snow",
+        "url": "https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j"
+      },
+      "artists": [
+        {
+          "name": "Piano Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136482,
+      "name": "The Taste of Snow",
+      "url": "https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf"
     },
     {
       "album": {
@@ -7721,7 +7829,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 117000,
       "name": "There and Then",
       "url": "https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg"
@@ -7757,7 +7865,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 126000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ"
@@ -7890,6 +7998,24 @@
     },
     {
       "album": {
+        "name": "Transnistria",
+        "url": "https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2"
+      },
+      "artists": [
+        {
+          "name": "Valeria Pintile",
+          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116525,
+      "name": "Transnistria",
+      "url": "https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv"
+    },
+    {
+      "album": {
         "name": "Treading Lightly",
         "url": "https://open.spotify.com/album/6yq4dA4UPNEYGRoyu1emE3"
       },
@@ -7919,7 +8045,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 170740,
       "name": "Tree Rhythm",
       "url": "https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE"
@@ -8053,6 +8179,24 @@
       "duration_ms": 198305,
       "name": "Un mazzolino di rose",
       "url": "https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n"
+    },
+    {
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO"
+      },
+      "artists": [
+        {
+          "name": "Michael Frankenberger",
+          "url": "https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144256,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8"
     },
     {
       "album": {
@@ -8373,7 +8517,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 169374,
       "name": "Volga",
       "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
@@ -8499,7 +8643,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 136124,
       "name": "What We Used To Say",
       "url": "https://open.spotify.com/track/43puambWzfUexLaMUVfR4H"
@@ -8769,7 +8913,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 114228,
       "name": "Your Own Kind",
       "url": "https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn"

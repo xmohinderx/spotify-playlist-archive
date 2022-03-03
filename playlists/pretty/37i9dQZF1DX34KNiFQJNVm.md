@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Zaquin com Mc Rick, Chefin e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731,197 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731,271 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

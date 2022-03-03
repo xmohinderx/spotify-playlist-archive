@@ -1,13 +1,29 @@
 {
   "description": "Featuring new music by Araya.",
-  "num_followers": 631469,
+  "num_followers": 631546,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjE2NDA4NCwwMDAwMDI2MDAwMDAwMTdmNDcwNjg2NGMwMDAwMDE3ZjIyMDI5ZDBl",
+  "snapshot_id": "MTY0NjI0NzIxNSwwMDAwMDI2MzAwMDAwMTdmNGJmYjAzNmIwMDAwMDE3ZjIyMDI5ZDBl",
   "tracks": [
+    {
+      "added_at": "2022-03-02 15:44:12",
+      "album": {
+        "name": "That's Not Love!",
+        "url": "https://open.spotify.com/album/60jmOKUUeGFcniQ0SnPYHY"
+      },
+      "artists": [
+        {
+          "name": "Richie Quake",
+          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "That's Not Love!",
+      "url": "https://open.spotify.com/track/4cn6miVUpWYPwOl4RAN2Yh"
+    },
     {
       "added_at": "2022-02-28 16:03:13",
       "album": {
@@ -383,6 +399,26 @@
       "duration_ms": 131500,
       "name": "Plant!",
       "url": "https://open.spotify.com/track/53oZXP24LECwD6YBybecvG"
+    },
+    {
+      "added_at": "2022-03-02 18:34:02",
+      "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa"
+      },
+      "artists": [
+        {
+          "name": "Barely Legal",
+          "url": "https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol"
+        },
+        {
+          "name": "Jay Browne",
+          "url": "https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Dat Way",
+      "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
     },
     {
       "added_at": "2022-02-23 14:44:26",
@@ -1449,22 +1485,6 @@
       "url": "https://open.spotify.com/track/0zWgZBHZfisqNN0m5pfYcJ"
     },
     {
-      "added_at": "2022-02-18 17:59:17",
-      "album": {
-        "name": "Handyman",
-        "url": "https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Handyman",
-      "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
-    },
-    {
       "added_at": "2021-10-12 19:24:28",
       "album": {
         "name": "argyle",
@@ -1483,7 +1503,7 @@
     {
       "added_at": "2022-02-11 17:14:55",
       "album": {
-        "name": "Room #526 (Bourbon Boy)",
+        "name": "VII. Bourbon",
         "url": "https://open.spotify.com/album/1qjiEbsRurvmj3kb4ZMFyJ"
       },
       "artists": [
@@ -1679,26 +1699,6 @@
       "duration_ms": 206000,
       "name": "Green Line",
       "url": "https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk"
-    },
-    {
-      "added_at": "2022-01-21 14:46:51",
-      "album": {
-        "name": "PIE",
-        "url": "https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB"
-      },
-      "artists": [
-        {
-          "name": "Luke Wild",
-          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 176552,
-      "name": "PIE",
-      "url": "https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ"
     }
   ],
   "unique_name": "anti pop",

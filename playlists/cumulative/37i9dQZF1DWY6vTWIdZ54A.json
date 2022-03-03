@@ -589,7 +589,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 193155,
       "name": "Done Me Wrong",
       "url": "https://open.spotify.com/track/6WbiHdSeLotq2C2VufkCAH"
@@ -1187,6 +1187,24 @@
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/2UKMqNCVsHrAYzBZMA0rxL"
+    },
+    {
+      "album": {
+        "name": "Lights of The City",
+        "url": "https://open.spotify.com/album/3fh6NNy3oDxvPS3EILbMw5"
+      },
+      "artists": [
+        {
+          "name": "Pink Mountaintops",
+          "url": "https://open.spotify.com/artist/1g58rJkJZVaUGMUTHTZmYi"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Lights of The City",
+      "url": "https://open.spotify.com/track/5APY2t9RdWVJSg4jDObkip"
     },
     {
       "album": {

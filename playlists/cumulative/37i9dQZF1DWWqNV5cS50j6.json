@@ -3144,6 +3144,28 @@
     },
     {
       "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa"
+      },
+      "artists": [
+        {
+          "name": "Barely Legal",
+          "url": "https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol"
+        },
+        {
+          "name": "Jay Browne",
+          "url": "https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Dat Way",
+      "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
+    },
+    {
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -5317,7 +5339,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 186400,
       "name": "Handyman",
       "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
@@ -9681,7 +9703,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ"
@@ -10604,7 +10626,7 @@
     },
     {
       "album": {
-        "name": "Room #526 (Bourbon Boy)",
+        "name": "VII. Bourbon",
         "url": "https://open.spotify.com/album/1qjiEbsRurvmj3kb4ZMFyJ"
       },
       "artists": [
@@ -12831,6 +12853,24 @@
       "duration_ms": 147653,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl"
+    },
+    {
+      "album": {
+        "name": "That's Not Love!",
+        "url": "https://open.spotify.com/album/60jmOKUUeGFcniQ0SnPYHY"
+      },
+      "artists": [
+        {
+          "name": "Richie Quake",
+          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "That's Not Love!",
+      "url": "https://open.spotify.com/track/4cn6miVUpWYPwOl4RAN2Yh"
     },
     {
       "album": {

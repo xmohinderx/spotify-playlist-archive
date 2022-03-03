@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "A mix of floor shattering bass, dub plates & purple vibes. Back to the roots and the original sounds of Dubstep.",
   "name": "Sub Low",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "57h9HtsEemkCa7bAGRYHTN"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,42 @@
       "duration_ms": 277706,
       "name": "$ea Pimp",
       "url": "https://open.spotify.com/track/11KBYCu1z3GfjRNbHr5yc3"
+    },
+    {
+      "album": {
+        "name": "We Are Not Looking For Accuracy EP",
+        "url": "https://open.spotify.com/album/1t81UiEP5MihnQMViaT1Ut"
+      },
+      "artists": [
+        {
+          "name": "Bunzer0",
+          "url": "https://open.spotify.com/artist/7JkiA7yMXj4IHiST0UG1wy"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Accuracy",
+      "url": "https://open.spotify.com/track/5rGtVYFXJPD3YcsMtyfEYP"
+    },
+    {
+      "album": {
+        "name": "Splinters",
+        "url": "https://open.spotify.com/album/4G1JQieHu8thzQWyjrT6D7"
+      },
+      "artists": [
+        {
+          "name": "Von D",
+          "url": "https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279971,
+      "name": "Ah so Let It Go",
+      "url": "https://open.spotify.com/track/2MS0IivoDQyztk6FcZiCto"
     },
     {
       "album": {
@@ -93,7 +131,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 249595,
       "name": "Backlash",
       "url": "https://open.spotify.com/track/2F4Kn7Jrjf8cUx2iTa8UMc"
@@ -267,7 +305,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 247272,
       "name": "Boondow Bai",
       "url": "https://open.spotify.com/track/7cLgBeRNgizZbKr9CPeBOU"
@@ -419,7 +457,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 310285,
       "name": "Chit Chat",
       "url": "https://open.spotify.com/track/0sU4IS84fJjHLu2sjnflUf"
@@ -549,7 +587,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 335569,
       "name": "Cross Polarity",
       "url": "https://open.spotify.com/track/57Lxdv7Q7wpnSeAqegE457"
@@ -629,7 +667,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 281213,
       "name": "Dancehall Saga",
       "url": "https://open.spotify.com/track/6UuwkLkMrN0j9ZEGUUzJlZ"
@@ -955,7 +993,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 276614,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/0v15xYsmEWe8aiHTJoV5qk"
@@ -1039,6 +1077,24 @@
       "duration_ms": 226756,
       "name": "Fire Exit",
       "url": "https://open.spotify.com/track/2hZaN1NkoFZC3cAWAbNxmF"
+    },
+    {
+      "album": {
+        "name": "Gravity / First Kind",
+        "url": "https://open.spotify.com/album/0wWaVJRlPR6Xgw2cIBCgUi"
+      },
+      "artists": [
+        {
+          "name": "Kromestar",
+          "url": "https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285650,
+      "name": "First Kind",
+      "url": "https://open.spotify.com/track/1nz3RaSoLW9gYOTuFK6BI4"
     },
     {
       "album": {
@@ -1159,7 +1215,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 261759,
       "name": "Fuck 'em",
       "url": "https://open.spotify.com/track/46y1L481OwLpWAg222Dzvi"
@@ -1181,6 +1237,24 @@
       "duration_ms": 255446,
       "name": "G Shit",
       "url": "https://open.spotify.com/track/2S4MJ7mQM725upW6egRBwo"
+    },
+    {
+      "album": {
+        "name": "Mount Weed LP",
+        "url": "https://open.spotify.com/album/2hbpxyM2kIstkLqEPXFYpI"
+      },
+      "artists": [
+        {
+          "name": "Chad Dubz",
+          "url": "https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220731,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/6fFnLNiQpvoihWr9EyujET"
     },
     {
       "album": {
@@ -1260,6 +1334,24 @@
     },
     {
       "album": {
+        "name": "Gunman / Caught in a Trip",
+        "url": "https://open.spotify.com/album/7rLs4NgB53UMNq1duGteu7"
+      },
+      "artists": [
+        {
+          "name": "Walton",
+          "url": "https://open.spotify.com/artist/542yacXt2x9eLr9g8v0X8k"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298968,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/1kVYhkie4SMzgaTJYOkwKI"
+    },
+    {
+      "album": {
         "name": "Hamburg / Haste",
         "url": "https://open.spotify.com/album/4Rpul8Heehn0PS3jJ198BL"
       },
@@ -1271,7 +1363,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 286920,
       "name": "Hamburg",
       "url": "https://open.spotify.com/track/1PrWnI0jAiSLWhqcLbWo8t"
@@ -1307,10 +1399,50 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 302210,
       "name": "Hazed",
       "url": "https://open.spotify.com/track/4sm6El18g3jLtGSj47nL4A"
+    },
+    {
+      "album": {
+        "name": "Heart Sprint",
+        "url": "https://open.spotify.com/album/0KphLRaggjPQItmlM1NFyb"
+      },
+      "artists": [
+        {
+          "name": "Somah",
+          "url": "https://open.spotify.com/artist/0Dk9atH2YtBzyWlxu5VpyC"
+        },
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/5zjhAGHyfk64Uw0lV2czni"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342857,
+      "name": "Heart Sprint",
+      "url": "https://open.spotify.com/track/2mTMEfh5XGrPMtgr1lM4bh"
+    },
+    {
+      "album": {
+        "name": "Firmly Rooted Vol.1",
+        "url": "https://open.spotify.com/album/5uwdon4XGke6ou1QaQs7Qs"
+      },
+      "artists": [
+        {
+          "name": "Rygby",
+          "url": "https://open.spotify.com/artist/4JYWD2cPpCgnXE1T3lhKg9"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287142,
+      "name": "Here I Come",
+      "url": "https://open.spotify.com/track/0L6bhgJAsRjGspGgPBExWU"
     },
     {
       "album": {
@@ -1473,7 +1605,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 243280,
       "name": "Jimini Dub",
       "url": "https://open.spotify.com/track/3hv891SnyhvxkBpdSPAFs8"
@@ -1491,7 +1623,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 312274,
       "name": "Juce",
       "url": "https://open.spotify.com/track/1YLCRZDFbNNdBJc53jUfF9"
@@ -1531,10 +1663,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 307891,
       "name": "Justice",
       "url": "https://open.spotify.com/track/3CFoYq5cPKpGyIralOL9Hv"
+    },
+    {
+      "album": {
+        "name": "Buried EP",
+        "url": "https://open.spotify.com/album/0bsMSLPogL3jS9MjePyq94"
+      },
+      "artists": [
+        {
+          "name": "Oxossi",
+          "url": "https://open.spotify.com/artist/33KoTOB6gxLIYPsAfkPx9z"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273805,
+      "name": "Kadian Dub",
+      "url": "https://open.spotify.com/track/7yUtCbaiVrdm4waoRWGD90"
     },
     {
       "album": {
@@ -1601,7 +1751,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 267428,
       "name": "Kopstoot - Hebbe Remix",
       "url": "https://open.spotify.com/track/1Eey1ZEf4hXRAOvJLQOAK2"
@@ -1623,7 +1773,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 288000,
       "name": "Kula Kula - The Widdler Remix",
       "url": "https://open.spotify.com/track/74EvryuRQteh7iK4OOyKYv"
@@ -1641,10 +1791,32 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 303942,
       "name": "Lankershim Stroll",
       "url": "https://open.spotify.com/track/7bgsXfDhYf7ueIUJwTG6q5"
+    },
+    {
+      "album": {
+        "name": "The Trial",
+        "url": "https://open.spotify.com/album/2jt66gHlgZnYPfxpikMaV5"
+      },
+      "artists": [
+        {
+          "name": "Hatcha",
+          "url": "https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet"
+        },
+        {
+          "name": "Surge",
+          "url": "https://open.spotify.com/artist/2hs3oToysI1GJJi8lS80ac"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322127,
+      "name": "Latter",
+      "url": "https://open.spotify.com/track/3dXRUF6hOOjrhEJrRR7r3R"
     },
     {
       "album": {
@@ -1757,7 +1929,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 341142,
       "name": "Lo-Fi",
       "url": "https://open.spotify.com/track/2auyi2Lqfjnm9MimapjeCM"
@@ -2190,6 +2362,24 @@
     },
     {
       "album": {
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/6NBCoOBu1Wm9PfDGNS7mVu"
+      },
+      "artists": [
+        {
+          "name": "Noer the Boy",
+          "url": "https://open.spotify.com/artist/4PD6K1K2nNk6xIpFhtoSMT"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/4nGups0fUicg4Khw30jXSx"
+    },
+    {
+      "album": {
         "name": "Norman",
         "url": "https://open.spotify.com/album/2EamMa2jk8G9CstjDqn8Aa"
       },
@@ -2201,7 +2391,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 195428,
       "name": "Norman",
       "url": "https://open.spotify.com/track/536U728aadWGV86KDvQs0m"
@@ -2245,6 +2435,24 @@
       "duration_ms": 286324,
       "name": "Nu Era Dub",
       "url": "https://open.spotify.com/track/0oUaAYfRfEZTgPBtV75oOJ"
+    },
+    {
+      "album": {
+        "name": "Certified Organic 2: Part 2",
+        "url": "https://open.spotify.com/album/2YWQ8Zl0r01grHetDr3KZq"
+      },
+      "artists": [
+        {
+          "name": "Cubicle",
+          "url": "https://open.spotify.com/artist/2nTs9cTorG1oHERKfYmbdS"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Objectivity",
+      "url": "https://open.spotify.com/track/6ktq5DOVX9h2dqvg9Ok582"
     },
     {
       "album": {
@@ -2338,6 +2546,24 @@
     },
     {
       "album": {
+        "name": "Out of Step",
+        "url": "https://open.spotify.com/album/64LG5maKa3CorgvU9SfLmc"
+      },
+      "artists": [
+        {
+          "name": "Sabab",
+          "url": "https://open.spotify.com/artist/2F5eYjt1JbzHU3goBgDRV4"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309153,
+      "name": "Out of Step",
+      "url": "https://open.spotify.com/track/6wWujH05qmy4ihVJT7l1Tf"
+    },
+    {
+      "album": {
         "name": "Outsider",
         "url": "https://open.spotify.com/album/4AnGaGVFpOVLacdRqyGQ83"
       },
@@ -2367,7 +2593,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 273454,
       "name": "Oxytocin - Original",
       "url": "https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio"
@@ -2389,7 +2615,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 305581,
       "name": "Paradisius",
       "url": "https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8"
@@ -2407,7 +2633,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 253714,
       "name": "Parsley Tea",
       "url": "https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB"
@@ -2486,6 +2712,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope, Vol. 2",
+        "url": "https://open.spotify.com/album/7jLrpzLUbTLDMWG2r4xhSY"
+      },
+      "artists": [
+        {
+          "name": "Bisweed",
+          "url": "https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304985,
+      "name": "Profound",
+      "url": "https://open.spotify.com/track/3m92wis6TZWW6XeGyneEur"
+    },
+    {
+      "album": {
         "name": "Psycho Sushi",
         "url": "https://open.spotify.com/album/4RjrGw3HvUfW6fefKoHJfS"
       },
@@ -2497,7 +2741,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 263828,
       "name": "Psycho Sushi",
       "url": "https://open.spotify.com/track/5QtuIc4VSjUp2nniV903bZ"
@@ -2577,7 +2821,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 387428,
       "name": "Rated M - Digital Pilgrimz Remix",
       "url": "https://open.spotify.com/track/0jloEad2gRJbxotshGRFXD"
@@ -2613,10 +2857,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 252906,
       "name": "Red Handed",
       "url": "https://open.spotify.com/track/0KwJGWguMPAmuVrctH6n3t"
+    },
+    {
+      "album": {
+        "name": "Rhubarb Crumble EP",
+        "url": "https://open.spotify.com/album/4ByklHL90cfvBGLBbbyel1"
+      },
+      "artists": [
+        {
+          "name": "Jakes",
+          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Rhubarb Crumble",
+      "url": "https://open.spotify.com/track/1Cm7THvhhuBMZVuP08nkpb"
     },
     {
       "album": {
@@ -2776,6 +3038,28 @@
     },
     {
       "album": {
+        "name": "Gatekeeper / Second Strike",
+        "url": "https://open.spotify.com/album/3L15AEBgZEAhS3H19Wae18"
+      },
+      "artists": [
+        {
+          "name": "Daega Sound",
+          "url": "https://open.spotify.com/artist/1LmBukKQBWsil6X00HYq37"
+        },
+        {
+          "name": "Kromestar",
+          "url": "https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322290,
+      "name": "Second Strike (Kromestar Remix)",
+      "url": "https://open.spotify.com/track/2G181ro7GGNjCy7WzdFkRg"
+    },
+    {
+      "album": {
         "name": "Midnight Wax",
         "url": "https://open.spotify.com/album/2JMJL7VIJZcZQjffjjwnVJ"
       },
@@ -2823,7 +3107,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 276026,
       "name": "Shade",
       "url": "https://open.spotify.com/track/36ttV1VCMbegcpduOW6tMg"
@@ -2979,7 +3263,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 342857,
       "name": "Slang Suffocate",
       "url": "https://open.spotify.com/track/4IrCLBdAohemmV1mPHKhJG"
@@ -3094,6 +3378,24 @@
     },
     {
       "album": {
+        "name": "Holdin' EP",
+        "url": "https://open.spotify.com/album/2TR8HDuIlwwLeLONBqISKS"
+      },
+      "artists": [
+        {
+          "name": "MR.K",
+          "url": "https://open.spotify.com/artist/75V7zNfB94p5PQ3qnQf47G"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277744,
+      "name": "Spooky Dub",
+      "url": "https://open.spotify.com/track/0FhXQww4gwk4AxW01BgYYg"
+    },
+    {
+      "album": {
         "name": "Squeeze (Burnin)",
         "url": "https://open.spotify.com/album/087BOCI9Lw6AjjMIv6up9c"
       },
@@ -3197,7 +3499,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 276531,
       "name": "Stellar Transit - Lampa Remix",
       "url": "https://open.spotify.com/track/0k9wNvUzZK20hXiQlJgsC8"
@@ -3219,6 +3521,24 @@
       "duration_ms": 192000,
       "name": "Stereophonic",
       "url": "https://open.spotify.com/track/4BfBy1ZrZWQPRJOanhpUyD"
+    },
+    {
+      "album": {
+        "name": "Nooo",
+        "url": "https://open.spotify.com/album/3Jzbns8euMQfliy2n2w06V"
+      },
+      "artists": [
+        {
+          "name": "Argo",
+          "url": "https://open.spotify.com/artist/2Bu1m703YGSP774s3Dafi7"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286718,
+      "name": "Stigma",
+      "url": "https://open.spotify.com/track/7IuyJTachEZVNEMLSjqfMq"
     },
     {
       "album": {
@@ -3313,6 +3633,24 @@
       "duration_ms": 251586,
       "name": "Suzuki",
       "url": "https://open.spotify.com/track/3vfWpEEgEhLpKgBKGPEi6P"
+    },
+    {
+      "album": {
+        "name": "Sweet Doughs",
+        "url": "https://open.spotify.com/album/758JCrohSgvY4NJtRbmuXG"
+      },
+      "artists": [
+        {
+          "name": "Cartridge",
+          "url": "https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214527,
+      "name": "Sweet Doughs",
+      "url": "https://open.spotify.com/track/7znIZu8XQvnBHRY5OVCaOK"
     },
     {
       "album": {
@@ -3429,7 +3767,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 327664,
       "name": "Terrorist",
       "url": "https://open.spotify.com/track/3sTILrfXTqgroX8Wo5ZxAs"
@@ -3505,7 +3843,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 233214,
       "name": "The Damned",
       "url": "https://open.spotify.com/track/5kFJdv7Y9hnvsNL2Pupppv"
@@ -3523,10 +3861,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 249322,
       "name": "The Main Rule",
       "url": "https://open.spotify.com/track/1rRx7qRyUddDtPg1C9lo1n"
+    },
+    {
+      "album": {
+        "name": "Subterranea",
+        "url": "https://open.spotify.com/album/0UbZsriAgsJ7uBcBidE1ks"
+      },
+      "artists": [
+        {
+          "name": "p0gman",
+          "url": "https://open.spotify.com/artist/3cw7SynPNBpGg16PRXJI2I"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "The March Of The Ants",
+      "url": "https://open.spotify.com/track/7ppgToYjRurMz3AVsIqpMS"
     },
     {
       "album": {
@@ -3736,6 +4092,24 @@
     },
     {
       "album": {
+        "name": "Tempa Presents: UK Dubstep, Vol. 1",
+        "url": "https://open.spotify.com/album/3nBBTtMvBaQmRQsgFF4jzi"
+      },
+      "artists": [
+        {
+          "name": "SP:MC",
+          "url": "https://open.spotify.com/artist/1YLeUsNujSB7Fp1tnCWZi2"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "Trust Nobody",
+      "url": "https://open.spotify.com/track/0xchz8wdvw0qRLnZLzuEji"
+    },
+    {
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/3IHol2HSPjb3nbVAOhBCBF"
       },
@@ -3845,7 +4219,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 140571,
       "name": "Vandals",
       "url": "https://open.spotify.com/track/7oJo6A2Cio3pmWsav3S9dw"
@@ -3892,6 +4266,32 @@
     },
     {
       "album": {
+        "name": "DUPPLATES Vol. 1",
+        "url": "https://open.spotify.com/album/4H1G1EejuL3DlqI1rJAC0R"
+      },
+      "artists": [
+        {
+          "name": "Hebbe",
+          "url": "https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn"
+        },
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/71W7FEPaF2yyFETscZpIN8"
+        },
+        {
+          "name": "MR.K",
+          "url": "https://open.spotify.com/artist/75V7zNfB94p5PQ3qnQf47G"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291437,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/2Qr5YvcqnPtLyhtFuLxluD"
+    },
+    {
+      "album": {
         "name": "Uh Oh EP",
         "url": "https://open.spotify.com/album/1t7aznJKetUOJgYRWrlsoE"
       },
@@ -3903,7 +4303,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 385818,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/1UFsoj3swW2Cwobwcmgpgp"
@@ -3939,7 +4339,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 336000,
       "name": "Winter Horns",
       "url": "https://open.spotify.com/track/6cPZIB5yZMq6rojtLKGnlq"
@@ -3993,7 +4393,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 243426,
       "name": "Within You",
       "url": "https://open.spotify.com/track/4RwXQ6TkQ4CbMvNY8gPLZJ"

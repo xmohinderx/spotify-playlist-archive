@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/17YFk6uZVlDMmgFm8kpn5T"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/29xdsUjiC5Qx4q9UgZ1ODD"
+    },
+    {
+      "album": {
         "name": "Pioneer",
         "url": "https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp"
       },
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 200693,
       "name": "Little Good-Byes",
       "url": "https://open.spotify.com/track/5ZX3IrB9tPxOoBZdXILNpy"

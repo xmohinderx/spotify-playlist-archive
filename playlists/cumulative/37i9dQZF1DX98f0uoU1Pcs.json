@@ -844,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/1WVpLeTbS3RBBh5aQjT5bI"
+      },
+      "artists": [
+        {
+          "name": "Rotten Mind",
+          "url": "https://open.spotify.com/artist/7o7zpXvp9gkBEEy67YkXvo"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214746,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/4uFObcsm7fZuH5aHarcfbr"
+    },
+    {
+      "album": {
         "name": "Drug Dealer",
         "url": "https://open.spotify.com/album/2QeEvJCkZ5GNJJ67dYTOuc"
       },

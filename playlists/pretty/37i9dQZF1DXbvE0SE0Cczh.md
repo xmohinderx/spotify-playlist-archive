@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,458 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,649 likes - 61 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 12 | [No Particular Place To Go \- Single Version](https://open.spotify.com/track/07zToRJlr6YYaDNL70CFz8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Gold](https://open.spotify.com/album/7EAya7Hj01YTP9mxLK12SY) | 2:41 |
 | 13 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 |
 | 14 | [Johnny B\. Goode \- Single Version](https://open.spotify.com/track/2XGHdmjsumZRkaL8LhBb1e) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [20th Century Masters: The Millennium Collection: Best Of Chuck Berry](https://open.spotify.com/album/5oe2YLmp9uZgV0lKguAadC) | 2:41 |
-| 15 | [Problem Child](https://open.spotify.com/track/3fpZgZh9G1jCslrbEFBml6) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Original Sound \(Sun Records 70th / Alternate / Remastered 2022\)](https://open.spotify.com/album/4pS4IdMzD9eICPhkIT4h0U) | 2:10 |
+| 15 | [Problem Child \- Alternate / Remastered 2022](https://open.spotify.com/track/3fpZgZh9G1jCslrbEFBml6) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Original Sound \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/4pS4IdMzD9eICPhkIT4h0U) | 2:10 |
 | 16 | [Shake, Rattle And Roll \- Single Version](https://open.spotify.com/track/2McHF33C9Tx4lfwKBefE4n) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Best Of Bill Haley & His Comets: 20th Century Masters: The Millennium Collection](https://open.spotify.com/album/4pPyO5FgPmrBkmZ76tXXjJ) | 2:31 |
 | 17 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 |
 | 18 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |

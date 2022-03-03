@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2BZPS5jzzjcyPG7oqRXqMs.md) - cumulative - [plain](/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs)
 
-### Living Christian
+### [Living Christian](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 > Your go to Christian playlist for every day listening .
 

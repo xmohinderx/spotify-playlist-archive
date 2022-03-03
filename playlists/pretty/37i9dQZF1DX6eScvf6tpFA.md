@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,260 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,318 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 44 | [UT Squad](https://open.spotify.com/track/294w7zSPE0BZfe2i3dEobH) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [UT Squad](https://open.spotify.com/album/4lrgl2Nm5IbTN5WIDdK3kz) | 3:22 |
 | 45 | [Uu Uuu](https://open.spotify.com/track/17WDn2rhLS2pXgHocVPe5s) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Paul Marmota](https://open.spotify.com/artist/1hWh4VJXSSsQeqcxKkHqcK) | [Sonrisas](https://open.spotify.com/album/1EWQRQBOtqeuw4DIJE04yi) | 2:52 |
 | 46 | [Introvert](https://open.spotify.com/track/0UShrEEVntV8OGruqeFYt7) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Introvert](https://open.spotify.com/album/6Tz74aSvCkoTiekO3SQRY9) | 6:02 |
-| 47 | [Getting Late \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/track/7MD0vUh6C3AMn1Uh1DNasq) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Getting Late \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/4wojQkbjpRtihKKlo9J9fd) | 3:06 |
+| 47 | [Getting Late](https://open.spotify.com/track/7MD0vUh6C3AMn1Uh1DNasq) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Getting Late](https://open.spotify.com/album/4wojQkbjpRtihKKlo9J9fd) | 3:06 |
 | 48 | [Triple Gold Sox](https://open.spotify.com/track/3tLy7XCsTxCsn0O94DLYRs) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Triple Gold Sox](https://open.spotify.com/album/6TL62q0id5NHiugOwFH0LD) | 1:56 |
 | 49 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
 | 50 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 |

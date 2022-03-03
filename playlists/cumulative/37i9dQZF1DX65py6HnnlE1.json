@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 256000,
       "name": "El Alchohol",
       "url": "https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 266320,
       "name": "Estrellitas y Duendes",
       "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 255280,
       "name": "Hasta El Fin",
       "url": "https://open.spotify.com/track/4p1Bggx2fygzjjepd0Eit0"
@@ -864,6 +864,24 @@
     },
     {
       "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Mi Corazoncito",
+      "url": "https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78"
+    },
+    {
+      "album": {
         "name": "Serie 32",
         "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
       },
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 239906,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/309M0MPexbrLYbGpqKstYa"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206892,
       "name": "Sentimiento De Amor (HD Digital Remastered)",
       "url": "https://open.spotify.com/track/70qTmNsWvjD4OSC7CycA6k"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 174573,
       "name": "Shorty, Shorty",
       "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Si Tu Me Dices Ven",
       "url": "https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"

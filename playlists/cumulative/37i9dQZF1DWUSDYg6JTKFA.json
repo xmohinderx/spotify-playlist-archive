@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
   "name": "Hold Hope",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0i02fW9LF0YzG6MIUX1RaI"
+  ],
   "tracks": [
     {
       "album": {
@@ -293,7 +295,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 232693,
       "name": "Give Me Your Eyes",
       "url": "https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki"
@@ -585,7 +587,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 300373,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
@@ -694,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Light Up the Sky",
+        "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8"
+    },
+    {
+      "album": {
         "name": "Lord, I Need You [Performance Tracks]",
         "url": "https://open.spotify.com/album/0w0ghQIFyDog0J14RGvxpc"
       },
@@ -789,6 +809,24 @@
       "duration_ms": 247677,
       "name": "No Longer Slaves (Radio Version) [feat. Jonathan David Helser & Melissa Helser]",
       "url": "https://open.spotify.com/track/37sWianweYMt42ZoSABn6y"
+    },
+    {
+      "album": {
+        "name": "Zion (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535962,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
     },
     {
       "album": {
@@ -933,7 +971,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 217799,
       "name": "Rise",
       "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
@@ -991,7 +1029,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 196067,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0G53u1G1uEAexqs61asVRf"

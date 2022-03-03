@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,695 likes - 98 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,735 likes - 98 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

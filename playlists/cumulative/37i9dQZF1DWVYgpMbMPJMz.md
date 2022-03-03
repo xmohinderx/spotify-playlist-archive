@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVYgpMbMPJMz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVYgpMbMPJMz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVYgpMbMPJMz)
 
-### WorshipNow
+### [WorshipNow](https://open.spotify.com/playlist/12yoI78Chtrh071OwGd6QO)
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Passion
 

@@ -1,15 +1,55 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127690,
+  "num_followers": 127721,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI3NSw4MGVlMDQ2NDU0NWQ4OGYzYTUwZDIzOTljNDViMzU0NWVhMzRjODQ3",
+  "snapshot_id": "MzI4MSxiNTM0NzM0NTFhOTQxYzRmNjMxODdlN2QwY2U2ODNhNWNiNDM0ZWI2",
   "tracks": [
     {
-      "added_at": "2022-03-01 17:40:10",
+      "added_at": "2022-03-02 17:04:18",
+      "album": {
+        "name": "Spectrum (Futurebound Remix)",
+        "url": "https://open.spotify.com/album/7eyzszsLG8gfNiPSDPqCuP"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        },
+        {
+          "name": "Futurebound",
+          "url": "https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5"
+        }
+      ],
+      "duration_ms": 230420,
+      "name": "Spectrum - Futurebound Remix",
+      "url": "https://open.spotify.com/track/4PCa9U1xxIgyCsUe6mE40Z"
+    },
+    {
+      "added_at": "2022-03-02 17:04:18",
+      "album": {
+        "name": "Running Faster",
+        "url": "https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe"
+      },
+      "artists": [
+        {
+          "name": "Seawayz",
+          "url": "https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr"
+        },
+        {
+          "name": "Fl\u00f8a",
+          "url": "https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Running Faster",
+      "url": "https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH"
+    },
+    {
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "WYGD",
         "url": "https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs"
@@ -25,7 +65,7 @@
       "url": "https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili"
     },
     {
-      "added_at": "2022-02-28 17:35:24",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Rainbow Rave Parade",
         "url": "https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz"
@@ -41,7 +81,7 @@
       "url": "https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS"
     },
     {
-      "added_at": "2022-02-25 17:48:51",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Multiverse",
         "url": "https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb"
@@ -61,7 +101,7 @@
       "url": "https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq"
     },
     {
-      "added_at": "2022-02-25 17:48:51",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Austrumi",
         "url": "https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si"
@@ -77,7 +117,7 @@
       "url": "https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS"
     },
     {
-      "added_at": "2022-02-24 17:30:43",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "UMBRA",
         "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
@@ -97,7 +137,7 @@
       "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
     },
     {
-      "added_at": "2022-02-23 17:16:57",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ"
@@ -117,7 +157,7 @@
       "url": "https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx"
     },
     {
-      "added_at": "2022-02-23 17:19:57",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "New Age (Bossfight Remix)",
         "url": "https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX"
@@ -141,7 +181,7 @@
       "url": "https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL"
     },
     {
-      "added_at": "2022-02-22 17:15:39",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF"
@@ -165,7 +205,7 @@
       "url": "https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc"
     },
     {
-      "added_at": "2022-02-21 18:05:40",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/1Qpo82QvvoXCawctSQfNNJ"
@@ -189,7 +229,7 @@
       "url": "https://open.spotify.com/track/5ids0N0UPvFHDYDtvDgVCl"
     },
     {
-      "added_at": "2022-02-18 17:51:57",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Nevada (Vicetone Lofi Mix)",
         "url": "https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA"
@@ -209,7 +249,7 @@
       "url": "https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975"
     },
     {
-      "added_at": "2022-02-18 17:49:53",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb"
@@ -229,7 +269,7 @@
       "url": "https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB"
     },
     {
-      "added_at": "2022-02-17 17:42:26",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "My Wicked",
         "url": "https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq"
@@ -245,7 +285,7 @@
       "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
     },
     {
-      "added_at": "2022-02-22 17:15:12",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "The Warehouse (Justin Hawkes Remix)",
         "url": "https://open.spotify.com/album/5lxvypUozCcKPlMoKrGuAO"
@@ -273,7 +313,7 @@
       "url": "https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe"
     },
     {
-      "added_at": "2022-02-16 17:17:23",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Spaced Out",
         "url": "https://open.spotify.com/album/1XHf7B0DwZTIMzSxeRKJEv"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/4cG0DczmM59OoR7Pcoc9Mx"
     },
     {
-      "added_at": "2022-02-15 17:56:51",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/4VYcnqjXVo6ekUEIOUr0Ml"
@@ -317,7 +357,7 @@
       "url": "https://open.spotify.com/track/6jAPzxblYZrD1XpGAhIswt"
     },
     {
-      "added_at": "2022-02-14 17:11:26",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Never Cared",
         "url": "https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y"
@@ -333,7 +373,7 @@
       "url": "https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g"
     },
     {
-      "added_at": "2022-02-11 17:56:52",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V"
@@ -353,7 +393,7 @@
       "url": "https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE"
     },
     {
-      "added_at": "2022-02-11 17:56:39",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S"
@@ -373,7 +413,7 @@
       "url": "https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp"
     },
     {
-      "added_at": "2022-02-10 17:38:43",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "AGONIZE",
         "url": "https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx"
@@ -393,7 +433,7 @@
       "url": "https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH"
     },
     {
-      "added_at": "2022-02-09 17:41:44",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Searchlight",
         "url": "https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5"
@@ -413,7 +453,7 @@
       "url": "https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL"
     },
     {
-      "added_at": "2022-02-08 18:05:03",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz"
@@ -433,7 +473,7 @@
       "url": "https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8"
     },
     {
-      "added_at": "2022-02-07 17:18:23",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Almost 3am / 4am",
         "url": "https://open.spotify.com/album/7imIuXGdsrD3pXy9pFoIq7"
@@ -449,7 +489,7 @@
       "url": "https://open.spotify.com/track/3cmpyH2zavEwZwWIGHcdyh"
     },
     {
-      "added_at": "2022-02-04 17:08:44",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "feeling",
         "url": "https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581"
     },
     {
-      "added_at": "2022-02-04 17:08:36",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX"
     },
     {
-      "added_at": "2022-02-03 17:02:08",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Catharsis X",
         "url": "https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs"
@@ -501,7 +541,7 @@
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
     },
     {
-      "added_at": "2022-02-02 15:39:17",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb"
@@ -517,7 +557,7 @@
       "url": "https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h"
     },
     {
-      "added_at": "2022-02-01 21:44:46",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4"
@@ -533,7 +573,7 @@
       "url": "https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK"
     },
     {
-      "added_at": "2022-02-01 21:12:06",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Between the Lines",
         "url": "https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK"
     },
     {
-      "added_at": "2022-01-28 17:20:43",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf"
     },
     {
-      "added_at": "2022-01-28 17:20:35",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Unfinished",
         "url": "https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk"
     },
     {
-      "added_at": "2022-01-27 16:42:14",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Shadowblade",
         "url": "https://open.spotify.com/album/1aX6eK8WqLSwPh7LTbgLJz"
@@ -601,7 +641,7 @@
       "url": "https://open.spotify.com/track/6tyfFtThdu7pYvDs2uRcjT"
     },
     {
-      "added_at": "2022-01-26 17:21:22",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Dream Cycle",
         "url": "https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK"
@@ -621,7 +661,7 @@
       "url": "https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M"
     },
     {
-      "added_at": "2022-01-25 17:24:25",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Rise & Fall (VIPs)",
         "url": "https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx"
@@ -637,7 +677,7 @@
       "url": "https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u"
     },
     {
-      "added_at": "2022-01-24 17:22:40",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "BITTERSWEET",
         "url": "https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn"
@@ -657,7 +697,7 @@
       "url": "https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9"
     },
     {
-      "added_at": "2022-01-21 17:37:45",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
@@ -677,7 +717,7 @@
       "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"
     },
     {
-      "added_at": "2022-01-21 17:37:34",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Give Me A Second",
         "url": "https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2"
     },
     {
-      "added_at": "2022-01-20 17:08:18",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
     },
     {
-      "added_at": "2022-01-19 17:14:42",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Wheel Of Life",
         "url": "https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH"
     },
     {
-      "added_at": "2022-01-18 17:15:02",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Arms Race",
         "url": "https://open.spotify.com/album/08McMk6ovWxi4Ww51wARoZ"
@@ -753,7 +793,7 @@
       "url": "https://open.spotify.com/track/7eHBCHw9oLRYv2zlSDdY9Q"
     },
     {
-      "added_at": "2022-01-17 17:58:07",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Shapes",
         "url": "https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D"
     },
     {
-      "added_at": "2022-01-14 16:54:33",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Love For You",
         "url": "https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg"
@@ -793,7 +833,7 @@
       "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
     },
     {
-      "added_at": "2022-01-14 16:54:02",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Nibbana",
         "url": "https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS"
@@ -809,7 +849,7 @@
       "url": "https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS"
     },
     {
-      "added_at": "2022-01-13 17:11:38",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Ignore Them",
         "url": "https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl"
@@ -833,7 +873,7 @@
       "url": "https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt"
     },
     {
-      "added_at": "2022-01-12 17:58:37",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Dream On",
         "url": "https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA"
@@ -849,7 +889,7 @@
       "url": "https://open.spotify.com/track/1MmgvqDJPNcJf8zKXNdAXy"
     },
     {
-      "added_at": "2022-01-11 17:38:55",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Warmer",
         "url": "https://open.spotify.com/album/05PEAJk2RAUtqaAbixRJAG"
@@ -865,7 +905,7 @@
       "url": "https://open.spotify.com/track/3J2KzuvIYC9Ao489gZSsIM"
     },
     {
-      "added_at": "2022-01-10 17:16:17",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb"
@@ -885,7 +925,7 @@
       "url": "https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh"
     },
     {
-      "added_at": "2022-01-07 17:16:07",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "find u.",
         "url": "https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8"
@@ -901,7 +941,7 @@
       "url": "https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx"
     },
     {
-      "added_at": "2022-01-07 17:15:59",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Airborne",
         "url": "https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI"
@@ -917,7 +957,7 @@
       "url": "https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9"
     },
     {
-      "added_at": "2022-01-06 17:25:28",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/4cTaCAXGdmSUruJNQzwVjm"
@@ -933,7 +973,7 @@
       "url": "https://open.spotify.com/track/6j8TuycHw2DqHyb05WsjQ9"
     },
     {
-      "added_at": "2021-12-08 17:38:56",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0HKsE8AP6AjvA9hO0ujw2T"
@@ -957,7 +997,7 @@
       "url": "https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI"
     },
     {
-      "added_at": "2021-12-07 17:49:37",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/11FB4HqkYVcitO6sD6MjlV"
@@ -973,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4mqPjnIz3jSsDY7SaNIISD"
     },
     {
-      "added_at": "2021-12-06 18:38:58",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Good Feeling",
         "url": "https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK"
@@ -993,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga"
     },
     {
-      "added_at": "2021-12-03 17:53:50",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl"
@@ -1013,7 +1053,7 @@
       "url": "https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo"
     },
     {
-      "added_at": "2021-12-03 17:53:41",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Million Reasons",
         "url": "https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx"
@@ -1033,7 +1073,7 @@
       "url": "https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy"
     },
     {
-      "added_at": "2021-12-02 16:01:05",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf"
@@ -1049,7 +1089,7 @@
       "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
     },
     {
-      "added_at": "2021-12-01 17:07:59",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX"
@@ -1069,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn"
     },
     {
-      "added_at": "2021-11-30 17:10:43",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC"
@@ -1089,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ"
     },
     {
-      "added_at": "2021-11-29 13:46:20",
+      "added_at": "2022-03-02 17:04:18",
       "album": {
         "name": "Chasing Stars",
         "url": "https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw"
@@ -1103,46 +1143,6 @@
       "duration_ms": 281379,
       "name": "Chasing Stars",
       "url": "https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY"
-    },
-    {
-      "added_at": "2021-11-26 17:10:05",
-      "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l"
-        },
-        {
-          "name": "MADREX",
-          "url": "https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr"
-        },
-        {
-          "name": "DAINA",
-          "url": "https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e"
-    },
-    {
-      "added_at": "2021-11-26 17:09:57",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR"
-      },
-      "artists": [
-        {
-          "name": "Hausman",
-          "url": "https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
   "name": "epicPRAISE",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3C0qobAOSLbFAynsNuLE2F"
+  ],
   "tracks": [
     {
       "album": {
@@ -97,7 +99,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 484200,
       "name": "Alleluia - Live",
       "url": "https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB"
@@ -407,7 +409,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 433279,
       "name": "Covered - Live",
       "url": "https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51"
@@ -541,7 +543,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 217226,
       "name": "Every Beat",
       "url": "https://open.spotify.com/track/2kXpf2LZRQPfy0zq3s2DXJ"
@@ -737,7 +739,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 514573,
       "name": "God of Revival - Live",
       "url": "https://open.spotify.com/track/1bVwXNjU0AFn1nI2U6RPQG"
@@ -883,7 +885,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 328484,
       "name": "Hallelujah Lives in Me",
       "url": "https://open.spotify.com/track/6j6opS2iByXTthkq2rKEz0"
@@ -945,7 +947,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 285560,
       "name": "I'm Listening - Live",
       "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
@@ -1364,6 +1366,28 @@
     },
     {
       "album": {
+        "name": "Church Volume One (Live)",
+        "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516373,
+      "name": "More Than Enough - Live",
+      "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
+    },
+    {
+      "album": {
         "name": "Praise Before My Breakthrough",
         "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
       },
@@ -1411,7 +1435,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 232400,
       "name": "No Other",
       "url": "https://open.spotify.com/track/0iRaGNG7m67ikqd5XcMGAg"
@@ -1495,6 +1519,24 @@
       "duration_ms": 259653,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP"
+    },
+    {
+      "album": {
+        "name": "Open Over Us (Live)",
+        "url": "https://open.spotify.com/album/2GxghAKQPGO1E4Zl9nEgaV"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452388,
+      "name": "Open Over Us (Live)",
+      "url": "https://open.spotify.com/track/7v4qvJHhz314Fcq0sLmyvR"
     },
     {
       "album": {
@@ -1753,7 +1795,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 307200,
       "name": "Storm Strong",
       "url": "https://open.spotify.com/track/1wo5Bd4D9fn9XbeRLOnZTB"
@@ -1859,6 +1901,46 @@
       "duration_ms": 341849,
       "name": "This Is Our Story",
       "url": "https://open.spotify.com/track/0BPve03Ln80rCunPjTukrZ"
+    },
+    {
+      "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "album": {
+        "name": "The Songs We Sing",
+        "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
+      },
+      "artists": [
+        {
+          "name": "Mid-Cities Worship",
+          "url": "https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP"
+        },
+        {
+          "name": "Brooklynn Ward",
+          "url": "https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Unshakable",
+      "url": "https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96"
     },
     {
       "album": {

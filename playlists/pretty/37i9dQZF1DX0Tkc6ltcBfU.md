@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: 2 Chainz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,146 likes - 53 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,357 likes - 53 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 2 | [Usain Boo](https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:06 |
 | 3 | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu) | 2:36 |
 | 4 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 |
-| 5 | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
+| 5 | [Neighborhood Superstar](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Neighborhood Superstar](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
 | 6 | [BILLI \(feat\. Future\)](https://open.spotify.com/track/2w0DHjwF1NIMGXKeypz0sr) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 2:43 |
 | 7 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |
 | 8 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |

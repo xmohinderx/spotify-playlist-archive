@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 184153,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/17R5hvs1krffl3SAVtkY8B"
@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "First Girl On The Moon",
+        "url": "https://open.spotify.com/album/2aMFJdNMo1l20PdOWRhx5h"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "First Girl On The Moon",
+      "url": "https://open.spotify.com/track/7e5mu6P9XOBH3uLCT3JitQ"
+    },
+    {
+      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
       },
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 133655,
       "name": "Gun Down",
       "url": "https://open.spotify.com/track/4maYggB8WU0kBSya4RYkMh"
@@ -641,10 +659,36 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 147143,
       "name": "G\u00e4steliste +1",
       "url": "https://open.spotify.com/track/1PlLuGYpkeEqmuKVwQx8wl"
+    },
+    {
+      "album": {
+        "name": "Hard to Forget",
+        "url": "https://open.spotify.com/album/4kzUsYf5IQ9c1VNovwBXVc"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        },
+        {
+          "name": "Julia Viktoria",
+          "url": "https://open.spotify.com/artist/64bQAyP9ASjDFrqXjq9Alx"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138861,
+      "name": "Hard to Forget",
+      "url": "https://open.spotify.com/track/7lnjrJEXUpLzrnkTRiDY4L"
     },
     {
       "album": {
@@ -659,7 +703,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
@@ -806,6 +850,28 @@
     },
     {
       "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu"
       },
@@ -821,7 +887,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 171796,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS"
@@ -1071,7 +1137,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 167142,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
@@ -1369,7 +1435,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 197619,
       "name": "Planet In The Sky (feat. MKLA)",
       "url": "https://open.spotify.com/track/32eSXKGSMITI1oJbjBxAHS"
@@ -1403,6 +1469,50 @@
       "duration_ms": 151267,
       "name": "Plans of Power",
       "url": "https://open.spotify.com/track/0iRoEWnP60m4Cj9z0xQucn"
+    },
+    {
+      "album": {
+        "name": "Rain In Ibiza",
+        "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141931,
+      "name": "Rain In Ibiza",
+      "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+    },
+    {
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3NY5MKyBEE0w2ZGQrANjHQ"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt"
     },
     {
       "album": {
@@ -1706,6 +1816,28 @@
     },
     {
       "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/3JyfxShhAPiEl7SxFTHpog"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157105,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/6sVhDPQS9B0pm905Eewdyu"
+    },
+    {
+      "album": {
         "name": "The Lone Ranger",
         "url": "https://open.spotify.com/album/3tkyV2SZsHRE8GZ9SkCIVP"
       },
@@ -1927,6 +2059,32 @@
       "duration_ms": 230945,
       "name": "Won't Forget You - Edit",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/7cD5nBIN9sTlVaLDiG774J"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173513,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/7fWglHkYHyOAkR1acPfIV7"
     },
     {
       "album": {

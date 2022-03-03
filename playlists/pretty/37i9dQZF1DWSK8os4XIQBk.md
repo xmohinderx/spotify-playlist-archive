@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Tyler Joe Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,851 likes - 102 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,900 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 19 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 |
 | 20 | [Cold Beer Calling My Name](https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:30 |
 | 21 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
-| 22 | [Like A Lady](https://open.spotify.com/track/2GVkgzOPqJSUVcfORntFAu) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:01 |
-| 23 | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/track/0ENxjYOmcON3vYqFkAWVWQ) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/album/1GsUZtyhgT2Ho1CcGufHZO) | 4:00 |
-| 24 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5c37mE38KCxduL41dwsdwg) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz) | 2:50 |
+| 22 | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/track/0ENxjYOmcON3vYqFkAWVWQ) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Best Of Me \(feat\. Dallas Smith\)](https://open.spotify.com/album/1GsUZtyhgT2Ho1CcGufHZO) | 4:00 |
+| 23 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5c37mE38KCxduL41dwsdwg) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz) | 2:50 |
+| 24 | [What A Song Can Do](https://open.spotify.com/track/6370O8YLLVTdcnE457lhhY) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:41 |
 | 25 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
 | 26 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 |
 | 27 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 62 | [Happy Hours](https://open.spotify.com/track/3X5WJWMh7Ux2kXcQ5lt1nV) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Happy Hours](https://open.spotify.com/album/3UPp0ObbgaQhBu4c61bdPa) | 2:51 |
 | 63 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 |
 | 64 | [Take Me Back](https://open.spotify.com/track/1HcOAmGK7cDVfSHu4ZbPPM) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Take Me Back](https://open.spotify.com/album/6oIlrSM4HzgG6JzI1xKtyt) | 3:53 |
-| 65 | [Cold Beer Truth](https://open.spotify.com/track/1Aham4eyVWUkYoxyvoxaj0) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Cold Beer Truth](https://open.spotify.com/album/6MlvMbQu3E7bmEIjYfDowJ) | 2:53 |
+| 65 | [Cold Beer Truth](https://open.spotify.com/track/1Aham4eyVWUkYoxyvoxaj0) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Cold Beer Truth](https://open.spotify.com/album/6MlvMbQu3E7bmEIjYfDowJ) | 2:54 |
 | 66 | [Cool About It](https://open.spotify.com/track/6PGNiIVGzWYTOaGXPoL9pV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart On My Glass](https://open.spotify.com/album/0x5tWCQaw2ZGitlV8EdVN1) | 3:29 |
 | 67 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 2:53 |
 | 68 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 101 | [Closest Ocean](https://open.spotify.com/track/3ghKywq6om9mIdXxGAiME4) | [Bobby Wills](https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q) | [Closest Ocean](https://open.spotify.com/album/3fwUwgnzb2TwjNBw4H3D25) | 3:58 |
 | 102 | [Devil in a Bottle](https://open.spotify.com/track/0QpglYZa7QDKmEyDfbcVlY) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Devil in a Bottle](https://open.spotify.com/album/0IqW21i1QETM8Sh6JJIxtc) | 3:47 |
 
-Snapshot ID: `MTY0NjA4NjE1MCwwMDAwMDM1YjAwMDAwMTdmNDI2MTVhOGUwMDAwMDE3ZjJlOWE4ZWQ1`
+Snapshot ID: `MTY0NjIzMzAyMCwwMDAwMDM1YzAwMDAwMTdmNGIyMjY3YzYwMDAwMDE3ZjJlOWE4ZWQ1`

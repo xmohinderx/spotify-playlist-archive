@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZnA0FshBt4S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZnA0FshBt4S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZnA0FshBt4S)
 
-### Youth Group Throwback
+### [Youth Group Throwback](https://open.spotify.com/playlist/6Mwq2JV69hbC2CLKfkPcBX)
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 

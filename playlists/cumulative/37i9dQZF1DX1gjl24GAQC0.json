@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: TREASURE(\ud2b8\ub808\uc800) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: T\bEMPEST(\ud15c\ud398\uc2a4\ud2b8) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 205147,
       "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
       "url": "https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF"
@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s ME, It's WE",
+        "url": "https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB"
+      },
+      "artists": [
+        {
+          "name": "TEMPEST",
+          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh"
+    },
+    {
+      "album": {
         "name": "Road to Kingdom (Your Song), Pt. 1",
         "url": "https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH"
       },
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 264613,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 194720,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/6DTeLNeutILDk51f5IZN7d"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 196666,
       "name": "BOY",
       "url": "https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 201445,
       "name": "Can't You See Me?",
       "url": "https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 230706,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26"
@@ -884,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Echo [From \"Solo Leveling\" (Original Soundtrack)]",
+        "url": "https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225973,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi"
       },
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 211320,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/1q3C6brbmRrULTyo2mseKF"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 222119,
       "name": "LAST PIECE",
       "url": "https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 209648,
       "name": "LOVE SCENARIO",
       "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
@@ -1885,7 +1921,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 179706,
       "name": "Make it",
       "url": "https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG"
@@ -1903,7 +1939,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 226321,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH"
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 196839,
       "name": "Mixtape : Gone Days",
       "url": "https://open.spotify.com/track/1bY59BLTnu2y4IohUrUZdw"
@@ -2177,7 +2213,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 195733,
       "name": "nostalgic night",
       "url": "https://open.spotify.com/track/7MC2mQvMmir9PM3nAe2SuW"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 227773,
       "name": "Sticker",
       "url": "https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7"
@@ -2771,7 +2807,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 203933,
       "name": "Wave",
       "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
@@ -2843,7 +2879,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206856,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
@@ -2879,7 +2915,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 194707,
       "name": "You Calling My Name",
       "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
@@ -2897,7 +2933,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ"

@@ -1,13 +1,29 @@
 {
   "description": "Essential Alesso originals and remixes.",
-  "num_followers": 149632,
+  "num_followers": 149691,
   "original_name": "This Is Alesso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjE4MjY5OCwwMDAwMDAwMDdhNjYzYjFmN2EwOWE0YzczNTVhOWIxYjExNTNlN2Iy",
+  "snapshot_id": "MTY0NjI2OTAxMSwwMDAwMDAwMGZjMjE2ZTYyYjI2MzhkNDE4M2IyN2ZkMzM3MDBhOGM2",
   "tracks": [
+    {
+      "added_at": "2022-03-02 05:55:57",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/233Z7fuQQJdAZIdYEbbusf"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 77343,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/26jRyz87hxFJbFOCQcjP8B"
+    },
     {
       "added_at": "2021-12-29 17:00:00",
       "album": {

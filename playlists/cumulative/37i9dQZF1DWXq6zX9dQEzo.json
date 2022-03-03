@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
   "name": "Beast Mode Christian",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2BcyUtPNa5ofBEse5V2Mjq"
+  ],
   "tracks": [
     {
       "album": {
@@ -61,7 +63,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 183341,
       "name": "All I See (feat. CASS)",
       "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
@@ -145,7 +147,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 226293,
       "name": "Alone (feat. Tru)",
       "url": "https://open.spotify.com/track/0LttzRjJ4kRdDD7PnMuaqg"
@@ -163,7 +165,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 226433,
       "name": "Anhela Mi Alma",
       "url": "https://open.spotify.com/track/3vKUtAiKuGdi9knit8X1c1"
@@ -437,7 +439,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 161495,
       "name": "Buena Onda",
       "url": "https://open.spotify.com/track/2BvGBY2zBcEptXP5K8pRuy"
@@ -543,7 +545,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 190427,
       "name": "Creyendo",
       "url": "https://open.spotify.com/track/6l9QdiDUTZakMMe8co4ztr"
@@ -911,7 +913,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 283254,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/5vdPe3HuuqPqBf6zEDFjf4"
@@ -1775,7 +1777,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 277368,
       "name": "Motivation (feat. Social Club)",
       "url": "https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc"
@@ -2159,7 +2161,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Ready Set Go",
       "url": "https://open.spotify.com/track/57Fe6xAsRHARo7JvmBcGol"
@@ -2271,7 +2273,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 205605,
       "name": "Siempre Me Encuentras (You Find Me)",
       "url": "https://open.spotify.com/track/6dpAWWgS2AzgAIkOtLH38k"
@@ -2570,6 +2572,24 @@
     },
     {
       "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/37b7Y7ow9J8eHcRyEtqaWY"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/1mSMwIW4ZK6DVl499FvDPv"
+    },
+    {
+      "album": {
         "name": "Marvel\u2019s Spider-Man: Miles Morales (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8"
       },
@@ -2831,7 +2851,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 191853,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/5AWOVMrfZmajuL2hpOkMHG"
@@ -2893,7 +2913,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 178888,
       "name": "We Been Here",
       "url": "https://open.spotify.com/track/0TjqCwN9MubG45YGafYWF6"

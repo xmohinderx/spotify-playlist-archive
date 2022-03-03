@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 10 genombrott, 100 känsla\. Möt KLASS 2021.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,776 likes - 85 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,863 likes - 85 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [Branschen \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Studio 100](https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544) | 2:40 |
 | 85 | [Hammarkullen \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Studio 100](https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej) | 2:49 |
 
-Snapshot ID: `MTY0NjE4MjQxMCwwMDAwMDAwMGY3MDA0ZTVhNzI3NGM4MmI5YmRhMTY5NDBmMzVhMjBj`
+Snapshot ID: `MTY0NjI2ODcxOCwwMDAwMDAwMGY3MDA0ZTVhNzI3NGM4MmI5YmRhMTY5NDBmMzVhMjBj`

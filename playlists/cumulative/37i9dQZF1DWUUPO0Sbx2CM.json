@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
   "name": "Christian Dance Party",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3vMk9zjuuRtPgQLPS55xS3"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 181422,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/4TU5I4gmEwDjcOuEAMCBQB"
@@ -79,7 +81,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 380928,
       "name": "Anthem of Our Souls",
       "url": "https://open.spotify.com/track/3yDOQZjvEI3SVSCWeY5GcV"
@@ -101,7 +103,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale)",
       "url": "https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc"
@@ -198,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/30i1uRGryZeao36QjA1uuC"
+      },
+      "artists": [
+        {
+          "name": "SoulBox",
+          "url": "https://open.spotify.com/artist/27gv2YK8R06j3h6NMAJFvD"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239109,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/6zLNRDotJGdEPuF1U0A6RP"
+    },
+    {
+      "album": {
         "name": "Burn The Ships (R3HAB Remix)",
         "url": "https://open.spotify.com/album/637sa0MubVLyJ8al6duftV"
       },
@@ -235,7 +255,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 200026,
       "name": "Call Of The Wild - Neon Feather Remix",
       "url": "https://open.spotify.com/track/7G52lyjc0oVHHUn2AudnMZ"
@@ -257,6 +277,24 @@
       "duration_ms": 153560,
       "name": "Can't Take Away",
       "url": "https://open.spotify.com/track/3BpLaBxIONfs91WRj5WjWt"
+    },
+    {
+      "album": {
+        "name": "Chasing Quiet",
+        "url": "https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Chasing Quiet",
+      "url": "https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr"
     },
     {
       "album": {
@@ -297,7 +335,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 149052,
       "name": "Clear View (Remix)",
       "url": "https://open.spotify.com/track/1OdEnDiOeNLQIqM8uKV5tu"
@@ -319,7 +357,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Close (feat. Steven Furtick)",
       "url": "https://open.spotify.com/track/5cdVjOTp2QPOmYlFuCtkAP"
@@ -337,7 +375,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 158198,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU"
@@ -435,7 +473,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 254026,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
@@ -572,6 +610,32 @@
     },
     {
       "album": {
+        "name": "Glorious Day (Remix)",
+        "url": "https://open.spotify.com/album/3bmUsMqgu3e582aGytKsGa"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Jeff Lawson",
+          "url": "https://open.spotify.com/artist/03HAheRwHmFMIrU9ThvGe0"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257946,
+      "name": "Glorious Day - Remix",
+      "url": "https://open.spotify.com/track/3LEiqJm0Q2iwUNZ8t5PDqe"
+    },
+    {
+      "album": {
         "name": "Glory I Couldn't See",
         "url": "https://open.spotify.com/album/65yrsjMkCHqQmYn6IOsxRd"
       },
@@ -605,7 +669,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 165080,
       "name": "Good Day (feat. Social Club Misfits)",
       "url": "https://open.spotify.com/track/382CUuS56h9lajPb215LuP"
@@ -623,7 +687,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 175040,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/2otqZVvW83kij45qpJaipl"
@@ -670,6 +734,32 @@
     },
     {
       "album": {
+        "name": "Bangerz",
+        "url": "https://open.spotify.com/album/4PiXo9M3VrAlP5fG0auMcx"
+      },
+      "artists": [
+        {
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        },
+        {
+          "name": "Caleb Chapman",
+          "url": "https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th"
+        },
+        {
+          "name": "Will Chapman",
+          "url": "https://open.spotify.com/artist/5QUtZ4R2ZxWxOSrrvxj4jU"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258337,
+      "name": "Hallelujah\u2019s Song (Psalm 103) - FRANKLIN Remix",
+      "url": "https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK"
+    },
+    {
+      "album": {
         "name": "Godsend",
         "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
       },
@@ -685,6 +775,28 @@
       "duration_ms": 177920,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
+    },
+    {
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        },
+        {
+          "name": "GOLDHOUSE",
+          "url": "https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188244,
+      "name": "Headspace - GOLDHOUSE Remix",
+      "url": "https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW"
     },
     {
       "album": {
@@ -717,7 +829,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 196835,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
@@ -761,7 +873,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206227,
       "name": "Higher - HYMN Remix",
       "url": "https://open.spotify.com/track/5mGfNohrEXnZOXRiA6wnXS"
@@ -797,7 +909,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 185062,
       "name": "Higher Than Mine",
       "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
@@ -869,10 +981,50 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 199757,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/62sxM2Uha39CysCoVcoGKT"
+    },
+    {
+      "album": {
+        "name": "It's Gonna Get Better",
+        "url": "https://open.spotify.com/album/6ZXqQXiHmTfQQIC1MOC9lI"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "It's Gonna Get Better",
+      "url": "https://open.spotify.com/track/4xq5lrkKBwpT8QB0iiBjSp"
+    },
+    {
+      "album": {
+        "name": "IWKY",
+        "url": "https://open.spotify.com/album/0WMM3M7bSAV5RzMpHcd32Z"
+      },
+      "artists": [
+        {
+          "name": "We Are Leo",
+          "url": "https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu"
+        },
+        {
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206433,
+      "name": "IWKY",
+      "url": "https://open.spotify.com/track/1bGKjyrC5SKldCSLFp5AsJ"
     },
     {
       "album": {
@@ -985,7 +1137,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 204000,
       "name": "Let You Love Me",
       "url": "https://open.spotify.com/track/5xv9rwOC7YZC2Gv7XFfJM6"
@@ -1003,7 +1155,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 222159,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/3tPJHHygrSqPgZPoAxON8B"
@@ -1061,7 +1213,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 210697,
       "name": "Like You Love Me",
       "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
@@ -1083,7 +1235,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 174947,
       "name": "Little Bit More - Neon Feather Remix",
       "url": "https://open.spotify.com/track/71P3M3VFr6MNMxRp9vlNU3"
@@ -1101,7 +1253,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 203000,
       "name": "Love Me Like You - TYE Remix",
       "url": "https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB"
@@ -1167,10 +1319,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 254464,
       "name": "More Than Enough (Studio)",
       "url": "https://open.spotify.com/track/5Z5TKmLIeZZHazfNYajEcf"
+    },
+    {
+      "album": {
+        "name": "My Champion",
+        "url": "https://open.spotify.com/album/43yuI9hwTkW5pTnCZ24Jum"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202368,
+      "name": "My Champion",
+      "url": "https://open.spotify.com/track/7z5MaKrUuj54pp7JzGzmEp"
     },
     {
       "album": {
@@ -1203,7 +1373,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 202691,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/62EtLxtWiFrC8H5FlE9LJZ"
@@ -1225,10 +1395,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 233024,
       "name": "Never Let You Go - Live",
       "url": "https://open.spotify.com/track/6g3zF52ZzbTL3eu7lxxsoQ"
+    },
+    {
+      "album": {
+        "name": "Bigger Story",
+        "url": "https://open.spotify.com/album/5Ya9Un8iVDcaQe16E11uoR"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/3W5r3xgezRS536m6Iw6tZu"
     },
     {
       "album": {
@@ -1265,7 +1453,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 174573,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/16HcQdDA5srhtubE1iahCF"
@@ -1283,7 +1471,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 187692,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
@@ -1305,7 +1493,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 219186,
       "name": "Not Today - Remix",
       "url": "https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u"
@@ -1377,7 +1565,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 204776,
       "name": "Same God - Remix",
       "url": "https://open.spotify.com/track/5OCs8SURfADDJf5UZWHp4U"
@@ -1399,10 +1587,36 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 194526,
       "name": "Sanctuary - Neon Feather Remix",
       "url": "https://open.spotify.com/track/22VXDtneDqNVmNxt9FGFaB"
+    },
+    {
+      "album": {
+        "name": "The St. Nemele Collab Sessions",
+        "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243240,
+      "name": "Scars (Come With Livin') - Neon Feather Remix",
+      "url": "https://open.spotify.com/track/0shptsB4Efvi4T5zNKjeuO"
     },
     {
       "album": {
@@ -1425,6 +1639,24 @@
       "duration_ms": 152769,
       "name": "SIMPLE (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
+    },
+    {
+      "album": {
+        "name": "HEATHEN",
+        "url": "https://open.spotify.com/album/5yL0xTL7SRjBeK8Yko0wJG"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205988,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/4t3XwK9hpZNRVwUuy3Q2Lw"
     },
     {
       "album": {
@@ -1501,7 +1733,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 197300,
       "name": "Stuck Inside My Head - Single Mix",
       "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
@@ -1581,7 +1813,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
@@ -1599,7 +1831,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 172598,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW"
@@ -1617,7 +1849,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
@@ -1697,7 +1929,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 237179,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
@@ -1773,7 +2005,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 281005,
       "name": "Wind + Waves (Remix)",
       "url": "https://open.spotify.com/track/1WC5JP6agemSOQIfQcElzz"
@@ -1791,7 +2023,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 221368,
       "name": "Without You",
       "url": "https://open.spotify.com/track/3SA2Ao8KCeGGAL4AjmI3nx"
@@ -1817,7 +2049,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 227379,
       "name": "Without You - Abe Parker Remix",
       "url": "https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0"

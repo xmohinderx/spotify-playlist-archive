@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,119 likes - 70 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,128 likes - 70 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 6 | [Afrikan III](https://open.spotify.com/track/2iwbPDO5pFkGqEcVyt6KSk) | [Simoncino](https://open.spotify.com/artist/38mGXV1meeU3dz3HtO4toI) | [Come with Me](https://open.spotify.com/album/2krNh15cGXPm5V1Ev6hGu8) | 3:37 |
 | 7 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 8 | [Barranca Del Cobre](https://open.spotify.com/track/3pFZGMIENcCI0JbrZuUvw0) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Mammarella](https://open.spotify.com/artist/053qSdi5vmd1Z3DyO1ko7P) | [Sierra Madre](https://open.spotify.com/album/06LRkQlZhJVxbFJGrnAlzu) | 8:21 |
-| 9 | [Hart Und Kalt](https://open.spotify.com/track/2WtElnjUqWwPwm0aDJQW4l) | [Chinaski](https://open.spotify.com/artist/6ofdjjT2rgq6wBJ82ipNtA) | [Hart Und Kalt](https://open.spotify.com/album/2mtu4fMzSU0CaIwwhQBN2q) | 4:54 |
+| 9 | [Hart Und Kalt](https://open.spotify.com/track/2WtElnjUqWwPwm0aDJQW4l) | [Chinaski](https://open.spotify.com/artist/4pXVDLP9qRl1ecfaXnMTza) | [Hart Und Kalt](https://open.spotify.com/album/2mtu4fMzSU0CaIwwhQBN2q) | 4:54 |
 | 10 | [Reflections](https://open.spotify.com/track/4oS2LzBpg7JuQ5DOJJvTZF) | [Yula Kasp](https://open.spotify.com/artist/1cXDO8VdC7Sc9AHASLlrRQ), [MI.RO](https://open.spotify.com/artist/3EvSyrNwdcAjq0mta8OoOa) | [Mayumi](https://open.spotify.com/album/7peYFDBJBpBtYoeOIYlOg9) | 5:59 |
 | 11 | [Rocket Dial](https://open.spotify.com/track/0WtQkSO98Mpl8Dt6fKcYcO) | [Clavis](https://open.spotify.com/artist/1chQEK9YzjdS7LZ6DR0z3F) | [Rocket Dial EP](https://open.spotify.com/album/435ZU6pwfeUYG56D77uCUd) | 7:52 |
 | 12 | [The Sardine Dance \- Zombies In Miami Remix](https://open.spotify.com/track/41pXdUsOVu1xsjl9dYPYgH) | [Tushen Raï](https://open.spotify.com/artist/2tYH3c0GTbAYZ9buuBYpJO), [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy) | [Drums Circle](https://open.spotify.com/album/2bdhcaMQhe2UFrHRhxEoX8) | 6:11 |

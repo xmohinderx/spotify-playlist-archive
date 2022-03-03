@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,236 likes - 71 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,336 likes - 71 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,6 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 68 | [Adagio](https://open.spotify.com/track/1ChvXhm9HA2bwtYuwTx2ZM) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Christopher Gordon](https://open.spotify.com/artist/2ysZkdT4RS1FePKkpQ0rKC) | [Master & Commander: Original Soundtrack](https://open.spotify.com/album/508jmMfd6u661YGVAYhayT) | 1:55 |
 | 69 | [Act 3 \[Rigoletto} \- Lili Marlene](https://open.spotify.com/track/5OjnpfLUTRdpmcZr2BPQqw) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Norbert Schultze](https://open.spotify.com/artist/1Twd7CTT4zCSwndStUqk4N), [La Scala](https://open.spotify.com/artist/6oZI9eICogpYD87Vim2953), [Nuccio Siano](https://open.spotify.com/artist/1KHulTpYUzjm1KKlJxUw20) | [Captain Corelli's Mandolin \-Original Motion Picture Soundtrack](https://open.spotify.com/album/0BL18V7f0uTGcIrs7vupQO) | 3:08 |
 | 70 | [Concerto For Clarinet & String Orchestra](https://open.spotify.com/track/7jmaYAqOm1jV782F84HeDI) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU) | [The War: A Ken Burns Film \- The Soundtrack](https://open.spotify.com/album/2hhJvyE5fXeLWYNiOhZFhv) | 7:42 |
-| 71 | [Harmonielehre: Pt\. III Meister Eckhardt and Quackie](https://open.spotify.com/track/096VPgc9LWEPP7PYjNvD6O) | [John Adams](https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ), [Edo de Waart](https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [I Am Love Soundtrack by John Adams](https://open.spotify.com/album/43Vh13JugrrRbhc3HRyfw7) | 10:34 |
+| 71 | [Adams: Harmonielehre, Pt\. III: Meister Eckhardt and Quackie](https://open.spotify.com/track/096VPgc9LWEPP7PYjNvD6O) | [John Adams](https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ), [Edo de Waart](https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [I Am Love Soundtrack by John Adams](https://open.spotify.com/album/43Vh13JugrrRbhc3HRyfw7) | 10:34 |
 
 Snapshot ID: `MTY0MTM5MjcwOCwwMDAwMDAxMjAwMDAwMTdlMmFhMTFjOWEwMDAwMDE2ZDE1MmVmZTVl`

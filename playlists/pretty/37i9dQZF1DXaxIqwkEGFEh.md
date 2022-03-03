@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: NLE Choppa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,126 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,483 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
+| 1 | [Neighborhood Superstar](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Neighborhood Superstar](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
 | 2 | [Sink My Ship](https://open.spotify.com/track/4sNYF3T8nOhhqV5IBqrWke) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:16 |
 | 3 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 |
 | 4 | [Loyalty \(feat\. Internet Money\)](https://open.spotify.com/track/7uvCi4BwD5xr0hkMNoEH2n) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [The Blixky Tape 2 \(Deluxe\)](https://open.spotify.com/album/5AeTBSf9ogUyItM9wLQK9u) | 2:00 |

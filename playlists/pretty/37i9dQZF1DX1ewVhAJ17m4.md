@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,732 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,056 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bois Lie](https://open.spotify.com/track/14td7C4K7BX8jsSYtgtQqy) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/5yLayeW2yw7QpH06QVIpiv) | 2:43 |
 | 2 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 |
 | 3 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 |
-| 4 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/1gNBwWBXaNtgxRm7XL4UtA) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 |
+| 4 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 |
 | 5 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 |
 | 6 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 |
 | 7 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 |

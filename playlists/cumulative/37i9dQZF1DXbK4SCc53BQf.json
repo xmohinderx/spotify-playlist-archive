@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
   "name": "Inspiraci\u00f3n Tropical",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1P9HnMPWIfefmYhkHJJ7tn"
+  ],
   "tracks": [
     {
       "album": {
@@ -383,7 +385,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 216351,
       "name": "Hora de Cantar",
       "url": "https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT"
@@ -441,6 +443,24 @@
       "duration_ms": 198599,
       "name": "La Fe Que Dios Me Di\u00f3",
       "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
+    },
+    {
+      "album": {
+        "name": "Coleccion Cristiana",
+        "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
     },
     {
       "album": {

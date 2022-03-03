@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdrxKdrXE2Vk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdrxKdrXE2Vk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdrxKdrXE2Vk)
 
-### Best of Live Worship
+### [Best of Live Worship](https://open.spotify.com/playlist/0s8QQefwdwJjE5Nq6dWGT4)
 
 > Experience the best of live worship here\. Cover: Chandler Moore
 

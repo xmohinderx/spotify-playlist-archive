@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,973 likes - 91 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,055 likes - 91 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 87 | [Holes in the Sky](https://open.spotify.com/track/3aNwsJSJaWGRD8caYro1hW) | [Toronto 7s](https://open.spotify.com/artist/6uunQvg4RiF0lBnTst3ylB) | [Holes in the Sky](https://open.spotify.com/album/4s0HmyMcLDszh7RI03zpsW) | 2:36 |
 | 88 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 |
 | 89 | [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 |
-| 90 | [Paranoid Society \(Instrumental\)](https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Travel Instrumentals \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1PGmuVGUYfBN68kNoCShJX) | 4:27 |
+| 90 | [Paranoid Society \- Instrumental](https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Travel Instrumentals \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1PGmuVGUYfBN68kNoCShJX) | 4:27 |
 | 91 | [Drop '95](https://open.spotify.com/track/72CBVgrrKp7niHjssNHv61) | [Sadiva](https://open.spotify.com/artist/4N5uaLp0vHh7627UsS9GoG) | [Lethal Chops](https://open.spotify.com/album/28zeg49sLHPxrUNmmkuDs5) | 2:07 |
 
 Snapshot ID: `MTY0NjA0NjE5NCwwMDAwMDAzNTAwMDAwMTdmM2ZmZmFjOGEwMDAwMDE2ZDE1MWJjNmQ2`

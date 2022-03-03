@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Teddy Robb
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,798 likes - 138 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,808 likes - 138 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 10 | [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 |
 | 11 | [You Know Who You Are](https://open.spotify.com/track/5p8QEAvdAPZwUXKZYKXZJC) | [Hunter Jordan](https://open.spotify.com/artist/1jXNRIUmYp5nKQ96Szehou) | [You Know Who You Are](https://open.spotify.com/album/5Drth5ENRDJ1e57RVclcRk) | 3:36 |
 | 12 | [Wish You The Best](https://open.spotify.com/track/4ICE8oMW6yVIqsveda2Srr) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Through The Madness Vol\. 1](https://open.spotify.com/album/5N9ZHay9lZWfle8m5mTPiK) | 2:59 |
-| 13 | [All In](https://open.spotify.com/track/7LGC2U92dKTsum0xz2f8Z9) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All In](https://open.spotify.com/album/6SRLvZFZUdLEtTUbY6cD6l) | 2:59 |
+| 13 | [All In](https://open.spotify.com/track/7LGC2U92dKTsum0xz2f8Z9) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All In](https://open.spotify.com/album/6SRLvZFZUdLEtTUbY6cD6l) | 3:00 |
 | 14 | [Pretty Damn Close](https://open.spotify.com/track/4GEP4c32r8w23n7vOTrSUD) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Pretty Damn Close](https://open.spotify.com/album/3Bgy4hqtatQewljCLoW9Ob) | 3:45 |
 | 15 | [Howdy](https://open.spotify.com/track/5A9TENn4YGLcqa3wLocWX0) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Howdy](https://open.spotify.com/album/0vk3fx3DPJRYIhQHoTZTpq) | 3:39 |
 | 16 | [College Town](https://open.spotify.com/track/6WtELijR2AcXChbeEOPwOu) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Didn't Go Too Far](https://open.spotify.com/album/1NfLMs1PDvwnnKR3ms4cvj) | 3:29 |

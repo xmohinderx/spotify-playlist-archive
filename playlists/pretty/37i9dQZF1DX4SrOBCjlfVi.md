@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Kodak Black, 22Gz, Flo Milli, and more\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,778 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,985 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 |
-| 2 | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
+| 2 | [Neighborhood Superstar](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Neighborhood Superstar](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
 | 3 | [Usain Boo](https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:06 |
 | 4 | [Fantasy \(feat\. Offset\)](https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Offset](https://open.spotify.com/artist/3xWSt0mL474uQlh5Zm6NsW) | [Big Grim Reaper: The Return](https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut) | 3:22 |
 | 5 | [Possessed](https://open.spotify.com/track/28AiPIhom3Y9bi8YFbBv9v) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2 \(Deluxe\)](https://open.spotify.com/album/5AeTBSf9ogUyItM9wLQK9u) | 2:29 |

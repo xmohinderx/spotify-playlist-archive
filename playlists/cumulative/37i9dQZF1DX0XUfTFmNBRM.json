@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 259215,
       "name": "Barsaat Ki Dhun",
       "url": "https://open.spotify.com/track/0IQRRlpomabOlzy39mcmmq"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 195428,
       "name": "Basti Ka Hasti",
       "url": "https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3"
@@ -2295,6 +2295,46 @@
       "duration_ms": 280148,
       "name": "Meri Aashiqui",
       "url": "https://open.spotify.com/track/2Zwv2vKU8mwgh2LI5GUKcT"
+    },
+    {
+      "album": {
+        "name": "Gangubai Kathiawadi",
+        "url": "https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238103,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK"
+    },
+    {
+      "album": {
+        "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+        "url": "https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248006,
+      "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+      "url": "https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU"
     },
     {
       "album": {

@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Echo [From \"Solo Leveling\" (Original Soundtrack)]",
+        "url": "https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225973,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre"
+    },
+    {
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/65EPSaLb7zDDiTt6RVIbfj"
       },

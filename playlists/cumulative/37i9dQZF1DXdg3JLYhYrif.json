@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 177815,
       "name": "Amor Falso",
       "url": "https://open.spotify.com/track/00zzSEe82JTtz68XlARnh7"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206000,
       "name": "Assim Voc\u00ea Mata O Papai",
       "url": "https://open.spotify.com/track/03UlQzmQHLb3fnvfhipq0B"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 175760,
       "name": "Avisa Que Eu Cheguei - Ao Vivo",
       "url": "https://open.spotify.com/track/39vJqbfolMyPJtJuyoj1EM"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 169364,
       "name": "Encaixa",
       "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
@@ -630,6 +630,28 @@
     },
     {
       "album": {
+        "name": "Hoje Eu Vou Parar Na Gaiola",
+        "url": "https://open.spotify.com/album/3j7cpOK1JwMTUEc745P571"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Hoje Eu Vou Parar Na Gaiola",
+      "url": "https://open.spotify.com/track/0IQCOAw9ZAI6WnXIrl481F"
+    },
+    {
+      "album": {
         "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
         "url": "https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t"
       },
@@ -751,6 +773,24 @@
       "duration_ms": 215169,
       "name": "Loka",
       "url": "https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY"
+    },
+    {
+      "album": {
+        "name": "Me Libera Nega",
+        "url": "https://open.spotify.com/album/73C2TysdF5OXpF292S731I"
+      },
+      "artists": [
+        {
+          "name": "MC Beijinho",
+          "url": "https://open.spotify.com/artist/3Y0ZBCi71VKaI4rh50czjS"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178286,
+      "name": "Me Libera Nega",
+      "url": "https://open.spotify.com/track/1DRhYG3no8LCjBYMuGmZjy"
     },
     {
       "album": {
@@ -1017,7 +1057,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 232485,
       "name": "Regime Fechado - Ao Vivo",
       "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
@@ -1087,6 +1127,28 @@
       "duration_ms": 134106,
       "name": "Sapequinha",
       "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
+    },
+    {
+      "album": {
+        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial Maluma)",
+        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206270,
+      "name": "Sim ou n\u00e3o (participa\u00e7\u00e3o especial Maluma)",
+      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
     },
     {
       "album": {
@@ -1174,6 +1236,28 @@
     },
     {
       "album": {
+        "name": "Ta Tum Tum",
+        "url": "https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164157,
+      "name": "Ta Tum Tum",
+      "url": "https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka"
+    },
+    {
+      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -1255,6 +1339,28 @@
       "duration_ms": 167502,
       "name": "Zap Zum",
       "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
+    },
+    {
+      "album": {
+        "name": "\u00c9 N\u00f3is Faze Parapap\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YyCs38Cbi7ELeEr1YDBZA"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "\u00c9 N\u00f3is Faze Parapap\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4FWbjgkqS6fUSpBg05ieTe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdg3JLYhYrif"

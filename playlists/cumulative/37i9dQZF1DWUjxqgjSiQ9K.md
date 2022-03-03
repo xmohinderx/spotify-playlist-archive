@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUjxqgjSiQ9K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUjxqgjSiQ9K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUjxqgjSiQ9K)
 
-### Éxitos Cristianos
+### [Éxitos Cristianos](https://open.spotify.com/playlist/46xuGYmp3nbMhyLwZ3Xj5y)
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  Alex Campos y Thalles Roberto
 

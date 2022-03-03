@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Parker McCollum, Tenille Arts & BRELAND.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,010 likes - 57 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,029 likes - 57 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

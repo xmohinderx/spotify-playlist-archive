@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 248450,
       "name": "Bankulize",
       "url": "https://open.spotify.com/track/1AjWF97CgrlnVDmhgkl5Kl"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 151510,
       "name": "Cake",
       "url": "https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4"
@@ -591,6 +591,36 @@
     {
       "album": {
         "name": "Genging",
+        "url": "https://open.spotify.com/album/17LVU6TEclskNloInycf35"
+      },
+      "artists": [
+        {
+          "name": "Banku Music",
+          "url": "https://open.spotify.com/artist/3lr22Ch1Uee6iOJZ48vVsx"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Genging",
+      "url": "https://open.spotify.com/track/5V2Kj7uULK3qSk7EnQlpZS"
+    },
+    {
+      "album": {
+        "name": "Genging",
         "url": "https://open.spotify.com/album/0mLjn3Kh9Q9BJShhmZHrOm"
       },
       "artists": [
@@ -709,7 +739,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 215822,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/28sixsVzWagLkjuX7VeEx0"
@@ -859,7 +889,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 200408,
       "name": "London Town",
       "url": "https://open.spotify.com/track/5vsSSc33nKJhWRCrhZvCJa"
@@ -885,7 +915,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 214373,
       "name": "Love Struck (feat. Tiwa Savage & Mr Eazi)",
       "url": "https://open.spotify.com/track/6wO8AzCOhutr1QwfwFcmZb"
@@ -1048,6 +1078,32 @@
     },
     {
       "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/6VmDrJFWpBiwGx94ETeVJn"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
+          "name": "Mr Real",
+          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/4XjX2pKGZw8CQ2mWakSK1Q"
+    },
+    {
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf"
       },
@@ -1093,7 +1149,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 145920,
       "name": "Pilolo",
       "url": "https://open.spotify.com/track/4eQjrzsmjd9T8zmcK4Kmnv"

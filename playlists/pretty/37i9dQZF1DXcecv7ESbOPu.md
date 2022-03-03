@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,446 likes - 103 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,442 likes - 103 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 18 | [Burning My Bridges](https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Burning My Bridges](https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84) | 3:08 |
 | 19 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 |
 | 20 | [Straight Back to It](https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:16 |
-| 21 | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [NEIGHBORHOOD SUPERSTAR](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
+| 21 | [Neighborhood Superstar](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Neighborhood Superstar](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 |
 | 22 | [GANGSHIT](https://open.spotify.com/track/05D3jh8aVFZUlPbx4mklmb) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [GANGSHIT](https://open.spotify.com/album/4zJTchJtdb10QwXkeLpEvJ) | 1:51 |
 | 23 | [Wait \- from ‘Three Months’](https://open.spotify.com/track/70iazIU8mYvhSouvV7LZir) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Wait \(from ‘Three Months’\)](https://open.spotify.com/album/1GnTOysHh33Zw6FqVWcV9q) | 3:29 |
 | 24 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 |

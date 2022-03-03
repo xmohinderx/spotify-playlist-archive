@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,162 likes - 69 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,826 likes - 69 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 32 | [The Road](https://open.spotify.com/track/6VvCnZsQtRWf32g5kLgtqt) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [The Road](https://open.spotify.com/album/701laqNcQfUCDvGB9ayy30) | 3:35 |
 | 33 | [Conquerors](https://open.spotify.com/track/5ctEm5ahuGt6Gj2F57Hop0) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/004AkT7rv1VF77LiFrwgqi) | 2:49 |
 | 34 | [Down With You](https://open.spotify.com/track/5Iok4ErbMb8ozpzZkLe2VA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You](https://open.spotify.com/album/6AlOEPBNtnf5aFlKZ9JR4b) | 3:30 |
-| 35 | [Souljah Feeling](https://open.spotify.com/track/4dja4sisHZNee32Co0udGl) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/2Y6dK3WMiSH4vQK3CEpjiI) | [One](https://open.spotify.com/album/27wSk2zFJ5MKA2ow1hvrLG) | 3:24 |
+| 35 | [Souljah Feeling](https://open.spotify.com/track/4dja4sisHZNee32Co0udGl) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/27wSk2zFJ5MKA2ow1hvrLG) | 3:24 |
 | 36 | [If Tomorrow Never Comes](https://open.spotify.com/track/22ZZBq0OsmYAaKv7seN9Gz) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/3t4ZMKrNUIwsuLoe46XBqh) | 3:50 |
 | 37 | [My Guy](https://open.spotify.com/track/3l1AjvzYObjfx0sSTHuMWJ) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [My Guy](https://open.spotify.com/album/7vNkxEWGt4gA6eYnAmbUqv) | 3:51 |
 | 38 | [Be Alright](https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Be Alright](https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr) | 3:13 |

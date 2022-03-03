@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md) - cumulative - [plain](/playlists/plain/61xuizm8At6DCwGHJZTmB7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61xuizm8At6DCwGHJZTmB7)
 
-### Worship 2022
+### [Worship 2022](https://open.spotify.com/playlist/61rl5qI4ePAsxAfSQSGtk9)
 
 > Worship now with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more! Cover: Brooke Ligertwood
 
@@ -28,6 +28,7 @@
 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 | 2022-02-17 |  |
 | [Glory, Honor, Power \- Live](https://open.spotify.com/track/4JRNwYlQyWH7askTZ6UlA3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [ages \(Deluxe / Live\)](https://open.spotify.com/album/0fqGvPL2KwVyif5k81ZjJo) | 5:07 | 2022-02-17 |  |
 | [God Really Loves Us](https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 4:23 | 2022-02-17 |  |
+| [God So Loved \- Live](https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [God So Loved \(Live\)](https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz) | 5:55 | 2022-03-02 |  |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2022-02-17 |  |
 | [Goodness Of God \- Live](https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Goodness Of God \(Live\)](https://open.spotify.com/album/7KgAz06YJmhpSPLl5Nfc44) | 5:47 | 2022-02-17 |  |
 | [Grace Like Waters](https://open.spotify.com/track/4nIcCKDmnK8TlpKOPErbGx) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [Grace Like Waters](https://open.spotify.com/album/3lNZtu2l9ucttcXOdK0M01) | 6:12 | 2022-02-17 |  |

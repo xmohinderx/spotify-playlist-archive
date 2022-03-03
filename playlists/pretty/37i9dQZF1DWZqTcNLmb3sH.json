@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 21867,
+  "num_followers": 21897,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA1OTM2MCwwMDAwMDE1MDAwMDAwMTdmNDBjODkwNWIwMDAwMDE3ZWJlOTc3N2Mx",
+  "snapshot_id": "MTY0NjIxODI0NSwwMDAwMDE1MTAwMDAwMTdmNGE0MGY0M2UwMDAwMDE3ZWJlOTc3N2Mx",
   "tracks": [
     {
       "added_at": "2022-02-03 09:54:34",
@@ -291,6 +291,26 @@
       "duration_ms": 220577,
       "name": "Baanige Yeni",
       "url": "https://open.spotify.com/track/02WslEWJ7I8ES4kSAZshJr"
+    },
+    {
+      "added_at": "2022-03-02 10:50:45",
+      "album": {
+        "name": "Kannadiye (From \"Kshamisi Nimma Khaatheyalli Hanavilla\")",
+        "url": "https://open.spotify.com/album/7GTxAex1eBm22MMT8aM1uu"
+      },
+      "artists": [
+        {
+          "name": "Prajwal Pai",
+          "url": "https://open.spotify.com/artist/5tCoxq4T37P4D3f4kCFNi8"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "duration_ms": 205130,
+      "name": "Kannadiye (From \"Kshamisi Nimma Khaatheyalli Hanavilla\")",
+      "url": "https://open.spotify.com/track/4LubAzoKEK1QLplvYC5aM5"
     },
     {
       "added_at": "2022-02-23 13:08:48",

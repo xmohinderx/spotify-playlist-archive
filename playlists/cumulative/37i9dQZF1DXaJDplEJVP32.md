@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaJDplEJVP32.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJDplEJVP32) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaJDplEJVP32)
 
-### Top Christian presents..\. Best Christian & Gospel Songs of the 2010s
+### [Top Christian presents..\. Best Christian & Gospel Songs of the 2010s](https://open.spotify.com/playlist/0TupOSoExWTFm7RlDxnebb)
 
 > Spotify music editors' choice for the best Christian & Gospel songs of the past decade\. Cover: Lauren Daigle
 

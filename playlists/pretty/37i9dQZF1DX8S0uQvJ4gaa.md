@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: ERNEST
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,600 likes - 107 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,072 likes - 107 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 78 | [Good Ole Boy](https://open.spotify.com/track/78uoWKqFLD3jaGv5awBe4r) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:26 |
 | 79 | [Mama Ain't Jesus](https://open.spotify.com/track/3L8fcHJXW6YCuMKQTpG95x) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bad Case of the Good Ole Boy](https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP) | 3:11 |
 | 80 | [County Roads](https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:11 |
-| 81 | [Cold Beer Truth](https://open.spotify.com/track/1Aham4eyVWUkYoxyvoxaj0) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Cold Beer Truth](https://open.spotify.com/album/6MlvMbQu3E7bmEIjYfDowJ) | 2:53 |
+| 81 | [Cold Beer Truth](https://open.spotify.com/track/1Aham4eyVWUkYoxyvoxaj0) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Cold Beer Truth](https://open.spotify.com/album/6MlvMbQu3E7bmEIjYfDowJ) | 2:54 |
 | 82 | [Talk About](https://open.spotify.com/track/5eruZy4m1S2YGaE1oKhI60) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Talk About](https://open.spotify.com/album/7IBeNpSb9G6TU19iPMzxAD) | 3:15 |
 | 83 | [camera roll](https://open.spotify.com/track/58ITRjekhkYqHvuE71NUc0) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:39 |
 | 84 | [Soul](https://open.spotify.com/track/64U6K5ZCoHWsl1d8bL15BX) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Soul](https://open.spotify.com/album/3WaUbOeg5kXCqbjKJYhSzO) | 2:47 |

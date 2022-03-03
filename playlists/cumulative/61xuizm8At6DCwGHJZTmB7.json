@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Worship now with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more! Cover: Brooke Ligertwood",
   "name": "Worship 2022",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "61rl5qI4ePAsxAfSQSGtk9"
+  ],
   "tracks": [
     {
       "album": {
@@ -459,6 +461,28 @@
       "duration_ms": 263833,
       "name": "God Really Loves Us",
       "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
+    },
+    {
+      "album": {
+        "name": "God So Loved (Live)",
+        "url": "https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355278,
+      "name": "God So Loved - Live",
+      "url": "https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y"
     },
     {
       "album": {

@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/233Z7fuQQJdAZIdYEbbusf"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77343,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/26jRyz87hxFJbFOCQcjP8B"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0aoPXd30dX02Jm9FkDgWUE"
       },

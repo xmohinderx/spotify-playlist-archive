@@ -68,6 +68,28 @@
     },
     {
       "album": {
+        "name": "Gnarly Buttons/John's Book Of Alleged Dances",
+        "url": "https://open.spotify.com/album/14REzeZXg4IDKmA3CiWb04"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291866,
+      "name": "Adams: John's Book Of Alleged Dances - Standchen: The Little Serenade",
+      "url": "https://open.spotify.com/track/74WA0arJKvbfwHW01rMSUd"
+    },
+    {
+      "album": {
         "name": "Rodrigo: Complete Concertos for Guitar & Harp (2 CDs)",
         "url": "https://open.spotify.com/album/7jUPHapFaa31P2UD8FbNk6"
       },
@@ -203,28 +225,6 @@
       "duration_ms": 392500,
       "name": "Italian Serenade in G major WW XV / 3",
       "url": "https://open.spotify.com/track/3zcjUgmUBdfEX1vwKgygR1"
-    },
-    {
-      "album": {
-        "name": "Gnarly Buttons/John's Book Of Alleged Dances",
-        "url": "https://open.spotify.com/album/14REzeZXg4IDKmA3CiWb04"
-      },
-      "artists": [
-        {
-          "name": "John Adams",
-          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        }
-      ],
-      "date_added": "2013-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 291866,
-      "name": "John's Book Of Alleged Dances - Standchen: The Little Serenade",
-      "url": "https://open.spotify.com/track/74WA0arJKvbfwHW01rMSUd"
     },
     {
       "album": {

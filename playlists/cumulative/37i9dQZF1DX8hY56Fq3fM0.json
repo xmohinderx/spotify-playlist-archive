@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 218800,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
@@ -1358,6 +1358,24 @@
     },
     {
       "album": {
+        "name": "Too Late Now / Oh No",
+        "url": "https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149800,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/02LMGGAW6fN40b0oxhXkmP"
+    },
+    {
+      "album": {
         "name": "Everything Not Saved Will Be Lost Pt. 1",
         "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
       },
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 136562,
       "name": "Prom Queen",
       "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 201799,
       "name": "Quarter Past Midnight",
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 236440,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/4BsQ6HzywRiSHf45WXRft8"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206360,
       "name": "We're Going Home",
       "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"

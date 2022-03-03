@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
   "name": "Christian Mix",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6q0fkfy4UwedQGnQXEpEq6"
+  ],
   "tracks": [
     {
       "album": {
@@ -185,7 +187,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 202943,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
@@ -405,7 +407,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 424373,
       "name": "Defender",
       "url": "https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd"
@@ -441,7 +443,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 255160,
       "name": "Even If",
       "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
@@ -794,6 +796,24 @@
     },
     {
       "album": {
+        "name": "Hymn of Heaven",
+        "url": "https://open.spotify.com/album/1dTtexFzU6mWBjAi391OO1"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "Hymn of Heaven",
+      "url": "https://open.spotify.com/track/4nK7i4idbh4N3Nf6p9PSPa"
+    },
+    {
+      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
       },
@@ -823,7 +843,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 229119,
       "name": "I Believe It Now (Single Version)",
       "url": "https://open.spotify.com/track/6kc0XFXTEaBWCEXZnQPFIc"
@@ -1047,7 +1067,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
@@ -1155,7 +1175,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 174438,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
@@ -1346,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Days",
+        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248386,
+      "name": "Ordinary Days",
+      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
+    },
+    {
+      "album": {
         "name": "Over And Over",
         "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
@@ -1386,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/6UVAOA3Lnz3lZPBGn1u7Wl"
+      },
+      "artists": [
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160560,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/59Ie6RW8WfI24BycVWpexi"
+    },
+    {
+      "album": {
         "name": "Prize Worth Fighting For",
         "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
       },
@@ -1397,7 +1453,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 200520,
       "name": "Prize Worth Fighting For",
       "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
@@ -1650,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "To Love a Fool \u2014 A Rooftop Experience (Live)",
+        "url": "https://open.spotify.com/album/2YsAtSWftyCk4HI9JxnpGv"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212073,
+      "name": "Sparrows - Live",
+      "url": "https://open.spotify.com/track/58lXS7FKsA2XcX704Qgggd"
+    },
+    {
+      "album": {
         "name": "Let The Ground Rest",
         "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
       },
@@ -1683,7 +1757,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 173575,
       "name": "Start Right Here (HGA Version)",
       "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"

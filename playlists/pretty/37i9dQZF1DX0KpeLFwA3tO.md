@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Mom Jeans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,944 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,118 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 2 | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 |
 | 3 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 |
 | 4 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 |
-| 5 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/1gNBwWBXaNtgxRm7XL4UtA) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 |
+| 5 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 |
 | 6 | [The Rent](https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [The Rent](https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL) | 2:53 |
 | 7 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 |
 | 8 | [Storm Clouds](https://open.spotify.com/track/1rfuc7NQutRDLD2qz8L1PC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Storm Clouds](https://open.spotify.com/album/666obAJKsm1ClwuJsGtP4v) | 2:34 |

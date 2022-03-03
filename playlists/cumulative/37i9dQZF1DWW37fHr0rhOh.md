@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW37fHr0rhOh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW37fHr0rhOh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW37fHr0rhOh)
 
-### Faithful Melodies
+### [Faithful Melodies](https://open.spotify.com/playlist/2lh87IirFnHxX7KFcEgDYj)
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 

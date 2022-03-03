@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbK4SCc53BQf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbK4SCc53BQf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbK4SCc53BQf)
 
-### Inspiración Tropical
+### [Inspiración Tropical](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
@@ -25,10 +25,11 @@
 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 | 2020-11-24 |  |
 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 | 2020-11-24 | 2022-03-02 |
 | [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 |  |
-| [Hora de Cantar](https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT) | [Gilvan Santana](https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds) | [Redenção e Liberdade](https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr) | 3:36 | 2020-11-24 |  |
+| [Hora de Cantar](https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT) | [Gilvan Santana](https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds) | [Redenção e Liberdade](https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr) | 3:36 | 2020-11-24 | 2022-03-03 |
 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 | 2020-11-24 |  |
 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 | 2020-11-24 |  |
 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 | 2020-11-24 |  |
+| [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 | 2020-11-24 |  |
 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 | 2020-11-24 |  |
 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 | 2020-11-24 |  |
 | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC) | 3:19 | 2020-11-24 |  |

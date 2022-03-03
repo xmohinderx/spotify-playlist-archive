@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Fatherson
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,332 likes - 54 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,473 likes - 54 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 19 | [The Liars Club](https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club](https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se) | 3:48 |
 | 20 | [Renegade](https://open.spotify.com/track/4vf6awL39ovHs8wo51bidJ) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT) | [Renegade](https://open.spotify.com/album/1GEabAJX09LNsF5FtlKezi) | 2:59 |
 | 21 | [SEX DOPE GOLD](https://open.spotify.com/track/3jxOhd8XKXjNjV84USrER4) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [SEX DOPE GOLD](https://open.spotify.com/album/1eu5Cb1GTFJjTGOABSKjsI) | 2:57 |
-| 22 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/1gNBwWBXaNtgxRm7XL4UtA) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 |
+| 22 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 |
 | 23 | [Bad Idea](https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Bad Idea](https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K) | 3:12 |
 | 24 | [My Name \(In Your Mouth\)](https://open.spotify.com/track/0kwM0tnvUAFrOim4oQ7YXh) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [My Name \(In Your Mouth\)](https://open.spotify.com/album/3ECvrh6p1TrW3OGBdJhqil) | 2:02 |
 | 25 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 |

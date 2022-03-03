@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
   "name": "Easter",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6YEOhxlMSKcPFNC9j3L9q9"
+  ],
   "tracks": [
     {
       "album": {
@@ -125,7 +127,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 314517,
       "name": "All For Love (Gethsemane) - Live",
       "url": "https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1"
@@ -263,7 +265,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 242040,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo"
@@ -285,6 +287,24 @@
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "album": {
+        "name": "The Best Worship Songs In The World",
+        "url": "https://open.spotify.com/album/63dF2unAVqayUxfeSmDS7t"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Scott",
+          "url": "https://open.spotify.com/artist/7HJ2qHT3pTpbEpLs7kGBCt"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323746,
+      "name": "At the Foot of the Cross (Ashes to Beauty)",
+      "url": "https://open.spotify.com/track/3BzuRdCF5FBiJNr3oiLHTh"
     },
     {
       "album": {
@@ -317,7 +337,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 314373,
       "name": "Because He Lives",
       "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
@@ -643,7 +663,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 404901,
       "name": "Clean (Live)",
       "url": "https://open.spotify.com/track/49HJvA519Q07YlH17OpAzu"
@@ -951,7 +971,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 382827,
       "name": "For Those Tears I Died",
       "url": "https://open.spotify.com/track/7p6wCxRd7I3wjOKE7HDudG"
@@ -1169,7 +1189,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 262146,
       "name": "Grace Flows Down - Live/2006 Remastered",
       "url": "https://open.spotify.com/track/29xrx0Ypdx25HRsnZhMz8G"
@@ -1245,10 +1265,28 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 249760,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/3EYUz9XIk8Ej2WjUY46PnF"
+    },
+    {
+      "album": {
+        "name": "Blanca",
+        "url": "https://open.spotify.com/album/16pXhg6B9C9fLmM7HU4xfV"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Greater Is He",
+      "url": "https://open.spotify.com/track/0UwjtsOOqibRGmETyisvu5"
     },
     {
       "album": {
@@ -1263,7 +1301,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 280179,
       "name": "Greater Things",
       "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
@@ -1321,7 +1359,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 309573,
       "name": "He Shouted Love (feat. David Leonard)",
       "url": "https://open.spotify.com/track/4g7bfn3qQ2fi03YJdEmtfw"
@@ -1375,7 +1413,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 320400,
       "name": "Head to the Heart (Live)",
       "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
@@ -1441,6 +1479,24 @@
       "duration_ms": 242226,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
+    },
+    {
+      "album": {
+        "name": "African Spirit",
+        "url": "https://open.spotify.com/album/0cjcBeESYGN182QmJCsmY3"
+      },
+      "artists": [
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158640,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/4Hiea47bfdih7R1mpm1t5a"
     },
     {
       "album": {
@@ -1709,10 +1765,46 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 357404,
       "name": "Just The Cross",
       "url": "https://open.spotify.com/track/37dWqUi7xIJ4HH4dsgxDDh"
+    },
+    {
+      "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
+    },
+    {
+      "album": {
+        "name": "Feels Good",
+        "url": "https://open.spotify.com/album/1KbYo3FMsqsjL8A0DMBTtj"
+      },
+      "artists": [
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207093,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/4k2AYZPQONj5KDpDB3lBvP"
     },
     {
       "album": {
@@ -1839,10 +1931,28 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 314546,
       "name": "Man Of Sorrows - Live",
       "url": "https://open.spotify.com/track/7tURQQhMTcJXIVe1dvji7v"
+    },
+    {
+      "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/52PYPu1gsuo3r27WDWTnb2"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293720,
+      "name": "Messiah / You're Beautiful",
+      "url": "https://open.spotify.com/track/0W5TB5VNs0J16suh3r67P1"
     },
     {
       "album": {
@@ -1875,7 +1985,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 340813,
       "name": "My God, My God (Psalm 22)",
       "url": "https://open.spotify.com/track/28q36NCXxQi9ombtdE6loy"
@@ -2107,7 +2217,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 223626,
       "name": "Overcomer",
       "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
@@ -2222,6 +2332,24 @@
     },
     {
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+    },
+    {
+      "album": {
         "name": "Good News (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
@@ -2233,7 +2361,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 223000,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g"
@@ -2251,7 +2379,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 251106,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/20bD4lkiXkxl5VVg0Y7Tjz"
@@ -2273,6 +2401,42 @@
       "duration_ms": 232653,
       "name": "River of Grace",
       "url": "https://open.spotify.com/track/46kZhvM2ms6pIXP8Mc04Tr"
+    },
+    {
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277280,
+      "name": "Same Power",
+      "url": "https://open.spotify.com/track/7AlFRA7zpc30NM8LO3ZcE4"
+    },
+    {
+      "album": {
+        "name": "Say Amen",
+        "url": "https://open.spotify.com/album/6RevlnezruIMNg0ZeHrW8R"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "Say Amen",
+      "url": "https://open.spotify.com/track/1isfCLjeSUteWZ65My3c81"
     },
     {
       "album": {
@@ -2323,7 +2487,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 217733,
       "name": "See The Conqueror",
       "url": "https://open.spotify.com/track/74m2VSn09mtORFf6oria7A"
@@ -2341,7 +2505,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 247786,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/1xIHfkc6IJB76YjB9EDcez"
@@ -2550,6 +2714,24 @@
     },
     {
       "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+    },
+    {
+      "album": {
         "name": "The Cross Has The Final Word",
         "url": "https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6"
       },
@@ -2565,6 +2747,28 @@
       "duration_ms": 252964,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy"
+    },
+    {
+      "album": {
+        "name": "Common Hymnal (Live)",
+        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Justin Gray",
+          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471217,
+      "name": "The Cross Made the Change - Live",
+      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
     },
     {
       "album": {
@@ -2615,7 +2819,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 249000,
       "name": "The Passover Song (feat. Sean Carter)",
       "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
@@ -2669,7 +2873,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 241760,
       "name": "There Is A Fountain",
       "url": "https://open.spotify.com/track/30whfwPMVeA4jGkDRfvMUd"
@@ -2687,7 +2891,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 401760,
       "name": "This I Believe (The Creed) - Live",
       "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
@@ -2741,7 +2945,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 201613,
       "name": "To the One",
       "url": "https://open.spotify.com/track/4aViChUodEZJp9fqg718oZ"
@@ -2885,7 +3089,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 202373,
       "name": "Was It A Morning Like This",
       "url": "https://open.spotify.com/track/3jNSVXE4rU1l1N97D8Qcvx"
@@ -3099,7 +3303,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 267906,
       "name": "Whom Shall I Fear (God Of Angel Armies)",
       "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
@@ -3189,7 +3393,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206648,
       "name": "You Are Loved",
       "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"

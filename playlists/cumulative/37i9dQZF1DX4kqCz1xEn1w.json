@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Victory over death has been won today, forever!",
   "name": "Easter Worship",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0tepX2bOxMzRByDHfGIE6m"
+  ],
   "tracks": [
     {
       "album": {
@@ -121,7 +123,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 497560,
       "name": "All Hail King Jesus",
       "url": "https://open.spotify.com/track/670JVxPZMP2iKZKdh3WVXN"
@@ -139,7 +141,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 324280,
       "name": "Already Done",
       "url": "https://open.spotify.com/track/2bcjiEmggC5r06kuLuwGIm"
@@ -450,6 +452,32 @@
     },
     {
       "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371774,
+      "name": "Extravagant (Live)",
+      "url": "https://open.spotify.com/track/1LieRwFB0OI3wWGvI71DuX"
+    },
+    {
+      "album": {
         "name": "Faithful Now",
         "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
       },
@@ -479,7 +507,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 409986,
       "name": "Forever - Live",
       "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
@@ -497,7 +525,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 378986,
       "name": "From The Inside Out - Live",
       "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
@@ -723,7 +751,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 489453,
       "name": "Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
@@ -951,7 +979,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 283813,
       "name": "Jesus Only You",
       "url": "https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK"
@@ -987,10 +1015,28 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 285160,
       "name": "King Of Kings (Praise)",
       "url": "https://open.spotify.com/track/5SF9z8Azou7JO4PUcfLofS"
+    },
+    {
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271533,
+      "name": "Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
     },
     {
       "album": {
@@ -1281,7 +1327,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 467053,
       "name": "Resurrecting (Live)",
       "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
@@ -1539,7 +1585,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 448808,
       "name": "To the One (Live)",
       "url": "https://open.spotify.com/track/7aJeq9pEDHSxOA1xcRlT9u"
@@ -1711,7 +1757,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 329080,
       "name": "Who You Say I Am - Live",
       "url": "https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp"

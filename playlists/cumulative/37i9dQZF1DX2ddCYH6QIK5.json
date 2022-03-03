@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Lucy Dye, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: SWEED, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Alte Liebe",
+        "url": "https://open.spotify.com/album/4bOPG5g094JQGQNTr89okt"
+      },
+      "artists": [
+        {
+          "name": "Verhaltenstherapie",
+          "url": "https://open.spotify.com/artist/5K5p6aXYDDVdQ3XYH8fD60"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Alte Liebe",
+      "url": "https://open.spotify.com/track/3qedD1HgxjX4qrp4sRwUw8"
+    },
+    {
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/1bFsQ1HqrYUmtWyZ3lSVBN"
       },
@@ -160,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/7DOmk3H3YwxhYKLDPa0GZ9"
+      },
+      "artists": [
+        {
+          "name": "Mina Richman",
+          "url": "https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/5qCIiZNPywXtfgw4EQRDPd"
+    },
+    {
+      "album": {
         "name": "Baghira",
         "url": "https://open.spotify.com/album/5pz7Iyiq1c7zk2wQgOs1By"
       },
@@ -175,6 +211,24 @@
       "duration_ms": 394000,
       "name": "Baghira",
       "url": "https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG"
+    },
+    {
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/3kJvjM9qFCKGNAC7cSfd8x"
+      },
+      "artists": [
+        {
+          "name": "Minimal Schlager",
+          "url": "https://open.spotify.com/artist/0YUu3RelBqv30RqXLKzdP0"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190671,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/5fJxla4tIlwi2WBcMdMfgf"
     },
     {
       "album": {
@@ -860,6 +914,24 @@
     },
     {
       "album": {
+        "name": "The Souloist",
+        "url": "https://open.spotify.com/album/0sqrHGOyrnjgkOJd7AAKtN"
+      },
+      "artists": [
+        {
+          "name": "Whizz Vienna",
+          "url": "https://open.spotify.com/artist/0Rhv7LDt2UHXuVxvuDm7NE"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147152,
+      "name": "Give This Love A Try",
+      "url": "https://open.spotify.com/track/1eg0giS9y2TyjaJLREfUwB"
+    },
+    {
+      "album": {
         "name": "Goals",
         "url": "https://open.spotify.com/album/0vodEvkBuJX8xWIG8lur1g"
       },
@@ -879,6 +951,28 @@
       "duration_ms": 197117,
       "name": "Goals",
       "url": "https://open.spotify.com/track/5Lz04fEyBdtDZlHtQXKYXy"
+    },
+    {
+      "album": {
+        "name": "Goldjunge",
+        "url": "https://open.spotify.com/album/7kzvyOuPRnwDnXpvfsGK8B"
+      },
+      "artists": [
+        {
+          "name": "Horst Wegener",
+          "url": "https://open.spotify.com/artist/2lcYNWRmkANAlCq6RFEonQ"
+        },
+        {
+          "name": "Teesy",
+          "url": "https://open.spotify.com/artist/0nSloWzkGWXwj1v8nOI0Ma"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192889,
+      "name": "Goldjunge",
+      "url": "https://open.spotify.com/track/43bD0i6yVucxoe2UzycrFH"
     },
     {
       "album": {
@@ -1073,7 +1167,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 238437,
       "name": "How Come No One Told Me",
       "url": "https://open.spotify.com/track/1tyV88FBoHbldJ74ZLB4Yv"
@@ -1289,7 +1383,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 171773,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/0u1x6HLqZ45r7ekn7mOkTE"
@@ -1361,7 +1455,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 111000,
       "name": "Juckt",
       "url": "https://open.spotify.com/track/0v3L5vgAHXB4yf016UhAEB"
@@ -1386,6 +1480,24 @@
     },
     {
       "album": {
+        "name": "Kaisermantel",
+        "url": "https://open.spotify.com/album/3WtDALoF3wVFPGhcBBRA7s"
+      },
+      "artists": [
+        {
+          "name": "Ken Hayakawa",
+          "url": "https://open.spotify.com/artist/28vlaUSHlgk9VhGO3jXgWO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295675,
+      "name": "Kaisermantel",
+      "url": "https://open.spotify.com/track/1ThZOanS72JqrhCCpfOPXo"
+    },
+    {
+      "album": {
         "name": "Kids Table",
         "url": "https://open.spotify.com/album/4lUk75cvEBPSAttBiq1ZWi"
       },
@@ -1397,7 +1509,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 139259,
       "name": "Kids Table",
       "url": "https://open.spotify.com/track/1zwbUwQugPxpwUXci5MwY3"
@@ -1437,7 +1549,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 274000,
       "name": "Kinderspiel",
       "url": "https://open.spotify.com/track/4rdlp25XHbz3zO6jYtk2hF"
@@ -1509,7 +1621,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 190933,
       "name": "Lass los",
       "url": "https://open.spotify.com/track/6ZBfERrUbkaQrJqLJ5Dtnz"
@@ -1696,6 +1808,24 @@
     },
     {
       "album": {
+        "name": "mikaela",
+        "url": "https://open.spotify.com/album/1FyJZUcwRQEOjyA8u1RbJz"
+      },
+      "artists": [
+        {
+          "name": "raphalelele",
+          "url": "https://open.spotify.com/artist/25eCP8fcsU8paBw1hiG8f7"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "mikaela",
+      "url": "https://open.spotify.com/track/0SY0IhdrUDPADUYfCj5tfQ"
+    },
+    {
+      "album": {
         "name": "Modern Justice",
         "url": "https://open.spotify.com/album/6C9AsG2baW7mJobR07ZYAw"
       },
@@ -1844,6 +1974,24 @@
     },
     {
       "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/4ZQyH1yVl7SQRugPz5hAXD"
+      },
+      "artists": [
+        {
+          "name": "Idia Joy",
+          "url": "https://open.spotify.com/artist/10Fn324oEYLUpy31yF6qdn"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199245,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/3Yg9FWPMUswuXTITnH7Ci3"
+    },
+    {
+      "album": {
         "name": "No Other Drug",
         "url": "https://open.spotify.com/album/6sW7HhDicwFqcBAXllA4Hu"
       },
@@ -1909,7 +2057,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 260288,
       "name": "Patti\u2019s Words",
       "url": "https://open.spotify.com/track/5B9XDstEMDsVr5ErH1KOks"
@@ -2179,7 +2327,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 144033,
       "name": "Schau dass du nicht f\u00e4llst",
       "url": "https://open.spotify.com/track/4RyrYqIQ7LRvmETpr8gzx0"
@@ -2197,7 +2345,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 143648,
       "name": "Sense",
       "url": "https://open.spotify.com/track/1aJQLLyuGCXK0BxXd1X1d7"
@@ -2294,6 +2442,24 @@
     },
     {
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/2W8KzApTDxUGQ9rQIGaWiT"
+      },
+      "artists": [
+        {
+          "name": "I Want Poetry",
+          "url": "https://open.spotify.com/artist/4PON2nBNMrksNssipVTasE"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249250,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/6YnQ3vqYnjGyLZahOh2gw5"
+    },
+    {
+      "album": {
         "name": "Starstruck",
         "url": "https://open.spotify.com/album/1em3zdpt3gJDntiVRgkpjm"
       },
@@ -2317,6 +2483,24 @@
       "duration_ms": 210187,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/4sVkZ9vP6YZB5R5DU6wfEi"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5eY93RH1nKwGzsJvln3BqI"
+      },
+      "artists": [
+        {
+          "name": "Phools",
+          "url": "https://open.spotify.com/artist/3gO9eJVnGtHyNcHdSwuuKb"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185469,
+      "name": "Stereotype",
+      "url": "https://open.spotify.com/track/0yYvXiHJVS4JXTzxpGN1Si"
     },
     {
       "album": {
@@ -2349,10 +2533,28 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 255848,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6Bgh5QVuEsMALL3OnKSsyW"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ"
+      },
+      "artists": [
+        {
+          "name": "SWEED",
+          "url": "https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219562,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8"
     },
     {
       "album": {
@@ -2623,7 +2825,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 238518,
       "name": "Wandel",
       "url": "https://open.spotify.com/track/2nOtYXbaoQwnNIyCoZ3gzv"
@@ -2684,6 +2886,24 @@
     },
     {
       "album": {
+        "name": "Where I'll Go",
+        "url": "https://open.spotify.com/album/4NXOhvkbnsk9QxcHro3xS5"
+      },
+      "artists": [
+        {
+          "name": "Lahra",
+          "url": "https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159804,
+      "name": "Where I'll Go",
+      "url": "https://open.spotify.com/track/0lgtMQlpmeCtJTDacgCxg9"
+    },
+    {
+      "album": {
         "name": "White Doors",
         "url": "https://open.spotify.com/album/0QLA0A2Xq2ngVCMoZZAY0s"
       },
@@ -2695,7 +2915,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 207480,
       "name": "White Doors",
       "url": "https://open.spotify.com/track/4MdozCbZAsV1ffYEMnB8n3"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Go deep into spontaneous praise and worship here. On and on.",
   "name": "Signs & Wonders",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7AOoPmZVWI11xU5B6czWtb"
+  ],
   "tracks": [
     {
       "album": {
@@ -145,6 +147,24 @@
       "duration_ms": 326246,
       "name": "Awe + Wonder - Live",
       "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
+    },
+    {
+      "album": {
+        "name": "There Is More (Live)",
+        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487666,
+      "name": "Be Still - Live",
+      "url": "https://open.spotify.com/track/6OIzniRIlDqO4DQ6Way8P3"
     },
     {
       "album": {
@@ -323,7 +343,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 359706,
       "name": "Come Alive - Live",
       "url": "https://open.spotify.com/track/21GC6My9aNV67ZOAi38Tjf"
@@ -341,7 +361,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 610594,
       "name": "Come Through - Live",
       "url": "https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N"
@@ -483,7 +503,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
@@ -1321,7 +1341,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 211072,
       "name": "Overcome (Acoustic)",
       "url": "https://open.spotify.com/track/1b2JLmsUGCtjomD2LMK5Rj"
@@ -1441,7 +1461,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 572587,
       "name": "Prophesy Your Promise - Live",
       "url": "https://open.spotify.com/track/4xu0Ris8ylJnVPWgaypj6v"
@@ -1561,7 +1581,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 306990,
       "name": "Rest",
       "url": "https://open.spotify.com/track/5Rjq9D43DiG9C6mzRExyl8"
@@ -1579,7 +1599,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 230200,
       "name": "Safe",
       "url": "https://open.spotify.com/track/0zHIVxQLtHQFUrtySFKK5V"
@@ -1645,6 +1665,24 @@
       "duration_ms": 312106,
       "name": "Set My Heart - Live",
       "url": "https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/3oQQHU0q1xYRXOLZuaqFwb"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349480,
+      "name": "Shepherd (Studio)",
+      "url": "https://open.spotify.com/track/4qsUMYIkHAioeRgw2KuXg9"
     },
     {
       "album": {
@@ -1761,7 +1799,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 349525,
       "name": "Surrounded (Fight My Battles) [Live]",
       "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
@@ -1939,7 +1977,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 240946,
       "name": "Upper Room - Studio",
       "url": "https://open.spotify.com/track/4J5pMx9fqgykqpOaLrweoO"
@@ -2063,7 +2101,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 302466,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/3eziquPpFrh0VxBlWC4XjW"
@@ -2132,6 +2170,24 @@
     },
     {
       "album": {
+        "name": "Canvas And Clay (Live)",
+        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383560,
+      "name": "You're Making Something Beautiful - Spontaneous/Live",
+      "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
+    },
+    {
+      "album": {
         "name": "All The Earth",
         "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
@@ -2173,7 +2229,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"

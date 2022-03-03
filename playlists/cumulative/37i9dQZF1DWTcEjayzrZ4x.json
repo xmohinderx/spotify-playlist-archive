@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Comme il faut",
+        "url": "https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz"
+      },
+      "artists": [
+        {
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222508,
+      "name": "Comme Il Faut",
+      "url": "https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5"
+    },
+    {
+      "album": {
         "name": "Darn That Dream",
         "url": "https://open.spotify.com/album/2esl3Fg6inmNVhIbWxuCvF"
       },
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 256717,
       "name": "God Bless The Child",
       "url": "https://open.spotify.com/track/6EpATvQFAodhQrHKqsZStm"
@@ -1468,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "Lady in the Blue Dress",
+        "url": "https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247269,
+      "name": "Lady in the Blue Dress",
+      "url": "https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj"
+    },
+    {
+      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7"
       },
@@ -1620,6 +1656,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0"
+    },
+    {
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/7j75kLY17tahXwnAydXhv6"
       },
@@ -1657,7 +1711,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 193606,
       "name": "Misty Morning",
       "url": "https://open.spotify.com/track/1QwunZ0xkzaVuGG9hFT8pC"
@@ -2119,6 +2173,24 @@
       "duration_ms": 355600,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/59BoB64SnmEA40zVsKVmND"
+    },
+    {
+      "album": {
+        "name": "Slippers and Cocoa",
+        "url": "https://open.spotify.com/album/138Z3arXLR0XS5kgSh8yAF"
+      },
+      "artists": [
+        {
+          "name": "Three Four Trio",
+          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Slippers and Cocoa",
+      "url": "https://open.spotify.com/track/2TctbR1zGHbhjFgvnoXcl1"
     },
     {
       "album": {

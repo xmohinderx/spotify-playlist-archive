@@ -137,7 +137,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 232258,
       "name": "3 1 0 7 (feat. Duongg & N\u00e2u)",
       "url": "https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 240000,
       "name": "3107 3",
       "url": "https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 174286,
       "name": "An Th\u1ea7n",
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 170344,
       "name": "At My Worst",
       "url": "https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 278823,
       "name": "B\u01b0\u1edbc Qua M\u00f9a C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 272152,
       "name": "Chuy\u1ec7n R\u1eb1ng",
       "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 270000,
       "name": "C\u1ee9 Chill Th\u00f4i",
       "url": "https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 220716,
       "name": "DARARI",
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
@@ -1644,6 +1644,24 @@
     },
     {
       "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247483,
+      "name": "DNA - Pedal 2 LA Mix",
+      "url": "https://open.spotify.com/track/0RFxljd297sk7sKm5ZDD5J"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 233975,
       "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
       "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 185000,
       "name": "D\u1ecbu D\u00e0ng Em \u0110\u1ebfn",
       "url": "https://open.spotify.com/track/63q4o5Nh1ykbhdo4rKEW9c"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 282628,
       "name": "G\u00e1c L\u1ea1i \u00c2u Lo (feat. Miu L\u00ea)",
       "url": "https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe"
@@ -2807,7 +2825,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -2948,6 +2966,24 @@
     },
     {
       "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223012,
+      "name": "I Need U - Remix",
+      "url": "https://open.spotify.com/track/4pzjU0AnZa6Vfphk292e9Q"
+    },
+    {
+      "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
       },
@@ -3061,10 +3097,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 41757,
       "name": "Interlude: What Are You Doing Now",
       "url": "https://open.spotify.com/track/6w5nte2isfv5QLImckFD8a"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7 ~ THE JOURNEY ~",
+        "url": "https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84613,
+      "name": "INTRO : Calling",
+      "url": "https://open.spotify.com/track/5raJ9QoZOdoRZ1MZOcygkR"
     },
     {
       "album": {
@@ -3086,6 +3140,64 @@
     },
     {
       "album": {
+        "name": "FACE YOURSELF",
+        "url": "https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86053,
+      "name": "INTRO : Ringwanderung",
+      "url": "https://open.spotify.com/track/3asJVXjbxNEOwPUL47wvcc"
+    },
+    {
+      "album": {
+        "name": "Wake Up (Standard Edition)",
+        "url": "https://open.spotify.com/album/2bXp5bEM5sgZdIznTesQZb"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75080,
+      "name": "Intro.",
+      "url": "https://open.spotify.com/track/3H3i1F0msbZ30iZMYaQ4rN"
+    },
+    {
+      "album": {
+        "name": "2 Cool 4 Skool",
+        "url": "https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "dj friz",
+          "url": "https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63786,
+      "name": "Intro: 2 Cool 4 Skool",
+      "url": "https://open.spotify.com/track/1UlnDZ5ubsSX3xrXu063dZ"
+    },
+    {
+      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
       },
@@ -3101,6 +3213,24 @@
       "duration_ms": 121770,
       "name": "Intro: Boy Meets Evil",
       "url": "https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.2",
+        "url": "https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136428,
+      "name": "Intro: Never Mind",
+      "url": "https://open.spotify.com/track/6JbPyMiLnWaaKusic64bCq"
     },
     {
       "album": {
@@ -3122,6 +3252,24 @@
     },
     {
       "album": {
+        "name": "O!RUL8,2?",
+        "url": "https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70531,
+      "name": "Intro: O!RUL8,2?",
+      "url": "https://open.spotify.com/track/3FdanLGasOj37Xi316GfZ4"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u8f49 'Tear'",
         "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
       },
@@ -3137,6 +3285,78 @@
       "duration_ms": 196998,
       "name": "Intro: Singularity",
       "url": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV"
+    },
+    {
+      "album": {
+        "name": "Skool Luv Affair",
+        "url": "https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178282,
+      "name": "Intro: Skool Luv Affair",
+      "url": "https://open.spotify.com/track/7vG0yTvfZZtQ4DoSyy5a61"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.1",
+        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123033,
+      "name": "Intro: The Most Beautiful Moment in Life",
+      "url": "https://open.spotify.com/track/7HhZAKSvFWz4bT5jsZLPeq"
+    },
+    {
+      "album": {
+        "name": "Dark & Wild",
+        "url": "https://open.spotify.com/album/35voVqYGkotyJ945O9egDY"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165121,
+      "name": "Intro: What Am I to You",
+      "url": "https://open.spotify.com/track/3HhgGvmDKx13uRTkXYfcDw"
+    },
+    {
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/442zUwKHCTO47XPF7cUSqY"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138973,
+      "name": "Introduction : Youth",
+      "url": "https://open.spotify.com/track/5KLKbUVfdHOTCDybf61LEW"
     },
     {
       "album": {
@@ -3289,7 +3509,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 228094,
       "name": "Khi Em L\u1edbn",
       "url": "https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS"
@@ -3511,7 +3731,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
@@ -3565,10 +3785,28 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
+    },
+    {
+      "album": {
+        "name": "Skool Luv Affair (Special Addition)",
+        "url": "https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232691,
+      "name": "Like - Slow Jam Remix",
+      "url": "https://open.spotify.com/track/5OXUwFDCnmT3eUWUYVRrk9"
     },
     {
       "album": {
@@ -3815,7 +4053,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 405360,
       "name": "Mang Ti\u1ec1n V\u1ec1 Cho M\u1eb9",
       "url": "https://open.spotify.com/track/57lYw21pS9FprSeJimskIC"
@@ -4485,7 +4723,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 254476,
       "name": "N\u00e0ng Th\u01a1",
       "url": "https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt"
@@ -4676,6 +4914,24 @@
     },
     {
       "album": {
+        "name": "FACE YOURSELF",
+        "url": "https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74746,
+      "name": "OUTRO : Crack",
+      "url": "https://open.spotify.com/track/0qrPZ27AhOahJivGsDbUSS"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
       },
@@ -4705,10 +4961,136 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-22",
+      "date_removed": null,
       "duration_ms": 76506,
       "name": "OUTRO : The Journey",
       "url": "https://open.spotify.com/track/0VF357Gjay5vvCqWA1kSu6"
+    },
+    {
+      "album": {
+        "name": "Wake Up (Standard Edition)",
+        "url": "https://open.spotify.com/album/2bXp5bEM5sgZdIznTesQZb"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96493,
+      "name": "Outro.",
+      "url": "https://open.spotify.com/track/0KFNlFyyYU3i4JRhNR0V14"
+    },
+    {
+      "album": {
+        "name": "2 Cool 4 Skool",
+        "url": "https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323640,
+      "name": "Outro: Circle Room Cypher",
+      "url": "https://open.spotify.com/track/1GPIdEcxPjPIYGmN08b1yf"
+    },
+    {
+      "album": {
+        "name": "Dark & Wild",
+        "url": "https://open.spotify.com/album/35voVqYGkotyJ945O9egDY"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172658,
+      "name": "Outro: Do You Think It Makes Sense?",
+      "url": "https://open.spotify.com/track/0I4CicY6MftmDgdd76LXss"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.2",
+        "url": "https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "Outro: House of Cards",
+      "url": "https://open.spotify.com/track/2cy3eWaTBoOFJwtFMR6jKb"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.1",
+        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143862,
+      "name": "Outro: Love Is Not Over",
+      "url": "https://open.spotify.com/track/0hwev90tfswBoZmgKnJ9F8"
+    },
+    {
+      "album": {
+        "name": "O!RUL8,2?",
+        "url": "https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86044,
+      "name": "Outro: Luv in Skool",
+      "url": "https://open.spotify.com/track/2ZiVvIvwAwNRL4dUO3TaF6"
+    },
+    {
+      "album": {
+        "name": "Skool Luv Affair",
+        "url": "https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122513,
+      "name": "Outro: Propose",
+      "url": "https://open.spotify.com/track/3x0SuB95K0XewiAKwNEiMZ"
     },
     {
       "album": {
@@ -4785,7 +5167,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
@@ -4971,7 +5353,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
@@ -5015,7 +5397,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER feat. Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
@@ -5116,6 +5498,24 @@
     },
     {
       "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237540,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/2yKBnKOmPXePrbHqRv42r4"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -5131,6 +5531,24 @@
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236437,
+      "name": "Run - Alternative Mix",
+      "url": "https://open.spotify.com/track/4ou8XX6AM0XFVjWFuzllWP"
     },
     {
       "album": {
@@ -5457,7 +5875,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -5508,6 +5926,78 @@
     },
     {
       "album": {
+        "name": "Love Yourself \u627f 'Her'",
+        "url": "https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107062,
+      "name": "Skit: Billboard Music Awards Speech",
+      "url": "https://open.spotify.com/track/6OeYM2861GaP3D1pbBqmbp"
+    },
+    {
+      "album": {
+        "name": "2 Cool 4 Skool",
+        "url": "https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131906,
+      "name": "Skit: Circle Room Talk",
+      "url": "https://open.spotify.com/track/4Ut6UU8Yyihz1jCZWSCQpu"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.1",
+        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Skit: Expectation!",
+      "url": "https://open.spotify.com/track/2giNwwft9s8E5Or8N0olgc"
+    },
+    {
+      "album": {
+        "name": "O!RUL8,2?",
+        "url": "https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148072,
+      "name": "Skit: R U Happy Now?",
+      "url": "https://open.spotify.com/track/53XrsilgguJmmsEtDsj0yY"
+    },
+    {
+      "album": {
         "name": "Skool Luv Affair",
         "url": "https://open.spotify.com/album/3fxTcARqBOsh0E7VzNNDQu"
       },
@@ -5523,6 +6013,24 @@
       "duration_ms": 92413,
       "name": "Skit: Soulmate",
       "url": "https://open.spotify.com/track/1cWCQZ9HI0n9qT5d1jPOkc"
+    },
+    {
+      "album": {
+        "name": "Skool Luv Affair",
+        "url": "https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92791,
+      "name": "Skit: Soulmate",
+      "url": "https://open.spotify.com/track/0hukH4ZKPofZVmfTcEnLHN"
     },
     {
       "album": {
@@ -5635,7 +6143,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -5729,7 +6237,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
@@ -5849,6 +6357,32 @@
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
+    },
+    {
+      "album": {
+        "name": "Tam Gi\u00e1c",
+        "url": "https://open.spotify.com/album/0TPPU8kjPXJ7TEULO8uOUy"
+      },
+      "artists": [
+        {
+          "name": "Anh Phan",
+          "url": "https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "Larria.",
+          "url": "https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122387,
+      "name": "Tam Gi\u00e1c",
+      "url": "https://open.spotify.com/track/1rh2FhrUQ7YIPkbUePmBvw"
     },
     {
       "album": {
@@ -5975,7 +6509,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -6051,7 +6585,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 171741,
       "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi"
@@ -6185,7 +6719,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 201507,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
@@ -6313,7 +6847,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 215172,
       "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
       "url": "https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv"

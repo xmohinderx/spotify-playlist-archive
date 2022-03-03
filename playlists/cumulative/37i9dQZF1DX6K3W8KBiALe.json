@@ -86,6 +86,32 @@
     },
     {
       "album": {
+        "name": "I Am Love Soundtrack by John Adams",
+        "url": "https://open.spotify.com/album/43Vh13JugrrRbhc3HRyfw7"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Edo de Waart",
+          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634066,
+      "name": "Adams: Harmonielehre, Pt. III: Meister Eckhardt and Quackie",
+      "url": "https://open.spotify.com/track/096VPgc9LWEPP7PYjNvD6O"
+    },
+    {
+      "album": {
         "name": "The Scarlet Letter Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/2vHEyfNhE99NNxGawZZ87s"
       },
@@ -591,32 +617,6 @@
       "duration_ms": 677000,
       "name": "Fratres",
       "url": "https://open.spotify.com/track/2ux87ulIxFZMgr7843eoJt"
-    },
-    {
-      "album": {
-        "name": "I Am Love Soundtrack by John Adams",
-        "url": "https://open.spotify.com/album/43Vh13JugrrRbhc3HRyfw7"
-      },
-      "artists": [
-        {
-          "name": "John Adams",
-          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
-        },
-        {
-          "name": "Edo de Waart",
-          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        }
-      ],
-      "date_added": "2021-05-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 634066,
-      "name": "Harmonielehre: Pt. III Meister Eckhardt and Quackie",
-      "url": "https://open.spotify.com/track/096VPgc9LWEPP7PYjNvD6O"
     },
     {
       "album": {

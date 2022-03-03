@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-01",
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Lizzy Parra",
   "name": "Flow Cristiano",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6c2GnXTfpCe6c4SEH9u1bm"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,10 +19,28 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 250715,
       "name": "60-40",
       "url": "https://open.spotify.com/track/18ajehCOx17pVPxxHe8Vd7"
+    },
+    {
+      "album": {
+        "name": "A Donde Vayas",
+        "url": "https://open.spotify.com/album/0grilzpQKOKLuIky96rfLQ"
+      },
+      "artists": [
+        {
+          "name": "Defra",
+          "url": "https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272199,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3C37nWMFVboyC5RBYWANTz"
     },
     {
       "album": {
@@ -149,7 +169,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 180618,
       "name": "Bailo Solo",
       "url": "https://open.spotify.com/track/0uRaSwo9lJpwuwO1UqYgN6"
@@ -211,7 +231,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 207567,
       "name": "Cadenas",
       "url": "https://open.spotify.com/track/3S1XnRtCaBg0t2kzxqckdT"
@@ -272,6 +292,24 @@
     },
     {
       "album": {
+        "name": "Coherente",
+        "url": "https://open.spotify.com/album/54kl14A4bgyz7Mzga9GZ1l"
+      },
+      "artists": [
+        {
+          "name": "Andrei",
+          "url": "https://open.spotify.com/artist/15zhb9j4309wsdKgYHEjk2"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Coherente",
+      "url": "https://open.spotify.com/track/22pj7yWr73ynml9mibAuz8"
+    },
+    {
+      "album": {
         "name": "Con Todo Remix",
         "url": "https://open.spotify.com/album/3ORV3dPWCFfgitWJFcMbOq"
       },
@@ -302,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Cristiano De Novela",
+        "url": "https://open.spotify.com/album/1HCmajoBSdo0s2Q1A4mYZT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Cristiano De Novela",
+      "url": "https://open.spotify.com/track/5xV6HmqRbREludNLbWXy0G"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Dejarte",
         "url": "https://open.spotify.com/album/7CndhZZGfJ7X7g7Z5k2Qu0"
       },
@@ -313,7 +369,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 172465,
       "name": "C\u00f3mo Dejarte",
       "url": "https://open.spotify.com/track/3UyqBs5XB58GJ1H98wruKN"
@@ -467,7 +523,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 198225,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/3gHaQEGp0cO2ZElmmVQXeg"
@@ -497,7 +553,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 263478,
       "name": "Encontre Tu Amor (Remix)",
       "url": "https://open.spotify.com/track/4U4IsZZurZhVnkxnkzXqsJ"
@@ -523,7 +579,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
@@ -545,7 +601,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Follow Jesus",
       "url": "https://open.spotify.com/track/1KCixu5SCW28FqvjoxjnVw"
@@ -665,7 +721,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 206524,
       "name": "Hoy Yo Vivir\u00e9",
       "url": "https://open.spotify.com/track/2E18zSJ5sMQKomyClmmzPI"
@@ -800,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/3W22FLrSlzjix9AosFJkm9"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182189,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/5ybiHXWK288N5qFZFuAUDa"
+    },
+    {
+      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -905,7 +979,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 171812,
       "name": "Llegaste a M\u00ed",
       "url": "https://open.spotify.com/track/4HYnqmtes6ITpkmx3RkmBs"
@@ -941,7 +1015,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 211696,
       "name": "Love",
       "url": "https://open.spotify.com/track/7A8j7qaoYsKa38Cvg64AZz"
@@ -977,7 +1051,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 195433,
       "name": "Mas Como Tu",
       "url": "https://open.spotify.com/track/4CAtIzfnlobOoOMXuTIbSz"
@@ -995,7 +1069,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 202792,
       "name": "Me Han Hablado",
       "url": "https://open.spotify.com/track/3GNQflg4ttd3aAuJjqXX2w"
@@ -1013,7 +1087,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 188673,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/1GHsomI2FA0uTisZwUccd5"
@@ -1159,7 +1233,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 282214,
       "name": "No est\u00e1s sola",
       "url": "https://open.spotify.com/track/6zCIPBLn3JXLZtBN2zI6ym"
@@ -1303,7 +1377,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 269464,
       "name": "Oveja Negra",
       "url": "https://open.spotify.com/track/0L43hNiLima6doVgzkqVLx"
@@ -1351,6 +1425,32 @@
       "duration_ms": 236394,
       "name": "Palpitaciones (Remix)",
       "url": "https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS"
+    },
+    {
+      "album": {
+        "name": "Party Love",
+        "url": "https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Party Love",
+      "url": "https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3"
     },
     {
       "album": {
@@ -1453,7 +1553,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 203368,
       "name": "Saben Quienes Somos",
       "url": "https://open.spotify.com/track/3oSBdeTbpDMXRZF057e40v"
@@ -1533,7 +1633,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 190290,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/34XLtADuzGmudXQtdReX26"
@@ -1660,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3ovRV1v332dmwu1Wuw6faV"
+      },
+      "artists": [
+        {
+          "name": "Jay K\u00e0el",
+          "url": "https://open.spotify.com/artist/2ZDdY9iyIBnJrdwrUq6JaP"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242782,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3srIgvXsZNWEVFuuFk1l1i"
+    },
+    {
+      "album": {
         "name": "Solo Remix",
         "url": "https://open.spotify.com/album/1m21eOsS6KnTqt8yg2OT0W"
       },
@@ -1751,7 +1869,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 196327,
       "name": "Todo",
       "url": "https://open.spotify.com/track/2oUsM4Wezusd7OfeCXBkSy"
@@ -1799,7 +1917,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 237900,
       "name": "Todo Es Mejor - Remix",
       "url": "https://open.spotify.com/track/3nCaGrRdXCmTiaLkVAP9Gm"

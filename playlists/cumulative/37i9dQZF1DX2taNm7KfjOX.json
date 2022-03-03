@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 292986,
       "name": "30 Degrees",
       "url": "https://open.spotify.com/track/2YtMeE0OtjgicwIgxdoiTU"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 222040,
       "name": "A Pair Of Brown Eyes",
       "url": "https://open.spotify.com/track/6ayUfc9EndL7Eg9VYApdHC"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 222465,
       "name": "Alluvium",
       "url": "https://open.spotify.com/track/7fV1z13hx5Iic0WIqCRfuA"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 208186,
       "name": "Around Again",
       "url": "https://open.spotify.com/track/0aJYQMcaTllmYx0w1Muym2"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 179000,
       "name": "Fresh Water in an Empty Vase",
       "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 192520,
       "name": "Graves",
       "url": "https://open.spotify.com/track/4wwZvbK1mJKiHvA2n2dLEO"
@@ -2170,6 +2170,24 @@
     },
     {
       "album": {
+        "name": "King of Fools",
+        "url": "https://open.spotify.com/album/02hIWtC0Llm6vsVgrY1gpj"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201656,
+      "name": "King of Fools",
+      "url": "https://open.spotify.com/track/1beFyH38tUxVj7wG6bFxS3"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 246986,
       "name": "Life Crisis",
       "url": "https://open.spotify.com/track/0IqmtYOYMRIAPxyAQ0YdOD"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 230373,
       "name": "Little Blue River",
       "url": "https://open.spotify.com/track/5MUMAmxnCsbcVlow1H7fCS"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 244576,
       "name": "Moderation",
       "url": "https://open.spotify.com/track/0awSoObGwWsVAI3uTd18FI"
@@ -2731,7 +2749,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 367706,
       "name": "One With The Birds",
       "url": "https://open.spotify.com/track/3V435gJhrhScmr8P3m9hBV"
@@ -2767,7 +2785,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 224000,
       "name": "Pain Shifter",
       "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 213373,
       "name": "Raising the Dead",
       "url": "https://open.spotify.com/track/79T4cBOstvsj4P7oJRo726"
@@ -3107,7 +3125,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
@@ -3125,7 +3143,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 241640,
       "name": "Savior Complex",
       "url": "https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB"
@@ -3197,7 +3215,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
@@ -3291,7 +3309,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
@@ -3367,7 +3385,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 228866,
       "name": "Still Life (feat. Joseph)",
       "url": "https://open.spotify.com/track/2Qj1pOoYSCjLDgxMKffGuS"
@@ -3439,7 +3457,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 283370,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/4N80ioxk2nZEHWANDhmyuB"
@@ -3515,7 +3533,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2"
@@ -3569,7 +3587,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 250399,
       "name": "The Bride & The Bachelor",
       "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
@@ -3645,7 +3663,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 248385,
       "name": "The Missing Road",
       "url": "https://open.spotify.com/track/64mPAd5HMFAmhDvyT2CQTg"
@@ -3717,7 +3735,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 214361,
       "name": "The Way Back Home",
       "url": "https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC"
@@ -3735,7 +3753,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 368493,
       "name": "There's A Place",
       "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
@@ -3825,7 +3843,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 200880,
       "name": "Tom",
       "url": "https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4"
@@ -3973,7 +3991,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX"
@@ -4081,7 +4099,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
@@ -4261,7 +4279,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 239435,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/3Prbe59BLrd4FWrxkDbYve"
@@ -4323,7 +4341,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 204333,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd"

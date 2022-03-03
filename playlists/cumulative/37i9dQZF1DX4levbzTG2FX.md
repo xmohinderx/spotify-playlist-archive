@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4levbzTG2FX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4levbzTG2FX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4levbzTG2FX)
 
-### Sang On Sunday
+### [Sang On Sunday](https://open.spotify.com/playlist/3RGM2UbQTofUFdk6Q5QrCH)
 
 > In partnership with CCLI, here are the top songs in church in the USA\. Updated monthly.
 

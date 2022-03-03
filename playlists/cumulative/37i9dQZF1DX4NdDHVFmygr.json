@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 177000,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
@@ -474,6 +474,28 @@
     },
     {
       "album": {
+        "name": "Hiya Hiya",
+        "url": "https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217021,
+      "name": "Hiya Hiya",
+      "url": "https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q"
+    },
+    {
+      "album": {
         "name": "HKAYA",
         "url": "https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw"
       },
@@ -637,7 +659,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-03",
       "duration_ms": 212389,
       "name": "L3achrane",
       "url": "https://open.spotify.com/track/6KIFae9YNanPnknAvvvBeC"

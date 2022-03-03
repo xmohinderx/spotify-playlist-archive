@@ -1956,6 +1956,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sad Acoustic Guitar](/playlists/pretty/37i9dQZF1DX3bgBpcV2oGY.md)
 - [Sad Beats](/playlists/pretty/37i9dQZF1DWVrtsSlLKzro.md)
 - [Sad Bops](/playlists/pretty/37i9dQZF1DWZUAeYvs88zc.md)
+- [Sad Bunny :\(](/playlists/pretty/37i9dQZF1DXaRGkpjDjLaB.md)
 - [Sad Covers](/playlists/pretty/37i9dQZF1DX64Y3du11rR1.md)
 - [Sad Cuh Hours](/playlists/pretty/37i9dQZF1DXd6QWbEewZmM.md)
 - [sad girl starter pack](/playlists/pretty/37i9dQZF1DWW2hj3ZtMbuO.md)
