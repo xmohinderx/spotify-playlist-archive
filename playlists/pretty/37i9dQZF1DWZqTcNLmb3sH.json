@@ -1,13 +1,49 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 21897,
+  "description": "Check out the latest hits from Sandalwood!\nCover : James",
+  "num_followers": 21925,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjIxODI0NSwwMDAwMDE1MTAwMDAwMTdmNGE0MGY0M2UwMDAwMDE3ZWJlOTc3N2Mx",
+  "snapshot_id": "MTY0NjMxODM3MywwMDAwMDE1MzAwMDAwMTdmNTAzOGNhMTAwMDAwMDE3ZjUwMzg4ZGM4",
   "tracks": [
+    {
+      "added_at": "2022-03-03 12:23:04",
+      "album": {
+        "name": "Trademark (From \"James - Kannada\")",
+        "url": "https://open.spotify.com/album/7FhSUXiqq6ff7OoV9SN3Wk"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "MC Vickey",
+          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
+        },
+        {
+          "name": "Aditi Sagar",
+          "url": "https://open.spotify.com/artist/79yEkymoTkieurpetMpr9G"
+        },
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Sharmila",
+          "url": "https://open.spotify.com/artist/4r1cQamhizt9CKe5e0MSI4"
+        },
+        {
+          "name": "Yuva Rajkumar",
+          "url": "https://open.spotify.com/artist/0coWt0AoKOw75oyxIp8HDv"
+        }
+      ],
+      "duration_ms": 239530,
+      "name": "Trademark (From \"James - Kannada\")",
+      "url": "https://open.spotify.com/track/4OtsWdxJzYyd8OfmRwqRTA"
+    },
     {
       "added_at": "2022-02-03 09:54:34",
       "album": {

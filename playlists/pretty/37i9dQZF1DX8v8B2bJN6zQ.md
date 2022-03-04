@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,851 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,917 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

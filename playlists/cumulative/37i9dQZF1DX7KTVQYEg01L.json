@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-02",
   "description": "Comece o dia com grandes hits!",
   "name": "Tenha um \u00d3timo Dia!",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6HOgxEfC8AsoGg8rgt63pw"
+  ],
   "tracks": [
     {
       "album": {
@@ -516,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
+    },
+    {
+      "album": {
         "name": "Hoje Eu Quero Me Perder",
         "url": "https://open.spotify.com/album/5lnpFWdelG0DnKG4hncCfQ"
       },
@@ -611,7 +631,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 175813,
       "name": "Ice Cream (with Selena Gomez)",
       "url": "https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX"
@@ -629,7 +649,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 205187,
       "name": "Indecente",
       "url": "https://open.spotify.com/track/5FOCkGt7bp22nBVfQ4WSIT"
@@ -717,6 +737,24 @@
       "duration_ms": 145161,
       "name": "Leve - Manimal Remix",
       "url": "https://open.spotify.com/track/0YK71rSArDeNp5HcllHnDg"
+    },
+    {
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "album": {
@@ -1351,7 +1389,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 213741,
       "name": "Tonificando",
       "url": "https://open.spotify.com/track/7KHr668dDXDGzWOY7vzROW"
@@ -1373,7 +1411,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"

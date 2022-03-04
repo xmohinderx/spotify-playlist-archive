@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-02",
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
   "name": "Lou\u00e7a Infinita",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6306uranRreFb9mAG0uhIt"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,7 +23,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 207104,
       "name": "50 Reais",
       "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
@@ -105,6 +107,28 @@
       "duration_ms": 183648,
       "name": "Apaixonadin (feat. Thiaguinho) - Ao Vivo",
       "url": "https://open.spotify.com/track/5HJq5FP7lFSWQc4kfs8Uef"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico T\u00e3o Feliz - Deluxe",
+        "url": "https://open.spotify.com/album/0Vyc1CPiHapppuNmA7rGTV"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "Aquele 1% - Ao Vivo",
+      "url": "https://open.spotify.com/track/62LiYpeFoJaixqkaNRGg47"
     },
     {
       "album": {
@@ -213,7 +237,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 186773,
       "name": "Beijo Geladinho",
       "url": "https://open.spotify.com/track/6rbkRZKovJISNCd5cZtOMP"
@@ -463,7 +487,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 199440,
       "name": "Dan\u00e7a Kuduro (Danza Kuduro)",
       "url": "https://open.spotify.com/track/1BITq5Ix3YscJwGz4ukFeI"
@@ -655,7 +679,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 175706,
       "name": "Ex Mai Love",
       "url": "https://open.spotify.com/track/6rBQsCEeOoro6AY82mJTDB"
@@ -735,7 +759,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 210960,
       "name": "Fazer Falta",
       "url": "https://open.spotify.com/track/6pSYjx66rlqRmGGTHhnjCo"
@@ -1302,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Nego Resolve",
+        "url": "https://open.spotify.com/album/5PDCWD6BVgjCVMNDmrVsK5"
+      },
+      "artists": [
+        {
+          "name": "Nego do Borel",
+          "url": "https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "N\u00e3o Me Deixe Sozinho",
+      "url": "https://open.spotify.com/track/0gNxi721t2RcPt5LdWGfpb"
+    },
+    {
+      "album": {
         "name": "Piseiro Sofr\u00eancia",
         "url": "https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5"
       },
@@ -1443,7 +1485,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 191933,
       "name": "Pimpolho",
       "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
@@ -1461,10 +1503,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 199312,
       "name": "Piscininha Amor",
       "url": "https://open.spotify.com/track/4Da1U4No5kamKMoJ82RGan"
+    },
+    {
+      "album": {
+        "name": "\u00c9 S\u00f3 Dizer Que Sim",
+        "url": "https://open.spotify.com/album/00FcHQ1jr7tObSk7lgCxOc"
+      },
+      "artists": [
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Porque Homem N\u00e3o Chora",
+      "url": "https://open.spotify.com/track/2X2lMbgPtucFFM5Q6bRtL9"
     },
     {
       "album": {
@@ -1559,7 +1619,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 196573,
       "name": "Rebolation - Ao Vivo",
       "url": "https://open.spotify.com/track/2sKJMf3efNnJKt7HlEvzz8"
@@ -1669,7 +1729,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 163253,
       "name": "Sentou e Gostou",
       "url": "https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr"
@@ -1727,7 +1787,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 190391,
       "name": "Sou eu - Ao vivo",
       "url": "https://open.spotify.com/track/5doMiN2IU2JCcnYmgLqze9"
@@ -1775,7 +1835,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 178066,
       "name": "Su\u00edte 14 (feat. Mc Guim\u00ea) - Ao Vivo",
       "url": "https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR"
@@ -1819,7 +1879,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 164157,
       "name": "Ta Tum Tum",
       "url": "https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka"
@@ -2145,7 +2205,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 139041,
       "name": "V\u00e1rias Novinhas",
       "url": "https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI"

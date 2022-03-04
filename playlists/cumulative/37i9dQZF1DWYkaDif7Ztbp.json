@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc?si=9Izkl2gNTdeBOA7_wgnc9Q\" > A\u1e63a </a>",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=Td78wUT8RdixRuXpVdUeMg\" > Omah Lay </a>",
   "name": "African Heat",
   "published_playlist_ids": [
     "6CGfDwBbFDC5qx0eVHKRnz"
@@ -252,6 +252,28 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
+    },
+    {
+      "album": {
         "name": "B. D\u2019OR (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
@@ -271,6 +293,28 @@
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "album": {
+        "name": "Bad n Rude (feat. WSTRN)",
+        "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "Bad n Rude (feat. WSTRN)",
+      "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
     },
     {
       "album": {
@@ -423,6 +467,28 @@
       "duration_ms": 179240,
       "name": "D O D O",
       "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
+    },
+    {
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171538,
+      "name": "DEADMAN BONE (feat. Koffee)",
+      "url": "https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc"
     },
     {
       "album": {
@@ -583,10 +649,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+    },
+    {
+      "album": {
+        "name": "Multitude",
+        "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Fils de joie",
+      "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
     },
     {
       "album": {
@@ -871,7 +955,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 167499,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
@@ -1149,7 +1233,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 168461,
       "name": "Question (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/6OOKa5alX6PoKUhSqg0ph7"
@@ -1587,7 +1671,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 167213,
       "name": "Yansh",
       "url": "https://open.spotify.com/track/0gaUeH6AIlvaQsqeXZylRr"

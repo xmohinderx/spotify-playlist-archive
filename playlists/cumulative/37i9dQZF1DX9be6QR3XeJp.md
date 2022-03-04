@@ -2,7 +2,7 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
-> Discover your new favourite artists\. Cover: Wet Leg
+> Discover your new favourite artists\. Cover: CMAT
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Monday](https://open.spotify.com/track/5NuoHlFplMTA8jmr4nHjH9) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Monday](https://open.spotify.com/album/04B6OoFDc5mIhlx6W8fJUo) | 3:32 | 2022-02-18 |  |
 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 | 2022-02-18 |  |
 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 | 2022-02-18 |  |
+| [Nashville](https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 5:16 | 2022-03-04 |  |
 | [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 | 2022-02-18 |  |
 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 | 2022-02-18 |  |
 | [Northern Line](https://open.spotify.com/track/0kptlB6nxzT2uUpqyceYbr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Northern Line](https://open.spotify.com/album/6Oe15DN8qZBu2zFsTQoBjq) | 2:20 | 2022-02-18 |  |

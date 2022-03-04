@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 146410,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3r6oQ66z8GfFNdAmjZr2ct"
@@ -2645,7 +2645,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 127464,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/3REELyDyt5SPKX2387Zubv"
@@ -4245,7 +4245,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 283403,
       "name": "Doing Really Well Thanks",
       "url": "https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5"
@@ -10699,7 +10699,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 114482,
       "name": "my fuckin birthday",
       "url": "https://open.spotify.com/track/5I6VzAAwuPtbHmnwODDb50"
@@ -12386,6 +12386,32 @@
     },
     {
       "album": {
+        "name": "Picnic In The Park",
+        "url": "https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB"
+      },
+      "artists": [
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Chocoholic",
+          "url": "https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177073,
+      "name": "Picnic In The Park",
+      "url": "https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746"
+    },
+    {
+      "album": {
         "name": "Crying in the Prettiest Places",
         "url": "https://open.spotify.com/album/3JKR59NKnMssKnKE6X889x"
       },
@@ -13165,7 +13191,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 112728,
       "name": "running back",
       "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
@@ -13545,7 +13571,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 202173,
       "name": "Secret (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/2ozAOPkM0rYqQweAhuXMry"
@@ -15621,7 +15647,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 179871,
       "name": "Take A Chance",
       "url": "https://open.spotify.com/track/46d67vPhehiB0xlvfa7zn7"

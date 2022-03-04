@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Basboi
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Mawar de Jongh
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Miniatur \- Korean Version](https://open.spotify.com/track/467o1Qh9ND8VeORTC0gNwW) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Miniatur \(Korean Version\)](https://open.spotify.com/album/4MJ0pbU4bbUkdBpN5D9zO0) | 3:10 | 2021-11-25 |  |
 | [Miniatur \- Minimalist Version](https://open.spotify.com/track/2Cnmn4jARAPRocw9meEMQq) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Suara Kita, Cerita Kamu](https://open.spotify.com/album/5XWEnuQVVXCf2EmxuYSRH0) | 3:09 | 2021-11-25 |  |
 | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f) | 5:20 | 2021-11-25 |  |
+| [Obat Rindu](https://open.spotify.com/track/688SOzohXB8IEWPLlMoHsR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90) | [Obat Rindu](https://open.spotify.com/album/61QED0aYIkhiHdt0GC7GK4) | 3:47 | 2022-03-03 |  |
 | [Patah Hati](https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Patah Hati](https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE) | 4:49 | 2021-11-25 |  |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2021-11-25 |  |
 | [Penghapus Pensil](https://open.spotify.com/track/018kPIAzYiX8rZefBIyHdI) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Penghapus Pensil](https://open.spotify.com/album/4ZIA1vi2rfeVt80IGbh2fK) | 3:54 | 2021-11-25 |  |

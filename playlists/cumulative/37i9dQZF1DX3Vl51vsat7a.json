@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Aylo",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Mathea",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -435,6 +435,24 @@
       "duration_ms": 148708,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/7wXakijrSKkpvrdPYwJr7t"
+    },
+    {
+      "album": {
+        "name": "Funke, Fl\u00e4chenbrand",
+        "url": "https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156910,
+      "name": "Funke, Fl\u00e4chenbrand",
+      "url": "https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz"
     },
     {
       "album": {
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 160021,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7EccqOi4GK8kASKFnZsdla"

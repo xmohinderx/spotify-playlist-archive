@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWULHbs82dshJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULHbs82dshJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWULHbs82dshJ)
 
-### Dia de Chuva
+### [Dia de Chuva](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
 
 > A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.
 
@@ -14,6 +14,7 @@
 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 | 2021-12-15 |  |
 | [Azul Da Cor Do Mar](https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 3:18 | 2021-12-15 |  |
 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 | 2021-12-15 |  |
+| [Brown Eyes](https://open.spotify.com/track/1urmwhtXPiakhcqvqUi3rp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 4:36 | 2021-12-15 |  |
 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 | 2021-12-15 |  |
 | [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 | 2021-12-15 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 | 2021-12-15 |  |
@@ -48,7 +49,7 @@
 | [Somewhere Only We Know](https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:28 | 2021-12-15 |  |
 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 | 2021-12-15 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:46 | 2021-12-15 |  |
-| [The Greatest](https://open.spotify.com/track/35FblniF4pyYykItNSi1AX) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui) | [Unexpected](https://open.spotify.com/album/5n4Qistg8yoDn3uxtNOpOa) | 3:31 | 2021-12-15 |  |
+| [The Greatest](https://open.spotify.com/track/35FblniF4pyYykItNSi1AX) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui) | [Unexpected](https://open.spotify.com/album/5n4Qistg8yoDn3uxtNOpOa) | 3:31 | 2021-12-15 | 2022-03-04 |
 | [These Are The Songs](https://open.spotify.com/track/18NdkPvzEUCBLKBdBA1VpV) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [...Em Pleno Verão](https://open.spotify.com/album/5Fgg0W3AynN9x3IjnppvPf) | 3:07 | 2021-12-15 |  |
 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 | 2021-12-15 |  |
 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 | 2021-12-15 |  |

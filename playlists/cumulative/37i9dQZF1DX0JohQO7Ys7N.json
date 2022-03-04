@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p?si=SdM0gnorQZOwF67zuxgBDg\"> Nviiri The Storyteller </a>",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=hyn6Vi0nRlmNtVvH-TMoLg\"> Caleb Awiti </a>",
   "name": "NairoBae",
   "published_playlist_ids": [
     "05RBXY2jPO9XncKwkUOGKt"
@@ -287,6 +287,28 @@
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
+    },
+    {
+      "album": {
+        "name": "Feel Me (Pack)",
+        "url": "https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI"
+      },
+      "artists": [
+        {
+          "name": "Rkeiii",
+          "url": "https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO"
+        },
+        {
+          "name": "Shirley G.",
+          "url": "https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196248,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK"
     },
     {
       "album": {
@@ -877,7 +899,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 304224,
       "name": "Rosella",
       "url": "https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH"
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 186000,
       "name": "Wanja",
       "url": "https://open.spotify.com/track/4qlhfTcBkuDo7wByAZERiz"
@@ -1133,6 +1155,24 @@
       "duration_ms": 216979,
       "name": "Want You",
       "url": "https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS"
+    },
+    {
+      "album": {
+        "name": "Love Letters II",
+        "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148557,
+      "name": "We're Made For Each Other",
+      "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
     },
     {
       "album": {

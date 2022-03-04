@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Zaquin com Mc Rick, Chefin e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731,271 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731,378 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 92 | [Better Man](https://open.spotify.com/track/4zYuPjaFggUPKns4nQmFve) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Better Man](https://open.spotify.com/album/4isxOO4hHhq2EbarB5uVZW) | 3:38 |
 | 93 | [Press Replay](https://open.spotify.com/track/71KTElrteQW6Y06clYfV8c) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [Elias Elis](https://open.spotify.com/artist/3Iqsco0fFSZlcfjFdMV5Hi) | [Press Replay](https://open.spotify.com/album/7Ig45E2YxSCGrdtbRATm31) | 1:48 |
 | 94 | [Como o Céu e o Mar](https://open.spotify.com/track/2Rm4b2LkATqi6KlDYcWRPD) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Como o Céu e o Mar](https://open.spotify.com/album/7yQ56XtrdKP4BUHp2ArgHS) | 2:43 |
-| 95 | [Viver](https://open.spotify.com/track/5UIPKGVOX7FzIar1opsjRG) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Viver](https://open.spotify.com/album/0d8IAJzmClzClKnGIPo4Cy) | 2:48 |
+| 95 | [Viver](https://open.spotify.com/track/5UIPKGVOX7FzIar1opsjRG) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw) | [Viver](https://open.spotify.com/album/0d8IAJzmClzClKnGIPo4Cy) | 2:48 |
 | 96 | [Que Delícia É Essa](https://open.spotify.com/track/0alJd7odNoat9Zo51MDQwq) | [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [Que Delícia É Essa](https://open.spotify.com/album/27p06oblIjnadPGJ0gSRMF) | 2:02 |
 | 97 | [Sonhei Com Você](https://open.spotify.com/track/7Bt9iVtizVYK0lGEm9stUc) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO), [WR No Beat](https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs) | [Sonhei Com Você](https://open.spotify.com/album/1nfhM06zc6v99rVTueKUHO) | 2:26 |
 | 98 | [A Turma Tá Subindo](https://open.spotify.com/track/52MDOz8IKJ1pLZdI7D1AnA) | [Siba](https://open.spotify.com/artist/3fXYikoi0LcoQgBItngLxO), [Mestre Anderson Miguel](https://open.spotify.com/artist/2A5yczeZxYgxtjZENNKp5o), [Orquestra de Bolso](https://open.spotify.com/artist/6Ydxgf55uasG3ktK6juIQv) | [A Turma Tá Subindo](https://open.spotify.com/album/6wb23uDgG114ozJ6DSWhiq) | 3:34 |

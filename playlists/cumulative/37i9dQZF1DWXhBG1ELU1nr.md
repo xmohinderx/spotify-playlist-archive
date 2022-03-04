@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXhBG1ELU1nr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXhBG1ELU1nr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXhBG1ELU1nr)
 
-### Trabalhando de Casa
+### [Trabalhando de Casa](https://open.spotify.com/playlist/1w2tlix8KMG1doSRYQhzfq)
 
 > Uma seleção de hits pra te acompanhar no home office.
 

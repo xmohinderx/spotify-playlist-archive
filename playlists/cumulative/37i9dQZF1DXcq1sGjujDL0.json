@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-02",
   "description": "Cozinhar nunca foi t\u00e3o musical.",
   "name": "Cantando na Cozinha",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "75QCej9aYFfDshgTSgpDId"
+  ],
   "tracks": [
     {
       "album": {
@@ -169,7 +171,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 122866,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg"
@@ -317,6 +319,24 @@
       "duration_ms": 214346,
       "name": "I Say A Little Prayer",
       "url": "https://open.spotify.com/track/6bBwFPgVdWxuc4uWEyALCa"
+    },
+    {
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2020-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "album": {
@@ -511,7 +531,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 280093,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy"
@@ -590,6 +610,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Sade",
+        "url": "https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2020-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6tl0rKudQ0U0zJy8EqX891"
+    },
+    {
+      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -637,7 +675,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 138583,
       "name": "Sunny - One World: Together At Home",
       "url": "https://open.spotify.com/track/41OjHvwoDgD69lyL5DEs4h"
@@ -753,6 +791,24 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+    },
+    {
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2020-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "album": {

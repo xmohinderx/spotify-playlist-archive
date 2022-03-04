@@ -2348,6 +2348,24 @@
     },
     {
       "album": {
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },

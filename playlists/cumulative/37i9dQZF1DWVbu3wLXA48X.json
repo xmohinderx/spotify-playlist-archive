@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Gym and Swim",
+  "description": "Current indie tunes from Asia and around the world. Cover: The Crane",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/557PW1UPXfEczIHbBLJSPq"
+      },
+      "artists": [
+        {
+          "name": "Limi",
+          "url": "https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202325,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1O6fh32Fqnk2otTyFDqn1b"
+    },
+    {
+      "album": {
         "name": "Always Together With You",
         "url": "https://open.spotify.com/album/49GJe3Q8FSAhfLgrQlulXl"
       },
@@ -131,6 +149,24 @@
       "duration_ms": 398053,
       "name": "Always Together With You",
       "url": "https://open.spotify.com/track/0piWYpm3L2Ss0UOAH0hl4G"
+    },
+    {
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "album": {
@@ -367,6 +403,24 @@
       "duration_ms": 225631,
       "name": "Call Me Home",
       "url": "https://open.spotify.com/track/7EepuMExJZF3eimemlp771"
+    },
+    {
+      "album": {
+        "name": "Can We Have A Conversation?",
+        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154969,
+      "name": "Can We Have A Conversation?",
+      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
     },
     {
       "album": {
@@ -1313,7 +1367,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 174253,
       "name": "It Happens All The Time",
       "url": "https://open.spotify.com/track/7azUltfF4fFdkedCuun9cF"
@@ -1907,7 +1961,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 150976,
       "name": "Never Knew feat. lewloh & Joie Tan",
       "url": "https://open.spotify.com/track/5rlWvz401LdGFhSBtsZbHj"
@@ -2169,7 +2223,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 206960,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
@@ -2772,6 +2826,24 @@
     },
     {
       "album": {
+        "name": "step.03: 40",
+        "url": "https://open.spotify.com/album/7pFQW4m22KkXqGnEm9c6SV"
+      },
+      "artists": [
+        {
+          "name": "209km",
+          "url": "https://open.spotify.com/artist/7ka80BPGeHXzJobtnXlfH2"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "step.03: 40",
+      "url": "https://open.spotify.com/track/5gS1MfTDC8s2gWvMKqTOZr"
+    },
+    {
+      "album": {
         "name": "Strung with Everything",
         "url": "https://open.spotify.com/album/1VvUUN9Z8IDjXfXaqcmlGv"
       },
@@ -2841,6 +2913,24 @@
       "duration_ms": 285264,
       "name": "Summer",
       "url": "https://open.spotify.com/track/2QxFBxaaGZFTsUkQVrLq92"
+    },
+    {
+      "album": {
+        "name": "summer",
+        "url": "https://open.spotify.com/album/6QR5IgAQYtTPKJwFBRlXs9"
+      },
+      "artists": [
+        {
+          "name": "lavndr",
+          "url": "https://open.spotify.com/artist/5HsrAgY0Oj9VgkcjVJdUnO"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243034,
+      "name": "summer",
+      "url": "https://open.spotify.com/track/1xgKzczUEtsrLPjGYVUo9B"
     },
     {
       "album": {
@@ -2929,6 +3019,24 @@
       "duration_ms": 326000,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/6DffoPe45lbiNxdCkfoFYd"
+    },
+    {
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/22La1ks9s5n2pNQgEhW0Xj"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189202,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp"
     },
     {
       "album": {
@@ -3087,7 +3195,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 190247,
       "name": "This Time, Tomorrow",
       "url": "https://open.spotify.com/track/6WGHsdKXiE3SFtG1JTNg7j"
@@ -3141,7 +3249,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 209253,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR"
@@ -3199,6 +3307,24 @@
       "duration_ms": 164320,
       "name": "Unhate",
       "url": "https://open.spotify.com/track/2nvJomohzemNPkKDVaQr2o"
+    },
+    {
+      "album": {
+        "name": "Unnecessary Drama",
+        "url": "https://open.spotify.com/album/1sSGgxAW93a0RHFU2bo0Gy"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256880,
+      "name": "Unnecessary Drama",
+      "url": "https://open.spotify.com/track/6Qn9jSYaISHshe0aEZjQIz"
     },
     {
       "album": {
@@ -3343,7 +3469,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 201000,
       "name": "When we",
       "url": "https://open.spotify.com/track/5YBU3nnLZ51qJgBunwu4b6"
@@ -3467,6 +3593,24 @@
       "duration_ms": 179946,
       "name": "Years",
       "url": "https://open.spotify.com/track/2CRCLqCSRPPAudN3MjHoPI"
+    },
+    {
+      "album": {
+        "name": "You Forever (Pop Off Edit)",
+        "url": "https://open.spotify.com/album/25FoRKCFt4XVis5tz8rSVX"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "You Forever - Pop Off Edit",
+      "url": "https://open.spotify.com/track/79GCsEAXxWQIi9OZG4NfqC"
     },
     {
       "album": {

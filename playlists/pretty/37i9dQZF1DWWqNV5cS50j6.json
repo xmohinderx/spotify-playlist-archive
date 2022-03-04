@@ -1,28 +1,28 @@
 {
   "description": "Featuring new music by Araya.",
-  "num_followers": 631546,
+  "num_followers": 631647,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjI0NzIxNSwwMDAwMDI2MzAwMDAwMTdmNGJmYjAzNmIwMDAwMDE3ZjIyMDI5ZDBl",
+  "snapshot_id": "MTY0NjMyMjI1NywwMDAwMDI2NjAwMDAwMTdmNTA3NDBkOTYwMDAwMDE3ZjIyMDI5ZDBl",
   "tracks": [
     {
-      "added_at": "2022-03-02 15:44:12",
+      "added_at": "2022-03-03 15:43:56",
       "album": {
-        "name": "That's Not Love!",
-        "url": "https://open.spotify.com/album/60jmOKUUeGFcniQ0SnPYHY"
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/7rK2XqSVowv63XkuuuRYqK"
       },
       "artists": [
         {
-          "name": "Richie Quake",
-          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
         }
       ],
-      "duration_ms": 161000,
-      "name": "That's Not Love!",
-      "url": "https://open.spotify.com/track/4cn6miVUpWYPwOl4RAN2Yh"
+      "duration_ms": 188333,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/7ajdfpfW1h6cN7GMQ5Sver"
     },
     {
       "added_at": "2022-02-28 16:03:13",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
     },
     {
+      "added_at": "2022-02-22 15:18:08",
+      "album": {
+        "name": "Ethos",
+        "url": "https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK"
+      },
+      "artists": [
+        {
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Pretty Lies",
+      "url": "https://open.spotify.com/track/3Nj6EiDM8LknYtZvzJGTLs"
+    },
+    {
       "added_at": "2022-02-18 17:59:17",
       "album": {
         "name": "f**k it, i'm the man",
@@ -103,6 +119,22 @@
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+    },
+    {
+      "added_at": "2022-03-03 15:41:34",
+      "album": {
+        "name": "PASTIMES+",
+        "url": "https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "put the L in style!",
+      "url": "https://open.spotify.com/track/0vPpdNrO38ObJs71ly8yL1"
     },
     {
       "added_at": "2022-02-28 20:15:33",
@@ -121,20 +153,40 @@
       "url": "https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh"
     },
     {
-      "added_at": "2022-02-22 15:18:08",
+      "added_at": "2022-03-03 15:43:56",
       "album": {
-        "name": "Ethos",
-        "url": "https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK"
+        "name": "Lately,",
+        "url": "https://open.spotify.com/album/3D9OAJ5avQ7pig7qEbSrgR"
       },
       "artists": [
         {
-          "name": "Araya",
-          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Pretty Lies",
-      "url": "https://open.spotify.com/track/3Nj6EiDM8LknYtZvzJGTLs"
+      "duration_ms": 166133,
+      "name": "Lately,",
+      "url": "https://open.spotify.com/track/08Ivl0uOeI7Eaf7Nwk6Vtw"
+    },
+    {
+      "added_at": "2022-03-03 15:43:56",
+      "album": {
+        "name": "Power Power (feat. Shaun Ross)",
+        "url": "https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Shaun Ross",
+          "url": "https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Power Power (feat. Shaun Ross)",
+      "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
     },
     {
       "added_at": "2022-02-25 05:09:00",
@@ -157,36 +209,36 @@
       "url": "https://open.spotify.com/track/15HLtPoII6TTHbej3R6xKz"
     },
     {
-      "added_at": "2021-10-29 04:05:00",
+      "added_at": "2022-03-02 15:44:12",
       "album": {
-        "name": "Infinite Straight",
-        "url": "https://open.spotify.com/album/7C0XxDVszgIhX5V8uz250K"
+        "name": "That's Not Love!",
+        "url": "https://open.spotify.com/album/60jmOKUUeGFcniQ0SnPYHY"
       },
       "artists": [
         {
-          "name": "tendai",
-          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+          "name": "Richie Quake",
+          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Infinite Straight",
-      "url": "https://open.spotify.com/track/6Us2KEkxAPZge1yTpCSKWd"
+      "duration_ms": 161000,
+      "name": "That's Not Love!",
+      "url": "https://open.spotify.com/track/4cn6miVUpWYPwOl4RAN2Yh"
     },
     {
-      "added_at": "2021-09-07 18:46:36",
+      "added_at": "2022-03-03 15:43:56",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+        "name": "A Cosmic Yes",
+        "url": "https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
         }
       ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+      "duration_ms": 258440,
+      "name": "A Cosmic Yes",
+      "url": "https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y"
     },
     {
       "added_at": "2022-02-04 05:03:00",
@@ -419,6 +471,22 @@
       "duration_ms": 188500,
       "name": "Dat Way",
       "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
+    },
+    {
+      "added_at": "2022-03-03 15:43:56",
+      "album": {
+        "name": "age tape 2",
+        "url": "https://open.spotify.com/album/4VFcsJluDONGiR78zu3h6a"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 117714,
+      "name": "the other side",
+      "url": "https://open.spotify.com/track/3wledcRROg8EvoTbc27Xfw"
     },
     {
       "added_at": "2022-02-23 14:44:26",
@@ -1565,22 +1633,6 @@
       "url": "https://open.spotify.com/track/1p3n4sKGbgwdCou1ok9ArS"
     },
     {
-      "added_at": "2022-01-12 16:29:57",
-      "album": {
-        "name": "I've Seen Better Days",
-        "url": "https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 184941,
-      "name": "I've Seen Better Days",
-      "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
-    },
-    {
       "added_at": "2022-02-04 05:03:00",
       "album": {
         "name": "Days With You",
@@ -1597,22 +1649,6 @@
       "url": "https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh"
     },
     {
-      "added_at": "2022-02-28 20:15:33",
-      "album": {
-        "name": "Deadpan Love (Deluxe)",
-        "url": "https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 144130,
-      "name": "Rapture in Blue",
-      "url": "https://open.spotify.com/track/70nSRYtNo2blmYYAZV4tui"
-    },
-    {
       "added_at": "2022-02-04 05:03:00",
       "album": {
         "name": "YEARS WASTED",
@@ -1627,38 +1663,6 @@
       "duration_ms": 144960,
       "name": "YEARS WASTED",
       "url": "https://open.spotify.com/track/4rX2ATH5XU1Bm8tKmnxhsG"
-    },
-    {
-      "added_at": "2021-10-22 15:20:44",
-      "album": {
-        "name": "Young Fel 2",
-        "url": "https://open.spotify.com/album/265rgx93RpuQmpok31gynl"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2UbdtdpOW3URCTqKsPATJg"
-    },
-    {
-      "added_at": "2021-11-19 14:48:00",
-      "album": {
-        "name": "Otherside",
-        "url": "https://open.spotify.com/album/0bh1Merk5blDsVVSSvTRZw"
-      },
-      "artists": [
-        {
-          "name": "Terrell Hines",
-          "url": "https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ"
-        }
-      ],
-      "duration_ms": 155104,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/4j2NqbXSEc7AUdHwxYx2XZ"
     },
     {
       "added_at": "2021-12-03 14:35:24",
@@ -1679,26 +1683,6 @@
       "duration_ms": 190507,
       "name": "Lose My Cool (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/31UJNSt6tUbROThjfaAZfT"
-    },
-    {
-      "added_at": "2022-02-04 05:03:00",
-      "album": {
-        "name": "Green Line",
-        "url": "https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Terrell Morris",
-          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Green Line",
-      "url": "https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk"
     }
   ],
   "unique_name": "anti pop",

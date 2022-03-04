@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
-> Unearthing your new favourite artists\. Cover: shazza\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Ultra Mega Cat Attack\. Artwork: Isu Kim.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Anima Bella](https://open.spotify.com/track/0PjdhMgWgx3IJ5cUT13tiz) | [Mia Lateefa](https://open.spotify.com/artist/2iPmNcNNer1SRignvfsjQE) | [Anima Bella](https://open.spotify.com/album/4zzVg82fXthMeN3BZf6Kel) | 3:13 | 2022-01-13 |  |
 | [Away from Here](https://open.spotify.com/track/0mbxB7mjbFLZeo2L3m2lHQ) | [Obviously We!](https://open.spotify.com/artist/4UWbpj1tOeV8gCieopCCop) | [Right Here, Right Now](https://open.spotify.com/album/428bgcOLYy5ioiiFYesLgj) | 3:53 | 2022-01-13 |  |
 | [AWAY.](https://open.spotify.com/track/5U58qF1Cf8DZttTf2JQnMf) | [Arai\. The Grape](https://open.spotify.com/artist/2O2H2M9Acb7xwYXTqYHeog) | [AWAY.](https://open.spotify.com/album/2jqJyAzZ4QwsoCk4y8xcrV) | 3:01 | 2022-01-13 |  |
-| [Bad Dream](https://open.spotify.com/track/4A13g03FEeD4hAH5JnxBp7) | [An Honest Mistake](https://open.spotify.com/artist/10AFY2pkSdVHy940701lu6), [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ), [Bright Minder](https://open.spotify.com/artist/0SzTWLfzCw9i8xBXtiKLz0) | [Bad Dream](https://open.spotify.com/album/3WUPRxenLBnvIuth0uIKwM) | 3:09 | 2022-02-24 |  |
+| [Bad Dream](https://open.spotify.com/track/4A13g03FEeD4hAH5JnxBp7) | [An Honest Mistake](https://open.spotify.com/artist/10AFY2pkSdVHy940701lu6), [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ), [Bright Minder](https://open.spotify.com/artist/0SzTWLfzCw9i8xBXtiKLz0) | [Bad Dream](https://open.spotify.com/album/3WUPRxenLBnvIuth0uIKwM) | 3:09 | 2022-02-24 | 2022-03-04 |
 | [Battles](https://open.spotify.com/track/2jDPTVDP4QNGgHfEDYJIUr) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [Battles](https://open.spotify.com/album/2QNc9X23wz8vnt5MIeoGUN) | 2:55 | 2021-12-01 | 2022-01-14 |
 | [been a while](https://open.spotify.com/track/02xkgr2qG29HfEROLC8L4q) | [dumbboi](https://open.spotify.com/artist/0r99oJaU4Fbnd4iDaDQp6V), [Thaarmin](https://open.spotify.com/artist/0lRxUCo7z1wCnL9EA9HXu5) | [been a while](https://open.spotify.com/album/4o2qDC8twsvU93UOTQmwMb) | 4:41 | 2022-01-13 |  |
 | [Before You Go](https://open.spotify.com/track/1YQSwCx7B6tYrE46rxrRHH) | [Hanging up the Moon](https://open.spotify.com/artist/6CbeHV2KtWwTPaXXbBcyaS) | [Before You Go](https://open.spotify.com/album/3eXUR5Z6kxtAMFZPZxFxc8) | 2:53 | 2022-01-13 |  |
@@ -48,7 +48,7 @@
 | [Doesn’t Seem Like You Care](https://open.spotify.com/track/74ZoTVUxfKybvyNN9r0MPz) | [Outbreak](https://open.spotify.com/artist/0ZrWaX8UFSYdiu4vqum7aF) | [Doesn’t Seem Like You Care](https://open.spotify.com/album/3vTndfPtLuYloW2KoD6N4H) | 2:19 | 2022-01-27 |  |
 | [Don't Miss Demo](https://open.spotify.com/track/7BHeG3fhIwjjvRCA3RHCkq) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo) | [Don't Miss Demo](https://open.spotify.com/album/2pbDvSLES5LqMGYY3Xdese) | 2:10 | 2021-12-01 | 2022-01-14 |
 | [Down for Me](https://open.spotify.com/track/0jgaISKCAv0o62VlxQAhep) | [Th.i.a.](https://open.spotify.com/artist/16hJv4MvMtGagd0p9sjbcO), [Giselle Lily](https://open.spotify.com/artist/3MjsYDxiYQf77u7zWaVZ9l) | [Down for Me](https://open.spotify.com/album/0YsupSBZ57pFYoSo9jLryz) | 3:25 | 2022-01-13 |  |
-| [Dreamin'](https://open.spotify.com/track/5xjNNZzBsDowaof05ktr8k) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Dreamin'](https://open.spotify.com/album/24kIXLAef1zxugpKzZcNJ4) | 3:18 | 2022-01-20 |  |
+| [Dreamin'](https://open.spotify.com/track/5xjNNZzBsDowaof05ktr8k) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Dreamin'](https://open.spotify.com/album/24kIXLAef1zxugpKzZcNJ4) | 3:18 | 2022-01-20 | 2022-03-04 |
 | [Drunk Text](https://open.spotify.com/track/1aoOINdeCCgsOIIsxEITCE) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [Drunk Text](https://open.spotify.com/album/7bP72JG545fWBAoF9Uuu75) | 2:59 | 2022-01-13 |  |
 | [faces](https://open.spotify.com/track/1XbVWmihyaFRZgA8NRW5vd) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [faces](https://open.spotify.com/album/0cG0hyAI6P6dXWxrf38FOB) | 3:12 | 2022-01-13 |  |
 | [Fall Down](https://open.spotify.com/track/5soKd4hFEkpR2pqkGiWYIE) | [Cykko](https://open.spotify.com/artist/6gQ5lg2r9qzumBycPid5Va) | [Fall Down](https://open.spotify.com/album/2GxzyYNaGytdG7bIwSkGXY) | 2:49 | 2022-02-24 |  |
@@ -91,6 +91,7 @@
 | [Looking For You](https://open.spotify.com/track/4d9DgnnAbTKumsm7iickdi) | [Caspar](https://open.spotify.com/artist/7mc37Uyetmxgzq7nOKGiAI), [Ines Lavigne](https://open.spotify.com/artist/7en6B2DNfQfMx9LmFAj7j5) | [Looking For You](https://open.spotify.com/album/3cD6A9MG6WW99dPmCYZBpx) | 3:35 | 2021-12-01 | 2022-01-14 |
 | [LOSE](https://open.spotify.com/track/5J2a8D1TpCBLn7ElBUq1We) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH), [Alan D](https://open.spotify.com/artist/3u4VRULomA2rso0lBPV5VQ) | [LOSE](https://open.spotify.com/album/1z5A7zTyG90VvubFP2cjDw) | 2:42 | 2021-12-01 | 2022-01-14 |
 | [Lover's Dream](https://open.spotify.com/track/7wmxK5k0oFNrCJlTppQlNW) | [Saints Amongst Sinners](https://open.spotify.com/artist/5CNHIyCLT2jMGpO3re7Mjf) | [Y/OURS](https://open.spotify.com/album/2qDawRZFkl6s4Mt1xuGFHd) | 5:35 | 2021-12-01 | 2022-01-14 |
+| [Lovestruck](https://open.spotify.com/track/0AfrgSDnn5gt9gDuJ2G7tb) | [Sign of Five](https://open.spotify.com/artist/5v9bVo0Z9GI9L2SCFON6Hh) | [Lovestruck](https://open.spotify.com/album/47VJViuY2ZR5rm2CiODTXd) | 3:13 | 2022-03-03 |  |
 | [LTAL](https://open.spotify.com/track/1mYxF83AZ9IPsp8mrf8gFM) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES) | [LTAL](https://open.spotify.com/album/7qJMzZ5ZVKGfjla8fPvQoB) | 3:32 | 2021-12-01 | 2022-01-14 |
 | [LYFE](https://open.spotify.com/track/745Nlo9R1q2DdOXdbzhSkR) | [Limix](https://open.spotify.com/artist/3j8Mcd2URdfUERL1Ar4VRs) | [LYFE](https://open.spotify.com/album/4UoFid4JByc3Jb6ZNw7GfV) | 2:55 | 2022-01-13 |  |
 | [MADAME](https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [MADAME](https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO) | 3:03 | 2022-01-13 |  |
@@ -134,6 +135,7 @@
 | [Speak Up \(feat\. Elsa Mickayla\)](https://open.spotify.com/track/6TBDnGtHJn6nZtpYr3PotS) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3), [Direwulf](https://open.spotify.com/artist/77xnTyfSeDkHZ2tufyeAIP), [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7) | [Speak Up \(feat\. Elsa Mickayla\)](https://open.spotify.com/album/6cVuY3mB3GEqrHY3p7Eys3) | 2:42 | 2021-12-01 | 2022-01-14 |
 | [Srsly.](https://open.spotify.com/track/1qBhF0rIXtnzfiEl3HqCFs) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [Srsly.](https://open.spotify.com/album/0Td0IjuYDcVAmTebQLzvHK) | 3:21 | 2021-12-01 | 2022-01-14 |
 | [Status Quo](https://open.spotify.com/track/5107u4MtCdGnGT6Ba7yq9z) | [Abigail](https://open.spotify.com/artist/11yfGLGb5HMw3iGo0MN1rB) | [Status Quo](https://open.spotify.com/album/6Lkz9M52QoztCc7h9y55Xx) | 2:59 | 2021-12-01 | 2022-01-14 |
+| [STAY.GO.](https://open.spotify.com/track/13jsHnIl8hKkjN7x4KcSe5) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [STAY.GO.](https://open.spotify.com/album/6UfXSilQp4SnwMcZYCwloN) | 2:59 | 2022-03-03 |  |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2021-12-01 | 2022-01-14 |
 | [Tears](https://open.spotify.com/track/7GHKD3WZblivGmUu5Kn47T) | [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t), [Hairi Eyes](https://open.spotify.com/artist/6QSX3GMSIRB7N6NBr28rvH) | [Tears Leave Stains](https://open.spotify.com/album/5sPoxVV66b2nWg9a9vHEqQ) | 3:29 | 2022-01-13 |  |
 | [Television](https://open.spotify.com/track/01yV1k9qfzNhElFCih2REv) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Television](https://open.spotify.com/album/2EESzMfEC9fFOkaufAfBUR) | 2:40 | 2022-01-13 |  |

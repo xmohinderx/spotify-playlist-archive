@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8ssiX0naPV.md) - [plain]
 
 > A collection of some of the most romantic and sensual poems in the English language.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,993 likes - 36 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,987 likes - 36 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

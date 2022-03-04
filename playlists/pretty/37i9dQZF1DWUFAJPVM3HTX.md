@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Kennedy Rd., Artwork: Crystal Zapata
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,361 likes - 110 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,645 likes - 110 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

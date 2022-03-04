@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 207424,
       "name": "Fluorescent Night",
       "url": "https://open.spotify.com/track/6DCVTu6Ep6g8j6Kmn3hV7R"
@@ -782,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Insects",
+        "url": "https://open.spotify.com/album/3olorZkquvqKr6Lkyl5n7j"
+      },
+      "artists": [
+        {
+          "name": "October Drift",
+          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200021,
+      "name": "Insects",
+      "url": "https://open.spotify.com/track/5EMdUw5BAQO5kHmSIE6GzI"
+    },
+    {
+      "album": {
         "name": "Suburban Paradise",
         "url": "https://open.spotify.com/album/0DMxGcufCWYKzRalddHn0d"
       },
@@ -887,6 +905,24 @@
       "duration_ms": 208138,
       "name": "Natalie",
       "url": "https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt"
+    },
+    {
+      "album": {
+        "name": "Walk Around Me",
+        "url": "https://open.spotify.com/album/45XDQvwcmV6mQxTs4few7H"
+      },
+      "artists": [
+        {
+          "name": "Grandad",
+          "url": "https://open.spotify.com/artist/3yj8XByDLr3A1ZxWQCHM7y"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186768,
+      "name": "Oh I See",
+      "url": "https://open.spotify.com/track/4m5N73K5oGcN2GD5W26qjU"
     },
     {
       "album": {
@@ -1355,7 +1391,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 215331,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/5VtQ2QNxqvAo0UQH2UIKR5"

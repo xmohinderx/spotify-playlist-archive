@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Simple Plan, Deryck Whibley
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,126 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,163 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

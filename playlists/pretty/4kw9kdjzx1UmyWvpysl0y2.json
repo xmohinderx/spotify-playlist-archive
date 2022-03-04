@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127721,
+  "num_followers": 127808,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI4MSxiNTM0NzM0NTFhOTQxYzRmNjMxODdlN2QwY2U2ODNhNWNiNDM0ZWI2",
+  "snapshot_id": "MzI4MyxmMzUzZGIwOTE3Y2JkMTQwMWRhNjI1MGU5YTM5MGI4YzEzN2JhNGEw",
   "tracks": [
+    {
+      "added_at": "2022-03-03 17:01:16",
+      "album": {
+        "name": "E.L.E (Extinction Level Event)",
+        "url": "https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs"
+    },
     {
       "added_at": "2022-03-02 17:04:18",
       "album": {
@@ -1127,22 +1147,6 @@
       "duration_ms": 257406,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Chasing Stars",
-        "url": "https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw"
-      },
-      "artists": [
-        {
-          "name": "Skyler Madison",
-          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
-        }
-      ],
-      "duration_ms": 281379,
-      "name": "Chasing Stars",
-      "url": "https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

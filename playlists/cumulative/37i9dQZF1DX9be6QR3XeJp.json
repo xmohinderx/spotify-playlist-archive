@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Wet Leg",
+  "description": "Discover your new favourite artists. Cover: CMAT",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -1057,6 +1057,24 @@
       "duration_ms": 251831,
       "name": "Nah It Ain't The Same",
       "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
+    },
+    {
+      "album": {
+        "name": "If My Wife New I\u2019d Be Dead",
+        "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316533,
+      "name": "Nashville",
+      "url": "https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg"
     },
     {
       "album": {

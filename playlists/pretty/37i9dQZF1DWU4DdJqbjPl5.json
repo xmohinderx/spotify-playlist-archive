@@ -1,12 +1,12 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc?si=9Izkl2gNTdeBOA7_wgnc9Q\" > A\u1e63a </a>",
-  "num_followers": 95285,
+  "num_followers": 95372,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjI2ODYxNSwwMDAwMDAwMGYzMTlhZDc0OWQwYTgzMjJmNzczOTZkMmEyZDcxNDQ3",
+  "snapshot_id": "MTY0NjM1NTAyMywwMDAwMDAwMDlkM2M4YjE0OTQ2Mjk4M2ZiNjAyMjc3NThkZTE1NTdm",
   "tracks": [
     {
       "added_at": "2022-02-24 23:00:00",
@@ -39,6 +39,26 @@
       "duration_ms": 210000,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x"
+    },
+    {
+      "added_at": "2022-03-03 23:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
     },
     {
       "added_at": "2021-09-24 05:23:07",
@@ -1123,22 +1143,6 @@
       "duration_ms": 164837,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
-    },
-    {
-      "added_at": "2021-12-02 23:01:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
-      },
-      "artists": [
-        {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
     },
     {
       "added_at": "2021-02-12 07:18:58",

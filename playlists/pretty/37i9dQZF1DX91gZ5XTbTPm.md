@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Babyface Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,147 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,188 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 21 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 |
 | 22 | [James Brown](https://open.spotify.com/track/6TTk9xljY8l0G8ON0V06IL) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [James Brown](https://open.spotify.com/album/6zeCoGdVjSKPnzb0CSnmhN) | 2:59 |
 | 23 | [Richer Than My Opps](https://open.spotify.com/track/7reqlXtBk0OJLtRkUABUYa) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Richer Than My Opps](https://open.spotify.com/album/69vDeG5sZIVWLy2pAuFzKF) | 2:59 |
-| 24 | [Hustlaz](https://open.spotify.com/track/5mV02eybPC77hODuGYd054) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Hustlaz](https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs) | 3:55 |
+| 24 | [Hustlaz](https://open.spotify.com/track/5mV02eybPC77hODuGYd054) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Chill's Spotlight](https://open.spotify.com/artist/5CObhzKatYOMAeLHuFRedB) | [Hustlaz](https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs) | 3:55 |
 | 25 | [Sincerely Face](https://open.spotify.com/track/1pkmi6mGVijG0Vq9Ml64aw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Sincerely Face](https://open.spotify.com/album/1MiQurvciltuV7N6e9vTwV) | 2:41 |
 | 26 | [Sippin \(feat\. Babyface Ray\)](https://open.spotify.com/track/533xPP4BjZEkZzySNYKbcW) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Rich Off Pints 2](https://open.spotify.com/album/4cnQ5LZhyXdvw1pIPMLkJH) | 2:44 |
 | 27 | [OPP PARTY \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/4neQVPkami7MzzLoOHIA6c) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [OH REALLY](https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W) | 3:36 |

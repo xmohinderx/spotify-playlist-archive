@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 530773,
       "name": "Cry Me a River - Live",
       "url": "https://open.spotify.com/track/518gXaq0LZe99Bz0Laspi2"
@@ -1300,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "Liten Jazzballong Revisited",
+        "url": "https://open.spotify.com/album/5qIPdiTo9jJsd1Fl3VIO8d"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371165,
+      "name": "Liten Jazzballong Revisited",
+      "url": "https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe"
+    },
+    {
+      "album": {
         "name": "Standards In Norway",
         "url": "https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt"
       },
@@ -1389,6 +1407,24 @@
       "duration_ms": 346154,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1Px7rF9pcSTnuZm18bQ78i"
+    },
+    {
+      "album": {
+        "name": "Perfidia",
+        "url": "https://open.spotify.com/album/6dA81xiGl3BXf6MsEdTWVE"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331533,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/3UKChCUZCGCC0p6WXR7uTj"
     },
     {
       "album": {
@@ -1885,7 +1921,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 608533,
       "name": "Secret Love - Live",
       "url": "https://open.spotify.com/track/4E4P5vhVNbfsd109TTNSbL"

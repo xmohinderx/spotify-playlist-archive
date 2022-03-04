@@ -1,63 +1,15 @@
 {
-  "description": "Feel-good Afropop from Europe and Africa. Cover: 1da Banton",
-  "num_followers": 460547,
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Ronisia",
+  "num_followers": 461088,
   "original_name": "Afro Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc0Mzc4MCwwMDAwMDExMzAwMDAwMTdmMmRmOTMwZWIwMDAwMDE3ZjFjMGY2ZmVm",
+  "snapshot_id": "MTY0NjM0ODUyMCwwMDAwMDExNDAwMDAwMTdmNTIwNGNhZDEwMDAwMDE3ZjNmY2JjNGVh",
   "tracks": [
     {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Original Vibe Machine",
-        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "No Wahala",
-      "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "D O D O",
-      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Ronisia",
         "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
@@ -73,7 +25,55 @@
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Original Vibe Machine",
+        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "No Wahala",
+      "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "D O D O",
+      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Tokooos II Gold",
         "url": "https://open.spotify.com/album/0Qfv7Y9B2XCDlcezl4KDlo"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4l45NQulgRQRd3g1iFHH5F"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Don't Call Me (feat. Zinoleesky)",
         "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
@@ -149,7 +149,39 @@
       "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Sip (Alcohol)",
+        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sip (Alcohol)",
+      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Baddest Boy",
+        "url": "https://open.spotify.com/album/7yxdgb3JrIfoNbJTY6f8jP"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "duration_ms": 141599,
+      "name": "Baddest Boy",
+      "url": "https://open.spotify.com/track/3t7hYVVDzf1VDUz0pu5Zy1"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Omo Ope",
         "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
@@ -169,23 +201,27 @@
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "La cl\u00e9",
-        "url": "https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA"
+        "name": "So Distant (feat. Tayc)",
+        "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 175613,
-      "name": "La cl\u00e9",
-      "url": "https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M"
+      "duration_ms": 174059,
+      "name": "So Distant (feat. Tayc)",
+      "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Ozumba Mbadiwe (Remix)",
         "url": "https://open.spotify.com/album/656VMGOU4NL8RpviUz5IYF"
@@ -205,111 +241,7 @@
       "url": "https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Baddest Boy",
-        "url": "https://open.spotify.com/album/7yxdgb3JrIfoNbJTY6f8jP"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        }
-      ],
-      "duration_ms": 141599,
-      "name": "Baddest Boy",
-      "url": "https://open.spotify.com/track/3t7hYVVDzf1VDUz0pu5Zy1"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/4EiOLderTvvNS7IzewLdm1"
-      },
-      "artists": [
-        {
-          "name": "Locko",
-          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 190696,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/3O8Pxndt6Jm898WSLpCVGe"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "S\u00e1r\u00e9",
-        "url": "https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "S\u00e1r\u00e9",
-      "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Sip (Alcohol)",
-        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sip (Alcohol)",
-      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "100",
-      "url": "https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Ameno Amapiano Remix (You Wanna Bamba)",
         "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
@@ -329,7 +261,43 @@
       "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "La cl\u00e9",
+        "url": "https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "La cl\u00e9",
+      "url": "https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
@@ -349,27 +317,43 @@
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "VOL 169 ATTERRISSAGE",
-        "url": "https://open.spotify.com/album/474RT27VhUBkRpOEMCTCzr"
+        "name": "S\u00e1r\u00e9",
+        "url": "https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az"
       },
       "artists": [
         {
-          "name": "Bol\u00e9mvn",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 176066,
-      "name": "Bobby Shmurda",
-      "url": "https://open.spotify.com/track/2SfIBkJj3wADWSEGgyWXWR"
+      "duration_ms": 154000,
+      "name": "S\u00e1r\u00e9",
+      "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/4EiOLderTvvNS7IzewLdm1"
+      },
+      "artists": [
+        {
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 190696,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/3O8Pxndt6Jm898WSLpCVGe"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
@@ -389,7 +373,75 @@
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/462IsccRxkCQdtqC1lszjb"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "100",
+      "url": "https://open.spotify.com/track/5fo6cxM7tlDG0e0PO3OpkD"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "VOL 169 ATTERRISSAGE",
+        "url": "https://open.spotify.com/album/474RT27VhUBkRpOEMCTCzr"
+      },
+      "artists": [
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Bobby Shmurda",
+      "url": "https://open.spotify.com/track/2SfIBkJj3wADWSEGgyWXWR"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Vitamine (Remix)",
         "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
@@ -409,23 +461,7 @@
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/4gLz3s4Zg3BduGWKk2aNPO"
@@ -441,7 +477,7 @@
       "url": "https://open.spotify.com/track/1z9QlqiV7MsrU4WBZAxsOA"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Dans la sauce",
         "url": "https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER"
@@ -457,43 +493,7 @@
       "url": "https://open.spotify.com/track/0auHcOjJqevDw665HOHpma"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Ronisia",
-        "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Suis-moi (feat. Ninho)",
-      "url": "https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s"
@@ -513,27 +513,27 @@
       "url": "https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Pardonne moi",
-        "url": "https://open.spotify.com/album/4vCyfiHqJQdDjJP1e7lyOe"
+        "name": "Ronisia",
+        "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
       },
       "artists": [
         {
-          "name": "Kany",
-          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         },
         {
-          "name": "DJ Eladji",
-          "url": "https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 211071,
-      "name": "Pardonne moi",
-      "url": "https://open.spotify.com/track/5iacvQWeHQxCXQaA5hyKPr"
+      "duration_ms": 175240,
+      "name": "Suis-moi (feat. Ninho)",
+      "url": "https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Sometimes (Remix)",
         "url": "https://open.spotify.com/album/0CP8QDMjNwtWkIcQ30P2pc"
@@ -553,7 +553,27 @@
       "url": "https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Pardonne moi",
+        "url": "https://open.spotify.com/album/4vCyfiHqJQdDjJP1e7lyOe"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        },
+        {
+          "name": "DJ Eladji",
+          "url": "https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV"
+        }
+      ],
+      "duration_ms": 211071,
+      "name": "Pardonne moi",
+      "url": "https://open.spotify.com/track/5iacvQWeHQxCXQaA5hyKPr"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Contr\u00f4le",
         "url": "https://open.spotify.com/album/2Ik3t8UvhZSeFGzpwZMth4"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/5MfG4KmZ0Uj4HmjIMNIUTL"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Ololade Asake",
         "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Everyday (feat. Driks)",
         "url": "https://open.spotify.com/album/5uOY2WSj7m275wjFJf31cP"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/1ZP32IwIIPcz3BRjF7erjj"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Bluffin",
         "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Wingu",
         "url": "https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6"
@@ -697,27 +717,7 @@
       "url": "https://open.spotify.com/track/1UoK36U5MQNSZsNWb1X8XA"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
-      },
-      "artists": [
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Sweet Daddy",
         "url": "https://open.spotify.com/album/5vVu6P7rrAXE6gkbCIwLCy"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/491RNEZhVfVRKlbN259dff"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Doudou Chou",
         "url": "https://open.spotify.com/album/71AyCcMiMLgtR7bpTrMvr8"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/4HOxCDCw4oQWjc7sVub1vp"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Intentionally (Remix)",
         "url": "https://open.spotify.com/album/6TyDoGRE4MPi5pAoQV8U5F"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/1uEgtxDYgAkGMwTxc4dOAA"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
@@ -817,7 +817,23 @@
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Doudou",
+        "url": "https://open.spotify.com/album/2TojJFyizM8j3alqvhgy2O"
+      },
+      "artists": [
+        {
+          "name": "Pongo",
+          "url": "https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/6oHkf01UyUH5FVvWhsbEKy"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "KING",
         "url": "https://open.spotify.com/album/6b6vsgLeLJTGCLBwOtLPsB"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/2fovnpipNfOTsEpi210iWm"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "Shakara",
         "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
@@ -873,23 +889,7 @@
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
-      "album": {
-        "name": "LCLM :Pr\u00e9lude",
-        "url": "https://open.spotify.com/album/5Smc7egcDfbXo06o1nqFXz"
-      },
-      "artists": [
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Es-tu pr\u00eate",
-      "url": "https://open.spotify.com/track/76CfecqLieILwUiABOrGQv"
-    },
-    {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "CHOPLIFE (feat. Patoranking)",
         "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
-      "added_at": "2022-02-24 23:03:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"

@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 220920,
       "name": "All Our Friends Are Splitting Up",
       "url": "https://open.spotify.com/track/1uwZ46SjGjrVaZOdR3zYUF"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 267010,
       "name": "don't you have to go?",
       "url": "https://open.spotify.com/track/28ePWE3Y4yd9cmSjLLmycI"
@@ -1134,6 +1134,24 @@
     },
     {
       "album": {
+        "name": "Hard Feelings",
+        "url": "https://open.spotify.com/album/6Qu6frqdt6vgg7PLvbV9bT"
+      },
+      "artists": [
+        {
+          "name": "Alicia Moffet",
+          "url": "https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Hard Feelings",
+      "url": "https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd"
+    },
+    {
+      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 186974,
       "name": "Hold Me Like You Used To",
       "url": "https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 212606,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 190464,
       "name": "not over you",
       "url": "https://open.spotify.com/track/1hXAkVaCozEsMUPVCcEkO9"
@@ -3033,7 +3051,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 199931,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI"
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 166263,
       "name": "you ruined phoebe bridgers",
       "url": "https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r"

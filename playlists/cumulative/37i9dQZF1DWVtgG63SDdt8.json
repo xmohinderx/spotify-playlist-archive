@@ -1512,6 +1512,24 @@
     },
     {
       "album": {
+        "name": "Sound Soul",
+        "url": "https://open.spotify.com/album/2C0wiFVU36fvbyTtvmz4WS"
+      },
+      "artists": [
+        {
+          "name": "Sada K.",
+          "url": "https://open.spotify.com/artist/6jFgqyc7ZSTSwIQFotdGHd"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178208,
+      "name": "Sound Soul",
+      "url": "https://open.spotify.com/track/2TcJbqgCNKOpl1hp1cPUWy"
+    },
+    {
+      "album": {
         "name": "Speak O Lord (Live)",
         "url": "https://open.spotify.com/album/0saO1MoWHiHtuCTw8pHEBY"
       },

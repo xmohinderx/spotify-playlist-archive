@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
-> Ninho au top de la première playlist de rap français !
+> 1PLIKÉ140 au top de la première playlist de rap français !
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [ZKR](https://open.spotify.com/artist/138yPQEMrqpyDeDHPdQ97G) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2022-02-03 |  |
 | [L'odeur de l'essence](https://open.spotify.com/track/4c3TC1eWvz6BgOqSlOAKdT) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:42 | 2022-01-06 |  |
 | [La 14](https://open.spotify.com/track/3wWrlpzyqUjE47DkR39O7l) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 14](https://open.spotify.com/album/0DSaOBR0QbYpz3d0l9ksvM) | 2:51 | 2022-01-06 | 2022-01-21 |
-| [Leo Messi](https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Leo Messi](https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml) | 1:45 | 2022-01-06 |  |
+| [Leo Messi](https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Leo Messi](https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml) | 1:45 | 2022-01-06 | 2022-03-04 |
 | [Loi de la calle](https://open.spotify.com/track/4Fp9Nwi6lTpMC63igc9U0Z) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW) | [Loi de la calle](https://open.spotify.com/album/6GQE5lnK5ghizdk7WKENSA) | 5:44 | 2022-01-06 |  |
 | [Louis V](https://open.spotify.com/track/7r83PYx36835T5BQCbzrjc) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Louis V](https://open.spotify.com/album/1BYuCRO2VsdMLNCTirNUMr) | 3:04 | 2022-01-06 |  |
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
@@ -41,6 +41,7 @@
 | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch) | 4:00 | 2022-01-06 |  |
 | [MAUVAIS PAYEUR](https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [MAUVAIS PAYEUR](https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT) | 2:19 | 2022-01-20 |  |
 | [Mon poto \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/1SelxYHPb04GjUy0oYV1Jw) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En Passant Pécho \(Bande originale inspirée du film\)](https://open.spotify.com/album/5Z31afWU0NIldn8hRK5CZq) | 3:03 | 2022-01-06 | 2022-02-04 |
+| [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi) | 3:20 | 2022-03-03 |  |
 | [N.I](https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [N.I](https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9) | 2:59 | 2022-01-06 |  |
 | [Nintch](https://open.spotify.com/track/57ogeKenA6Q9sFnWTuloKy) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Nintch](https://open.spotify.com/album/1h2DffxQt1NMDczFScHo3p) | 2:56 | 2022-01-06 |  |
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2022-01-06 |  |

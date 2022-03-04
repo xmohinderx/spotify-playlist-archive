@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Tyler Joe Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,900 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,990 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

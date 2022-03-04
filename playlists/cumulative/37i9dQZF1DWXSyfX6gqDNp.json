@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Comme il faut",
+        "url": "https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz"
+      },
+      "artists": [
+        {
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222508,
+      "name": "Comme Il Faut",
+      "url": "https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5"
+    },
+    {
+      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },

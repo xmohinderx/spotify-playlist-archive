@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0R5sCENJleZp9oxN9JcXgR"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/1N4ixxhbBH1ClnPdTTsRzz"
+    },
+    {
+      "album": {
         "name": "Amoureuse",
         "url": "https://open.spotify.com/album/7i4xZ7pSzpp5zB1EcJinIg"
       },
@@ -59,6 +77,68 @@
       "duration_ms": 163320,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee"
+    },
+    {
+      "album": {
+        "name": "Notre Dame de Paris - Studio",
+        "url": "https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lavoie",
+          "url": "https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM"
+        },
+        {
+          "name": "Patrick Fiori",
+          "url": "https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq"
+        },
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277786,
+      "name": "Belle (with Patrick Fiori & Garou)",
+      "url": "https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg"
+    },
+    {
+      "album": {
+        "name": "Besoin De Rien, Envie De Toi",
+        "url": "https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF"
+      },
+      "artists": [
+        {
+          "name": "Peter & Sloane",
+          "url": "https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Besoin de rien, envie de toi",
+      "url": "https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW"
+    },
+    {
+      "album": {
+        "name": "C'Est Extra",
+        "url": "https://open.spotify.com/album/7jwANC9B4cK7woNhwNKKxA"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226093,
+      "name": "C'est extra",
+      "url": "https://open.spotify.com/track/6UANIFJUTSA77swvaACv8P"
     },
     {
       "album": {
@@ -116,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
+    },
+    {
+      "album": {
         "name": "From Paris With Love",
         "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
       },
@@ -149,6 +247,42 @@
       "duration_ms": 201653,
       "name": "Hymne \u00e0 L'amour",
       "url": "https://open.spotify.com/track/5XlQFVHD7HUCkZcwDVxFhA"
+    },
+    {
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
+    },
+    {
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273133,
+      "name": "Je sais pas",
+      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
     },
     {
       "album": {
@@ -203,10 +337,32 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 270506,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/6cW2O9dKdUwHnemwlbfoEo"
+    },
+    {
+      "album": {
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
     },
     {
       "album": {
@@ -279,6 +435,24 @@
       "duration_ms": 270466,
       "name": "La chanson des vieux amants",
       "url": "https://open.spotify.com/track/2UE1LplKFZwAQmDOMd2I5n"
+    },
+    {
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "album": {
@@ -369,6 +543,24 @@
       "duration_ms": 164506,
       "name": "Le malheur d'aimer",
       "url": "https://open.spotify.com/track/59EBicHdiCFvth8PNaGzc4"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
     },
     {
       "album": {
@@ -521,6 +713,24 @@
       "duration_ms": 290200,
       "name": "Ma plus belle histoire d'amour",
       "url": "https://open.spotify.com/track/3c0DRhn53wHSNzwcTCOQOd"
+    },
+    {
+      "album": {
+        "name": "Di Doo Dah",
+        "url": "https://open.spotify.com/album/7wERv90J8MOPA3Jc7f6WHZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151240,
+      "name": "Mon amour baiser",
+      "url": "https://open.spotify.com/track/1tvRa7gV3YxU84SB2eYa9e"
     },
     {
       "album": {

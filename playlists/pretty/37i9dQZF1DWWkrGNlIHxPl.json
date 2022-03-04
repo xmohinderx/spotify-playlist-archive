@@ -1,12 +1,12 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Hajaj.",
-  "num_followers": 112304,
+  "num_followers": 112326,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc4MjY1NywwMDAwMDI3MzAwMDAwMTdmMzA0YTZhMjUwMDAwMDE3Y2YwNGFjOThl",
+  "snapshot_id": "MTY0NjMzOTQ0MywwMDAwMDI3NDAwMDAwMTdmNTE3YTQ5NjAwMDAwMDE3Y2YwNGFjOThl",
   "tracks": [
     {
       "added_at": "2022-02-25 09:50:57",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
     },
     {
+      "added_at": "2022-03-03 20:30:43",
+      "album": {
+        "name": "Nader Khalil",
+        "url": "https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG"
+      },
+      "artists": [
+        {
+          "name": "Nader Khalil",
+          "url": "https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi"
+        }
+      ],
+      "duration_ms": 73500,
+      "name": "Arab Way",
+      "url": "https://open.spotify.com/track/64iJCxwcWh4RpYCYlKydZs"
+    },
+    {
       "added_at": "2022-02-25 09:50:57",
       "album": {
         "name": "FUNNY HOW",
@@ -187,6 +203,22 @@
       "duration_ms": 283636,
       "name": "Burn Me Out",
       "url": "https://open.spotify.com/track/6EA7oUfwTlK4Uc5RIzAJrz"
+    },
+    {
+      "added_at": "2022-03-03 20:30:43",
+      "album": {
+        "name": "Nader Khalil",
+        "url": "https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG"
+      },
+      "artists": [
+        {
+          "name": "Nader Khalil",
+          "url": "https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84"
     },
     {
       "added_at": "2022-02-25 09:50:57",

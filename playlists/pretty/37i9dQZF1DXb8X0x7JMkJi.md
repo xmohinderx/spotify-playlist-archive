@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8X0x7JMkJi.md) - [plain]
 
 > Podcasts que te ajudaram a tirar um tempinho para cuidar de você em 2021.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,274 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 49,287 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY0MTkzNTUyMSwwMDAwMDAzNzAwMDAwMTdlNGFmYmM2ZTcwMDAwMDE2ZmVkOTI5M2Zi`
+Snapshot ID: `MTY0NjMxODQxNSwwMDAwMDAzOTAwMDAwMTdmNTAzOTZmZTAwMDAwMDE2ZmVkOTI5M2Zi`

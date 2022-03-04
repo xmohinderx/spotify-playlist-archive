@@ -33,6 +33,7 @@
 | [Eclipse](https://open.spotify.com/track/4UtZIzqtA5l7pnK9btaANX) | [Estella Martinez](https://open.spotify.com/artist/4yh4jzFYXkJnloEQYICSsX) | [Eclipse](https://open.spotify.com/album/25vdGHdXcGPQ6FbdWw8ryB) | 2:41 | 2021-12-10 |  |
 | [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 | 2021-12-10 |  |
 | [Enlightened Sense](https://open.spotify.com/track/1KHrVFRoVabN7vXoSK3sAP) | [Perceived Present](https://open.spotify.com/artist/0df4GNs9AAMEQQsggBKxU2) | [Enlightened Sense](https://open.spotify.com/album/0Dot5yCiD9YoITgdlpuWC2) | 2:33 | 2021-12-10 |  |
+| [Environmental Re\-Interpretation](https://open.spotify.com/track/440vNnFLzA1jeyfBQ1qeLY) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Environmental Re\-Interpretation](https://open.spotify.com/album/6DflzLS0vUt45ca8lw3iiW) | 3:26 | 2022-03-03 |  |
 | [Escape Gravity](https://open.spotify.com/track/3xjsbk8OtU1uR3FuOPS2NT) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/2q8JbhxMmq0UMn3ui8XdvB) | 2:51 | 2021-12-10 |  |
 | [Ethereal](https://open.spotify.com/track/19Veznfh8J7ZPLs9kgK1Kq) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Ethereal](https://open.spotify.com/album/7w5YrYY6lrmDIlNFNpj79L) | 3:17 | 2021-12-10 |  |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2021-12-10 |  |
@@ -119,6 +120,7 @@
 | [Yearning](https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:44 | 2021-12-10 |  |
 | [Yes/No \- Sanctuary Mix](https://open.spotify.com/track/3PQGFShoKzMowJlPgysF0Y) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [Yes/No](https://open.spotify.com/album/0AuCl70u1UOvujYyoAbMH3) | 3:53 | 2021-12-10 |  |
 | [You Are Loved](https://open.spotify.com/track/0QYlKxVXf0pCnFzHIxNFBl) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [You Are Loved](https://open.spotify.com/album/0fPrAx93fmY0y7WVlvxjIH) | 2:40 | 2021-12-10 |  |
+| [Zeroes](https://open.spotify.com/track/32MYi4KuEh2z2gdT2XD80r) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Zeroes](https://open.spotify.com/album/1gSPQ3HDP7ffBBpvaPiawI) | 3:14 | 2022-03-03 |  |
 | [zomerochtend](https://open.spotify.com/track/3cYVVPJoyBsDdr5v4GR5wZ) | [Gülay de Wind](https://open.spotify.com/artist/5D0qIsPOnyaBwKc6ICi5A0) | [zomerochtend](https://open.spotify.com/album/1IxIICJCdrCyPJxRITquke) | 3:40 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

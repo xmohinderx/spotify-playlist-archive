@@ -940,6 +940,24 @@
     },
     {
       "album": {
+        "name": "Lady in the Blue Dress",
+        "url": "https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247269,
+      "name": "Lady in the Blue Dress",
+      "url": "https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj"
+    },
+    {
+      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ"
       },
@@ -1033,6 +1051,24 @@
       "duration_ms": 275968,
       "name": "Love Waiting Endlessly",
       "url": "https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0"
     },
     {
       "album": {

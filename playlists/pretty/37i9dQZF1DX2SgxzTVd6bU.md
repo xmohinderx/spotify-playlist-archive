@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SgxzTVd6bU.md) - [plain]
 
 > Listen & repeat..\. with over 8 hours of Portuguese instruction!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,035 likes - 53 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,032 likes - 53 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

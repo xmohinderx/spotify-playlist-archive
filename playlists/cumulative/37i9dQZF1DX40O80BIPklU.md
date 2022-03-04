@@ -2,11 +2,12 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Santa Fe Klan, Gera MX
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto:  Rels B
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2022-02-10 |  |
+| [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-03 |  |
 | [7 De Mayo](https://open.spotify.com/track/48wkz2E0apRJr6E4zQyDpx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [7 De Mayo](https://open.spotify.com/album/1nKovORSFiC5BVIhuZAHBP) | 3:29 | 2021-12-30 |  |
 | [A 120](https://open.spotify.com/track/5UaxYPAJvLc5uuV9sbTZjP) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [A 120](https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx) | 3:53 | 2021-12-30 |  |
 | [A Mi Lado](https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [A Mi Lado](https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP) | 2:58 | 2021-12-30 | 2022-02-01 |
@@ -40,7 +41,7 @@
 | [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 | 2021-12-30 |  |
 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 | 2021-12-30 |  |
 | [La Canción Que Todos Bailan](https://open.spotify.com/track/6kLCS66Lpqln8uH7HwxAp6) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [La Canción Que Todos Bailan](https://open.spotify.com/album/5fLLBCD2tVuUqqV4b55xig) | 3:10 | 2021-12-30 |  |
-| [La Pistola](https://open.spotify.com/track/7xZKsJJriFzemuLslrkXx5) | [Lito MC Cassidy](https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Jaula De Los Vivos](https://open.spotify.com/album/1oevsEOqgdZRJtHFLTLS3o) | 3:28 | 2021-12-30 |  |
+| [La Pistola](https://open.spotify.com/track/7xZKsJJriFzemuLslrkXx5) | [Lito MC Cassidy](https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Jaula De Los Vivos](https://open.spotify.com/album/1oevsEOqgdZRJtHFLTLS3o) | 3:28 | 2021-12-30 | 2022-03-04 |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-12-30 |  |
 | [Lejos del 2](https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Lejos del 2](https://open.spotify.com/album/0ZZlgtb4U35vMmeJ46jBTh) | 2:40 | 2021-12-30 |  |
 | [Lento](https://open.spotify.com/track/1eDUEqKdkt5rMTf43l6bHO) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/53tylmJHr857yvMZv0ruBz) | 3:14 | 2021-12-30 |  |

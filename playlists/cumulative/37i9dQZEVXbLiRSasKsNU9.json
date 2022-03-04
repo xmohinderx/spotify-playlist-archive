@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 227679,
       "name": "Akuma no Ko",
       "url": "https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 227100,
       "name": "Ameno Amapiano Remix (You Wanna Bamba)",
       "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
@@ -3108,6 +3108,28 @@
     },
     {
       "album": {
+        "name": "Pasoori",
+        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "Pasoori",
+      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
       },
@@ -4717,6 +4739,24 @@
       "duration_ms": 274400,
       "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
+    },
+    {
+      "album": {
+        "name": "\u6700\u60aa\u6700\u611b",
+        "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "\u60aa\u9b54\u306e\u5b50",
+      "url": "https://open.spotify.com/track/0JsxTs1lZfKkDWxLZdJOmv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLiRSasKsNU9"

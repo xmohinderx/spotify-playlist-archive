@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKgOqDv3HpW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKgOqDv3HpW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKgOqDv3HpW)
 
-### Meditação e Relaxamento
+### [Meditação e Relaxamento](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 

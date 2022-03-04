@@ -2,7 +2,7 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
+> Check out the latest hits from Sandalwood!<br/>Cover : James
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/track/2d7mZkTatdeb4tcnZjGyxi) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/album/47EKoRgcYU28XDAm6lTrxo) | 2:15 | 2022-02-03 |  |
 | [Theli Theli](https://open.spotify.com/track/0ziCoXd5lppc2bShxQn5E6) | [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Garudaksha](https://open.spotify.com/album/6EuGzfzsQi8wMcNkZ3tgXn) | 4:32 | 2022-01-07 |  |
 | [Torture Song \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/track/08aIkOh2kwBDJgA9576YtX) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Torture Song \(From "777 Charlie \- Kannada"\)](https://open.spotify.com/album/65GsOiwcKpfiFGQEtLrkCu) | 5:11 | 2021-12-06 | 2022-02-03 |
+| [Trademark \(From "James \- Kannada"\)](https://open.spotify.com/track/4OtsWdxJzYyd8OfmRwqRTA) | [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2), [Aditi Sagar](https://open.spotify.com/artist/79yEkymoTkieurpetMpr9G), [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Sharmila](https://open.spotify.com/artist/4r1cQamhizt9CKe5e0MSI4), [Yuva Rajkumar](https://open.spotify.com/artist/0coWt0AoKOw75oyxIp8HDv) | [Trademark \(From "James \- Kannada"\)](https://open.spotify.com/album/7FhSUXiqq6ff7OoV9SN3Wk) | 3:59 | 2022-03-03 |  |
 | [Tukaali](https://open.spotify.com/track/1YKD6GZa1AKI6wdCA0canI) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx) | [Dhamaka](https://open.spotify.com/album/0yvy85UKvjKgkA8sBLE8iC) | 3:17 | 2022-01-07 |  |
 | [Two Happening Fox](https://open.spotify.com/track/15giZQdnoFcPxvEXsP0Dx6) | [Anil C J](https://open.spotify.com/artist/2d8zXdFzqunndsY1uiWPIG) | [Buy 1 Get 1 Free](https://open.spotify.com/album/5AaLxJPjkw0eGRGspEpFsr) | 1:51 | 2021-12-06 |  |
 | [Udho Udho Huligemma](https://open.spotify.com/track/7LLozkw4hGagbFqwl0RKYl) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Raana](https://open.spotify.com/album/39QsdjzMVGQyXqPCnowrYj) | 4:14 | 2022-02-15 |  |

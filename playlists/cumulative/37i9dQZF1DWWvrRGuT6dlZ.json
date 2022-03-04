@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: shazza. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Ultra Mega Cat Attack. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "published_playlist_ids": [
     "3clZuxYeboHhluz5fN0HIw"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 189108,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/4A13g03FEeD4hAH5JnxBp7"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 198933,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/5xjNNZzBsDowaof05ktr8k"
@@ -1643,6 +1643,24 @@
       "duration_ms": 335250,
       "name": "Lover's Dream",
       "url": "https://open.spotify.com/track/7wmxK5k0oFNrCJlTppQlNW"
+    },
+    {
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/47VJViuY2ZR5rm2CiODTXd"
+      },
+      "artists": [
+        {
+          "name": "Sign of Five",
+          "url": "https://open.spotify.com/artist/5v9bVo0Z9GI9L2SCFON6Hh"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/0AfrgSDnn5gt9gDuJ2G7tb"
     },
     {
       "album": {
@@ -2477,6 +2495,24 @@
       "duration_ms": 179047,
       "name": "Status Quo",
       "url": "https://open.spotify.com/track/5107u4MtCdGnGT6Ba7yq9z"
+    },
+    {
+      "album": {
+        "name": "STAY.GO.",
+        "url": "https://open.spotify.com/album/6UfXSilQp4SnwMcZYCwloN"
+      },
+      "artists": [
+        {
+          "name": "Ultra Mega Cat Attack",
+          "url": "https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "STAY.GO.",
+      "url": "https://open.spotify.com/track/13jsHnIl8hKkjN7x4KcSe5"
     },
     {
       "album": {

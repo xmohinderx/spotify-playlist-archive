@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3bgBpcV2oGY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3bgBpcV2oGY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3bgBpcV2oGY)
 
-### [Sad Acoustic Guitar](https://open.spotify.com/playlist/2jQErRkNwTxb0OdKWiZk3c)
+### [Sad Acoustic Guitar](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 > Instrumental guitar for rainy day contemplation.
 
@@ -29,6 +29,7 @@
 | [Cette chute](https://open.spotify.com/track/7H7vxPL4rZRkarF9EPOnvz) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Cette chute](https://open.spotify.com/album/7voaQFtWuh3hG6PVzQUfwQ) | 2:44 | 2021-12-23 |  |
 | [Choro de Saudade](https://open.spotify.com/track/3Kfd574iIrlhqnQeqtXKuv) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Choro de Saudade](https://open.spotify.com/album/2WrAWCGZQYtkDmAvvjHUJ6) | 5:05 | 2021-12-23 |  |
 | [City Lights](https://open.spotify.com/track/1qh4crx5pT2dWNM1fhAyeR) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:28 | 2021-12-23 |  |
+| [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-03-03 |  |
 | [Comings & Goings](https://open.spotify.com/track/04QYnXLbnPWSS2pgR0z1yZ) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Comings & Goings](https://open.spotify.com/album/1x5HTAuVJWSlbn3prj6Bfb) | 2:59 | 2021-12-23 |  |
 | [Contemplation](https://open.spotify.com/track/02tk3raiAkGKpEsxlF3pKw) | [Calvin Nolan](https://open.spotify.com/artist/7qX73NefWkqJGQaxCT3UdA) | [Contemplation](https://open.spotify.com/album/5q0V9WTTDKaQ6YR8TT07WQ) | 2:06 | 2021-12-23 |  |
 | [Cuéntame Tu Vida](https://open.spotify.com/track/2vUJZddP9b4k5XsJIaYm1L) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Cuéntame Tu Vida](https://open.spotify.com/album/3Y1mO7huUBt02ZH4ZUjWeZ) | 2:18 | 2021-12-23 |  |

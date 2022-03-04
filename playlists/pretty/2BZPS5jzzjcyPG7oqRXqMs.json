@@ -1,12 +1,12 @@
 {
   "description": "Your go to Christian playlist for every day listening . ",
-  "num_followers": 12754,
+  "num_followers": 12756,
   "original_name": "Living Christian",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzA3Niw4M2FmYmEwZDdkZjdlNDEzMDBlNzFlMmQ0NzQ5YThlMDllOGM0YmE2",
+  "snapshot_id": "MzA3OCxhZGNhZjA3MGI1MjI1NTM3M2E0MDQ2MzQ0ZmJhMTA5YzRlOWI0NjVh",
   "tracks": [
     {
       "added_at": "2022-02-25 15:58:11",
@@ -47,6 +47,26 @@
       "duration_ms": 283964,
       "name": "Honey In The Rock - Live",
       "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
+    },
+    {
+      "added_at": "2022-02-17 19:22:29",
+      "album": {
+        "name": "Let The Light In",
+        "url": "https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL"
+      },
+      "artists": [
+        {
+          "name": "Joshua Micah",
+          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
+        },
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Let The Light In",
+      "url": "https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6"
     },
     {
       "added_at": "2022-02-17 19:22:29",
@@ -147,26 +167,6 @@
     {
       "added_at": "2022-02-17 19:22:29",
       "album": {
-        "name": "Let The Light In",
-        "url": "https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL"
-      },
-      "artists": [
-        {
-          "name": "Joshua Micah",
-          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
-        },
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Let The Light In",
-      "url": "https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6"
-    },
-    {
-      "added_at": "2022-02-17 19:22:29",
-      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -179,6 +179,22 @@
       "duration_ms": 220906,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2"
+    },
+    {
+      "added_at": "2022-03-03 17:39:26",
+      "album": {
+        "name": "Spirit Of God",
+        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Something About The Name - Live",
+      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
     },
     {
       "added_at": "2022-02-18 16:14:05",

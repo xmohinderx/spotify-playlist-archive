@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9tPFwDMOaN1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9tPFwDMOaN1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tPFwDMOaN1)
 
-### [K\-Pop Daebak](https://open.spotify.com/playlist/0DPECkGD3cQbH17pAKSjBj)
+### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/0DPECkGD3cQbH17pAKSjBj)
 
-> Bringing you the latest and greatest in the world of K\-Pop! \#KDaebak Cover: STAYC
+> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: NMIXX
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,13 +56,14 @@
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-13 |  |
 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-01-05 | 2022-02-17 |
 | [Nundongja](https://open.spotify.com/track/3YYUMVgLZblkHVnzOEPka7) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Nundongja](https://open.spotify.com/album/2PTCsSugNnA0olmMfw7ScH) | 3:45 | 2022-01-05 | 2022-01-27 |
+| [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-03-03 |  |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2021-12-13 |  |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-13 | 2022-03-01 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-12-13 | 2022-01-13 |
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2021-12-13 |  |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-13 |  |
 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-02-11 |  |
-| [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-01-26 |  |
+| [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-01-26 | 2022-03-04 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-27 |  |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-12-13 | 2022-02-12 |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-16 |  |
@@ -72,7 +73,7 @@
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2021-12-13 | 2022-01-06 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-13 |  |
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-12-13 |  |
-| [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-01-26 |  |
+| [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-01-26 | 2022-03-04 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-26 |  |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 |  |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-03 |  |

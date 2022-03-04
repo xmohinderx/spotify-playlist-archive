@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: November Ultra",
+  "description": "The best French indie tracks right now. Cover: Canine",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9fense",
+        "url": "https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq"
+      },
+      "artists": [
+        {
+          "name": "Oete",
+          "url": "https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "D\u00e9fense",
+      "url": "https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh"
+    },
+    {
+      "album": {
         "name": "Sign In - EP",
         "url": "https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG"
       },
@@ -377,7 +395,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 221705,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq"

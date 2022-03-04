@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8ZSkZGhJFi1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ZSkZGhJFi1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ZSkZGhJFi1)
 
-### Foco com Energia
+### [Foco com Energia](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,401 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,423 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

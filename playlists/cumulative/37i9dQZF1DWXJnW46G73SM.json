@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c",
+  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a",
   "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "7rd0UNTK9BBzffp6c0LMpx"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 241967,
       "name": "Ana Zaaley",
       "url": "https://open.spotify.com/track/6xEKHNsrF6WS7brxCrG8Qg"
@@ -251,6 +251,24 @@
       "duration_ms": 190965,
       "name": "Arosty",
       "url": "https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4"
+    },
+    {
+      "album": {
+        "name": "Banady 3alek",
+        "url": "https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249498,
+      "name": "Banady 3alek",
+      "url": "https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy"
     },
     {
       "album": {
@@ -283,7 +301,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 194133,
       "name": "Basseen Ala Bokra",
       "url": "https://open.spotify.com/track/1VbteZaK0u3rUWJKUGaY5K"
@@ -359,6 +377,24 @@
       "duration_ms": 162720,
       "name": "Dars Hayaty",
       "url": "https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1l7zke8JZbv83flMvXW99N"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216227,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/5mJwIPGuMG8jhvhr9igD4W"
     },
     {
       "album": {
@@ -944,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Lamma Kont Soghayer",
+        "url": "https://open.spotify.com/album/4nqKCa79eGrrz2CwfIfvcs"
+      },
+      "artists": [
+        {
+          "name": "Shady Shamel",
+          "url": "https://open.spotify.com/artist/1vJHplJeBXGKfMzvQrldkb"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233181,
+      "name": "Lamma Kont Soghayer",
+      "url": "https://open.spotify.com/track/4Ub9lUKMl4ae0tLDMpqCBx"
+    },
+    {
+      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/7mljCWuvJRbbTazyT8R4rR"
       },
@@ -1129,6 +1183,24 @@
       "duration_ms": 223996,
       "name": "Ma Kan Ala Baly",
       "url": "https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg"
+    },
+    {
+      "album": {
+        "name": "Maat El Kalam",
+        "url": "https://open.spotify.com/album/3hginZfdRtOqnDuOEeeG3w"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mohie",
+          "url": "https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208821,
+      "name": "Maat El Kalam",
+      "url": "https://open.spotify.com/track/75CTXFuRMEA6gX7D56Ivlo"
     },
     {
       "album": {
@@ -1749,7 +1821,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 187666,
       "name": "Ya Bay",
       "url": "https://open.spotify.com/track/1tIjCjZggwGIIviiOn4qkB"

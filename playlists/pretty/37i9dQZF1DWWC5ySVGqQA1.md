@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC5ySVGqQA1.md) - [plain]
 
 > A collection of all things Austen, including audiobooks, poetry, and cinematic scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,042 likes - 127 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,039 likes - 127 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

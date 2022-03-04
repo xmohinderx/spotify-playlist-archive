@@ -716,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Love Letters II",
+        "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199008,
+      "name": "Let's Be Dead Together",
+      "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
+    },
+    {
+      "album": {
         "name": "Lollipop",
         "url": "https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki"
       },
@@ -1287,6 +1305,28 @@
       "duration_ms": 121077,
       "name": "SAME ENERGY",
       "url": "https://open.spotify.com/track/1gQlBMBfyxsGYZlSQ7bkm3"
+    },
+    {
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Merry-Lynn",
+          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
     },
     {
       "album": {

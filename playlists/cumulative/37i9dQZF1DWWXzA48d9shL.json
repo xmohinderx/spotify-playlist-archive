@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 137560,
       "name": "banshee",
       "url": "https://open.spotify.com/track/5qQZFVgDkDoBBuGThdWVyB"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 151143,
       "name": "Big Spenders",
       "url": "https://open.spotify.com/track/3ICBNoMJAznVpzlNhEdMvG"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 115200,
       "name": "BLOODLINE",
       "url": "https://open.spotify.com/track/3EqkflivbF639pZxjyl7JN"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 131572,
       "name": "DEAD OR ALIVE",
       "url": "https://open.spotify.com/track/48VY050bKrpgaJM20n8uBS"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 121758,
       "name": "Egodeath",
       "url": "https://open.spotify.com/track/3vsRpvrj5brhZoSQlYl70W"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 175636,
       "name": "GOD OF A DIFFERENT PLANE",
       "url": "https://open.spotify.com/track/7aLFXFk0jTtBjwjosjC596"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
@@ -1763,7 +1763,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 168202,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/5nykfNlQXA0CFJpH0rLDxL"
@@ -1865,10 +1865,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 113944,
       "name": "NoQuestionsAsked",
       "url": "https://open.spotify.com/track/4hu2iYMj7LAlCsEFbcWTrL"
+    },
+    {
+      "album": {
+        "name": "NOTHING",
+        "url": "https://open.spotify.com/album/3CygmOk16boufN92DA7xxR"
+      },
+      "artists": [
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/4kc2vovUnrGOwWgGZFhsuU"
     },
     {
       "album": {
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 125022,
       "name": "OVERPOWER",
       "url": "https://open.spotify.com/track/0NVYHo87E610AvyQ6SUbeE"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 138000,
       "name": "Ragnarok",
       "url": "https://open.spotify.com/track/77iJlK3UBnJ6ifrKHbvtbf"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 111901,
       "name": "SUZUKA",
       "url": "https://open.spotify.com/track/0l1c87dSuIkYxwJlFkWk3y"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 170116,
       "name": "Taido",
       "url": "https://open.spotify.com/track/5Z35FamwW6D2Rkm0tOiFHp"
@@ -2459,7 +2477,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 126062,
       "name": "Team",
       "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 156666,
       "name": "Virtualisis",
       "url": "https://open.spotify.com/track/289lLz63YXI4R3N4xB74G3"

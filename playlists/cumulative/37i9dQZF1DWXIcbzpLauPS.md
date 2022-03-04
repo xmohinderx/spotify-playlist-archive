@@ -2,7 +2,7 @@
 
 ### [New Core](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
-> This is the new core at its finest\. Cover: LANDMVRKS
+> This is the new core at its finest\. Cover: LANDMVRKS & Chunk! No, Captain Chunk!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-17 |  |
 | [Lost](https://open.spotify.com/track/4mWx5WcTcwWqynzuB18mSJ) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Lost](https://open.spotify.com/album/4ikmxObwNxiJxUnaDM4INx) | 3:06 | 2021-12-17 | 2022-02-11 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-17 | 2022-02-11 |
+| [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-03-03 |  |
 | [Make You Believe](https://open.spotify.com/track/2CCw1N2BS2UbzGVXNyN9rB) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Stability](https://open.spotify.com/album/0QKeoyFMQ8UhfVRVvjkFHk) | 3:35 | 2021-12-17 | 2022-02-18 |
 | [Manic](https://open.spotify.com/track/5d0CEohvmvqcizfc0cXn1t) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:44 | 2021-12-17 | 2022-01-08 |
 | [Misguided](https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Avalanche](https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3) | 3:48 | 2022-01-07 |  |
@@ -114,9 +115,10 @@
 | [Second Circle](https://open.spotify.com/track/7xK4zeYArpNpd7U2AuclH7) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Second Circle](https://open.spotify.com/album/0zFSXVpqMcE7m4auGN2Bb6) | 3:33 | 2022-01-14 |  |
 | [Serenity](https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk) | [Viscaya](https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE) | [Serenity](https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA) | 2:39 | 2021-12-17 |  |
 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 | 2022-02-11 |  |
+| [Silence Broken](https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Silence Broken](https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6) | 3:56 | 2022-03-03 |  |
 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 | 2022-01-14 |  |
 | [Smile](https://open.spotify.com/track/4roKpz8Lr3mrTynVrFOD70) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Smile](https://open.spotify.com/album/5KV8G5odPoSh6lflXZTFoO) | 3:42 | 2022-01-21 |  |
-| [Snakebit](https://open.spotify.com/track/0sK8TrIJA5DA9hGATIZ5hi) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Snakebit](https://open.spotify.com/album/7sddZ4tNNHTdwWxwxMGFhy) | 3:12 | 2021-12-17 |  |
+| [Snakebit](https://open.spotify.com/track/0sK8TrIJA5DA9hGATIZ5hi) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Snakebit](https://open.spotify.com/album/7sddZ4tNNHTdwWxwxMGFhy) | 3:12 | 2021-12-17 | 2022-03-04 |
 | [SOMEONE ELSE](https://open.spotify.com/track/71yPnlKcVhY98DayZdUFYH) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [SOMEONE ELSE](https://open.spotify.com/album/77UuardHSldSzZApqo95tt) | 3:26 | 2022-01-21 |  |
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 |  |
 | [Stay Away](https://open.spotify.com/track/0UZlOO9q3e8jxBj724f6oN) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Stay Away](https://open.spotify.com/album/4SLO8o4TkaPVH3OzlsNjNC) | 3:19 | 2021-12-17 | 2022-01-15 |
@@ -139,7 +141,7 @@
 | [The Negative](https://open.spotify.com/track/6dOoxvIbgQq8WhQ2gjndpq) | [Famous Last Words](https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw) | [The Negative](https://open.spotify.com/album/7ecQh8Nhpy5OqsmK7N4rHo) | 3:39 | 2021-12-17 |  |
 | [The Prophet](https://open.spotify.com/track/7hbyBiX9EMUHFwDywq5xbn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Boxes](https://open.spotify.com/album/2WpKNIxZkJGUyJuKsYD306) | 4:16 | 2022-01-14 |  |
 | [The Realm of Chaos \(feat\. Heidi Shepherd\)](https://open.spotify.com/track/2kP5P0M1V8IQnNBkWYzXgM) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY), [Heidi Shepherd](https://open.spotify.com/artist/7JATQ4iReEoimQFZPIjxF5) | [The Realm of Chaos \(feat\. Heidi Shepherd\)](https://open.spotify.com/album/0hspf18kOL8VBd4295NwoL) | 3:44 | 2021-12-17 |  |
-| [The Reaper](https://open.spotify.com/track/1FAdkCRgYItcre3alRBPYP) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [The Reaper](https://open.spotify.com/album/6enwHzKPptFmboSR4sC28C) | 3:27 | 2021-12-17 |  |
+| [The Reaper](https://open.spotify.com/track/1FAdkCRgYItcre3alRBPYP) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [The Reaper](https://open.spotify.com/album/6enwHzKPptFmboSR4sC28C) | 3:27 | 2021-12-17 | 2022-03-04 |
 | [Through Life and Death](https://open.spotify.com/track/3WQBZ03AEnce4fHmLyEcy4) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Through Life and Death](https://open.spotify.com/album/1FSSug8vSM8W1oCR61ZWfA) | 3:46 | 2021-12-17 | 2022-02-18 |
 | [Till We Have Faces](https://open.spotify.com/track/7DVaDiCKKX9I2UonUdDfh1) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Iridescent](https://open.spotify.com/album/3PLHTrAqFD7AjNNqzVZmzr) | 3:46 | 2021-12-17 | 2022-02-11 |
 | [Truly Deprived](https://open.spotify.com/track/2BsTfpWMvFFsCV9RHfdBPJ) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh), [Chad Ruhlig](https://open.spotify.com/artist/3nCpQY8lOa5g72k9tA8tUb) | [Truly Deprived](https://open.spotify.com/album/0qLEtJ5xuUazymrEcHCfHL) | 3:34 | 2021-12-17 | 2022-02-18 |

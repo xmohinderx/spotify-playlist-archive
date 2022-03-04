@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
-> The best French indie tracks right now\. Cover: November Ultra
+> The best French indie tracks right now\. Cover: Canine
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,10 @@
 | [Disco Dream](https://open.spotify.com/track/1hp6svNriVSFySA6rhsI5a) | [Toukan Toukän](https://open.spotify.com/artist/0Zl626Ir5Kr01KWr5OQzRH) | [Disco Dream](https://open.spotify.com/album/1b6F8pUpLMGQ17PXw32uzi) | 3:22 | 2021-12-16 |  |
 | [Distant Calls](https://open.spotify.com/track/1oNo1nhU1nCT7sKLpkXswr) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Distant Calls](https://open.spotify.com/album/0yEtdd4qbenuePDSr2x9GN) | 2:44 | 2021-12-16 |  |
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2021-12-16 |  |
+| [Défense](https://open.spotify.com/track/7ITtdkk4TLqyx8xIPICVAh) | [Oete](https://open.spotify.com/artist/2vcxHSysVXO82YLuahM9pF) | [Défense](https://open.spotify.com/album/0yiBxpaaunfv9G5aMmS2tq) | 3:07 | 2022-03-03 |  |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 |  |
 | [Flashdance](https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Flashdance](https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg) | 3:06 | 2022-01-20 |  |
-| [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 |  |
+| [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
 | [Get to Me](https://open.spotify.com/track/7GsKP7AgvqfNNJw74MhSLF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Leo Fifty Five](https://open.spotify.com/artist/1ytH8uFCe1l9mxfqUUnYMF) | [Get to Me](https://open.spotify.com/album/2RHAob0QwrdOaEw0ZVGHdp) | 3:08 | 2021-12-16 | 2022-01-21 |
 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 | 2022-02-03 |  |
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |

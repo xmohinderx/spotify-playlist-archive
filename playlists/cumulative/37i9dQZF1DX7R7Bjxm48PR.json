@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Dawn Of Day",
+        "url": "https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Seing",
+          "url": "https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244374,
+      "name": "Dawn Of Day",
+      "url": "https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/47xd2MThv6TaiTB7tqYJ28"
       },
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 210000,
       "name": "The Chapel",
       "url": "https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3"
@@ -1809,6 +1827,24 @@
       "duration_ms": 121830,
       "name": "Ti Penso",
       "url": "https://open.spotify.com/track/6I2mlN0j24YN87ke0mAthD"
+    },
+    {
+      "album": {
+        "name": "Tiger Face",
+        "url": "https://open.spotify.com/album/6vRm1JHnsnWFJLtUxwEumf"
+      },
+      "artists": [
+        {
+          "name": "Lyam Roelof",
+          "url": "https://open.spotify.com/artist/64GaFeqfcIl6At2Bpc3fxU"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171656,
+      "name": "Tiger Face",
+      "url": "https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC"
     },
     {
       "album": {
@@ -2093,7 +2129,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 135925,
       "name": "Wistful",
       "url": "https://open.spotify.com/track/63yPgrn1bfyb12gWzUhRvg"

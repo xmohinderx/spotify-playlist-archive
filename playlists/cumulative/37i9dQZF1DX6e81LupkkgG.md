@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6e81LupkkgG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6e81LupkkgG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6e81LupkkgG)
 
-### Friozinho
+### [Friozinho](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 

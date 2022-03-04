@@ -246,6 +246,32 @@
     },
     {
       "album": {
+        "name": "Dilikajele",
+        "url": "https://open.spotify.com/album/7hPYzccCBmseUpYf9vW6Iz"
+      },
+      "artists": [
+        {
+          "name": "Siphesihle Sikhakhane",
+          "url": "https://open.spotify.com/artist/7KrBKyJFrPbKMQtIEaOE5H"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        },
+        {
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/0xJbmjfiVl342AWEo1Ejz1"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283923,
+      "name": "Dilikajele",
+      "url": "https://open.spotify.com/track/6UaixHxytkgIWgCSRiV6lu"
+    },
+    {
+      "album": {
         "name": "dream about you",
         "url": "https://open.spotify.com/album/0Grz9An4utW2oAod9pYBvz"
       },
@@ -602,6 +628,28 @@
     },
     {
       "album": {
+        "name": "Zenzile: The Reimagination of Miriam Makeba",
+        "url": "https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268212,
+      "name": "Jike'lemaweni",
+      "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
+    },
+    {
+      "album": {
         "name": "Kangaka",
         "url": "https://open.spotify.com/album/6PevkShLRYE0WPuFTkxRZd"
       },
@@ -863,7 +911,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 217855,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/3NH3qeBksmipl5oPWWgAYt"
@@ -1019,7 +1067,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 360813,
       "name": "Ndixolele",
       "url": "https://open.spotify.com/track/6HieqEZWOW31zn1AOvpZIc"
@@ -1245,6 +1293,28 @@
       "duration_ms": 233456,
       "name": "Ntliziyo ndise",
       "url": "https://open.spotify.com/track/69nXSKjJvSmWryRxR7Bchn"
+    },
+    {
+      "album": {
+        "name": "Ntokazi",
+        "url": "https://open.spotify.com/album/2CBWOFD0acarYjYz1aaPOL"
+      },
+      "artists": [
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/2rozMGw4WJDWyvAiiupqff"
+        },
+        {
+          "name": "MTB",
+          "url": "https://open.spotify.com/artist/2OX6ctm7zzFiwOBC0fgK2Q"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213665,
+      "name": "Ntokazi",
+      "url": "https://open.spotify.com/track/1cOR2ZdjaTN9Yj0WrlzcvU"
     },
     {
       "album": {
@@ -1541,7 +1611,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 254768,
       "name": "SMS",
       "url": "https://open.spotify.com/track/2TBYp17F3QE4NfkpdY3X1T"

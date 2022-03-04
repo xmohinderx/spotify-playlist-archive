@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086,592 likes - 390 songs - 17 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,086,805 likes - 390 songs - 17 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

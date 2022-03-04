@@ -34,6 +34,28 @@
     },
     {
       "album": {
+        "name": "Aibu",
+        "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137368,
+      "name": "Aibu",
+      "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
+    },
+    {
+      "album": {
         "name": "Asibe Happy",
         "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
       },
@@ -53,10 +75,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 458777,
       "name": "Asibe Happy",
       "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
     },
     {
       "album": {
@@ -78,6 +122,28 @@
     },
     {
       "album": {
+        "name": "Bad n Rude (feat. WSTRN)",
+        "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "Bad n Rude (feat. WSTRN)",
+      "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
+    },
+    {
+      "album": {
         "name": "PANDEMIC",
         "url": "https://open.spotify.com/album/4DTPlpehe0NPh3hFqMOAgS"
       },
@@ -89,7 +155,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 184686,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3ku51L937DfBoNcU9hmDQy"
@@ -405,7 +471,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 182500,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6W79tvE9ZPzHtV2wPwwGUT"
@@ -561,7 +627,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
@@ -587,10 +653,32 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 253043,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L"
+    },
+    {
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
     },
     {
       "album": {
@@ -613,7 +701,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
@@ -653,7 +741,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
@@ -733,7 +821,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi"
@@ -777,7 +865,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 195918,
       "name": "Hold Me (feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/3gGMQjGXwLgxkSIMgYLNoG"
@@ -839,7 +927,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 174587,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby"
@@ -963,7 +1051,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 167142,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC"
@@ -1163,7 +1251,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 187300,
       "name": "Ojuju",
       "url": "https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e"
@@ -1361,7 +1449,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 198060,
       "name": "Proud",
       "url": "https://open.spotify.com/track/5nFI3AUINDSps2nrVk0JCs"
@@ -1485,7 +1573,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "SABABISHA",
       "url": "https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ"
@@ -1503,7 +1591,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "SAD TONIGHT",
       "url": "https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2"
@@ -1739,7 +1827,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 166943,
       "name": "Stayelo",
       "url": "https://open.spotify.com/track/6zoxyLUVHnpdED14Chbaz9"
@@ -1757,7 +1845,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 223260,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s"
@@ -1811,7 +1899,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 154000,
       "name": "S\u00e1r\u00e9",
       "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"

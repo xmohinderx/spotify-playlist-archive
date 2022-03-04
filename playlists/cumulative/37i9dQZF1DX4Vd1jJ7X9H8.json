@@ -41,7 +41,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 308546,
       "name": "19.10",
       "url": "https://open.spotify.com/track/5X4R93Qcw54yp9Utwy7Mlr"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 142186,
       "name": "BOY BYE",
       "url": "https://open.spotify.com/track/6e7hIhOLH9zvb3zP5O5gt0"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 164605,
       "name": "damn Right",
       "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 150322,
       "name": "DITTO",
       "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 197276,
       "name": "Don't Be Afraid - Blu DeTiger Remix",
       "url": "https://open.spotify.com/track/0t1ba5M0QkP1Jh1rg3BKCk"
@@ -535,10 +535,28 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 209800,
       "name": "Don't Need You - Remix",
       "url": "https://open.spotify.com/track/2q417j6tLiesXGaLg3moek"
+    },
+    {
+      "album": {
+        "name": "ROADRUNNER: NEW LIGHT, NEW MACHINE",
+        "url": "https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "DON'T SHOOT UP THE PARTY",
+      "url": "https://open.spotify.com/track/3X0Tof7fViQGV95EKIY5x1"
     },
     {
       "album": {
@@ -553,7 +571,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 196422,
       "name": "Gimme Love - Channel Tres Remix",
       "url": "https://open.spotify.com/track/45rFdiqdK7xjGb287C06bY"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 217813,
       "name": "Go To Town",
       "url": "https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 198626,
       "name": "Gospel For A New Century",
       "url": "https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 159652,
       "name": "HEAVY METAL",
       "url": "https://open.spotify.com/track/1j6zEnDOTIRJhBhknrd86m"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 195999,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/2a7A7T4zjoK1UxzlMLsAzQ"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 262333,
       "name": "I Feel High (with L'Imp\u00e9ratrice)",
       "url": "https://open.spotify.com/track/4OMmBb1DjcGzGGuWQ9BrEa"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 187466,
       "name": "Krunk",
       "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/0M4GK1taHqdIOuvXnEJFiw"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 240052,
       "name": "Lost - Spotify Singles",
       "url": "https://open.spotify.com/track/6n8BEYxCJbdxiu3m3QU7v5"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 172831,
       "name": "Right Where You Like",
       "url": "https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/6Vo8KwBWXiKwHa4bz4XWht"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 199240,
       "name": "t r a n s p a r e n t s o u l feat. Kid Cudi & Travis Barker - Remix",
       "url": "https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/286TLtk120rnrmVeQClDTc"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"

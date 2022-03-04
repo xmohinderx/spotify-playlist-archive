@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Halle Kearns, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,406 likes - 110 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,464 likes - 110 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

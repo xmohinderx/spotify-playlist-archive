@@ -218,6 +218,28 @@
     },
     {
       "album": {
+        "name": "Amor Sin Fin",
+        "url": "https://open.spotify.com/album/5w2gLlKerWKANqewZy3xQ2"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174342,
+      "name": "Amor Sin Fin",
+      "url": "https://open.spotify.com/track/7EnWJlSBcWiws1VBHsWr3k"
+    },
+    {
+      "album": {
         "name": "Prop\u00f3sito",
         "url": "https://open.spotify.com/album/2b6QptlVHPdIENz4lq7GY3"
       },
@@ -303,7 +325,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 423893,
       "name": "Bendita Esperanza - Live",
       "url": "https://open.spotify.com/track/1zadQBdLuwX58zNfMTqCjW"
@@ -369,7 +391,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 225980,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4G7MGVRhu0RvXX1m31TbjB"
@@ -441,7 +463,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 192036,
       "name": "Cotizate",
       "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
@@ -575,7 +597,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 186250,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/6EGduvmEGHgdF3fHYPuUvj"
@@ -633,7 +655,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
@@ -801,7 +823,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 234442,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/6c3ZMG6GLz5AikyyfE0geV"
@@ -1037,7 +1059,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 160695,
       "name": "Lleg\u00f3 el Culto",
       "url": "https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse"
@@ -1113,10 +1135,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 157100,
       "name": "Los Bendigo",
       "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+    },
+    {
+      "album": {
+        "name": "Manada",
+        "url": "https://open.spotify.com/album/0ZL7kzDvNRkEAc8Co51xue"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213437,
+      "name": "Manada",
+      "url": "https://open.spotify.com/track/5Pde1RKCdQ5mfAYNQVeC56"
     },
     {
       "album": {
@@ -1193,6 +1233,24 @@
       "duration_ms": 361415,
       "name": "Mi adoraci\u00f3n (Versi\u00f3n en vivo)",
       "url": "https://open.spotify.com/track/6Jl47TqgViFiFgwrQlJssV"
+    },
+    {
+      "album": {
+        "name": "Yvonne Mu\u00f1oz (En Vivo)",
+        "url": "https://open.spotify.com/album/1dQ66Y48A74CIeNveBg2N0"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493920,
+      "name": "Mi Ayuda - En Vivo",
+      "url": "https://open.spotify.com/track/7h8ZLklXyToWGYEgUmfits"
     },
     {
       "album": {
@@ -1601,7 +1659,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 249931,
       "name": "Preciosa",
       "url": "https://open.spotify.com/track/5bsCMB1HUyN9HrqQKMItxy"
@@ -1699,7 +1757,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 229565,
       "name": "Rap Alto Calibre",
       "url": "https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI"
@@ -1845,7 +1903,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 173118,
       "name": "Siempre Ha Estado Aqui",
       "url": "https://open.spotify.com/track/09GnpJ8bUqNfdW8CxnkoQa"
@@ -2154,6 +2212,24 @@
     },
     {
       "album": {
+        "name": "Vamos a Celebrar",
+        "url": "https://open.spotify.com/album/2h3imNmOCzaPhTr3EiQAdK"
+      },
+      "artists": [
+        {
+          "name": "Jeff Mojica",
+          "url": "https://open.spotify.com/artist/1LGZGN1qiHt1HtNHJ0nGBg"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273848,
+      "name": "Vamos a Celebrar",
+      "url": "https://open.spotify.com/track/7Bafk0VDGDsuZtWkro0isd"
+    },
+    {
+      "album": {
         "name": "Vasija",
         "url": "https://open.spotify.com/album/299c1rOPC9htZeiFS5eS97"
       },
@@ -2165,7 +2241,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 224136,
       "name": "Vasija",
       "url": "https://open.spotify.com/track/4U1rtbu9BX7uRjRXWS30Oc"
@@ -2183,7 +2259,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 144155,
       "name": "Veintiuno",
       "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"

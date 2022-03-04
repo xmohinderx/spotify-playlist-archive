@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 250360,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/2wW4EFIT9UMtWzF9vvvYUT"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
@@ -139,6 +139,24 @@
       "duration_ms": 256959,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/5dKUiinZmJFbuddlPxATvb"
+    },
+    {
+      "album": {
+        "name": "Timeless... The Musical Legacy",
+        "url": "https://open.spotify.com/album/3LHsYnmWGhMVNgu2hYKDTG"
+      },
+      "artists": [
+        {
+          "name": "Badfinger",
+          "url": "https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "Apple Of My Eye - Remastered 2010",
+      "url": "https://open.spotify.com/track/4RhvsfJ7Q96OG3MXDFwZMM"
     },
     {
       "album": {
@@ -225,7 +243,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 306160,
       "name": "Don't Wanna Dream",
       "url": "https://open.spotify.com/track/4zZQui75nGBwCxq6DiJC18"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 230826,
       "name": "Fly High Michelle",
       "url": "https://open.spotify.com/track/6wUR8lnkxuQUeHa0rJOolR"
@@ -337,10 +355,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+    },
+    {
+      "album": {
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
     },
     {
       "album": {
@@ -391,7 +427,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 335872,
       "name": "Goodbye to Romance",
       "url": "https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R"
@@ -470,6 +506,24 @@
     },
     {
       "album": {
+        "name": "Private Eyes",
+        "url": "https://open.spotify.com/album/60f00wYSgef6dPaJbo2lf1"
+      },
+      "artists": [
+        {
+          "name": "T. Bolin",
+          "url": "https://open.spotify.com/artist/4HkDdO7DHcjbuDibTPb7Dd"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Hello, Again",
+      "url": "https://open.spotify.com/track/6KdQTIVUmKRlMsQcC0pmbS"
+    },
+    {
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/0h43h6cTsAOVeKLlFe028n"
       },
@@ -481,7 +535,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 235826,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/2HHF8es4MShLvMiDgOq3Z5"
@@ -571,7 +625,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 288266,
       "name": "I Don't Want to Talk About It - 2008 Remaster",
       "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
@@ -741,7 +795,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 161333,
       "name": "In The Heat Of The Morning",
       "url": "https://open.spotify.com/track/2pAm0eho3UtxAK1bsRuOK7"
@@ -777,7 +831,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 265200,
       "name": "Just Take My Heart",
       "url": "https://open.spotify.com/track/36xlzCtJPntK4Sf5jJbL6r"
@@ -795,7 +849,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 286360,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/2owpdFd1qqSSe6TEzceXpc"
@@ -831,7 +885,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 254280,
       "name": "Love Games",
       "url": "https://open.spotify.com/track/2mfKAAdM92yhvcGWwgJe5I"
@@ -849,7 +903,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 278093,
       "name": "Love Kills - Remastered",
       "url": "https://open.spotify.com/track/23DpTSrlyQCkjG8qChwWX6"
@@ -910,6 +964,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/6wuCuP3gzn07DdWeQgBwtl"
+      },
+      "artists": [
+        {
+          "name": "Shakra",
+          "url": "https://open.spotify.com/artist/3uDNdt0Zy8VcTK2vvFghyM"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201880,
+      "name": "Make It Alright",
+      "url": "https://open.spotify.com/track/43CuVJWAYGGaAYhihhOadT"
+    },
+    {
+      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -921,7 +993,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 269760,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
@@ -1072,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "Bad Company (Deluxe)",
+        "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299826,
+      "name": "Ready for Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/08JVaI77aIffN0wNjTOG4b"
+    },
+    {
+      "album": {
         "name": "Brigade",
         "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
@@ -1101,7 +1191,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 277173,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD"
@@ -1119,7 +1209,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
@@ -1195,7 +1285,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 364840,
       "name": "Tearin' out My Heart",
       "url": "https://open.spotify.com/track/5iwUFLCSCDr1PNBMNIK708"
@@ -1307,7 +1397,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 177546,
       "name": "Today",
       "url": "https://open.spotify.com/track/0yLfXULLuRtVj2L4DIrwO7"
@@ -1325,7 +1415,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 256486,
       "name": "Two Steps Behind - String / Acoustic Version",
       "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
@@ -1433,7 +1523,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 252600,
       "name": "Will You Still Love Me? - 2003 Remaster",
       "url": "https://open.spotify.com/track/3dn6qXlHYAQpOqMTWxkGOR"

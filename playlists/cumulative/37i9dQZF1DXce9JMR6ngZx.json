@@ -2,8 +2,32 @@
   "date_first_scraped": "2022-03-02",
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
   "name": "Faxina Nostalgia",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "73bheCpyPrjxP58pmAp2Qf"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb"
+    },
     {
       "album": {
         "name": "The Innocents",
@@ -107,7 +131,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
@@ -233,7 +257,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 256519,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
@@ -269,7 +293,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
@@ -377,7 +401,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 255133,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
@@ -633,7 +657,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
@@ -723,7 +747,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
@@ -785,6 +809,24 @@
       "duration_ms": 310760,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
+    },
+    {
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "album": {
@@ -1253,7 +1295,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 268533,
       "name": "Papa Don't Preach",
       "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
@@ -1675,6 +1717,24 @@
       "duration_ms": 195066,
       "name": "Toda Forma De Poder",
       "url": "https://open.spotify.com/track/0FcYoRbrZ9eR2bc5nw6feN"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/1CuFf5IslmlCno7DAFjrt9"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269786,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o"
     },
     {
       "album": {

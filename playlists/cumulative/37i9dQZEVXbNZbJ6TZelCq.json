@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/5ymFsfuMVDuG43ksIqCohv"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 97391,
       "name": "BULIBA$HA",
       "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
@@ -3319,7 +3319,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 167437,
       "name": "ENZO FERRARI 2",
       "url": "https://open.spotify.com/track/2ZHK4gSu60cnRhPpIYDsJN"
@@ -4348,6 +4348,28 @@
     },
     {
       "album": {
+        "name": "Hai s\u0103 uit\u0103m de tot",
+        "url": "https://open.spotify.com/album/0r5ZXswqgbckBYsENIDodm"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "KARLA",
+          "url": "https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177324,
+      "name": "Hai s\u0103 uit\u0103m de tot",
+      "url": "https://open.spotify.com/track/5sIwSZndmAG67GjgquvaHz"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -5061,7 +5083,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 187943,
       "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
@@ -10717,7 +10739,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 204360,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/7KRQ39f9CalfpVUExN71ep"

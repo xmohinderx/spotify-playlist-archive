@@ -1850,6 +1850,24 @@
     },
     {
       "album": {
+        "name": "Wherever You Will Go",
+        "url": "https://open.spotify.com/album/6XwTT0vu0yqGtN4NVoC7HI"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/0kQcWJTOfbktGHPEN0Gaa3"
+    },
+    {
+      "album": {
         "name": "Wrecking Ball (Acoustic)",
         "url": "https://open.spotify.com/album/14v8SrlIVSEbVNcDcAylp9"
       },

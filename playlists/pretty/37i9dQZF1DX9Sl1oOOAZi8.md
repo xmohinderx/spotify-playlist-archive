@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sl1oOOAZi8.md) - [plain]
 
 > El mix perfecto para tu rutina de yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,632 likes - 106 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,640 likes - 106 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

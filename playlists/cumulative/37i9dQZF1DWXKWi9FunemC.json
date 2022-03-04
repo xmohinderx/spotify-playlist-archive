@@ -203,7 +203,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 216436,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 277083,
       "name": "Heavenly Things",
       "url": "https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 250750,
       "name": "Home (GCM Sinai Sessions) - Live",
       "url": "https://open.spotify.com/track/38hnWg98FJs2UyoS5ZZOuS"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 387536,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 207893,
       "name": "Just Give Me Jesus",
       "url": "https://open.spotify.com/track/2TkU9jzogblGW1Dv3G7SIo"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 220500,
       "name": "Life + Love",
       "url": "https://open.spotify.com/track/0eZRFLKgFUYCioeKA8dFPA"
@@ -1054,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB"
+      },
+      "artists": [
+        {
+          "name": "Andrea Marie",
+          "url": "https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q"
+    },
+    {
+      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 437188,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D"
@@ -1633,10 +1651,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+    },
+    {
+      "album": {
+        "name": "Teach Us That One Song",
+        "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
     },
     {
       "album": {
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 289315,
       "name": "The Word Remains",
       "url": "https://open.spotify.com/track/5PfYj5wpkr3whpuydlL5pR"
@@ -1869,7 +1905,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 296000,
       "name": "Who May Ascend",
       "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
@@ -2039,7 +2075,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 142800,
       "name": "You Can Close Your Eyes (feat. William Fitzsimmons) [Bonus Track]",
       "url": "https://open.spotify.com/track/0mSZtpdHUYbrfe2f4HJPzO"

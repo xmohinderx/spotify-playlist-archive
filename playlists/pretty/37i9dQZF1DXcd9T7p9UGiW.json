@@ -1,32 +1,116 @@
 {
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=rQ4iaq7RS6KDTd1AWapuCg\"> KiDi </a> and <a href=\"https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp?si=z2UKiI-KRm-9cPEo6NUf_Q\"> Tyga </a>",
-  "num_followers": 2395,
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=Vgpr7tHjS2CfggGsb8UGag\"> Omah Lay </a> and <a href=\"https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s?si=l5tN5gNgRtCgrL9oBiQSsA\"> Justice Beiber </a>",
+  "num_followers": 2399,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc0MzYwMCwwMDAwMDAxMTAwMDAwMTdmMmRmNjcyNTMwMDAwMDE3ZjA3OTlhZGI1",
+  "snapshot_id": "MTY0NjM0ODUyMCwwMDAwMDAxMjAwMDAwMTdmNTIwNGNhYzMwMDAwMDE3ZjRlNjQ3MmNm",
   "tracks": [
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
+        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
+      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "duration_ms": 222529,
+      "name": "ALREADY",
+      "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "APOLLO",
+        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 179461,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171538,
+      "name": "DEADMAN BONE (feat. Koffee)",
+      "url": "https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -49,6 +133,90 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192417,
+      "name": "Fountains (with Tems)",
+      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+    },
+    {
+      "added_at": "2022-01-13 23:01:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Frozen (Fireboy DML Remix)",
+        "url": "https://open.spotify.com/album/2W8p1cjyw4IOMLQXhiAdiF"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Frozen - Fireboy DML Remix",
+      "url": "https://open.spotify.com/track/6LDZVinkfCfaBtqOMF1lSA"
+    },
+    {
       "added_at": "2022-02-17 23:01:00",
       "album": {
         "name": "Touch It (Remix)",
@@ -67,6 +235,74 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -141,6 +377,46 @@
       "url": "https://open.spotify.com/track/2RYmAXiYFHOPVsPuk8ae5u"
     },
     {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Reason to Smile",
+        "url": "https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC"
+      },
+      "artists": [
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Talkin (feat. Kelis & Tiana Major9)",
+      "url": "https://open.spotify.com/track/6P5LVi6q3YgQdM7Zi6b8yR"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "L\u00d6V",
@@ -163,6 +439,46 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
+        "name": "Simmer (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Bad n Rude (feat. WSTRN)",
+        "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        }
+      ],
+      "duration_ms": 226019,
+      "name": "Bad n Rude (feat. WSTRN)",
+      "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -181,28 +497,224 @@
       "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+        "name": "Vroom (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "The FaNaTiX",
+          "url": "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         },
         {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
         }
       ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+      "duration_ms": 237983,
+      "name": "Vroom - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
+    },
+    {
+      "added_at": "2022-02-11 13:07:23",
+      "album": {
+        "name": "Summer in the Ends (Juls Zikomo Remix)",
+        "url": "https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Zikomo",
+          "url": "https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 225267,
+      "name": "Summer in the Ends - Juls Zikomo Remix",
+      "url": "https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Most Original",
+        "url": "https://open.spotify.com/album/7BKXZnvaIctioOfG7S6S9I"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 209945,
+      "name": "Most Original",
+      "url": "https://open.spotify.com/track/0zU9AIa27k16Awi5keku5L"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "The Prelude (Gwanga Mujje)",
+        "url": "https://open.spotify.com/album/331rvKR8ffkyjMXt1oD52X"
+      },
+      "artists": [
+        {
+          "name": "hummerhummer",
+          "url": "https://open.spotify.com/artist/77MBNlDseOmqVvt840PCbZ"
+        },
+        {
+          "name": "dj nice",
+          "url": "https://open.spotify.com/artist/6WAxWfMv91EmPZvEYCGgBo"
+        },
+        {
+          "name": "Tasiah",
+          "url": "https://open.spotify.com/artist/5gomCK3rJZdodsC6FhL5cR"
+        }
+      ],
+      "duration_ms": 237965,
+      "name": "Uyasabela",
+      "url": "https://open.spotify.com/track/33wR3ow7s735Ws50VElp7P"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Peru (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 149752,
+      "name": "Peru - R3HAB Remix",
+      "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Spirit (feat. Wale)",
+        "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 253178,
+      "name": "Spirit (feat. Wale)",
+      "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Multitude",
+        "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Fils de joie",
+      "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "My Oasis (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 179916,
+      "name": "My Oasis (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 155366,
+      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -305,26 +817,6 @@
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
-      "added_at": "2022-01-13 23:01:00",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
-    },
-    {
       "added_at": "2022-01-20 23:00:00",
       "album": {
         "name": "Truth Be Told",
@@ -411,26 +903,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
-        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
-      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
       },
@@ -447,26 +919,6 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -607,50 +1059,6 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 222529,
-      "name": "ALREADY",
-      "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 155366,
-      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -913,26 +1321,6 @@
       "url": "https://open.spotify.com/track/31EkvbGV7cdXZgUt4gbtlK"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192417,
-      "name": "Fountains (with Tems)",
-      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
-    },
-    {
       "added_at": "2022-01-13 23:01:00",
       "album": {
         "name": "CAPRISONGS",
@@ -951,26 +1339,6 @@
       "duration_ms": 159666,
       "name": "jealousy (feat. rema)",
       "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "My Oasis (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 179916,
-      "name": "My Oasis (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1035,26 +1403,6 @@
       "duration_ms": 205640,
       "name": "Play Play (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Most Original",
-        "url": "https://open.spotify.com/album/7BKXZnvaIctioOfG7S6S9I"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 209945,
-      "name": "Most Original",
-      "url": "https://open.spotify.com/track/0zU9AIa27k16Awi5keku5L"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1231,26 +1579,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "Simmer (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Simmer (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "EDNA (Deluxe)",
         "url": "https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP"
       },
@@ -1289,26 +1617,6 @@
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Spirit (feat. Wale)",
-        "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 253178,
-      "name": "Spirit (feat. Wale)",
-      "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
-    },
-    {
       "added_at": "2022-02-17 23:01:00",
       "album": {
         "name": "Arrested by Love",
@@ -1327,42 +1635,6 @@
       "duration_ms": 180000,
       "name": "DO ME JEJE",
       "url": "https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "APOLLO",
-        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 179461,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1471,30 +1743,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "COMO UN BEB\u00c9",
-      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
       },
@@ -1511,30 +1759,6 @@
       "duration_ms": 134000,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0MURF0yjHOChxkrlUrLQWk"
-    },
-    {
-      "added_at": "2022-02-11 13:07:23",
-      "album": {
-        "name": "Summer in the Ends (Juls Zikomo Remix)",
-        "url": "https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Zikomo",
-          "url": "https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 225267,
-      "name": "Summer in the Ends - Juls Zikomo Remix",
-      "url": "https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn"
     },
     {
       "added_at": "2022-01-13 23:01:00",

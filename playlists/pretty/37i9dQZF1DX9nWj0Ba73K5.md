@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Tom Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,614 likes - 180 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,686 likes - 180 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 82 | [Still Not over You](https://open.spotify.com/track/733l03FgEyPyOORfxExyyN) | [Brinley Addington](https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb) | [Still Not over You](https://open.spotify.com/album/1fdvxTdyKVqhBj1dDa8Pl7) | 3:07 |
 | 83 | [Either](https://open.spotify.com/track/2OWHy2piQ5aamjenrRKkQi) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:00 |
 | 84 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
-| 85 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/17E5XweAlvnU7pkghMgvMs) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:19 |
+| 85 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/17E5XweAlvnU7pkghMgvMs) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:19 |
 | 86 | [Southern Soul](https://open.spotify.com/track/4Mp3u4Eawj9RUbcp8PgAh7) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Southern Soul](https://open.spotify.com/album/5YItoXImsusUsEHDLbj1sM) | 3:32 |
 | 87 | [Galveston](https://open.spotify.com/track/00m0MStA0s0ciZ1lgYahEn) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Ten Easy Pieces](https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL) | 4:48 |
 | 88 | [Female](https://open.spotify.com/track/7ARueeihDPgLLgxPbUeuym) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:08 |

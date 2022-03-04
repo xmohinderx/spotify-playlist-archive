@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "1PLIK\u00c9140 au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 105681,
       "name": "Leo Messi",
       "url": "https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B"
@@ -731,6 +731,24 @@
       "duration_ms": 183133,
       "name": "Mon poto - Extrait de la BO de \u00ab En Passant P\u00e9cho \u00bb",
       "url": "https://open.spotify.com/track/1SelxYHPb04GjUy0oYV1Jw"
+    },
+    {
+      "album": {
+        "name": "Mozart Capitaine Jackson (Episode 2)",
+        "url": "https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Mozart Capitaine Jackson (Episode 2)",
+      "url": "https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98"
     },
     {
       "album": {

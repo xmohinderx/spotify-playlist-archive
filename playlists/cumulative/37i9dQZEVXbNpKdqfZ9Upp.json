@@ -274,6 +274,24 @@
     },
     {
       "album": {
+        "name": "TRAP CAKE VOL. 2",
+        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/3Fm7EFSuLlW8KqWTPIYLZH"
+    },
+    {
+      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -429,7 +447,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 318591,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 173333,
       "name": "INTERESTELAR",
       "url": "https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "No se habla de Bruno",
       "url": "https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 171384,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
@@ -2025,6 +2043,24 @@
       "duration_ms": 175542,
       "name": "Soy El Raton",
       "url": "https://open.spotify.com/track/6VUtRAE5fkJQfWqFhEWy1H"
+    },
+    {
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "album": {
@@ -2247,7 +2283,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"

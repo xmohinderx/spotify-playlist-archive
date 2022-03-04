@@ -2,7 +2,7 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Aylo
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Mathea
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-01-06 |  |
 | [Fucked Up.](https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Fucked Up.](https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx) | 2:27 | 2022-02-24 |  |
 | [Fuji](https://open.spotify.com/track/7wXakijrSKkpvrdPYwJr7t) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Fuji](https://open.spotify.com/album/29spAqjN7v2hmQHoHMU7z1) | 2:28 | 2021-12-16 |  |
+| [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 | 2022-03-03 |  |
 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 | 2021-12-16 |  |
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 |  |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-12-16 |  |
@@ -55,7 +56,7 @@
 | [New Era](https://open.spotify.com/track/3qhW02v4Yo6d5lPhxE6iZb) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [New Era EP](https://open.spotify.com/album/49LqNtUITrajPTnpwyC8tA) | 3:41 | 2021-12-16 |  |
 | [Okay](https://open.spotify.com/track/15aRDEzbB28Sn1Dp2gBG9x) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Okay](https://open.spotify.com/album/4N1IM89g7pW1RuI6rJRe6N) | 3:04 | 2021-12-16 |  |
 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 | 2021-12-16 |  |
-| [Paris](https://open.spotify.com/track/7EccqOi4GK8kASKFnZsdla) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Paris](https://open.spotify.com/album/5hlFHVDj6WhfEvqCf50n2V) | 2:40 | 2021-12-16 |  |
+| [Paris](https://open.spotify.com/track/7EccqOi4GK8kASKFnZsdla) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Paris](https://open.spotify.com/album/5hlFHVDj6WhfEvqCf50n2V) | 2:40 | 2021-12-16 | 2022-03-04 |
 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 | 2021-12-16 |  |
 | [Run](https://open.spotify.com/track/3BZrNbP0EHxvdrB0MOM4Qi) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Run](https://open.spotify.com/album/1YhYELd70GE5d42z8mTz5U) | 2:25 | 2021-12-16 |  |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-16 |  |

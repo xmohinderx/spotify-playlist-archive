@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTQ1Myw0NTIyNzRhMzMxMzg3YzNmMmE0MmY4OTIyMzExN2ViZGIwM2I0ODll",
+  "snapshot_id": "NTQ1NCw4ZTk0MGE1MmY5N2I3M2JkNTAxNzI0MTc4YjI1MDFmMzNhZmZmMDlj",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -689,6 +689,26 @@
       "url": "https://open.spotify.com/track/53EsDQghnk9rdBelvhDGH7"
     },
     {
+      "added_at": "2021-08-06 13:10:05",
+      "album": {
+        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
+        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Nunc gaudeant materna viscera (Antiphona)",
+      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
+    },
+    {
       "added_at": "2018-08-01 14:20:34",
       "album": {
         "name": "Music of the Crusades",
@@ -719,26 +739,6 @@
     {
       "added_at": "2021-08-06 13:10:05",
       "album": {
-        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
-        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Nunc gaudeant materna viscera (Antiphona)",
-      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
-    },
-    {
-      "added_at": "2021-08-06 13:10:05",
-      "album": {
         "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
         "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 600373,
       "name": "Pres du soloil deduissant s\u2019esbanoye",
       "url": "https://open.spotify.com/track/63BgaB61VpsJDbhEjLbONE"
-    },
-    {
-      "added_at": "2020-12-18 11:04:07",
-      "album": {
-        "name": "Neidhart Von Reuental: Vocal Music",
-        "url": "https://open.spotify.com/album/3HMuLkErtTr38rovup48C1"
-      },
-      "artists": [
-        {
-          "name": "Neidhart von Reuental",
-          "url": "https://open.spotify.com/artist/5LtSeo1WugzhhajRXZPM8r"
-        },
-        {
-          "name": "Augsburg Early Music Ensemble",
-          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
-        }
-      ],
-      "duration_ms": 183840,
-      "name": "Meye dein / lichter schein",
-      "url": "https://open.spotify.com/track/1mXAnR8YNczHqhMjxp1okx"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -807,6 +787,26 @@
       "duration_ms": 392693,
       "name": "Es f\u00fcgt sich: I, II, III",
       "url": "https://open.spotify.com/track/4ajflaxFtD9PiWBCn7A64v"
+    },
+    {
+      "added_at": "2020-12-18 11:04:07",
+      "album": {
+        "name": "Neidhart Von Reuental: Vocal Music",
+        "url": "https://open.spotify.com/album/3HMuLkErtTr38rovup48C1"
+      },
+      "artists": [
+        {
+          "name": "Neidhart von Reuental",
+          "url": "https://open.spotify.com/artist/5LtSeo1WugzhhajRXZPM8r"
+        },
+        {
+          "name": "Augsburg Early Music Ensemble",
+          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
+        }
+      ],
+      "duration_ms": 183840,
+      "name": "Meye dein / lichter schein",
+      "url": "https://open.spotify.com/track/1mXAnR8YNczHqhMjxp1okx"
     },
     {
       "added_at": "2022-01-14 14:47:21",
@@ -1873,6 +1873,46 @@
       "url": "https://open.spotify.com/track/0O7ppHNGGXYrs5Uq7uSlYf"
     },
     {
+      "added_at": "2022-02-18 14:09:15",
+      "album": {
+        "name": "The Cantigas of Santa Maria of Alfonso X",
+        "url": "https://open.spotify.com/album/0shYPUy5PjhvDyHv2krtzW"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Martin Best Ensemble",
+          "url": "https://open.spotify.com/artist/07vXqjdaQ0h9gf4feUmZUV"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "Rose Of All Roses",
+      "url": "https://open.spotify.com/track/7289RJOEEm27R6KkyQc7vP"
+    },
+    {
+      "added_at": "2022-02-04 20:29:44",
+      "album": {
+        "name": "Danze Strumentali Medievali Italiane, Vol. 2",
+        "url": "https://open.spotify.com/album/2Mq1pFTrbBvu796ijfH1wP"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Anima Mundi Consort",
+          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
+        }
+      ],
+      "duration_ms": 385013,
+      "name": "Belicha [Additional 29987]",
+      "url": "https://open.spotify.com/track/550rfA0AE6Mw2xFRvlKYt4"
+    },
+    {
       "added_at": "2021-06-11 12:46:55",
       "album": {
         "name": "Nuits occitanes: Troubadours' Songs",
@@ -1901,26 +1941,6 @@
       "url": "https://open.spotify.com/track/36xDYf88zslnCP1vmU9zuK"
     },
     {
-      "added_at": "2022-02-04 20:29:44",
-      "album": {
-        "name": "Danze Strumentali Medievali Italiane, Vol. 2",
-        "url": "https://open.spotify.com/album/2Mq1pFTrbBvu796ijfH1wP"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Anima Mundi Consort",
-          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
-        }
-      ],
-      "duration_ms": 385013,
-      "name": "Belicha [Additional 29987]",
-      "url": "https://open.spotify.com/track/550rfA0AE6Mw2xFRvlKYt4"
-    },
-    {
       "added_at": "2021-09-17 14:08:49",
       "album": {
         "name": "The Unicorn (Apex)",
@@ -1939,26 +1959,6 @@
       "duration_ms": 199493,
       "name": "Moniot de Paris : \"Je chevauchoie l'autrier\"",
       "url": "https://open.spotify.com/track/2PfXTMv2JZhbErEG7WGs2J"
-    },
-    {
-      "added_at": "2022-02-18 14:09:15",
-      "album": {
-        "name": "The Cantigas of Santa Maria of Alfonso X",
-        "url": "https://open.spotify.com/album/0shYPUy5PjhvDyHv2krtzW"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Martin Best Ensemble",
-          "url": "https://open.spotify.com/artist/07vXqjdaQ0h9gf4feUmZUV"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "Rose Of All Roses",
-      "url": "https://open.spotify.com/track/7289RJOEEm27R6KkyQc7vP"
     },
     {
       "added_at": "2018-02-28 02:40:55",
@@ -3217,26 +3217,6 @@
       "url": "https://open.spotify.com/track/1XYTLJo68ZANYkLqfW824t"
     },
     {
-      "added_at": "2021-10-15 12:57:39",
-      "album": {
-        "name": "The Art of Courtly Love",
-        "url": "https://open.spotify.com/album/70KRmPaErTPC0sUTPWpE7U"
-      },
-      "artists": [
-        {
-          "name": "Matteo da Perugia",
-          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
-        },
-        {
-          "name": "David Munrow",
-          "url": "https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Da Perugia: La greygnour bien",
-      "url": "https://open.spotify.com/track/0cxbQqHg35BQ0X7lVOhkfE"
-    },
-    {
       "added_at": "2021-08-06 13:10:05",
       "album": {
         "name": "Venecie mundi splendor: Marvels of Medieval Venice (Music for the Doges, 1330-1430)",
@@ -3259,6 +3239,26 @@
       "duration_ms": 234213,
       "name": "Carminibus festos / O requies populi",
       "url": "https://open.spotify.com/track/4nhVTjcyDIrN4bC5LThEwA"
+    },
+    {
+      "added_at": "2021-10-15 12:57:39",
+      "album": {
+        "name": "The Art of Courtly Love",
+        "url": "https://open.spotify.com/album/70KRmPaErTPC0sUTPWpE7U"
+      },
+      "artists": [
+        {
+          "name": "Matteo da Perugia",
+          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
+        },
+        {
+          "name": "David Munrow",
+          "url": "https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Da Perugia: La greygnour bien",
+      "url": "https://open.spotify.com/track/0cxbQqHg35BQ0X7lVOhkfE"
     },
     {
       "added_at": "2020-09-11 10:54:29",
@@ -4833,6 +4833,26 @@
       "url": "https://open.spotify.com/track/4tLSNHWJkerM4NZsbZMBvc"
     },
     {
+      "added_at": "2021-08-06 13:10:05",
+      "album": {
+        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
+        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 555466,
+      "name": "O dulcissime amator (Symphonia virginum)",
+      "url": "https://open.spotify.com/track/3XxphHH0vu2X6eM3g2zDG5"
+    },
+    {
       "added_at": "2021-04-30 13:53:28",
       "album": {
         "name": "Wanderers' Voices - Medieval Cantigas & Minnesang",
@@ -4855,26 +4875,6 @@
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t (Minnes\u00e4nger, Holy Roman Empire, 13th c.)",
       "url": "https://open.spotify.com/track/67QyZjpmfEh6m2YJxzB9Lt"
-    },
-    {
-      "added_at": "2021-08-06 13:10:05",
-      "album": {
-        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
-        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 555466,
-      "name": "O dulcissime amator (Symphonia virginum)",
-      "url": "https://open.spotify.com/track/3XxphHH0vu2X6eM3g2zDG5"
     },
     {
       "added_at": "2020-12-04 11:40:54",

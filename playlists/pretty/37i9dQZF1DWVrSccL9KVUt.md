@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music! Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,748 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,825 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

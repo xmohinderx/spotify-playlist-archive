@@ -2506,6 +2506,32 @@
     },
     {
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154151,
+      "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "url": "https://open.spotify.com/track/58dGRQrNmAJeRMFuguUbvD"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -3663,7 +3689,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 236428,
       "name": "Laagi Lagan Shankara",
       "url": "https://open.spotify.com/track/4nrqr2KVU3eoaL9743jwoB"
@@ -4433,7 +4459,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 411782,
       "name": "Mera Bhola Hai Bhandari - Hindi",
       "url": "https://open.spotify.com/track/2BQkMJNiyEWC08ot6zvRXc"
@@ -4485,6 +4511,46 @@
       "duration_ms": 285163,
       "name": "Mere Yaaraa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O"
+    },
+    {
+      "album": {
+        "name": "Gangubai Kathiawadi",
+        "url": "https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238103,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK"
+    },
+    {
+      "album": {
+        "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+        "url": "https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248006,
+      "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+      "url": "https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU"
     },
     {
       "album": {
@@ -4547,7 +4613,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
@@ -4829,7 +4895,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 243570,
       "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r"
@@ -5339,7 +5405,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -6009,7 +6075,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
@@ -6045,7 +6111,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 553273,
       "name": "Shiv Tandav Stotram",
       "url": "https://open.spotify.com/track/0pA2HBr6nILi7x4xKRZsy9"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new core at its finest. Cover: LANDMVRKS",
+  "description": "This is the new core at its finest. Cover: LANDMVRKS & Chunk! No, Captain Chunk!",
   "name": "New Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -1534,6 +1534,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I"
+    },
+    {
+      "album": {
         "name": "Stability",
         "url": "https://open.spotify.com/album/0QKeoyFMQ8UhfVRVvjkFHk"
       },
@@ -2020,6 +2038,24 @@
     },
     {
       "album": {
+        "name": "Silence Broken",
+        "url": "https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6"
+      },
+      "artists": [
+        {
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Silence Broken",
+      "url": "https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm"
+    },
+    {
+      "album": {
         "name": "Hell Is Where The Heart Is, Pt. I: Love",
         "url": "https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7"
       },
@@ -2067,7 +2103,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 192133,
       "name": "Snakebit",
       "url": "https://open.spotify.com/track/0sK8TrIJA5DA9hGATIZ5hi"
@@ -2493,7 +2529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 207750,
       "name": "The Reaper",
       "url": "https://open.spotify.com/track/1FAdkCRgYItcre3alRBPYP"

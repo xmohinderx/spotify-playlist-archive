@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-02",
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop!",
   "name": "Pulando da Cama",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5yfnaPkFyTj76hzrAjgLmZ"
+  ],
   "tracks": [
     {
       "album": {
@@ -104,6 +106,28 @@
     },
     {
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174406,
+      "name": "As I Am (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M"
+    },
+    {
+      "album": {
         "name": "The Prelude",
         "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
@@ -137,6 +161,24 @@
       "duration_ms": 194680,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ZfHkwHuoAZrlz7RMj0PDz"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD"
     },
     {
       "album": {
@@ -260,6 +302,42 @@
     },
     {
       "album": {
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/32z430CSScVQiLI6YkU9Kw"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160624,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/5c6APvoV8Rt68i76e5QoSL"
+    },
+    {
+      "album": {
+        "name": "Doppelg\u00e4nger",
+        "url": "https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194957,
+      "name": "Doppelg\u00e4nger",
+      "url": "https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/3zWmE5c3alhuoPLphxjMVd"
       },
@@ -329,7 +407,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 185469,
       "name": "Feel It Now",
       "url": "https://open.spotify.com/track/6CoeZ8TZiBTXSVBhXhmgTD"
@@ -351,7 +429,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 156910,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny"
@@ -369,7 +447,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 178156,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
@@ -445,6 +523,24 @@
       "duration_ms": 197188,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/1GAPdTb7VRCwLskdsmCr1A"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174825,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy"
     },
     {
       "album": {
@@ -539,7 +635,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
@@ -601,6 +697,28 @@
       "duration_ms": 138620,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1AtL74JItTkGoyHPp8AoH1"
+    },
+    {
+      "album": {
+        "name": "Kiss Me More (feat. SZA)",
+        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
     },
     {
       "album": {
@@ -685,7 +803,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
@@ -721,7 +839,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 220968,
       "name": "Love (Sweet Love)",
       "url": "https://open.spotify.com/track/1kSfwOauMxFm9cgYiNfsiL"
@@ -761,7 +879,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 177731,
       "name": "Love To Lose",
       "url": "https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO"
@@ -899,7 +1017,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
@@ -1056,6 +1174,28 @@
     },
     {
       "album": {
+        "name": "Spaceman (Deluxe)",
+        "url": "https://open.spotify.com/album/5Zktm8iOk8gKrQazrc9Uzh"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187855,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/18isufzGFuXQGmwX5hP5Mp"
+    },
+    {
+      "album": {
         "name": "Siempre He Estado Aqu\u00ed",
         "url": "https://open.spotify.com/album/4Ysv59Z987ELBVKCx7Yhlp"
       },
@@ -1101,7 +1241,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 196999,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/3TG88ES1Z5sMfuondaDZXV"
@@ -1119,7 +1259,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
@@ -1137,7 +1277,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 164000,
       "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
       "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
@@ -1281,7 +1421,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 183536,
       "name": "Who's In Your Head",
       "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
@@ -1339,7 +1479,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 181600,
       "name": "Would You",
       "url": "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"

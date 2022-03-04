@@ -1,13 +1,29 @@
 {
   "description": "if bunny is on, you know it's a good perreo.",
-  "num_followers": 15048,
+  "num_followers": 15528,
   "original_name": "bad bunny perreo mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjI2ODY3OSwwMDAwMDAwMDgxZjMyOTM3MWY2OGYyNmIxOGI5MjJhOTA4OTMxZWUw",
+  "snapshot_id": "MTY0NjM1NTA4NSwwMDAwMDAwMDdmZmE3YWRiNTExMjM3MjIzMGE3OGQ3ZDU3MTNjNDk0",
   "tracks": [
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
@@ -35,18 +51,26 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+        "name": "Volando (Remix)",
+        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
       "artists": [
         {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+      "duration_ms": 273474,
+      "name": "Volando - Remix",
+      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -71,26 +95,26 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "Volando (Remix)",
-        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 273474,
-      "name": "Volando - Remix",
-      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -139,46 +163,6 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 222346,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -219,42 +219,6 @@
       "duration_ms": 266192,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/2qMnZF5Ja2WvmfbblByQza"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 417920,
-      "name": "Te Bot\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/3X5M53Xi5k1SijRtZMM3TA"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -295,26 +259,6 @@
       "duration_ms": 232496,
       "name": "Una Vez",
       "url": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "MOJAITA",
-      "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -371,6 +315,62 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 417920,
+      "name": "Te Bot\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/3X5M53Xi5k1SijRtZMM3TA"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "MOJAITA",
+      "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -387,26 +387,6 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -447,6 +427,26 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 159282,
       "name": "Soli\u00e1",
       "url": "https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 163084,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -490,22 +506,6 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 163084,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
           "name": "Jowell & Randy",
@@ -519,6 +519,26 @@
       "duration_ms": 295176,
       "name": "Safaera",
       "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 210606,
+      "name": "Ignorantes",
+      "url": "https://open.spotify.com/track/38RIEav39FGi86jppxO0du"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -546,15 +566,11 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 210606,
-      "name": "Ignorantes",
-      "url": "https://open.spotify.com/track/38RIEav39FGi86jppxO0du"
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -575,22 +591,6 @@
       "duration_ms": 167975,
       "name": "Que Malo",
       "url": "https://open.spotify.com/track/53v2u51nq3CxiKUNphRzP1"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2022-02-01 19:04:43",

@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 353946,
       "name": "Casimir Pulaski Day",
       "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 216893,
       "name": "Emma's House",
       "url": "https://open.spotify.com/track/7IeinCxS7XtnmYKE1FBkRe"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 136306,
       "name": "Glow Worms",
       "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 207880,
       "name": "Hotel Song",
       "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
@@ -845,6 +845,24 @@
       "duration_ms": 210840,
       "name": "I Was Never Young",
       "url": "https://open.spotify.com/track/3vPdanGZRJILGXC3jzIgYc"
+    },
+    {
+      "album": {
+        "name": "London Weekend",
+        "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
+      },
+      "artists": [
+        {
+          "name": "Another Sunny Day",
+          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98706,
+      "name": "I'm In Love With A Girl Who Doesn't Know I Exist",
+      "url": "https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW"
     },
     {
       "album": {
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 224426,
       "name": "Lived In Bars",
       "url": "https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 201706,
       "name": "My Egyptian Grammar",
       "url": "https://open.spotify.com/track/2Ak3Seew0GuwIsJSqd5mMF"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 208973,
       "name": "Tiger Mountain Peasant Song",
       "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
@@ -1799,6 +1817,24 @@
       "duration_ms": 288773,
       "name": "Us - 2005 Remaster",
       "url": "https://open.spotify.com/track/6AWbUFUg1ufaaTT98IbjMV"
+    },
+    {
+      "album": {
+        "name": "Howl Howl Gaff Gaff",
+        "url": "https://open.spotify.com/album/1jO9fwvlqWgjCazjIWvOl7"
+      },
+      "artists": [
+        {
+          "name": "Shout Out Louds",
+          "url": "https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "Very Loud",
+      "url": "https://open.spotify.com/track/7selJ7EVnDpSxWhNETbE9s"
     },
     {
       "album": {

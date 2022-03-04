@@ -1156,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "Spirit Of God",
+        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290813,
+      "name": "Something About The Name - Live",
+      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
+    },
+    {
+      "album": {
         "name": "STAND",
         "url": "https://open.spotify.com/album/2IZtfQ894BXutm1JNqrdYV"
       },

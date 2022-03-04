@@ -1,28 +1,28 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 90. Foto: Chayanne",
-  "num_followers": 22079,
+  "num_followers": 22267,
   "original_name": "Pop Latino: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjI2ODY5NCwwMDAwMDAwMDQxNzA3MGM1MDI2MTcwM2Q1NTYwYWEzYzg4ZGQ0NDk3",
+  "snapshot_id": "MTY0NjM1NTEwMCwwMDAwMDAwMGViODAzNTRkYzViMWQxMTBkYmM1NDQ4ZTA1M2VkNGY0",
   "tracks": [
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/7DS5eAaSqaPRercZMkxVeL"
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 332040,
-      "name": "Experiencia Religiosa",
-      "url": "https://open.spotify.com/track/4pGCA3BOCADbAAvK4HIozW"
+      "duration_ms": 280666,
+      "name": "Se fu\u00e9",
+      "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
         "name": "Destino Paraiso",
         "url": "https://open.spotify.com/album/5BegiOj46Ggq4dbLT1AK5d"
       },
@@ -75,6 +59,38 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
+        "name": "Un Toque De Misterio",
+        "url": "https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Me Va A Extranar",
+      "url": "https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 290973,
       "name": "Amiga m\u00eda",
       "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "90's Pop en espa\u00f1ol",
-        "url": "https://open.spotify.com/album/6PDoBVYoSWXq0Wu1fBf3vx"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/6lc9YFwer6DdhhripRREJU"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -139,50 +139,18 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+        "name": "90's Pop en espa\u00f1ol",
+        "url": "https://open.spotify.com/album/6PDoBVYoSWXq0Wu1fBf3vx"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 289866,
-      "name": "Tan enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Se fu\u00e9",
-      "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+      "duration_ms": 205253,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/6lc9YFwer6DdhhripRREJU"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -219,134 +187,6 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 349506,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Un Toque De Misterio",
-        "url": "https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Me Va A Extranar",
-      "url": "https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Con Todos Menos Conmigo",
-      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
         "name": "Jon Secada",
         "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
       },
@@ -363,86 +203,6 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/5nDWALUZxhEzwbmIbjk2ZZ"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Te Quiero Tanto, Tanto",
-      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "La Profec\u00eda",
-        "url": "https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY"
-      },
-      "artists": [
-        {
-          "name": "Amistades Peligrosas",
-          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Me quedar\u00e9 solo",
-      "url": "https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Visperas De Carnaval",
-        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
-      },
-      "artists": [
-        {
-          "name": "La Mosca Tse-Tse",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/7DS5eAaSqaPRercZMkxVeL"
       },
@@ -452,41 +212,57 @@
           "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/2Om6rNxZBUXZ1beo3U38rD"
+      "duration_ms": 332040,
+      "name": "Experiencia Religiosa",
+      "url": "https://open.spotify.com/track/4pGCA3BOCADbAAvK4HIozW"
     },
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 405120,
-      "name": "Historia de Taxi",
-      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
+      "duration_ms": 289866,
+      "name": "Tan enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 272826,
-      "name": "Tengo Todo Excepto a Ti",
-      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -507,50 +283,18 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Cl\u00e1sicos de la Provincia",
-        "url": "https://open.spotify.com/album/3mg8UDN3X1gfebVI3OV5AU"
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
         }
       ],
-      "duration_ms": 215493,
-      "name": "La Gota Fr\u00eda",
-      "url": "https://open.spotify.com/track/5ZaTqcL7zIreaVNeVy89Iu"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -571,8 +315,56 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Te Quiero Tanto, Tanto",
+      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
       "artists": [
         {
@@ -580,41 +372,41 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
+      "duration_ms": 231693,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
     },
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Animal Nocturno",
-        "url": "https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I"
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI"
+      "duration_ms": 184946,
+      "name": "Con Todos Menos Conmigo",
+      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
     },
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Luna Nueva + Bonus Track",
-        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
+        "name": "Grandes \u00c9xitos: Amistades Peligrosas",
+        "url": "https://open.spotify.com/album/30ZWbQQR18bBnwIHOHpMLo"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Amistades Peligrosas",
+          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
         }
       ],
-      "duration_ms": 319066,
-      "name": "Penelope",
-      "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
+      "duration_ms": 233333,
+      "name": "Me Haces Tanto Bien",
+      "url": "https://open.spotify.com/track/3Jz2gVoeYbioxXZ4knwlAx"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -635,34 +427,130 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
         {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 333466,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/451CpDIPCEe6C33BFGL3Kh"
+      "duration_ms": 349506,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
     },
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
         }
       ],
-      "duration_ms": 335773,
-      "name": "Fuego de Noche, Nieve de D\u00eda",
-      "url": "https://open.spotify.com/track/1f6XyjXx6wUb7zdk9JWzl9"
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 405120,
+      "name": "Historia de Taxi",
+      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "La Profec\u00eda",
+        "url": "https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY"
+      },
+      "artists": [
+        {
+          "name": "Amistades Peligrosas",
+          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Me quedar\u00e9 solo",
+      "url": "https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/2iZckcZnK5fe23BL6LbFD4"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/1rkShcWHAr6wvjxyYhXYKj"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -679,6 +567,102 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Tiempo De Vals",
+        "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 258626,
+      "name": "Completamente Enamorados",
+      "url": "https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/5nDWALUZxhEzwbmIbjk2ZZ"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Dime Que No",
+      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Cl\u00e1sicos de la Provincia",
+        "url": "https://open.spotify.com/album/3mg8UDN3X1gfebVI3OV5AU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "La Gota Fr\u00eda",
+      "url": "https://open.spotify.com/track/5ZaTqcL7zIreaVNeVy89Iu"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/7DS5eAaSqaPRercZMkxVeL"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/2Om6rNxZBUXZ1beo3U38rD"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -715,6 +699,38 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "added_at": "2021-10-28 20:42:54",
+      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -731,34 +747,34 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "La Chica Dorada",
-        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
         }
       ],
-      "duration_ms": 225866,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+      "duration_ms": 244506,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
     },
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
         }
       ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+      "duration_ms": 333466,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/451CpDIPCEe6C33BFGL3Kh"
     },
     {
       "added_at": "2021-10-28 20:42:54",
@@ -779,34 +795,18 @@
     {
       "added_at": "2021-10-28 20:42:54",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
+        "name": "Que Hago Aqui",
+        "url": "https://open.spotify.com/album/2BRDFUTn1bWZP793gSFLJA"
       },
       "artists": [
         {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Desesperada",
-      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
-    },
-    {
-      "added_at": "2021-10-28 20:42:54",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle De San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
+      "duration_ms": 220933,
+      "name": "Dr. Psiquiatra",
+      "url": "https://open.spotify.com/track/3jF0zm2dfCPUpnDpLcx2F0"
     }
   ],
   "unique_name": "Pop Latino: Los 90",

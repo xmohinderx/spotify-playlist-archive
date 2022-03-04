@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,601 likes - 60 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,756 likes - 60 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

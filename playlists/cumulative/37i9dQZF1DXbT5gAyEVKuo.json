@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 243453,
       "name": "Celebrate - Live",
       "url": "https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 445360,
       "name": "Center Of My Joy - Live",
       "url": "https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV"
@@ -366,6 +366,28 @@
     },
     {
       "album": {
+        "name": "I Want More (Live)",
+        "url": "https://open.spotify.com/album/0H3x29mJ1RE9N4aQW4AdQn"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Sharon Willingham",
+          "url": "https://open.spotify.com/artist/7CmRu1RssDhfWHaW9YS0o1"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462253,
+      "name": "I Want More - Live",
+      "url": "https://open.spotify.com/track/4xuDNUP9gCNye1QSTS7Gkc"
+    },
+    {
+      "album": {
         "name": "Playlist: The Very Best Of Byron Cage",
         "url": "https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa"
       },
@@ -421,6 +443,24 @@
       "duration_ms": 419413,
       "name": "I'll Just Say Yes - Live",
       "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
+    },
+    {
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/2ztTfdy5qm752MdcmmWrYn"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245146,
+      "name": "If He Did It Before....Same God - Live",
+      "url": "https://open.spotify.com/track/3FaNt2AIvfkVdgawgEyY2B"
     },
     {
       "album": {
@@ -697,7 +737,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 376666,
       "name": "Put A Praise On It - Live",
       "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
@@ -1045,7 +1085,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 265573,
       "name": "Your Great Name (Live)",
       "url": "https://open.spotify.com/track/1JOT5cCiLGrzRQIWNOhBk5"

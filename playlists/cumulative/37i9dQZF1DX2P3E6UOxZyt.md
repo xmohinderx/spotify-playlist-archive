@@ -2,7 +2,7 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
-> 2021 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 陳忻玥 \(Vicky Chen\)
+> 2021 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 顏人中 \(Ele Yan\)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 | 2022-01-20 |  |
 | [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2021-12-30 | 2022-01-14 |
 | [Who I Am](https://open.spotify.com/track/76O16TXhsSMYZhEQAJXwmZ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Who I Am](https://open.spotify.com/album/6rossoBfDzEiVWn0EdD8DQ) | 3:45 | 2021-12-30 | 2022-02-18 |
+| [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/22AmTAbvl3IjUodDT3JInW) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:21 | 2022-03-03 |  |
 | [Yes No Maybe](https://open.spotify.com/track/5ewXSPZ0jL4EKqmmgyA86s) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Yes No Maybe](https://open.spotify.com/album/4jkzOXlMkapYIEYiTWyChI) | 2:57 | 2021-12-30 | 2022-01-21 |
 | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/track/5CVLF555R63QYvmDQCKZAG) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [Yes No Maybe \(feat\. 桃子A1J\)](https://open.spotify.com/album/6IwxNZDPjOnC0B1JLThqdo) | 2:57 | 2021-12-30 |  |
 | [You Like Me](https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [You Like Me](https://open.spotify.com/album/7gDEwYDkvHA7J2BOWnntBX) | 3:00 | 2021-12-30 |  |
@@ -55,14 +56,15 @@
 | [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2021-12-30 |  |
 | [如何忘記你 \- 戲劇<網紅的瘋狂世界>片尾曲](https://open.spotify.com/track/7nZhXTJKFFKF49vRFKgSCz) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 4:58 | 2021-12-30 |  |
 | [妳說妳還不了](https://open.spotify.com/track/1PAZp3Hl6Fbj4pPkHFkyKm) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/4mpAbNAVOM2j6pAsanglOi) | 4:07 | 2021-12-30 |  |
+| [學不會長大的大人](https://open.spotify.com/track/1FhtKqGMSPRtIptB6nklqN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 4:38 | 2022-03-03 |  |
 | [專屬天使](https://open.spotify.com/track/5dDHCutM1wE6BsuOh8hYit) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [專屬天使](https://open.spotify.com/album/2GRc9GiWNpRohx8L5O34Xg) | 3:56 | 2022-02-24 |  |
 | [對的自己](https://open.spotify.com/track/6MCQf5MTTr5iOnWFO3LoA0) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:56 | 2022-01-20 |  |
 | [已經結束的](https://open.spotify.com/track/3n2nL6Acs4XapA3rOd38gk) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 4:19 | 2021-12-30 | 2022-01-14 |
 | [已經都壞掉了](https://open.spotify.com/track/63SsfMEls60dFyvkcFIkz9) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:37 | 2022-01-27 | 2022-02-11 |
 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2021-12-30 | 2022-01-14 |
-| [幸福藏在哪裡 \- 天堂的微笑片頭曲](https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 5:02 | 2021-12-30 |  |
+| [幸福藏在哪裡 \- 天堂的微笑片頭曲](https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 5:02 | 2021-12-30 | 2022-03-04 |
 | [微光](https://open.spotify.com/track/0mABNr5Atp6fm2lvRd74XF) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/4mpAbNAVOM2j6pAsanglOi) | 4:13 | 2021-12-30 |  |
-| [想念是最遠的旅行 \- 天堂的微笑片尾曲](https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [想念是最遠的旅行 \(天堂的微笑片尾曲\)](https://open.spotify.com/album/3XsuB5NPeWvyfAI9B42Ub1) | 4:29 | 2021-12-30 |  |
+| [想念是最遠的旅行 \- 天堂的微笑片尾曲](https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [想念是最遠的旅行 \(天堂的微笑片尾曲\)](https://open.spotify.com/album/3XsuB5NPeWvyfAI9B42Ub1) | 4:29 | 2021-12-30 | 2022-03-04 |
 | [愛的迪思可](https://open.spotify.com/track/1eS2RQqs6lknJHGAjfmiv4) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [愛的迪思可](https://open.spotify.com/album/6Z7JGLe70CFnXlIUwCkCue) | 3:35 | 2022-02-10 |  |
 | [我不是饒舌歌手](https://open.spotify.com/track/4M8aT4P3AlJUGQ4DqaXJpV) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:32 | 2022-02-03 | 2022-02-18 |
 | [我們的地方](https://open.spotify.com/track/6J003AXQCeaIpbgYmNCXv3) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [我們的地方](https://open.spotify.com/album/5havEC7QEQCratza5CbcSC) | 3:51 | 2021-12-30 |  |

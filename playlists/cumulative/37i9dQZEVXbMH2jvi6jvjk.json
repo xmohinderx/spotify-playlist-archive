@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 195129,
       "name": "cold",
       "url": "https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 207065,
       "name": "Do We Have A Problem?",
       "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
@@ -8230,6 +8230,24 @@
     },
     {
       "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "album": {
         "name": "miss me (when you're gone)",
         "url": "https://open.spotify.com/album/0ljCwaCa5qOOdf7mDnFP2G"
       },
@@ -8613,7 +8631,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -8781,7 +8799,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
@@ -10645,7 +10663,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 183729,
       "name": "Rowwe Bliksem",
       "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
@@ -15027,7 +15045,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 267910,
       "name": "You And I (feat. Mlindo The Vocalist)",
       "url": "https://open.spotify.com/track/70Eq1Hkdn5Ar4eXK2Z7H0P"
@@ -15247,7 +15265,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 454285,
       "name": "Zula Zula (Hub Way)",
       "url": "https://open.spotify.com/track/250LeBpQ03TW3VHZdg4YiC"

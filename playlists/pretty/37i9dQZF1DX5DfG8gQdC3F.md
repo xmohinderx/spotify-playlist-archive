@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Fefe Dobson
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,330 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,326 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 76 | [Glowing](https://open.spotify.com/track/2urpLm640blWOExbhQpFUl) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Esquire](https://open.spotify.com/artist/41zs0yeWeQNNwSMp8yAKY7) | [Glowing](https://open.spotify.com/album/10stvNyLMgPnFX4MPFzUuW) | 3:31 |
 | 77 | [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 |
 | 78 | [Exes and Why's](https://open.spotify.com/track/7Bd6thM3CYtgUK7ODwvBe3) | [Meg DeAngelis](https://open.spotify.com/artist/1yolJlMzhzK1UWcHTC7Mw2) | [Exes and Why's](https://open.spotify.com/album/5cY0nAnVSTNDnWOfhkTkCQ) | 2:25 |
-| 79 | [Bussin](https://open.spotify.com/track/7CStQq6q17nd3Z4HCYBKPU) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Frenzo Harami](https://open.spotify.com/artist/3t7Sce3XacwEYUJLt0zGDW) | [Affection](https://open.spotify.com/album/1BIsN0kxaonvHqEvL1Y2Fh) | 2:56 |
+| 79 | [Bussin](https://open.spotify.com/track/7CStQq6q17nd3Z4HCYBKPU) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Frenzo Harami](https://open.spotify.com/artist/3t7Sce3XacwEYUJLt0zGDW), [Bass Mutant](https://open.spotify.com/artist/1Or6wxWad7jeIv2WuDB22j) | [Affection](https://open.spotify.com/album/1BIsN0kxaonvHqEvL1Y2Fh) | 2:56 |
 | 80 | [Salut m'man](https://open.spotify.com/track/0LKcrAbd79yQTSpQBcax5t) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Sous le même toit](https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN) | 3:15 |
 | 81 | [With the Lights Down](https://open.spotify.com/track/0aubwlwHlqy4aQspLOOcez) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [With the Lights Down](https://open.spotify.com/album/22NB4E3aItGMcJEsYYnf1z) | 3:57 |
 | 82 | [Look Mom I'm a Superhero](https://open.spotify.com/track/7sLRMErDPsf3nZOo9kyyqR) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Mushrooms & Melodies](https://open.spotify.com/album/7xZc4YEyHRpcv9Uc2pXmw0) | 3:29 |

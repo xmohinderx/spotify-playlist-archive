@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > The Real hip\-hop\. Cover: Saba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,324 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,490 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 10 | [Soldier \(feat\. Pivot Gang\)](https://open.spotify.com/track/43nJ4JDR5rbMndZoMXzsZe) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:05 |
 | 11 | [No Yeast \(feat\. Boldy James\)](https://open.spotify.com/track/3x9UBH1vVMNVLCPTx9duyZ) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Continuance](https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU) | 4:03 |
 | 12 | [Vlad TV \(feat\. Stove God Cooks, Symba & Major Myjah\)](https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Symba](https://open.spotify.com/artist/01988BWUnQiclJ70TTcnOq), [Major Myjah](https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 4:27 |
-| 13 | [Hustlaz](https://open.spotify.com/track/5mV02eybPC77hODuGYd054) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Hustlaz](https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs) | 3:55 |
+| 13 | [Hustlaz](https://open.spotify.com/track/5mV02eybPC77hODuGYd054) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Chill's Spotlight](https://open.spotify.com/artist/5CObhzKatYOMAeLHuFRedB) | [Hustlaz](https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs) | 3:55 |
 | 14 | [Bet It Back](https://open.spotify.com/track/4LUCzWbzWRwzNC59XhrjZy) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Bet It Back](https://open.spotify.com/album/65FSEScNKeIccB0YQuhLAy) | 2:32 |
 | 15 | [So Much More](https://open.spotify.com/track/6cspyG3FNuvNznrA7bzlxh) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 3:24 |
 | 16 | [Jean\-Michel](https://open.spotify.com/track/4MR5zadA2AvLPs8fdp0LuJ) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:43 |

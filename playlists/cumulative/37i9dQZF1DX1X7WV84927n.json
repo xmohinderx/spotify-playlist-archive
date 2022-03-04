@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Slash feat. Myles Kennedy & The Conspirators",
+  "description": "For the Hard Rock and full volume lovers. Cover: Volbeat",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 165282,
       "name": "21ST CENTURY BITCH",
       "url": "https://open.spotify.com/track/6b4gtrHODf0L93GxIKEotN"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 189337,
       "name": "American Vampire",
       "url": "https://open.spotify.com/track/6OeqSEh0aWLrd9gbQ3WxjC"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 335933,
       "name": "Blood Red Night",
       "url": "https://open.spotify.com/track/2TNJL0sIvXx2nqcI0EOhP1"
@@ -308,6 +308,46 @@
     },
     {
       "album": {
+        "name": "Death Valley Paradise",
+        "url": "https://open.spotify.com/album/64YWR8ekaKvFbFc3cSzkbe"
+      },
+      "artists": [
+        {
+          "name": "Kris Barras Band",
+          "url": "https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216831,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/0qJcOGhe63Qw0RCM02GM3r"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5PRkdn0Ae1vUmjp0OoTfkO"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        },
+        {
+          "name": "Sarah Barrios",
+          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236558,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/64GtWmpFNjnUgsYn28ieRL"
+    },
+    {
+      "album": {
         "name": "Cold Blue Steel",
         "url": "https://open.spotify.com/album/2CH2frstk7VviIIqevCL67"
       },
@@ -355,7 +395,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 215450,
       "name": "Cosi Bella (So Beautiful)...",
       "url": "https://open.spotify.com/track/3ZAWO7OexOvlBItWcsAXx0"
@@ -417,7 +457,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 213160,
       "name": "Day Off of the Devil",
       "url": "https://open.spotify.com/track/4wIVbbFAGfQpVO3FbIFZOU"
@@ -507,7 +547,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 218056,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3tXwAJCXiO3oill1uv5VAG"
@@ -525,7 +565,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 237148,
       "name": "Don't Say a Word",
       "url": "https://open.spotify.com/track/4zYA3oTUbcbq1l1U5jfpTg"
@@ -905,7 +945,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 223573,
       "name": "Golden Liar",
       "url": "https://open.spotify.com/track/4OJBWQawAHrIGtRoYmwPNA"
@@ -963,7 +1003,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 228485,
       "name": "Heart Astray",
       "url": "https://open.spotify.com/track/4LJJ9OsB38WGbipJqsl9Od"
@@ -1053,7 +1093,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 237266,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/7ksXqxPAko07qegZPANofU"
@@ -1075,7 +1115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 176126,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/4t6u8YR04Ud5apFBTU994S"
@@ -1129,7 +1169,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 206506,
       "name": "In the Beginning of Time",
       "url": "https://open.spotify.com/track/2t2aSAxxNZVWjgkLizBMki"
@@ -1223,7 +1263,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 259088,
       "name": "Land of the Blind",
       "url": "https://open.spotify.com/track/393AOyB19SDcY74elp1mCr"
@@ -1331,7 +1371,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 186809,
       "name": "MAMMAMIA",
       "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
@@ -1513,7 +1553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 286666,
       "name": "Orion",
       "url": "https://open.spotify.com/track/58sXVFKhqIBjMBVvtpFVXX"
@@ -1531,7 +1571,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 222186,
       "name": "Out of the Ashes",
       "url": "https://open.spotify.com/track/1uz1sf7RhYAyY56AXGwELS"
@@ -1745,7 +1785,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 188554,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/1PI1Yn3mxFIDXsLQB4JLRm"
@@ -1893,6 +1933,24 @@
       "duration_ms": 206276,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
+    },
+    {
+      "album": {
+        "name": "So Sorry I Could Die",
+        "url": "https://open.spotify.com/album/52xmu9yFpB30ZZJi2cuYcL"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261398,
+      "name": "So Sorry I Could Die",
+      "url": "https://open.spotify.com/track/76KQa2I8SE2vrlyW8Nx2jf"
     },
     {
       "album": {
@@ -2087,7 +2145,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 241066,
       "name": "The Monster Roars",
       "url": "https://open.spotify.com/track/32xyRA1ED50D5C42SOVrXu"
@@ -2185,7 +2243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 284560,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/77gJbeEAkDu7v0YnMTUqqu"
@@ -2225,7 +2283,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 224073,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
@@ -2297,7 +2355,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 258653,
       "name": "Unsung Heroes",
       "url": "https://open.spotify.com/track/4jMObTXWvq0O3gJJnBkF5T"
@@ -2463,7 +2521,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 242720,
       "name": "While the Devil Is Asleep",
       "url": "https://open.spotify.com/track/7oJqfUYw565swtD06pPZNi"
@@ -2499,7 +2557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 208263,
       "name": "You Can't Keep the Boy Down",
       "url": "https://open.spotify.com/track/3aTFRMahxabBcDMzdWNkUK"

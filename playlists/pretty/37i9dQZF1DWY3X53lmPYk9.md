@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft interpretations of songbook classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,155 likes - 78 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,170 likes - 78 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 77 | [I Only Have Eyes for You](https://open.spotify.com/track/2ripUOoce7Cc9A26fQAoxE) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 3:27 |
 | 78 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 |
 
-Snapshot ID: `MTY0NTAyMDEyMiwwMDAwMDA2ZjAwMDAwMTdmMDJkNzBiY2YwMDAwMDE3MGFmNDg5ZGE4`
+Snapshot ID: `MTY0NjMxNDczOSwwMDAwMDA3MDAwMDAwMTdmNTAwMTU4YmUwMDAwMDE3MGFmNDg5ZGE4`

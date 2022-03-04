@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXxlTjrCu8cE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXxlTjrCu8cE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXxlTjrCu8cE)
 
-### Rotina de Beleza
+### [Rotina de Beleza](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
 
 > Cuidar de si todos os dias com a melhor trilha sonora.
 

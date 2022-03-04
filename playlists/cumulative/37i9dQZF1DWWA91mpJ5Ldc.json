@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-02",
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
   "name": "Cozinhando em Casa",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6Mucr2ILFuIcViB8dUsQZn"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,7 +41,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 198101,
       "name": "20ver",
       "url": "https://open.spotify.com/track/7tiqfQ8TSYiRah8puEJ02l"
@@ -65,6 +67,24 @@
       "duration_ms": 246666,
       "name": "afro futurista",
       "url": "https://open.spotify.com/track/707zgXxO0fchdraumiV1R9"
+    },
+    {
+      "album": {
+        "name": "Alma Bonita",
+        "url": "https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9"
+      },
+      "artists": [
+        {
+          "name": "Marvyn",
+          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187083,
+      "name": "Alma Bonita",
+      "url": "https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE"
     },
     {
       "album": {
@@ -294,6 +314,50 @@
     },
     {
       "album": {
+        "name": "Cariocas / Por Que Voc\u00ea Faz Cinema?",
+        "url": "https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223539,
+      "name": "Cariocas",
+      "url": "https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB"
+    },
+    {
+      "album": {
+        "name": "Carne dos Deuses",
+        "url": "https://open.spotify.com/album/5Y0aw7qyAfbQK3CRp3kWJk"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Ubunto",
+          "url": "https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Carne dos Deuses",
+      "url": "https://open.spotify.com/track/1Cu4k15CyHaUNEMETkRRXZ"
+    },
+    {
+      "album": {
         "name": "Chora Pra Ver Como \u00c9",
         "url": "https://open.spotify.com/album/1bOzgMlaHNqngd89O48g7u"
       },
@@ -305,7 +369,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 401039,
       "name": "Chora Pra Ver Como \u00c9",
       "url": "https://open.spotify.com/track/1AVP6stez9yP6UUBVejcda"
@@ -359,7 +423,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 246346,
       "name": "Decis\u00e3o de Te Amar",
       "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
@@ -417,7 +481,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 175942,
       "name": "Deu Bossa",
       "url": "https://open.spotify.com/track/33hnkbQrn9OpSOLCHYrxnd"
@@ -435,7 +499,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 177102,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/7GZoLg9b4QggdnHBHeSmpX"
@@ -453,7 +517,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 208941,
       "name": "Dona de mim",
       "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
@@ -478,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/5pFfBXvJWGPdRxxgaT8C9e"
+      },
+      "artists": [
+        {
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179327,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/60bmLMDk2gBFXUozaU3Tdf"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Sei Te Amar",
         "url": "https://open.spotify.com/album/1Yhcy9dq0MAIcU00PnHMzM"
       },
@@ -493,6 +575,28 @@
       "duration_ms": 192099,
       "name": "Eu N\u00e3o Sei Te Amar",
       "url": "https://open.spotify.com/track/7xgps6ZioyyH3AqjYjyFu6"
+    },
+    {
+      "album": {
+        "name": "Faz Uma Loucura Por Mim",
+        "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215889,
+      "name": "Faz Uma Loucura Por Mim",
+      "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
     },
     {
       "album": {
@@ -551,10 +655,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 267145,
       "name": "Fullg\u00e1s",
       "url": "https://open.spotify.com/track/1f9HisfpJAutD6WgOY1sPP"
+    },
+    {
+      "album": {
+        "name": "Gentilmente",
+        "url": "https://open.spotify.com/album/0XbYJg3dz9T5z1qdOmIg6d"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252044,
+      "name": "Gentilmente",
+      "url": "https://open.spotify.com/track/3u9LN72UqsGVYgEJVrtVah"
     },
     {
       "album": {
@@ -587,7 +709,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 191917,
       "name": "Gostosin",
       "url": "https://open.spotify.com/track/2O9Vl5peatdy7ihvizo67c"
@@ -609,10 +731,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 188333,
       "name": "Ideias E Ideais",
       "url": "https://open.spotify.com/track/5KnxRBU9N6KikeAtSukIqX"
+    },
+    {
+      "album": {
+        "name": "Qualquer Coisa",
+        "url": "https://open.spotify.com/album/3c6QuGftzoHlZZ10TPsHsB"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200693,
+      "name": "Jorge De Capadocia",
+      "url": "https://open.spotify.com/track/0kYpoESyBbEqd74Ie8elca"
     },
     {
       "album": {
@@ -657,7 +797,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 268600,
       "name": "Luxo Pesado",
       "url": "https://open.spotify.com/track/6fGoyJo3yXeZH8AEJr1zF5"
@@ -675,7 +815,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 183374,
       "name": "Macei\u00f3",
       "url": "https://open.spotify.com/track/30sg1pdAXLKpKvrrQOaF9z"
@@ -693,7 +833,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 174361,
       "name": "Mais de N\u00f3s",
       "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
@@ -715,7 +855,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 294049,
       "name": "Mantra (Feat. Emicida)",
       "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
@@ -737,7 +877,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 142540,
       "name": "Me Deixa Ser Mulher",
       "url": "https://open.spotify.com/track/5z5oYrfZK1o8Kr92UtZkvZ"
@@ -759,6 +899,42 @@
       "duration_ms": 186042,
       "name": "Me Toca",
       "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
+    },
+    {
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A"
+      },
+      "artists": [
+        {
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl"
+    },
+    {
+      "album": {
+        "name": "Mo\u00e7a Vem C\u00e1",
+        "url": "https://open.spotify.com/album/5Nb8vwGAJM6QmT5pCCc6kh"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198870,
+      "name": "Mo\u00e7a Vem C\u00e1",
+      "url": "https://open.spotify.com/track/1xVYmo2RtOWgENpW7YSAEK"
     },
     {
       "album": {
@@ -799,7 +975,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 186786,
       "name": "Neg\u00e3o Negra",
       "url": "https://open.spotify.com/track/21C2FVAKx5JqWT6ta3rEIF"
@@ -843,7 +1019,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 188536,
       "name": "N\u00f3is Dois Coladin (feat. Bom Gosto)",
       "url": "https://open.spotify.com/track/07PlqC9FOWlcU3hRH71mcN"
@@ -879,7 +1055,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 190096,
       "name": "O Jeito",
       "url": "https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY"
@@ -901,6 +1077,24 @@
       "duration_ms": 217110,
       "name": "Onde Estar\u00e1",
       "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
+    },
+    {
+      "album": {
+        "name": "Parafuso",
+        "url": "https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F"
+      },
+      "artists": [
+        {
+          "name": "Qinhones",
+          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279003,
+      "name": "Parafuso",
+      "url": "https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX"
     },
     {
       "album": {
@@ -1001,6 +1195,24 @@
       "duration_ms": 168251,
       "name": "Pra todas as mulheres",
       "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
+    },
+    {
+      "album": {
+        "name": "P\u00e9rola de Espuma",
+        "url": "https://open.spotify.com/album/3NdnrEtvtoNGN1v3l498Qb"
+      },
+      "artists": [
+        {
+          "name": "Rommel",
+          "url": "https://open.spotify.com/artist/7umdEQLmAvnJsKZLZmzM10"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "P\u00e9rola de Espuma",
+      "url": "https://open.spotify.com/track/7a9kD8LKp6ts1r0dlePx55"
     },
     {
       "album": {
@@ -1115,7 +1327,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 163800,
       "name": "Saiba",
       "url": "https://open.spotify.com/track/13HJiaanpj9UUlM0oRdLCw"
@@ -1173,7 +1385,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 194056,
       "name": "Sentido da Vida",
       "url": "https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE"
@@ -1195,6 +1407,32 @@
       "duration_ms": 218655,
       "name": "Seu Fim em Mim",
       "url": "https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5"
+    },
+    {
+      "album": {
+        "name": "O Futuro N\u00e3o Demora",
+        "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        },
+        {
+          "name": "Edgar",
+          "url": "https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Sonar",
+      "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
     },
     {
       "album": {
@@ -1235,7 +1473,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
@@ -1275,7 +1513,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 283181,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/3M1H3xYAf9D1sXiZ6aUQQZ"
@@ -1358,6 +1596,24 @@
     },
     {
       "album": {
+        "name": "Todas As Coisas",
+        "url": "https://open.spotify.com/album/67OKyJJoFvpmOjDDBP0dXS"
+      },
+      "artists": [
+        {
+          "name": "Tibless",
+          "url": "https://open.spotify.com/artist/6osLdK9uVKUPZYLVgIJ3hH"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200448,
+      "name": "Todas As Coisas",
+      "url": "https://open.spotify.com/track/3z99hBQ0LR2Ou4Qbnmf7KR"
+    },
+    {
+      "album": {
         "name": "Equivocada",
         "url": "https://open.spotify.com/album/6sr5987WDx10JBXeAihxSI"
       },
@@ -1369,7 +1625,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 372434,
       "name": "Trem pra Ningu\u00e9m",
       "url": "https://open.spotify.com/track/345jue5JEXr9yMyFQvOIro"
@@ -1449,7 +1705,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 223811,
       "name": "\u00c9 S\u00f3 Aceitar",
       "url": "https://open.spotify.com/track/2yzfazUSLBp20vdCV76Q0j"

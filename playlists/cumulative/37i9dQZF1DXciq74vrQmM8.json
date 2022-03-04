@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. july jones",
+  "description": "welcome to our universe ft. scene queen",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 239706,
       "name": "Colour of Moonlight (Antiochus)",
       "url": "https://open.spotify.com/track/6d9nQK2zdlQtsV0pnjq7k9"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 140503,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/0CXgZRpMjcbH3gkawYMiPb"
@@ -1077,6 +1077,24 @@
       "duration_ms": 160000,
       "name": "I just wanna be silent",
       "url": "https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng"
+    },
+    {
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1k1UM3y0CxN8IQ10fTzYwG"
+      },
+      "artists": [
+        {
+          "name": "Rex Arcum",
+          "url": "https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "I JUST WANNA MAKE SOUNDS",
+      "url": "https://open.spotify.com/track/2c8CMO94VVUr2DwHS7MOMM"
     },
     {
       "album": {
@@ -1442,6 +1460,32 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT MASS",
+        "url": "https://open.spotify.com/album/7iEDDAnSlGoep1RtdWyC3z"
+      },
+      "artists": [
+        {
+          "name": "Sadzilla",
+          "url": "https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc"
+        },
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        },
+        {
+          "name": "Matty Beats",
+          "url": "https://open.spotify.com/artist/76AcKdJ3hdlxtEWPCUumqT"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168596,
+      "name": "MIDNIGHT MASS",
+      "url": "https://open.spotify.com/track/19Rs8vYHdVLUzXVTjP3XrM"
+    },
+    {
+      "album": {
         "name": "MIKE",
         "url": "https://open.spotify.com/album/15SUIAmkfSHSByyyH4Savt"
       },
@@ -1739,6 +1783,42 @@
       "duration_ms": 142699,
       "name": "Pink Bubblegum",
       "url": "https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg"
+    },
+    {
+      "album": {
+        "name": "Pink Rover",
+        "url": "https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR"
+    },
+    {
+      "album": {
+        "name": "Pink Ski Mask",
+        "url": "https://open.spotify.com/album/0abrEo7bpHRoAS0mbm4jqy"
+      },
+      "artists": [
+        {
+          "name": "Blissful Euphoria",
+          "url": "https://open.spotify.com/artist/0CAfE2aA3yXVTOBD9f80VQ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232596,
+      "name": "Pink Ski Mask",
+      "url": "https://open.spotify.com/track/7uxdFBbvLnYMETZ3l1ALwz"
     },
     {
       "album": {
@@ -2343,7 +2423,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 140000,
       "name": "Vapid Prophecy",
       "url": "https://open.spotify.com/track/50k61EN7BjkLlWyVqqQw6t"
@@ -2455,7 +2535,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"

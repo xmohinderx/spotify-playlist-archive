@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: 1da Banton",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Ronisia",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Doudou",
+        "url": "https://open.spotify.com/album/2TojJFyizM8j3alqvhgy2O"
+      },
+      "artists": [
+        {
+          "name": "Pongo",
+          "url": "https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/6oHkf01UyUH5FVvWhsbEKy"
+    },
+    {
+      "album": {
         "name": "Doudou Chou",
         "url": "https://open.spotify.com/album/71AyCcMiMLgtR7bpTrMvr8"
       },
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 187546,
       "name": "Es-tu pr\u00eate",
       "url": "https://open.spotify.com/track/76CfecqLieILwUiABOrGQv"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 233266,
       "name": "Party",
       "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
@@ -1503,6 +1521,28 @@
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "album": {
+        "name": "So Distant (feat. Tayc)",
+        "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174059,
+      "name": "So Distant (feat. Tayc)",
+      "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
     },
     {
       "album": {

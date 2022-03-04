@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 192409,
       "name": "Amaprinces Bend",
       "url": "https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 122466,
       "name": "Arcticgrey",
       "url": "https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0"
@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "Fare la limonata",
+        "url": "https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W"
+      },
+      "artists": [
+        {
+          "name": "Anastasio Confortola",
+          "url": "https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Fare la limonata",
+      "url": "https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj"
+    },
+    {
+      "album": {
         "name": "Felicity",
         "url": "https://open.spotify.com/album/2lTOtqyZKZaX5kiw9JKqC4"
       },
@@ -639,7 +657,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 135253,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
@@ -697,6 +715,24 @@
       "duration_ms": 171583,
       "name": "Green Meadow",
       "url": "https://open.spotify.com/track/3utSs25tLqIPeLegK7MRiT"
+    },
+    {
+      "album": {
+        "name": "Homestead",
+        "url": "https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv"
+      },
+      "artists": [
+        {
+          "name": "Chris Donner",
+          "url": "https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "Homestead",
+      "url": "https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab"
     },
     {
       "album": {
@@ -783,7 +819,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 147186,
       "name": "Island",
       "url": "https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj"
@@ -859,6 +895,24 @@
       "duration_ms": 174352,
       "name": "Lady Ground",
       "url": "https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0"
+    },
+    {
+      "album": {
+        "name": "Las Torres",
+        "url": "https://open.spotify.com/album/070fTp4tPS3XzSckZra1ZK"
+      },
+      "artists": [
+        {
+          "name": "Rafael Zoko",
+          "url": "https://open.spotify.com/artist/4CdJuIDunYuaxiRa0PUulq"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180230,
+      "name": "Las Torres",
+      "url": "https://open.spotify.com/track/1u3vCCEmUHOrHjLlwR2nyU"
     },
     {
       "album": {
@@ -1024,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Mystique",
+      "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
+    },
+    {
+      "album": {
         "name": "Never Unsaid",
         "url": "https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP"
       },
@@ -1057,6 +1129,24 @@
       "duration_ms": 142314,
       "name": "Nordic Dream",
       "url": "https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W"
+    },
+    {
+      "album": {
+        "name": "Notre terre",
+        "url": "https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML"
+      },
+      "artists": [
+        {
+          "name": "Matt\u00e9o Roussel",
+          "url": "https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Notre terre",
+      "url": "https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C"
     },
     {
       "album": {
@@ -1111,6 +1201,24 @@
       "duration_ms": 128333,
       "name": "Onthou",
       "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
+    },
+    {
+      "album": {
+        "name": "Peace Frame",
+        "url": "https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH"
+      },
+      "artists": [
+        {
+          "name": "Mauvais Roger",
+          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179257,
+      "name": "Peace Frame",
+      "url": "https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax"
     },
     {
       "album": {
@@ -1233,7 +1341,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 129368,
       "name": "Pour tous les c\u0153urs du monde",
       "url": "https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa"
@@ -1597,7 +1705,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "Speicherstadt",
       "url": "https://open.spotify.com/track/59crmJpzPW64edZAmXNOn5"
@@ -1619,6 +1727,24 @@
       "duration_ms": 123452,
       "name": "Spring",
       "url": "https://open.spotify.com/track/7gpOugvWq2g76J6bhXGlgy"
+    },
+    {
+      "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "album": {
@@ -1763,7 +1889,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 148483,
       "name": "The Belfry",
       "url": "https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D"
@@ -1929,7 +2055,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 128500,
       "name": "Uitwaaien",
       "url": "https://open.spotify.com/track/6fOFKyLhs5ryi2f8IiWBq8"
@@ -1947,7 +2073,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 124029,
       "name": "Valverde",
       "url": "https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB"

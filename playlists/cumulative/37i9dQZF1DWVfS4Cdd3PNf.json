@@ -72,6 +72,36 @@
     },
     {
       "album": {
+        "name": "John Adams: The Death Of Klinghoffer",
+        "url": "https://open.spotify.com/album/79BL8ogezvJYVXJuqA4RK4"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "The Opera De Lyon",
+          "url": "https://open.spotify.com/artist/31eNNSo1PmVOgDDQchpBKC"
+        },
+        {
+          "name": "London Opera Chorus",
+          "url": "https://open.spotify.com/artist/2VBTR9N71WjQFGQYk80x5q"
+        }
+      ],
+      "date_added": "2017-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520000,
+      "name": "Adams: The Death of Klinghoffer, Prologue: Chorus of Exiled Palestinians",
+      "url": "https://open.spotify.com/track/5L9bEvb3CdE9LQWe5hAhD2"
+    },
+    {
+      "album": {
         "name": "Verdi: Aida (2 CDs)",
         "url": "https://open.spotify.com/album/1vY9oGEVfFjPu9j8wra9PX"
       },
@@ -2717,36 +2747,6 @@
       "duration_ms": 343360,
       "name": "Powder Her Face (an Opera in two acts) Op.14, ACT I, Scene 5: Nineteen fifty-three: Is Daddy squiffy?",
       "url": "https://open.spotify.com/track/54KB2z5zVDiC4U6Nn7L1OX"
-    },
-    {
-      "album": {
-        "name": "John Adams: The Death Of Klinghoffer",
-        "url": "https://open.spotify.com/album/79BL8ogezvJYVXJuqA4RK4"
-      },
-      "artists": [
-        {
-          "name": "John Adams",
-          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "The Opera De Lyon",
-          "url": "https://open.spotify.com/artist/31eNNSo1PmVOgDDQchpBKC"
-        },
-        {
-          "name": "London Opera Chorus",
-          "url": "https://open.spotify.com/artist/2VBTR9N71WjQFGQYk80x5q"
-        }
-      ],
-      "date_added": "2017-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 520000,
-      "name": "Prologue: Chorus of Exiled Palestinians",
-      "url": "https://open.spotify.com/track/5L9bEvb3CdE9LQWe5hAhD2"
     },
     {
       "album": {

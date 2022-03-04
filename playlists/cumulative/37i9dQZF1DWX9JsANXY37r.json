@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-02",
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
   "name": "Drinks no Sof\u00e1",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1auBputQiLOUbjD4e5chlL"
+  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +183,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 242134,
       "name": "Clear",
       "url": "https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA"
@@ -203,6 +205,28 @@
       "duration_ms": 268853,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
+    },
+    {
+      "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/3nQQifh95U988ME5zJMSyi"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1j4hUdpOJd5qIXN3LJeHjj"
     },
     {
       "album": {
@@ -235,7 +259,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 225267,
       "name": "Dance Like Nobody's Watching",
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
@@ -361,7 +385,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 180185,
       "name": "Foreign Things",
       "url": "https://open.spotify.com/track/4Cz1StHxD06CZzr8NxvYfw"
@@ -405,6 +429,46 @@
       "duration_ms": 202197,
       "name": "Girl from Bahia",
       "url": "https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/1ebjCE10RQUNzqyYYjhzdk"
+      },
+      "artists": [
+        {
+          "name": "The Goods",
+          "url": "https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232320,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/423juOOc4CLiwV6yfOhdym"
+    },
+    {
+      "album": {
+        "name": "Good Morning Gorgeous",
+        "url": "https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139630,
+      "name": "Here With Me (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn"
     },
     {
       "album": {
@@ -455,7 +519,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
@@ -884,6 +948,24 @@
     },
     {
       "album": {
+        "name": "Pedra do Sal - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2O6CePSZoraknyeOIt5Wi0"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170420,
+      "name": "Pedra do Sal - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1UDw2m4Hf6aKbKqKqMjFtT"
+    },
+    {
+      "album": {
         "name": "Pressure (with SG Lewis)",
         "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
       },
@@ -899,7 +981,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Pressure (with SG Lewis)",
       "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
@@ -953,7 +1035,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 222290,
       "name": "Raise Up - Single Version",
       "url": "https://open.spotify.com/track/1ylTiIxsIYDSwlsaOJ4H2b"
@@ -971,7 +1053,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 230187,
       "name": "Scars",
       "url": "https://open.spotify.com/track/1EdktpB83X3KfUavH6Vf7b"
@@ -1141,7 +1223,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 253281,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1m7vbLfcbKILAxOQDSqnQv"

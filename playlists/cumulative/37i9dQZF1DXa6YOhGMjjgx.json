@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH"
+    },
+    {
+      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1"
       },
@@ -379,7 +397,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 211373,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/0fnYEb4IPNMlv46bZweUu8"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 258425,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/7jLJ9769nvwETkjrUHzi2y"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 176040,
       "name": "Cough Up Cherries",
       "url": "https://open.spotify.com/track/4dsxz4IEl1T3ZmeBoLJ1Ky"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 265263,
       "name": "Doom & Bloom",
       "url": "https://open.spotify.com/track/2xZRImWklE8cTFgcjAyHBc"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 190946,
       "name": "Double Down - 2019 Mix",
       "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 187431,
       "name": "Get Out Of My Life",
       "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 201177,
       "name": "Going Clear",
       "url": "https://open.spotify.com/track/0wNzCdfjewhDgQZSsbZ09F"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 183663,
       "name": "I've Got A Five",
       "url": "https://open.spotify.com/track/3prpecfUlt84RtF192cIva"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 197739,
       "name": "Just For Love",
       "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 232960,
       "name": "Longshot",
       "url": "https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9"
@@ -1997,7 +2015,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 123142,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4AY7vvKJ5URWd61B5Q6S5Z"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 202280,
       "name": "No Sale",
       "url": "https://open.spotify.com/track/0X6PQ9P3OXKnJbomkuZPLT"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 239252,
       "name": "Nowhere Generation [with Meg Myers]",
       "url": "https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY"
@@ -2311,7 +2329,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 262814,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2ahiCEvEC1gqx7Yi76QWA9"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 190212,
       "name": "Rich",
       "url": "https://open.spotify.com/track/59emGJDCTWRSBcMEG9M29f"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 224285,
       "name": "See Through You",
       "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
@@ -2751,7 +2769,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 188000,
       "name": "Stay Out",
       "url": "https://open.spotify.com/track/4dqcedp9451K9DvxYugrTt"
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 279463,
       "name": "T.I.K.",
       "url": "https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4"
@@ -3267,7 +3285,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 160245,
       "name": "You Dig Yours",
       "url": "https://open.spotify.com/track/3tGvyYRqaxM5CVnAUQQ0cC"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 210480,
       "name": "Youth",
       "url": "https://open.spotify.com/track/6Rs6ZGyppL4ity5nDI6S1y"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Zyko",
       "url": "https://open.spotify.com/track/2Pcdgrj6XS4V1HeBndrXtc"

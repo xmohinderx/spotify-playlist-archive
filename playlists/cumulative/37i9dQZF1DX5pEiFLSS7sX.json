@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 208864,
       "name": "A Million Saints (Live)",
       "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 239973,
       "name": "At The Foot Of The Cross - Acoustic",
       "url": "https://open.spotify.com/track/31LmKMgaBngNroZmoJgvy1"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 326246,
       "name": "Awe + Wonder - Live",
       "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 487666,
       "name": "Be Still - Live",
       "url": "https://open.spotify.com/track/6OIzniRIlDqO4DQ6Way8P3"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 435314,
       "name": "Breathing Room - Live",
       "url": "https://open.spotify.com/track/3xdC7xtZUolRK98iOzUgEW"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 610594,
       "name": "Come Through - Live",
       "url": "https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 326612,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/7bQNc5PaDgv08uz6KX0Cp1"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 426699,
       "name": "God, You\u2019re So Good - Live",
       "url": "https://open.spotify.com/track/3OBG99yPHZwjhPpALz17jm"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 290413,
       "name": "Great Are You Lord - Live",
       "url": "https://open.spotify.com/track/4PYOh644yKjYyvyVUHqcof"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 494232,
       "name": "I Just Love You - Live",
       "url": "https://open.spotify.com/track/4LMGJcpVESW2RdUGyfy1Xy"
@@ -867,10 +867,50 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 590437,
       "name": "Isn't He (This Jesus) [feat. Natalie Grant]",
       "url": "https://open.spotify.com/track/0AiQLGevpr9XOc9kIRjyuB"
+    },
+    {
+      "album": {
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490441,
+      "name": "It Is Finished / Surrounded - Medley/Live From Passion 2020",
+      "url": "https://open.spotify.com/track/6w37AsKNfnOZF68O32wkT1"
+    },
+    {
+      "album": {
+        "name": "Jesus Only You",
+        "url": "https://open.spotify.com/album/6GjX0hYpOrGN8P01qGl8Wy"
+      },
+      "artists": [
+        {
+          "name": "London Gatch",
+          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283813,
+      "name": "Jesus Only You",
+      "url": "https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK"
     },
     {
       "album": {
@@ -1020,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "Mention of Your Name",
+        "url": "https://open.spotify.com/album/2USSc59dLBefzfo9WPtUXn"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326706,
+      "name": "Mention of Your Name",
+      "url": "https://open.spotify.com/track/4AyrksLYxy1R8X8IDukI0h"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
       },
@@ -1133,7 +1191,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 490000,
       "name": "New Wine - Live",
       "url": "https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h"
@@ -1155,6 +1213,24 @@
       "duration_ms": 194660,
       "name": "No Fear in Love",
       "url": "https://open.spotify.com/track/2TTpZrsNdlOBoHKNGdpSeq"
+    },
+    {
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442893,
+      "name": "Nobody Like You (Live)",
+      "url": "https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN"
     },
     {
       "album": {
@@ -1257,7 +1333,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 376093,
       "name": "Nothing I Hold on to (Live)",
       "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
@@ -1323,7 +1399,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 241346,
       "name": "Only My Jesus",
       "url": "https://open.spotify.com/track/3WB2l0JHuLQFyV7CzqiIGe"
@@ -1341,7 +1417,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 211072,
       "name": "Overcome (Acoustic)",
       "url": "https://open.spotify.com/track/1b2JLmsUGCtjomD2LMK5Rj"
@@ -1425,6 +1501,24 @@
       "duration_ms": 644949,
       "name": "Pieces (Spontaneous)",
       "url": "https://open.spotify.com/track/5yHC5TI4GAuKaeNYgCpLju"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339266,
+      "name": "Praise Will Be My Song",
+      "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
     },
     {
       "album": {
@@ -1643,7 +1737,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 569320,
       "name": "Sanctuary - Live",
       "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
@@ -1679,7 +1773,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 349480,
       "name": "Shepherd (Studio)",
       "url": "https://open.spotify.com/track/4qsUMYIkHAioeRgw2KuXg9"
@@ -1784,6 +1878,28 @@
     },
     {
       "album": {
+        "name": "Steady Heart (feat. Amanda Cook)",
+        "url": "https://open.spotify.com/album/7tGIRqxhfXCJE8Ka09WdtC"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329097,
+      "name": "Steady Heart (feat. Amanda Cook)",
+      "url": "https://open.spotify.com/track/2hZo9wZEnEypFvFrXrDL3H"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC"
       },
@@ -1799,7 +1915,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 349525,
       "name": "Surrounded (Fight My Battles) [Live]",
       "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
@@ -1890,6 +2006,24 @@
     },
     {
       "album": {
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/4k7vz7z2AZytIw9f1GTNZE"
       },
@@ -1901,10 +2035,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 339520,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/45LRF6yJJO6RNcFhkNt569"
+    },
+    {
+      "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297626,
+      "name": "The War Is Over",
+      "url": "https://open.spotify.com/track/3LX9yJxkUTQrzqOpnaF4BK"
     },
     {
       "album": {
@@ -1923,6 +2075,24 @@
       "duration_ms": 425184,
       "name": "The Way (New Horizon)",
       "url": "https://open.spotify.com/track/0x9e3L5wMrST4Xi20XUJPw"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/36eJUFJcPxaUpCiKt9R7b5"
+      },
+      "artists": [
+        {
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551026,
+      "name": "There Is A Name (Live)",
+      "url": "https://open.spotify.com/track/4kRES17Rch8ZEr4dJU7zRX"
     },
     {
       "album": {
@@ -1966,6 +2136,28 @@
     },
     {
       "album": {
+        "name": "To the One. Joy.",
+        "url": "https://open.spotify.com/album/4DVj5NHWjNQDjd5bswxLXc"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Meredith Mauldin",
+          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629869,
+      "name": "To the One",
+      "url": "https://open.spotify.com/track/7AM6r9ky1mSwCYTBSwBezf"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/3n4DOUwVf6CSlW8zbjPGdW"
       },
@@ -1977,10 +2169,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 240946,
       "name": "Upper Room - Studio",
       "url": "https://open.spotify.com/track/4J5pMx9fqgykqpOaLrweoO"
+    },
+    {
+      "album": {
+        "name": "Better Word (Live)",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422626,
+      "name": "Wait Upon the Lord (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6"
     },
     {
       "album": {
@@ -2065,7 +2275,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
@@ -2130,6 +2340,24 @@
     },
     {
       "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362746,
+      "name": "You Deserve It All",
+      "url": "https://open.spotify.com/track/7yqDyoAzXsz3YYLnwR3ilc"
+    },
+    {
+      "album": {
         "name": "You Meet Me Here",
         "url": "https://open.spotify.com/album/3aFfJm6vgxsnmxE7OlWqbi"
       },
@@ -2145,7 +2373,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 324989,
       "name": "You Meet Me Here",
       "url": "https://open.spotify.com/track/7HzDQhZZoq8ihICt3Ki6I6"
@@ -2170,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214330,
+      "name": "You Won't Let Go",
+      "url": "https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP"
+    },
+    {
+      "album": {
         "name": "Canvas And Clay (Live)",
         "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
       },
@@ -2181,7 +2427,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 383560,
       "name": "You're Making Something Beautiful - Spontaneous/Live",
       "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
@@ -2233,6 +2479,28 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+    },
+    {
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Brock Human",
+          "url": "https://open.spotify.com/artist/3fKQOMOuRBYdymdO5yTKkp"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307853,
+      "name": "Your Love Changes Everything (Live) [feat. Brock Human]",
+      "url": "https://open.spotify.com/track/5N9ZuQsZFmbSOEZ5vKgSWe"
     },
     {
       "album": {

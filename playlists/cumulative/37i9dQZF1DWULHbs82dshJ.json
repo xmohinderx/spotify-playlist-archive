@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-02",
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
   "name": "Dia de Chuva",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7gdMCDylrYOpHK5il6ycy3"
+  ],
   "tracks": [
     {
       "album": {
@@ -147,6 +149,24 @@
       "duration_ms": 263666,
       "name": "Back At One",
       "url": "https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh"
+    },
+    {
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276093,
+      "name": "Brown Eyes",
+      "url": "https://open.spotify.com/track/1urmwhtXPiakhcqvqUi3rp"
     },
     {
       "album": {
@@ -793,7 +813,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 211533,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/35FblniF4pyYykItNSi1AX"

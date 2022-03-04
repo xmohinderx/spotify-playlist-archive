@@ -190,6 +190,24 @@
     },
     {
       "album": {
+        "name": "Nader Khalil",
+        "url": "https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG"
+      },
+      "artists": [
+        {
+          "name": "Nader Khalil",
+          "url": "https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73500,
+      "name": "Arab Way",
+      "url": "https://open.spotify.com/track/64iJCxwcWh4RpYCYlKydZs"
+    },
+    {
+      "album": {
         "name": "Astronaut in the Ocean",
         "url": "https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl"
       },
@@ -289,6 +307,24 @@
       "duration_ms": 152923,
       "name": "Busy Body",
       "url": "https://open.spotify.com/track/0hJZIXgZqNFBMtBZIKVMXw"
+    },
+    {
+      "album": {
+        "name": "Nader Khalil",
+        "url": "https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG"
+      },
+      "artists": [
+        {
+          "name": "Nader Khalil",
+          "url": "https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84"
     },
     {
       "album": {

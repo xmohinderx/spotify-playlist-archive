@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Chang Kiha(\uc7a5\uae30\ud558)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Glen Check(\uae00\ub80c\uccb4\ud06c)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "published_playlist_ids": [
     "7oIOz55z3nJxu7NnCUP6gQ"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 134117,
       "name": "2022/02/22",
       "url": "https://open.spotify.com/track/1FUXYmjl2GMjqqWckYHhcm"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 230531,
       "name": "8%",
       "url": "https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 158408,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
@@ -676,6 +676,32 @@
     },
     {
       "album": {
+        "name": "Dream Store",
+        "url": "https://open.spotify.com/album/0MGlAUHQJ86zOtUI5xrBkl"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "Heyden",
+          "url": "https://open.spotify.com/artist/25wRGB30DTSV0Px6AY91dm"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "Dream Store (feat. Ashley Alisha, Heyden)",
+      "url": "https://open.spotify.com/track/0APhIOiHX4bnwf4VMVMmAd"
+    },
+    {
+      "album": {
         "name": "Dreamcatcher \ub4dc\ub9bc\uce90\ucc98",
         "url": "https://open.spotify.com/album/6OtpkxHRV3EGjzOgaPSmtl"
       },
@@ -705,10 +731,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 254458,
       "name": "Dreaming me",
       "url": "https://open.spotify.com/track/48yWAEKHXC7HZumnUvoqoc"
+    },
+    {
+      "album": {
+        "name": "DREAMLIKE",
+        "url": "https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ"
+      },
+      "artists": [
+        {
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215786,
+      "name": "DREAMLIKE",
+      "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
     },
     {
       "album": {
@@ -871,7 +915,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 210581,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR"
@@ -1089,7 +1133,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 221129,
       "name": "Goodbye, fall",
       "url": "https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD"
@@ -1143,7 +1187,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
@@ -1161,7 +1205,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Here Comes Spring",
       "url": "https://open.spotify.com/track/0HoqKELIFy538h4oF7GxFT"
@@ -1201,7 +1245,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 271000,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6goInTbslJn9dnI48KBET2"
@@ -1219,7 +1263,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 331000,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U"
@@ -1259,7 +1303,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 248156,
       "name": "I don't know",
       "url": "https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T"
@@ -1447,7 +1491,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 269775,
       "name": "Instant Lover",
       "url": "https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4"
@@ -1483,7 +1527,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 181697,
       "name": "Islet",
       "url": "https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR"
@@ -1613,7 +1657,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
@@ -1635,7 +1679,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 239842,
       "name": "Let's stay together",
       "url": "https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th"
@@ -1671,7 +1715,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 249051,
       "name": "Love Wave",
       "url": "https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l"
@@ -1837,7 +1881,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 175229,
       "name": "My Last Teen",
       "url": "https://open.spotify.com/track/13vw7pAaPFnJLsv66FeXnq"
@@ -2025,7 +2069,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 256799,
       "name": "One Another",
       "url": "https://open.spotify.com/track/189vi3KtFMw8bH2dKiXtD1"
@@ -2043,7 +2087,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 206146,
       "name": "One another - 2020",
       "url": "https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh"
@@ -2306,6 +2350,24 @@
     },
     {
       "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206091,
+      "name": "Sins",
+      "url": "https://open.spotify.com/track/5nStARhedIpOobuno0xhGW"
+    },
+    {
+      "album": {
         "name": "5.2 (Feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
@@ -2339,7 +2401,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 132437,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu"
@@ -2361,7 +2423,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 269722,
       "name": "Snow in Seoul",
       "url": "https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI"
@@ -2589,7 +2651,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 173106,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz"
@@ -2687,7 +2749,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
@@ -2727,7 +2789,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 223278,
       "name": "Tree (Feat. Eily)",
       "url": "https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB"
@@ -2799,7 +2861,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 218544,
       "name": "Us",
       "url": "https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ"
@@ -2933,7 +2995,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 232893,
       "name": "Winter Breath",
       "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
@@ -2987,7 +3049,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 235746,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE"
@@ -3023,7 +3085,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Your Voice Makes Me Dream",
       "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"

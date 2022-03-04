@@ -374,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Ven Te Estado Esperando",
+        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349909,
+      "name": "Hermoso Nombre",
+      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
+    },
+    {
+      "album": {
         "name": "Reden\u00e7\u00e3o e Liberdade",
         "url": "https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr"
       },
@@ -385,7 +403,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 216351,
       "name": "Hora de Cantar",
       "url": "https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 195653,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 212080,
       "name": "No Te Cambiar\u00e9",
       "url": "https://open.spotify.com/track/3gsq024FJzXqC8HqykxMcM"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 190290,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/47NXoEc8bJd8OISRir1JLW"
@@ -776,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203187,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU"
       },
@@ -809,7 +845,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 207965,
       "name": "Te Entrego Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
@@ -871,7 +907,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"

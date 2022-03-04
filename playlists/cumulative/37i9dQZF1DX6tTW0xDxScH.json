@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 250533,
       "name": "Baby",
       "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 210565,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/0W6XPogEpsX8BLZxU6AQDv"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 238640,
       "name": "lovers\u2019 carvings",
       "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 343253,
       "name": "Other You",
       "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
@@ -1875,7 +1875,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 221877,
       "name": "Someone",
       "url": "https://open.spotify.com/track/3zBHER77TmCpe4IbjGH6Ty"
@@ -2063,6 +2063,28 @@
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4LphJtQ0obg4qmRMxVkqBS"
+      },
+      "artists": [
+        {
+          "name": "Nicotine's Famous Honey",
+          "url": "https://open.spotify.com/artist/111M3zZe92O4PHvKBl8nCT"
+        },
+        {
+          "name": "Nicotine",
+          "url": "https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203368,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/0lRrAowblrqtlInGwgC7oF"
     },
     {
       "album": {

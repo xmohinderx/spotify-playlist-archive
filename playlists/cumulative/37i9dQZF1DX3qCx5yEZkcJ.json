@@ -609,7 +609,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 196235,
       "name": "Bopatron",
       "url": "https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 207529,
       "name": "Bubble Beat",
       "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 198777,
       "name": "City Strollin'",
       "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
@@ -1013,10 +1013,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 108292,
       "name": "Coffee Nap",
       "url": "https://open.spotify.com/track/55LozwKlz0eZHLKYWIqzFL"
+    },
+    {
+      "album": {
+        "name": "Cold Concrete",
+        "url": "https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191860,
+      "name": "Cold Concrete",
+      "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
     },
     {
       "album": {
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 116959,
       "name": "Cows In The Distance",
       "url": "https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 112804,
       "name": "Crooklyn",
       "url": "https://open.spotify.com/track/0kfpJ6L0Ipw5crz3AaMt5C"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 142349,
       "name": "dreams",
       "url": "https://open.spotify.com/track/5psSzu70zEFuIp790nHZ7R"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 92530,
       "name": "Exploring",
       "url": "https://open.spotify.com/track/3AodEX1n2u71gNkSOrUksB"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 147200,
       "name": "Faded Curtains",
       "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 106666,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/3Pj5p85yrHKzWShk4miojl"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 187941,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1zUOLEMjeD1AWRxjSy0HRF"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 130666,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/3OUEma9S6MNldD205VCGio"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 78000,
       "name": "insignificant man",
       "url": "https://open.spotify.com/track/3C5IS0Iovt4tNXXI0NlGoy"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 121263,
       "name": "Ja(zz)mmin",
       "url": "https://open.spotify.com/track/24KCZicSfQoj496yIIyiTr"
@@ -3285,7 +3303,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
@@ -3491,7 +3509,7 @@
       ],
       "date_added": "2019-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 154667,
       "name": "More Life",
       "url": "https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K"
@@ -3633,7 +3651,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 125714,
       "name": "Nature & Me",
       "url": "https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN"
@@ -3823,7 +3841,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 245625,
       "name": "Nomadic tribe - DJ Mitsu The Beats Remix",
       "url": "https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr"
@@ -3877,7 +3895,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 167926,
       "name": "Notes",
       "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
@@ -4147,7 +4165,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 129886,
       "name": "Origami",
       "url": "https://open.spotify.com/track/1Iloy9vXDfjeVSwv3qHpbo"
@@ -4321,7 +4339,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 166593,
       "name": "Pieces Of A Past",
       "url": "https://open.spotify.com/track/2BBDuwV65BW07iFfXYOXO7"
@@ -4383,7 +4401,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/0RZDD0fZ1C0gKU1ca1Vibm"
@@ -4401,7 +4419,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 104827,
       "name": "poopoop",
       "url": "https://open.spotify.com/track/4XCFfPCt4kb3oBd1pQyEHj"
@@ -4419,7 +4437,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 159007,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4FFmAYhmgETV87UMVBgVcT"
@@ -4459,7 +4477,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
@@ -4553,7 +4571,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Red moon",
       "url": "https://open.spotify.com/track/2F66lTUMuqkuuFCBSbXn0t"
@@ -5129,7 +5147,7 @@
       ],
       "date_added": "2020-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 116000,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu"
@@ -5505,7 +5523,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 166448,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5"
@@ -5625,7 +5643,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "Teka",
       "url": "https://open.spotify.com/track/64z6fgsd7813f8cOvzyJnE"
@@ -6071,7 +6089,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 110561,
       "name": "UH OH",
       "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
@@ -6445,7 +6463,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 127105,
       "name": "Without Sleeping",
       "url": "https://open.spotify.com/track/7KrqVvJNSXY9xYNVH3fnvR"

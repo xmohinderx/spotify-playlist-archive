@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 182626,
       "name": "Amantes y Amigos",
       "url": "https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 216899,
       "name": "For Sale",
       "url": "https://open.spotify.com/track/0L1nybi7auw0ta5f1JCuwM"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 216746,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/5zj8WNkBrEzlI5FKeYV4ol"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 195373,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/6QM3YNDJWPdfHVfbZ2kHvq"
@@ -2121,6 +2121,28 @@
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/2S6p0g6YzG3609Ty45i5Cq"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
     },
     {
       "album": {
@@ -2331,7 +2353,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 209373,
       "name": "Tiburones - Remix",
       "url": "https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF"

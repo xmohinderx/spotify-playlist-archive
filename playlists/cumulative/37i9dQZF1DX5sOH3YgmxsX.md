@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5sOH3YgmxsX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5sOH3YgmxsX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5sOH3YgmxsX)
 
-### Top Podcasts de Bate\-Papo de 2021
+### [Hora da Resenha](https://open.spotify.com/playlist/2A3ZFkr4JezRx7jeu71lGw)
 
-> Mesa de bar virtual + dois ou mais hosts + convidados = sucesso em 2021.
+> Papos, piadas, risadas e convidados certeiros: aqueles podcasts que são sucesso!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 190216,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 236000,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
@@ -4060,6 +4060,24 @@
     },
     {
       "album": {
+        "name": "Skeleton Cartier",
+        "url": "https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221583,
+      "name": "Skeleton Cartier",
+      "url": "https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og"
+    },
+    {
+      "album": {
         "name": "Slim Daddy",
         "url": "https://open.spotify.com/album/2y2i63YeYWUNbDx1cn1Y4z"
       },
@@ -4673,7 +4691,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 214016,
       "name": "Unite",
       "url": "https://open.spotify.com/track/4gOWmUEtOo9UV8xpHbesPG"

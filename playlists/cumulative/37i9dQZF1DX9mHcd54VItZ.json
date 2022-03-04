@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7FIlVg34u4qLxKS5ckjFgr"
+      },
+      "artists": [
+        {
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "A New Transition",
+      "url": "https://open.spotify.com/track/7mVsaC8PE3kbH8x1p4tYlg"
+    },
+    {
+      "album": {
         "name": "Always Remember",
         "url": "https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9"
       },
@@ -272,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Druppels",
+        "url": "https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL"
+      },
+      "artists": [
+        {
+          "name": "Gevoel van Veiligheid",
+          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229134,
+      "name": "Druppels",
+      "url": "https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc"
+    },
+    {
+      "album": {
         "name": "Eisbein",
         "url": "https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U"
       },
@@ -481,7 +517,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 214520,
       "name": "For You",
       "url": "https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c"
@@ -723,7 +759,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 195451,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX"
@@ -1159,7 +1195,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 235520,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/1RTBUEn7eJaL8mDaCBCVqe"
@@ -1195,7 +1231,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 131067,
       "name": "The Blues",
       "url": "https://open.spotify.com/track/3yJxrf4EFpXzxPmXMMTmnf"
@@ -1231,10 +1267,28 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 42624,
       "name": "The Naughty List",
       "url": "https://open.spotify.com/track/3EKFkwbeXhcyZkdBOQOokp"
+    },
+    {
+      "album": {
+        "name": "The Veneer",
+        "url": "https://open.spotify.com/album/2W7cWviTHNhhWawHI80Wbp"
+      },
+      "artists": [
+        {
+          "name": "A MILLION WAYS TO DIE",
+          "url": "https://open.spotify.com/artist/5sItFxUca07yQu3TkbBp9U"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296277,
+      "name": "The Veneer",
+      "url": "https://open.spotify.com/track/1iWervHoQ9m2dlDcoOpFL8"
     },
     {
       "album": {

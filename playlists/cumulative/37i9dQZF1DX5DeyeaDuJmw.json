@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2x1",
+        "url": "https://open.spotify.com/album/68jJ0IgjGxR7k0ONzAsaGy"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228942,
+      "name": "2x1",
+      "url": "https://open.spotify.com/track/0oRdD4JbodMeCtlfUs0wu7"
+    },
+    {
+      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -215,7 +233,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 201858,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/5suqjbw9bF0T1X3HU1oG1v"
@@ -267,7 +285,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 189506,
       "name": "Billetes Azules (with J Balvin)",
       "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 212210,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/21SA3m9Lgs1Ch9leBdYrfz"
@@ -337,7 +355,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 240306,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 193546,
       "name": "Chama",
       "url": "https://open.spotify.com/track/1V5QyGNrBtBbKoIxyFnhLf"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 263478,
       "name": "Estamos Bien",
       "url": "https://open.spotify.com/track/2V4Vz4m9V6ldtTiIu6AR88"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 203735,
       "name": "Freestyle Session #12",
       "url": "https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 191503,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/4uJGmTS9Xcfe0O5R66AmUV"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 203008,
       "name": "I Don't Sleep - Remix",
       "url": "https://open.spotify.com/track/6VzbeqtKkPOaAxiNeXhomy"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 308241,
       "name": "Jukiao - Remix",
       "url": "https://open.spotify.com/track/08HdyqNXBEHUF4tkZejKUR"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 137400,
       "name": "Ke Le De",
       "url": "https://open.spotify.com/track/1QQpCezlZc4QemmmzAo8I8"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Keii",
       "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 166206,
       "name": "Mini",
       "url": "https://open.spotify.com/track/6X26bwwXx94aayOpbwpIyt"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 238481,
       "name": "New York",
       "url": "https://open.spotify.com/track/4dJmVKgYJGSnRRb1jPFiq4"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 250485,
       "name": "No Est\u00e1 Interesada",
       "url": "https://open.spotify.com/track/50MM1jSSqo8LndyiLsCO92"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 198981,
       "name": "No Wey",
       "url": "https://open.spotify.com/track/6cjOE0Ed9INrkClCCSpwBv"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 215506,
       "name": "Pa' la Pared",
       "url": "https://open.spotify.com/track/6QDFKeRwjrtWfecE08iMg9"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 184672,
       "name": "Playa",
       "url": "https://open.spotify.com/track/4ZaVajmkOBcdcjDmFScNYs"
@@ -2475,6 +2493,24 @@
       "duration_ms": 200600,
       "name": "Prende",
       "url": "https://open.spotify.com/track/0CbiWTt6jf5CqzqvYH4CPn"
+    },
+    {
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
       "album": {
@@ -2565,7 +2601,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 158800,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
@@ -2679,7 +2715,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "Royal Medellin",
       "url": "https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp"
@@ -2727,7 +2763,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 169585,
       "name": "Santo",
       "url": "https://open.spotify.com/track/6QPOXrZQDq2XuSTruAttFo"
@@ -2931,7 +2967,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 304859,
       "name": "Ta To Gucci (Remix)",
       "url": "https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C"
@@ -3263,7 +3299,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 174790,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5yAo09btO7hEn8YDKW4Dkm"
@@ -3297,7 +3333,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Vitamina (Remix)",
       "url": "https://open.spotify.com/track/6xBBOrrKiALoAN8twug4Cq"
@@ -3319,7 +3355,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 184535,
       "name": "XULITA (feat. Kaydy Cain)",
       "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
@@ -3341,7 +3377,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 172714,
       "name": "Y Que Pas\u00f3",
       "url": "https://open.spotify.com/track/4iGCZZcyuvpEqoTdtbBcye"

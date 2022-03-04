@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "A Little Hole In My Jeans",
+        "url": "https://open.spotify.com/album/3QQLXcFcRaSRmA7WrWB9Wv"
+      },
+      "artists": [
+        {
+          "name": "Peter Netz",
+          "url": "https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204204,
+      "name": "A Little Hole In My Jeans",
+      "url": "https://open.spotify.com/track/7b6g3CZ4ud4zllVhO9nSMT"
+    },
+    {
+      "album": {
+        "name": "Airstream",
+        "url": "https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16"
+      },
+      "artists": [
+        {
+          "name": "Alex Miracone",
+          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Airstream",
+      "url": "https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z"
+    },
+    {
+      "album": {
         "name": "Andorra",
         "url": "https://open.spotify.com/album/5Myhfafww3fj0Fb38ycbYx"
       },
@@ -59,6 +95,24 @@
       "duration_ms": 168000,
       "name": "Anoranza",
       "url": "https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz"
+    },
+    {
+      "album": {
+        "name": "Iara",
+        "url": "https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb"
+      },
+      "artists": [
+        {
+          "name": "Frederic Dupont",
+          "url": "https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197542,
+      "name": "Arbonne",
+      "url": "https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo"
     },
     {
       "album": {
@@ -203,6 +257,24 @@
       "duration_ms": 156988,
       "name": "Ciudad nueva",
       "url": "https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb"
+    },
+    {
+      "album": {
+        "name": "Close By The Fire",
+        "url": "https://open.spotify.com/album/5KzN2hat37o397IEZ25Zb7"
+      },
+      "artists": [
+        {
+          "name": "Simon Oliveira",
+          "url": "https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205587,
+      "name": "Close By The Fire",
+      "url": "https://open.spotify.com/track/5hOXnyfvjzAPaqMP9lpojq"
     },
     {
       "album": {
@@ -368,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Everythings Better With You",
+        "url": "https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133140,
+      "name": "Everythings Better With You",
+      "url": "https://open.spotify.com/track/0RV12YvPOxIqg21RqyxVPs"
+    },
+    {
+      "album": {
         "name": "Happy Days Are Long Awaited",
         "url": "https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf"
       },
@@ -401,6 +491,24 @@
       "duration_ms": 198472,
       "name": "Flying out",
       "url": "https://open.spotify.com/track/0em6UnHzNwrpy2Bg13FQVE"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0a6JQdPkBBa0mIYBVe7qj2"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/3mcnh0DtILL5mjk0dwR3oD"
     },
     {
       "album": {
@@ -545,6 +653,60 @@
       "duration_ms": 197958,
       "name": "Hidden Treasures",
       "url": "https://open.spotify.com/track/5QMPnfATvvolBDWSvM2hjm"
+    },
+    {
+      "album": {
+        "name": "High Seas",
+        "url": "https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "High Seas",
+      "url": "https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv"
+    },
+    {
+      "album": {
+        "name": "I Found The Right Bottle Of Wine",
+        "url": "https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB"
+      },
+      "artists": [
+        {
+          "name": "Kevin Flynn",
+          "url": "https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200345,
+      "name": "I Found The Right Bottle Of Wine",
+      "url": "https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82"
+    },
+    {
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4"
+      },
+      "artists": [
+        {
+          "name": "Dean M Parker",
+          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "I Still Believe In You",
+      "url": "https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea"
     },
     {
       "album": {
@@ -696,6 +858,60 @@
     },
     {
       "album": {
+        "name": "Live just one more moment",
+        "url": "https://open.spotify.com/album/52cRGasaOFSkOte69HO7Yf"
+      },
+      "artists": [
+        {
+          "name": "Brogan Doyle",
+          "url": "https://open.spotify.com/artist/1Vefdiw82VOjbwc5y7iQyg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142249,
+      "name": "Live just one more moment",
+      "url": "https://open.spotify.com/track/3a2YKVcHmyXPZvWGofVTZ6"
+    },
+    {
+      "album": {
+        "name": "Long Walking Back Home",
+        "url": "https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX"
+      },
+      "artists": [
+        {
+          "name": "August Wilkes",
+          "url": "https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Long Walking Back Home",
+      "url": "https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG"
+    },
+    {
+      "album": {
+        "name": "Odoacer",
+        "url": "https://open.spotify.com/album/6Zgfn2b9hQTXgN4tOVuau3"
+      },
+      "artists": [
+        {
+          "name": "Sun Guitar",
+          "url": "https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Lute",
+      "url": "https://open.spotify.com/track/2NdSxdafeYHyE0UT2tu2CR"
+    },
+    {
+      "album": {
         "name": "Mar en Calma",
         "url": "https://open.spotify.com/album/2w5M7NjPdfKtcNjknLwHuV"
       },
@@ -750,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Olden Spirit",
+        "url": "https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj"
+      },
+      "artists": [
+        {
+          "name": "Aleena Pearson",
+          "url": "https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149713,
+      "name": "Olden Spirit",
+      "url": "https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6"
+    },
+    {
+      "album": {
         "name": "Paradise Cove",
         "url": "https://open.spotify.com/album/7w6OR7HvoGdQqDAoG271fw"
       },
@@ -765,6 +999,24 @@
       "duration_ms": 256062,
       "name": "Paradise Cove",
       "url": "https://open.spotify.com/track/3lCez1NMvH5SXtWDYT6pSR"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY"
     },
     {
       "album": {
@@ -855,6 +1107,24 @@
       "duration_ms": 163590,
       "name": "Quadratus",
       "url": "https://open.spotify.com/track/4fLFwoT3vSS0T91CoM3ret"
+    },
+    {
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161214,
+      "name": "Red Fir",
+      "url": "https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV"
     },
     {
       "album": {
@@ -963,6 +1233,24 @@
       "duration_ms": 206126,
       "name": "Sonnensterne",
       "url": "https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L"
+    },
+    {
+      "album": {
+        "name": "Soon Enough",
+        "url": "https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV"
+      },
+      "artists": [
+        {
+          "name": "Peder Falk",
+          "url": "https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125239,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf"
     },
     {
       "album": {
@@ -1164,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Soon Enough",
+        "url": "https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV"
+      },
+      "artists": [
+        {
+          "name": "Peder Falk",
+          "url": "https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127269,
+      "name": "Until Then",
+      "url": "https://open.spotify.com/track/6AEU8t2mTdeVdfP5JyIUUf"
+    },
+    {
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/4gHQh1PpIXkBOd4VHtPG3i"
       },
@@ -1269,6 +1575,24 @@
       "duration_ms": 200000,
       "name": "When She Was There",
       "url": "https://open.spotify.com/track/5rOfd0ZqNPDzFWEgROvIdz"
+    },
+    {
+      "album": {
+        "name": "Everythings Better With You",
+        "url": "https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130131,
+      "name": "When You Hold Me",
+      "url": "https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc6Umi4GHdr1"

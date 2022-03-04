@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 196946,
       "name": "9 5 . s o u t h",
       "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 123446,
       "name": "Face Of My City (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 144349,
       "name": "Headshot (feat. Polo G & Fivio Foreign)",
       "url": "https://open.spotify.com/track/6cQ08IpBxxfGcSKxqE3NmB"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 261492,
       "name": "Laugh Now Cry Later (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 168728,
       "name": "No Return (with The Kid LAROI & Lil Durk)",
       "url": "https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 159082,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 120110,
       "name": "Rookie Of The Year",
       "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 339506,
       "name": "Seeing Green (with Drake & Lil Wayne)",
       "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 267090,
       "name": "THIS IS MY YEAR (feat. A Boogie Wit Da Hoodie, Big Sean, Rick Ross & Puff Daddy)",
       "url": "https://open.spotify.com/track/3pBt8B92anUJVIllwPrIuR"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "UGLY (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc"
@@ -2483,7 +2483,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 279853,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
@@ -2531,10 +2531,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 111386,
       "name": "You Know",
       "url": "https://open.spotify.com/track/1ioaV68BICIiSHpcqSUVHR"
+    },
+    {
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136461,
+      "name": "ZTFO",
+      "url": "https://open.spotify.com/track/0z36JaXXoFXuPuQucKEsdx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX76t638V6CA8"

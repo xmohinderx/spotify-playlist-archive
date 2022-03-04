@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 174230,
       "name": "ALLSTAR",
       "url": "https://open.spotify.com/track/2jzNzQibsiVIBPTeJsifby"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 202222,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/5QvLKIo27yVB5Rns0VXGrI"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 206060,
       "name": "bayridge",
       "url": "https://open.spotify.com/track/6GijrCnVsghoXzLOt2elDw"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 288386,
       "name": "Breathe Deeper - Lil Yachty Remix",
       "url": "https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 279240,
       "name": "Can't Believe It",
       "url": "https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 144567,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 184314,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/5lmgkKIkmyVH5DofULJ0YM"
@@ -760,6 +760,24 @@
     },
     {
       "album": {
+        "name": "GET IT",
+        "url": "https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151301,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS"
+    },
+    {
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
       },
@@ -797,7 +815,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 247496,
       "name": "Health Food",
       "url": "https://open.spotify.com/track/0Dylgc29zZwO3YRC1VrMdo"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 183588,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4qU8ip3F34wLBY1GBWYN3m"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "IN PINK (feat. Mndsgn)",
       "url": "https://open.spotify.com/track/2hh57Boyz8tUEFxvyurmeb"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "Kumbaya",
       "url": "https://open.spotify.com/track/2LiAbVThDjRxRWz8SQaWuw"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 159829,
       "name": "Life Vest",
       "url": "https://open.spotify.com/track/3xykBxrjAoAgl7A4akYnXZ"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 228727,
       "name": "Mr. Midas",
       "url": "https://open.spotify.com/track/48l47x2sWBtYKkRqLQJPBs"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 187741,
       "name": "Nina",
       "url": "https://open.spotify.com/track/3EpXvoc1tuppLNAFS1cl0X"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 202537,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/2ePrgn0UoboVXWdHLz8rBK"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 224881,
       "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
       "url": "https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 265714,
       "name": "Sweeter, More Bitter - Oscar Jerome Remix",
       "url": "https://open.spotify.com/track/5UuI9nJTR2mgOKejOZTYtq"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 294445,
       "name": "Tangerine - Channel Tres Remix",
       "url": "https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 172517,
       "name": "THE SUN SHINES SO BRIGHT WITH YOU",
       "url": "https://open.spotify.com/track/3oNpguc2W0QcVRJ4hGzdZa"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 120022,
       "name": "THINKING",
       "url": "https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 330022,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/7jaRUZ8V1ilINYddN4wtrB"

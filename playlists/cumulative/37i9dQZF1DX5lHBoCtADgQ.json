@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e"
+      },
+      "artists": [
+        {
+          "name": "Chakshu Kotwal",
+          "url": "https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301589,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl"
+    },
+    {
+      "album": {
         "name": "Jugni 2.0",
         "url": "https://open.spotify.com/album/0QAZxuGZxtJ4hcCJaMGBkB"
       },

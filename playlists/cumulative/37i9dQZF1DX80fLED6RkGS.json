@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=sLI4n7mHSAiv4ET_PvrWYA\">Exray Taniua</a>",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX?si=rPdpvKJGRmmfbqoPLvhTuQ\">Trio Mio</a>",
   "name": "Gengetone Fire",
   "published_playlist_ids": [
     "7MvfVmuw7tyjVzEqBd5mPq"
@@ -436,6 +436,28 @@
     },
     {
       "album": {
+        "name": "Character Development",
+        "url": "https://open.spotify.com/album/3UC3wH7N1QvJkoIduTGEH4"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Character Development",
+      "url": "https://open.spotify.com/track/5E4yMQEONWdxxoDlS1cEBw"
+    },
+    {
+      "album": {
         "name": "Son of the City",
         "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
@@ -839,7 +861,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 199200,
       "name": "Hayaa",
       "url": "https://open.spotify.com/track/1MIj6zLZKQRXol1hkxiAue"
@@ -1025,7 +1047,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-04",
       "duration_ms": 198200,
       "name": "Kibanda",
       "url": "https://open.spotify.com/track/3n5PmxplLwunP2INPa7daR"
@@ -1769,6 +1791,36 @@
       "duration_ms": 134193,
       "name": "Nilo",
       "url": "https://open.spotify.com/track/5sjE0zXk28Xpy0Ku0AhbLu"
+    },
+    {
+      "album": {
+        "name": "Black Ama Regular",
+        "url": "https://open.spotify.com/album/4DV838ExgpG87hVZu4sLTq"
+      },
+      "artists": [
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        },
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "King Kora",
+          "url": "https://open.spotify.com/artist/5PMzvp0Mxb31zRaHMImrgK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259032,
+      "name": "Nitakusema",
+      "url": "https://open.spotify.com/track/0vTKDdxIJ9gWz91HFhZA1W"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Ranger Trucco
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,395 likes - 130 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,512 likes - 130 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

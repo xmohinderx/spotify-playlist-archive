@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: MAI; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,882 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,908 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 3 | [Lying to myself](https://open.spotify.com/track/4kyC7RSjMFeePlXQ5yZdiV) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [sy](https://open.spotify.com/artist/7eiLshFe5Gg4tik2JmwGNU) | [Lying to myself](https://open.spotify.com/album/7gU4sYYG8bsvCCusUZGt5N) | 2:56 |
 | 4 | [Lose You](https://open.spotify.com/track/5mACzX9W7gTOhX8ms3z43w) | [Phi Zi](https://open.spotify.com/artist/6ko1Rytv1xKlLZhMaKsrtV) | [Lose You](https://open.spotify.com/album/2Y9tbjD5eSD0ToV6jVMABc) | 3:34 |
 | 5 | [Siêu Phẩm Tình Ew](https://open.spotify.com/track/5xzmoyatAiWIvKxcog8WV3) | [MAI](https://open.spotify.com/artist/4cuCzi4VvHHwwowu56Ejm5) | [Siêu Phẩm Tình Ew](https://open.spotify.com/album/4wcAc5TGLpWStUWUE0KZPf) | 3:37 |
-| 6 | [Anh Sẽ Đón Em \- Cukak Remix](https://open.spotify.com/track/6TAwLpBmMXQbLs8vgZ43xS) | [Nguyên](https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Anh Sẽ Đón Em \(Cukak Remix\)](https://open.spotify.com/album/5qQ39q9my2FoeiqUYnh0Tz) | 3:52 |
+| 6 | [Anh Sẽ Đón Em \- Cukak Remix](https://open.spotify.com/track/6TAwLpBmMXQbLs8vgZ43xS) | [Nguyên](https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw), [TRANG](https://open.spotify.com/artist/2qfqUJvy3vika8WG6kOJ71) | [Anh Sẽ Đón Em \(Cukak Remix\)](https://open.spotify.com/album/5qQ39q9my2FoeiqUYnh0Tz) | 3:52 |
 | 7 | [Precious \- Cukak Remix](https://open.spotify.com/track/3LXgtPzLjoniEX4qvsOZ7i) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [KiperT](https://open.spotify.com/artist/4bxBytwIxfYh9r73z0zE4y) | [Precious \(Cukak Remix\)](https://open.spotify.com/album/4aJFVEWiAZXjn3csBJwdAf) | 3:05 |
 | 8 | [Darling](https://open.spotify.com/track/46lspYJUdvdi8F6I9o19k2) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm), [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw) | [Darling](https://open.spotify.com/album/6PfkdWB1FITrPmg7MqjTiY) | 3:28 |
 | 9 | [Do Anh \(feat\. Carot\)](https://open.spotify.com/track/083zZXckEnQlFVlozcCTKb) | [Phuc](https://open.spotify.com/artist/7JURHEvJvgTAxKIsTopw4b), [Carot](https://open.spotify.com/artist/5CWtXPG9ey93HzL2q5NlAk) | [Do Anh](https://open.spotify.com/album/6AQk5cB2GdGzoi1w2idvOA) | 2:27 |

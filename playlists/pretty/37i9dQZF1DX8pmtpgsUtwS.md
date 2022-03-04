@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,178 likes - 77 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,192 likes - 77 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 76 | [Luki \- Live](https://open.spotify.com/track/6ZtmKFdnEqyRaOcMKwWRsA) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Remember Shakti: Saturday Night In Bombay](https://open.spotify.com/album/6qD0dBDPOasER1sWmfLjuZ) | 5:38 |
 | 77 | [Awakning Main Sutti](https://open.spotify.com/track/0LnhLRxbd7xu9WHQEAaFT9) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Sufi Lounge](https://open.spotify.com/album/7KaaYMtqk9kbtlIHdV8cmH) | 6:14 |
 
-Snapshot ID: `MTY0NTAyNzMwNCwwMDAwMDA1YjAwMDAwMTdmMDM0NGE1NzkwMDAwMDE3ZTQzYjdkNjM0`
+Snapshot ID: `MTY0NjI5MTc3NSwwMDAwMDA1YzAwMDAwMTdmNGVhMmYxNDEwMDAwMDE3ZTQzYjdkNjM0`
