@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 324806,
       "name": "Abuskeleke",
       "url": "https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 330573,
       "name": "Ahomka Womu",
       "url": "https://open.spotify.com/track/64QtNm7SM1TwKZ3iINW6Be"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 286511,
       "name": "Alampaine",
       "url": "https://open.spotify.com/track/0ZOc6TTrgG4nEquANacw7B"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 342125,
       "name": "Bue Bue (feat. Castro)",
       "url": "https://open.spotify.com/track/1vSMFShTdr7geA5nfh4zpg"
@@ -360,6 +360,24 @@
     },
     {
       "album": {
+        "name": "DADA BA",
+        "url": "https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "DADA BA",
+      "url": "https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -371,7 +389,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 305972,
       "name": "Deeba",
       "url": "https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 341968,
       "name": "Konkontiba (feat. Batman)",
       "url": "https://open.spotify.com/track/53Y4oaiD8nykrG6pT6pUaQ"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 364669,
       "name": "Kotosa",
       "url": "https://open.spotify.com/track/3mBRt8Ca7OhCew1X1tac0G"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 212767,
       "name": "Maba",
       "url": "https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 292106,
       "name": "Medo",
       "url": "https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 346775,
       "name": "Mesan Aba (feat. Nana Quame)",
       "url": "https://open.spotify.com/track/6ubA77bSivUeRqk10GpRTX"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 331389,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/1Vbx0DjX403mZOBIgoIYWz"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 311170,
       "name": "Obaa No",
       "url": "https://open.spotify.com/track/1AfW3qEZUUn3GbiBEtJfz9"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 309786,
       "name": "Odo Esisi Me",
       "url": "https://open.spotify.com/track/2zhlGF3UdumrDkgLx3iaVv"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 300359,
       "name": "Oye Ohene featuring Tinny",
       "url": "https://open.spotify.com/track/4vR0tJ5daJdqZ0sjEidju2"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 304222,
       "name": "Sikilitele",
       "url": "https://open.spotify.com/track/3PeIqo6ofIXXey8FmE8QjR"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 380525,
       "name": "Sradenam",
       "url": "https://open.spotify.com/track/4FjJYmgk0KGQNrOfSR1cqM"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 272901,
       "name": "Sudwe (feat. Batman & Tinny)",
       "url": "https://open.spotify.com/track/4aSkWak39yEulN0pwtYfir"
@@ -969,7 +987,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 196398,
       "name": "Sure Banker",
       "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 337606,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 296907,
       "name": "Uncle Ebo",
       "url": "https://open.spotify.com/track/6nPaMcmh1UHgNwId2TLznB"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 344790,
       "name": "Wafom",
       "url": "https://open.spotify.com/track/2pY5TiBztBDclvZoGNm90E"

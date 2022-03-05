@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Afro sounds crossing borders. Top Afro Bashment, Pop, Fusion / X-Overs from all across the world.  Cover: <a href=\"spotify:artist:3tVQdUvClmAT7URs9V3rsp\">WizKid</a>",
+  "description": "Afro sounds crossing borders. Top Afro Bashment, Pop, Fusion / X-Overs from all across the world.  Cover: <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=H-Ew-4PIRuew9036qjyqTQ\">Omah Lay</a>",
   "name": "We Everywhere",
   "published_playlist_ids": [
     "50Q1v3oZfufg8td6P4MbdJ"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 225146,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
@@ -57,7 +57,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "A Million",
       "url": "https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 200816,
       "name": "African Girl Bad",
       "url": "https://open.spotify.com/track/2iKM6R7hySTdy1QKh2WApo"
@@ -193,10 +193,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189106,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
     },
     {
       "album": {
@@ -211,7 +233,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208000,
       "name": "Attention",
       "url": "https://open.spotify.com/track/4rEuaYXYUrHtcpIo26pxAt"
@@ -317,7 +339,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 168865,
       "name": "Badman Love - Remix",
       "url": "https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq"
@@ -621,7 +643,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 187782,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7"
@@ -940,6 +962,28 @@
     },
     {
       "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171538,
+      "name": "DEADMAN BONE (feat. Koffee)",
+      "url": "https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc"
+    },
+    {
+      "album": {
         "name": "Dimension (feat. Skepta & Rema)",
         "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
       },
@@ -1167,7 +1211,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/264tFYse4A4qbgmaur6Pxd"
@@ -1639,7 +1683,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 147207,
       "name": "God's Work (feat. iLL BLU)",
       "url": "https://open.spotify.com/track/2C0pnGNygYIDJky515Riw0"
@@ -1919,7 +1963,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 190108,
       "name": "JA ARA E",
       "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
@@ -2191,7 +2235,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 213266,
       "name": "Lenu - Remix",
       "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
@@ -2395,7 +2439,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 184797,
       "name": "Make Up Your Mind (feat. Tekno)",
       "url": "https://open.spotify.com/track/3LbXzCehkT8acW8FsPpPKt"
@@ -2567,7 +2611,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 162782,
       "name": "Music Messiah",
       "url": "https://open.spotify.com/track/3lPOu76tRlaN6gb38z4ptx"
@@ -2651,7 +2695,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 198496,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/0ZEFUsb2AVGup8SV3y3yXl"
@@ -2934,6 +2978,28 @@
     },
     {
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "album": {
         "name": "Pick Up",
         "url": "https://open.spotify.com/album/6pig1K4wZv0XZ26xYSGHOd"
       },
@@ -3011,7 +3077,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs"
@@ -3213,7 +3279,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 270315,
       "name": "Risky",
       "url": "https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca"
@@ -3253,7 +3319,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 135680,
       "name": "Rumour",
       "url": "https://open.spotify.com/track/4TF0cJ1HCQzA8upuEtXsiJ"
@@ -3649,7 +3715,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 148000,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0u3gigxw11WMwQryCLnXi2"
@@ -3827,7 +3893,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 150296,
       "name": "Sweeter Love",
       "url": "https://open.spotify.com/track/7wb6QFM3nF4hOpoLiypXb3"
@@ -3900,6 +3966,32 @@
     },
     {
       "album": {
+        "name": "Talk 2 Me Nice",
+        "url": "https://open.spotify.com/album/0vXoaNm5mA6e0K6UMOwrKO"
+      },
+      "artists": [
+        {
+          "name": "David S Gray",
+          "url": "https://open.spotify.com/artist/3LtYpl5GrmTUBT7Qu9HFFp"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169669,
+      "name": "Talk 2 Me Nice",
+      "url": "https://open.spotify.com/track/1JHI3YiQd6mExSgjd1mrjH"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5ycUE1KQtsu3ZlMYYFMWlV"
       },
@@ -3951,7 +4043,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -3969,7 +4061,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168896,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
@@ -4047,7 +4139,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 202012,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/7uNU0RCnCy6lGG2Id1cN4Z"
@@ -4203,7 +4295,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 189354,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/5Gf30Ezykm4MhgzvaPL2Ei"
@@ -4243,7 +4335,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

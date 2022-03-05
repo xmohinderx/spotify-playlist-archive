@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Luke Combs",
+  "description": "Today's top country hits of the week, worldwide! Cover: Gabby Barrett",
   "name": "Hot Country",
   "published_playlist_ids": [
     "6kgRyUaLssWEGETpjboDD4"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 201973,
       "name": "Before I Knew It",
       "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
@@ -2579,6 +2579,24 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
+    },
+    {
+      "album": {
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
       "album": {
@@ -4633,6 +4651,24 @@
       "duration_ms": 193416,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3ySLzrN7950dpf1ncttONO"
+    },
+    {
+      "album": {
+        "name": "Last Night Lonely",
+        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181990,
+      "name": "Last Night Lonely",
+      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
     },
     {
       "album": {
@@ -7431,7 +7467,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 162120,
       "name": "Steal My Love",
       "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"

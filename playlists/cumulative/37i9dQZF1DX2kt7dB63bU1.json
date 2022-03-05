@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: C\u00e9cile McLorin Salvant",
+  "description": "Jazz voices of today. Cover: Melody Gardot",
   "name": "Vocal Jazz",
   "published_playlist_ids": [
     "1MJcLwlhyaudSQhL0k2nLU"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 390420,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/4L9d16l92WzqzUziUFfZ4B"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 296053,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/5TDb8Vv6JMNtovV051It7Z"
@@ -2181,7 +2181,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 328176,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
@@ -2309,6 +2309,24 @@
       "duration_ms": 231426,
       "name": "I Love Paris",
       "url": "https://open.spotify.com/track/4J8U08oqaRfNz4oOl4Y3Ay"
+    },
+    {
+      "album": {
+        "name": "I Must Have That Man",
+        "url": "https://open.spotify.com/album/64vyKhXh4mnerSTAuEPsl4"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312615,
+      "name": "I Must Have That Man",
+      "url": "https://open.spotify.com/track/3mbdUnczHqdFQ0PSui94o3"
     },
     {
       "album": {
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 297820,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/6mYrRzQ0YmrWdIDY1hS4pj"
@@ -3787,7 +3805,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 215346,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/7qPJo6KJN9qrAIYjl2l4y2"
@@ -6035,6 +6053,24 @@
       "duration_ms": 217187,
       "name": "Woman's Reach",
       "url": "https://open.spotify.com/track/5b4LwXqmIpgYmwIMsXor45"
+    },
+    {
+      "album": {
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163997,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD"
     },
     {
       "album": {

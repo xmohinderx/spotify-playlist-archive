@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 326979,
       "name": "African Shabtay",
       "url": "https://open.spotify.com/track/0KFqWGc2VNfpCbi6PuX218"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 349786,
       "name": "Apostrophe'",
       "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 682626,
       "name": "Deadly Nightshade",
       "url": "https://open.spotify.com/track/6Ws4jPs9nJuXkrD7Nv3gLW"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 300739,
       "name": "Dormammu (Featuring the Shady Horns)",
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 373813,
       "name": "Extraction",
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 266535,
       "name": "Flowerbed",
       "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 329533,
       "name": "Hazard Profile Part 5",
       "url": "https://open.spotify.com/track/3Wgry7XCJ7PPEovyaKWxza"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 394373,
       "name": "Heksen Romance",
       "url": "https://open.spotify.com/track/1RPtXJvLdFFU7lh7SQgtL8"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 486744,
       "name": "Planetary Prince",
       "url": "https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K"
@@ -993,10 +993,32 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 344013,
       "name": "Pok\u00e9mon Shock",
       "url": "https://open.spotify.com/track/2kps9ODbIyKaXAMMf9rNdh"
+    },
+    {
+      "album": {
+        "name": "Thanks for Flying With Us",
+        "url": "https://open.spotify.com/album/3LAXLwubMT3yW1xzY2zD2Y"
+      },
+      "artists": [
+        {
+          "name": "Morgan \u00c5gren",
+          "url": "https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE"
+        },
+        {
+          "name": "Mats \u00d6berg",
+          "url": "https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232840,
+      "name": "Propellerh\u00e4st",
+      "url": "https://open.spotify.com/track/7rQF99EMaFVsbOxNtoo0GH"
     },
     {
       "album": {
@@ -1069,7 +1091,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 232000,
       "name": "Scorching Sun",
       "url": "https://open.spotify.com/track/10rD8xLRTu1AWQPFtF7G6Q"
@@ -1193,7 +1215,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 437607,
       "name": "Stadium Jazz",
       "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
@@ -1459,7 +1481,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 421920,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/2LCtpDYvJ8PErWnySoUiAw"

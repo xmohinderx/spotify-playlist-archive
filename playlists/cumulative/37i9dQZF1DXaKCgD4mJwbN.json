@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+    },
+    {
+      "album": {
         "name": "Billetes Verdes",
         "url": "https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 143933,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 204200,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w"
@@ -237,6 +255,72 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "album": {
+        "name": "Con Un Botecito A Pecho",
+        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "album": {
+        "name": "Cosas Del Diablo",
+        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "La Cotorrisa",
+          "url": "https://open.spotify.com/artist/72j1bOj19ZViXuyppnx5tJ"
+        },
+        {
+          "name": "Strecci",
+          "url": "https://open.spotify.com/artist/7p1l2K7lVH2v4hrT3Y3tOv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169986,
+      "name": "Contigo No Fue",
+      "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
     },
     {
       "album": {
@@ -389,7 +473,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 180040,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY"
@@ -440,6 +524,28 @@
     },
     {
       "album": {
+        "name": "El Belicon",
+        "url": "https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214397,
+      "name": "El Belicon",
+      "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
+    },
+    {
+      "album": {
         "name": "El Borracho",
         "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
@@ -451,7 +557,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 184199,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
@@ -541,7 +647,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174272,
       "name": "El Fat Tony",
       "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
@@ -595,7 +701,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 201038,
       "name": "El Gato De Chihuahua",
       "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
@@ -617,7 +723,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 213254,
       "name": "El G\u00fcero (Feat. Marca MP)",
       "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
@@ -653,7 +759,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 183594,
       "name": "El Ruddy",
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
@@ -827,6 +933,42 @@
       "duration_ms": 267333,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
+    },
+    {
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "album": {
+        "name": "Desde la Ra\u00edz",
+        "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201205,
+      "name": "Fumando Mota",
+      "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
     },
     {
       "album": {
@@ -1011,7 +1153,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 140983,
       "name": "Me Acostumbre A Lo Bueno",
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
@@ -1054,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Me Siento A Todo Dar",
+        "url": "https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Me Siento A Todo Dar",
+      "url": "https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o XXX",
         "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
       },
@@ -1065,7 +1225,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 181986,
       "name": "Me Sobrabas T\u00fa",
       "url": "https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A"
@@ -1289,7 +1449,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 149812,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
@@ -1369,6 +1529,24 @@
       "duration_ms": 213280,
       "name": "Qui\u00e9n Es Usted",
       "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Buena Peda",
+        "url": "https://open.spotify.com/album/56sWPV5Ec6oTXTtjqiegcq"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168795,
+      "name": "Qu\u00e9 Buena Peda",
+      "url": "https://open.spotify.com/track/1mw25steaTbmnytILDIgav"
     },
     {
       "album": {
@@ -1614,6 +1792,28 @@
     },
     {
       "album": {
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209673,
+      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
+      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+    },
+    {
+      "album": {
         "name": "El Borracho",
         "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
@@ -1751,7 +1951,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 231160,
       "name": "Volvere A Amar",
       "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"

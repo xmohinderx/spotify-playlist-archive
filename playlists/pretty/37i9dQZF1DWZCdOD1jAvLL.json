@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: L\u016aN",
-  "num_followers": 149938,
+  "num_followers": 150211,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTIwMCwwMDAwMDFlYjAwMDAwMTdmMmY0MDA5NDUwMDAwMDE3ZjBhODRlOTI5",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDFlYzAwMDAwMTdmNTM0YzhkNDMwMDAwMDE3ZjBhODRlOTI5",
   "tracks": [
     {
       "added_at": "2022-02-18 18:02:29",
@@ -125,6 +125,42 @@
       "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Dani Girl",
+        "url": "https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Dani Girl",
+      "url": "https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc"
+    },
+    {
       "added_at": "2022-02-18 18:02:29",
       "album": {
         "name": "079",
@@ -143,6 +179,26 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "State Of Mind (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 172431,
+      "name": "State Of Mind (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ"
     },
     {
       "added_at": "2022-02-18 18:02:29",
@@ -187,6 +243,66 @@
     {
       "added_at": "2022-02-18 18:02:29",
       "album": {
+        "name": "1F2F",
+        "url": "https://open.spotify.com/album/1FHvEp9a23CmefSGUrwsrs"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "OGAQUAFINA",
+          "url": "https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK"
+        }
+      ],
+      "duration_ms": 175078,
+      "name": "1F2F",
+      "url": "https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/2ltcoGtwFuWByn247k6SYB"
+      },
+      "artists": [
+        {
+          "name": "Slater Manzo",
+          "url": "https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/2hA6fssYxjLYjsVolzghO7"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Nothing Gonna Stop This",
+        "url": "https://open.spotify.com/album/30ubmboEJ0dSuxjXbusHTA"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        }
+      ],
+      "duration_ms": 227534,
+      "name": "Nothing Gonna Stop This",
+      "url": "https://open.spotify.com/track/1JWA4peO1GxEgDxh8J23UA"
+    },
+    {
+      "added_at": "2022-02-18 18:02:29",
+      "album": {
         "name": "History (feat. Maggie Szabo)",
         "url": "https://open.spotify.com/album/1bJ94admkYHcdFcCOp2ETa"
       },
@@ -221,20 +337,20 @@
       "url": "https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD"
     },
     {
-      "added_at": "2022-02-25 05:00:00",
+      "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "Dani Girl",
-        "url": "https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa"
+        "name": "Double Dip",
+        "url": "https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL"
       },
       "artists": [
         {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Dani Girl",
-      "url": "https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc"
+      "duration_ms": 198906,
+      "name": "Double Dip",
+      "url": "https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2"
     },
     {
       "added_at": "2022-02-18 18:02:29",
@@ -271,30 +387,6 @@
       "duration_ms": 187619,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
-    },
-    {
-      "added_at": "2022-02-18 18:02:29",
-      "album": {
-        "name": "1F2F",
-        "url": "https://open.spotify.com/album/1FHvEp9a23CmefSGUrwsrs"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "OGAQUAFINA",
-          "url": "https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK"
-        }
-      ],
-      "duration_ms": 175078,
-      "name": "1F2F",
-      "url": "https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -487,22 +579,6 @@
     {
       "added_at": "2022-02-18 18:02:29",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
-    },
-    {
-      "added_at": "2022-02-18 18:02:29",
-      "album": {
         "name": "Permanence",
         "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
       },
@@ -661,6 +737,22 @@
       "url": "https://open.spotify.com/track/0vpvhFx17wBN7HHkxUOQUM"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Roll The Dice",
+        "url": "https://open.spotify.com/album/2AZ4Obu4mSxijQjXnt1s68"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        }
+      ],
+      "duration_ms": 248275,
+      "name": "Roll The Dice",
+      "url": "https://open.spotify.com/track/3kGAV0R2L8epxVr7FQ5Wpv"
+    },
+    {
       "added_at": "2022-02-18 18:02:29",
       "album": {
         "name": "Move To The Beat Like",
@@ -699,58 +791,6 @@
       "duration_ms": 142857,
       "name": "Bring Et",
       "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
-    },
-    {
-      "added_at": "2022-02-18 18:02:29",
-      "album": {
-        "name": "Take ft. Kimbra (Pat Lok Remix)",
-        "url": "https://open.spotify.com/album/2gRk8RlBHWal0OhHRSMtp0"
-      },
-      "artists": [
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        },
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Take ft. Kimbra - Pat Lok Remix",
-      "url": "https://open.spotify.com/track/6LIzRhFWBsZPg9sORfFs1d"
-    },
-    {
-      "added_at": "2022-02-18 18:02:29",
-      "album": {
-        "name": "No Beef (feat. Miss Palmer) [REMIXES pt. 2]",
-        "url": "https://open.spotify.com/album/2fX1ANGX9EJDxfaLo34ALp"
-      },
-      "artists": [
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Miss Palmer",
-          "url": "https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "No Beef (feat. Miss Palmer) - DLMT Remix",
-      "url": "https://open.spotify.com/track/7Ges7fItfXiQMsxTmLu2Bf"
     },
     {
       "added_at": "2022-02-18 18:02:29",
@@ -799,30 +839,6 @@
       "duration_ms": 165245,
       "name": "Me Without You",
       "url": "https://open.spotify.com/track/4E5jCl0d2Kz7foKzPHeMch"
-    },
-    {
-      "added_at": "2022-02-18 18:02:29",
-      "album": {
-        "name": "Slaughterhouse",
-        "url": "https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Iv\u00e1n Reich",
-          "url": "https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg"
-        },
-        {
-          "name": "Jonathan.",
-          "url": "https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M"
-        }
-      ],
-      "duration_ms": 284516,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3"
     },
     {
       "added_at": "2022-02-18 18:02:29",
@@ -887,22 +903,6 @@
       "duration_ms": 198102,
       "name": "Fuck U Love U",
       "url": "https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm"
-    },
-    {
-      "added_at": "2022-02-18 18:02:29",
-      "album": {
-        "name": "Flowstate",
-        "url": "https://open.spotify.com/album/4196ok6tXu8gKks8ik5KmA"
-      },
-      "artists": [
-        {
-          "name": "Paper Skies",
-          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Flowstate",
-      "url": "https://open.spotify.com/track/4myuutXFiClDv1n7PVHKLK"
     },
     {
       "added_at": "2022-02-18 18:02:29",
@@ -1167,22 +1167,6 @@
       "duration_ms": 150250,
       "name": "Light of Mine",
       "url": "https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg"
-    },
-    {
-      "added_at": "2022-02-18 18:02:29",
-      "album": {
-        "name": "Leaving / Debonair",
-        "url": "https://open.spotify.com/album/5WleeZXWPcPcDZcfNNKbli"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/1goWGSN0d73rOVh3HMjbsM"
     },
     {
       "added_at": "2022-02-18 18:02:29",

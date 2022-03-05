@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ao
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,880 likes - 66 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,904 likes - 67 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 42 | [あんたがたどこさ](https://open.spotify.com/track/0D7NkRih5RUHO0VV4zA3ws) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [あんたがたどこさ](https://open.spotify.com/album/3ixAaAZKHUUdFy5ELtaaYo) | 2:54 |
 | 43 | [わたしの生きる物語](https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [わたしの生きる物語](https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr) | 7:08 |
 | 44 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 |
-| 45 | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI) | 5:47 |
-| 46 | [bloom](https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [bloom](https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug) | 3:52 |
-| 47 | [yours](https://open.spotify.com/track/5aUGn26DPGI2ZhpeYYcKJP) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [yours](https://open.spotify.com/album/3Bongu2IlWvd9QIOGLrPOM) | 4:11 |
-| 48 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 |
-| 49 | [No.9](https://open.spotify.com/track/0b4cJRPCtjUbXek96CV9ry) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr) | [No.9](https://open.spotify.com/album/0xMoFUthDGNhftRVpwon4b) | 2:00 |
-| 50 | [alien](https://open.spotify.com/track/6BOQ3AuQwtXgNkbt3p8jIA) | [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK) | [alien](https://open.spotify.com/album/0sB4m0wrniL7HCXgmnmr7F) | 2:56 |
-| 51 | [PaBodance \- NamitoW Remix](https://open.spotify.com/track/7s8hFtm0Dh6ZsTh4VJrixH) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ), [NamitoW](https://open.spotify.com/artist/0YFwbBZlDAcYlg2GCVnoZr) | [PaBodance \(NamitoW Remix\)](https://open.spotify.com/album/4ULNHuZbaNW6GRB5PNGTH4) | 3:31 |
-| 52 | [比べてもしょうがない](https://open.spotify.com/track/6OuYTbCbpIvwuUC2dqcGfB) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [比べてもしょうがない](https://open.spotify.com/album/5pal9XCSc3zEEzNiRuXWV7) | 3:58 |
-| 53 | [私小説](https://open.spotify.com/track/5yrcqOxTWVLOnT00AXeiNu) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [私小説](https://open.spotify.com/album/7FlKBxbdbMM2xPBGY2MoxY) | 4:13 |
+| 45 | [私小説](https://open.spotify.com/track/5yrcqOxTWVLOnT00AXeiNu) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [私小説](https://open.spotify.com/album/7FlKBxbdbMM2xPBGY2MoxY) | 4:13 |
+| 46 | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI) | 5:47 |
+| 47 | [bloom](https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [bloom](https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug) | 3:52 |
+| 48 | [yours](https://open.spotify.com/track/5aUGn26DPGI2ZhpeYYcKJP) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [yours](https://open.spotify.com/album/3Bongu2IlWvd9QIOGLrPOM) | 4:11 |
+| 49 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 |
+| 50 | [No.9](https://open.spotify.com/track/0b4cJRPCtjUbXek96CV9ry) | [aTTn](https://open.spotify.com/artist/40CE2AjIAmvExNgPEbGuwr) | [No.9](https://open.spotify.com/album/0xMoFUthDGNhftRVpwon4b) | 2:00 |
+| 51 | [alien](https://open.spotify.com/track/6BOQ3AuQwtXgNkbt3p8jIA) | [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK) | [alien](https://open.spotify.com/album/0sB4m0wrniL7HCXgmnmr7F) | 2:56 |
+| 52 | [PaBodance \- NamitoW Remix](https://open.spotify.com/track/7s8hFtm0Dh6ZsTh4VJrixH) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ), [NamitoW](https://open.spotify.com/artist/0YFwbBZlDAcYlg2GCVnoZr) | [PaBodance \(NamitoW Remix\)](https://open.spotify.com/album/4ULNHuZbaNW6GRB5PNGTH4) | 3:31 |
+| 53 | [比べてもしょうがない](https://open.spotify.com/track/6OuYTbCbpIvwuUC2dqcGfB) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [比べてもしょうがない](https://open.spotify.com/album/5pal9XCSc3zEEzNiRuXWV7) | 3:58 |
 | 54 | [LOSER](https://open.spotify.com/track/4yKWOc2ZxCLm4CnhxwlzVt) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [LOSER](https://open.spotify.com/album/0L8xmVOSdDajUjsTjAAawb) | 4:45 |
 | 55 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 |
 | 56 | [ふらふら](https://open.spotify.com/track/0oTkCxdu7FGmc00WbnGofM) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [ふらふら](https://open.spotify.com/album/3Or1rjZO4SfB7kpxUDBif2) | 3:42 |
@@ -72,7 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 62 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 |
 | 63 | [About me](https://open.spotify.com/track/3axLw3lcHemC6MMkEz4Sac) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [About me](https://open.spotify.com/album/14CLwdCKsrhYWjcxRDv4o0) | 4:44 |
 | 64 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 |
-| 65 | [宝道〜たからのみち〜](https://open.spotify.com/track/66rbjh986YzlZLi5NK3ALl) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [宝道\~たからのみち\~](https://open.spotify.com/album/5a1KXmIYIC8rlfrxEnVNgn) | 3:11 |
-| 66 | [環状線](https://open.spotify.com/track/55MGgoeXHe635Ll6v7yfqK) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [環状線](https://open.spotify.com/album/0MJDPHZAIryepqayFVJdaa) | 3:13 |
+| 65 | [夜凪](https://open.spotify.com/track/1k2j3vhvIs9qCjQMAmgkdQ) | [Sugar Pears](https://open.spotify.com/artist/1nqxWR3D84nlPb1Jnblpmu) | [夜凪](https://open.spotify.com/album/0vgUDY5M15icfXk5xpZGe2) | 4:22 |
+| 66 | [宝道〜たからのみち〜](https://open.spotify.com/track/66rbjh986YzlZLi5NK3ALl) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [宝道\~たからのみち\~](https://open.spotify.com/album/5a1KXmIYIC8rlfrxEnVNgn) | 3:11 |
+| 67 | [環状線](https://open.spotify.com/track/55MGgoeXHe635Ll6v7yfqK) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [環状線](https://open.spotify.com/album/0MJDPHZAIryepqayFVJdaa) | 3:13 |
 
-Snapshot ID: `MTY0NjE0NjgwMCwwMDAwMDQ4YTAwMDAwMTdmNDVmZWNhMzUwMDAwMDE3ZjFlNGZlNGMz`
+Snapshot ID: `MTY0NjM3MDAwMSwwMDAwMDQ4YjAwMDAwMTdmNTM0YzkxZGUwMDAwMDE3ZjFlNGZlNGMz`

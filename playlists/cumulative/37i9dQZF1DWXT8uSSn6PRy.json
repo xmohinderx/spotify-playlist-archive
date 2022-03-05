@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Chart toppers and fresh hits in Canada this week. Cover: Avril Lavigne",
+  "description": "Chart toppers and fresh hits in Canada this week. Cover: Alicia Moffet",
   "name": "Hot Hits Canada",
   "published_playlist_ids": [
     "6h6yvKmgSMonH6murTjQzd"
@@ -120,6 +120,28 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "album": {
         "name": "B. D\u2019OR (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
@@ -211,6 +233,28 @@
       "duration_ms": 106000,
       "name": "Bad Man (Smooth Criminal)",
       "url": "https://open.spotify.com/track/62l3NSQPUxvcwwzKUmysrE"
+    },
+    {
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "album": {
@@ -407,7 +451,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 227527,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i"
@@ -463,6 +507,24 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "Crying in the Rain",
+        "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155773,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ"
     },
     {
       "album": {
@@ -799,7 +861,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4"
@@ -860,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Multitude",
+        "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Fils de joie",
+      "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
+    },
+    {
+      "album": {
         "name": "fingers crossed",
         "url": "https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg"
       },
@@ -893,6 +973,28 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "album": {
+        "name": "Freaky Deaky",
+        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215281,
+      "name": "Freaky Deaky",
+      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
       "album": {
@@ -1300,6 +1402,28 @@
     },
     {
       "album": {
+        "name": "I'm Tired (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187943,
+      "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+    },
+    {
+      "album": {
         "name": "idc",
         "url": "https://open.spotify.com/album/6I5dntjb6mH8XL0Afju0TL"
       },
@@ -1373,7 +1497,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 216160,
       "name": "Invincible (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
@@ -1723,7 +1847,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -1821,6 +1945,24 @@
       "duration_ms": 182500,
       "name": "Make a Mall",
       "url": "https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR"
+    },
+    {
+      "album": {
+        "name": "Matinee",
+        "url": "https://open.spotify.com/album/4Nn99TZ3AbpY4ZGQRva5Dm"
+      },
+      "artists": [
+        {
+          "name": "Delaney Jane",
+          "url": "https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151701,
+      "name": "Matinee",
+      "url": "https://open.spotify.com/track/25aSJ6E9ekeQzV3ogafGdI"
     },
     {
       "album": {
@@ -2243,7 +2385,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
@@ -2301,7 +2443,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168061,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf"
@@ -2367,10 +2509,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv"
+    },
+    {
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/5213OlCkbO2jaQg96wGVNa"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186579,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/36siCgyeAHB2Gr9lgEMYqF"
     },
     {
       "album": {
@@ -2447,6 +2607,24 @@
       "duration_ms": 195720,
       "name": "Salt and Vinegar",
       "url": "https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1"
+    },
+    {
+      "album": {
+        "name": "Same Place",
+        "url": "https://open.spotify.com/album/6qet6MfndKK4w0pBVsLduU"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221989,
+      "name": "Same Place",
+      "url": "https://open.spotify.com/track/67OFPtLYDiUqYVBihtfTUN"
     },
     {
       "album": {
@@ -2607,7 +2785,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
@@ -2753,7 +2931,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"

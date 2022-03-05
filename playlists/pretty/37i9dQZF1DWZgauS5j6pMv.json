@@ -1,13 +1,61 @@
 {
   "description": "The best of today's funk. Cover: Tank and The Bangas",
-  "num_followers": 238654,
+  "num_followers": 238897,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTMyMCwwMDAwMDA3MzAwMDAwMTdmMmY0MWRkOTkwMDAwMDE3ZTlkZjNlYjYw",
+  "snapshot_id": "MTY0NjM3MDA2MCwwMDAwMDA3NDAwMDAwMTdmNTM0ZDc3YmMwMDAwMDE3ZTlkZjNlYjYw",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
+        "url": "https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "L.O.V.E. (feat. EARTHGANG, Jon Batiste & Sherwyn)",
+      "url": "https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Kind of Freak (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/2CN0jwmD1faV4TyiYzjH5e"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Kind of Freak - Jafunk Remix",
+      "url": "https://open.spotify.com/track/0hpsO7RHd5pQrUkzl2Psom"
+    },
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
@@ -23,6 +71,26 @@
       "duration_ms": 179882,
       "name": "Come Back - Radio Edit",
       "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Reachin' Up",
+        "url": "https://open.spotify.com/album/53EtrXw0AsatoP5yFQMmhO"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        },
+        {
+          "name": "Marcus Farrar",
+          "url": "https://open.spotify.com/artist/1YuH6sg58tNCttePibCFRq"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Reachin' Up",
+      "url": "https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -71,6 +139,22 @@
       "duration_ms": 156876,
       "name": "New Best Friend",
       "url": "https://open.spotify.com/track/21BjaubQRpZ4RybrI0NUyY"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 203099,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp"
     },
     {
       "added_at": "2022-01-28 05:01:00",

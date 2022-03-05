@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 235411,
       "name": "ALMAS GEMELAS",
       "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 206586,
       "name": "Antes",
       "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 223750,
       "name": "Callejera",
       "url": "https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 197647,
       "name": "Fan de Tus Fotos",
       "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 185840,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/6bvfJf4KjonPMuPfGfy3S2"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 263253,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "No Se Me Quita (feat. Ricky Martin)",
       "url": "https://open.spotify.com/track/1GBLO0NFODuL31A5fgw0uR"
@@ -2129,7 +2129,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
@@ -2177,7 +2177,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
@@ -2911,7 +2911,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 266086,
       "name": "Soltera - Remix",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
@@ -3322,6 +3322,36 @@
     },
     {
       "album": {
+        "name": "Los Favoritos 2",
+        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Tussi",
+      "url": "https://open.spotify.com/track/3pnpENd2PXAKuetjLIylEr"
+    },
+    {
+      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -3363,7 +3393,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
@@ -3385,7 +3415,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 215086,
       "name": "Una Vida Para Recordar",
       "url": "https://open.spotify.com/track/6n8CqMxK4RqmUrX6gsJseD"
@@ -3537,7 +3567,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX"

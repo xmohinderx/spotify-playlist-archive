@@ -107,7 +107,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 207473,
       "name": "2003",
       "url": "https://open.spotify.com/track/6pDWaDQGX9h6nj4Zzbv3dE"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 198096,
       "name": "agape",
       "url": "https://open.spotify.com/track/7xAy9XzbF4M0qtZuoQYtdI"
@@ -2387,7 +2387,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 187431,
       "name": "Blue Dream - Koresma Remix",
       "url": "https://open.spotify.com/track/39KSC7pPxIp15t9NknC6mb"
@@ -3923,7 +3923,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 297515,
       "name": "Colour",
       "url": "https://open.spotify.com/track/4jqYXH8BDZlCkM4CN8hH5q"
@@ -4185,7 +4185,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 305051,
       "name": "Corners",
       "url": "https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt"
@@ -4709,7 +4709,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 378241,
       "name": "Dhollandia",
       "url": "https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u"
@@ -5701,7 +5701,7 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 227586,
       "name": "Endless",
       "url": "https://open.spotify.com/track/0EnCOAi1Nx7yJwlQpUoha1"
@@ -6003,7 +6003,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 282746,
       "name": "Every Breath You Took Away",
       "url": "https://open.spotify.com/track/3HK8MiZcFGhdOiQsuxEdeE"
@@ -15341,7 +15341,7 @@
       ],
       "date_added": "2020-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 483000,
       "name": "Our Home - Vince Forwards Remix",
       "url": "https://open.spotify.com/track/1kQedHgln1x6vFKlumpNtH"
@@ -18565,6 +18565,24 @@
       "duration_ms": 173114,
       "name": "Someone Who Needs Me - Bolier Remix Edit",
       "url": "https://open.spotify.com/track/2zvDQoWd68sbkDOpETp8Nk"
+    },
+    {
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "album": {

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Audio Diary",
+        "url": "https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK"
+      },
+      "artists": [
+        {
+          "name": "Casper Mcfadden",
+          "url": "https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189499,
+      "name": ".dancecore",
+      "url": "https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo"
+    },
+    {
+      "album": {
         "name": "100 dollar bill",
         "url": "https://open.spotify.com/album/1ypuMUFmHI8rB97dBaLMLC"
       },
@@ -207,6 +225,24 @@
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+    },
+    {
+      "album": {
+        "name": "b4",
+        "url": "https://open.spotify.com/album/3IFIvsTnpNUg5RihCJ4DpM"
+      },
+      "artists": [
+        {
+          "name": "Heatace",
+          "url": "https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134958,
+      "name": "b4",
+      "url": "https://open.spotify.com/track/1ipq1rWpQmOWR8H7pGaodt"
     },
     {
       "album": {
@@ -454,6 +490,28 @@
     },
     {
       "album": {
+        "name": "California (Remix EP)",
+        "url": "https://open.spotify.com/album/6BD6W4GisnWr6gPyb4a8Sm"
+      },
+      "artists": [
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        },
+        {
+          "name": "Cowgirl Clue",
+          "url": "https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141405,
+      "name": "California (Cowgirl Clue Remix)",
+      "url": "https://open.spotify.com/track/1w6OJouzWwDTfd8HOocrYG"
+    },
+    {
+      "album": {
         "name": "Call Me Your Hope",
         "url": "https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp"
       },
@@ -465,7 +523,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 116770,
       "name": "Call Me Your Hope",
       "url": "https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty"
@@ -609,7 +667,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 123250,
       "name": "creation",
       "url": "https://open.spotify.com/track/0h64WdJ2JNMLgSh2M9ymEF"
@@ -797,6 +855,24 @@
       "duration_ms": 240000,
       "name": "dream",
       "url": "https://open.spotify.com/track/2tzoLvKBygTxkv8x1cVc0P"
+    },
+    {
+      "album": {
+        "name": "Drivin' Me Crazy",
+        "url": "https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu"
+      },
+      "artists": [
+        {
+          "name": "Particle",
+          "url": "https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218125,
+      "name": "Drivin' Me Crazy",
+      "url": "https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5"
     },
     {
       "album": {
@@ -1065,7 +1141,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
@@ -1225,6 +1301,24 @@
       "duration_ms": 185521,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx"
+    },
+    {
+      "album": {
+        "name": "Googoo Lagoon",
+        "url": "https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca"
+      },
+      "artists": [
+        {
+          "name": "DR. GABBA",
+          "url": "https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "Googoo Lagoon",
+      "url": "https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll"
     },
     {
       "album": {
@@ -1517,7 +1611,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 224004,
       "name": "It\u2019s Not You, It\u2019s Me - Club Mix",
       "url": "https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW"
@@ -1641,6 +1735,24 @@
       "duration_ms": 184727,
       "name": "keepsake Flip",
       "url": "https://open.spotify.com/track/6boGATmxPm6ghQRKNQj5d8"
+    },
+    {
+      "album": {
+        "name": "Kira Kira",
+        "url": "https://open.spotify.com/album/0AfOR652wvcBCWzxwh5OWz"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "Kira Kira",
+      "url": "https://open.spotify.com/track/2lQsaY9KsbtE8oij9Db9eB"
     },
     {
       "album": {
@@ -2083,7 +2195,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 331952,
       "name": "Poison Arrow - HANA Remix",
       "url": "https://open.spotify.com/track/3VpjqitkScv9uInf7aRjDA"
@@ -2108,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Post Nut Clarity",
+        "url": "https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113239,
+      "name": "Post Nut Clarity",
+      "url": "https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac"
+    },
+    {
+      "album": {
         "name": "Pray4u",
         "url": "https://open.spotify.com/album/0j4R8gczhaEcog4Fd8iDVY"
       },
@@ -2123,7 +2253,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 236438,
       "name": "Pray4u",
       "url": "https://open.spotify.com/track/0lgo7NNaBJWftwSOfnH25q"
@@ -2282,6 +2412,24 @@
     },
     {
       "album": {
+        "name": "Retinues / Urgency",
+        "url": "https://open.spotify.com/album/7qTuSrHrvDfanvQJK25u9g"
+      },
+      "artists": [
+        {
+          "name": "gyrofield",
+          "url": "https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324545,
+      "name": "Retinues",
+      "url": "https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT"
+    },
+    {
+      "album": {
         "name": "Ribbon Bone [Silk Chaser]",
         "url": "https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky"
       },
@@ -2319,7 +2467,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 141874,
       "name": "SABBATH SHIRT",
       "url": "https://open.spotify.com/track/6lenr6z1MhdGPyIui1tGdb"
@@ -2381,7 +2529,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 252028,
       "name": "serenity",
       "url": "https://open.spotify.com/track/5btMsv4TpSBYA57jaUvaG8"
@@ -2616,6 +2764,24 @@
     },
     {
       "album": {
+        "name": "Tambaleo",
+        "url": "https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146807,
+      "name": "Tambaleo",
+      "url": "https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6"
+    },
+    {
+      "album": {
         "name": "Drop Five",
         "url": "https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L"
       },
@@ -2703,7 +2869,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 205774,
       "name": "Too Dead Inside",
       "url": "https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW"
@@ -2786,6 +2952,28 @@
     },
     {
       "album": {
+        "name": "vulnerable",
+        "url": "https://open.spotify.com/album/3jPe5MOEN0NG6dlMcMuNCg"
+      },
+      "artists": [
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        },
+        {
+          "name": "patient",
+          "url": "https://open.spotify.com/artist/0fsLwKIy2fRcqau5VK8jpu"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133677,
+      "name": "vulnerable",
+      "url": "https://open.spotify.com/track/6UmDQssM33pOBab0KItBya"
+    },
+    {
+      "album": {
         "name": "Walking Wounded (Deluxe Edition)",
         "url": "https://open.spotify.com/album/61qmNyeHwJ8SMCOKMRCaV2"
       },
@@ -2815,7 +3003,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 239843,
       "name": "Want U",
       "url": "https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,173 likes - 106 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,582 likes - 106 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 38 | [Thinking Out Loud \(Piano\)](https://open.spotify.com/track/0o60tWNfPJARY7bPJP22iN) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Bedtime Piano Covers](https://open.spotify.com/album/1ic5hhMXaAgJQpntgFLSsi) | 4:15 |
 | 39 | [Your Song](https://open.spotify.com/track/72tXjm6whBEIxO1nu7MnjF) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Your Song](https://open.spotify.com/album/0NHPFvpivFh9SuN0dGdRx1) | 2:44 |
 | 40 | [The Bones](https://open.spotify.com/track/1VxxM2CjF0982zpGHeMrxu) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:11 |
-| 41 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
+| 41 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
 | 42 | [Let Her Go](https://open.spotify.com/track/2fIVdzd4JW4HnwzqrvCysf) | [David Fischbein](https://open.spotify.com/artist/4SnnTtHKeeWxZ8FxzMv435) | [Let Her Go](https://open.spotify.com/album/2uKx68XJqHRTLWjPKq6qhw) | 3:12 |
 | 43 | [A Whole New World](https://open.spotify.com/track/3ejZDyN8cOcVtK9P8VHfXn) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [A Whole New World](https://open.spotify.com/album/2GNzMTxI3aQ8GJUYfM4yGH) | 3:55 |
 | 44 | [Children Will Listen](https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:23 |

@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 170734,
       "name": "Est\u00e1n de M\u00e1s",
       "url": "https://open.spotify.com/track/5VaOk4qDTEzHxO6EL3tVux"
@@ -1298,6 +1298,28 @@
     },
     {
       "album": {
+        "name": "No Ver\u00e1n",
+        "url": "https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205712,
+      "name": "No Ver\u00e1n",
+      "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
+    },
+    {
+      "album": {
         "name": "Pasado, Presente & Libertad",
         "url": "https://open.spotify.com/album/5x6g1bPnTmQyHdCTczPfjA"
       },
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 205330,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/6FVk1aNEFU33x7PHnsyUJa"
@@ -2063,6 +2085,24 @@
       "duration_ms": 175679,
       "name": "T\u00e9tricx$",
       "url": "https://open.spotify.com/track/2hOfCpQPsQJ20xsX0txEZH"
+    },
+    {
+      "album": {
+        "name": "Coraje",
+        "url": "https://open.spotify.com/album/5FCMuepQRC1ekDqoSt2yqQ"
+      },
+      "artists": [
+        {
+          "name": "Dania Neko",
+          "url": "https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188917,
+      "name": "Un D\u00eda a la Vez",
+      "url": "https://open.spotify.com/track/6XIc1J8ydiUWsanMCdC7EM"
     },
     {
       "album": {

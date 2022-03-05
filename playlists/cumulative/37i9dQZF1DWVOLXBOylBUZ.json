@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "vf7 tiene el ritmo que mueve Latinoam\u00e9rica.",
+  "description": "Maria Becerra tiene el ritmo que mueve Latinoam\u00e9rica.",
   "name": "El Ritmo",
   "published_playlist_ids": [
     "3K8lWo1A5PGXtJdAZf1WiQ"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 227513,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 163265,
       "name": "Besalo",
       "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
@@ -389,6 +389,24 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "album": {
+        "name": "Homemade",
+        "url": "https://open.spotify.com/album/6RKBUIheoFaR5cTb1AcAdF"
+      },
+      "artists": [
+        {
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229380,
+      "name": "Buscando",
+      "url": "https://open.spotify.com/track/1yo6sjSqUM9gpegFiIp1zX"
     },
     {
       "album": {
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 199879,
       "name": "Cuando Me Ves",
       "url": "https://open.spotify.com/track/6t4YfQwwCZS5NIVJelVa9y"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 157594,
       "name": "Cu\u00e1ntas veces",
       "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
@@ -615,6 +633,46 @@
       "duration_ms": 164705,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I"
+    },
+    {
+      "album": {
+        "name": "DELITO_V13.wav",
+        "url": "https://open.spotify.com/album/2VQUkiRY3bBImrgN7x4szm"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Zecca",
+          "url": "https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141727,
+      "name": "DELITO_V13.wav",
+      "url": "https://open.spotify.com/track/7Cdk27Tv9qnUTbk2cQwEnn"
+    },
+    {
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169536,
+      "name": "Desde Mis Ojos",
+      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
     },
     {
       "album": {
@@ -751,6 +809,32 @@
       "duration_ms": 243216,
       "name": "Dos Problemas (feat. Big Soto) - Remix",
       "url": "https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE"
+    },
+    {
+      "album": {
+        "name": "EL ED\u00c9N (feat. Irepelusa) [Remix]",
+        "url": "https://open.spotify.com/album/6xVYd0Q4mAuitNhpIEzdno"
+      },
+      "artists": [
+        {
+          "name": "Skinny Man",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183985,
+      "name": "EL ED\u00c9N (feat. Irepelusa) - Remix",
+      "url": "https://open.spotify.com/track/7mZQB0HhEEh8hpGTNbnBZz"
     },
     {
       "album": {
@@ -1311,7 +1395,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 217514,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1SLLQv5od5CwfyiuN3mrWu"
@@ -1329,7 +1413,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 165408,
       "name": "Las de Octubre",
       "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
@@ -1427,6 +1511,24 @@
       "duration_ms": 180000,
       "name": "Maki",
       "url": "https://open.spotify.com/track/5HpD4DWQegIhaZlMCBTTEV"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5cZ7MgzsFreFseajNN2sph"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151453,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1An91dzcVTS96yP3a7F495"
     },
     {
       "album": {
@@ -1633,7 +1735,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 185373,
       "name": "Medio Crazy (with KHEA)",
       "url": "https://open.spotify.com/track/6Qvx8oyD4xL4iCw2gntX3L"
@@ -1779,10 +1881,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 177583,
       "name": "Morad: Bzrp Music Sessions, Vol. 47",
       "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+    },
+    {
+      "album": {
+        "name": "Moschino",
+        "url": "https://open.spotify.com/album/4i9gzbR2drDJXDCgeCDlMS"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155843,
+      "name": "Moschino",
+      "url": "https://open.spotify.com/track/2TOXwgZo66czJlgbY8cnAG"
     },
     {
       "album": {
@@ -2251,7 +2371,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 222868,
       "name": "Poderosa",
       "url": "https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7"
@@ -2316,6 +2436,28 @@
     },
     {
       "album": {
+        "name": "KRACK DELUXE",
+        "url": "https://open.spotify.com/album/20jm8zrqWsVXKWBhhiOT0I"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211464,
+      "name": "Que Vamo\u2019 Hacer?",
+      "url": "https://open.spotify.com/track/3Lnfbc1ZlIzIU5KmAeQNj4"
+    },
+    {
+      "album": {
         "name": "Recordar",
         "url": "https://open.spotify.com/album/7pk9Y44tyVZVJud0fhB9R1"
       },
@@ -2327,7 +2469,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 232348,
       "name": "Recordar",
       "url": "https://open.spotify.com/track/5OqHiduQCQDsOA2SB5CQJJ"
@@ -2382,6 +2524,36 @@
     },
     {
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "Ropa Interior (feat. Be\u00e9le)",
+      "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
+    },
+    {
+      "album": {
         "name": "Sabe",
         "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
       },
@@ -2419,7 +2591,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 200000,
       "name": "Sali\u00f3",
       "url": "https://open.spotify.com/track/4fzD055EHKfFzbIkfIF89x"
@@ -2477,7 +2649,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
@@ -2695,7 +2867,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 285440,
       "name": "Tas Bota",
       "url": "https://open.spotify.com/track/0nBvR9ujYtgYfKLAFD7fDG"
@@ -2735,7 +2907,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 197960,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
@@ -2861,6 +3033,58 @@
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "album": {
+        "name": "TOP MODEL",
+        "url": "https://open.spotify.com/album/78jgM3gvcgqdo6dJn42Fij"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "TOP MODEL",
+      "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
+    },
+    {
+      "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "El Barbel",
+          "url": "https://open.spotify.com/artist/25YqrmSu24cBZkz90V34ib"
+        },
+        {
+          "name": "El Tachi",
+          "url": "https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "TUS FALLOS",
+      "url": "https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF"
     },
     {
       "album": {
@@ -3033,6 +3257,32 @@
       "duration_ms": 178266,
       "name": "Wao",
       "url": "https://open.spotify.com/track/2B4nQ6yvVVBMqfgOrYtubb"
+    },
+    {
+      "album": {
+        "name": "WOW BB",
+        "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "WOW BB",
+      "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
     },
     {
       "album": {

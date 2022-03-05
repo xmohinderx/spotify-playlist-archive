@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 200576,
       "name": "Aina \u00e4lskar ganja",
       "url": "https://open.spotify.com/track/0ZZU7t3meUqAuBMcfjFiel"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 194000,
       "name": "Attityd",
       "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 260168,
       "name": "Bara lite braj",
       "url": "https://open.spotify.com/track/0EncUiGe1EsB7I4E0d6Z1b"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 242533,
       "name": "Fakkin fin",
       "url": "https://open.spotify.com/track/02qoqHv29LQCBw1mymxlY5"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 220676,
       "name": "Finns det liv finns det tid",
       "url": "https://open.spotify.com/track/4nMzM9STL3bbAErupiguPm"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 216151,
       "name": "Hela mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/17fD2m1JPWE3M4cRfLCGdW"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 203418,
       "name": "Hetare \u00c4n Lava (med Syster Sol)",
       "url": "https://open.spotify.com/track/2CAcMHYILhxMCYia4U9aSb"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 194449,
       "name": "High Life",
       "url": "https://open.spotify.com/track/2kvwU62DRHothqpUYRrHP7"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 229714,
       "name": "Jag lever f\u00f6r dig och d\u00e5 lever jag f\u00f6r att leva",
       "url": "https://open.spotify.com/track/0kgKxpl9VwHicgLeJpJSR3"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 242874,
       "name": "Jag Minns",
       "url": "https://open.spotify.com/track/6ZbEjK7jdClL1MGczRAU0q"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 161098,
       "name": "Kommunikation",
       "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 184625,
       "name": "Leva igen",
       "url": "https://open.spotify.com/track/16UFJVqJUCLCBLvnjQkLtm"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 214774,
       "name": "Magisk",
       "url": "https://open.spotify.com/track/4imhpWNj3aCl0aqLqBCQfs"
@@ -1767,10 +1767,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 245530,
       "name": "No winners",
       "url": "https://open.spotify.com/track/2LiweIh9adLp0xVZBAMVK2"
+    },
+    {
+      "album": {
+        "name": "Nonsens",
+        "url": "https://open.spotify.com/album/2ikcHVWGWC9OdRVeu6bvuP"
+      },
+      "artists": [
+        {
+          "name": "Essa Cham",
+          "url": "https://open.spotify.com/artist/3N8khuP6qGB5ZHl7jZxHDB"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "Nonsens",
+      "url": "https://open.spotify.com/track/2pZH9S4DSwR0GPyffxw6Sn"
     },
     {
       "album": {
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "N\u00e5n Annan",
       "url": "https://open.spotify.com/track/2sQOFwtjo6sjNoutONMyUJ"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 226063,
       "name": "Polisen sla\u030ar",
       "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
@@ -1997,7 +2015,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 201184,
       "name": "Saker som jag sett",
       "url": "https://open.spotify.com/track/5ZTJj1tjcmpm2tyvQtxC3J"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 211573,
       "name": "Sm\u00e5 svarta \u00e4nglar",
       "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 246808,
       "name": "S\u00e4g nej!",
       "url": "https://open.spotify.com/track/2pq3CZrGt1lrcRjiEtFtjY"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 211352,
       "name": "Vilse",
       "url": "https://open.spotify.com/track/4STwzs8fwqVvAEngOlpZDx"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 227500,
       "name": "Vindarna",
       "url": "https://open.spotify.com/track/4daiQ4LFjZac9JRp7GSFdN"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 188527,
       "name": "Vissa cuts",
       "url": "https://open.spotify.com/track/4tm9SbkOPMnFuLTJPAtAzX"
@@ -2781,7 +2799,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208637,
       "name": "Whada Deng",
       "url": "https://open.spotify.com/track/1r6SQ5yAMl5R3gR4BHm75e"
@@ -2817,7 +2835,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 260399,
       "name": "You Are My Angel",
       "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
@@ -2857,7 +2875,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 219750,
       "name": "\u00c4lskar att \u00e4lska dig",
       "url": "https://open.spotify.com/track/5Vspk7VYYxmyY1aXYY1XXJ"

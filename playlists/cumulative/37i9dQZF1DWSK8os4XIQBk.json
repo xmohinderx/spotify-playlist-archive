@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Tyler Joe Miller",
+  "description": "Nothing but the best modern country music. Cover: Tenille Arts",
   "name": "All About Country",
   "published_playlist_ids": [
     "2VWEcpbjTChxEwyaD5k1kM"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 178278,
       "name": "Beers And Sunshine",
       "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Can't Beat the View",
+        "url": "https://open.spotify.com/album/6ubtbBpXPmsZSSooitZsS3"
+      },
+      "artists": [
+        {
+          "name": "Chris Buck Band",
+          "url": "https://open.spotify.com/artist/0ns82mvA25By3a6t2S2Lxr"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170309,
+      "name": "Can't Beat the View",
+      "url": "https://open.spotify.com/track/0m93xjoJPC1oGkOEOG6H05"
+    },
+    {
+      "album": {
         "name": "Can't Do Without Me",
         "url": "https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4"
       },
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 238919,
       "name": "Closest Ocean",
       "url": "https://open.spotify.com/track/3ghKywq6om9mIdXxGAiME4"
@@ -519,7 +537,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174626,
       "name": "Cold Beer Truth",
       "url": "https://open.spotify.com/track/1Aham4eyVWUkYoxyvoxaj0"
@@ -581,6 +599,24 @@
       "duration_ms": 176983,
       "name": "Country Boy Do (feat. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
+    },
+    {
+      "album": {
+        "name": "Dark Night (717 Tapes)",
+        "url": "https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157991,
+      "name": "Dark Night - 717 Tapes",
+      "url": "https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO"
     },
     {
       "album": {
@@ -769,7 +805,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 165569,
       "name": "Famous Friends",
       "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
@@ -900,6 +936,24 @@
     },
     {
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
+    },
+    {
+      "album": {
         "name": "Give'r",
         "url": "https://open.spotify.com/album/5AazCnOPn74cgUR3971JR5"
       },
@@ -965,7 +1019,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
@@ -987,6 +1041,24 @@
       "duration_ms": 208058,
       "name": "Hide From A Broken Heart",
       "url": "https://open.spotify.com/track/5VrlPIcMKixFC40QFcxXsa"
+    },
+    {
+      "album": {
+        "name": "Horseshoes and Hand Grenades",
+        "url": "https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211285,
+      "name": "Horseshoes and Hand Grenades",
+      "url": "https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt"
     },
     {
       "album": {
@@ -1306,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214238,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
+    },
+    {
+      "album": {
         "name": "What A Song Can Do",
         "url": "https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd"
       },
@@ -1415,6 +1505,24 @@
       "duration_ms": 169566,
       "name": "Makes You Pretty",
       "url": "https://open.spotify.com/track/7qzFb2YNCtG79TChMU9sS0"
+    },
+    {
+      "album": {
+        "name": "Maybe a Little",
+        "url": "https://open.spotify.com/album/7BFPY02vKVL8gkKp7xyClx"
+      },
+      "artists": [
+        {
+          "name": "River Town Saints",
+          "url": "https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Maybe a Little",
+      "url": "https://open.spotify.com/track/2uZICWcGYRI81GxTV8IwZB"
     },
     {
       "album": {
@@ -1723,7 +1831,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
@@ -1838,6 +1946,24 @@
     },
     {
       "album": {
+        "name": "Pretty Good Tonight",
+        "url": "https://open.spotify.com/album/77giuIWxvVxYULhmowofqa"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wills",
+          "url": "https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161039,
+      "name": "Pretty Good Tonight",
+      "url": "https://open.spotify.com/track/67mNH9pQCPMXhoqGAqwnoh"
+    },
+    {
+      "album": {
         "name": "Thinkin' Bout You",
         "url": "https://open.spotify.com/album/2qUcrppBYcn4e1s45baZL7"
       },
@@ -1867,7 +1993,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
@@ -2370,6 +2496,24 @@
     },
     {
       "album": {
+        "name": "Born Here Live Here Die Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183597,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje"
+    },
+    {
+      "album": {
         "name": "Villain in Me",
         "url": "https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY"
       },
@@ -2399,7 +2543,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 193693,
       "name": "Want That Back",
       "url": "https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1"
@@ -2417,7 +2561,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 228440,
       "name": "Waves",
       "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
@@ -2717,7 +2861,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"

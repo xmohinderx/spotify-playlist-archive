@@ -616,6 +616,24 @@
     },
     {
       "album": {
+        "name": "Hey Girl",
+        "url": "https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188706,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"
+    },
+    {
+      "album": {
         "name": "Hills & Horizons",
         "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
       },

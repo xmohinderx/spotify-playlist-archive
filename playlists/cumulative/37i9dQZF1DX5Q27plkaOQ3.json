@@ -500,6 +500,28 @@
     },
     {
       "album": {
+        "name": "E.L.E (Extinction Level Event)",
+        "url": "https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs"
+    },
+    {
+      "album": {
         "name": "Anti-Shave EP",
         "url": "https://open.spotify.com/album/6RzKKjfYIvlDPjeMMQLWDB"
       },
@@ -669,6 +691,24 @@
       "duration_ms": 211175,
       "name": "Death's Parade",
       "url": "https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG"
+    },
+    {
+      "album": {
+        "name": "Degrader EP",
+        "url": "https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN"
+      },
+      "artists": [
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Degrader",
+      "url": "https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU"
     },
     {
       "album": {
@@ -1452,6 +1492,28 @@
     },
     {
       "album": {
+        "name": "Mind & Body",
+        "url": "https://open.spotify.com/album/5zB87dPnUtR5Ch6JVQ3Ubh"
+      },
+      "artists": [
+        {
+          "name": "SUAHN",
+          "url": "https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX"
+        },
+        {
+          "name": "Ethan Glass",
+          "url": "https://open.spotify.com/artist/1QcqiiBi6BHRzdgDHvpqu9"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249637,
+      "name": "Mind & Body",
+      "url": "https://open.spotify.com/track/38eFNBOXqh8FEWOkY8z9wF"
+    },
+    {
+      "album": {
         "name": "Mitosis",
         "url": "https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq"
       },
@@ -1828,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/6LWa95ZtGRMshL7ok2tIM5"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/7wQc8LHQueTVPqUDzP6Yvr"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/2u2FGyZJpDWfubdPB8l2qB"
       },
@@ -1846,6 +1926,32 @@
     },
     {
       "album": {
+        "name": "Revolution (Crankdat Remix)",
+        "url": "https://open.spotify.com/album/5GgW3MzW8nORjXTIKpktUX"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Revolution - Crankdat Remix",
+      "url": "https://open.spotify.com/track/3DDIqY49FP0IpkzbQ4YVpc"
+    },
+    {
+      "album": {
         "name": "Riddimology",
         "url": "https://open.spotify.com/album/3cSmPGI79cpQR3Uz89gu79"
       },
@@ -1857,7 +1963,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 232839,
       "name": "Riddimology",
       "url": "https://open.spotify.com/track/5QOIi4Mb06jJa5dob3tw6J"
@@ -1923,7 +2029,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 260000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX"
@@ -2113,7 +2219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 342857,
       "name": "Stompi Boi",
       "url": "https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD"
@@ -2175,7 +2281,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 260526,
       "name": "THE OG",
       "url": "https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb"
@@ -2389,7 +2495,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 193292,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"

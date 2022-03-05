@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Blending",
+        "url": "https://open.spotify.com/album/4uP72u2kEEUKhsWqiA1ekR"
+      },
+      "artists": [
+        {
+          "name": "Matt Deep",
+          "url": "https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226651,
+      "name": "Blending",
+      "url": "https://open.spotify.com/track/6qCWUSwJoULsz0tv9vGEv8"
+    },
+    {
+      "album": {
         "name": "Blue Mind",
         "url": "https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8"
       },
@@ -1269,6 +1287,24 @@
       "duration_ms": 149092,
       "name": "Exilio",
       "url": "https://open.spotify.com/track/4yq019pJ4xefG6QkD6wz3P"
+    },
+    {
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/1RPVMZFbi1wuf6QTaVisKJ"
+      },
+      "artists": [
+        {
+          "name": "Universo",
+          "url": "https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191609,
+      "name": "Exoplaneta",
+      "url": "https://open.spotify.com/track/4luQBiFE4vKIyJoXGBOQm8"
     },
     {
       "album": {

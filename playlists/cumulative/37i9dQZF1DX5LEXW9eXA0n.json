@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Rothy(\ub85c\uc2dc)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: JEONG HYO BEAN(\uc815\ud6a8\ube48)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "K-Pop Ballad Hits",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -77,6 +77,24 @@
       "duration_ms": 224640,
       "name": "A Fairy Tale",
       "url": "https://open.spotify.com/track/6wiZ4T7wd5HtvMCjsZ9w4S"
+    },
+    {
+      "album": {
+        "name": "A message to myself.",
+        "url": "https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP"
+      },
+      "artists": [
+        {
+          "name": "JEONG HYO BEAN",
+          "url": "https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248693,
+      "name": "A message to myself",
+      "url": "https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4"
     },
     {
       "album": {
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 230969,
       "name": "Beautiful My Love",
       "url": "https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 186986,
       "name": "End Of Night",
       "url": "https://open.spotify.com/track/2l8jtHeXRSH420IEWH93UQ"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 239122,
       "name": "Flower Way",
       "url": "https://open.spotify.com/track/6Jstg15yIAoAP7rAgFrYYH"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 236586,
       "name": "How much I love you (with Jeong Haeil)",
       "url": "https://open.spotify.com/track/3AKMTInwWSxtMZdDrtUwlb"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 259713,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 193930,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 244786,
       "name": "Never let you go",
       "url": "https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu"
@@ -3347,7 +3365,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
@@ -3773,7 +3791,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 201466,
       "name": "Waiting for Spring",
       "url": "https://open.spotify.com/track/2V19urBSfuZu7k8THUpFa3"
@@ -4105,7 +4123,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 256026,
       "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"

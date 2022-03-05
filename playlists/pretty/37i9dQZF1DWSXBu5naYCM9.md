@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 
 > Timeless melodies from your favourite artists, both old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,448 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,567 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 | 2 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
 | 3 | [Brighter Days](https://open.spotify.com/track/1cWBXvQCz5jxpCwdJAHWNa) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Brighter Days](https://open.spotify.com/album/34yraUqsVviRzxP0HFynOy) | 2:50 |
 | 4 | [Someone To You](https://open.spotify.com/track/6cufDC8WB5AZNSL3ZH2mgV) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Someone To You](https://open.spotify.com/album/2fll9e8DLt71PNZ27UQNqm) | 3:39 |
-| 5 | [Anyone For You \- Tiger Lily](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 |
+| 5 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 |
 | 6 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 |
 | 7 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 8 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |

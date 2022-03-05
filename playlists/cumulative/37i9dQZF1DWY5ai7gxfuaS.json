@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh"
+    },
+    {
+      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 404706,
       "name": "Rust on the Gates of Heaven",
       "url": "https://open.spotify.com/track/2Zb9Yix5QBYjgkCflM4Qe9"

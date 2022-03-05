@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 139800,
       "name": "Amor de Papel - En Vivo",
       "url": "https://open.spotify.com/track/1FFFfPx7oO3909DZm51yOS"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 317068,
       "name": "Damas Gratis Mix",
       "url": "https://open.spotify.com/track/2zJ5HUOwz7eX21MVLG9DG8"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 195973,
       "name": "Estoy Buscando un Amor - En Vivo",
       "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 166000,
       "name": "Hawai / Vida de Rico - Live Session",
       "url": "https://open.spotify.com/track/55PpTrstgX5l4CpJIjm34I"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 240773,
       "name": "Locura y Pasi\u00f3n (En Vivo en la Quinta Vergara)",
       "url": "https://open.spotify.com/track/34ibXLS4Wp2x2vDAlAzIRM"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 589000,
       "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
       "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 79516,
       "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
       "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Su Mujer y La Cita (En Vivo)",
+        "url": "https://open.spotify.com/album/0tWuHnt43HKYwa4QXkrmtx"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384634,
+      "name": "Su Mujer y La Cita - En Vivo",
+      "url": "https://open.spotify.com/track/0AOj4m3RMoqpQAXpbUtOb6"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo con un Beso",
         "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
       },
@@ -1509,6 +1527,24 @@
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "album": {
+        "name": "Te Amar\u00e9 Hasta Que Me Olvides (Live Session)",
+        "url": "https://open.spotify.com/album/4kNgjHhyAVhyhWPNhPGyNE"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Te Amar\u00e9 Hasta Que Me Olvides - Live Session",
+      "url": "https://open.spotify.com/track/6FA9D5Ne8D8qFxZAuL03wk"
     },
     {
       "album": {
@@ -1747,7 +1783,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 260096,
       "name": "Ya Te Olvide - En Vivo",
       "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"

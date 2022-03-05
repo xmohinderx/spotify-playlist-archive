@@ -2160,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "When We Were Friends",
+        "url": "https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269411,
+      "name": "Pool House",
+      "url": "https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq"
+    },
+    {
+      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },

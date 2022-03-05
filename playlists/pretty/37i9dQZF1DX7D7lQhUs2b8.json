@@ -1,12 +1,12 @@
 {
   "description": "Mujeres de Centroam\u00e9rica y el Caribe a todo volumen. Foto: YE\u0418DRY",
-  "num_followers": 2981,
+  "num_followers": 2983,
   "original_name": "EQUAL Centro & Caribe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTQwMiwwMDAwMDAwMDE0YjgxNjc4NzRlYzkwYzA4Y2YxZDg5ZmE4MTM4ZDc2",
+  "snapshot_id": "MTY0NjQ0MTY3MCwwMDAwMDAwMDg2MzBkZTllODc0YWU3ZGUzZmNhNmIxNTFjOWRiNzMw",
   "tracks": [
     {
       "added_at": "2021-12-08 05:00:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+        "name": "DPM (De Pxta Madre)",
+        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
       },
       "artists": [
         {
@@ -52,41 +52,9 @@
           "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "3:33",
-        "url": "https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "3:33",
-      "url": "https://open.spotify.com/track/00JDinQstHYEciSn2CEGgF"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Noelia",
-        "url": "https://open.spotify.com/album/523axGgJ56jiV97GzmyIXv"
-      },
-      "artists": [
-        {
-          "name": "Noelia",
-          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/28VYA5Ej7giZVva0r3EEla"
+      "duration_ms": 181684,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
     },
     {
       "added_at": "2021-12-08 05:00:00",
@@ -107,6 +75,54 @@
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
+        "name": "En Vivo Desde El Teatro Nacional De Costa Rica",
+        "url": "https://open.spotify.com/album/46l8dOi7j8QKX5GaV3hCyD"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        }
+      ],
+      "duration_ms": 210153,
+      "name": "Bachata Rosa - En Vivo Desde El Teatro Nacional De Costa Rica",
+      "url": "https://open.spotify.com/track/4Vlcz0OKOzlgwa1PZfXNhw"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 327760,
+      "name": "Si T\u00fa Eres Mi Hombre",
+      "url": "https://open.spotify.com/track/5bEUKMtG0e9Qm1WIYWdGq6"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Noelia",
+        "url": "https://open.spotify.com/album/523axGgJ56jiV97GzmyIXv"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/28VYA5Ej7giZVva0r3EEla"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
         "name": "Caf\u00e9 De Las Ocho",
         "url": "https://open.spotify.com/album/77KVG02WxFMY9I3KI10dag"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 235320,
       "name": "Caf\u00e9 De Las Ocho",
       "url": "https://open.spotify.com/track/6XpmMP3AzxZjI81e9apesl"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Diva Platinum Edition",
-        "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
     },
     {
       "added_at": "2021-12-08 05:00:00",
@@ -171,60 +171,24 @@
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+        "name": "Cualquier D\u00eda",
+        "url": "https://open.spotify.com/album/7ahLQUU2kphuNrpNuU5omA"
       },
       "artists": [
         {
           "name": "Kany Garc\u00eda",
           "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 195883,
-      "name": "Se Portaba Mal",
-      "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
+      "duration_ms": 235813,
+      "name": "Hoy Ya Me Voy",
+      "url": "https://open.spotify.com/track/58zE9NyMKGTpzV5J8WyXXe"
     },
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Careta",
-        "url": "https://open.spotify.com/album/3iPMXrOLIMo7qBzFSjWKvt"
-      },
-      "artists": [
-        {
-          "name": "ELYSANIJ",
-          "url": "https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Careta",
-      "url": "https://open.spotify.com/track/38QEwAXLB481cYRHDbS2wN"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 313560,
-      "name": "Mi Mayor Venganza",
-      "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "En Vivo Desde El Teatro Nacional De Costa Rica",
-        "url": "https://open.spotify.com/album/46l8dOi7j8QKX5GaV3hCyD"
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK"
       },
       "artists": [
         {
@@ -232,121 +196,25 @@
           "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
         }
       ],
-      "duration_ms": 210153,
-      "name": "Bachata Rosa - En Vivo Desde El Teatro Nacional De Costa Rica",
-      "url": "https://open.spotify.com/track/4Vlcz0OKOzlgwa1PZfXNhw"
+      "duration_ms": 213066,
+      "name": "3:33",
+      "url": "https://open.spotify.com/track/00JDinQstHYEciSn2CEGgF"
     },
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "(no me despegues tu boca)",
-        "url": "https://open.spotify.com/album/1zbpVc5JDwzGsnXFoCvsXo"
+        "name": "Diva Platinum Edition",
+        "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
       },
       "artists": [
         {
-          "name": "Covi Quintana",
-          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 220840,
-      "name": "(no me despegues tu boca)",
-      "url": "https://open.spotify.com/track/1k49BpZrn1SHHxYqsn9sXd"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
-        "url": "https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 342656,
-      "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
-      "url": "https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf"
-      },
-      "artists": [
-        {
-          "name": "Ednita Nazario",
-          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "No Te Ment\u00eda",
-      "url": "https://open.spotify.com/track/14zprmedln7kfIbcGO2yn6"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/37qZj4jWLapuuVEm2dgqi7"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Robles",
-          "url": "https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm"
-        }
-      ],
-      "duration_ms": 256413,
-      "name": "Abr\u00e1zame Fuerte",
-      "url": "https://open.spotify.com/track/3i3jejQ3c8438buFVGsm5A"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "En El Tiempo",
-        "url": "https://open.spotify.com/album/5KHEGWLlwGwwgeszTPjnpH"
-      },
-      "artists": [
-        {
-          "name": "Nydia Caro",
-          "url": "https://open.spotify.com/artist/7GP8u0rf1IMKqhaBvjOgzo"
-        }
-      ],
-      "duration_ms": 271853,
-      "name": "T\u00fa C\u00f3mo Est\u00e1s",
-      "url": "https://open.spotify.com/track/1ZEvahjbIJaNKwMv1c2Qlt"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Canciones de Amor",
-        "url": "https://open.spotify.com/album/1y54dfDLCEzNqQMlVr0rhE"
-      },
-      "artists": [
-        {
-          "name": "Yolandita Monge",
-          "url": "https://open.spotify.com/artist/2C7CFg9ICmbrmuJBkkkBmZ"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Qu\u00edtame a Ese Hombre del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2fI1dbzc2ITBMHI16VK5Zm"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Kany Garc\u00eda",
-        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Alguien",
-      "url": "https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG"
+      "duration_ms": 184506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
     },
     {
       "added_at": "2021-12-08 05:00:00",
@@ -367,22 +235,6 @@
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 327760,
-      "name": "Si T\u00fa Eres Mi Hombre",
-      "url": "https://open.spotify.com/track/5bEUKMtG0e9Qm1WIYWdGq6"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
         "name": "Solo Lo Mejor",
         "url": "https://open.spotify.com/album/3e46Eikg0L550c67joreHb"
       },
@@ -399,88 +251,8 @@
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Mi Regalo Mas Bonito",
-        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 151467,
-      "name": "Mi Regalo Mas Bonito",
-      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Obviamente",
-        "url": "https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 169887,
-      "name": "Obviamente",
-      "url": "https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "3:33",
-        "url": "https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Mentimos",
-      "url": "https://open.spotify.com/track/5pxWQmhgxd2Rjtp5bkGaSM"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Ba\u00f1o De Luna",
-        "url": "https://open.spotify.com/album/53AOyzSm9TZo1WevSnMmhd"
-      },
-      "artists": [
-        {
-          "name": "Melina Leon",
-          "url": "https://open.spotify.com/artist/5oj50e6WeS3yFv92YDOfXA"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "Cuando una Mujer - Balada",
-      "url": "https://open.spotify.com/track/5eNnzVKC2F17eTUqh4xxIK"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "DPM (De Pxta Madre)",
-        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 181684,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
       },
       "artists": [
         {
@@ -488,301 +260,57 @@
           "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 280013,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+      "duration_ms": 313560,
+      "name": "Mi Mayor Venganza",
+      "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
     },
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Ni Una Menos",
-        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
+        "name": "(no me despegues tu boca)",
+        "url": "https://open.spotify.com/album/1zbpVc5JDwzGsnXFoCvsXo"
       },
       "artists": [
         {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+          "name": "Covi Quintana",
+          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
         }
       ],
-      "duration_ms": 154673,
-      "name": "Ni Una Menos",
-      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
+      "duration_ms": 220840,
+      "name": "(no me despegues tu boca)",
+      "url": "https://open.spotify.com/track/1k49BpZrn1SHHxYqsn9sXd"
     },
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/4U7S6uqJxZcywLINu03Trl"
+        "name": "Careta",
+        "url": "https://open.spotify.com/album/3iPMXrOLIMo7qBzFSjWKvt"
       },
       "artists": [
         {
-          "name": "Sharlene",
-          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "ELYSANIJ",
+          "url": "https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg"
         }
       ],
-      "duration_ms": 150331,
-      "name": "Gravedad",
-      "url": "https://open.spotify.com/track/66JCKjgA0Q4wgT1VgR8uVn"
+      "duration_ms": 203440,
+      "name": "Careta",
+      "url": "https://open.spotify.com/track/38QEwAXLB481cYRHDbS2wN"
     },
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+        "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
+        "url": "https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 250464,
-      "name": "Contra Todo",
-      "url": "https://open.spotify.com/track/3y5EptIt3SowRc5iMS9a6G"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "3:33",
-        "url": "https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Superpoderes",
-      "url": "https://open.spotify.com/track/59cxZZ58HhZBVmquTs7hKG"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "No Necesito",
-        "url": "https://open.spotify.com/album/7oU4VcTlBUltx6C3gZnkfM"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1tima Pinto",
-          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
-        }
-      ],
-      "duration_ms": 198746,
-      "name": "No Necesito",
-      "url": "https://open.spotify.com/track/4qzG6DyIO3RZLyhrZ6oq9f"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "4 AM",
-        "url": "https://open.spotify.com/album/6Mho1XuknLL2TnP5ZByRoI"
-      },
-      "artists": [
-        {
-          "name": "Elisama",
-          "url": "https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "4 AM",
-      "url": "https://open.spotify.com/track/5m7Zcft0xj10S7vqWn0woX"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Cualquier D\u00eda",
-        "url": "https://open.spotify.com/album/7ahLQUU2kphuNrpNuU5omA"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Hoy Ya Me Voy",
-      "url": "https://open.spotify.com/track/58zE9NyMKGTpzV5J8WyXXe"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/48QP1jdWD8IZmUKi25N5Nv"
-      },
-      "artists": [
-        {
-          "name": "Sara Curruchich",
-          "url": "https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ"
-        }
-      ],
-      "duration_ms": 197516,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/4Jrw8gAYRXRFfy9yjsF8HC"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj"
-      },
-      "artists": [
-        {
-          "name": "Ednita Nazario",
-          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "A Que No Le Cuentas",
-      "url": "https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "la que no me gutan",
-        "url": "https://open.spotify.com/album/3GzgPpyMloAK9g9P1gsgol"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "joda",
-      "url": "https://open.spotify.com/track/5w8Q3W1vp3FvoRLIYp7kLQ"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Hola, \u00bfQu\u00e9 Tal?",
-        "url": "https://open.spotify.com/album/3k9BginlCEQlACX95UdAme"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1tima Pinto",
-          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
-        }
-      ],
-      "duration_ms": 168682,
-      "name": "Hola, \u00bfQu\u00e9 Tal?",
-      "url": "https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "La Libreta",
-      "url": "https://open.spotify.com/track/72NN8Jzdy0fq3J2Kq0OFvT"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "U\u00f1a Con Diamante",
-        "url": "https://open.spotify.com/album/4WTZmwhpj9oBVlzTIr2zBF"
-      },
-      "artists": [
-        {
-          "name": "ADRI",
-          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
-        }
-      ],
-      "duration_ms": 147384,
-      "name": "U\u00f1a Con Diamante",
-      "url": "https://open.spotify.com/track/2Yx2yin4iQDGUdQhpWA0WO"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Noche y Dia",
-        "url": "https://open.spotify.com/album/2xzE5tu9kDViuquh6PAYCn"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Noche y Dia",
-      "url": "https://open.spotify.com/track/6TQP1kV9oD8R6dQcCfhr5S"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Tu Mundo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
-      },
-      "artists": [
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "Tu Mundo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "Canciones de Amor",
-        "url": "https://open.spotify.com/album/1y54dfDLCEzNqQMlVr0rhE"
-      },
-      "artists": [
-        {
-          "name": "Yolandita Monge",
-          "url": "https://open.spotify.com/artist/2C7CFg9ICmbrmuJBkkkBmZ"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "El Amor",
-      "url": "https://open.spotify.com/track/2WbKWeITJxfaQXd08NMjfU"
-    },
-    {
-      "added_at": "2021-12-08 05:00:00",
-      "album": {
-        "name": "La Mu\u00f1eca de Chocolate",
-        "url": "https://open.spotify.com/album/6Jj4028rbnbLJJT0Hm8aGX"
-      },
-      "artists": [
-        {
-          "name": "Lucy Fabery",
-          "url": "https://open.spotify.com/artist/3fP855MzXhDhtZdM6xXBF0"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Eres Sensacional",
-      "url": "https://open.spotify.com/track/7gdajvg1SLscVP66X6Os90"
+      "duration_ms": 342656,
+      "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
+      "url": "https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK"
     },
     {
       "added_at": "2021-12-08 05:00:00",
@@ -807,18 +335,498 @@
     {
       "added_at": "2021-12-08 05:00:00",
       "album": {
-        "name": "Vernos Crecer",
-        "url": "https://open.spotify.com/album/7MwSQE8GJj5snfBoZf6vLY"
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
       "artists": [
         {
-          "name": "Andrea Cruz",
-          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 175445,
-      "name": "Vernos Crecer",
-      "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
+      "duration_ms": 195883,
+      "name": "Se Portaba Mal",
+      "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf"
+      },
+      "artists": [
+        {
+          "name": "Ednita Nazario",
+          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "No Te Ment\u00eda",
+      "url": "https://open.spotify.com/track/14zprmedln7kfIbcGO2yn6"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Mentimos",
+      "url": "https://open.spotify.com/track/5pxWQmhgxd2Rjtp5bkGaSM"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Canciones de Amor",
+        "url": "https://open.spotify.com/album/1y54dfDLCEzNqQMlVr0rhE"
+      },
+      "artists": [
+        {
+          "name": "Yolandita Monge",
+          "url": "https://open.spotify.com/artist/2C7CFg9ICmbrmuJBkkkBmZ"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Qu\u00edtame a Ese Hombre del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2fI1dbzc2ITBMHI16VK5Zm"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Ba\u00f1o De Luna",
+        "url": "https://open.spotify.com/album/53AOyzSm9TZo1WevSnMmhd"
+      },
+      "artists": [
+        {
+          "name": "Melina Leon",
+          "url": "https://open.spotify.com/artist/5oj50e6WeS3yFv92YDOfXA"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Cuando una Mujer - Balada",
+      "url": "https://open.spotify.com/track/5eNnzVKC2F17eTUqh4xxIK"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Noche y Dia",
+        "url": "https://open.spotify.com/album/2xzE5tu9kDViuquh6PAYCn"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Noche y Dia",
+      "url": "https://open.spotify.com/track/6TQP1kV9oD8R6dQcCfhr5S"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "En El Tiempo",
+        "url": "https://open.spotify.com/album/5KHEGWLlwGwwgeszTPjnpH"
+      },
+      "artists": [
+        {
+          "name": "Nydia Caro",
+          "url": "https://open.spotify.com/artist/7GP8u0rf1IMKqhaBvjOgzo"
+        }
+      ],
+      "duration_ms": 271853,
+      "name": "T\u00fa C\u00f3mo Est\u00e1s",
+      "url": "https://open.spotify.com/track/1ZEvahjbIJaNKwMv1c2Qlt"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/37qZj4jWLapuuVEm2dgqi7"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Robles",
+          "url": "https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "Abr\u00e1zame Fuerte",
+      "url": "https://open.spotify.com/track/3i3jejQ3c8438buFVGsm5A"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Mi Regalo Mas Bonito",
+        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 151467,
+      "name": "Mi Regalo Mas Bonito",
+      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/4U7S6uqJxZcywLINu03Trl"
+      },
+      "artists": [
+        {
+          "name": "Sharlene",
+          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 150331,
+      "name": "Gravedad",
+      "url": "https://open.spotify.com/track/66JCKjgA0Q4wgT1VgR8uVn"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Superpoderes",
+      "url": "https://open.spotify.com/track/59cxZZ58HhZBVmquTs7hKG"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Obviamente",
+        "url": "https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 169887,
+      "name": "Obviamente",
+      "url": "https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/6Mho1XuknLL2TnP5ZByRoI"
+      },
+      "artists": [
+        {
+          "name": "Elisama",
+          "url": "https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "4 AM",
+      "url": "https://open.spotify.com/track/5m7Zcft0xj10S7vqWn0woX"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Ni Una Menos",
+        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 154673,
+      "name": "Ni Una Menos",
+      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Kany Garc\u00eda",
+        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Alguien",
+      "url": "https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Canciones de Amor",
+        "url": "https://open.spotify.com/album/1y54dfDLCEzNqQMlVr0rhE"
+      },
+      "artists": [
+        {
+          "name": "Yolandita Monge",
+          "url": "https://open.spotify.com/artist/2C7CFg9ICmbrmuJBkkkBmZ"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "El Amor",
+      "url": "https://open.spotify.com/track/2WbKWeITJxfaQXd08NMjfU"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "U\u00f1a Con Diamante",
+        "url": "https://open.spotify.com/album/4WTZmwhpj9oBVlzTIr2zBF"
+      },
+      "artists": [
+        {
+          "name": "ADRI",
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+        }
+      ],
+      "duration_ms": 147384,
+      "name": "U\u00f1a Con Diamante",
+      "url": "https://open.spotify.com/track/2Yx2yin4iQDGUdQhpWA0WO"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "No Necesito",
+        "url": "https://open.spotify.com/album/7oU4VcTlBUltx6C3gZnkfM"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1tima Pinto",
+          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
+        }
+      ],
+      "duration_ms": 198746,
+      "name": "No Necesito",
+      "url": "https://open.spotify.com/track/4qzG6DyIO3RZLyhrZ6oq9f"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 250464,
+      "name": "Contra Todo",
+      "url": "https://open.spotify.com/track/3y5EptIt3SowRc5iMS9a6G"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "La Libreta",
+      "url": "https://open.spotify.com/track/72NN8Jzdy0fq3J2Kq0OFvT"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Tu Mundo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
+      },
+      "artists": [
+        {
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "Tu Mundo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj"
+      },
+      "artists": [
+        {
+          "name": "Ednita Nazario",
+          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "A Que No Le Cuentas",
+      "url": "https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/48QP1jdWD8IZmUKi25N5Nv"
+      },
+      "artists": [
+        {
+          "name": "Sara Curruchich",
+          "url": "https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ"
+        }
+      ],
+      "duration_ms": 197516,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/4Jrw8gAYRXRFfy9yjsF8HC"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Dragon Queen",
+        "url": "https://open.spotify.com/album/69ZUMPN0oV8DGunjuxixLL"
+      },
+      "artists": [
+        {
+          "name": "MelyMel",
+          "url": "https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Se Te Apago La Luz",
+      "url": "https://open.spotify.com/track/01x1x08CxWHLBl6YxZMf0z"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "La Mu\u00f1eca de Chocolate",
+        "url": "https://open.spotify.com/album/6Jj4028rbnbLJJT0Hm8aGX"
+      },
+      "artists": [
+        {
+          "name": "Lucy Fabery",
+          "url": "https://open.spotify.com/artist/3fP855MzXhDhtZdM6xXBF0"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Eres Sensacional",
+      "url": "https://open.spotify.com/track/7gdajvg1SLscVP66X6Os90"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Hola, \u00bfQu\u00e9 Tal?",
+        "url": "https://open.spotify.com/album/3k9BginlCEQlACX95UdAme"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1tima Pinto",
+          "url": "https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG"
+        }
+      ],
+      "duration_ms": 168682,
+      "name": "Hola, \u00bfQu\u00e9 Tal?",
+      "url": "https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+    },
+    {
+      "added_at": "2021-12-08 05:00:00",
+      "album": {
+        "name": "Toy Pega",
+        "url": "https://open.spotify.com/album/4AQWLvkCFQn6uDF1IThO8B"
+      },
+      "artists": [
+        {
+          "name": "Sahony",
+          "url": "https://open.spotify.com/artist/0gfKRCFEyQTulTzTVpUPDO"
+        },
+        {
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
+        }
+      ],
+      "duration_ms": 223977,
+      "name": "Toy Pega",
+      "url": "https://open.spotify.com/track/0ODW0oRt4LqlGX8ANjBDdG"
     }
   ],
   "unique_name": "EQUAL Centro & Caribe",

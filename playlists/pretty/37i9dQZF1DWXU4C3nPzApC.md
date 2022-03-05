@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 ### [Very Nearly Nashville](https://open.spotify.com/playlist/37i9dQZF1DWXU4C3nPzApC)
 
-> The best music with a Nashville flavour\. Cover: The Shires
+> The best music with a Nashville flavour\. Cover: Twinnie
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,279 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,344 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
-| 2 | [Forever After All](https://open.spotify.com/track/4DdUFOY2ums5dOOMBzoMYo) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Forever After All](https://open.spotify.com/album/461sUW89BloceHafW18Jrb) | 3:52 |
-| 3 | [I See Stars](https://open.spotify.com/track/32WnhIyvw6RGjtNFrHF68W) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [I See Stars](https://open.spotify.com/album/0Y1mySIig8YiKZrjJGXZs3) | 3:18 |
-| 4 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 |
-| 5 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
-| 6 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 |
-| 7 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
-| 8 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 |
-| 9 | [Don't Be a Stranger \(feat\. Cam\)](https://open.spotify.com/track/3olaYC5TAKtKdz0zhMwxyV) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Don't Be a Stranger \(feat\. Cam\)](https://open.spotify.com/album/1MtaySeGQhJpunJUa8dLei) | 3:15 |
-| 10 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 |
-| 11 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 |
-| 12 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 |
-| 13 | [Want It Again](https://open.spotify.com/track/0I3oSMNUCUBf6lqyZEsCte) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 2:52 |
-| 14 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 |
-| 15 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
-| 16 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 |
-| 17 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |
+| 1 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 |
+| 2 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
+| 3 | [Forever After All](https://open.spotify.com/track/4DdUFOY2ums5dOOMBzoMYo) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Forever After All](https://open.spotify.com/album/461sUW89BloceHafW18Jrb) | 3:52 |
+| 4 | [I See Stars](https://open.spotify.com/track/32WnhIyvw6RGjtNFrHF68W) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [I See Stars](https://open.spotify.com/album/0Y1mySIig8YiKZrjJGXZs3) | 3:18 |
+| 5 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 |
+| 6 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
+| 7 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 |
+| 8 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
+| 9 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 |
+| 10 | [Don't Be a Stranger \(feat\. Cam\)](https://open.spotify.com/track/3olaYC5TAKtKdz0zhMwxyV) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Don't Be a Stranger \(feat\. Cam\)](https://open.spotify.com/album/1MtaySeGQhJpunJUa8dLei) | 3:15 |
+| 11 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 |
+| 12 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 |
+| 13 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 |
+| 14 | [Want It Again](https://open.spotify.com/track/0I3oSMNUCUBf6lqyZEsCte) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 2:52 |
+| 15 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 |
+| 16 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
+| 17 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 |
 | 18 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 |
 | 19 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 | 20 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 49 | [Sunshine & White Wine](https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw) | [Savannah Jaine](https://open.spotify.com/artist/1EiW3GLNSmLFCr9TuPGUCO) | [Sunshine & White Wine](https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW) | 3:44 |
 | 50 | [Back To The Beginning](https://open.spotify.com/track/79D9sS05hiL69QszESYsAr) | [Tim McNary](https://open.spotify.com/artist/37CGTzcBezP4KjLI2lKk2u), [Machaela Nesler](https://open.spotify.com/artist/2DK8dF5cpYKCWYBmQefqKV) | [Back To The Beginning](https://open.spotify.com/album/1mu2MMauRuWXh1v8ztD7rD) | 3:36 |
 
-Snapshot ID: `MTY0NDg0NzEyNCwwMDAwMDAzOTAwMDAwMTdlZjg4NzUxYjUwMDAwMDE3ZWY4ODZjMzIy`
+Snapshot ID: `MTY0NjM5Njc4MywwMDAwMDAzYTAwMDAwMTdmNTRlNTNjYmUwMDAwMDE3ZjU0ZTBlNmJm`

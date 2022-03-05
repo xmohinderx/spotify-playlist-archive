@@ -1386,6 +1386,28 @@
     },
     {
       "album": {
+        "name": "Hearteater",
+        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217394,
+      "name": "Hearteater",
+      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP"
       },
@@ -2059,7 +2081,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 204611,
       "name": "Night Terror (feat. Of Mice & Men)",
       "url": "https://open.spotify.com/track/1LZ4s4yuTmlsQy1udl1hPZ"
@@ -2557,7 +2579,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
@@ -3503,7 +3525,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 339310,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1XP0VR8KMArstV37bfzkt8"

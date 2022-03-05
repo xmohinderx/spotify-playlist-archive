@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 152573,
       "name": "A R\u00e3",
       "url": "https://open.spotify.com/track/7wpy0PpiuOgscZTF1cMTUB"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/19ISEtEat3oefNy4yVFLFK"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 134600,
       "name": "Dirtknock",
       "url": "https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 331961,
       "name": "ESP - Lexx Escape from the Island remix",
       "url": "https://open.spotify.com/track/2uCV9M7vlb8IhShDN86pBz"
@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Bada / HT Conundrum",
+        "url": "https://open.spotify.com/album/2IvgrdkO0p6bbwHBi7wdQn"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399422,
+      "name": "HT Conundrum",
+      "url": "https://open.spotify.com/track/0F4En5vStNYYkbYc0pZPnr"
+    },
+    {
+      "album": {
         "name": "Human Race b/w Grey Boy",
         "url": "https://open.spotify.com/album/4OEpX9POaZfSKJ63c8lcZM"
       },
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 233892,
       "name": "I Tcho Tchass",
       "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 265378,
       "name": "In the Hills",
       "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 269360,
       "name": "L.D.R.A",
       "url": "https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 135269,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
@@ -2027,7 +2045,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 277245,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4Bigp1M2cas5ocOo0nO8kn"
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208518,
       "name": "Suffer and Swim",
       "url": "https://open.spotify.com/track/5FAfSZWgGvX8feO5M0mBUe"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189266,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/78c46mRETwOfvcaCqWLuKu"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 290847,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 287002,
       "name": "Too Soon You're Old",
       "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
@@ -2897,7 +2915,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 394377,
       "name": "Venus",
       "url": "https://open.spotify.com/track/0RH6sipGMeMxUqi7GZcgAI"
@@ -2969,7 +2987,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 178400,
       "name": "White Picket Fence",
       "url": "https://open.spotify.com/track/1S9N0MuXeSajQo0EcGgM3A"
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 288640,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"

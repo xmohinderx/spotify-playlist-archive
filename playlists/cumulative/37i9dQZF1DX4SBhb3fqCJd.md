@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
-> The pulse of R&B music today\.  Cover: Kehlani
+> The pulse of R&B music today\.  Cover: SZA
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,11 +48,12 @@
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2021-12-17 |  |
 | [My City ft\. Masego](https://open.spotify.com/track/3Q8RBppQeYLLHafNb2cJTz) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [My City ft\. Masego](https://open.spotify.com/album/0bMGwS4OdF9prBTjZOXSgl) | 3:10 | 2021-12-17 | 2022-02-19 |
 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2021-12-17 |  |
-| [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-12-17 |  |
+| [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-12-17 | 2022-03-05 |
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2021-12-17 |  |
 | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv) | 3:51 | 2022-02-18 |  |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-07 |  |
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2021-12-17 |  |
+| [Please Don't Walk Away](https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Don't Walk Away](https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy) | 3:36 | 2022-03-04 |  |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 |  |
 | [Present](https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Present](https://open.spotify.com/album/5KsduyvZorQ3RjJTZA8In9) | 2:36 | 2021-12-17 |  |
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2021-12-17 |  |
@@ -68,7 +69,7 @@
 | [Tragic](https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Tragic](https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz) | 3:27 | 2021-12-17 |  |
 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 | 2021-12-17 |  |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-12-17 |  |
-| [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2021-12-17 |  |
+| [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2021-12-17 | 2022-03-05 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2021-12-17 |  |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-12-17 |  |
 

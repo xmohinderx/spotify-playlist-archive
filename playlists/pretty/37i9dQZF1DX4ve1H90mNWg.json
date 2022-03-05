@@ -1,13 +1,29 @@
 {
   "description": "Texas music breaking waves. Cover, Mike Dimes. ",
-  "num_followers": 3152,
+  "num_followers": 3153,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTgyNDM2NiwwMDAwMDAxNTAwMDAwMTdmMzJjNmQ2ZjYwMDAwMDE3ZjBmMjIyZmUz",
+  "snapshot_id": "MTY0NjM3MDcxNSwwMDAwMDAxNjAwMDAwMTdmNTM1Nzc4NjQwMDAwMDE3ZjBmMjIyZmUz",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:11:55",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 191375,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
+    },
     {
       "added_at": "2022-02-18 23:20:15",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 174915,
       "name": "HOME",
       "url": "https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL"
+    },
+    {
+      "added_at": "2022-03-04 05:11:55",
+      "album": {
+        "name": "Campaign",
+        "url": "https://open.spotify.com/album/0TKHlddjauRFC1dWKaeXkb"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "duration_ms": 179571,
+      "name": "Campaign",
+      "url": "https://open.spotify.com/track/4wCX0hAaXG3TlqB5iVR4wB"
+    },
+    {
+      "added_at": "2022-03-04 05:11:55",
+      "album": {
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 177613,
+      "name": "Right Out The Gate",
+      "url": "https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq"
+    },
+    {
+      "added_at": "2022-03-04 05:11:55",
+      "album": {
+        "name": "Hard On A 304",
+        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 121269,
+      "name": "Feelin Sexy",
+      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
     },
     {
       "added_at": "2022-01-29 00:07:15",
@@ -101,22 +165,6 @@
       "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
     },
     {
-      "added_at": "2022-02-18 23:20:15",
-      "album": {
-        "name": "After School",
-        "url": "https://open.spotify.com/album/3TRO7QJOiXQ3fUHd9TeDY1"
-      },
-      "artists": [
-        {
-          "name": "Whookilledkenny",
-          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
-        }
-      ],
-      "duration_ms": 139505,
-      "name": "After School",
-      "url": "https://open.spotify.com/track/2CpiEirGpP9IcTRiJ2tj60"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Too Late",
@@ -183,6 +231,22 @@
       "duration_ms": 200681,
       "name": "Codependency",
       "url": "https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf"
+    },
+    {
+      "added_at": "2022-02-18 23:20:15",
+      "album": {
+        "name": "After School",
+        "url": "https://open.spotify.com/album/3TRO7QJOiXQ3fUHd9TeDY1"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "duration_ms": 139505,
+      "name": "After School",
+      "url": "https://open.spotify.com/track/2CpiEirGpP9IcTRiJ2tj60"
     },
     {
       "added_at": "2021-10-15 08:49:03",
@@ -255,6 +319,22 @@
       "duration_ms": 127893,
       "name": "BIGslim",
       "url": "https://open.spotify.com/track/0XDqaGsTZcZRM9rzkq2ATP"
+    },
+    {
+      "added_at": "2022-03-04 05:11:55",
+      "album": {
+        "name": "Hope It Don't Change You",
+        "url": "https://open.spotify.com/album/6tGyI9cCXDMXoScLR3Z9B1"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        }
+      ],
+      "duration_ms": 255699,
+      "name": "Hope It Don't Change You",
+      "url": "https://open.spotify.com/track/5RJoLafqd954rpRleTWjOA"
     },
     {
       "added_at": "2022-02-18 23:20:15",
@@ -915,22 +995,6 @@
       "duration_ms": 117908,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/4NOuDOwCIe5ThvExXDWQYK"
-    },
-    {
-      "added_at": "2022-01-29 00:07:15",
-      "album": {
-        "name": "Same",
-        "url": "https://open.spotify.com/album/1SrkQ3hBTXD2ADSpLckIjl"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Same",
-      "url": "https://open.spotify.com/track/2uFl9B6frO8XoKmR8ERspT"
     },
     {
       "added_at": "2022-02-18 23:20:15",

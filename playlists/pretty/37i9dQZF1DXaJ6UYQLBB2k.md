@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,668 likes - 72 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,703 likes - 72 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

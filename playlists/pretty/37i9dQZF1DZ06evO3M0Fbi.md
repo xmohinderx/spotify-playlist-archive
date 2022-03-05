@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,221 likes - 37 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,688 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 19 | [Sliver](https://open.spotify.com/track/3BtHClmMmURD8UHF2fiyxt) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 2:16 |
 | 20 | [Oh Me](https://open.spotify.com/track/2vfCSwToh0Am0O4zgHXfn7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:26 |
 | 21 | [Polly](https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 2:53 |
-| 22 | [Marigold \- B\-Side](https://open.spotify.com/track/40VSbBSYbPN10vJYeZq4tm) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 2:34 |
-| 23 | [School](https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:42 |
+| 22 | [School](https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:42 |
+| 23 | [Marigold \- B\-Side](https://open.spotify.com/track/40VSbBSYbPN10vJYeZq4tm) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 2:34 |
 | 24 | [Jesus Doesn't Want Me For A Sunbeam](https://open.spotify.com/track/7oBazz4xCO7Ul3MJHhKy0Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:37 |
 | 25 | [Serve The Servants](https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:37 |
 | 26 | [Sappy](https://open.spotify.com/track/7tUtvGeKB2V5W5ms6uBlyC) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:25 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 36 | [Molly's Lips \- BBC John Peel Session 1990](https://open.spotify.com/track/0brL7VMo7onJJTGMSdajic) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:54 |
 | 37 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 
-Snapshot ID: `Mjc0Mzg1NjYsMDAwMDAwMDAzNTcwMzI5NjU5MDI3OTVkODhmYjQwZWNjOTY5NTU2Ng==`
+Snapshot ID: `Mjc0NDAyMTAsMDAwMDAwMDA4NGZlZmE0YjhkMDE1MmI4YzEyM2ZhZjliOGM0MzQ4Mw==`

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 210240,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 225253,
       "name": "Ashes & Fire",
       "url": "https://open.spotify.com/track/3RBuoJcNs4MEDWagxWXy4f"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 252075,
       "name": "Burning Photographs",
       "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 178706,
       "name": "Chin Up, Cheer Up",
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 260105,
       "name": "In It For The Pleasure",
       "url": "https://open.spotify.com/track/7ef2egpnEu1ptiuASIHOwS"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 151960,
       "name": "Oh My God, Whatever, Etc.",
       "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 186253,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb"
@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Ryan Adams",
+        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227133,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7xfWkAqJiJOrtH6j8AbXlJ"
+    },
+    {
+      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168186,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/5HQwQSkqOZOIyv1EyLRrgA"

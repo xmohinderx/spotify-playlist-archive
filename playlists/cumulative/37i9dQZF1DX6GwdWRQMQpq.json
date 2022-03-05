@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Flo Milli\n",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Baby Tate\n",
   "name": "Feelin' Myself",
   "published_playlist_ids": [
     "0FtcGJDMEWLAVf67SoV0Nd"
@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Black Wall Street",
+        "url": "https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv"
+      },
+      "artists": [
+        {
+          "name": "Killumantii",
+          "url": "https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122064,
+      "name": "Black Wall Street",
+      "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
+    },
+    {
+      "album": {
         "name": "Boys Are From Mars (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
       },
@@ -429,7 +447,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 137806,
       "name": "Designer",
       "url": "https://open.spotify.com/track/4F0flTfcEU2ZcStYhJsaRy"
@@ -491,6 +509,24 @@
       "duration_ms": 169420,
       "name": "Eat It",
       "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
+    },
+    {
+      "album": {
+        "name": "Hard On A 304",
+        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121269,
+      "name": "Feelin Sexy",
+      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
     },
     {
       "album": {
@@ -730,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Hard On A 304",
+        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170218,
+      "name": "Join Em",
+      "url": "https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd"
+    },
+    {
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq"
       },
@@ -799,7 +853,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 148769,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4sRA220I8uSmsF0rffzGU8"
@@ -893,7 +947,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 107554,
       "name": "Moncler Coat",
       "url": "https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ"
@@ -1179,7 +1233,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 131256,
       "name": "Rose Gold Stripper Pole",
       "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
@@ -1285,10 +1339,32 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 172248,
       "name": "Sl*t Him Out",
       "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
+    },
+    {
+      "album": {
+        "name": "Sl*t Him Out Again (feat. Kali)",
+        "url": "https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232873,
+      "name": "Sl*t Him Out Again (feat. Kali)",
+      "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
     },
     {
       "album": {
@@ -1419,6 +1495,40 @@
       "duration_ms": 128890,
       "name": "TMU",
       "url": "https://open.spotify.com/track/633sZMHj2tlc6oKbTVPEPz"
+    },
+    {
+      "album": {
+        "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+        "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "DOECHII",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144796,
+      "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+      "url": "https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa"
     },
     {
       "album": {

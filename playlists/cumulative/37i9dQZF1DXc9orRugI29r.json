@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
   "description": "\u00a1No busques m\u00e1s! La m\u00fasica del momento est\u00e1 aqu\u00ed.",
-  "name": "HOT NOW: ROSAL\u00cdA - CHICKEN TERIYAKI",
+  "name": "HOT NOW: ROSAL\u00cdA - Camila Cabello, Ed Sheeran - Bam Bam",
   "published_playlist_ids": [
     "1dFZcyMQEmk5cQSIUnSLB0"
   ],
@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "album": {
         "name": "Cachito",
         "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
       },
@@ -59,10 +81,32 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 188546,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+    },
+    {
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
     },
     {
       "album": {
@@ -189,6 +233,24 @@
       "duration_ms": 153960,
       "name": "Demasiadas Mujeres",
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+    },
+    {
+      "album": {
+        "name": "Deprimida",
+        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217627,
+      "name": "Deprimida",
+      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "album": {
@@ -391,7 +453,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 188102,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
@@ -597,7 +659,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 230776,
       "name": "Mejor Sola",
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
@@ -725,7 +787,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
@@ -743,7 +805,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
@@ -787,6 +849,28 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "album": {
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "album": {
@@ -985,6 +1069,24 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1"
+    },
+    {
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
       "album": {

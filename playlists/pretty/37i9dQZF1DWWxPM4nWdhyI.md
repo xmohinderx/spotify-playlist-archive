@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 
 > All his biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,084,554 likes - 59 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,085,053 likes - 59 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

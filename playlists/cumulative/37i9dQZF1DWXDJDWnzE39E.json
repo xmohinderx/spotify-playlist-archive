@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-12-07",
-  "description": "A salute to all of the women that like it loud & heavy. Cover: Holy Wars",
+  "description": "A salute to all of the women that like it loud & heavy. Cover: Banshee",
   "name": "Heavy Queens",
   "published_playlist_ids": [
     "2PwU7tbcMm117R21Ot8It9"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 165282,
       "name": "21ST CENTURY BITCH",
       "url": "https://open.spotify.com/track/6b4gtrHODf0L93GxIKEotN"
@@ -931,10 +931,28 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 232373,
       "name": "Eyes Of The World",
       "url": "https://open.spotify.com/track/6BQhXq7JHYEEEu9G52UIws"
+    },
+    {
+      "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh"
     },
     {
       "album": {
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 226186,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV"
@@ -2621,7 +2639,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 254811,
       "name": "The In-Between",
       "url": "https://open.spotify.com/track/3zyO75z96PN667L0I7jgwf"
@@ -3007,7 +3025,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 211753,
       "name": "Wanted and Wild",
       "url": "https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V"

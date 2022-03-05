@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208204,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 191989,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/5WOAErKdSpXwj0wKlezVl8"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 239333,
       "name": "Chasing You",
       "url": "https://open.spotify.com/track/5vqHYRtng6GFvuLa2gnUUC"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 202878,
       "name": "Every Little Thing (feat. Andy Mineo)",
       "url": "https://open.spotify.com/track/3AsPo4rQkSPSx7B2hsS76u"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/3HBJo3avOKynYfKIfTecjX"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 197000,
       "name": "Future",
       "url": "https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 439714,
       "name": "Just Want You - Live",
       "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 222597,
       "name": "Love Goes On - Remix",
       "url": "https://open.spotify.com/track/5UdR96WgFNSPA1N4GvkWgy"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
@@ -1262,6 +1262,24 @@
     },
     {
       "album": {
+        "name": "More Than Good Enough",
+        "url": "https://open.spotify.com/album/46FVrs8EC3twbTNHVWCLVt"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223688,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/4nZN50JWs7JTQxbW3PXNKV"
+    },
+    {
+      "album": {
         "name": "Never Far (House Church)",
         "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 212520,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW"
@@ -1613,6 +1631,24 @@
       "duration_ms": 152769,
       "name": "SIMPLE (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
+    },
+    {
+      "album": {
+        "name": "Sound of Freedom",
+        "url": "https://open.spotify.com/album/18OqMfunWkhyZIiQCqxvhT"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/0ffnyvtjsmJvME97m2JVeh"
     },
     {
       "album": {
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 215120,
       "name": "Tread the Dawn",
       "url": "https://open.spotify.com/track/29LoYHqJB3YYBlSWE2j2Mz"

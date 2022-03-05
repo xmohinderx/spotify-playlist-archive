@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Becky G & KAROL G are on top of the Hottest 50!",
+  "description": "Dove Cameron is on top of the Hottest 50!",
   "name": "Today's Top Hits",
   "published_playlist_ids": [
     "47EyYjdbbASCmJLAzJxhXP"
@@ -1001,6 +1001,28 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "album": {
@@ -3941,6 +3963,28 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "album": {
+        "name": "Freaky Deaky",
+        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215281,
+      "name": "Freaky Deaky",
+      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
       "album": {
@@ -12463,7 +12507,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -12967,7 +13011,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"

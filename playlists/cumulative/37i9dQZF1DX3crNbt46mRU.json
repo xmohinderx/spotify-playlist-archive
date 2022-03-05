@@ -4550,6 +4550,24 @@
     },
     {
       "album": {
+        "name": "NACHT",
+        "url": "https://open.spotify.com/album/4HFkXyqjdNyVYQEiZUGQgI"
+      },
+      "artists": [
+        {
+          "name": "MOIZ",
+          "url": "https://open.spotify.com/artist/2OWJHYzYBGBa1enilQDUW4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148871,
+      "name": "NACHT",
+      "url": "https://open.spotify.com/track/1VkBySIC0RJhbgvYi1NoCa"
+    },
+    {
+      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },

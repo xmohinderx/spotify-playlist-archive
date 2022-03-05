@@ -1740,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "One-Way Conversations",
+        "url": "https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW"
+      },
+      "artists": [
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210920,
+      "name": "Love With Your Life",
+      "url": "https://open.spotify.com/track/3YVsYrddp7lbej2cXniN3Q"
+    },
+    {
+      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 136500,
       "name": "Sin Metales",
       "url": "https://open.spotify.com/track/1l1ozrLODpJvx2mcoNpGHU"

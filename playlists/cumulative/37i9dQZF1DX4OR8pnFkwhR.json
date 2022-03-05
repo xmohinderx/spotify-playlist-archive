@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u51ea",
+        "url": "https://open.spotify.com/album/0vgUDY5M15icfXk5xpZGe2"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pears",
+          "url": "https://open.spotify.com/artist/1nqxWR3D84nlPb1Jnblpmu"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262008,
+      "name": "\u591c\u51ea",
+      "url": "https://open.spotify.com/track/1k2j3vhvIs9qCjQMAmgkdQ"
+    },
+    {
+      "album": {
         "name": "\u5b9d\u9053~\u305f\u304b\u3089\u306e\u307f\u3061~",
         "url": "https://open.spotify.com/album/5a1KXmIYIC8rlfrxEnVNgn"
       },

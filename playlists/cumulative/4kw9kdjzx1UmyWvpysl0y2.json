@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 257406,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ"
@@ -899,6 +899,24 @@
       "duration_ms": 212800,
       "name": "Locked Away",
       "url": "https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX"
+    },
+    {
+      "album": {
+        "name": "Lone",
+        "url": "https://open.spotify.com/album/4woa0Yhe82WmbMGe7zuxS1"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Lone",
+      "url": "https://open.spotify.com/track/6V90OtIX1Ja8OvqvPFMe9Z"
     },
     {
       "album": {
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 254146,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn"
@@ -1967,6 +1985,28 @@
       "duration_ms": 258750,
       "name": "Used",
       "url": "https://open.spotify.com/track/221btWts70oQ60quERFxXM"
+    },
+    {
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "neverwaves",
+          "url": "https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262702,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
     },
     {
       "album": {

@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 192453,
       "name": "Amor De Madrugada",
       "url": "https://open.spotify.com/track/010A0oe6YYm0ng35rAG7tV"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 248791,
       "name": "Amor Imposible - En Vivo",
       "url": "https://open.spotify.com/track/3UF2mF5WMawLbEN19HKN3b"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 256560,
       "name": "Atrevida - En Vivo",
       "url": "https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 264426,
       "name": "Cuando Grita la Piel / Amiga del Alma",
       "url": "https://open.spotify.com/track/3Fm7HsAtL7YD0Ecjsj980C"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/118nYRgA9iNCv5aiUO5B8K"
@@ -779,6 +779,28 @@
       "duration_ms": 215681,
       "name": "Dile",
       "url": "https://open.spotify.com/track/7DKr60flV0rMuS96PmWfWA"
+    },
+    {
+      "album": {
+        "name": "Dos Corazones / Nadie Como Tu (En Vivo)",
+        "url": "https://open.spotify.com/album/33eXHErmlVVCLe8F9RCsyU"
+      },
+      "artists": [
+        {
+          "name": "Claudio Toledo",
+          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
+        },
+        {
+          "name": "EZE BONINO",
+          "url": "https://open.spotify.com/artist/0MR0vGT9yrSDdP5nAfvWh6"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207576,
+      "name": "Dos Corazones / Nadie Como Tu - En Vivo",
+      "url": "https://open.spotify.com/track/6vGx5GfOBiAsCf3xrCGfyn"
     },
     {
       "album": {
@@ -1185,7 +1207,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 1500920,
       "name": "Fragmentos Enganchados, Pt. 2",
       "url": "https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c"
@@ -1333,7 +1355,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
@@ -1633,7 +1655,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 204382,
       "name": "Lo Aprend\u00ed de Ti",
       "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
@@ -1651,7 +1673,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 281880,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/7g8FwoWCD7MzMOVN5ZgNkz"
@@ -1959,7 +1981,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 235101,
       "name": "Mi Venganza",
       "url": "https://open.spotify.com/track/3AFoC3oyF7fLyOFhWp7mS9"
@@ -2017,7 +2039,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 201328,
       "name": "M\u00e1s Que Amigos",
       "url": "https://open.spotify.com/track/7h4ce3ciRt2Qhmxtkm5I6h"
@@ -2179,7 +2201,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 230546,
       "name": "Noche De Travesura",
       "url": "https://open.spotify.com/track/47YL75nTX9rVZ4gJT9Q8W7"
@@ -2469,7 +2491,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 228315,
       "name": "Prohibida / Sin Ti Me Muero",
       "url": "https://open.spotify.com/track/39f9L4ZVgOF299uRlRhyet"
@@ -2813,7 +2835,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 302800,
       "name": "Soy Cordobes",
       "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
@@ -3103,7 +3125,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 232616,
       "name": "Tu Karma",
       "url": "https://open.spotify.com/track/6t7GoWo3XfYZxDqiOfqtPk"
@@ -3179,7 +3201,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 242950,
       "name": "Un Perfecto Idiota",
       "url": "https://open.spotify.com/track/0VaT0YEN3tFeEGqleYLpsq"
@@ -3349,7 +3371,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 246360,
       "name": "Ya No Quiero",
       "url": "https://open.spotify.com/track/5ZRjSlIgKzTtjaLgyVZ1jY"
@@ -3421,7 +3443,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 226417,
       "name": "\u00c9l no soy yo",
       "url": "https://open.spotify.com/track/63F0fLgN8dMRlhWCRnbkyk"

@@ -200,6 +200,32 @@
     },
     {
       "album": {
+        "name": "Club Addict",
+        "url": "https://open.spotify.com/album/6h9YS888ld8a40S1YjOfFk"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "FTampa",
+          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
+        },
+        {
+          "name": "Spankox",
+          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Club Addict",
+      "url": "https://open.spotify.com/track/4bCmNtxTlcWaiYCRV5oTZX"
+    },
+    {
+      "album": {
         "name": "Couped Up",
         "url": "https://open.spotify.com/album/1Kz3p87RqrLMXyQ48pdcp9"
       },
@@ -615,7 +641,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 200640,
       "name": "ID Safada",
       "url": "https://open.spotify.com/track/7ykcTyaRlkHlpgOxHKhr5m"

@@ -2,7 +2,7 @@
 
 ### [anti pop](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
-> Featuring new music by Araya.
+> Featuring new music by keshi.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [Gemini](https://open.spotify.com/track/0BEc5agGF5SNiQr2RWvusG) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Gemini](https://open.spotify.com/album/5IPibq1BrOykKFmIE06Vxm) | 3:04 | 2020-10-16 | 2021-03-26 |
 | [Generation](https://open.spotify.com/track/7JHohbdSYNGyUwcycNi95q) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Generation](https://open.spotify.com/album/0V9mAZKEd0gyIC2XQMt6qd) | 3:30 | 2021-12-04 | 2021-12-11 |
+| [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 | 2022-03-04 |  |
 | [GET IT WITH ME](https://open.spotify.com/track/2c6SLHvQpFFznL4olGoT3X) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [GET IT WITH ME](https://open.spotify.com/album/0bwi7N95mpgNptFg9UgRc5) | 2:44 | 2020-10-13\* | 2020-11-03 |
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-07-31 | 2021-10-14 |
 | [Get Up \(feat\. Vince Staples\)](https://open.spotify.com/track/6PbU0URiPBpH4UD9CfCgF7) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Get Up \(feat\. Vince Staples\)](https://open.spotify.com/album/2XOgYO8CiY86X9XK3wbqbs) | 2:47 | 2020-10-13\* | 2021-05-29 |

@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 276746,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/3v1FPBfBPWPh1cXUJQut5V"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 347000,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/6bKHrmhfMFhlXqYR6zfPt9"
@@ -783,6 +783,24 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+    },
+    {
+      "album": {
+        "name": "City Club",
+        "url": "https://open.spotify.com/album/5rKFS59ntz44KWVXPIlc3N"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287085,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/0JxNCIvcLphN1oAafpvDWW"
     },
     {
       "album": {
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 221653,
       "name": "My Old Man",
       "url": "https://open.spotify.com/track/4c7k0jGOFR1OraHvE3BszV"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 166213,
       "name": "One Another",
       "url": "https://open.spotify.com/track/4xF9zRaPdnrLU7QmVMKOzR"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 261362,
       "name": "Poor Relations",
       "url": "https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl"

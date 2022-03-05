@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 163053,
       "name": "Bjudar p\u00e5",
       "url": "https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 166929,
       "name": "Bygda",
       "url": "https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 160604,
       "name": "B\u00f8gdegutt",
       "url": "https://open.spotify.com/track/71HOGcm7rG4ytLgaeorFuc"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 178103,
       "name": "Det \u00e5rn\u00e6r s\u00e6",
       "url": "https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 206293,
       "name": "Eg e her og du e der",
       "url": "https://open.spotify.com/track/3skb0z0Xg5GJJJx9qlPpm7"
@@ -931,10 +931,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 147449,
       "name": "F\u00f8dt til \u00e5 ragge",
       "url": "https://open.spotify.com/track/45GmUDEid9EZ6YA4nFjY0f"
+    },
+    {
+      "album": {
+        "name": "Gamle helter",
+        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Gamle helter",
+      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
     },
     {
       "album": {
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 160002,
       "name": "Ga\u030ardsgutt",
       "url": "https://open.spotify.com/track/4PZt3HFcJnC4QZQhBgEiQC"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 164905,
       "name": "Ja vi elsker (Typisk Norsk 2019)",
       "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 146560,
       "name": "Jag Gillar Dig",
       "url": "https://open.spotify.com/track/5pl2W8X6SDrxE55gRBTFmj"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 234760,
       "name": "J\u00e6vel",
       "url": "https://open.spotify.com/track/47i5Fl1PK2PO3D0PHi5hwd"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 196308,
       "name": "La dagen vare evig",
       "url": "https://open.spotify.com/track/1NKmAhNvaG6ulJigH0OGmM"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 62722,
       "name": "MDG (Jada, jada, jada)",
       "url": "https://open.spotify.com/track/1BjSGxczJ2e4uwvAJstkKe"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 206053,
       "name": "Sj\u00e5 sole",
       "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 154280,
       "name": "Sj\u00f8mann Per",
       "url": "https://open.spotify.com/track/5TkkyRI7euRu4S0BUSuCw6"
@@ -2487,10 +2505,44 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "album": {
+        "name": "S\u00e6la P\u00e5",
+        "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pimp-Lotion",
+          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
+        },
+        {
+          "name": "Roy Harrytassen",
+          "url": "https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "DJ Dan",
+          "url": "https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3"
+        },
+        {
+          "name": "Morten Ramm",
+          "url": "https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "S\u00e6la P\u00e5",
+      "url": "https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR"
     },
     {
       "album": {
@@ -2709,7 +2761,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 193074,
       "name": "Vill ha dig",
       "url": "https://open.spotify.com/track/3tuVDdCxxgoU94NyqzTeTC"

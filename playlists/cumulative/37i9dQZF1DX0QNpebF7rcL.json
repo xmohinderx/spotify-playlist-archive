@@ -1028,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu"
+      },
+      "artists": [
+        {
+          "name": "Andy Kahrs",
+          "url": "https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238856,
+      "name": "If You Love to Be Right",
+      "url": "https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ"
+    },
+    {
+      "album": {
         "name": "In The Water",
         "url": "https://open.spotify.com/album/6Ef6vJ6k500tGlu0zDp8dK"
       },

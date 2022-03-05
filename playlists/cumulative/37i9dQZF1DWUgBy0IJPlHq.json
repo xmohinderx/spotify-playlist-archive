@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Zach Bryan",
+  "description": "A new shade of Country. Cover: Midland",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -537,10 +537,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 220307,
       "name": "Dear Miss Loretta",
       "url": "https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu"
+    },
+    {
+      "album": {
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ben Haggard",
+          "url": "https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM"
     },
     {
       "album": {
@@ -1080,6 +1102,24 @@
     },
     {
       "album": {
+        "name": "High Heels",
+        "url": "https://open.spotify.com/album/6yIGyDzTIV1nkyN6Po3U2u"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202223,
+      "name": "High Heels",
+      "url": "https://open.spotify.com/track/1K2YZyRxCsUSIoqAriiYQj"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6"
       },
@@ -1225,10 +1265,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 155706,
       "name": "Hush",
       "url": "https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447"
+    },
+    {
+      "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun"
     },
     {
       "album": {
@@ -1493,10 +1551,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 180016,
       "name": "Long Game",
       "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
+    },
+    {
+      "album": {
+        "name": "In Between: The Collection",
+        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180833,
+      "name": "Look At The Mess I'm In",
+      "url": "https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD"
     },
     {
       "album": {
@@ -1751,6 +1827,24 @@
       "duration_ms": 208856,
       "name": "Old Enough to Know",
       "url": "https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo"
+    },
+    {
+      "album": {
+        "name": "Moonriser",
+        "url": "https://open.spotify.com/album/1bUNx1cbXakYu9pjfDbZsp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Buxton",
+          "url": "https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212883,
+      "name": "On the Roof",
+      "url": "https://open.spotify.com/track/1E3anxRwTDfSt4ORRzugNi"
     },
     {
       "album": {
@@ -2130,6 +2224,28 @@
     },
     {
       "album": {
+        "name": "State Of Mind (feat. Margo Price)",
+        "url": "https://open.spotify.com/album/2SPR1ILQhgDjoSw1j92uMo"
+      },
+      "artists": [
+        {
+          "name": "Mike Campbell & The Dirty Knobs",
+          "url": "https://open.spotify.com/artist/1pBQqdeHHjEdCtjSUAdu0G"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258061,
+      "name": "State Of Mind (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/3xbafuZ0aEPeHSwb1qxIpV"
+    },
+    {
+      "album": {
         "name": "Sunk Like a Stone",
         "url": "https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb"
       },
@@ -2355,6 +2471,24 @@
       "duration_ms": 203964,
       "name": "The Highway Song",
       "url": "https://open.spotify.com/track/3vNsIsqM1MdTT1z4jNUf46"
+    },
+    {
+      "album": {
+        "name": "The Last Resort",
+        "url": "https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "The Last Resort",
+      "url": "https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr"
     },
     {
       "album": {

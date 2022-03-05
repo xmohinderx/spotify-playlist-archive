@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Blue Lab Beats",
+  "description": "New jazz for open minds. Cover: Melissa Aldana",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 321600,
       "name": "713",
       "url": "https://open.spotify.com/track/3EhH15zLHO0IEmEEbG5fCc"
@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Be the Light",
+        "url": "https://open.spotify.com/album/2i3UNevOFCOrMOHStzqZ2j"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395866,
+      "name": "Be the Light",
+      "url": "https://open.spotify.com/track/771Fw4TAwMkLz7pnu0N1Nm"
+    },
+    {
+      "album": {
         "name": "Blue For You",
         "url": "https://open.spotify.com/album/0ate7tfSz0ilY0OEq8vKu9"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 274000,
       "name": "Blue Macaw",
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
@@ -387,6 +405,24 @@
       "duration_ms": 284516,
       "name": "Blues for Bristol",
       "url": "https://open.spotify.com/track/6u0n7Rb8AzIN5OvKyIp99m"
+    },
+    {
+      "album": {
+        "name": "The Q Sessions",
+        "url": "https://open.spotify.com/album/2HLVQ7b0y9D1wgRUFslaDq"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296666,
+      "name": "Brouhaha",
+      "url": "https://open.spotify.com/track/5d6C0v7ir8lVRCymD9X2Ss"
     },
     {
       "album": {
@@ -797,7 +833,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 158143,
       "name": "Existential Being",
       "url": "https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8"
@@ -859,6 +895,28 @@
       "duration_ms": 372548,
       "name": "First Light",
       "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
+    },
+    {
+      "album": {
+        "name": "More Than We Know",
+        "url": "https://open.spotify.com/album/1nXcPQJ2vzEHcSTxaIbbHl"
+      },
+      "artists": [
+        {
+          "name": "Quintetto Lo Greco",
+          "url": "https://open.spotify.com/artist/6Xt5223Cy8kIO0AIQRw2Vr"
+        },
+        {
+          "name": "Lo Greco Bros",
+          "url": "https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206193,
+      "name": "Five Kids",
+      "url": "https://open.spotify.com/track/2ZOHlIARZXR59VGn1ATbEL"
     },
     {
       "album": {
@@ -969,6 +1027,24 @@
       "duration_ms": 132858,
       "name": "Game 5!",
       "url": "https://open.spotify.com/track/4NZZyhOsyhyFdDn2AFUFHI"
+    },
+    {
+      "album": {
+        "name": "Revisited",
+        "url": "https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330383,
+      "name": "Gamut Warning Revisited",
+      "url": "https://open.spotify.com/track/1GDyxjei81WGbR3GuR1qAU"
     },
     {
       "album": {
@@ -1123,7 +1199,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 215863,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
@@ -1333,7 +1409,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 284000,
       "name": "Just Wrong",
       "url": "https://open.spotify.com/track/58LIZF789jf2itvFjYnRQS"
@@ -1419,7 +1495,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 344720,
       "name": "Levin's Lope - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
@@ -1549,7 +1625,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 325828,
       "name": "Love Proceeding",
       "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
@@ -1646,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV"
+    },
+    {
+      "album": {
         "name": "maybe as his skies are wide",
         "url": "https://open.spotify.com/album/5ukrLKfu9H82bixRgKGFTL"
       },
@@ -1657,7 +1751,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 223078,
       "name": "maybe as his skies are wide",
       "url": "https://open.spotify.com/track/71ub8FJO1gg3OmLfBdrl53"
@@ -1827,7 +1921,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 236560,
       "name": "Nago",
       "url": "https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4"
@@ -1887,7 +1981,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 269066,
       "name": "Naked Truth - Pt. 8",
       "url": "https://open.spotify.com/track/1YulPZXMQ3FAjBfwRQmBH3"
@@ -1931,7 +2025,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 171053,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/5XUoyLhnHj8PQVQWogLHv8"
@@ -2007,6 +2101,24 @@
       "duration_ms": 286785,
       "name": "O Fogo",
       "url": "https://open.spotify.com/track/6oJPC4vEqke3ViUuMhz49u"
+    },
+    {
+      "album": {
+        "name": "Open Channels",
+        "url": "https://open.spotify.com/album/068f225N9L6mbcpRDDk52e"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262742,
+      "name": "Open Channels",
+      "url": "https://open.spotify.com/track/52L4voy7ONzIJbB4HRCUZP"
     },
     {
       "album": {
@@ -2568,6 +2680,42 @@
     },
     {
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/2JaYh91QAp1DZUwXgKWo40"
+      },
+      "artists": [
+        {
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470324,
+      "name": "To the Moon and Back",
+      "url": "https://open.spotify.com/track/1nh00HwoFCLCuaIzB5kEpG"
+    },
+    {
+      "album": {
+        "name": "Tom Sawyer",
+        "url": "https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464143,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd"
+    },
+    {
+      "album": {
         "name": "Salute to the Sun (Live at Hall\u00e9 St Peter's)",
         "url": "https://open.spotify.com/album/4mjdgJ4a5h2DQQgVz6SD7F"
       },
@@ -2688,6 +2836,32 @@
     },
     {
       "album": {
+        "name": "Videogame",
+        "url": "https://open.spotify.com/album/2SvVWK76JFpxikCtvZVN4L"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Elchin Shirinov",
+          "url": "https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254584,
+      "name": "Videogame",
+      "url": "https://open.spotify.com/track/3wimSiydjydfXFkpzPpzIX"
+    },
+    {
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
       },
@@ -2729,6 +2903,50 @@
       "duration_ms": 265022,
       "name": "Warp",
       "url": "https://open.spotify.com/track/0U9hekAvk594eG77ipTLDR"
+    },
+    {
+      "album": {
+        "name": "Water's Edge",
+        "url": "https://open.spotify.com/album/4U3amPY89pSYpLdrd8lt64"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "John Clayton",
+          "url": "https://open.spotify.com/artist/7xpCL3ZjAsjhUIPJBE5PmB"
+        },
+        {
+          "name": "Justin Brown",
+          "url": "https://open.spotify.com/artist/4YzUifC19loaHMPE0MdGNv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399706,
+      "name": "Water's Edge",
+      "url": "https://open.spotify.com/track/1UIThzNL451tmOcyFCx4WI"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/2zVYZbbm0rwmFrSawRtyGn"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/6aCuXpTZX2TgOTm3flPvSE"
     },
     {
       "album": {

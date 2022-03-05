@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Jazz](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
-> Fresh jazz by independent artists every Wednesday\. Cover: Nathan\-Paul\. Artwork: Joy Yamusangie
+> Fresh jazz by independent artists every Wednesday\. Cover: Alison Shearer\. Artwork: Joy Yamusangie
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 276608,
+  "num_followers": 277329,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTU0NywwMDAwMDAwMDljNGFkY2MxMmQ0YTU4NDc3YWY2NmExNDgyMDM0MDhh",
+  "snapshot_id": "MTY0NjQ0MTgyOSwwMDAwMDAwMDcwZDcyMGFlYjFjOGNkMGI2YjkzMzEzOTU4MDcwOGE2",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -55,26 +55,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing In The Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Eyes Shut (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/4WABugXz0ReUmAIZb6LOqH"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 306772,
       "name": "Eyes Shut - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/0eTqzHbGVELiaSiJMpbu7z"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Dancing In The Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing In The Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -155,26 +155,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Let You Love Me (M\u00f6we Remix)",
-        "url": "https://open.spotify.com/album/4OAnWD1IinbLW6ZTKehAh2"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        }
-      ],
-      "duration_ms": 186394,
-      "name": "Let You Love Me - M\u00f6we Remix",
-      "url": "https://open.spotify.com/track/4M0pT9kNYndhyPw15ZDR8C"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "September Song (Remixes)",
         "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 153488,
       "name": "Arcade - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Let You Love Me (M\u00f6we Remix)",
+        "url": "https://open.spotify.com/album/4OAnWD1IinbLW6ZTKehAh2"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        }
+      ],
+      "duration_ms": 186394,
+      "name": "Let You Love Me - M\u00f6we Remix",
+      "url": "https://open.spotify.com/track/4M0pT9kNYndhyPw15ZDR8C"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0eMIuQHirCneY8uw37o03y"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 211040,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0Qew3aYvQPGPjfL7gbe6x1"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -391,18 +391,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi"
+        "name": "My Love (feat. Jess Glynne)",
+        "url": "https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q"
       },
       "artists": [
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD"
+      "duration_ms": 259934,
+      "name": "My Love (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -427,22 +431,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "My Love (feat. Jess Glynne)",
-        "url": "https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q"
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/3TraMumhPga1wOuyRDMrmi"
       },
       "artists": [
         {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
         }
       ],
-      "duration_ms": 259934,
-      "name": "My Love (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q"
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Reality",
-        "url": "https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Stargazing - EP",
         "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
       },
@@ -631,22 +611,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Strongest (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk"
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx"
       },
       "artists": [
         {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
         }
       ],
-      "duration_ms": 210285,
-      "name": "Strongest (Alan Walker Remix)",
-      "url": "https://open.spotify.com/track/2r9hCNjupNy2C2g3r6SNz6"
+      "duration_ms": 159480,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -695,22 +675,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sad Song (feat. TINI)",
-        "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
+        "name": "Strongest (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/3d1YhgZvB8NLZLakA5l4rk"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         },
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 154024,
-      "name": "Sad Song (feat. TINI)",
-      "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
+      "duration_ms": 210285,
+      "name": "Strongest (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/2r9hCNjupNy2C2g3r6SNz6"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -775,6 +755,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "I Was Wrong (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "I Was Wrong - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "At Night, Alone.",
         "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
@@ -835,82 +835,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "I Was Wrong (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
+        "name": "Sad Song (feat. TINI)",
+        "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 220677,
-      "name": "I Was Wrong - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Netzwerk",
-        "url": "https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Will Heard",
-          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Sonnentanz - Sun Don't Shine",
-      "url": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "The Ocean (feat. Shy Martin)",
-        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "SHY Martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "The Ocean (feat. Shy Martin)",
-      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Nice To Meet You",
-        "url": "https://open.spotify.com/album/6ERbVmi33M9tKn7RNtt17G"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 182265,
-      "name": "Drink About",
-      "url": "https://open.spotify.com/track/73WJ6rYbtFi0Z2T4hPS1iN"
+      "duration_ms": 154024,
+      "name": "Sad Song (feat. TINI)",
+      "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -935,6 +875,66 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "The Ocean (feat. Shy Martin)",
+        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "SHY Martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "The Ocean (feat. Shy Martin)",
+      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Netzwerk",
+        "url": "https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Will Heard",
+          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Sonnentanz - Sun Don't Shine",
+      "url": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Nice To Meet You",
+        "url": "https://open.spotify.com/album/6ERbVmi33M9tKn7RNtt17G"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 182265,
+      "name": "Drink About",
+      "url": "https://open.spotify.com/track/73WJ6rYbtFi0Z2T4hPS1iN"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
@@ -955,22 +955,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Crazy (Remixes - Part 2)",
-        "url": "https://open.spotify.com/album/74W3O49t2E05ioau2WgMdF"
+        "name": "Oceans Away",
+        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 153391,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7n4PwO1k0xlwEjgDY1WmrN"
+      "duration_ms": 193981,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -995,18 +991,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Oceans Away",
-        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
+        "name": "Crazy (Remixes - Part 2)",
+        "url": "https://open.spotify.com/album/74W3O49t2E05ioau2WgMdF"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
         }
       ],
-      "duration_ms": 193981,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
+      "duration_ms": 153391,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7n4PwO1k0xlwEjgDY1WmrN"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Life of a Wallflower, Vol. 1",
         "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 184814,
       "name": "Superlove (feat. Oh Wonder)",
       "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Sunset Lover",
-        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 237792,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/75VgBnyHLvSKfmWO3PRT11"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
-        }
-      ],
-      "duration_ms": 164536,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/1XRTXNP8eLpWXfso8Q4dC5"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 226738,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/75VgBnyHLvSKfmWO3PRT11"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        }
+      ],
+      "duration_ms": 164536,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/1XRTXNP8eLpWXfso8Q4dC5"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1259,46 +1259,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Carry Me (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Favela",
         "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
       },
@@ -1315,6 +1275,46 @@
       "duration_ms": 185104,
       "name": "Favela",
       "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 224486,
+      "name": "Raging (feat. Kodaline)",
+      "url": "https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        }
-      ],
-      "duration_ms": 209208,
-      "name": "Headlights (feat. Ilsey)",
-      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/50Q4ewXTrb8txE3mOAnUn1"
       },
@@ -1407,26 +1387,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 224486,
-      "name": "Raging (feat. Kodaline)",
-      "url": "https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -1439,6 +1399,26 @@
       "duration_ms": 237986,
       "name": "No Place",
       "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Carry Me (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1535,6 +1515,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "duration_ms": 209208,
+      "name": "Headlights (feat. Ilsey)",
+      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Sexual Healing (Kygo Remix)",
         "url": "https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5"
       },
@@ -1551,26 +1551,6 @@
       "duration_ms": 368316,
       "name": "Sexual Healing - Kygo Remix",
       "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Oh Child",
-        "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 195261,
-      "name": "Oh Child",
-      "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1615,6 +1595,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Fade Out Lines - The Avener Rework",
+      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
       },
@@ -1635,22 +1635,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "The Wanderings Of The Avener",
-        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
+        "name": "Oh Child",
+        "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
       },
       "artists": [
         {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Phoebe Killdeer",
-          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 276600,
-      "name": "Fade Out Lines - The Avener Rework",
-      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+      "duration_ms": 195261,
+      "name": "Oh Child",
+      "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Tuesday (feat. Danelle Sandoval)",
+        "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
+      },
+      "artists": [
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Danelle Sandoval",
+          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
+        }
+      ],
+      "duration_ms": 241874,
+      "name": "Tuesday (feat. Danelle Sandoval)",
+      "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 313084,
       "name": "Facing the Sun",
       "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Tuesday (feat. Danelle Sandoval)",
-        "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
-      },
-      "artists": [
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        },
-        {
-          "name": "Danelle Sandoval",
-          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "Tuesday (feat. Danelle Sandoval)",
-      "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
     },
     {
       "added_at": "2022-01-18 14:54:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,673 likes - 180 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,694 likes - 180 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 149 | [Umber State Brown Noise](https://open.spotify.com/track/5RRORvjiUdgXLW3UH25mfz) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Umber State Brown Noise](https://open.spotify.com/album/6hVenoEXDDWKVapwcsnp2y) | 2:54 |
 | 150 | [Falling asleep to Brown Noise](https://open.spotify.com/track/5laLwmlwHA9mbO9Wn3rEbW) | [Noise Spectators](https://open.spotify.com/artist/5S9wTBGgBMmYfT9xY6H2kw) | [Brown Noise](https://open.spotify.com/album/4CUsNKDu43itZ7sHDQopdC) | 3:57 |
 | 151 | [Comparison](https://open.spotify.com/track/4hMLgGwTdVcCnSu9XuQKOY) | [Noise Guru](https://open.spotify.com/artist/7MSd2MxEdgWZ4qyLNebUmo) | [Pink Noise for Study](https://open.spotify.com/album/6Rh0awBuoy2o7ueoE0n8xT) | 3:00 |
-| 152 | [Brown Noise is made of this, travel the world in your sleep](https://open.spotify.com/track/4eVqgnEzgXDNBB9OJwU9S5) | [Day Nappers](https://open.spotify.com/artist/47vqxeEeWPzk2wbFvuZNz0) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 |
+| 152 | [Brown Noise is made of this, travel the world in your sleep](https://open.spotify.com/track/4eVqgnEzgXDNBB9OJwU9S5) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 |
 | 153 | [Brain X 1000](https://open.spotify.com/track/2PXTRyViXMQnezQOs6vDHa) | [Noise Makers](https://open.spotify.com/artist/0nrbcHAQjeZ8Acj8wXmJhB) | [White Noise](https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R) | 2:46 |
 | 154 | [Lynx Brown Noise](https://open.spotify.com/track/52oBEDQA9kqro0zISVZL5H) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 2:55 |
 | 155 | [Herbal Hour](https://open.spotify.com/track/3ME4Yw6cFOu2yJcbish3hw) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep Brown Noise](https://open.spotify.com/album/5rL3m6jUPS695IqPRRsUBz) | 2:24 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 162 | [Float Chamber](https://open.spotify.com/track/5P9UkTI8azKGhh1SzXuyGN) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Brown Sleep Noise](https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr) | 4:08 |
 | 163 | [Crux Brown Noise](https://open.spotify.com/track/4gUI9mfQupthMokSX28qWJ) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 3:04 |
 | 164 | [Space Wind](https://open.spotify.com/track/1qnW1Tu3soxc4UqUduAzHV) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:56 |
-| 165 | [Underneath the Stars](https://open.spotify.com/track/1oFhAF9AP4kV7uimscgcyn) | [Day Nappers](https://open.spotify.com/artist/47vqxeEeWPzk2wbFvuZNz0) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 |
+| 165 | [Underneath the Stars](https://open.spotify.com/track/1oFhAF9AP4kV7uimscgcyn) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 |
 | 166 | [Taurus Brown Noise](https://open.spotify.com/track/4hjyardB6ieDivEFMi9xJe) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 3:00 |
 | 167 | [Dreamy Noise](https://open.spotify.com/track/2ILpWYRvqJ2OAtR9om60JS) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Relaxing Brown Noise](https://open.spotify.com/album/1ikuBfHFOVZWK1ac6q1kxJ) | 2:30 |
 | 168 | [Dream State](https://open.spotify.com/track/2jx3wHzqX8FbikDXOeV49w) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Deep Sleep](https://open.spotify.com/album/4FCYAXNyQncLd5g44aaPlg) | 3:39 |

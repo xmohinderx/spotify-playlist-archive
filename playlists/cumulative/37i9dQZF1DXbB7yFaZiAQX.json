@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 315333,
       "name": "Age of Consent - 2015 Remaster",
       "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 221053,
       "name": "Brilliant Mind",
       "url": "https://open.spotify.com/track/6lN2rz6C3XTq6RauOl8J3a"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 237706,
       "name": "Gigantic",
       "url": "https://open.spotify.com/track/3oqJ3POeLfa2TJh6BFLhPM"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 336230,
       "name": "I Scare Myself",
       "url": "https://open.spotify.com/track/6XhpH1fs9BLFk0IxEGyecw"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 242000,
       "name": "I Travel",
       "url": "https://open.spotify.com/track/3GRyWgNPX5rBdh0VQctl5P"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 186773,
       "name": "Is Vic There?",
       "url": "https://open.spotify.com/track/4brFeNicHZlzvFqbNR0XGx"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 239959,
       "name": "Living On The Ceiling",
       "url": "https://open.spotify.com/track/1LysqZOvGYyVNjPz0HYU7m"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 273746,
       "name": "Major Tom (V\u00f6llig Losgel\u00f6st)",
       "url": "https://open.spotify.com/track/2qZQtey4lTwvvABVMrO4h8"
@@ -2214,6 +2214,24 @@
     },
     {
       "album": {
+        "name": "A Secret Wish (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/435EGjWSVjq9b8cggdh5yM"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "date_added": "2019-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "P: Machinery",
+      "url": "https://open.spotify.com/track/4YIZE6Z4UWVk9wCtE6m3Rv"
+    },
+    {
+      "album": {
         "name": "Volume 1 (Dr Heckle & Mr Jive)",
         "url": "https://open.spotify.com/album/4wW1jawhuzhFJAnQJ80Bb7"
       },
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 314400,
       "name": "Party Fears Two",
       "url": "https://open.spotify.com/track/56SwjvVv45XLJhScKC8IcB"
@@ -3615,7 +3633,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "What Is Love?",
       "url": "https://open.spotify.com/track/5YBbCAsC19yTItMOaRlmG1"
@@ -3673,7 +3691,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 228613,
       "name": "Whisper to a Scream (Birds Fly) - Single Version",
       "url": "https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2"
@@ -3727,7 +3745,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 247973,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/7w76loirJapdVKMf6sFrJo"

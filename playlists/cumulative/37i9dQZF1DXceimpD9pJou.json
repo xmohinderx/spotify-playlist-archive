@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  Omy Alka y Jay Kalyl",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:  Daniela Galeano",
   "name": "Novedades Cristianas",
   "published_playlist_ids": [
     "1KUPUNIHlkycouwTjzbQCF"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174342,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/7EnWJlSBcWiws1VBHsWr3k"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 127986,
       "name": "DRILL-O",
       "url": "https://open.spotify.com/track/6SqpjKcNSlemeke20izs6p"
@@ -659,6 +659,24 @@
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+    },
+    {
+      "album": {
+        "name": "El Milagro",
+        "url": "https://open.spotify.com/album/5iD2YjdQd97tCgUi92Zfqh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268344,
+      "name": "El Milagro",
+      "url": "https://open.spotify.com/track/0nSMObjfgB8utLKfVo7wIV"
     },
     {
       "album": {
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 248701,
       "name": "Feo pero Salvo feat. Albert Miliano",
       "url": "https://open.spotify.com/track/2PzVtMzk6wDoUeas8cMsLY"
@@ -823,10 +841,36 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 234442,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/6c3ZMG6GLz5AikyyfE0geV"
+    },
+    {
+      "album": {
+        "name": "Gloria, Honor, Poder",
+        "url": "https://open.spotify.com/album/0UDgu2Qz5fKzEepSZxFjGH"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301710,
+      "name": "Gloria, Honor, Poder",
+      "url": "https://open.spotify.com/track/32mOZgW0bDqy5wUxmjpSVy"
     },
     {
       "album": {
@@ -925,7 +969,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 111111,
       "name": "His Will > Mine",
       "url": "https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA"
@@ -951,6 +995,32 @@
       "duration_ms": 193427,
       "name": "Il\u00f3gico",
       "url": "https://open.spotify.com/track/7i59PhSOCjNYM4HpKJGXYn"
+    },
+    {
+      "album": {
+        "name": "In Jesus Name (Latin Arrangement)",
+        "url": "https://open.spotify.com/album/2wIqAvNXJzSjIXQRryjfHQ"
+      },
+      "artists": [
+        {
+          "name": "Unified Sound",
+          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+        },
+        {
+          "name": "Jordan Houghton",
+          "url": "https://open.spotify.com/artist/758REhgt1yL3yL6NhwRqTt"
+        },
+        {
+          "name": "Edwin Lebron",
+          "url": "https://open.spotify.com/artist/6usspkofkkxT1vCCDj7w9i"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342817,
+      "name": "In Jesus Name - Latin Arrangement",
+      "url": "https://open.spotify.com/track/7l0d1AlqQYbIQ70m64oZ3c"
     },
     {
       "album": {
@@ -1059,7 +1129,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 160695,
       "name": "Lleg\u00f3 el Culto",
       "url": "https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse"
@@ -1160,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "Me Cuidas",
+        "url": "https://open.spotify.com/album/3fSrY0JgVcd7zOsGhNNDTz"
+      },
+      "artists": [
+        {
+          "name": "Eldrick",
+          "url": "https://open.spotify.com/artist/0Kiq9AE39pIcZpRCqcTl7Q"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248935,
+      "name": "Me Cuidas",
+      "url": "https://open.spotify.com/track/5fMOniTjwgdcmDaxr0D1Ti"
+    },
+    {
+      "album": {
         "name": "Me Llamas (Remix)",
         "url": "https://open.spotify.com/album/561fRSEWQAbItLmgHukdkj"
       },
@@ -1254,6 +1342,28 @@
     },
     {
       "album": {
+        "name": "Mi Buen Pastor Ft Edder HT",
+        "url": "https://open.spotify.com/album/5dD8TfDI7B9NcYDJqS6Hpj"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cabanilla",
+          "url": "https://open.spotify.com/artist/5M0gwBmnNgN31WBDJYZYbd"
+        },
+        {
+          "name": "Edder HT",
+          "url": "https://open.spotify.com/artist/4WczPsP7siLPit0yJ1kLOG"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194739,
+      "name": "Mi Buen Pastor Ft Edder HT",
+      "url": "https://open.spotify.com/track/0tWXvjg6EkBUSsIvHHgeQ6"
+    },
+    {
+      "album": {
         "name": "Grito",
         "url": "https://open.spotify.com/album/2tufF0iZC7thvWlhcwQrBG"
       },
@@ -1309,7 +1419,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 543230,
       "name": "Mi Mayor Necesidad - Live",
       "url": "https://open.spotify.com/track/0zXd3p2yHvkVg8QOsrdV35"
@@ -1387,7 +1497,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 548160,
       "name": "Nadie Va A Robar Tu Gloria (Espont\u00e1neo) - Live",
       "url": "https://open.spotify.com/track/4bWVZDs1FI8niOCjquJFHb"
@@ -1501,10 +1611,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 164118,
       "name": "No Soy Perfecta",
       "url": "https://open.spotify.com/track/6RLmYiQPeLztb7Ns6MZmRL"
+    },
+    {
+      "album": {
+        "name": "No Te Creo",
+        "url": "https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196424,
+      "name": "No Te Creo",
+      "url": "https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB"
     },
     {
       "album": {
@@ -1541,7 +1669,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 231008,
       "name": "Noches Enteras",
       "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
@@ -1659,7 +1787,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 249931,
       "name": "Preciosa",
       "url": "https://open.spotify.com/track/5bsCMB1HUyN9HrqQKMItxy"
@@ -1757,7 +1885,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 229565,
       "name": "Rap Alto Calibre",
       "url": "https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI"
@@ -1849,6 +1977,36 @@
       "duration_ms": 236128,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8"
+    },
+    {
+      "album": {
+        "name": "Maranatha 1 (Live)",
+        "url": "https://open.spotify.com/album/456t1nKq8c404O2VR1E50a"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Nick Gaggero",
+          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357760,
+      "name": "Santo - Live",
+      "url": "https://open.spotify.com/track/4rsEJ8Bm4wAlsc5AuBhmo0"
     },
     {
       "album": {
@@ -2179,7 +2337,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 185405,
       "name": "Uno en \u00c9l",
       "url": "https://open.spotify.com/track/7HbDChHFpq3NWIn1b4Eb5F"
@@ -2205,7 +2363,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 209699,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e"
@@ -2285,6 +2443,28 @@
       "duration_ms": 346567,
       "name": "Ven Puedes Entrar",
       "url": "https://open.spotify.com/track/05rUx4ssBP8ChKNexeP7l3"
+    },
+    {
+      "album": {
+        "name": "Ven\u00edmos Del Barr\u00edo",
+        "url": "https://open.spotify.com/album/0jUsPyADnpbH6DR6wz011m"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        },
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189274,
+      "name": "Ven\u00edmos Del Barr\u00edo",
+      "url": "https://open.spotify.com/track/4x8LdHKLanBYGNh2sUNTiU"
     },
     {
       "album": {

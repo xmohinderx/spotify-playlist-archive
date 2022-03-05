@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Santana",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Mar\u00edlia Mendon\u00e7a, Maiara & Maraisa",
   "name": "Esquenta Sertanejo",
   "published_playlist_ids": [
     "1QClRCShAKNcti565v7TOp"
@@ -160,6 +160,28 @@
     },
     {
       "album": {
+        "name": "Cleber & Cauan No Rio Quente",
+        "url": "https://open.spotify.com/album/0sEb6tyxysVFuoKfaN5WdA"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165347,
+      "name": "Boca Ocupada",
+      "url": "https://open.spotify.com/track/36mUWhjTM3GNpncYy7RR6z"
+    },
+    {
+      "album": {
         "name": "Calculista",
         "url": "https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy"
       },
@@ -193,7 +215,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 176585,
       "name": "Ch\u00e1 De Casa Nova - Ao Vivo",
       "url": "https://open.spotify.com/track/6wrkP23fHC8KDHCfs8MpJ9"
@@ -229,7 +251,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 173226,
       "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
@@ -291,6 +313,24 @@
       "duration_ms": 188671,
       "name": "Desbloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG"
+    },
+    {
+      "album": {
+        "name": "Israel & Rodolffo: Ao Vivo Em Bras\u00edlia, Vol. 2",
+        "url": "https://open.spotify.com/album/0nSCmDQ8GRpsu4sAKKhaBM"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143219,
+      "name": "D\u00e1 Intimidade Pra Ver - Ao Vivo",
+      "url": "https://open.spotify.com/track/0j8nXyOr5UXWHqy0BBnZ6L"
     },
     {
       "album": {

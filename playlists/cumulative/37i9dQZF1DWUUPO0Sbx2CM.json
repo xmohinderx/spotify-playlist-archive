@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Canyon Worship 2021",
+        "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
+      },
+      "artists": [
+        {
+          "name": "Canyon Worship",
+          "url": "https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh"
+        },
+        {
+          "name": "Madison Russell",
+          "url": "https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208204,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
+    },
+    {
+      "album": {
         "name": "Alright (Remix)",
         "url": "https://open.spotify.com/album/3ENljMEsjgZSnbJ4R0L68B"
       },
@@ -219,7 +241,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
@@ -273,7 +295,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 210128,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2WpZBx0ajYCNnv2EXwNnOA"
@@ -371,7 +393,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 214793,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2dXntxjimv1oK2BejjEj10"
@@ -633,7 +655,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 211367,
       "name": "For The Ones We Love - Axel E Remix",
       "url": "https://open.spotify.com/track/7fGbnIBPPAB0YPhVIrKjFU"
@@ -669,7 +691,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 202158,
       "name": "Friend Of Sinners",
       "url": "https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ"
@@ -877,7 +899,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 177920,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
@@ -1105,7 +1127,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 210510,
       "name": "I'm Still Breathing",
       "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
@@ -1319,7 +1341,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 205746,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/4yw6kmacxlzs42Lg3zvRkJ"
@@ -1413,7 +1435,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174438,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/6CVCNhM3dOfPL6Ud4JLNr7"
@@ -1443,7 +1465,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 213410,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp"
@@ -1497,7 +1519,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 219186,
       "name": "Not Today - Remix",
       "url": "https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u"
@@ -1751,7 +1773,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 160909,
       "name": "Sanctuary - Harrison McQuade Remix",
       "url": "https://open.spotify.com/track/0yXUIcnTLiTla7fcGzIL8x"
@@ -1799,7 +1821,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 243240,
       "name": "Scars (Come With Livin') - Neon Feather Remix",
       "url": "https://open.spotify.com/track/0shptsB4Efvi4T5zNKjeuO"
@@ -1847,7 +1869,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 152769,
       "name": "SIMPLE (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
@@ -1927,7 +1949,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 199304,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1PqDvk6t4pI1kAWWjvxVYU"
@@ -2025,7 +2047,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
@@ -2061,7 +2083,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
@@ -2108,6 +2130,28 @@
     },
     {
       "album": {
+        "name": "Trust (Hold on Tight), Live at Hsn Germany 2021",
+        "url": "https://open.spotify.com/album/6k1coHwQPUZ0NVYqbVlqPl"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "SARVIA",
+          "url": "https://open.spotify.com/artist/2AzjJmXPh6YhnzdqqvRw12"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317142,
+      "name": "Trust (Hold on Tight), Live at Hsn Germany 2021",
+      "url": "https://open.spotify.com/track/5etXkOBaX5MLeiudGuSh0y"
+    },
+    {
+      "album": {
         "name": "Up Again (The Remixes)",
         "url": "https://open.spotify.com/album/06JS6Bb9W32T4lOsbVtbry"
       },
@@ -2141,7 +2185,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 237179,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
@@ -2305,6 +2349,24 @@
       "duration_ms": 187459,
       "name": "Worry",
       "url": "https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz"
+    },
+    {
+      "album": {
+        "name": "WTSOTLI (LAEL Remix)",
+        "url": "https://open.spotify.com/album/40OaSIYsxjAz2JthcpNVsG"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180872,
+      "name": "WTSOTLI - LAEL Remix",
+      "url": "https://open.spotify.com/track/2SWYkkjug4DxuMlO8ozWku"
     },
     {
       "album": {

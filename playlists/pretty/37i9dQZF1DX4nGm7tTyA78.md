@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,242 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,275 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 9 | [Blah Blah Blah](https://open.spotify.com/track/6oXrwjNtNI8wxy8CfXkvak) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 3:46 |
 | 10 | [Hambre](https://open.spotify.com/track/7gXy7UL90pN9zXEpyz0Rf6) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Hambre](https://open.spotify.com/album/4RtyI0l65CD6pUXtPSMDg7) | 3:41 |
 | 11 | [Trapstyle \(Despues No Digan\)](https://open.spotify.com/track/3ZgnanPzWAE9iNQL0nxzKB) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Mejor Que Ayer](https://open.spotify.com/album/71vkzeME3KZYQZnmY5ekuE) | 3:38 |
-| 12 | [Conoce la Historia \(Remix\) \[feat\. Farruko & D.O Zi\]](https://open.spotify.com/track/1RI4W1lTecxsEvjlTss5z0) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [D.OZI](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Linea de Fuego](https://open.spotify.com/album/6taVNEBUo86nbycmzQc20G) | 3:39 |
+| 12 | [Conoce la Historia \(Remix\) \[feat\. Farruko & D.O Zi\]](https://open.spotify.com/track/1RI4W1lTecxsEvjlTss5z0) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Linea de Fuego](https://open.spotify.com/album/6taVNEBUo86nbycmzQc20G) | 3:39 |
 | 13 | [Como David](https://open.spotify.com/track/5p9GwiOKDTCxV63TXexVVr) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Espiritu Libre](https://open.spotify.com/album/6lh4r6awjd0rNeIvzdhJ2k) | 4:10 |
 | 14 | [Lift](https://open.spotify.com/track/3zTlidxfvKnuLay7tmxTfI) | [Carlos Herrera Music](https://open.spotify.com/artist/6XyhP9ocGrfEqrIm6vHDYG), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Lift](https://open.spotify.com/album/5t62fhTVsy040NJgla87v2) | 3:04 |
 | 15 | [No Existe](https://open.spotify.com/track/10SMHUNB1vFqprgSPgpkVG) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/10gj19OpC25r3uCx0lB2hZ) | 4:10 |

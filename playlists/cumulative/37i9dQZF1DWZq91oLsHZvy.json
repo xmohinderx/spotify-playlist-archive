@@ -1320,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4vykL6dZ8n9spAdzEPvn3n"
+      },
+      "artists": [
+        {
+          "name": "Dorsal Fins",
+          "url": "https://open.spotify.com/artist/4EtfwTmKV4RidvzmoM7pL4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244240,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/1zPWMtCrpd6ppFoAZJSIb9"
+    },
+    {
+      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/1jefPRHYXgymDYCwHFnqZf"
       },
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 184760,
       "name": "Vowels",
       "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"

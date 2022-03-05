@@ -1,13 +1,61 @@
 {
-  "description": "hyperpop is a community. Cover: gabby start",
-  "num_followers": 300646,
+  "description": "tbh we give up. tweet #hyperpopdesc with a description and well just pick one of those. shout out frax.",
+  "num_followers": 300989,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjI0Njc0OSwwMDAwMDEzNTAwMDAwMTdmNGJmM2U0NzUwMDAwMDE3ZjQxZmM5YjZm",
+  "snapshot_id": "MTY0NjQxMzQzNSwwMDAwMDEzNzAwMDAwMTdmNTVlMzUyZjAwMDAwMDE3ZjUxNWY0NGJm",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "all i want",
+        "url": "https://open.spotify.com/album/15r7sC316UA4qhFUd4SN6q"
+      },
+      "artists": [
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 124328,
+      "name": "all i want",
+      "url": "https://open.spotify.com/track/2Xs34YDFvztiJkmwqkYUdV"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "homegrown",
+        "url": "https://open.spotify.com/album/4teTVPQKqDyUV7sJGanYGL"
+      },
+      "artists": [
+        {
+          "name": "Jay Kim",
+          "url": "https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6"
+        }
+      ],
+      "duration_ms": 138872,
+      "name": "same town",
+      "url": "https://open.spotify.com/track/79s2YK9V1mGJkSOxt4a94K"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "Kira Kira",
+        "url": "https://open.spotify.com/album/0AfOR652wvcBCWzxwh5OWz"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Kira Kira",
+      "url": "https://open.spotify.com/track/2lQsaY9KsbtE8oij9Db9eB"
+    },
     {
       "added_at": "2022-02-25 05:09:00",
       "album": {
@@ -23,38 +71,6 @@
       "duration_ms": 124516,
       "name": "i know you hate me",
       "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
-    },
-    {
-      "added_at": "2022-02-24 15:09:40",
-      "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/4m4Ohp8rvOe3YANkKTb40C"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 195562,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L"
-    },
-    {
-      "added_at": "2022-02-25 19:54:55",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/5DkrsWtn8AbzHH9dSEMkk6"
-      },
-      "artists": [
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/4DnyQxa0UP9xorQcG58BYW"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -73,20 +89,20 @@
       "url": "https://open.spotify.com/track/4iT0B51dMYRqbCLz6gFcxx"
     },
     {
-      "added_at": "2022-02-18 15:20:49",
+      "added_at": "2022-02-24 15:09:40",
       "album": {
-        "name": "luca",
-        "url": "https://open.spotify.com/album/5sHVvoJi5rV8L5rgEVc18o"
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/4m4Ohp8rvOe3YANkKTb40C"
       },
       "artists": [
         {
-          "name": "gabby start",
-          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 222565,
-      "name": "rock music",
-      "url": "https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh"
+      "duration_ms": 195562,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L"
     },
     {
       "added_at": "2022-02-23 17:05:00",
@@ -103,6 +119,142 @@
       "duration_ms": 128571,
       "name": "fool4love",
       "url": "https://open.spotify.com/track/0RSgXjblj8lNRMQBveuJfA"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/5LcMGi5nDM6E3Dw0XdfWT3"
+      },
+      "artists": [
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        },
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 169638,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/7gtgtYy4edlHDlxSx8EW38"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "on my mind",
+        "url": "https://open.spotify.com/album/4nIRKSwq38NxoCimjUOsby"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "qori.",
+          "url": "https://open.spotify.com/artist/7C8EeuCECRY3gIL5mNBppc"
+        }
+      ],
+      "duration_ms": 117245,
+      "name": "on my mind",
+      "url": "https://open.spotify.com/track/0mgRxCllNVbm370nrPFpN2"
+    },
+    {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-02-25 19:54:55",
+      "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/5DkrsWtn8AbzHH9dSEMkk6"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/4DnyQxa0UP9xorQcG58BYW"
+    },
+    {
+      "added_at": "2022-02-18 15:20:49",
+      "album": {
+        "name": "luca",
+        "url": "https://open.spotify.com/album/5sHVvoJi5rV8L5rgEVc18o"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "duration_ms": 222565,
+      "name": "rock music",
+      "url": "https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh"
+    },
+    {
+      "added_at": "2022-02-25 05:09:00",
+      "album": {
+        "name": "a moment",
+        "url": "https://open.spotify.com/album/7n52KlpoOP3z9dNO0FU5EC"
+      },
+      "artists": [
+        {
+          "name": "nervyyy",
+          "url": "https://open.spotify.com/artist/5UFY2CrDO385nXztkbzT4U"
+        }
+      ],
+      "duration_ms": 218783,
+      "name": "a moment",
+      "url": "https://open.spotify.com/track/7rgPQ49TgiAc3v83doKJKK"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "mr brightside",
+        "url": "https://open.spotify.com/album/03RVGf6VBWOBUKdViT8xWH"
+      },
+      "artists": [
+        {
+          "name": "DeFalco",
+          "url": "https://open.spotify.com/artist/2Um7Dmlazw2717ChKlnjdI"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "mr brightside",
+      "url": "https://open.spotify.com/track/6Ljcc3isAvGQYiNmegqDmS"
+    },
+    {
+      "added_at": "2022-02-25 05:09:00",
+      "album": {
+        "name": "8ball",
+        "url": "https://open.spotify.com/album/6WXuTxzbSjNBSr0xi4iu4J"
+      },
+      "artists": [
+        {
+          "name": "NOT THE MAIN CHARACTERS",
+          "url": "https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "8ball",
+      "url": "https://open.spotify.com/track/4nh9PEUBFwAL2RAFgDYFH3"
     },
     {
       "added_at": "2022-02-25 05:09:00",
@@ -123,22 +275,6 @@
       "duration_ms": 160324,
       "name": "No Rest",
       "url": "https://open.spotify.com/track/63VaZkQwtaFCQ48pEBZrke"
-    },
-    {
-      "added_at": "2022-02-25 05:09:00",
-      "album": {
-        "name": "8ball",
-        "url": "https://open.spotify.com/album/6WXuTxzbSjNBSr0xi4iu4J"
-      },
-      "artists": [
-        {
-          "name": "NOT THE MAIN CHARACTERS",
-          "url": "https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "8ball",
-      "url": "https://open.spotify.com/track/4nh9PEUBFwAL2RAFgDYFH3"
     },
     {
       "added_at": "2022-02-18 15:20:49",
@@ -197,20 +333,24 @@
       "url": "https://open.spotify.com/track/5RIV2ymv9B38pWBrYyWTbF"
     },
     {
-      "added_at": "2022-01-14 18:09:29",
+      "added_at": "2022-03-04 05:05:00",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+        "name": "calcimine",
+        "url": "https://open.spotify.com/album/0qeHMBQEDT3IOzw9K1KBvg"
       },
       "artists": [
         {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+          "name": "wishlane",
+          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
+        },
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
         }
       ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+      "duration_ms": 207659,
+      "name": "calcimine",
+      "url": "https://open.spotify.com/track/2vhjmUOgdBZT9jZdX5CUX7"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -243,6 +383,22 @@
       "duration_ms": 125585,
       "name": "they were deleted you say?",
       "url": "https://open.spotify.com/track/10MwHo27L63OuXlGgh41We"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "Mutual XO",
+        "url": "https://open.spotify.com/album/4poZocs3xwN5Xp0WgdQU46"
+      },
+      "artists": [
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        }
+      ],
+      "duration_ms": 172331,
+      "name": "Mutual XO",
+      "url": "https://open.spotify.com/track/5IGoUYZdWjfTUjGlfeTKRc"
     },
     {
       "added_at": "2022-02-25 05:09:00",
@@ -405,6 +561,22 @@
       "url": "https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ"
     },
     {
+      "added_at": "2022-01-28 05:13:00",
+      "album": {
+        "name": "OPTICAL RANGE",
+        "url": "https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24"
+      },
+      "artists": [
+        {
+          "name": "Mista Playa",
+          "url": "https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i"
+        }
+      ],
+      "duration_ms": 116826,
+      "name": "OPTICAL RANGE",
+      "url": "https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO"
+    },
+    {
       "added_at": "2022-02-18 15:20:49",
       "album": {
         "name": "STFU...ur done",
@@ -419,22 +591,6 @@
       "duration_ms": 138000,
       "name": "STFU...ur done",
       "url": "https://open.spotify.com/track/2V47hvJ7KTgEtfgEbwm6DN"
-    },
-    {
-      "added_at": "2022-02-25 05:09:00",
-      "album": {
-        "name": "a moment",
-        "url": "https://open.spotify.com/album/7n52KlpoOP3z9dNO0FU5EC"
-      },
-      "artists": [
-        {
-          "name": "nervyyy",
-          "url": "https://open.spotify.com/artist/5UFY2CrDO385nXztkbzT4U"
-        }
-      ],
-      "duration_ms": 218783,
-      "name": "a moment",
-      "url": "https://open.spotify.com/track/7rgPQ49TgiAc3v83doKJKK"
     },
     {
       "added_at": "2022-02-03 15:19:13",
@@ -529,6 +685,22 @@
       "url": "https://open.spotify.com/track/4SHZsJ8mwyWkv1zK6uGfP5"
     },
     {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109296,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
+    },
+    {
       "added_at": "2022-01-21 05:05:00",
       "album": {
         "name": "Amygdala",
@@ -599,6 +771,22 @@
       "duration_ms": 189135,
       "name": "Maneki Neko",
       "url": "https://open.spotify.com/track/3OW0blV0z3iBPA2t6an8pd"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "Boucher",
+        "url": "https://open.spotify.com/album/5cC4BUGWp9VQn88VY5NKcV"
+      },
+      "artists": [
+        {
+          "name": "LICK DROP",
+          "url": "https://open.spotify.com/artist/2Z0A3tYHjY3X7NAWZKty3U"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Boucher",
+      "url": "https://open.spotify.com/track/27xtIMe0h6xuDd0b29kR1v"
     },
     {
       "added_at": "2022-02-04 05:03:00",
@@ -717,22 +905,6 @@
       "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "OPTICAL RANGE",
-        "url": "https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24"
-      },
-      "artists": [
-        {
-          "name": "Mista Playa",
-          "url": "https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i"
-        }
-      ],
-      "duration_ms": 116826,
-      "name": "OPTICAL RANGE",
-      "url": "https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO"
-    },
-    {
       "added_at": "2022-01-21 05:05:00",
       "album": {
         "name": "tellmewhatuwant",
@@ -767,6 +939,42 @@
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/6qYmLmMTMpLPi80Mh0EbGb"
+    },
+    {
+      "added_at": "2022-01-28 05:13:00",
+      "album": {
+        "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
+        "url": "https://open.spotify.com/album/3URDUiopN6UnnaOc6SYcAZ"
+      },
+      "artists": [
+        {
+          "name": "LXNER",
+          "url": "https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt"
+        },
+        {
+          "name": "quiizzzmeow",
+          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
+        }
+      ],
+      "duration_ms": 174977,
+      "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
+      "url": "https://open.spotify.com/track/67Me2LmeUSJZGGSvVQUqbB"
+    },
+    {
+      "added_at": "2021-12-10 06:56:00",
+      "album": {
+        "name": "GAMEBOY",
+        "url": "https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "GAMEBOY",
+      "url": "https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f"
     },
     {
       "added_at": "2022-01-26 22:13:05",
@@ -841,6 +1049,38 @@
       "url": "https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU"
     },
     {
+      "added_at": "2021-11-17 21:31:37",
+      "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
+    },
+    {
+      "added_at": "2022-03-04 05:05:00",
+      "album": {
+        "name": "a lie",
+        "url": "https://open.spotify.com/album/3Li5su802AiQprh70LJlaK"
+      },
+      "artists": [
+        {
+          "name": "Skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142719,
+      "name": "a lie",
+      "url": "https://open.spotify.com/track/3iAudZdHSkeMrT1t6L1vIk"
+    },
+    {
       "added_at": "2022-02-18 15:20:49",
       "album": {
         "name": "no more",
@@ -855,26 +1095,6 @@
       "duration_ms": 164211,
       "name": "no more",
       "url": "https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
-        "url": "https://open.spotify.com/album/3URDUiopN6UnnaOc6SYcAZ"
-      },
-      "artists": [
-        {
-          "name": "LXNER",
-          "url": "https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt"
-        },
-        {
-          "name": "quiizzzmeow",
-          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
-        }
-      ],
-      "duration_ms": 174977,
-      "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
-      "url": "https://open.spotify.com/track/67Me2LmeUSJZGGSvVQUqbB"
     },
     {
       "added_at": "2021-12-21 15:06:00",
@@ -895,22 +1115,6 @@
       "duration_ms": 215727,
       "name": "bitter",
       "url": "https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS"
-    },
-    {
-      "added_at": "2021-12-10 06:56:00",
-      "album": {
-        "name": "GAMEBOY",
-        "url": "https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "GAMEBOY",
-      "url": "https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f"
     },
     {
       "added_at": "2022-02-04 05:03:00",
@@ -983,22 +1187,6 @@
       "duration_ms": 153333,
       "name": "mad",
       "url": "https://open.spotify.com/track/5XwnTvQFHavBkysCPkq4g1"
-    },
-    {
-      "added_at": "2021-11-17 21:31:37",
-      "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
     },
     {
       "added_at": "2022-01-28 05:13:00",
@@ -1205,42 +1393,6 @@
       "url": "https://open.spotify.com/track/6zcRgqSdi9PwQjmYd9jnj8"
     },
     {
-      "added_at": "2021-10-14 04:05:00",
-      "album": {
-        "name": "if you make music .. stop it",
-        "url": "https://open.spotify.com/album/2KqoboO21Xo45JokzkToFU"
-      },
-      "artists": [
-        {
-          "name": "dltzk",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 168892,
-      "name": "if you make music .. stop it",
-      "url": "https://open.spotify.com/track/05Am6HJ1KDkb6J7V4YnS8T"
-    },
-    {
-      "added_at": "2021-07-23 04:24:00",
-      "album": {
-        "name": "mad af",
-        "url": "https://open.spotify.com/album/0Rx3fsfPyV5GcZfYUNOyM5"
-      },
-      "artists": [
-        {
-          "name": "Von Storm",
-          "url": "https://open.spotify.com/artist/5acEBp4nbqoEjROkF8nLj4"
-        }
-      ],
-      "duration_ms": 166380,
-      "name": "mad af",
-      "url": "https://open.spotify.com/track/4vysTOHKdbx3hwoysg73zX"
-    },
-    {
       "added_at": "2022-01-28 05:13:00",
       "album": {
         "name": "moon-e",
@@ -1397,22 +1549,6 @@
       "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
     },
     {
-      "added_at": "2021-09-23 22:10:29",
-      "album": {
-        "name": "drive-by lullabies",
-        "url": "https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 182389,
-      "name": "from paris, with love",
-      "url": "https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux"
-    },
-    {
       "added_at": "2021-11-19 06:05:00",
       "album": {
         "name": "Rumors (six impala Remix)",
@@ -1447,22 +1583,6 @@
       "duration_ms": 147000,
       "name": "space coaster",
       "url": "https://open.spotify.com/track/1YZYpXsFmmeJiUEHOrxu85"
-    },
-    {
-      "added_at": "2021-10-29 04:05:00",
-      "album": {
-        "name": "stalker",
-        "url": "https://open.spotify.com/album/2GHxpHcFmNBCaWAux1wU6k"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 100377,
-      "name": "stalker",
-      "url": "https://open.spotify.com/track/10SXiMPHwH6i4BMkMpCMOR"
     },
     {
       "added_at": "2022-01-28 05:13:00",
@@ -1553,66 +1673,6 @@
       "url": "https://open.spotify.com/track/1E6f0RInsNBNLB1x8DdXma"
     },
     {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "Hangar",
-        "url": "https://open.spotify.com/album/0vGLRqaVUnflzJS7yvXs0g"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hickey",
-          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
-        }
-      ],
-      "duration_ms": 175548,
-      "name": "Hangar",
-      "url": "https://open.spotify.com/track/1fkVOIKnMeR1NkBPnIfUQ8"
-    },
-    {
-      "added_at": "2021-11-12 14:39:10",
-      "album": {
-        "name": "wide eyes",
-        "url": "https://open.spotify.com/album/4rUJryxIpIU2afg0FdvJvU"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        },
-        {
-          "name": "dltzk",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        },
-        {
-          "name": "juno",
-          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
-        }
-      ],
-      "duration_ms": 229512,
-      "name": "wide eyes",
-      "url": "https://open.spotify.com/track/73WkzdNcsW6sDkKbjfseuZ"
-    },
-    {
-      "added_at": "2021-11-12 14:39:10",
-      "album": {
-        "name": "NO LOGO",
-        "url": "https://open.spotify.com/album/4muD9niQFMjHFPcsI04n5C"
-      },
-      "artists": [
-        {
-          "name": "Paul Maxwell",
-          "url": "https://open.spotify.com/artist/6BYc2LukpoHK13KVqA5lkb"
-        },
-        {
-          "name": "La Favi",
-          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
-        }
-      ],
-      "duration_ms": 242723,
-      "name": "CLUB BANG",
-      "url": "https://open.spotify.com/track/3lEamcPwwlu3CUFxCrU1Ch"
-    },
-    {
       "added_at": "2021-11-19 06:05:00",
       "album": {
         "name": "distraction",
@@ -1627,22 +1687,6 @@
       "duration_ms": 121245,
       "name": "distraction",
       "url": "https://open.spotify.com/track/2vXKEk0RtMsLSv1NVBe7r8"
-    },
-    {
-      "added_at": "2021-11-05 04:05:00",
-      "album": {
-        "name": "HARDCORE HEAVEN",
-        "url": "https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3"
-      },
-      "artists": [
-        {
-          "name": "Alice Gas",
-          "url": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "MEMORIES!!!",
-      "url": "https://open.spotify.com/track/2LXZzGiaZ5vYxGXEQmsOy3"
     },
     {
       "added_at": "2021-11-16 22:27:19",
@@ -1685,54 +1729,6 @@
       "url": "https://open.spotify.com/track/0ROkRnf4pjbkQaOaMEwVD2"
     },
     {
-      "added_at": "2021-11-12 14:39:10",
-      "album": {
-        "name": "aNgEl taTToo",
-        "url": "https://open.spotify.com/album/17bqx3eI7999RsdJHmlbGc"
-      },
-      "artists": [
-        {
-          "name": "Oh Boy",
-          "url": "https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Lonelyspeck",
-          "url": "https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5"
-        }
-      ],
-      "duration_ms": 189051,
-      "name": "aNgEl taTToo",
-      "url": "https://open.spotify.com/track/7uP0rQAhoZiMzaNIDBdz8d"
-    },
-    {
-      "added_at": "2021-11-12 14:39:10",
-      "album": {
-        "name": "Dgt",
-        "url": "https://open.spotify.com/album/6Ex66n259OyuqhnA9WY1wn"
-      },
-      "artists": [
-        {
-          "name": "geci",
-          "url": "https://open.spotify.com/artist/7HIJiREUXHQSnIFnAQJk37"
-        },
-        {
-          "name": "Slappy Av",
-          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
-        },
-        {
-          "name": "1adaaaan",
-          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
-        }
-      ],
-      "duration_ms": 165633,
-      "name": "Dgt",
-      "url": "https://open.spotify.com/track/29eaq3CY6bhwtDvQEu5LUD"
-    },
-    {
       "added_at": "2021-11-19 06:05:00",
       "album": {
         "name": "mix it up",
@@ -1763,26 +1759,6 @@
       "duration_ms": 238285,
       "name": "2much",
       "url": "https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo"
-    },
-    {
-      "added_at": "2021-10-20 16:18:10",
-      "album": {
-        "name": "You Make It Look So Easy (Playtime)",
-        "url": "https://open.spotify.com/album/3K4fsmRZS9ubnsgfWRQmTe"
-      },
-      "artists": [
-        {
-          "name": "Himera",
-          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
-        },
-        {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "You Make It Look so Easy - Lucky",
-      "url": "https://open.spotify.com/track/2lstVoHls0zu9Lm2avJwsU"
     },
     {
       "added_at": "2021-12-03 06:44:00",

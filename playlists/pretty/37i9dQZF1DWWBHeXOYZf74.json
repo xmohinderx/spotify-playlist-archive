@@ -1,13 +1,29 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Bakar",
-  "num_followers": 1324631,
+  "description": "Genre-less. Quality first always. Cover: Nil\u00fcfer Yanya",
+  "num_followers": 1324645,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjE1NDI4OCwwMDAwMDQxNzAwMDAwMTdmNDY3MTBjMDgwMDAwMDE3ZjJkMmI1NzVh",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDQxODAwMDAwMTdmNTM0YzhkNTkwMDAwMDE3ZjUxZDE1NThk",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "the dealer",
+        "url": "https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "the dealer",
+      "url": "https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn"
+    },
     {
       "added_at": "2022-03-01 17:04:48",
       "album": {
@@ -33,6 +49,38 @@
       "url": "https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 171577,
+      "name": "HEATING ROCKS",
+      "url": "https://open.spotify.com/track/3mL1frnTR0o83A3viBbIX8"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "POSE",
+        "url": "https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 193244,
+      "name": "POSE",
+      "url": "https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX"
+    },
+    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Nobody's Home",
@@ -47,6 +95,62 @@
       "duration_ms": 187626,
       "name": "Free",
       "url": "https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Power Power (feat. Shaun Ross)",
+        "url": "https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Shaun Ross",
+          "url": "https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Power Power (feat. Shaun Ross)",
+      "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "It Was a Home",
+        "url": "https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg"
+      },
+      "artists": [
+        {
+          "name": "KAINA",
+          "url": "https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj"
+        }
+      ],
+      "duration_ms": 224287,
+      "name": "Golden Mirror",
+      "url": "https://open.spotify.com/track/3rySmg1BCN3yA4FcqVvSIX"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "mr. wednesday",
+        "url": "https://open.spotify.com/album/1v9w8KZbZfeO4nxjw6w5sW"
+      },
+      "artists": [
+        {
+          "name": "keni can fly",
+          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
+        },
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/01g5m9mFKoN0VD1tcKxdh8"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "mr. wednesday",
+      "url": "https://open.spotify.com/track/6t8c0ZcctzvkCIxPqTHmud"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -85,20 +189,80 @@
       "url": "https://open.spotify.com/track/2e7FLtv5JjOr1IN8yCTcZQ"
     },
     {
-      "added_at": "2022-02-18 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "AMAZING",
-        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+        "name": "Invincible (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+      "duration_ms": 216160,
+      "name": "Invincible (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "3210",
+        "url": "https://open.spotify.com/album/1uykFbMHhz0BVfq0awjgWt"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "3210",
+      "url": "https://open.spotify.com/track/13VxdO5vy8rA1dXJgYfrKx"
+    },
+    {
+      "added_at": "2022-02-11 17:29:08",
+      "album": {
+        "name": "Nova / Moth",
+        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -115,6 +279,38 @@
       "duration_ms": 241173,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Goodnight Dreamer",
+        "url": "https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 146331,
+      "name": "Really, Really",
+      "url": "https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT"
+    },
+    {
+      "added_at": "2022-02-18 05:00:00",
+      "album": {
+        "name": "AMAZING",
+        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -169,26 +365,6 @@
       "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Invincible (feat. Daniel Caesar)",
-        "url": "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Invincible (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Star City",
@@ -235,26 +411,6 @@
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
-    },
-    {
-      "added_at": "2022-02-11 17:29:08",
-      "album": {
-        "name": "Nova / Moth",
-        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -355,26 +511,6 @@
       "duration_ms": 203840,
       "name": "anotherlife",
       "url": "https://open.spotify.com/track/4ydCaKmqhbTPCMl7tb8TnR"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "mr. wednesday",
-        "url": "https://open.spotify.com/album/1v9w8KZbZfeO4nxjw6w5sW"
-      },
-      "artists": [
-        {
-          "name": "keni can fly",
-          "url": "https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW"
-        },
-        {
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/01g5m9mFKoN0VD1tcKxdh8"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "mr. wednesday",
-      "url": "https://open.spotify.com/track/6t8c0ZcctzvkCIxPqTHmud"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -665,26 +801,6 @@
       "url": "https://open.spotify.com/track/21pOAGEaqatWYQpy18K9oc"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
-    },
-    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Luv Like",
@@ -961,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Mr. Put It On",
-        "url": "https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        }
-      ],
-      "duration_ms": 167323,
-      "name": "Mr. Put It On",
-      "url": "https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Mascarade (feat. Lous and The Yakuza)",
@@ -1103,22 +1203,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "2010",
-        "url": "https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 148027,
-      "name": "2010",
-      "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Pandemia",
         "url": "https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy"
       },
@@ -1131,22 +1215,6 @@
       "duration_ms": 109268,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "WIN",
-        "url": "https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1"
-      },
-      "artists": [
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 169340,
-      "name": "WIN",
-      "url": "https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1167,6 +1235,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "2010",
+        "url": "https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 148027,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1271,22 +1355,6 @@
       "duration_ms": 144584,
       "name": "Brewster",
       "url": "https://open.spotify.com/track/1PcRrMqmrFejKGqqqEZm3s"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Need 2 \u201919",
-        "url": "https://open.spotify.com/album/4oSGyq5nPKvRLj5xPWyZyu"
-      },
-      "artists": [
-        {
-          "name": "HIRA",
-          "url": "https://open.spotify.com/artist/2rxiXXKdtR1e3ByeaGs7tv"
-        }
-      ],
-      "duration_ms": 148386,
-      "name": "Need 2 \u201919",
-      "url": "https://open.spotify.com/track/4bM0W7XK0U7QTUCPbRuwvg"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1579,22 +1647,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 236451,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3zsHGRwegb9l00HDg7BY3u"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -1727,26 +1779,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Fearmonger (feat. Daoud)",
-        "url": "https://open.spotify.com/album/0JbVdMR0ZFKjwyobLRPPXW"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "Daoud",
-          "url": "https://open.spotify.com/artist/3IjXTlY32rk1WyTrmC1Tod"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Fearmonger (feat. Daoud)",
-      "url": "https://open.spotify.com/track/3orm4i9NmMXd1TgTxaW2zD"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Anybody Can Be in Love",
         "url": "https://open.spotify.com/album/0jURdSjUunbLWrvySwmoSD"
       },
@@ -1759,22 +1791,6 @@
       "duration_ms": 177646,
       "name": "Anybody Can Be in Love",
       "url": "https://open.spotify.com/track/1Dy7WyZck9iu20W9cRyw24"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1807,42 +1823,6 @@
       "duration_ms": 108373,
       "name": "I must apologise",
       "url": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "All Of The Time",
-        "url": "https://open.spotify.com/album/4r5R7JXV1JnuxLqEnXIGMR"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/5cnsoV2GXggZXhC27SqYpv"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     }
   ],
   "unique_name": "POLLEN",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 
 > Слушай российских исполнительниц на полной громкости\. На обложке: дора
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,027 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,048 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

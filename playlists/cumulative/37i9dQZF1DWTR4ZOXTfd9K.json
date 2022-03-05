@@ -1608,6 +1608,24 @@
     },
     {
       "album": {
+        "name": "12 Stars",
+        "url": "https://open.spotify.com/album/3DFIvcm119lRoa5NxyiBDC"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442185,
+      "name": "The Bluest Eye",
+      "url": "https://open.spotify.com/track/4WAJmXMCoEf29VgK8j2wWA"
+    },
+    {
+      "album": {
         "name": "Evolution (Remastered)",
         "url": "https://open.spotify.com/album/4lybhjIqqPtLb5xV8sXg3x"
       },

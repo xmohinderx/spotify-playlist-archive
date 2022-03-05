@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > The best of the country's independent artists\. Cover: Anumita Nadesan
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,349 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,157 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

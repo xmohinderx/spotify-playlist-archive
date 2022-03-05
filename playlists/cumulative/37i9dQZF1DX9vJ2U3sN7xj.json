@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Party Mode: ON!\nCover: J Balvin, Skrillex",
+  "description": "Party Mode: ON!\nCover: Goyo",
   "name": "Fiesta",
   "published_playlist_ids": [
     "4BeKLwGBQeQiMkVsNWLStS"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 224680,
       "name": "Contra La Pared",
       "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
@@ -1730,6 +1730,28 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -2170,6 +2192,28 @@
     },
     {
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "album": {
         "name": "Me Llamas (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
       },
@@ -2225,7 +2269,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
@@ -2243,7 +2287,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -2531,6 +2575,24 @@
       "duration_ms": 227800,
       "name": "Otra Baby",
       "url": "https://open.spotify.com/track/4f2nbpKWfnj7tNyL2Ihj9n"
+    },
+    {
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
     },
     {
       "album": {
@@ -3655,7 +3717,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 173627,
       "name": "X",
       "url": "https://open.spotify.com/track/39N9RPD9MRb5WmoLzNzPeA"

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify Fan Favorites from the last few years\.  Artist: Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,713,226 likes - 98 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,713,835 likes - 98 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 |
-| 2 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 |
-| 3 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 |
-| 4 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
-| 5 | [Footprints On The Moon](https://open.spotify.com/track/66mmgHMVELzJ95xzfeFL2r) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:10 |
-| 6 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
-| 7 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
-| 8 | [I Hope You’re Happy Now](https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Hope You’re Happy Now](https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu) | 3:18 |
-| 9 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 2 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 3 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 |
+| 4 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 |
+| 5 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
+| 6 | [Footprints On The Moon](https://open.spotify.com/track/66mmgHMVELzJ95xzfeFL2r) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:10 |
+| 7 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
+| 8 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
+| 9 | [I Hope You’re Happy Now](https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Hope You’re Happy Now](https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu) | 3:18 |
 | 10 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 | 11 | [First Light](https://open.spotify.com/track/6zuVzhogxotQnXIxr2wLE5) | [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [First Light](https://open.spotify.com/album/0voFHUrIEBk7lmD24SY9kp) | 3:00 |
 | 12 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 97 | [My Boy](https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [My Boy](https://open.spotify.com/album/1KMNV3TwzyaD0ongzMHjVQ) | 3:23 |
 | 98 | [Here Tonight](https://open.spotify.com/track/7ELW8QMNYkoxWskwXMD3WW) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Here Tonight](https://open.spotify.com/album/3FqPPgqdIkkMSjZzZFZUXS) | 3:36 |
 
-Snapshot ID: `MTY0NjExMDgwMCwwMDAwMDEwZDAwMDAwMTdmNDNkOTc5MDUwMDAwMDE3ZjM4NTFhNzhk`
+Snapshot ID: `MTY0NjM1OTE1OSwwMDAwMDEwZTAwMDAwMTdmNTJhNzIwZTEwMDAwMDE3ZjM4NTFhNzhk`

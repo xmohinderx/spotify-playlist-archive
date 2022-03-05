@@ -2158,6 +2158,24 @@
     },
     {
       "album": {
+        "name": "Washington Street (Classen Sessions)",
+        "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224841,
+      "name": "Washington Street - Classen Sessions",
+      "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
+    },
+    {
+      "album": {
         "name": "Welcome to the South",
         "url": "https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA"
       },

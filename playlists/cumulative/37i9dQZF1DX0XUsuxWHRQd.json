@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Kodak Black, Lil Durk, DaBaby and YoungBoy Never Broke Again.",
+  "description": "New music from King Von, DaBaby and YoungBoy Never Broke Again.",
   "name": "RapCaviar",
   "published_playlist_ids": [
     "5P8tKmuueRelbQ17C8xRQo"
@@ -2240,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "Beat The Streets",
+        "url": "https://open.spotify.com/album/5b8LqxodAqVzwPvozld6ty"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Beat The Streets",
+      "url": "https://open.spotify.com/track/3z8OCUCuwJop3DB4tIMsRX"
+    },
+    {
+      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/35K2EC0ekebCHw5sHn5i1B"
       },
@@ -2781,7 +2799,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189851,
       "name": "Black Ball",
       "url": "https://open.spotify.com/track/1tmsPlyvzDETLv08Wp5cuY"
@@ -4594,6 +4612,28 @@
     },
     {
       "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174544,
+      "name": "Count on me",
+      "url": "https://open.spotify.com/track/2JzeJphUuFTNSnzJ12aLu9"
+    },
+    {
+      "album": {
         "name": "Faith (Deluxe)",
         "url": "https://open.spotify.com/album/2N539CVAkXd9Jk722m1i6D"
       },
@@ -5815,7 +5855,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
@@ -8554,6 +8594,28 @@
     },
     {
       "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "Head Off",
+      "url": "https://open.spotify.com/track/4CJbchKHZEboLnqQqPszoN"
+    },
+    {
+      "album": {
         "name": "Headshot",
         "url": "https://open.spotify.com/album/74nxdn9ypqp3hqJEttpDNU"
       },
@@ -8881,6 +8943,28 @@
       "duration_ms": 177158,
       "name": "Hit Bout It",
       "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+    },
+    {
+      "album": {
+        "name": "Hit Different (feat. B-Lovee)",
+        "url": "https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183941,
+      "name": "Hit Different (feat. B-Lovee)",
+      "url": "https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp"
     },
     {
       "album": {
@@ -10305,7 +10389,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 198782,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/55wjPy1tWmBFyVVtYrGl9a"
@@ -12179,7 +12263,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 113429,
       "name": "Megan's Piano",
       "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
@@ -13241,7 +13325,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 235582,
       "name": "Neighborhood Superstar",
       "url": "https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf"
@@ -15602,6 +15686,24 @@
     },
     {
       "album": {
+        "name": "Publicity Stunt",
+        "url": "https://open.spotify.com/album/12XcAM4LFALAk3I3h9M9of"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196657,
+      "name": "Publicity Stunt",
+      "url": "https://open.spotify.com/track/1SKkHYkGqhadpciJKXfRhU"
+    },
+    {
+      "album": {
         "name": "Only The Generals Part II",
         "url": "https://open.spotify.com/album/5hXRwN61ccZHJSdmsH3oAm"
       },
@@ -16895,7 +16997,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 180750,
       "name": "Rockstar In His Prime",
       "url": "https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk"
@@ -19202,6 +19304,28 @@
     },
     {
       "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Straight To It (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O"
+    },
+    {
+      "album": {
         "name": "Straightenin",
         "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
@@ -20177,7 +20301,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 200958,
       "name": "thailand",
       "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
@@ -21454,6 +21578,28 @@
     },
     {
       "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Trust Nothing (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
+    },
+    {
+      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/71ziNzfuk5VLPwiAvQaC1X"
       },
@@ -21487,6 +21633,28 @@
       "duration_ms": 308755,
       "name": "TSU",
       "url": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
+    },
+    {
+      "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1"
     },
     {
       "album": {
@@ -23873,7 +24041,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 172394,
       "name": "Young N Dumb",
       "url": "https://open.spotify.com/track/4dZTNKRngStyYNueXCO2FR"

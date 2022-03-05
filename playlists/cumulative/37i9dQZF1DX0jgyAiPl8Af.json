@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Elegia",
+        "url": "https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Elegia",
+      "url": "https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV"
+    },
+    {
+      "album": {
         "name": "Enrejado",
         "url": "https://open.spotify.com/album/7qlWfiqgc8galnEyU9AFO1"
       },
@@ -1471,6 +1489,24 @@
       "duration_ms": 198441,
       "name": "Haute Garonne",
       "url": "https://open.spotify.com/track/76loNX1slkkTetxZZQ183q"
+    },
+    {
+      "album": {
+        "name": "Havana Vieja",
+        "url": "https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf"
+      },
+      "artists": [
+        {
+          "name": "Lester Hope",
+          "url": "https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171259,
+      "name": "Havana Vieja",
+      "url": "https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW"
     },
     {
       "album": {

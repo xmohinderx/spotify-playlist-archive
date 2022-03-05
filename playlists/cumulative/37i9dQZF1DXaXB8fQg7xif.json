@@ -3235,7 +3235,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 144761,
       "name": "Driver Seat",
       "url": "https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo"
@@ -4971,7 +4971,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 170004,
       "name": "Have Me All (feat. Jelita)",
       "url": "https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf"
@@ -6181,7 +6181,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 238585,
       "name": "Last Thought (feat. MKLA)",
       "url": "https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk"
@@ -6687,6 +6687,24 @@
       "duration_ms": 203520,
       "name": "Lost Cowboys",
       "url": "https://open.spotify.com/track/3W09VqxOJ4CcClolPt8kcQ"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190512,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "album": {
@@ -9420,6 +9438,28 @@
     },
     {
       "album": {
+        "name": "Redlight",
+        "url": "https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242904,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -9563,6 +9603,32 @@
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
+    },
+    {
+      "album": {
+        "name": "Right 2 Left (feat. Busta Rhymes)",
+        "url": "https://open.spotify.com/album/1wnfACC3rwzhPB8j6zRGmm"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mele",
+          "url": "https://open.spotify.com/artist/2fopdKOz0wNpXsJloWuCwo"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154011,
+      "name": "Right 2 Left (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/09MqeUFHI1MZIY120Cuakp"
     },
     {
       "album": {

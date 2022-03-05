@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Adhura",
+        "url": "https://open.spotify.com/album/7eorI2rRoZlgzHLFgaDhss"
+      },
+      "artists": [
+        {
+          "name": "DAKU",
+          "url": "https://open.spotify.com/artist/0kLEyovGypVGW4bPvcGWsL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191270,
+      "name": "Adhura",
+      "url": "https://open.spotify.com/track/03kRGW8x3iBxcvjmDU1I0Q"
+    },
+    {
+      "album": {
         "name": "Tamasha",
         "url": "https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA"
       },
@@ -3687,6 +3705,40 @@
       "duration_ms": 253500,
       "name": "Tera Hua (From \"Cash\")",
       "url": "https://open.spotify.com/track/6HDBzDFSDYSmKzadobMr7e"
+    },
+    {
+      "album": {
+        "name": "Tere Bina - Khanvict Remix",
+        "url": "https://open.spotify.com/album/2gSeFOFJvIibTosS8Dvnz9"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Khanvict",
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Murtuza Khan",
+          "url": "https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj"
+        },
+        {
+          "name": "Qadir Khan",
+          "url": "https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Tere Bina - Khanvict Remix",
+      "url": "https://open.spotify.com/track/2GVVNhSq5gq3rZF2b0UY5a"
     },
     {
       "album": {

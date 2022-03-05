@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz. But funky. Cover: Dr. Lonnie Smith",
+  "description": "Jazz. But funky. Cover: Ezra Collective",
   "name": "Jazz-Funk",
   "published_playlist_ids": [
     "5YdwjD0Yo4VfktuMzWIUHY"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 280463,
       "name": "Always Let Me Go",
       "url": "https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q"
@@ -307,6 +307,28 @@
       "duration_ms": 299800,
       "name": "Blues for Ben",
       "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
+    },
+    {
+      "album": {
+        "name": "Booker Time",
+        "url": "https://open.spotify.com/album/5iszc42qhIDJpOZJLKXFcj"
+      },
+      "artists": [
+        {
+          "name": "Steven Bernstein & The Hot 9",
+          "url": "https://open.spotify.com/artist/3YiY7EDAAT6BwoFjZEgeTT"
+        },
+        {
+          "name": "Steven Bernstein",
+          "url": "https://open.spotify.com/artist/5pCNKFvPUY8L47ExfM4WLj"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369423,
+      "name": "Booker Time",
+      "url": "https://open.spotify.com/track/4FEf0SPcWVicIXsPz7HkHl"
     },
     {
       "album": {
@@ -909,7 +931,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 273586,
       "name": "Glaze",
       "url": "https://open.spotify.com/track/05OOwdPf6R9McIukghw4w9"
@@ -997,7 +1019,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 355266,
       "name": "Harlem Buck Dance Strut",
       "url": "https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q"
@@ -1195,7 +1217,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 305360,
       "name": "Kinshasa FC",
       "url": "https://open.spotify.com/track/0F09o824fRsItjCHV48Kk2"
@@ -1235,7 +1257,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 604710,
       "name": "Life on Mars - OPOLOPO Extended Remix",
       "url": "https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY"
@@ -1379,10 +1401,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 230782,
       "name": "Mars Blues",
       "url": "https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj"
+    },
+    {
+      "album": {
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV"
     },
     {
       "album": {
@@ -1895,7 +1935,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 424040,
       "name": "So This Is Love?",
       "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
@@ -1991,10 +2031,32 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
+      "album": {
+        "name": "Squid Exit Music (7\" radio edit)",
+        "url": "https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Squid Exit Music - 7\" radio edit",
+      "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
     },
     {
       "album": {
@@ -2009,7 +2071,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 372797,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3lK8UA4FR2FiQpvtarLLol"
@@ -2123,7 +2185,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
@@ -2167,7 +2229,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 327977,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS"
@@ -2205,7 +2267,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 266453,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf"
@@ -2289,7 +2351,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 409560,
       "name": "The Epic (feat. Stanton Moore, Charlie Hunter & Skerik)",
       "url": "https://open.spotify.com/track/3mR91U7nqzAe2QQmawlQ5M"
@@ -2623,7 +2685,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 141030,
       "name": "What's the Matter",
       "url": "https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf"
@@ -2663,7 +2725,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 207632,
       "name": "Wiggles",
       "url": "https://open.spotify.com/track/5y4MFEAEet9R3xjQ62J3Z5"

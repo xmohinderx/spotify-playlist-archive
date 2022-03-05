@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,563 likes - 88 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,740 likes - 88 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -346,6 +346,28 @@
     },
     {
       "album": {
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+    },
+    {
+      "album": {
         "name": "Don't Rush (Remix)",
         "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
       },
@@ -383,7 +405,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 156734,
       "name": "Don\u2019t Play (with Lil Baby)",
       "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
@@ -683,6 +705,32 @@
       "duration_ms": 267241,
       "name": "Fantasias - Remix",
       "url": "https://open.spotify.com/track/0A37XY67wSdGqkGjtfW6aV"
+    },
+    {
+      "album": {
+        "name": "TRAP CAKE VOL. 2",
+        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279471,
+      "name": "FCK U X2",
+      "url": "https://open.spotify.com/track/7CLRoWBqSizI8Zpolsud5K"
     },
     {
       "album": {
@@ -2082,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193234,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
       },
@@ -2119,7 +2185,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
@@ -2155,7 +2221,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 204533,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"

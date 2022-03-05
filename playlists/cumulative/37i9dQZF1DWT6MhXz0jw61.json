@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Denzel Curry",
+  "description": "Chillout hip-hop vibes. Cover: Cordae",
   "name": "Mellow Bars",
   "published_playlist_ids": [
     "3oxhssgEhBCb78sRSB2lyV"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 183915,
       "name": "Everybody Loves You",
       "url": "https://open.spotify.com/track/2Wp2IjSLARq1XaoIMaDgCp"
@@ -1241,6 +1241,24 @@
       "duration_ms": 189082,
       "name": "Gucci Tried to Tell Me",
       "url": "https://open.spotify.com/track/0IAuU49bpY24saPlYBoMDG"
+    },
+    {
+      "album": {
+        "name": "Head High",
+        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Head High",
+      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
     },
     {
       "album": {
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 214752,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4CyDbVHDx7HbA2W81m4fyt"
@@ -2531,6 +2549,28 @@
       "duration_ms": 281250,
       "name": "State of the Union",
       "url": "https://open.spotify.com/track/6AsqnQBAB2OsieFEOg4WuZ"
+    },
+    {
+      "album": {
+        "name": "Still Here (feat. Cordae)",
+        "url": "https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196066,
+      "name": "Still Here (feat. Cordae)",
+      "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
     },
     {
       "album": {

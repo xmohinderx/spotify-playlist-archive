@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 199760,
       "name": "Already Forgiven",
       "url": "https://open.spotify.com/track/6dvatfTLfYEI2JFlMVWcaG"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 219680,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/1dgCF73ruK4qTXrx0TZ0j7"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 326160,
       "name": "Cherry Baby",
       "url": "https://open.spotify.com/track/6fQqDqpmwk55pNMiF0n5mL"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 303320,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/0L9WXYWHUMtTDkxBl6Y6M5"
@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Driftwood Seat",
+        "url": "https://open.spotify.com/album/69fLOPWFO8Qz80sHas6So3"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218893,
+      "name": "Driftwood Seat",
+      "url": "https://open.spotify.com/track/5BtBxxK9ZlRvQcNaKPXUif"
+    },
+    {
+      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -721,7 +739,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 195845,
       "name": "Drinking Song",
       "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 241146,
       "name": "Every Time I Hear That Song",
       "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "Heart To Ride",
       "url": "https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 221546,
       "name": "I Knew I Could Fly",
       "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 248978,
       "name": "I Wish I Could Write You a Song",
       "url": "https://open.spotify.com/track/3Gda4WI6ZeplS18kwubOfj"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 266693,
       "name": "Let The Mermaids Flirt With Me",
       "url": "https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 237120,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6zmANU5l4qCHQrI5cZhSS2"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 228626,
       "name": "Nebraska - Acoustic",
       "url": "https://open.spotify.com/track/0gEOycr5Mb2WJaqZwcIyjn"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 200435,
       "name": "Power Over Me - Acoustic",
       "url": "https://open.spotify.com/track/47rNYq9IUveetu35c65xTw"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 223091,
       "name": "Road to Heaven",
       "url": "https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 280466,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0XGTNmvRfa5xYdbVyaqIWm"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 402335,
       "name": "Two Kids",
       "url": "https://open.spotify.com/track/0Tgnh0C7IvD8sKOYWjh6VH"

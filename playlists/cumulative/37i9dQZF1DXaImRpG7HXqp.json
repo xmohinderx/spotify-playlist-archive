@@ -1446,6 +1446,24 @@
     },
     {
       "album": {
+        "name": "Havana Vieja",
+        "url": "https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf"
+      },
+      "artists": [
+        {
+          "name": "Lester Hope",
+          "url": "https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171259,
+      "name": "Havana Vieja",
+      "url": "https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW"
+    },
+    {
+      "album": {
         "name": "Heaven and Heart",
         "url": "https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk"
       },
@@ -1573,6 +1591,24 @@
       "duration_ms": 123467,
       "name": "I Did It For Love",
       "url": "https://open.spotify.com/track/5jylGgVVATuDr405KavaE2"
+    },
+    {
+      "album": {
+        "name": "I Found The Right Bottle Of Wine",
+        "url": "https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB"
+      },
+      "artists": [
+        {
+          "name": "Kevin Flynn",
+          "url": "https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200345,
+      "name": "I Found The Right Bottle Of Wine",
+      "url": "https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82"
     },
     {
       "album": {
@@ -4165,7 +4201,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 166916,
       "name": "windows",
       "url": "https://open.spotify.com/track/5KZLT2poBO9eTLjpaD7EDN"
@@ -4259,6 +4295,24 @@
       "duration_ms": 179905,
       "name": "Zanzibar",
       "url": "https://open.spotify.com/track/4eEltFAvLftzlLETebDlX7"
+    },
+    {
+      "album": {
+        "name": "Zita",
+        "url": "https://open.spotify.com/album/1fpvvgQM16OfF1PjHmH64r"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "Zita",
+      "url": "https://open.spotify.com/track/06atvPAAccSFyPWrQuxjrr"
     },
     {
       "album": {

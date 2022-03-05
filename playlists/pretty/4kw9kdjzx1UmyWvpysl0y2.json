@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127808,
+  "num_followers": 127867,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI4MyxmMzUzZGIwOTE3Y2JkMTQwMWRhNjI1MGU5YTM5MGI4YzEzN2JhNGEw",
+  "snapshot_id": "MzI4Nyw2YzVkM2UwM2I4ZGJhOGFmODE1ZTJmMWMyZDdlOGFjMjM5M2FmZTg2",
   "tracks": [
+    {
+      "added_at": "2022-03-04 17:08:07",
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "neverwaves",
+          "url": "https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o"
+        }
+      ],
+      "duration_ms": 262702,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
+    },
+    {
+      "added_at": "2022-03-04 17:07:40",
+      "album": {
+        "name": "Lone",
+        "url": "https://open.spotify.com/album/4woa0Yhe82WmbMGe7zuxS1"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Lone",
+      "url": "https://open.spotify.com/track/6V90OtIX1Ja8OvqvPFMe9Z"
+    },
     {
       "added_at": "2022-03-03 17:01:16",
       "album": {
@@ -1107,46 +1143,6 @@
       "duration_ms": 193292,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX"
-      },
-      "artists": [
-        {
-          "name": "Hiski",
-          "url": "https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY"
-        },
-        {
-          "name": "Kobana",
-          "url": "https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC"
-      },
-      "artists": [
-        {
-          "name": "Anamanaguchi",
-          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 257406,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

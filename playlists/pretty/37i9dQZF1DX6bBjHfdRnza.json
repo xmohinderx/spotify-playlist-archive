@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Solomon Fesshaye, Artwork: Rewina Beshue.",
-  "num_followers": 121346,
+  "num_followers": 121515,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxOTgyMCwwMDAwMDZmYjAwMDAwMTdmNTA0ZWRlYWQwMDAwMDE3ZjQ4ZTliODhh",
+  "snapshot_id": "MTY0NjM2MDgyMywwMDAwMDZmYzAwMDAwMTdmNTJjMDg3MWEwMDAwMDE3ZjQ4ZTliODhh",
   "tracks": [
     {
       "added_at": "2022-03-02 17:57:57",
@@ -391,6 +391,22 @@
       "duration_ms": 162817,
       "name": "How U Feel",
       "url": "https://open.spotify.com/track/72430ZQ3AdN5oVMkbTtkrv"
+    },
+    {
+      "added_at": "2022-03-04 02:27:03",
+      "album": {
+        "name": "hypnotize me (MAC Hypnotizing Holiday)",
+        "url": "https://open.spotify.com/album/5UCF2hkqBluvTFxcR29OPq"
+      },
+      "artists": [
+        {
+          "name": "staysie atoms",
+          "url": "https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd"
+        }
+      ],
+      "duration_ms": 97906,
+      "name": "hypnotize me (MAC Hypnotizing Holiday)",
+      "url": "https://open.spotify.com/track/4RYcN3G71xtFR2XnUqKjWR"
     },
     {
       "added_at": "2022-02-09 19:22:46",

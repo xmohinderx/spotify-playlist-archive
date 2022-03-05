@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Featuring music from Kygo & DNCE, \nBecky Hill & Galantis, Kim Petras and more!",
+  "description": "The world's biggest dance hits. Featuring music from Krewella, Diplo, TSHA & Kareen Lomax, LP Giobbi & hermixalot and more!",
   "name": "mint",
   "published_playlist_ids": [
     "2lDweGgvQhwyQi5R55ct4Y"
@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Keep Me Waiting",
+        "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209687,
+      "name": "Don\u2019t Keep Me Waiting",
+      "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
+    },
+    {
+      "album": {
         "name": "Dopamine (feat. Eyelar)",
         "url": "https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq"
       },
@@ -668,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Double Dip",
+        "url": "https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198906,
+      "name": "Double Dip",
+      "url": "https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2"
+    },
+    {
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -687,6 +723,24 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
     },
     {
       "album": {
@@ -761,7 +815,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 210782,
       "name": "Equal in the Darkness",
       "url": "https://open.spotify.com/track/6zpW8dKlAei8kiPZuUthq7"
@@ -1175,7 +1229,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 173658,
       "name": "Hot Air Balloon",
       "url": "https://open.spotify.com/track/3l2Wb3OzxiuJnMIK0Bdb5z"
@@ -1325,7 +1379,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 181728,
       "name": "I Wish (feat. Mabel)",
       "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
@@ -1491,7 +1545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 264045,
       "name": "I\u2019ll Find My Way To You",
       "url": "https://open.spotify.com/track/0ElflcN13tFhYL3wiBNrNw"
@@ -1586,6 +1640,32 @@
     },
     {
       "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE"
       },
@@ -1653,7 +1733,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
@@ -1926,6 +2006,24 @@
     },
     {
       "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+    },
+    {
+      "album": {
         "name": "Nightjar (feat. SHELLS)",
         "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
       },
@@ -2029,7 +2127,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 228407,
       "name": "O Retha",
       "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
@@ -2051,6 +2149,32 @@
       "duration_ms": 261001,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "album": {
+        "name": "On Your Own (feat. Elderbrook)",
+        "url": "https://open.spotify.com/album/7pVugOs4vuWCPSBI0OIFOD"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223991,
+      "name": "On Your Own (feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/6LJsVZlhPAvrALPYka3xXz"
     },
     {
       "album": {
@@ -2395,7 +2519,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 153600,
       "name": "Sextacy",
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
@@ -2911,6 +3035,28 @@
       "duration_ms": 234098,
       "name": "Time and Time Again - Single Edit",
       "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
+    },
+    {
+      "album": {
+        "name": "Togetherness",
+        "url": "https://open.spotify.com/album/6fh4UOwrr34e2yTDWnsA3f"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "hermixalot",
+          "url": "https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/4aXij4j5BNOKKNrxgA6wc6"
     },
     {
       "album": {

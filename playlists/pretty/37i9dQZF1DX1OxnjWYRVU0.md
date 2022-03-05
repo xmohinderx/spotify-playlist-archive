@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,493 likes - 208 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,698 likes - 208 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 5 | [Seven Nation Army](https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Seven Nation Army](https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV) | 2:53 |
 | 6 | [Bette Davis Eyes](https://open.spotify.com/track/3EvFpQWu8rHgcVj07IgIVU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [Bette Davis Eyes](https://open.spotify.com/album/013qC49DCJHQsEIHGEHdM3) | 2:30 |
 | 7 | [Beggin'](https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [Giana](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Beggin'](https://open.spotify.com/album/6EVl8VLlaaOq3MmXCSzZww) | 3:27 |
-| 8 | [Turn Me On](https://open.spotify.com/track/2AvcOZ7djW97iYeHKVYRMk) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lazar](https://open.spotify.com/artist/7dH0RjCdkKJmI1fugPb3Kg) | [Turn Me On](https://open.spotify.com/album/6MELaghpGnlgwmsLRZjNvO) | 2:31 |
+| 8 | [Turn Me On](https://open.spotify.com/track/2AvcOZ7djW97iYeHKVYRMk) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [LAZAR](https://open.spotify.com/artist/5mvFgmAe5Sb5FqqvN5RoQC) | [Turn Me On](https://open.spotify.com/album/6MELaghpGnlgwmsLRZjNvO) | 2:31 |
 | 9 | [Whenever, Wherever \- Radio Edit](https://open.spotify.com/track/7KbJ0wCI7Wp5nxJOOGTcrV) | [Stockanotti](https://open.spotify.com/artist/1qFwV0tV0kiowdZQPy10Ol), [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Whenever, Wherever](https://open.spotify.com/album/0qgmftoXfwIZIxc6ADtcgY) | 2:16 |
 | 10 | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 |
 | 11 | [You Give Love a Bad Name](https://open.spotify.com/track/3qg8AEXcMlvSRF67ybV8lf) | [MAZLIK](https://open.spotify.com/artist/0AxY9Dv3ZrNsJ9qHhy54MT), [BSCO](https://open.spotify.com/artist/3kVBulQbnJOvIUibuvSadD) | [You Give Love a Bad Name](https://open.spotify.com/album/1cownfUnTBviXek9dT0DJ7) | 3:31 |

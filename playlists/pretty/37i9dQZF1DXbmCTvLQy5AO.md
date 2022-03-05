@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Cat Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,799 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,231 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

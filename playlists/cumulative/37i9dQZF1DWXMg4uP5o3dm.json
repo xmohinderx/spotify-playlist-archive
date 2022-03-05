@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/7rK2XqSVowv63XkuuuRYqK"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/7ajdfpfW1h6cN7GMQ5Sver"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J"
       },
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
@@ -479,6 +497,24 @@
       "duration_ms": 170247,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/0OCIiW9YJEqpHZZAyLuqU3"
+    },
+    {
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153222,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub"
     },
     {
       "album": {
@@ -1126,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181153,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7"
+    },
+    {
+      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1213,6 +1267,32 @@
       "duration_ms": 202138,
       "name": "Keep Me Alive",
       "url": "https://open.spotify.com/track/0kMTBQJ9HLsaIt6oXfZp6V"
+    },
+    {
+      "album": {
+        "name": "KULT (feat. Jasiah)",
+        "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177149,
+      "name": "KULT (feat. Jasiah)",
+      "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
     },
     {
       "album": {
@@ -1525,7 +1605,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
@@ -1757,7 +1837,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 197000,
       "name": "PROTOTYPE",
       "url": "https://open.spotify.com/track/1MMjfMrkY5MX7N21ELPYIZ"
@@ -1964,6 +2044,24 @@
     },
     {
       "album": {
+        "name": "in the mirror, in the night",
+        "url": "https://open.spotify.com/album/2a5Xt0sHOpQcHcCfmNYo0p"
+      },
+      "artists": [
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "skin",
+      "url": "https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0"
+    },
+    {
+      "album": {
         "name": "Slow Heart (PVRIS Remix)",
         "url": "https://open.spotify.com/album/2OYLj4XMWrXZZkb8ZepmiV"
       },
@@ -2089,7 +2187,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 229659,
       "name": "Summerland",
       "url": "https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr"
@@ -2285,7 +2383,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 202320,
       "name": "Unknowns",
       "url": "https://open.spotify.com/track/2WDhy0f5bqLMh6EGtFB8m4"
@@ -2343,6 +2441,24 @@
       "duration_ms": 223671,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/5op3aMrdlsegxOwPUV7nSm"
+    },
+    {
+      "album": {
+        "name": "YES MOM",
+        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "YES MOM",
+      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
     },
     {
       "album": {

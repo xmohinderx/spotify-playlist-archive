@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 258211,
       "name": "ALIENS!",
       "url": "https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 171818,
       "name": "D'Evils",
       "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 220401,
       "name": "Desoleil (Brilliant Corners)",
       "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 164642,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 177248,
       "name": "Groove",
       "url": "https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 238122,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y"
@@ -2526,6 +2526,28 @@
     },
     {
       "album": {
+        "name": "Verbs",
+        "url": "https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT"
+      },
+      "artists": [
+        {
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Verbs",
+      "url": "https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh"
+    },
+    {
+      "album": {
         "name": "VIBE SAY",
         "url": "https://open.spotify.com/album/2B7WRxtWlm9glu6cTTMwG9"
       },
@@ -2621,7 +2643,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 172240,
       "name": "Where U At?",
       "url": "https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs"

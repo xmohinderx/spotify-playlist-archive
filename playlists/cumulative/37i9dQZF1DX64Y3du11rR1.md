@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2021-12-22 |  |
+| [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-03-04 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2021-12-22 |  |
 | [Ain't No Sunshine \- Acoustic](https://open.spotify.com/track/4CwiuBAAKjRWKm67CsWwZ9) | [RUNAGROUND](https://open.spotify.com/artist/0bTwqu2kHGHJyomMDAGpkK) | [Next to Me](https://open.spotify.com/album/2q7rsYx9xzlvMUgVRnYeT5) | 2:03 | 2021-12-22 |  |
 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 | 2021-12-22 |  |

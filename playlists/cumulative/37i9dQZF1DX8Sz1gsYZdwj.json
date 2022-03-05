@@ -806,6 +806,24 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN"
+    },
+    {
+      "album": {
         "name": "My Hands",
         "url": "https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw"
       },
@@ -1296,6 +1314,10 @@
         "url": "https://open.spotify.com/album/06snhOORsyLrFV7rNyNlLI"
       },
       "artists": [
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
         {
           "name": "Chad Lawson",
           "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"

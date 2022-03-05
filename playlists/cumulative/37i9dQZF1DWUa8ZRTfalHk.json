@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The hits of tomorrow are on Spotify today. Cover: Cat Burns",
+  "description": "The hits of tomorrow are on Spotify today. Cover: Mimi Webb",
   "name": "Pop Rising",
   "published_playlist_ids": [
     "2VIVDwiqHp2XxfGz8TU0FX"
@@ -1203,7 +1203,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187682,
-      "name": "Anyone For You - Tiger Lily",
+      "name": "Anyone For You (Tiger Lily)",
       "url": "https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL"
     },
     {
@@ -1404,6 +1404,28 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy"
       },
@@ -1419,6 +1441,46 @@
       "duration_ms": 227627,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL"
+    },
+    {
+      "album": {
+        "name": "ay! (with Lil Wayne)",
+        "url": "https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124188,
+      "name": "ay! (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/374EllG6WyKdKvklfanNZT"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE"
     },
     {
       "album": {
@@ -1473,7 +1535,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 173202,
       "name": "Back To The Future",
       "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
@@ -1611,6 +1673,28 @@
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/0D75ciM842cdUMKSMfAR9y"
+    },
+    {
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "album": {
@@ -3704,6 +3788,24 @@
     },
     {
       "album": {
+        "name": "COMPLETE MESS",
+        "url": "https://open.spotify.com/album/5nALCJT36REzB4oFpXki54"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206361,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I"
+    },
+    {
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/6XARsSgDs7DjxJFawTlhCH"
       },
@@ -3925,6 +4027,24 @@
       "duration_ms": 217044,
       "name": "Cry with you",
       "url": "https://open.spotify.com/track/0hqJxaNkPQ3sPm1tvfPlAe"
+    },
+    {
+      "album": {
+        "name": "Crying in the Rain",
+        "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155773,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ"
     },
     {
       "album": {
@@ -5022,6 +5142,24 @@
     },
     {
       "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150522,
+      "name": "Drunk Dial",
+      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
+    },
+    {
+      "album": {
         "name": "drunk text me",
         "url": "https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU"
       },
@@ -5266,6 +5404,28 @@
     },
     {
       "album": {
+        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -5339,7 +5499,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ"
@@ -5759,7 +5919,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
@@ -6596,6 +6756,24 @@
     },
     {
       "album": {
+        "name": "GET IT",
+        "url": "https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151301,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
       },
@@ -7401,7 +7579,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 194540,
       "name": "Hate Me If It Helps",
       "url": "https://open.spotify.com/track/3Pmb4dhpihcIBwdbL2r216"
@@ -8953,7 +9131,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 217243,
       "name": "if jesus saves, she's my type",
       "url": "https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH"
@@ -9387,7 +9565,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208969,
       "name": "Jigsaw",
       "url": "https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D"
@@ -9843,6 +10021,24 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1"
+    },
+    {
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191375,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
     },
     {
       "album": {
@@ -10833,7 +11029,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 234760,
       "name": "London Is Lonely",
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
@@ -11037,6 +11233,24 @@
       "duration_ms": 212496,
       "name": "Lost Cause",
       "url": "https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M"
+    },
+    {
+      "album": {
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3HM2a6YdzuBPmDe5tTEV88"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/5Z8XoeUBjZngKO0NGWnAiS"
     },
     {
       "album": {
@@ -11885,7 +12099,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -11943,7 +12157,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
@@ -12336,6 +12550,24 @@
     },
     {
       "album": {
+        "name": "Mr. Forgettable",
+        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Mr. Forgettable",
+      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
+    },
+    {
+      "album": {
         "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG"
       },
@@ -12645,6 +12877,24 @@
       "duration_ms": 173846,
       "name": "Never Change (feat. Future)",
       "url": "https://open.spotify.com/track/6BfdcIPOdGPMxlLKhgDW4f"
+    },
+    {
+      "album": {
+        "name": "Lychee",
+        "url": "https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237362,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG"
     },
     {
       "album": {
@@ -13657,7 +13907,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 128810,
       "name": "Options (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6"
@@ -14117,7 +14367,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168061,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf"
@@ -17405,7 +17655,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
@@ -17923,7 +18173,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174278,
       "name": "the lifeboat's empty!",
       "url": "https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4"
@@ -18491,7 +18741,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 205346,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY"
@@ -19329,6 +19579,24 @@
       "duration_ms": 177200,
       "name": "What A Shame",
       "url": "https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA"
+    },
+    {
+      "album": {
+        "name": "When I Close My Eyes (Deluxe)",
+        "url": "https://open.spotify.com/album/6M3X8VGDuFXvqoj1mLS0eV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150013,
+      "name": "What Everybody Wants",
+      "url": "https://open.spotify.com/track/6xkghIDZwnZtTfpjEqccrr"
     },
     {
       "album": {

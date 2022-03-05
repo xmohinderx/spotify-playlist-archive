@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3FN0WeKCeB.md) - [plain]
 
 > A chronology of Sir Arthur Conan Doyle's best Sherlock Holmes' adventures, followed by rare and vintage radio and audio adaptations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,193 likes - 163 songs - 2 day 20 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,191 likes - 163 songs - 2 day 20 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

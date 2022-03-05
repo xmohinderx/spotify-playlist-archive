@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "Emma: Piano Suite",
+        "url": "https://open.spotify.com/album/1AEkzEnuG5bVxSg800d5Tn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190531,
+      "name": "Emma: Piano Suite",
+      "url": "https://open.spotify.com/track/4VZZgBgdeLdaWjEnxl7iHD"
+    },
+    {
+      "album": {
         "name": "Into The Trees",
         "url": "https://open.spotify.com/album/5CXgHsxu4SydFFeJ6ClHY4"
       },
@@ -495,6 +513,28 @@
       "duration_ms": 269013,
       "name": "Flight",
       "url": "https://open.spotify.com/track/6Wn3TQhCt3HEQVpw8fXRwJ"
+    },
+    {
+      "album": {
+        "name": "Errollyn Wallen: For Airi",
+        "url": "https://open.spotify.com/album/181OZDdEFmMuDRilvLcpHk"
+      },
+      "artists": [
+        {
+          "name": "Errollyn Wallen",
+          "url": "https://open.spotify.com/artist/6Vl4eGV594sQXxRQDMOSCw"
+        },
+        {
+          "name": "Fenella Humphreys",
+          "url": "https://open.spotify.com/artist/2y5f64ZV3wDZHP4j3fgvg6"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370346,
+      "name": "For Airi",
+      "url": "https://open.spotify.com/track/1qEJ1pHXVtuMTeHPvk0hMS"
     },
     {
       "album": {

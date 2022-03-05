@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1177802,
+  "num_followers": 1178109,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTUwOCwwMDAwMDAwMDE4MTM4MGY4NGY5YjQ4MmUyZjk4NWUzOGVmM2I1YWFl",
+  "snapshot_id": "MTY0NjQ0MTc4NiwwMDAwMDAwMGU2MjlmM2Q4YTllZTFiNjA3YjIwOWI4NTYzNTFjNTQ3",
   "tracks": [
     {
       "added_at": "2022-02-12 04:59:37",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+        "name": "A Decade Of Steely Dan",
+        "url": "https://open.spotify.com/album/3HDO2EYXQXzFVK7fmXSpqs"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 221613,
-      "name": "Lido Shuffle",
-      "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
+      "duration_ms": 277600,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1Vet0EkiVZ8pTixwJEaCVb"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "A Decade Of Steely Dan",
-        "url": "https://open.spotify.com/album/3HDO2EYXQXzFVK7fmXSpqs"
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1Vet0EkiVZ8pTixwJEaCVb"
+      "duration_ms": 221613,
+      "name": "Lido Shuffle",
+      "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -371,8 +371,28 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+        "name": "Nightwatch",
+        "url": "https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Whenever I Call You \"Friend\" (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
       "artists": [
         {
@@ -380,9 +400,9 @@
           "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+      "duration_ms": 190706,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -419,42 +439,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Nightwatch",
-        "url": "https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Whenever I Call You \"Friend\" (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -467,38 +451,6 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Thunder Island",
-        "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
-      },
-      "artists": [
-        {
-          "name": "Jay Ferguson",
-          "url": "https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Thunder Island",
-      "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -519,18 +471,34 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "A Decade Of Steely Dan",
-        "url": "https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 290160,
-      "name": "FM",
-      "url": "https://open.spotify.com/track/0zw5bUUdOxVLBGMsb0SuBh"
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Thunder Island",
+        "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
+      },
+      "artists": [
+        {
+          "name": "Jay Ferguson",
+          "url": "https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Thunder Island",
+      "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -551,70 +519,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 251960,
-      "name": "Islands In the Stream",
-      "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Love Will Keep Us Together",
-        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Love Will Keep Us Together",
-      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "A Rock And Roll Alternative",
-        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -635,34 +551,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4hKBS94EEP9PaYxuK5tisQ"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Lovin', Touchin', Squeezin'",
-      "url": "https://open.spotify.com/track/0VQ0n5gMgJLNixG8BfWBT5"
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -687,18 +587,54 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+      "duration_ms": 251960,
+      "name": "Islands In the Stream",
+      "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Love Will Keep Us Together",
+        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Love Will Keep Us Together",
+      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -723,18 +659,82 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
       "artists": [
         {
-          "name": "Pablo Cruise",
-          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 251426,
-      "name": "Love Will Find A Way",
-      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "A Decade Of Steely Dan",
+        "url": "https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "FM",
+      "url": "https://open.spotify.com/track/0zw5bUUdOxVLBGMsb0SuBh"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "A Rock And Roll Alternative",
+        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4hKBS94EEP9PaYxuK5tisQ"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Lovin', Touchin', Squeezin'",
+      "url": "https://open.spotify.com/track/0VQ0n5gMgJLNixG8BfWBT5"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -771,50 +771,34 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Pablo Cruise",
+          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
         }
       ],
-      "duration_ms": 256146,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+      "duration_ms": 251426,
+      "name": "Love Will Find A Way",
+      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
     },
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5hVTcLOMdF852hzUu7HUCY"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Time Passages",
-        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 403040,
-      "name": "Time Passages",
-      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+      "duration_ms": 280960,
+      "name": "Southern Cross",
+      "url": "https://open.spotify.com/track/4k1YrSM0KCb5LepafCrW5K"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -835,6 +819,38 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "Time Passages",
+        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 403040,
+      "name": "Time Passages",
+      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "Special Things (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5AnJr2Axqy5aIhcvaVKGEB"
       },
@@ -847,6 +863,22 @@
       "duration_ms": 218320,
       "name": "He's so Shy",
       "url": "https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -903,18 +935,38 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
       },
       "artists": [
         {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+      "duration_ms": 221432,
+      "name": "Hot Rod Hearts - Remastered",
+      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
+        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        },
+        {
+          "name": "Joe Pizullo",
+          "url": "https://open.spotify.com/artist/3DK5WRmxmgSVQgfGgYfypF"
+        }
+      ],
+      "duration_ms": 242706,
+      "name": "Alibis",
+      "url": "https://open.spotify.com/track/5t8YfppCGP89RcJrjs4Ybj"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -951,22 +1003,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 221432,
-      "name": "Hot Rod Hearts - Remastered",
-      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -979,58 +1015,6 @@
       "duration_ms": 271666,
       "name": "Magic",
       "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5hVTcLOMdF852hzUu7HUCY"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Southern Cross",
-      "url": "https://open.spotify.com/track/4k1YrSM0KCb5LepafCrW5K"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Turn Your Love Around",
-      "url": "https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
-        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        },
-        {
-          "name": "Joe Pizullo",
-          "url": "https://open.spotify.com/artist/3DK5WRmxmgSVQgfGgYfypF"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "Alibis",
-      "url": "https://open.spotify.com/track/5t8YfppCGP89RcJrjs4Ybj"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Turn Your Love Around",
+      "url": "https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 276493,
       "name": "Escape (The Pina Colada Song)",
       "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -1099,18 +1083,50 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 262906,
-      "name": "You're the Only Woman - You & I",
-      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Radio Dreams",
+        "url": "https://open.spotify.com/album/6n44QMNdMbVuBZmS1e5TSN"
+      },
+      "artists": [
+        {
+          "name": "Roger Voudouris",
+          "url": "https://open.spotify.com/artist/0AfDBW6x1y3cJ7U8wSasVM"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Get Used to It",
+      "url": "https://open.spotify.com/track/4lFO4X6ef61SR6M1KXkSRN"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Radio Dreams",
-        "url": "https://open.spotify.com/album/6n44QMNdMbVuBZmS1e5TSN"
-      },
-      "artists": [
-        {
-          "name": "Roger Voudouris",
-          "url": "https://open.spotify.com/artist/0AfDBW6x1y3cJ7U8wSasVM"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Get Used to It",
-      "url": "https://open.spotify.com/track/4lFO4X6ef61SR6M1KXkSRN"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Brother To Brother",
         "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 218306,
       "name": "I Just Wanna Stop",
       "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 262906,
+      "name": "You're the Only Woman - You & I",
+      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
     },
     {
       "added_at": "2022-02-12 04:59:37",

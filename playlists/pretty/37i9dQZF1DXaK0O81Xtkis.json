@@ -1,13 +1,29 @@
 {
-  "description": "shake it up and let it pop! cover: Big Time Rush",
-  "num_followers": 189119,
+  "description": "shake it up and let it pop! cover: The Regrettes",
+  "num_followers": 189168,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTgwNDkzNiwwMDAwMDA5ODAwMDAwMTdmMzE5ZTViOGEwMDAwMDE3ZjJkMWFhZjFi",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDA5OTAwMDAwMTdmNTM0YzhkMmYwMDAwMDE3ZjRjZjk3NTdl",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "That's What Makes Me Love You",
+        "url": "https://open.spotify.com/album/2TJRufbxBAMm10Fu6Bt5cj"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "That's What Makes Me Love You",
+      "url": "https://open.spotify.com/track/2nbjwfE22P08oLHDQ11xzf"
+    },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 180879,
       "name": "Not Giving You Up",
       "url": "https://open.spotify.com/track/1jzJQlaWgu7ZYqRldXXFRD"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "COMPLETE MESS",
+        "url": "https://open.spotify.com/album/5nALCJT36REzB4oFpXki54"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206361,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I"
+    },
+    {
+      "added_at": "2022-01-14 20:45:04",
+      "album": {
+        "name": "The Click",
+        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 227267,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Same Team",
+        "url": "https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Same Team",
+      "url": "https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -41,6 +105,38 @@
       "url": "https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Stupid Song",
+        "url": "https://open.spotify.com/album/3XFQ1yrmUFcqWodP3MTfMf"
+      },
+      "artists": [
+        {
+          "name": "Hot Chelle Rae",
+          "url": "https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0"
+        }
+      ],
+      "duration_ms": 199646,
+      "name": "Stupid Song",
+      "url": "https://open.spotify.com/track/109p6uZX2HZOaPGUGdzwYI"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 181153,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7"
+    },
+    {
       "added_at": "2022-02-25 15:39:05",
       "album": {
         "name": "Tough Boy",
@@ -55,6 +151,38 @@
       "duration_ms": 147381,
       "name": "Girls In Line for the Bathroom",
       "url": "https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Straightjacket",
+      "url": "https://open.spotify.com/track/51LIqkda3pTeECZUhMnool"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -89,22 +217,6 @@
       "url": "https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ"
     },
     {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "The Click",
-        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 227267,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Little Dance",
@@ -119,6 +231,22 @@
       "duration_ms": 244985,
       "name": "Little Dance",
       "url": "https://open.spotify.com/track/3ZqUF40oZLspAMaygqY6L9"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Happy Pills",
+        "url": "https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1"
+      },
+      "artists": [
+        {
+          "name": "Weathers",
+          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "Happy Pills",
+      "url": "https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -157,6 +285,22 @@
       "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "I Don't Daydream Anymore",
+        "url": "https://open.spotify.com/album/4EJ9SaQoI47rBKnNhxRXMQ"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 224485,
+      "name": "I Don't Daydream Anymore",
+      "url": "https://open.spotify.com/track/2urI2TKhLqK3o4hTR3i2R8"
+    },
+    {
       "added_at": "2022-02-25 16:02:16",
       "album": {
         "name": "Islands",
@@ -187,6 +331,22 @@
       "duration_ms": 222565,
       "name": "rock music",
       "url": "https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Replace Me",
+        "url": "https://open.spotify.com/album/5Z5eUGnz4aZrWjHJF5PBr5"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Replace Me",
+      "url": "https://open.spotify.com/track/2WbIdh9RxH4V0xv465tQzQ"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -261,22 +421,6 @@
       "url": "https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "The Story of Us",
-        "url": "https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Straightjacket",
-      "url": "https://open.spotify.com/track/51LIqkda3pTeECZUhMnool"
-    },
-    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
@@ -339,6 +483,22 @@
       "duration_ms": 179264,
       "name": "Swing & A Miss",
       "url": "https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "stay",
+        "url": "https://open.spotify.com/album/1OGAJS3pm0rJo0jH5yn5Mf"
+      },
+      "artists": [
+        {
+          "name": "PUBLIC",
+          "url": "https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex"
+        }
+      ],
+      "duration_ms": 162282,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/23CvqlpnvMZ8d05t4vJUic"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -765,22 +925,6 @@
       "url": "https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh"
     },
     {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Happy Pills",
-        "url": "https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1"
-      },
-      "artists": [
-        {
-          "name": "Weathers",
-          "url": "https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "Happy Pills",
-      "url": "https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH"
-    },
-    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "Shut Off The Lights",
@@ -847,22 +991,6 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168020,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
     },
     {
       "added_at": "2022-01-14 20:45:04",

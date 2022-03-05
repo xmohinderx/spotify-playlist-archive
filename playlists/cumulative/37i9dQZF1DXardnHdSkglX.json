@@ -1398,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "The Sunny Side EP",
+        "url": "https://open.spotify.com/album/5noduZglxV0U46fHzxUlUY"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204144,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4Vor8YELTcUw7lBtsnQX2s"
+    },
+    {
+      "album": {
         "name": "Killing Me Softly With His Song",
         "url": "https://open.spotify.com/album/31WwS1pEqFxCAv0m3clOiM"
       },

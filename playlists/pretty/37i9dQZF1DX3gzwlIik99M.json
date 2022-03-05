@@ -1,13 +1,45 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 201875,
+  "num_followers": 201906,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTMwMCwwMDAwMDAwMDdlNTUwYmY5MDZkNmVmMjYwODMzZWVlMGFjZjI4NTRh",
+  "snapshot_id": "MTY0NjQ0MTU1OCwwMDAwMDAwMDJkZWYzYTdmYmU2MDIzZDQ5N2I3MmFlYmI0NWQzZGUy",
   "tracks": [
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Fear Itself",
+        "url": "https://open.spotify.com/album/19TKYe5VaqGIE8McaUDm44"
+      },
+      "artists": [
+        {
+          "name": "Criminal",
+          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Carne Molida",
+      "url": "https://open.spotify.com/track/387993G17HB8qj9j5a5cvu"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "The Beginning of the End",
+        "url": "https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM"
+      },
+      "artists": [
+        {
+          "name": "Tulkas",
+          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
+        }
+      ],
+      "duration_ms": 223588,
+      "name": "Outsider God Creation (O.G.C)",
+      "url": "https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ"
+    },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
@@ -27,210 +59,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+        "name": "Plan Mundial Para La Destrucci\u00f3n",
+        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
       },
       "artists": [
         {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
         }
       ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Death Race",
-        "url": "https://open.spotify.com/album/6ksG84Pk4DsFnOFzOa2N7S"
-      },
-      "artists": [
-        {
-          "name": "Voltax",
-          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
-        }
-      ],
-      "duration_ms": 250709,
-      "name": "Death Race",
-      "url": "https://open.spotify.com/track/3s1SB3s9fB5Rb5kPEdEXFl"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Victimas del Vaciamiento",
-        "url": "https://open.spotify.com/album/70Bq990gBdpLDzx7M8r28i"
-      },
-      "artists": [
-        {
-          "name": "Hermetica",
-          "url": "https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Soy de la Esquina",
-      "url": "https://open.spotify.com/track/6q8EF1C7ZzNOpgNye7ycvh"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2w8nokxtxKijyLK7V3egt7"
-      },
-      "artists": [
-        {
-          "name": "S7N",
-          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/6qZcq9975jZjdKCAfqLkKW"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "El Llamado de la Hembra",
-        "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
-      },
-      "artists": [
-        {
-          "name": "Transmetal",
-          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
-        }
-      ],
-      "duration_ms": 275435,
-      "name": "El Infierno de Dante",
-      "url": "https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "La Leyenda De La Mancha",
-        "url": "https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
-        }
-      ],
-      "duration_ms": 251681,
-      "name": "Molinos De Viento",
-      "url": "https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Transcending Material Sins",
-        "url": "https://open.spotify.com/album/2ZPznu2yFP7eHgzVrcpz0W"
-      },
-      "artists": [
-        {
-          "name": "No Raza",
-          "url": "https://open.spotify.com/artist/1OQ0JmXXugGZmbwDSBnm8H"
-        }
-      ],
-      "duration_ms": 309632,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/2zIKerGcnZIdAQLlkcAPex"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
-      },
-      "artists": [
-        {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Pacto con el diablo",
-        "url": "https://open.spotify.com/album/24u0EDg9yMY6AYVPDn9o25"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngeles Del Infierno",
-          "url": "https://open.spotify.com/artist/2qzYtiwABDEql4L7JpZ59Y"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "Maldito sea tu nombre",
-      "url": "https://open.spotify.com/track/7vEYpLe2jDmZTYg0zdPNoz"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Xtreem Mutilation - Vol.2",
-        "url": "https://open.spotify.com/album/0cCB0FLTFklCF5Kn1TkHIM"
-      },
-      "artists": [
-        {
-          "name": "Thanatology",
-          "url": "https://open.spotify.com/artist/75txqStVuE5UPJb2Cmc9Hv"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Del 51 AL 25 + La Clinica DE Lo Grotesco",
-      "url": "https://open.spotify.com/track/6pz3pSPptoGaiU87heEKmG"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Unorthodox Creative Criteria",
-        "url": "https://open.spotify.com/album/43P3p42pvHNvWGLWSdz17r"
-      },
-      "artists": [
-        {
-          "name": "Coprofago",
-          "url": "https://open.spotify.com/artist/3AHOLYbQ4tukuXglzAulxu"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Crippled Tracker",
-      "url": "https://open.spotify.com/track/1bWPnTZJdSdF0TyosNW2oV"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Weychan",
-        "url": "https://open.spotify.com/album/1YVhF3NQmh0efvRReMGueN"
-      },
-      "artists": [
-        {
-          "name": "No Guerra",
-          "url": "https://open.spotify.com/artist/3u6urphShUpYJ3BeyRN4Bt"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Se Derrumba Su Imperio",
-      "url": "https://open.spotify.com/track/2OgubpuzNr0S3dwgoZoTJX"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Mundo Guanaco",
-        "url": "https://open.spotify.com/album/5IyVKrEhTZhhTbUsB8xdl6"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "El Pibe Tigre",
-      "url": "https://open.spotify.com/track/6p5SbKcAnIECU3hoFkZlPQ"
+      "duration_ms": 257773,
+      "name": "Darse Cuenta",
+      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -251,18 +91,66 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
+        "name": "Victimas del Vaciamiento",
+        "url": "https://open.spotify.com/album/70Bq990gBdpLDzx7M8r28i"
       },
       "artists": [
         {
-          "name": "Bar\u00f3n Rojo",
-          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+          "name": "Hermetica",
+          "url": "https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7"
         }
       ],
-      "duration_ms": 259733,
-      "name": "Los Rockeros Van al Infierno",
-      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
+      "duration_ms": 190066,
+      "name": "Soy de la Esquina",
+      "url": "https://open.spotify.com/track/6q8EF1C7ZzNOpgNye7ycvh"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Transcending Material Sins",
+        "url": "https://open.spotify.com/album/2ZPznu2yFP7eHgzVrcpz0W"
+      },
+      "artists": [
+        {
+          "name": "No Raza",
+          "url": "https://open.spotify.com/artist/1OQ0JmXXugGZmbwDSBnm8H"
+        }
+      ],
+      "duration_ms": 309632,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/2zIKerGcnZIdAQLlkcAPex"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "El Llamado de la Hembra",
+        "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
+      },
+      "artists": [
+        {
+          "name": "Transmetal",
+          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
+        }
+      ],
+      "duration_ms": 275435,
+      "name": "El Infierno de Dante",
+      "url": "https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Madera Prohibida",
+        "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
+      },
+      "artists": [
+        {
+          "name": "Los Antiguos",
+          "url": "https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91"
+        }
+      ],
+      "duration_ms": 311222,
+      "name": "La Culpa Al Viento",
+      "url": "https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -299,6 +187,102 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Mundo Guanaco",
+        "url": "https://open.spotify.com/album/5IyVKrEhTZhhTbUsB8xdl6"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "El Pibe Tigre",
+      "url": "https://open.spotify.com/track/6p5SbKcAnIECU3hoFkZlPQ"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Discord",
+        "url": "https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm"
+      },
+      "artists": [
+        {
+          "name": "Black Overdrive",
+          "url": "https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+      },
+      "artists": [
+        {
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2w8nokxtxKijyLK7V3egt7"
+      },
+      "artists": [
+        {
+          "name": "S7N",
+          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/6qZcq9975jZjdKCAfqLkKW"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Dead Soul",
+        "url": "https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS"
+      },
+      "artists": [
+        {
+          "name": "Criminal",
+          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Victimized",
+      "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Pacto con el diablo",
+        "url": "https://open.spotify.com/album/24u0EDg9yMY6AYVPDn9o25"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngeles Del Infierno",
+          "url": "https://open.spotify.com/artist/2qzYtiwABDEql4L7JpZ59Y"
+        }
+      ],
+      "duration_ms": 225386,
+      "name": "Maldito sea tu nombre",
+      "url": "https://open.spotify.com/track/7vEYpLe2jDmZTYg0zdPNoz"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Tierras de Leyenda",
         "url": "https://open.spotify.com/album/3FDDeh9sZO0LomncCL9fEf"
       },
@@ -315,34 +299,146 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Sol de Sangre",
-        "url": "https://open.spotify.com/album/5frrrCq1naPDUp2iI5wxQm"
+        "name": "Rebeli\u00f3n En El Chiquero",
+        "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
       },
       "artists": [
         {
-          "name": "Sol de Sangre",
-          "url": "https://open.spotify.com/artist/210X3PzWuivvNasJE9QpR7"
+          "name": "Marraneitors",
+          "url": "https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs"
         }
       ],
-      "duration_ms": 277752,
-      "name": "Mas Abajo del Infierno",
-      "url": "https://open.spotify.com/track/0ZuH2VKIftMnzukP08gktc"
+      "duration_ms": 150602,
+      "name": "Eres Tan Mala Como la Carne de Puerco",
+      "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Plan Mundial Para La Destrucci\u00f3n",
-        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
+        "name": "La Leyenda De La Mancha",
+        "url": "https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7"
       },
       "artists": [
         {
-          "name": "Logos",
-          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
         }
       ],
-      "duration_ms": 257773,
-      "name": "Darse Cuenta",
-      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+      "duration_ms": 251681,
+      "name": "Molinos De Viento",
+      "url": "https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Opus Dei",
+        "url": "https://open.spotify.com/album/7rOKUNLu2VyLL5IOD8zUy2"
+      },
+      "artists": [
+        {
+          "name": "Kilcrops",
+          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+        }
+      ],
+      "duration_ms": 178422,
+      "name": "Opus Dei",
+      "url": "https://open.spotify.com/track/1XtW8SZGSR5SL7hWAWltam"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Subkonzziente",
+        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00e9cimen",
+          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Awaken from Reality",
+        "url": "https://open.spotify.com/album/00XK0Lkt5EpfT7RnojwODz"
+      },
+      "artists": [
+        {
+          "name": "Zelichant",
+          "url": "https://open.spotify.com/artist/49Dciv0wqNj3cs3795ENGQ"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/3EX44rDEOR6mIX0yHGTde6"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "R\u00edo Extra\u00f1o",
+        "url": "https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL"
+      },
+      "artists": [
+        {
+          "name": "OConnor",
+          "url": "https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN"
+        }
+      ],
+      "duration_ms": 267746,
+      "name": "R\u00edo Extra\u00f1o",
+      "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Weychan",
+        "url": "https://open.spotify.com/album/1YVhF3NQmh0efvRReMGueN"
+      },
+      "artists": [
+        {
+          "name": "No Guerra",
+          "url": "https://open.spotify.com/artist/3u6urphShUpYJ3BeyRN4Bt"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Se Derrumba Su Imperio",
+      "url": "https://open.spotify.com/track/2OgubpuzNr0S3dwgoZoTJX"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+      },
+      "artists": [
+        {
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00f3n Rojo",
+          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Los Rockeros Van al Infierno",
+      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -379,66 +475,66 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Tierras Muertas",
-        "url": "https://open.spotify.com/album/18QMq4GDdBduClwIG2RjUF"
+        "name": "Por Tu Honor",
+        "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
       },
       "artists": [
         {
-          "name": "Lethal Creation",
-          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
+          "name": "Horcas",
+          "url": "https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq"
         }
       ],
-      "duration_ms": 309053,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/77LC0Gp1UA0tURs9iTF0Bk"
+      "duration_ms": 237586,
+      "name": "En la Jaula",
+      "url": "https://open.spotify.com/track/4gTmUJIVkIBKIhuWcepu7q"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Fear Itself",
-        "url": "https://open.spotify.com/album/19TKYe5VaqGIE8McaUDm44"
+        "name": "Disidencia",
+        "url": "https://open.spotify.com/album/2Ftt0glEcEEnToACWBs24G"
       },
       "artists": [
         {
-          "name": "Criminal",
-          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
+          "name": "\u00c9ntomos",
+          "url": "https://open.spotify.com/artist/4TRb26crZjAkKUQeafr1e1"
         }
       ],
-      "duration_ms": 220160,
-      "name": "Carne Molida",
-      "url": "https://open.spotify.com/track/387993G17HB8qj9j5a5cvu"
+      "duration_ms": 231739,
+      "name": "Inmolaci\u00f3n",
+      "url": "https://open.spotify.com/track/5frhQhZU0yN1lWOfNGw5Sg"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Llora Chiapas",
-        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/5KIUxfQu6NOlotK0EeM9Ie"
       },
       "artists": [
         {
-          "name": "Leprosy",
-          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
+          "name": "Thell Barrio",
+          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
         }
       ],
-      "duration_ms": 312447,
-      "name": "Residentes Olvidados",
-      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
+      "duration_ms": 202647,
+      "name": "A Toda Madre",
+      "url": "https://open.spotify.com/track/5ENXT56BbduQWWHCX0FI3G"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Javhe Karma",
-        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/3sjf8QdbSsf1ZA5llhnCNA"
       },
       "artists": [
         {
-          "name": "Kilcrops",
-          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+          "name": "El Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/59WGZJBUsi4EToimnUuhcZ"
         }
       ],
-      "duration_ms": 460813,
-      "name": "Infiel a Dos Mentiras \"Vida\"",
-      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
+      "duration_ms": 292848,
+      "name": "De Cuero y Metal",
+      "url": "https://open.spotify.com/track/1npZUR51Y8Lpe6k25JmQQE"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -463,82 +559,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Un Paso Mas en la Batalla",
-        "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
+        "name": "Psicopata",
+        "url": "https://open.spotify.com/album/2CmTSfvXzBNDdbHpn7X05f"
       },
       "artists": [
         {
-          "name": "V8",
-          "url": "https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa"
+          "name": "Cries",
+          "url": "https://open.spotify.com/artist/6UBolaZq5wFjyupQufTYCW"
         }
       ],
-      "duration_ms": 316413,
-      "name": "Deseando Destruir y Matar",
-      "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Muerde el Pavimento",
-        "url": "https://open.spotify.com/album/1LUldTtUpQJeWOzsps5KYP"
-      },
-      "artists": [
-        {
-          "name": "Tras Las Puas",
-          "url": "https://open.spotify.com/artist/5wOaaFlMe84wTSckI8oqPO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "C\u00f3moda Ceguera",
-      "url": "https://open.spotify.com/track/5CbR1akjwCG94lK34D1MF6"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Sentir Metalero",
-        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
-      },
-      "artists": [
-        {
-          "name": "Aonikenk",
-          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "Cacique Yatel",
-      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Death Based Illusions",
-        "url": "https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af"
-      },
-      "artists": [
-        {
-          "name": "Strike Master",
-          "url": "https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "Strong as Hell",
-      "url": "https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Legions of Bastards",
-        "url": "https://open.spotify.com/album/6P1zPmqnsXDg45iEBwysBk"
-      },
-      "artists": [
-        {
-          "name": "Tulkas",
-          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
-        }
-      ],
-      "duration_ms": 235050,
-      "name": "Legions of Bastards",
-      "url": "https://open.spotify.com/track/5djs09h5VV3M60FkNRR9tK"
+      "duration_ms": 191875,
+      "name": "Soy Su Peor Pesadilla",
+      "url": "https://open.spotify.com/track/2iQYAoarCL3DMgWf53iksn"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -559,50 +591,162 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Mighty Jungle",
-        "url": "https://open.spotify.com/album/25H3EHBgRdfCiMJM158ISm"
+        "name": "Carnage Drinking Party",
+        "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
       },
       "artists": [
         {
-          "name": "Exxocet",
-          "url": "https://open.spotify.com/artist/2orJsDpdjdsLaDkIs7IjJv"
+          "name": "Gore and Carnage",
+          "url": "https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON"
         }
       ],
-      "duration_ms": 263778,
-      "name": "Screams from the South",
-      "url": "https://open.spotify.com/track/7mNPAgUtwKRMw6IZVHwrBY"
+      "duration_ms": 170161,
+      "name": "Poseido Por Mezcal",
+      "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/5KIUxfQu6NOlotK0EeM9Ie"
+        "name": "Todo Mi Odio",
+        "url": "https://open.spotify.com/album/7EFgFHy82cJXO2HEcvGraY"
       },
       "artists": [
         {
-          "name": "Thell Barrio",
-          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
+          "name": "Lefutray",
+          "url": "https://open.spotify.com/artist/0RPXbtWvYEdQrOeJCtECKN"
         }
       ],
-      "duration_ms": 202647,
-      "name": "A Toda Madre",
-      "url": "https://open.spotify.com/track/5ENXT56BbduQWWHCX0FI3G"
+      "duration_ms": 314000,
+      "name": "Todo Mi Odio",
+      "url": "https://open.spotify.com/track/4m8k1uVNyEuhneRmkkT58V"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Opus Dei",
-        "url": "https://open.spotify.com/album/7rOKUNLu2VyLL5IOD8zUy2"
+        "name": "Llora Chiapas",
+        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
       },
       "artists": [
         {
-          "name": "Kilcrops",
-          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+          "name": "Leprosy",
+          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
         }
       ],
-      "duration_ms": 178422,
-      "name": "Opus Dei",
-      "url": "https://open.spotify.com/track/1XtW8SZGSR5SL7hWAWltam"
+      "duration_ms": 312447,
+      "name": "Residentes Olvidados",
+      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Sentir Metalero",
+        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
+      },
+      "artists": [
+        {
+          "name": "Aonikenk",
+          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "Cacique Yatel",
+      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Un Paso Mas en la Batalla",
+        "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
+      },
+      "artists": [
+        {
+          "name": "V8",
+          "url": "https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Deseando Destruir y Matar",
+      "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Blood-Rooted",
+        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 107693,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Carnivora",
+        "url": "https://open.spotify.com/album/2roovAXfVmkHsZ0GlGHRPm"
+      },
+      "artists": [
+        {
+          "name": "Mastifal",
+          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Culto vacio radical",
+      "url": "https://open.spotify.com/track/7iSaJ4LIAMNbU45Rf48PXa"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Legions of Bastards",
+        "url": "https://open.spotify.com/album/6P1zPmqnsXDg45iEBwysBk"
+      },
+      "artists": [
+        {
+          "name": "Tulkas",
+          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
+        }
+      ],
+      "duration_ms": 235050,
+      "name": "Legions of Bastards",
+      "url": "https://open.spotify.com/track/5djs09h5VV3M60FkNRR9tK"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Universevil",
+        "url": "https://open.spotify.com/album/28KJq2Agn0iroR9T7c6v2Q"
+      },
+      "artists": [
+        {
+          "name": "Maligno",
+          "url": "https://open.spotify.com/artist/1RORqodQzkZQb1yuLq8BYk"
+        }
+      ],
+      "duration_ms": 243960,
+      "name": "The Red Witch",
+      "url": "https://open.spotify.com/track/0YaJA6R3zYTtYwm8TLgV5U"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Tierras Muertas",
+        "url": "https://open.spotify.com/album/18QMq4GDdBduClwIG2RjUF"
+      },
+      "artists": [
+        {
+          "name": "Lethal Creation",
+          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/77LC0Gp1UA0tURs9iTF0Bk"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -623,40 +767,24 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Carnage Drinking Party",
-        "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
+        "name": "Javhe Karma",
+        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
       },
       "artists": [
         {
-          "name": "Gore and Carnage",
-          "url": "https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON"
+          "name": "Kilcrops",
+          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
         }
       ],
-      "duration_ms": 170161,
-      "name": "Poseido Por Mezcal",
-      "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
+      "duration_ms": 460813,
+      "name": "Infiel a Dos Mentiras \"Vida\"",
+      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Creation of Insanity",
-        "url": "https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98"
-      },
-      "artists": [
-        {
-          "name": "Introtyl",
-          "url": "https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A"
-        }
-      ],
-      "duration_ms": 161881,
-      "name": "Regresi\u00f3n",
-      "url": "https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
       },
       "artists": [
         {
@@ -664,153 +792,25 @@
           "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Psicopata",
-        "url": "https://open.spotify.com/album/2CmTSfvXzBNDdbHpn7X05f"
+        "name": "Nuevo Orden Mundial",
+        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
       },
       "artists": [
         {
-          "name": "Cries",
-          "url": "https://open.spotify.com/artist/6UBolaZq5wFjyupQufTYCW"
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
         }
       ],
-      "duration_ms": 191875,
-      "name": "Soy Su Peor Pesadilla",
-      "url": "https://open.spotify.com/track/2iQYAoarCL3DMgWf53iksn"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "R\u00edo Extra\u00f1o",
-        "url": "https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL"
-      },
-      "artists": [
-        {
-          "name": "OConnor",
-          "url": "https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "R\u00edo Extra\u00f1o",
-      "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Subkonzziente",
-        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
-      },
-      "artists": [
-        {
-          "name": "Esp\u00e9cimen",
-          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Madera Prohibida",
-        "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
-      },
-      "artists": [
-        {
-          "name": "Los Antiguos",
-          "url": "https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91"
-        }
-      ],
-      "duration_ms": 311222,
-      "name": "La Culpa Al Viento",
-      "url": "https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "El Mar De Las Almas",
-        "url": "https://open.spotify.com/album/52tcNhROdl0187orh4tB3N"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Acido",
-      "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Dead Soul",
-        "url": "https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS"
-      },
-      "artists": [
-        {
-          "name": "Criminal",
-          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "Victimized",
-      "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Earthliens",
-        "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
-      },
-      "artists": [
-        {
-          "name": "Perpetual Warfare",
-          "url": "https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Las Venas Abiertas...",
-      "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Awaken from Reality",
-        "url": "https://open.spotify.com/album/00XK0Lkt5EpfT7RnojwODz"
-      },
-      "artists": [
-        {
-          "name": "Zelichant",
-          "url": "https://open.spotify.com/artist/49Dciv0wqNj3cs3795ENGQ"
-        }
-      ],
-      "duration_ms": 294240,
-      "name": "Fly Together",
-      "url": "https://open.spotify.com/track/5tZQ7efPAGOiJPndMfj9Kk"
+      "duration_ms": 231426,
+      "name": "Nuevo Orden Mundial",
+      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
     }
   ],
   "unique_name": "Metal del Nuestro",

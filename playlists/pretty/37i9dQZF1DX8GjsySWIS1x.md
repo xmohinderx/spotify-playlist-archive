@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gaming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,268 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,505 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

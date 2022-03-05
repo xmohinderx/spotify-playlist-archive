@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past.",
-  "num_followers": 839137,
+  "num_followers": 839329,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTQ3NiwwMDAwMDAwMDVlNmJiMTcyMDA2NjY1ZmExNTIxMWRhYzBkMTkxMTc2",
+  "snapshot_id": "MTY0NjQ0MTc1MSwwMDAwMDAwMDU3NDNiNjlkOTNhN2YwM2EyYzdjODViYjRhM2RkMjk2",
   "tracks": [
     {
       "added_at": "2021-12-14 20:07:58",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
+      "added_at": "2021-12-14 20:17:09",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3"
       },
       "artists": [
         {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+      "duration_ms": 184653,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -187,18 +187,50 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/0FeCO85RKW8fDRytwXof2x"
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "added_at": "2021-12-14 20:07:58",
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -235,6 +267,22 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/0FeCO85RKW8fDRytwXof2x"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
         "name": "Dance With Me: The Best Of Orleans",
         "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
       },
@@ -251,18 +299,18 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-12-14 20:07:58",
@@ -279,38 +327,6 @@
       "duration_ms": 264413,
       "name": "What Is Life - Remastered 2014",
       "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
-    },
-    {
-      "added_at": "2021-12-14 20:07:58",
-      "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -361,22 +377,6 @@
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
-    },
-    {
       "added_at": "2021-12-14 20:17:09",
       "album": {
         "name": "Life & Times",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
+      "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3"
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
         }
       ],
-      "duration_ms": 184653,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9"
+      "duration_ms": 199573,
+      "name": "Sister Golden Hair",
+      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -423,22 +423,6 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2021-12-14 20:07:58",
@@ -459,18 +443,18 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n"
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Sister Golden Hair",
-      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -523,50 +507,18 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
-    },
-    {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -587,6 +539,54 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
         "name": "Firefall",
         "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
@@ -601,20 +601,20 @@
       "url": "https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
+      "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+      "duration_ms": 268333,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
+        "name": "Five-A-Side",
+        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+      },
+      "artists": [
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -649,20 +665,52 @@
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
+      "added_at": "2021-12-14 20:17:09",
       "album": {
-        "name": "Five-A-Side",
-        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
       "artists": [
         {
-          "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 204226,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 356733,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Tomorrow The Green Grass",
+        "url": "https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -683,22 +731,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
       },
@@ -713,36 +745,20 @@
       "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
+      "added_at": "2021-12-14 20:08:41",
       "album": {
-        "name": "Tomorrow The Green Grass",
-        "url": "https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC"
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
       "artists": [
         {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
-    },
-    {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -777,36 +793,20 @@
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
     },
     {
-      "added_at": "2021-12-14 20:08:41",
+      "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
         }
       ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
-    },
-    {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+      "duration_ms": 178826,
+      "name": "When You're In Love With A Beautiful Woman",
+      "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
     }
   ],
   "unique_name": "Good Times, Great Oldies",

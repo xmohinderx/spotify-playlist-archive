@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: vf7, Nio Garcia",
+  "description": "Lo mejor del reggaet\u00f3n y flow actual, y lo que vendr\u00e1. Portada: Ryan Castro",
   "name": "Dale Flow",
   "published_playlist_ids": [
     "4t8Cynw1OATHYvs7BoEBpr"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/19AbkdvXeU2ga969fV5uUe"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/2qzZTKnZ3f2vQ7DaAGKGq2"
+    },
     {
       "album": {
         "name": "12x3",
@@ -195,6 +217,24 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "album": {
+        "name": "BYAK",
+        "url": "https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148840,
+      "name": "BYAK",
+      "url": "https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen"
     },
     {
       "album": {
@@ -571,7 +611,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
@@ -593,7 +633,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
@@ -821,7 +861,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174236,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK"
@@ -988,6 +1028,28 @@
     },
     {
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221362,
+      "name": "La Tarea",
+      "url": "https://open.spotify.com/track/4oBIA6sGjOm60I9lmkHv45"
+    },
+    {
+      "album": {
         "name": "Las de Octubre",
         "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
       },
@@ -1069,7 +1131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 215440,
       "name": "Llori Pari",
       "url": "https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7"
@@ -1099,6 +1161,24 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "album": {
+        "name": "Loco Por Perrearte",
+        "url": "https://open.spotify.com/album/5dD5GnMkozTvrcsqD1T97a"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Loco Por Perrearte",
+      "url": "https://open.spotify.com/track/2KNeDbgymVCUJmP6PJQ4Bx"
     },
     {
       "album": {
@@ -1245,7 +1325,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 230776,
       "name": "Mejor Sola",
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
@@ -2161,7 +2241,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 201200,
       "name": "Tus Poses",
       "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"

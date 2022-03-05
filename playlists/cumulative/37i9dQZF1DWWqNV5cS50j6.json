@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Featuring new music by Araya.",
+  "description": "Featuring new music by keshi.",
   "name": "anti pop",
   "published_playlist_ids": [
     "6mIA8qAabkwc8qms18iOYE"
@@ -4923,6 +4923,24 @@
       "duration_ms": 210213,
       "name": "Generation",
       "url": "https://open.spotify.com/track/7JHohbdSYNGyUwcycNi95q"
+    },
+    {
+      "album": {
+        "name": "GET IT",
+        "url": "https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151301,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS"
     },
     {
       "album": {

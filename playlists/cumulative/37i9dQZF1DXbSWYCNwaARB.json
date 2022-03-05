@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 192280,
       "name": "DUN DUN",
       "url": "https://open.spotify.com/track/3CyCjgTHFzqucmECajq8QA"
@@ -2105,7 +2105,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "LA DI DA",
       "url": "https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL"
@@ -2159,7 +2159,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 174880,
       "name": "LALALAY \ub0a0\ub77c\ub9ac",
       "url": "https://open.spotify.com/track/6sWd8ZAH5bWWyjwb7ZV2Zb"
@@ -2797,7 +2797,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 202760,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL"
@@ -3312,6 +3312,24 @@
     },
     {
       "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213426,
+      "name": "RUN2U",
+      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "album": {
         "name": "THE OCEAN",
         "url": "https://open.spotify.com/album/2FEQU7BTSsYncVAg244A55"
       },
@@ -3435,7 +3453,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 192333,
       "name": "Secret Story of the Swan",
       "url": "https://open.spotify.com/track/3FARQP8fA49bSsTWjNyWmY"

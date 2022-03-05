@@ -1066,6 +1066,28 @@
     },
     {
       "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ix\u00e3",
+          "url": "https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH"
+    },
+    {
+      "album": {
         "name": "My Head (Can\u2019t Get You Out)",
         "url": "https://open.spotify.com/album/5wt9DQGWAAB42zuZthgEkn"
       },

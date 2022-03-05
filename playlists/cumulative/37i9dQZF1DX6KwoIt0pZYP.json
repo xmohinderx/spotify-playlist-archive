@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 192490,
       "name": "2am Calls",
       "url": "https://open.spotify.com/track/3h0IvDPAvhhKkO7OlvK4No"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 175853,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Can We Have A Conversation?",
+        "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154969,
+      "name": "Can We Have A Conversation?",
+      "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
+    },
+    {
+      "album": {
         "name": "Cheap Love",
         "url": "https://open.spotify.com/album/5T2ZE6a8KhE1Q0ylKpLQlB"
       },
@@ -511,7 +529,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 160378,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0OopWuQ3JrNrin9q7te8Rv"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 298000,
       "name": "Comme des Gar\u00e7ons",
       "url": "https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 202105,
       "name": "Endless Road",
       "url": "https://open.spotify.com/track/5EsIWm4H8qouBQ8jXVF2Ng"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 188817,
       "name": "Faith",
       "url": "https://open.spotify.com/track/3Eyxdb616hFs6RvXSMijws"
@@ -1018,6 +1036,28 @@
     },
     {
       "album": {
+        "name": "Good For A Time",
+        "url": "https://open.spotify.com/album/3KjBwYUsTtWGFVJ2IjV6qs"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        },
+        {
+          "name": "Bea Lorenzo",
+          "url": "https://open.spotify.com/artist/6IwtJ7xt7qhukLAqLwHvzG"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144250,
+      "name": "Good For A Time",
+      "url": "https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2"
+    },
+    {
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1185,7 +1225,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 218000,
       "name": "Hopelessly Devoted To You",
       "url": "https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR"
@@ -1605,7 +1645,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 170215,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/4GvPsXWhlf4VhudJwDQtZT"
@@ -2029,7 +2069,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 160513,
       "name": "Precious",
       "url": "https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog"
@@ -2590,6 +2630,24 @@
     },
     {
       "album": {
+        "name": "Trust Me With This (Mama)",
+        "url": "https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224664,
+      "name": "Trust Me With This (Mama)",
+      "url": "https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL"
+    },
+    {
+      "album": {
         "name": "twentysixteen",
         "url": "https://open.spotify.com/album/65GS48Ev0uQk6QNmCE5sbG"
       },
@@ -2695,7 +2753,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 217083,
       "name": "Want You Here",
       "url": "https://open.spotify.com/track/0t8xmBormclXxZlZV7Lg62"
@@ -2739,7 +2797,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 153600,
       "name": "what are we?",
       "url": "https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1"
@@ -2923,7 +2981,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 291052,
       "name": "you look so beautiful",
       "url": "https://open.spotify.com/track/1J5xz1F0BvYRJTpOJdXHJo"
@@ -3003,7 +3061,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 171195,
       "name": "\uadf8\ub9ac\uc6c0 (Rindu)",
       "url": "https://open.spotify.com/track/32owsT82fuFexAND08A5sS"

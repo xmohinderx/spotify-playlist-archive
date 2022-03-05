@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423133,
+      "name": "Barefoot Sunday Blues",
+      "url": "https://open.spotify.com/track/4n5AUkvieP9NglLITjihFH"
+    },
+    {
+      "album": {
         "name": "Ah Um",
         "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
@@ -103,6 +121,24 @@
       "duration_ms": 440840,
       "name": "Better Git It in Your Soul",
       "url": "https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm"
+    },
+    {
+      "album": {
+        "name": "Red Garland Revisited!",
+        "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380400,
+      "name": "Billy Boy",
+      "url": "https://open.spotify.com/track/1uJgfVUbZ6DtDMHENnPT11"
     },
     {
       "album": {
@@ -566,6 +602,24 @@
     },
     {
       "album": {
+        "name": "The Hard Swing",
+        "url": "https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187213,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls"
+    },
+    {
+      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -955,7 +1009,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 262000,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p"
@@ -1009,7 +1063,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 230312,
       "name": "Mo' Better Blues",
       "url": "https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J"
@@ -1067,6 +1121,24 @@
       "duration_ms": 353106,
       "name": "Move",
       "url": "https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv"
+    },
+    {
+      "album": {
+        "name": "It's All Right!",
+        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "Moving Up",
+      "url": "https://open.spotify.com/track/2TYYqUZF8AnpjlJhCLHXIQ"
     },
     {
       "album": {
@@ -1189,7 +1261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 202903,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/098hhwrTcsdOKOC9Gj78Ny"
@@ -1351,7 +1423,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 225145,
       "name": "Soon",
       "url": "https://open.spotify.com/track/2HyhUHo9i6tsAEjb8Rjvmk"

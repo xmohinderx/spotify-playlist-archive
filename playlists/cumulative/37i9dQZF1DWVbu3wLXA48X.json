@@ -3000,6 +3000,24 @@
     },
     {
       "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/1M19JDKFDaQvAI4BTv3Gn5"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/3C6aaaQ73DYqlQqUbZ8m8p"
+    },
+    {
+      "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/4OX3swXsgAIbZ5xep0nhqc"
       },

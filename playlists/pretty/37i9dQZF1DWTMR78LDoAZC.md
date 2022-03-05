@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Alternative and indie artists from across the Pride spectrum\. Cover: Hope Tala
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,094 likes - 92 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,076 likes - 92 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 7 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
 | 8 | [NY](https://open.spotify.com/track/6ZDGjhsVQToQK74JfocrhM) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Found](https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx) | 2:14 |
 | 9 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
-| 10 | [I'm Happy Now](https://open.spotify.com/track/4A74rEokmBC1nXf1wtMmqi) | [Emily McMichael](https://open.spotify.com/artist/0XnkCws48GZmyGjtrORQJN) | [I'M HAPPY NOW](https://open.spotify.com/album/2RizbLChfs7zN9k0CU5gTW) | 4:31 |
+| 10 | [I'm Happy Now](https://open.spotify.com/track/4A74rEokmBC1nXf1wtMmqi) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I'M HAPPY NOW](https://open.spotify.com/album/2RizbLChfs7zN9k0CU5gTW) | 4:31 |
 | 11 | [Girls Like Sex](https://open.spotify.com/track/74KsTGXDYNCLXyIH6z3KBV) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part One](https://open.spotify.com/album/0xpGqHeRXVSovn5VEvgzHA) | 2:45 |
 | 12 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 |
 | 13 | [Queen](https://open.spotify.com/track/4rPzJZqLHE1b5rx6WbFvqe) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/6RGVxi5a7hDGRSEnG1U0xt) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Your favorite soon to be hits. Cover: Cali Y El Dandee",
+  "description": "Your favorite soon to be hits. Cover: Mario Bautista, Piso 21",
   "name": "Latin Pop Today",
   "published_playlist_ids": [
     "1C2XqxMOTFW3XGWn44uwXh"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
@@ -195,6 +195,28 @@
       "duration_ms": 179648,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
+    },
+    {
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "album": {
@@ -880,6 +902,28 @@
     },
     {
       "album": {
+        "name": "La Tarea",
+        "url": "https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221362,
+      "name": "La Tarea",
+      "url": "https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr"
+    },
+    {
+      "album": {
         "name": "Lejos Conmigo",
         "url": "https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM"
       },
@@ -1249,7 +1293,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 138626,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
@@ -1373,6 +1417,24 @@
       "duration_ms": 232585,
       "name": "Ojal\u00e1 Pudiera",
       "url": "https://open.spotify.com/track/2ud45t5skUgbBSYj3hiAEM"
+    },
+    {
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
     },
     {
       "album": {
@@ -1941,7 +2003,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"

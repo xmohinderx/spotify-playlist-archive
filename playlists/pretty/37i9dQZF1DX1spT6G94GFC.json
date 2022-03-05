@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s. ",
-  "num_followers": 2201427,
+  "num_followers": 2202552,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTI0MywwMDAwMDAwMGE4ZjY0ODNhMThjNTliNjZlM2VkZWNlMmE0Y2E1YjMz",
+  "snapshot_id": "MTY0NjQ0MTQ5NSwwMDAwMDAwMDJjNDFlNTU4YWRmMDQxY2YyZGM1Y2IxMzMyNWUxM2U3",
   "tracks": [
     {
       "added_at": "2021-12-13 15:32:50",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 354520,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
       },
@@ -439,6 +423,38 @@
       "duration_ms": 258026,
       "name": "Sharp Dressed Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Dude (Looks Like A Lady)",
+      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -459,18 +475,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+      "duration_ms": 354520,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -507,34 +523,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 241080,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dude (Looks Like A Lady)",
-      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2022-02-23 05:29:54",
@@ -551,6 +551,102 @@
       "duration_ms": 287733,
       "name": "We Didn't Start the Fire",
       "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Hungry Like the Wolf - 2009 Remaster",
+      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -587,86 +683,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Blizzard of Ozz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 296200,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Hungry Like the Wolf - 2009 Remaster",
-      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "Crimes Of Passion",
         "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
       },
@@ -683,66 +699,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+        "name": "Blizzard of Ozz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Runnin' Down A Dream",
-      "url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Quiet Riot - Greatest Hits",
-        "url": "https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+      "duration_ms": 296200,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -779,6 +747,38 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Quiet Riot - Greatest Hits",
+        "url": "https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
         "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
@@ -811,70 +811,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Every Rose Has Its Thorn - Remastered 2003",
-      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Teen Idols",
-        "url": "https://open.spotify.com/album/4zadCyWJc3ptkkF46ClVjJ"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/6EUumCXY2GwkIKcuVGfJyM"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
@@ -891,18 +827,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 336613,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -927,18 +863,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Brothers In Arms",
-        "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
+        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
         }
       ],
-      "duration_ms": 249960,
-      "name": "Walk Of Life",
-      "url": "https://open.spotify.com/track/3Ud6fFep5ZlXzRWw6Sm8no"
+      "duration_ms": 260173,
+      "name": "Every Rose Has Its Thorn - Remastered 2003",
+      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -959,34 +895,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "We Are The '80s",
-        "url": "https://open.spotify.com/album/5NwluvA7kQLbxKOtXqkY1m"
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
       "artists": [
         {
-          "name": "Loverboy",
-          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Working for the Weekend",
-      "url": "https://open.spotify.com/track/0sgDEFq9oeC8ueOK0mR5IA"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & The Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -1007,6 +927,38 @@
       "duration_ms": 363640,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Wild-Eyed Southern Boys",
+        "url": "https://open.spotify.com/album/0McWOHhD5uSpbT4wRuTgpj"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 280636,
+      "name": "Hold On Loosely",
+      "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -1043,18 +995,50 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Pure Cult",
-        "url": "https://open.spotify.com/album/279o49AIcWuS6kIqVozTGL"
+        "name": "Iggy Pop - Universal Masters Collection",
+        "url": "https://open.spotify.com/album/5ziOhUaVaCaqr7akzvLndn"
       },
       "artists": [
         {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/4vnLdmUdkOworoveEzpEST"
+      "duration_ms": 218400,
+      "name": "Real Wild Child (Wild One)",
+      "url": "https://open.spotify.com/track/4blsgJTKfFehcYdPvPkNoM"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Brothers In Arms",
+        "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Walk Of Life",
+      "url": "https://open.spotify.com/track/3Ud6fFep5ZlXzRWw6Sm8no"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & The Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -1075,82 +1059,50 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Kick (30th Deluxe Edition)",
-        "url": "https://open.spotify.com/album/76WqCsxS7fRE2xx1h9bUzN"
+        "name": "Teen Idols",
+        "url": "https://open.spotify.com/album/4zadCyWJc3ptkkF46ClVjJ"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
         }
       ],
-      "duration_ms": 220160,
-      "name": "New Sensation - 2017 Remaster",
-      "url": "https://open.spotify.com/track/03Z0v1NYSk186ajlxqHSx4"
+      "duration_ms": 195933,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/6EUumCXY2GwkIKcuVGfJyM"
     },
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Wild-Eyed Southern Boys",
-        "url": "https://open.spotify.com/album/0McWOHhD5uSpbT4wRuTgpj"
+        "name": "We Are The '80s",
+        "url": "https://open.spotify.com/album/5NwluvA7kQLbxKOtXqkY1m"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "Loverboy",
+          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
         }
       ],
-      "duration_ms": 280636,
-      "name": "Hold On Loosely",
-      "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
+      "duration_ms": 220706,
+      "name": "Working for the Weekend",
+      "url": "https://open.spotify.com/track/0sgDEFq9oeC8ueOK0mR5IA"
     },
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Iggy Pop - Universal Masters Collection",
-        "url": "https://open.spotify.com/album/5ziOhUaVaCaqr7akzvLndn"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Real Wild Child (Wild One)",
-      "url": "https://open.spotify.com/track/4blsgJTKfFehcYdPvPkNoM"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 329413,
-      "name": "Edge of Seventeen - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
+      "duration_ms": 273600,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -1187,6 +1139,54 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Kick (30th Deluxe Edition)",
+        "url": "https://open.spotify.com/album/76WqCsxS7fRE2xx1h9bUzN"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "New Sensation - 2017 Remaster",
+      "url": "https://open.spotify.com/track/03Z0v1NYSk186ajlxqHSx4"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Pure Cult",
+        "url": "https://open.spotify.com/album/279o49AIcWuS6kIqVozTGL"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/4vnLdmUdkOworoveEzpEST"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G"
       },
@@ -1203,18 +1203,34 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8"
+        "name": "Bon Jovi",
+        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp"
+      "duration_ms": 230666,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -1231,22 +1247,6 @@
       "duration_ms": 228066,
       "name": "Unskinny Bop",
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
-        "name": "Bon Jovi",
-        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
     },
     {
       "added_at": "2021-12-13 15:32:50",

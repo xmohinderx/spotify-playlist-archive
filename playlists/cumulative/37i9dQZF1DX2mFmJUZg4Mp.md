@@ -218,5 +218,6 @@
 | [White Noise Rain Sound](https://open.spotify.com/track/7KDDKunLTkqnGp5nmo8QSZ) | [Samples QHD](https://open.spotify.com/artist/4yPaJjWtrGMogTzwi0JWVx) | [Relaxing Spring Rain](https://open.spotify.com/album/5T4eAq7CQUROmOIXJE8jCg) | 1:49 | 2021-11-10 |  |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2021-11-10 |  |
 | [Yoga Rain](https://open.spotify.com/track/4sieuDUZuvGySckrUxCgN2) | [Dream Wonderland](https://open.spotify.com/artist/2FQzApUKsaETAB1fmHHtqd) | [Relax Rain](https://open.spotify.com/album/7fqwCU5bvNyMPUTDXJjW8y) | 2:13 | 2021-11-10 |  |
+| [ฝนไทย](https://open.spotify.com/track/6RahdCve2k4j9uMktGnvzN) | [โรงงานฝน](https://open.spotify.com/artist/0CyQEAbBfOoPQHDNQb2Y7Q) | [เสียงฝนกรุงเทพ](https://open.spotify.com/album/0StfOG7Lsu1P9qseiHtDOZ) | 2:13 | 2022-03-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

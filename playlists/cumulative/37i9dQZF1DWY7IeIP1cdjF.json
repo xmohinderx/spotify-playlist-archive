@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Ozuna, Karol G, Bad Bunny and more!",
+  "description": "Reggaeton hits from Jay Wheeler, Karol G, Bad Bunny and more!",
   "name": "Baila Reggaeton",
   "published_playlist_ids": [
     "0HEXy6qoPJDhzDX63XfHmx"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
@@ -528,6 +528,28 @@
     },
     {
       "album": {
+        "name": "Envolver Remix",
+        "url": "https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182863,
+      "name": "Envolver Remix",
+      "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "album": {
         "name": "Esto Reci\u00e9n Empieza",
         "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
       },
@@ -632,6 +654,40 @@
     },
     {
       "album": {
+        "name": "hebilla",
+        "url": "https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Cami Da Baby",
+          "url": "https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "hebilla",
+      "url": "https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha"
+    },
+    {
+      "album": {
         "name": "INTERESTELAR",
         "url": "https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM"
       },
@@ -655,6 +711,32 @@
       "duration_ms": 173333,
       "name": "INTERESTELAR",
       "url": "https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6XromBO32uhidY3LWZORO1"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174236,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK"
     },
     {
       "album": {
@@ -777,6 +859,24 @@
       "duration_ms": 224267,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136892,
+      "name": "La Zona",
+      "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
     },
     {
       "album": {
@@ -1131,7 +1231,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 204827,
       "name": "Por El Alcohol",
       "url": "https://open.spotify.com/track/2ZeT6783LAgIqWCyAh85fO"
@@ -1411,7 +1511,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 204906,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
@@ -1451,7 +1551,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 218391,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp"
@@ -1507,7 +1607,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 298114,
       "name": "TBT (Remix) [feat. Micro TDH, Feid]",
       "url": "https://open.spotify.com/track/3PldY2CEKeIYkqtk8YkwvE"
@@ -1637,6 +1737,24 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
       "album": {

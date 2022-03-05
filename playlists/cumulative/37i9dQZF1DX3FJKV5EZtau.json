@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 222750,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/3RUrrtlLLxaB5Tny3VwBZd"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Carbonara",
       "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 185600,
       "name": "Disclosure",
       "url": "https://open.spotify.com/track/2vcJAITdwdlaZzOfOQeBYN"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 221538,
       "name": "Fire",
       "url": "https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi"
@@ -1282,6 +1282,28 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6RQpmUWs0RRvasXHuNCZl1"
+      },
+      "artists": [
+        {
+          "name": "Outwild",
+          "url": "https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W"
+        },
+        {
+          "name": "She Is Jules",
+          "url": "https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/3ElMR5XDv1fTtyfUTnVJ6s"
+    },
+    {
+      "album": {
         "name": "Good 4 Me / Union",
         "url": "https://open.spotify.com/album/2ju23lWpH7709bmoNUewp4"
       },
@@ -1293,7 +1315,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 204631,
       "name": "Good 4 Me",
       "url": "https://open.spotify.com/track/5dkTQlAVdA49mAXQSS5P9t"
@@ -1647,7 +1669,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 237600,
       "name": "Killer Robots",
       "url": "https://open.spotify.com/track/2pzujCwroe8FXGywwzDcjg"
@@ -1967,7 +1989,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 250440,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32"
@@ -2043,7 +2065,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 145920,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1LMQs29W9GOBtpR7sNRBNz"
@@ -2207,7 +2229,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 264285,
       "name": "No Regrets - Myon Return to 85 Mix",
       "url": "https://open.spotify.com/track/6Yeu8MPFcEA2DdyrQ7v9m5"
@@ -2313,7 +2335,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 349272,
       "name": "Oreo - Mura Masa eternal mix",
       "url": "https://open.spotify.com/track/6gJZurPVVhzVUMbItklP90"
@@ -2371,7 +2393,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 295384,
       "name": "Overworld",
       "url": "https://open.spotify.com/track/7FXquj6pr9L2GG0jkFauOv"
@@ -2827,7 +2849,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 218964,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2CgOd0Lj5MuvOqzqdaAXtS"
@@ -2965,7 +2987,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 246177,
       "name": "Someone Else\u2019s Dream (CASTLE. Edit)",
       "url": "https://open.spotify.com/track/56oC5buLanioZDYpK2q94t"
@@ -3153,7 +3175,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 203524,
       "name": "Sweet Treasure",
       "url": "https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte"
@@ -3533,7 +3555,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 140967,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/2hGRadiwY5G6HhI25AzZrq"

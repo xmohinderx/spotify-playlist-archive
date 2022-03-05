@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 128000,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/3bdzlLM4FEIBu7DK4NXgoZ"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 521142,
       "name": "Freestyle 2022",
       "url": "https://open.spotify.com/track/49imQJoGDnAxIgVudtpTtc"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 120312,
       "name": "Macetin",
       "url": "https://open.spotify.com/track/7toVeXnUZBu8BFz9LJ8HrH"
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 179727,
       "name": "No Baile To de Gucci",
       "url": "https://open.spotify.com/track/6pW78M2CNyXcM4m7o8D5h8"
@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 144000,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/0LZEygupU3Dztp6S5zjQLF"
@@ -2333,6 +2333,32 @@
       "duration_ms": 163404,
       "name": "PARATY",
       "url": "https://open.spotify.com/track/3379eG8dndozUeQFkKl1Pr"
+    },
+    {
+      "album": {
+        "name": "PERSONNALITE",
+        "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208910,
+      "name": "PERSONNALITE",
+      "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
     },
     {
       "album": {
@@ -2459,7 +2485,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 160000,
       "name": "Porque Elas Te Preferem",
       "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
@@ -2735,7 +2761,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 124540,
       "name": "ROM\u00c2NTICO",
       "url": "https://open.spotify.com/track/5LpbiwEEyZI6zg9thu33DK"
@@ -2769,6 +2795,36 @@
       "duration_ms": 283764,
       "name": "Salserin #2 - M\u00f3 Paz (feat. Neo Beats)",
       "url": "https://open.spotify.com/track/0euZp7Kag7ILU71jGkY3f3"
+    },
+    {
+      "album": {
+        "name": "Scooby Doo",
+        "url": "https://open.spotify.com/album/3O32msHNBmuPDpw4y9x9tZ"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Scooby Doo",
+      "url": "https://open.spotify.com/track/4H9bsNViPTJV0zNGlYJnUN"
     },
     {
       "album": {
@@ -2907,6 +2963,28 @@
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ"
+    },
+    {
+      "album": {
+        "name": "Solta o Flash",
+        "url": "https://open.spotify.com/album/54qEZ2E8bhmRGmu28huaCp"
+      },
+      "artists": [
+        {
+          "name": "Haitam",
+          "url": "https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152617,
+      "name": "Solta o Flash",
+      "url": "https://open.spotify.com/track/7vFhksN6h4Ma4gdRM4qHes"
     },
     {
       "album": {
@@ -3160,6 +3238,40 @@
     },
     {
       "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/03ItW2iGr2I1ZQdsbxfLGO"
+      },
+      "artists": [
+        {
+          "name": "Semente",
+          "url": "https://open.spotify.com/artist/3sgYQmUkRpSTtP290XIxCB"
+        },
+        {
+          "name": "SixKush",
+          "url": "https://open.spotify.com/artist/1Re5ui82KUEWwS1wbBarh0"
+        },
+        {
+          "name": "BILLY THE KIDDY",
+          "url": "https://open.spotify.com/artist/1rhFMN2qY6mYOizumuyoYG"
+        },
+        {
+          "name": "Smoke",
+          "url": "https://open.spotify.com/artist/4JOLUHjQd1JHJw5CASQg24"
+        },
+        {
+          "name": "Slow Gang",
+          "url": "https://open.spotify.com/artist/7yeB6oM65lMbOBhPsu5fzq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304102,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/2RdThV25a5I1z88BWAScEz"
+    },
+    {
+      "album": {
         "name": "Tropa dos B&A",
         "url": "https://open.spotify.com/album/3jCtITGQBnDBMddUJYnEmK"
       },
@@ -3175,6 +3287,28 @@
       "duration_ms": 231272,
       "name": "Tropa dos B&A",
       "url": "https://open.spotify.com/track/7jSKatJELedak8MrVNZCen"
+    },
+    {
+      "album": {
+        "name": "Truco",
+        "url": "https://open.spotify.com/album/6SiWkk0UEip0MeXmvmRGuR"
+      },
+      "artists": [
+        {
+          "name": "Nauta",
+          "url": "https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119729,
+      "name": "Truco",
+      "url": "https://open.spotify.com/track/2BXIh2hBpnPi57lRlySGF4"
     },
     {
       "album": {
@@ -3221,6 +3355,32 @@
       "duration_ms": 273008,
       "name": "Tudo do Melhor",
       "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
+    },
+    {
+      "album": {
+        "name": "Luzes de Neon",
+        "url": "https://open.spotify.com/album/3CzxhIOvHQlt8YlqUo6ZFD"
+      },
+      "artists": [
+        {
+          "name": "Pexande",
+          "url": "https://open.spotify.com/artist/2q0FHjgmI45xHxbdXkxYAK"
+        },
+        {
+          "name": "Di Paiva",
+          "url": "https://open.spotify.com/artist/6VgzwK3rGqvD6bkug6XYk6"
+        },
+        {
+          "name": "DogDu BEAT$",
+          "url": "https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140673,
+      "name": "Vermelho Ferrari",
+      "url": "https://open.spotify.com/track/7bGzlo9GIMPa8gONg5X8xp"
     },
     {
       "album": {

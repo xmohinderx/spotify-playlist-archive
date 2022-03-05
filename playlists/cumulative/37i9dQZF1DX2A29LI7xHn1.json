@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Crossing over like Allen I. Cover: A Boogie Wit Da Hoodie",
+  "description": "Crossing over like Allen I. Cover: DDG",
   "name": "Signed XOXO",
   "published_playlist_ids": [
     "2r5DE6CSqTiYmBM4pn2qN9"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 170702,
       "name": "About You",
       "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 144044,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/34Jpft6YC3t9TOrJUhxez7"
@@ -1202,6 +1202,28 @@
     },
     {
       "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/2D8LYZV3ShruILaKUSOYY0"
+      },
+      "artists": [
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/3L8ZXzjAUHwsJg3OCETX2Z"
+    },
+    {
+      "album": {
         "name": "Glockie",
         "url": "https://open.spotify.com/album/5b4OKSVVG2Vi1IqWox2ggs"
       },
@@ -1213,7 +1235,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 153600,
       "name": "Glockie",
       "url": "https://open.spotify.com/track/7rYbn9y2AoaNP5aWzcdRbd"
@@ -1751,6 +1773,28 @@
       "duration_ms": 229253,
       "name": "Mr. Jones (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/3QPZqYIzgEXbVouiHpu7wR"
+    },
+    {
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "My Fault",
+      "url": "https://open.spotify.com/track/0IZPY0PujmPeXyhYFngvsS"
     },
     {
       "album": {
@@ -2437,7 +2481,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 171938,
       "name": "Run It Up (feat. Sleepy Hallow & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/1GjWE4T7qZNeIy1hgm98R9"
@@ -2595,10 +2639,94 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 190224,
       "name": "Single & Happy (feat. Wale & Eric Bellinger)",
       "url": "https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi"
+    },
+    {
+      "album": {
+        "name": "Sl*t Him Out Again (feat. Kali)",
+        "url": "https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232873,
+      "name": "Sl*t Him Out Again (feat. Kali)",
+      "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166678,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "album": {
+        "name": "Still Here (feat. Cordae)",
+        "url": "https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196066,
+      "name": "Still Here (feat. Cordae)",
+      "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
     },
     {
       "album": {
@@ -2613,7 +2741,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 146713,
       "name": "Summer Luv",
       "url": "https://open.spotify.com/track/3Hf0F9eDNqdtBq00PAtDa4"

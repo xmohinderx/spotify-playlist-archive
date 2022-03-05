@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Admire",
+        "url": "https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg"
+      },
+      "artists": [
+        {
+          "name": "Jake Davey",
+          "url": "https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214668,
+      "name": "Admire",
+      "url": "https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg"
+    },
+    {
+      "album": {
         "name": "The Country And The Coast Side A",
         "url": "https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R"
       },
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
@@ -548,6 +566,24 @@
     },
     {
       "album": {
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
         "name": "Get It Girl",
         "url": "https://open.spotify.com/album/4YMLdLyEfY41B8PlFBUFQ5"
       },
@@ -613,7 +649,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 196214,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3e8guey6EYihDMOgFmUsAv"
@@ -707,10 +743,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 206906,
       "name": "Growing Old Young",
       "url": "https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2"
+    },
+    {
+      "album": {
+        "name": "Happy in This Bar",
+        "url": "https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl"
+      },
+      "artists": [
+        {
+          "name": "Halle Kearns",
+          "url": "https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157133,
+      "name": "Happy in This Bar",
+      "url": "https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ"
     },
     {
       "album": {
@@ -747,6 +801,24 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201273,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1"
     },
     {
       "album": {
@@ -845,7 +917,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 193154,
       "name": "Just the Way (feat. Bryce Vine)",
       "url": "https://open.spotify.com/track/4K3yNCPmLL8pRffpLBJkLR"
@@ -1105,7 +1177,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 166823,
       "name": "Redneck Be Like",
       "url": "https://open.spotify.com/track/00R3xLkJsIxENOc3qA4CDA"
@@ -1167,6 +1239,24 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+    },
+    {
+      "album": {
+        "name": "Shes The One",
+        "url": "https://open.spotify.com/album/3ka1YGa2qQHfB7OfTx3KJw"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Joudo",
+          "url": "https://open.spotify.com/artist/2gfAOvUByRRsIwjifbOKxC"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211962,
+      "name": "She's The One",
+      "url": "https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9"
     },
     {
       "album": {

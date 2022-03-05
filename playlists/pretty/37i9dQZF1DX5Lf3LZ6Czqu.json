@@ -1,13 +1,29 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Paul Gilbert",
-  "num_followers": 89689,
+  "num_followers": 89741,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxNzIxOSwwMDAwMDAyMjAwMDAwMTdlMjYyMTNiNDEwMDAwMDE3ZDk1ZTlhYmE4",
+  "snapshot_id": "MTY0NjM3MDA2MCwwMDAwMDAyMzAwMDAwMTdmNTM0ZDc3YWQwMDAwMDE3ZDk1ZTlhYmE4",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Headless Chicken",
+        "url": "https://open.spotify.com/album/4dZ8oDnHYryYJ66VKiBjxD"
+      },
+      "artists": [
+        {
+          "name": "Marbin",
+          "url": "https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16"
+        }
+      ],
+      "duration_ms": 519625,
+      "name": "Headless Chicken",
+      "url": "https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N"
+    },
     {
       "added_at": "2021-07-30 04:01:00",
       "album": {

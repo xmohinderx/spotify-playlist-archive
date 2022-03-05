@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,115 likes - 57 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,249 likes - 57 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Easy On Me](https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3) | 3:16 |
 | 2 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 |
 | 3 | [Make You Feel My Love](https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Make You Feel My Love](https://open.spotify.com/album/60MO7vPyBBFzhsL7UBcxAJ) | 3:11 |
-| 4 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
+| 4 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
 | 5 | [drivers license \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [drivers license \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF) | 4:02 |
 | 6 | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ) | 3:07 |
 | 7 | [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 |

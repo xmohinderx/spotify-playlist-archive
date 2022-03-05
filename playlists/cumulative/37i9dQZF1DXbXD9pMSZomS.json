@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 340645,
       "name": "14 Joints in a Spaceship",
       "url": "https://open.spotify.com/track/43cNetCz4Hs4Y8SQ7ZHYUs"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 312304,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 345341,
       "name": "Business Rework - Felipe Gordon Rework",
       "url": "https://open.spotify.com/track/57E2x6NdqRtedmZsOuFOR4"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 235125,
       "name": "Can't see me",
       "url": "https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 379784,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3NN6YXqfnhqrzyTM2idZdo"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 368172,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/1hnANA1tO5FrQuy8rXsO2x"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/1eaFEHIMGrTJ5hyPoPhq9v"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 267326,
       "name": "LS Anthem",
       "url": "https://open.spotify.com/track/2XWMTMDNwFXhyixyVRGo47"
@@ -1682,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "Star Flyer",
+        "url": "https://open.spotify.com/album/0OkMGSt24GehRKh3U11TGL"
+      },
+      "artists": [
+        {
+          "name": "Jules Gaia",
+          "url": "https://open.spotify.com/artist/7GXiq6QQjWFEgHjd3TRaCt"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125989,
+      "name": "Star Flyer",
+      "url": "https://open.spotify.com/track/7CxXCg6v9ZDNC0osqTFV61"
+    },
+    {
+      "album": {
         "name": "Room for Thought",
         "url": "https://open.spotify.com/album/5EjPFBdTPs7tFd2N1K9spD"
       },
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 403821,
       "name": "Through The Pressure",
       "url": "https://open.spotify.com/track/46nxNiDM5C9Z0ppVTkn1Tc"

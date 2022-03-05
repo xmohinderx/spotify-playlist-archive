@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 229426,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7s8slcfStICYWbPUwf983B"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 183551,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/5eMzR6D1oiZd6uPbYijJVs"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189213,
       "name": "I Got You on My Mind",
       "url": "https://open.spotify.com/track/2yDmtELC2x3qNbJRfnFmga"
@@ -1361,6 +1361,24 @@
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "album": {
+        "name": "If It's Cool With You, I'm Cool With Being Through",
+        "url": "https://open.spotify.com/album/0ny7XUdcuKAHbTWRAKTjwA"
+      },
+      "artists": [
+        {
+          "name": "This Wild Life",
+          "url": "https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "If It's Cool With You, I'm Cool With Being Through",
+      "url": "https://open.spotify.com/track/0shbrNXspWANKNatl7E4OD"
     },
     {
       "album": {
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 216003,
       "name": "Powder Blue",
       "url": "https://open.spotify.com/track/0Ba3AAdXs6teCiYHveUgbS"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 144506,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 202110,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 228920,
       "name": "What to Do",
       "url": "https://open.spotify.com/track/01yXBrB0ddIzRaIfGk3ZrG"

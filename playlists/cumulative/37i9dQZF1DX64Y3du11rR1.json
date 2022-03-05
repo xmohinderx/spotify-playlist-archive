@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA"
+      },
+      "artists": [
+        {
+          "name": "Los Types",
+          "url": "https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK"
+    },
+    {
+      "album": {
         "name": "A Sky Full of Stars",
         "url": "https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ"
       },

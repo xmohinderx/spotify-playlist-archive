@@ -508,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Cuanto Te Quiero",
+        "url": "https://open.spotify.com/album/4FR6ToYaoCyrPf860qT9rS"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos",
+          "url": "https://open.spotify.com/artist/5CiyC1jDIrnOvvtmX2OwLZ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Cuanto Te Quiero",
+      "url": "https://open.spotify.com/track/6pFtckyqZ1TZivTyHudgXq"
+    },
+    {
+      "album": {
         "name": "Ustedes Lo Hicieron Posible, Gracias!",
         "url": "https://open.spotify.com/album/4N1yJatkYhl9ErFagjQZp9"
       },
@@ -645,7 +663,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 120592,
       "name": "Dile Tu - En Vivo",
       "url": "https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 324789,
       "name": "No Estamos los Dos",
       "url": "https://open.spotify.com/track/4rB7If7QkuWwFgGoAFHSxB"
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 158600,
       "name": "No Me Digas Adios",
       "url": "https://open.spotify.com/track/3Q4WdLlnbft9r8RW4dR5Xs"
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -3123,7 +3141,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 204293,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/53NcJRablHg60JNQUlgNNY"

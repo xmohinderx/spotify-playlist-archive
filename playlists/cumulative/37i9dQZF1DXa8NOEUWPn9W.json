@@ -144,6 +144,28 @@
     },
     {
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    {
+      "album": {
         "name": "Acrobatic",
         "url": "https://open.spotify.com/album/4WlE77ssw7RCSHNfbBPwoT"
       },
@@ -455,7 +477,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 199384,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG"
@@ -1057,7 +1079,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
@@ -1623,6 +1645,24 @@
       "duration_ms": 203000,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0s2Xg9JK4pRQ3KSoeSPI8X"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting",
+        "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209687,
+      "name": "Don\u2019t Keep Me Waiting",
+      "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
     },
     {
       "album": {
@@ -2341,7 +2381,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 426000,
       "name": "Heater",
       "url": "https://open.spotify.com/track/3bJwiNmreZkHXjeuFmW8bG"
@@ -2553,7 +2593,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 190208,
       "name": "I'll Take You Down (feat. Chilli Chilton)",
       "url": "https://open.spotify.com/track/1XfkucWcvN121yy1b2MoD5"
@@ -2651,7 +2691,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 288238,
       "name": "Insomnia 2021 - Epic Edit",
       "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
@@ -2873,7 +2913,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 149222,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/2YCaWWFaJafLTak3gzwk2N"
@@ -2921,7 +2961,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174600,
       "name": "La candela viva",
       "url": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
@@ -3137,7 +3177,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 172825,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/5eV4sUsCLKTkrjtNc3eWWV"
@@ -3257,7 +3297,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 180719,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
@@ -4479,7 +4519,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 249453,
       "name": "Relationship Is",
       "url": "https://open.spotify.com/track/3o0Cq92OL7QnXJUY4F6zBz"
@@ -4861,7 +4901,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 223384,
       "name": "Soul System",
       "url": "https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1"
@@ -5466,6 +5506,28 @@
     },
     {
       "album": {
+        "name": "Togetherness",
+        "url": "https://open.spotify.com/album/6fh4UOwrr34e2yTDWnsA3f"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "hermixalot",
+          "url": "https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/4aXij4j5BNOKKNrxgA6wc6"
+    },
+    {
+      "album": {
         "name": "True Love to the Grave (feat. Claudia Kane)",
         "url": "https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG"
       },
@@ -5715,7 +5777,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 160669,
       "name": "Welcome To The People",
       "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
@@ -6169,7 +6231,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 191533,
       "name": "Zero",
       "url": "https://open.spotify.com/track/7hlbz0g2tpoBTPvLLEWKWR"

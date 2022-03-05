@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
@@ -3767,7 +3767,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
@@ -4983,7 +4983,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -5041,6 +5041,24 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9"
+    },
+    {
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "album": {

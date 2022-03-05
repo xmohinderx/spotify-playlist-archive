@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 153266,
       "name": "A Little Ditty",
       "url": "https://open.spotify.com/track/42VMpSBAi6OYLoxdxPqVF5"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/7tNoESflewtLqMdvgUuE3e"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 216680,
       "name": "Chaos Space Marine",
       "url": "https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 226973,
       "name": "Courtesy Call",
       "url": "https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 190875,
       "name": "Disposable",
       "url": "https://open.spotify.com/track/7as7JjtXYlzWXkesWJv3wZ"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 155493,
       "name": "Fine Dining",
       "url": "https://open.spotify.com/track/31MASht0doFNCs2ev9tMqV"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 202986,
       "name": "Fried",
       "url": "https://open.spotify.com/track/0yHJ0oAtSWgYWqG0a86GLA"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 183922,
       "name": "hollow scene",
       "url": "https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI"
@@ -1546,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "Jackie Down The Line",
+        "url": "https://open.spotify.com/album/194s8X2fl22otVaRdWSm9Q"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Jackie Down The Line",
+      "url": "https://open.spotify.com/track/6FDrld0oPlhhRKItogchWo"
+    },
+    {
+      "album": {
         "name": "Jealous Guy",
         "url": "https://open.spotify.com/album/3cApHYpAFwXfBe70AvhbGW"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 144200,
       "name": "Knife on the Platter",
       "url": "https://open.spotify.com/track/3ue21ZrK1pzDJXi0cicq7T"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 195253,
       "name": "Life\u2019s Lemons",
       "url": "https://open.spotify.com/track/25V1oMTIao8HcZdirSGVBT"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4"
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 177120,
       "name": "Nite Expo",
       "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 223067,
       "name": "NOTICE OF FORECLOSURE",
       "url": "https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 413721,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1ulRN20ts4efc3DHKABsVu"
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 200226,
       "name": "Pour Another",
       "url": "https://open.spotify.com/track/3wcBaL5KuXA4uVF6SzsjXT"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 305899,
       "name": "Processed By The Boys",
       "url": "https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT"
@@ -2523,7 +2541,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 178608,
       "name": "Scrappers",
       "url": "https://open.spotify.com/track/14IvWKgBAZojoDYvlI0MGd"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "Shiny New Model",
       "url": "https://open.spotify.com/track/5Blr6wOtVsOujq4YsTDETf"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 300820,
       "name": "Sludge",
       "url": "https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 191266,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/3zCp3vtCQD11S9VyqHVQlN"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 276002,
       "name": "Sunglasses - Edit",
       "url": "https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz"
@@ -2945,7 +2963,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 222840,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS"

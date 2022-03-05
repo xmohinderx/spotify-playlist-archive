@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The names you know and the names you need to know in hip-hop. Cover: Central Cee",
+  "description": "The names you know and the names you need to know in hip-hop. Cover: DJ Charlie B, Pressa",
   "name": "Hip-Hop Central",
   "published_playlist_ids": [
     "524c90ob7nnH5efTtaRnrW"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 149304,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/2l9m4igR1iU8tqTgVWtjwp"
@@ -299,6 +299,24 @@
       "duration_ms": 200000,
       "name": "Banking On Me",
       "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "album": {
+        "name": "Beat The Streets",
+        "url": "https://open.spotify.com/album/5b8LqxodAqVzwPvozld6ty"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Beat The Streets",
+      "url": "https://open.spotify.com/track/3z8OCUCuwJop3DB4tIMsRX"
     },
     {
       "album": {
@@ -803,7 +821,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 133613,
       "name": "Don't Play That",
       "url": "https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208000,
       "name": "Elegance (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/3oO2XyRdK811tVYax3qEAZ"
@@ -1056,6 +1074,32 @@
     },
     {
       "album": {
+        "name": "World of Trouble",
+        "url": "https://open.spotify.com/album/15591bTnDApAgFAbDazNBI"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176151,
+      "name": "Find That Girl",
+      "url": "https://open.spotify.com/track/130HryWoyeI6Y7JxkWoLkN"
+    },
+    {
+      "album": {
         "name": "Colors (Deluxe)",
         "url": "https://open.spotify.com/album/23xXG1FGqcdDVUCUIfTuUt"
       },
@@ -1067,7 +1111,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 170958,
       "name": "Fish Scale",
       "url": "https://open.spotify.com/track/116HT0QgVhzSxydCwRgpTY"
@@ -1176,6 +1220,28 @@
     },
     {
       "album": {
+        "name": "G Lock",
+        "url": "https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190812,
+      "name": "G Lock",
+      "url": "https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC"
+    },
+    {
+      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ"
       },
@@ -1195,6 +1261,28 @@
       "duration_ms": 211306,
       "name": "Getcho Mans",
       "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
+    },
+    {
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/2D8LYZV3ShruILaKUSOYY0"
+      },
+      "artists": [
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/3L8ZXzjAUHwsJg3OCETX2Z"
     },
     {
       "album": {
@@ -1304,6 +1392,46 @@
     },
     {
       "album": {
+        "name": "Head High",
+        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Head High",
+      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+    },
+    {
+      "album": {
+        "name": "Hear Me Clearly",
+        "url": "https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141547,
+      "name": "Hear Me Clearly (with Nigo)",
+      "url": "https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS"
+    },
+    {
+      "album": {
         "name": "HIT",
         "url": "https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv"
       },
@@ -1323,6 +1451,28 @@
       "duration_ms": 125498,
       "name": "HIT",
       "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
+    },
+    {
+      "album": {
+        "name": "Hit Different (feat. B-Lovee)",
+        "url": "https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183941,
+      "name": "Hit Different (feat. B-Lovee)",
+      "url": "https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp"
     },
     {
       "album": {
@@ -1903,7 +2053,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 141333,
       "name": "Money Showers",
       "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
@@ -2077,7 +2227,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 182487,
       "name": "Non Judgmental",
       "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
@@ -2287,7 +2437,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 154510,
       "name": "PBC",
       "url": "https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU"
@@ -2331,7 +2481,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 183333,
       "name": "Poke It Out (feat. J. Cole)",
       "url": "https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7"
@@ -2858,6 +3008,28 @@
     },
     {
       "album": {
+        "name": "Still Here (feat. Cordae)",
+        "url": "https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196066,
+      "name": "Still Here (feat. Cordae)",
+      "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -2873,6 +3045,28 @@
       "duration_ms": 196939,
       "name": "Straight Back to It",
       "url": "https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4"
+    },
+    {
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Straight To It (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O"
     },
     {
       "album": {
@@ -3288,6 +3482,28 @@
     },
     {
       "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1"
+    },
+    {
+      "album": {
         "name": "4NEM",
         "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
       },
@@ -3409,7 +3625,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 190261,
       "name": "Wave Gods",
       "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
@@ -3577,7 +3793,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 210430,
       "name": "Zatoichi [Feat. slowthai]",
       "url": "https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6"

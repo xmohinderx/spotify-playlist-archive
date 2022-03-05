@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 226440,
       "name": "Award Tour",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 295120,
       "name": "Black Mirror",
       "url": "https://open.spotify.com/track/23rvx8Jjqkg2FsrF5tLsNK"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 350400,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 276373,
       "name": "Grown Man Sport",
       "url": "https://open.spotify.com/track/21OFDy7FkKbvKjB3X3aMTq"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 329000,
       "name": "His Pain",
       "url": "https://open.spotify.com/track/2uujJLrRplaQMkEx8CybZ8"
@@ -2934,6 +2934,24 @@
     },
     {
       "album": {
+        "name": "Internal Affairs",
+        "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Queens",
+      "url": "https://open.spotify.com/track/2iUiX1Tez9E7pAO7hNtIdQ"
+    },
+    {
+      "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/3ksIR7hJn2s2e4Fj86FTOX"
       },
@@ -3435,7 +3453,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 271053,
       "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
       "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
@@ -4017,7 +4035,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 228992,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/24zYzUI3WjerBzqO3Vj2BC"
@@ -4035,7 +4053,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
@@ -4123,7 +4141,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 150561,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"

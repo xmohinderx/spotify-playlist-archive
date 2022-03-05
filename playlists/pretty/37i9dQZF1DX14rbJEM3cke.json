@@ -1,13 +1,53 @@
 {
   "description": "New Rock driving the current, every week. Cover Kamiyada+",
-  "num_followers": 11399,
+  "num_followers": 11412,
   "original_name": "Rock Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTMyMCwwMDAwMDAxMTAwMDAwMTdmMmY0MWRkOTAwMDAwMDE3ZWQ1NzEyN2Y1",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAxMjAwMDAwMTdmNTM0YzhkMzgwMDAwMDE3ZWQ1NzEyN2Y1",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Hi-De-Ho",
+        "url": "https://open.spotify.com/album/4oAHIlamiKhZ6wg1lXbAdG"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 236536,
+      "name": "Hi-De-Ho",
+      "url": "https://open.spotify.com/track/3GkZwRXM2Dsd8c25qYSmGU"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Nothing Feels The Same",
+        "url": "https://open.spotify.com/album/515rtQrzLwPpwdCTfJdefa"
+      },
+      "artists": [
+        {
+          "name": "Chris Miles",
+          "url": "https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i"
+        },
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Nothing Feels The Same",
+      "url": "https://open.spotify.com/track/3zCnua0vS5z5znRZANOdPD"
+    },
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
@@ -57,6 +97,22 @@
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "SUCKAPUNCH",
+      "url": "https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Smack a Bitch",
@@ -91,6 +147,22 @@
       "duration_ms": 217512,
       "name": "Come Home feat. Ayla Tesler-Mabe",
       "url": "https://open.spotify.com/track/7GVgDSeuspSUANtLBmZi0D"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/1S3YhavDzM2XHiZbTjNdIs"
+      },
+      "artists": [
+        {
+          "name": "Chief Cleopatra",
+          "url": "https://open.spotify.com/artist/4JtoyhF0vrGEvOh0O6z2vK"
+        }
+      ],
+      "duration_ms": 234389,
+      "name": "Nine Inch Nail",
+      "url": "https://open.spotify.com/track/0aAfcurVtjspu4S7SLNy4B"
     },
     {
       "added_at": "2022-02-25 05:02:00",

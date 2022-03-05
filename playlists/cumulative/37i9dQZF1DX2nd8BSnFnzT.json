@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Detonautas Roque Clube",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Di Ferrero, Clarissa",
   "name": "P\u00e1tria Rock",
   "published_playlist_ids": [
     "0QCUPVPm5DzTYPmApO8yZ5"
@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Brasil 2000",
+        "url": "https://open.spotify.com/album/3dGSyLAl6yalKGOpHE0rg2"
+      },
+      "artists": [
+        {
+          "name": "Os Roucos",
+          "url": "https://open.spotify.com/artist/1mZXgYy65PyfmSu3soYrPs"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185126,
+      "name": "Brasil 2000",
+      "url": "https://open.spotify.com/track/046kpjWkxbBBnuEhHJlnq6"
+    },
+    {
+      "album": {
         "name": "Bucket List",
         "url": "https://open.spotify.com/album/0n1EoMUN7d1ZrNvAjQIvH0"
       },
@@ -406,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Descansa",
+        "url": "https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169788,
+      "name": "DESCANSA",
+      "url": "https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j"
+    },
+    {
+      "album": {
         "name": "Dia 14, Pt. 2",
         "url": "https://open.spotify.com/album/597wL7HG0FMUntbLLM9ZGp"
       },
@@ -479,7 +519,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 203077,
       "name": "DISC\u00d3RDIA",
       "url": "https://open.spotify.com/track/3uJ7nGe0COVBFMWcoUvTmD"
@@ -1307,7 +1347,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 171396,
       "name": "O Que Fazer",
       "url": "https://open.spotify.com/track/12aZo49DuRM8CtQz0ye9Re"

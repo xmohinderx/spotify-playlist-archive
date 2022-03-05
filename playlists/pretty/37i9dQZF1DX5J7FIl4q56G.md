@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,164 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,725 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

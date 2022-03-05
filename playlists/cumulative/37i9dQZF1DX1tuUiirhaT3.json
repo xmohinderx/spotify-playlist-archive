@@ -63,6 +63,24 @@
     {
       "album": {
         "name": "Above The Trees",
+        "url": "https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX"
+      },
+      "artists": [
+        {
+          "name": "Ashagen",
+          "url": "https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203729,
+      "name": "Above The Trees",
+      "url": "https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN"
+    },
+    {
+      "album": {
+        "name": "Above The Trees",
         "url": "https://open.spotify.com/album/5A02FmfjCW12ChMUxc3PXn"
       },
       "artists": [
@@ -618,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Spiritualizer",
+        "url": "https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP"
+      },
+      "artists": [
+        {
+          "name": "Spiritualizer",
+          "url": "https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Delta Spirit",
+      "url": "https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ"
       },
@@ -993,6 +1029,24 @@
       "duration_ms": 185156,
       "name": "Friendly Fall",
       "url": "https://open.spotify.com/track/5h2vwZOiGeBXbV1FwiZKaQ"
+    },
+    {
+      "album": {
+        "name": "From Sharavati",
+        "url": "https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm"
+      },
+      "artists": [
+        {
+          "name": "Dormironauts",
+          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "From Sharavati",
+      "url": "https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK"
     },
     {
       "album": {
@@ -1421,7 +1475,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 301714,
       "name": "Le Djonk Calme",
       "url": "https://open.spotify.com/track/7pkLnul01bkK0QwuBqnAGK"

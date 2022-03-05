@@ -2,7 +2,7 @@
 
 ### [Rock This](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
 
-> The newest from Avril Lavigne along with the top Rock songs you need to know.
+> The newest from Sueco along with the top Rock songs you need to know.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Brother the Cloud](https://open.spotify.com/track/3SQeF7y4ZKFaHiLkfw6CnW) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:22 | 2022-02-11 |  |
 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 | 2022-01-14 | 2022-02-12 |
+| [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-03-04 |  |
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2021-12-10 |  |
 | [Dad Vibes](https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:12 | 2021-12-03 |  |
 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 | 2021-10-20\* | 2021-10-31 |
@@ -59,7 +60,8 @@
 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 | 2022-02-25 |  |
 | [Lifeline](https://open.spotify.com/track/7ALsy4QJ5BdzWiHbJPglf6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Lifeline](https://open.spotify.com/album/4ByxEMaefZBFPA3LqYrQOv) | 3:13 | 2021-10-29 | 2022-02-26 |
 | [Light My Love](https://open.spotify.com/track/4iya38ctQ1httyA6NOG9oW) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Battle at Garden’s Gate](https://open.spotify.com/album/7kjLKy9JLbwM9F7eDQEnd2) | 4:30 | 2021-10-20\* | 2021-10-23 |
-| [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-01-28 |  |
+| [Loser](https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:13 | 2022-03-04 |  |
+| [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-01-28 | 2022-03-05 |
 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 | 2022-01-07 |  |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-02-11 |  |
 | [Making A Fire](https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:15 | 2021-06-18 | 2022-01-08 |
@@ -90,7 +92,7 @@
 | [Smile](https://open.spotify.com/track/6HegTbeiZZ9iN6Dp3TLJhx) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/58G23MFuYELVcqdaQYWmAM) | 3:16 | 2021-10-29 |  |
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2021-12-10 |  |
 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 | 2022-01-07 |  |
-| [Supercharged](https://open.spotify.com/track/1C4V5YwbuMEcQgsNV3Sapg) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:02 | 2021-10-29 |  |
+| [Supercharged](https://open.spotify.com/track/1C4V5YwbuMEcQgsNV3Sapg) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:02 | 2021-10-29 | 2022-03-05 |
 | [Survivor](https://open.spotify.com/track/4xdUk9rp5wOd3ZLwwNfjwd) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Survivor](https://open.spotify.com/album/7zsfcfnaarayjDTB4KBRDV) | 4:02 | 2021-08-06 |  |
 | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/album/6rLcLYKvxCCqp78ZYXXXMy) | 2:48 | 2021-10-20\* | 2021-11-20 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-06-18 |  |

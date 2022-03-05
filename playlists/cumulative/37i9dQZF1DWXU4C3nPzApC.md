@@ -2,7 +2,7 @@
 
 ### [Very Nearly Nashville](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 
-> The best music with a Nashville flavour\. Cover: The Shires
+> The best music with a Nashville flavour\. Cover: Twinnie
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Leave it behind](https://open.spotify.com/track/5VnWQdTTldYQRFuULRLoNd) | [Moel Fferna](https://open.spotify.com/artist/6MJYnHunuVc6dTtelGj0CR), [Laura Oakes](https://open.spotify.com/artist/6BBgmZfRhIwVH7ixqJapVr) | [Leave it behind](https://open.spotify.com/album/0jmwIcLkWXBzrJ1kehDYxg) | 3:14 | 2021-12-17 | 2022-01-12 |
 | [Light Year](https://open.spotify.com/track/30cNitQYZeICMATH0G7kfb) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 3:39 | 2021-12-17 |  |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-12-17 |  |
-| [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-12-17 |  |
+| [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-12-17 | 2022-03-05 |
 | [Little House Big Love](https://open.spotify.com/track/3qaFMNCJrxzO8o5Yi13uwN) | [Jack & Tim](https://open.spotify.com/artist/1fgrPRvmKUdRM6nwm3skRB) | [Little House Big Love](https://open.spotify.com/album/0qHXZk39IiGrPUhj2UwtS3) | 3:03 | 2021-12-17 |  |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2022-01-11 |  |
 | [Moonstar](https://open.spotify.com/track/6XJfecxMzGgOqtMsCSMUOy) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Moonstar](https://open.spotify.com/album/2a7Iemv4KcVROkxXOKQ1Mg) | 2:57 | 2021-12-17 |  |
@@ -59,6 +59,7 @@
 | [Talk to Me](https://open.spotify.com/track/75k7MsFFQkNnJ0PSddPqCQ) | [Brooke Law](https://open.spotify.com/artist/0mDLTE0tzaN3lPl91t550q) | [Talk to Me](https://open.spotify.com/album/5q3aM991a3xOTd1FDlNJ1W) | 2:51 | 2021-12-17 | 2022-01-12 |
 | [Thank You](https://open.spotify.com/track/41CZ0ERIZE6HV5j28LbZ5J) | [Hollie Shearer](https://open.spotify.com/artist/4eAhHb9zMpb3ZCYrNVVtOu) | [Thank You](https://open.spotify.com/album/4CbF1PlKGrpwgRcJCGY2z2) | 3:07 | 2021-12-17 |  |
 | [Want It Again](https://open.spotify.com/track/0I3oSMNUCUBf6lqyZEsCte) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg) | 2:52 | 2021-12-17 |  |
+| [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-03-04 |  |
 | [Why Are We Making It So Hard?](https://open.spotify.com/track/5XkHJa65PQTLdEjQloGct9) | [Lauren Housley](https://open.spotify.com/artist/1GLRGBLmRIc3p0mVq4F0J3) | [Girl From The North](https://open.spotify.com/album/1vGs33XK2R675HngDM4O2W) | 4:08 | 2021-12-17 | 2022-01-12 |
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2022-01-11 |  |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-17 |  |

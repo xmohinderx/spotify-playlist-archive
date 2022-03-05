@@ -64,6 +64,24 @@
     },
     {
       "album": {
+        "name": "A Mover el Cuello",
+        "url": "https://open.spotify.com/album/6tdQn4T7ptDLWzbz5dNplg"
+      },
+      "artists": [
+        {
+          "name": "Adan Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "A Mover el Cuello",
+      "url": "https://open.spotify.com/track/7tADtBNDO52AYYTjclVN6o"
+    },
+    {
+      "album": {
         "name": "Adicci\u00f3n",
         "url": "https://open.spotify.com/album/6YpHJ8Zvxhtc7fS8BgBnUr"
       },
@@ -237,6 +255,24 @@
       "duration_ms": 202984,
       "name": "Bien Volao",
       "url": "https://open.spotify.com/track/6TUKepB1r3nO83EopKBV5o"
+    },
+    {
+      "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
     },
     {
       "album": {
@@ -493,6 +529,24 @@
       "duration_ms": 203600,
       "name": "Diecis\u00e9is por Cuatro",
       "url": "https://open.spotify.com/track/1IImnpTzv5VGDYhNHqxWuv"
+    },
+    {
+      "album": {
+        "name": "Don Quijote",
+        "url": "https://open.spotify.com/album/1kaqwJoaGilRwKnrJ5wjv6"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162007,
+      "name": "Don Quijote",
+      "url": "https://open.spotify.com/track/76IsXl3qjqwdi0i5T7JlYj"
     },
     {
       "album": {
@@ -837,7 +891,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 204000,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/2zTggRQD6tFBxToCtSIW2n"
@@ -867,6 +921,32 @@
       "duration_ms": 257174,
       "name": "La Muerte Se Fue",
       "url": "https://open.spotify.com/track/7GNwZl8lvyf4jELBSQNX5v"
+    },
+    {
+      "album": {
+        "name": "Llegue Pa Hacer Billetes",
+        "url": "https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Oregel",
+          "url": "https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Llegue Pa Hacer Billetes",
+      "url": "https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT"
     },
     {
       "album": {
@@ -1099,7 +1179,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 196370,
       "name": "M\u00e1quina de escribir",
       "url": "https://open.spotify.com/track/3ZOjsCJn1IrMaUvhX4eDje"
@@ -1621,7 +1701,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/1nvygjj05E6AK7qR44AP8i"
@@ -1989,7 +2069,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 270575,
       "name": "TUY",
       "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"

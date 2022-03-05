@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Worship now with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more! Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,588 likes - 92 songs - 8 hr 38 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,596 likes - 92 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 45 | [Faithful](https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb) | 4:44 |
 | 46 | [Something About That Name](https://open.spotify.com/track/68qm1xj2QTa1aRO0qqN8Vx) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:32 |
 | 47 | [Battle Belongs](https://open.spotify.com/track/6QNTTFtVslpomCt0sOQ7RJ) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Battle Belongs](https://open.spotify.com/album/6yPSq0owFKBgD6UKTrglA2) | 4:44 |
-| 48 | [What He's Done](https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 3:37 |
-| 49 | [Coming Awake](https://open.spotify.com/track/4IrBvohq6d8lm9JBimp0rZ) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Coming Awake](https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh) | 3:57 |
-| 50 | [Raise A Hallelujah \- Live From Passion 2020](https://open.spotify.com/track/7GT8eex9MR0kW80XSMYlYg) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:39 |
+| 48 | [Coming Awake](https://open.spotify.com/track/4IrBvohq6d8lm9JBimp0rZ) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Coming Awake](https://open.spotify.com/album/0RhmEZXAUjVkLwWdcTqksh) | 3:57 |
+| 49 | [Raise A Hallelujah \- Live From Passion 2020](https://open.spotify.com/track/7GT8eex9MR0kW80XSMYlYg) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:39 |
+| 50 | [Speak O Lord \- Live](https://open.spotify.com/track/2b96tmoGtUNQdWlQGbgkiN) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Speak O Lord \(Live\)](https://open.spotify.com/album/0saO1MoWHiHtuCTw8pHEBY) | 3:41 |
 | 51 | [Rest on Us](https://open.spotify.com/track/5eb1zSp4vkky4i3nN5xCzt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Eniola Abioye](https://open.spotify.com/artist/3j9C4kOSV5gjlkQFK0bE8W) | [Move Your Heart](https://open.spotify.com/album/2rOZswj1Kdxl7mQgVeqjNq) | 5:37 |
 | 52 | [Too Good To Not Believe](https://open.spotify.com/track/5F24AeQlGfBxwa8WrFR3QQ) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Too Good To Not Believe](https://open.spotify.com/album/0YvKvDWeeUTKdcDLpFpcy2) | 5:32 |
 | 53 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 91 | [Wildfire \- Live](https://open.spotify.com/track/0Ts2lin2ZV1MQrXR1NvGKV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Housefires VII \(Live\)](https://open.spotify.com/album/2yEbZPmuoM5cXTxZoxpkFC) | 6:20 |
 | 92 | [Do It Again](https://open.spotify.com/track/3IVoTSr3MHv8gClp6wGmQi) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:33 |
 
-Snapshot ID: `NjAxMiwzZjVlMzRiNTM0ZTg1ZmI0ZDA3ZDBmMzFmODA4YTBiMzI2ODIzZWYz`
+Snapshot ID: `NjAxNywxNDQwNzQ4ZTRhMWRlYWZiYjljY2EzYzMzYzI5MjY3Mzc2MjhlMjZm`

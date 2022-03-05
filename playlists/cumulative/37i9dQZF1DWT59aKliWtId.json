@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A quality alternative blend. Cover: Regina Spektor",
+  "description": "A quality alternative blend. Cover: Band of Horses",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 223626,
       "name": "A Wave Across A Bay",
       "url": "https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI"
@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+    },
+    {
+      "album": {
         "name": "Anyone For You (Tiger Lily)",
         "url": "https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j"
       },
@@ -129,7 +147,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187682,
-      "name": "Anyone For You - Tiger Lily",
+      "name": "Anyone For You (Tiger Lily)",
       "url": "https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL"
     },
     {
@@ -311,7 +329,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168887,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/3TIoOu5ZQwcHI41kH047gT"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174347,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 225733,
       "name": "Connection",
       "url": "https://open.spotify.com/track/5bcuTbaK9Ff2b0BxPayGmh"
@@ -589,10 +607,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
+    },
+    {
+      "album": {
+        "name": "Things Are Great",
+        "url": "https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/2QpvldSBDfPtduEVC9jm9O"
     },
     {
       "album": {
@@ -677,6 +713,24 @@
       "duration_ms": 205360,
       "name": "Danger",
       "url": "https://open.spotify.com/track/5KzwHKqX7NZXgO54FjgRpp"
+    },
+    {
+      "album": {
+        "name": "Devil I Know",
+        "url": "https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau"
     },
     {
       "album": {
@@ -875,7 +929,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 178168,
       "name": "Everybody (feat. Jenny Lewis)",
       "url": "https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL"
@@ -1073,7 +1127,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 151515,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
@@ -1185,6 +1239,24 @@
       "duration_ms": 197737,
       "name": "Head Right",
       "url": "https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs"
+    },
+    {
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226492,
+      "name": "Heavy Heart - Edit",
+      "url": "https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw"
     },
     {
       "album": {
@@ -1712,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
+    },
+    {
+      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/5XESkiNh8sT8Hn5lrjZWia"
       },
@@ -1799,7 +1889,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
@@ -2193,7 +2283,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
@@ -2352,6 +2442,24 @@
     },
     {
       "album": {
+        "name": "LP3",
+        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210608,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
+    },
+    {
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
       },
@@ -2385,6 +2493,24 @@
       "duration_ms": 208911,
       "name": "Rubberneckers",
       "url": "https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj"
+    },
+    {
+      "album": {
+        "name": "Same Team",
+        "url": "https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "Same Team",
+      "url": "https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV"
     },
     {
       "album": {
@@ -2825,7 +2951,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 193369,
       "name": "The Hardest Cut",
       "url": "https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU"
@@ -3041,10 +3167,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 164320,
       "name": "Unhate",
       "url": "https://open.spotify.com/track/2nvJomohzemNPkKDVaQr2o"
+    },
+    {
+      "album": {
+        "name": "Unnecessary Drama",
+        "url": "https://open.spotify.com/album/1sSGgxAW93a0RHFU2bo0Gy"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256880,
+      "name": "Unnecessary Drama",
+      "url": "https://open.spotify.com/track/6Qn9jSYaISHshe0aEZjQIz"
     },
     {
       "album": {
@@ -3229,7 +3373,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 140083,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
@@ -3287,6 +3431,24 @@
       "duration_ms": 199715,
       "name": "Who Put You Up To This?",
       "url": "https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B"
+    },
+    {
+      "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "album": {

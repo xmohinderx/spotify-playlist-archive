@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Super mega hits! Foto: Justin Bieber",
+  "description": "Super mega hits! Foto: Dua Lipa",
   "name": "Pop Up",
   "published_playlist_ids": [
     "7gRGNt2lEYEUllsk5m0BDL"
@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE"
+    },
+    {
+      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -117,6 +135,28 @@
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "album": {
@@ -265,7 +305,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
@@ -818,6 +858,24 @@
     },
     {
       "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -833,6 +891,28 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "name": "I'm Tired (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187943,
+      "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
       "album": {
@@ -1063,7 +1143,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
@@ -1143,7 +1223,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
@@ -1715,7 +1795,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 157605,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
@@ -1733,7 +1813,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
@@ -1785,6 +1865,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "album": {
@@ -2068,6 +2166,24 @@
     },
     {
       "album": {
+        "name": "this is what falling in love feels like",
+        "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
       },
@@ -2097,7 +2213,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"

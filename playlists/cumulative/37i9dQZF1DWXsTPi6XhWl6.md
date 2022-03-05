@@ -6,10 +6,10 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1904](https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [There's No Leaving Now](https://open.spotify.com/album/6Q0hHqrRXKkbafJcHQQ9dF) | 3:59 | 2020-01-14 |  |
+| [1904](https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [There's No Leaving Now](https://open.spotify.com/album/6Q0hHqrRXKkbafJcHQQ9dF) | 3:59 | 2020-01-14 | 2022-03-05 |
 | [40 Day Dream](https://open.spotify.com/track/3WBWgjyg6ew1Bq2sehB4is) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf) | 3:53 | 2020-01-14 |  |
 | [A Beginning Song](https://open.spotify.com/track/02Bd8WXqxchkQFBRwo9XKG) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [What A Terrible World, What A Beautiful World](https://open.spotify.com/album/0K0WhguFHBracRbeSzZgvR) | 5:22 | 2020-01-14 |  |
-| [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 | 2020-01-14 | 2022-03-04 |
+| [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 | 2020-01-14 |  |
 | [Can't You Tell](https://open.spotify.com/track/5nLHqWxOxxaDraUhmVqfSs) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [The Errant Charm](https://open.spotify.com/album/71FMv0NMD0cKL0N9jV1dLG) | 4:27 | 2020-01-14 | 2022-02-25 |
 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7) | 2:50 | 2020-01-14 |  |
 | [Chicago](https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 6:04 | 2020-01-14 |  |

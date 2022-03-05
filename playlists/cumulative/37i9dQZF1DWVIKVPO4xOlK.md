@@ -2,7 +2,7 @@
 
 ### [Rompiendo: Los Angeles](https://open.spotify.com/playlist/0bH4Nye50v2mRRde9njJas)
 
-> Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Dannylux
+> Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Becky G, Karol G
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 | 2022-01-05 | 2022-02-26 |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-02-11 |  |
 | [Cheke](https://open.spotify.com/track/4wW6kTYioZi3bgV3515bun) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm) | [Cheke](https://open.spotify.com/album/5UmOV738LE6vxICB1PFA4x) | 2:53 | 2022-01-05 | 2022-02-26 |
+| [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-03-04 |  |
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2022-02-11 |  |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-28 |  |
 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 | 2022-01-05 |  |
@@ -43,7 +44,7 @@
 | [El Valor De Un Varón](https://open.spotify.com/track/40Q8hCWZLdaGGrNakSXD84) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 3:31 | 2022-01-05 |  |
 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 | 2022-01-05 |  |
 | [Está Dañada \- Remix](https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Está Dañada \(Remix\)](https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO) | 3:59 | 2022-01-05 |  |
-| [Fenix Flexin, Vol\. 2 Intro](https://open.spotify.com/track/0hauidEyQSGetmK5eVfKQQ) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Fenix Flexin, Vol\. 2 Intro](https://open.spotify.com/album/7s2SykVkoLSomIfdvbn9tC) | 2:24 | 2022-02-25 |  |
+| [Fenix Flexin, Vol\. 2 Intro](https://open.spotify.com/track/0hauidEyQSGetmK5eVfKQQ) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Fenix Flexin, Vol\. 2 Intro](https://open.spotify.com/album/7s2SykVkoLSomIfdvbn9tC) | 2:24 | 2022-02-25 | 2022-03-05 |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2022-01-05 |  |
 | [Flow HP](https://open.spotify.com/track/2wspc75R45gvwJCZOorAqv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/36ZKw8lFS9awLSyvnGkc5S) | 4:08 | 2022-01-05 |  |
 | [Fulanito](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Fulanito](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2022-01-05 | 2022-02-26 |

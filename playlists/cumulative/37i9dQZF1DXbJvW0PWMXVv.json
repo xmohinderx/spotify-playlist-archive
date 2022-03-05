@@ -180,6 +180,28 @@
     },
     {
       "album": {
+        "name": "Carnaval",
+        "url": "https://open.spotify.com/album/43iqBfhyoetfxHPfOjhIj6"
+      },
+      "artists": [
+        {
+          "name": "Cayetana Y El Mundo",
+          "url": "https://open.spotify.com/artist/5fUI9Ba4lmaOKmpsV0QwXy"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144797,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/6aCdWXVEHyEJH4uBiK5acm"
+    },
+    {
+      "album": {
         "name": "Chama Ela (feat. Pedro Sampaio)",
         "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
       },

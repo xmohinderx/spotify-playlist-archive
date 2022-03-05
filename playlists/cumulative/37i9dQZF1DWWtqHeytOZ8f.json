@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "The Long Count",
+        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
+      },
+      "artists": [
+        {
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184125,
+      "name": "5th Night",
+      "url": "https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY"
+    },
+    {
+      "album": {
         "name": "Great Spans of Muddy Time",
         "url": "https://open.spotify.com/album/4DyNsfjvnoGuf3ULUqdWD7"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 454576,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 154838,
       "name": "Boreal",
       "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Circular Wave Forms.",
       "url": "https://open.spotify.com/track/2naBJ9nAQbE2k90VW7LrXz"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 329207,
       "name": "Diaphonia Basilica (version)",
       "url": "https://open.spotify.com/track/4gPj8aifhSMVqbGR96p0Nh"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 269904,
       "name": "Drive It Like You Stole It - Ambient Version",
       "url": "https://open.spotify.com/track/3WMTRr53rc5rsSQ3Qaefam"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 202000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5BQ5aQ6bCJJT0AgC54bnk2"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 336000,
       "name": "Expanding Electricity - Single Edit",
       "url": "https://open.spotify.com/track/2u0bltYG3O7B8LFwkPBdq9"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 333400,
       "name": "Feel First Life",
       "url": "https://open.spotify.com/track/4esxro8J1rbsalCPb0yrgC"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 640908,
       "name": "Flux 2",
       "url": "https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 120000,
       "name": "Forward",
       "url": "https://open.spotify.com/track/4ow6hRwQ9Q3N3YbM05Od3N"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Frog Fractions",
       "url": "https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 212101,
       "name": "Frozen Tundra",
       "url": "https://open.spotify.com/track/3KX5zmTOX6JmHFVqG5ID12"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 203255,
       "name": "Full Panther",
       "url": "https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 145714,
       "name": "Industrial Structures",
       "url": "https://open.spotify.com/track/5oKbvgxwHbjQhgRe4xVS1c"
@@ -2730,6 +2748,24 @@
     },
     {
       "album": {
+        "name": "Phantom Brickworks",
+        "url": "https://open.spotify.com/album/3S4zFHeNv6oNLN8H9HXy2w"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123693,
+      "name": "IVY CHARCOAL",
+      "url": "https://open.spotify.com/track/5cx2CdLDP2wQBDEZGWwKge"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/2ugisosd4LtLoE1lZQnlxs"
       },
@@ -2817,7 +2853,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 252000,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/7ELFgIC6BEMI1BgEA3xDE5"
@@ -3377,7 +3413,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 241000,
       "name": "Murmur - Machinefabriek Remix",
       "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
@@ -3663,7 +3699,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 436935,
       "name": "Odes",
       "url": "https://open.spotify.com/track/3zXqPJK854eMWfhzhSTtQr"
@@ -3681,7 +3717,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 218428,
       "name": "Ody At Sea",
       "url": "https://open.spotify.com/track/49NxITVqqvX33f4KkpGRHk"
@@ -3825,7 +3861,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 225600,
       "name": "Over Oceans",
       "url": "https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w"
@@ -3861,7 +3897,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 515274,
       "name": "Parlama",
       "url": "https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec"
@@ -4153,7 +4189,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 282000,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/76W1wtijsH2sTzd3p6D47e"
@@ -4373,7 +4409,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 193000,
       "name": "Sensi",
       "url": "https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW"
@@ -4499,7 +4535,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 180882,
       "name": "Silence",
       "url": "https://open.spotify.com/track/4hDzsyjdmMSA89mHQNgHdO"
@@ -4755,7 +4791,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 238573,
       "name": "Sown from Lulea\u030a",
       "url": "https://open.spotify.com/track/71koc8oGlklnEFA2WHrv6K"
@@ -4835,7 +4871,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 737040,
       "name": "Spangle - Autechre Remix",
       "url": "https://open.spotify.com/track/0rHnnaxK2XcY4HSkSnQmOF"
@@ -4871,7 +4907,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
@@ -4925,7 +4961,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 157012,
       "name": "Stars",
       "url": "https://open.spotify.com/track/0NPaUAOCpX88mB1xIkMUW9"
@@ -4965,7 +5001,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 413376,
       "name": "Stave Peak",
       "url": "https://open.spotify.com/track/2TyZMiRLC700dSbwGuqPfy"
@@ -5019,7 +5055,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 196646,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/0dX6Scf3sYmoD4fgZJxcQF"
@@ -5037,7 +5073,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 96000,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/2zbwLUD1TbAls6wNUAYYxC"
@@ -5229,7 +5265,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
@@ -5247,7 +5283,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 210443,
       "name": "Temple",
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
@@ -5323,7 +5359,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 134693,
       "name": "The Crop Circle",
       "url": "https://open.spotify.com/track/1jqCOGU9XKu4r7WyQAEexF"
@@ -5949,7 +5985,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg"
@@ -6187,7 +6223,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 330000,
       "name": "Well",
       "url": "https://open.spotify.com/track/630GnYjh9pMw7iO9KrCQIG"
@@ -6205,7 +6241,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 355506,
       "name": "White Stork",
       "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"

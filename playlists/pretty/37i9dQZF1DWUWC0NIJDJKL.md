@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 
 > Fun in the sun with these indie pop jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,502 likes - 67 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,563 likes - 67 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

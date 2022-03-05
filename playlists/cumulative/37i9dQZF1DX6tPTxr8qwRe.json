@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Cherry Picking",
+        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
+      },
+      "artists": [
+        {
+          "name": "poutyface",
+          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150736,
+      "name": "Cherry Picking",
+      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
+    },
+    {
+      "album": {
         "name": "Cross My Heart I Hope U Die",
         "url": "https://open.spotify.com/album/20TIqhqCGg1APlKuQGmCri"
       },
@@ -337,6 +355,24 @@
       "duration_ms": 153222,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub"
+    },
+    {
+      "album": {
+        "name": "Dear Denny",
+        "url": "https://open.spotify.com/album/6an5iKKW7Nf7PUTvCxna0A"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161293,
+      "name": "Dear Denny",
+      "url": "https://open.spotify.com/track/0ODA6YVgdZpss4n7JKaqzc"
     },
     {
       "album": {
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 152626,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p"
@@ -1667,6 +1703,24 @@
       "duration_ms": 138333,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/0wvj3kJpZIyu7eYfxeKn3g"
+    },
+    {
+      "album": {
+        "name": "Thing of Beauty",
+        "url": "https://open.spotify.com/album/4nz28faAHZndFb42UEwf5P"
+      },
+      "artists": [
+        {
+          "name": "Danger Twins",
+          "url": "https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199038,
+      "name": "Thing of Beauty",
+      "url": "https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E"
     },
     {
       "album": {

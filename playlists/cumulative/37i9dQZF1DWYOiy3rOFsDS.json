@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "El Primer Amor",
       "url": "https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174710,
       "name": "La Media Vuelta (feat. Melissa Robles)",
       "url": "https://open.spotify.com/track/0nQc9LtnjxK1ypDV1OBbdW"
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 199280,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 210066,
       "name": "Palabras De Mujer",
       "url": "https://open.spotify.com/track/6dOuoQHcMfVum7s33Cj5u1"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
@@ -2279,7 +2279,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 138960,
       "name": "Sabor a Mi - En Vivo",
       "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
@@ -2403,7 +2403,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-11",
+      "date_removed": null,
       "duration_ms": 131500,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
@@ -2421,7 +2421,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 196000,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/3WW69emJPnNXoplzyl6W7L"
@@ -2941,6 +2941,28 @@
       "duration_ms": 275280,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"
+    },
+    {
+      "album": {
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193130,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYOiy3rOFsDS"

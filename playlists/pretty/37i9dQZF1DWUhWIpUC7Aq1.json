@@ -1,12 +1,12 @@
 {
   "description": "who's that girl.... it's you with your large white collar, sparrow print booties, and dare we say ~curtain bangs~ ",
-  "num_followers": 7777,
+  "num_followers": 8161,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTAzOCwwMDAwMDAwMDBhYzkwYmY0ODY4OWExNmI0YmYyNGM2NTBjMjhmYjFh",
+  "snapshot_id": "MTY0NjQ0MTI2OCwwMDAwMDAwMDg0ZjZhMDI1ZTEzYjU0MDdkMjRiOGJmZDEzYmU0ZjEx",
   "tracks": [
     {
       "added_at": "2022-02-10 19:15:40",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
     },
     {
-      "added_at": "2022-02-10 19:15:40",
+      "added_at": "2022-02-10 19:38:20",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+        "name": "When The Pawn...",
+        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 220720,
-      "name": "For Emma",
-      "url": "https://open.spotify.com/track/0mP897I93DZwdgtjkSriwj"
+      "duration_ms": 219266,
+      "name": "Paper Bag",
+      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -267,34 +267,34 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+        "name": "Torch Song",
+        "url": "https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu"
       },
       "artists": [
         {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+          "name": "Radiator Hospital",
+          "url": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
         }
       ],
-      "duration_ms": 243160,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+      "duration_ms": 126971,
+      "name": "Cut Your Bangs",
+      "url": "https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS"
     },
     {
-      "added_at": "2022-02-10 19:38:20",
+      "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "When The Pawn...",
-        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8"
       },
       "artists": [
         {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Paper Bag",
-      "url": "https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA"
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -331,18 +331,50 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Torch Song",
-        "url": "https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu"
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
       "artists": [
         {
-          "name": "Radiator Hospital",
-          "url": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
         }
       ],
-      "duration_ms": 126971,
-      "name": "Cut Your Bangs",
-      "url": "https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS"
+      "duration_ms": 243160,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Sunlandic Twins",
+        "url": "https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 255613,
+      "name": "Wraith Pinned to the Mist and Other Games",
+      "url": "https://open.spotify.com/track/24HPkbkXJsIFC4eyg63zgQ"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -367,162 +399,34 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/0mP897I93DZwdgtjkSriwj"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "1982 4 Piece Demo",
-        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
       },
       "artists": [
         {
-          "name": "Strawberry Switchblade",
-          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 194821,
-      "name": "Trees and Flowers",
-      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Oh, Inverted World",
-        "url": "https://open.spotify.com/album/34XlrJGfsDhvRDeJ8a6lie"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "New Slang",
-      "url": "https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "The Glow, Pt. 2",
-        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
-      },
-      "artists": [
-        {
-          "name": "The Microphones",
-          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
-        }
-      ],
-      "duration_ms": 332880,
-      "name": "I Want Wind to Blow",
-      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Raised By Wolves EP",
-        "url": "https://open.spotify.com/album/6Le1FSqseZp41WAub4Ct4v"
-      },
-      "artists": [
-        {
-          "name": "Voxtrot",
-          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
-        }
-      ],
-      "duration_ms": 271746,
-      "name": "The Start Of Something",
-      "url": "https://open.spotify.com/track/6K5GAopLZzzg0ZX8k5GWwh"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "The Sunlandic Twins",
-        "url": "https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 255613,
-      "name": "Wraith Pinned to the Mist and Other Games",
-      "url": "https://open.spotify.com/track/24HPkbkXJsIFC4eyg63zgQ"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 109386,
-      "name": "April Come She Will",
-      "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
+      "duration_ms": 199573,
+      "name": "Atop a Cake",
+      "url": "https://open.spotify.com/track/2d4VlnTyBVserhtyH3b9BZ"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -543,18 +447,34 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+        "name": "Raised By Wolves EP",
+        "url": "https://open.spotify.com/album/6Le1FSqseZp41WAub4Ct4v"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
         }
       ],
-      "duration_ms": 162920,
-      "name": "This Charming Man - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+      "duration_ms": 271746,
+      "name": "The Start Of Something",
+      "url": "https://open.spotify.com/track/6K5GAopLZzzg0ZX8k5GWwh"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 109386,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -575,82 +495,82 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "The First Days Of Spring",
-        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
       "artists": [
         {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 247733,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+        "name": "Oh, Inverted World",
+        "url": "https://open.spotify.com/album/34XlrJGfsDhvRDeJ8a6lie"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+      "duration_ms": 231173,
+      "name": "New Slang",
+      "url": "https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+        "name": "Etiquette",
+        "url": "https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "Casiotone For The Painfully Alone",
+          "url": "https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy"
         }
       ],
-      "duration_ms": 315200,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
+      "duration_ms": 194080,
+      "name": "Bobby Malone Moves Home",
+      "url": "https://open.spotify.com/track/3hAh0e2keWsI8iY9BqFXqe"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+        "name": "1982 4 Piece Demo",
+        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Strawberry Switchblade",
+          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
         }
       ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+      "duration_ms": 194821,
+      "name": "Trees and Flowers",
+      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Let Yourself Go",
-        "url": "https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP"
+        "name": "The Glow, Pt. 2",
+        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
       },
       "artists": [
         {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
         }
       ],
-      "duration_ms": 208520,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2CQZalbSGicedttPGtY06n"
+      "duration_ms": 332880,
+      "name": "I Want Wind to Blow",
+      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -671,24 +591,8 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "The Pains of Being Pure At Heart",
-        "url": "https://open.spotify.com/album/4QqUhGQe1QevExvfANIZ2X"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "A Teenager in Love",
-      "url": "https://open.spotify.com/track/0eFvq5en7MGkbzS1I6vUAG"
-    },
-    {
-      "added_at": "2022-02-10 19:38:20",
-      "album": {
-        "name": "Louder Than Bombs",
-        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
       "artists": [
         {
@@ -696,41 +600,137 @@
           "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 112706,
-      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA"
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM"
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
       },
       "artists": [
         {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 122573,
-      "name": "What's Important",
-      "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"
+      "duration_ms": 353946,
+      "name": "Casimir Pulaski Day",
+      "url": "https://open.spotify.com/track/1u1YU1LE0FWHFOHpR2iXua"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 198093,
-      "name": "Oh to Be in Love",
-      "url": "https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn"
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The First Days Of Spring",
+        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315200,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4PMvRfhHAx5j6Bb3XsFLoq"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2CQZalbSGicedttPGtY06n"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Atop a Cake",
-      "url": "https://open.spotify.com/track/2d4VlnTyBVserhtyH3b9BZ"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
         "name": "Big Echo",
         "url": "https://open.spotify.com/album/5UYmZOpjjA5Y7GyZhjI6fy"
       },
@@ -795,6 +779,154 @@
       "duration_ms": 317426,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/4Tm2TkKTe23pgMXMzOK4Z2"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/4mIfqTE8DOnFRFWUQH02Og"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Romulus",
+      "url": "https://open.spotify.com/track/1G8ie1boOkATlOVesYdv2C"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids",
+        "url": "https://open.spotify.com/album/7EQGWnA4hgwNDB4dhQffhl"
+      },
+      "artists": [
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "name": "The Kids",
+          "url": "https://open.spotify.com/artist/5ITDRCbxYSx3gd19M8DFVx"
+        }
+      ],
+      "duration_ms": 310920,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/5n0s9Ec2un5JNq8YnKnbgO"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Boy With The Arab Strap",
+        "url": "https://open.spotify.com/album/3uhUPlgihiYPLc0Wuhy31V"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With The Arab Strap",
+      "url": "https://open.spotify.com/track/48wMTk5P8xP4lRuVA5uLsD"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM"
+      },
+      "artists": [
+        {
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+        }
+      ],
+      "duration_ms": 122573,
+      "name": "What's Important",
+      "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Pains of Being Pure At Heart",
+        "url": "https://open.spotify.com/album/4QqUhGQe1QevExvfANIZ2X"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "A Teenager in Love",
+      "url": "https://open.spotify.com/track/0eFvq5en7MGkbzS1I6vUAG"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Caring Is Creepy - 2021 Remaster",
+      "url": "https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Oh to Be in Love",
+      "url": "https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -831,26 +963,6 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids",
-        "url": "https://open.spotify.com/album/7EQGWnA4hgwNDB4dhQffhl"
-      },
-      "artists": [
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        },
-        {
-          "name": "The Kids",
-          "url": "https://open.spotify.com/artist/5ITDRCbxYSx3gd19M8DFVx"
-        }
-      ],
-      "duration_ms": 310920,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/5n0s9Ec2un5JNq8YnKnbgO"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
         "name": "Cults",
         "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
       },
@@ -863,54 +975,6 @@
       "duration_ms": 203066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Title and Registration",
-      "url": "https://open.spotify.com/track/0hgEsoAu23ap8V5GFX9Y3i"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "If You're Feeling Sinister",
-        "url": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Get Me Away From Here, I'm Dying",
-      "url": "https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -931,86 +995,6 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Etiquette",
-        "url": "https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi"
-      },
-      "artists": [
-        {
-          "name": "Casiotone For The Painfully Alone",
-          "url": "https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Bobby Malone Moves Home",
-      "url": "https://open.spotify.com/track/3hAh0e2keWsI8iY9BqFXqe"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "You Think It's Like This But Really It's Like This",
-        "url": "https://open.spotify.com/album/4rJN1q4JfXdMHyzCzDlvNb"
-      },
-      "artists": [
-        {
-          "name": "Mirah",
-          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "Sweepstakes Prize",
-      "url": "https://open.spotify.com/track/6tIncEukhkHYONzISltkLC"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Caring Is Creepy - 2021 Remaster",
-      "url": "https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
         "name": "More Adventurous (U.S. Release)",
         "url": "https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI"
       },
@@ -1023,118 +1007,6 @@
       "duration_ms": 284640,
       "name": "Portions for Foxes",
       "url": "https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG"
-    },
-    {
-      "added_at": "2022-02-10 19:38:20",
-      "album": {
-        "name": "Nino Rojo",
-        "url": "https://open.spotify.com/album/4ZMzm0EaZcpkCH8L3hIY6t"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/31cI8gcEKRIMRjuGzPe4W1"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Naturally Sweetened",
-        "url": "https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3"
-      },
-      "artists": [
-        {
-          "name": "Barry Louis Polisar",
-          "url": "https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb"
-        }
-      ],
-      "duration_ms": 157623,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "The Boy With The Arab Strap",
-        "url": "https://open.spotify.com/album/3uhUPlgihiYPLc0Wuhy31V"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With The Arab Strap",
-      "url": "https://open.spotify.com/track/48wMTk5P8xP4lRuVA5uLsD"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4PMvRfhHAx5j6Bb3XsFLoq"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/4mIfqTE8DOnFRFWUQH02Og"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Romulus",
-      "url": "https://open.spotify.com/track/1G8ie1boOkATlOVesYdv2C"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1155,72 +1027,76 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Places Like This",
-        "url": "https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM"
+        "name": "You Think It's Like This But Really It's Like This",
+        "url": "https://open.spotify.com/album/4rJN1q4JfXdMHyzCzDlvNb"
       },
       "artists": [
         {
-          "name": "Architecture In Helsinki",
-          "url": "https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr"
+          "name": "Mirah",
+          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
         }
       ],
-      "duration_ms": 194853,
-      "name": "Heart It Races",
-      "url": "https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k"
+      "duration_ms": 289720,
+      "name": "Sweepstakes Prize",
+      "url": "https://open.spotify.com/track/6tIncEukhkHYONzISltkLC"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "When I Pretend To Fall",
-        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
+        "name": "Rave On Buddy Holly",
+        "url": "https://open.spotify.com/album/6BpXVKdWpGhI4FzHZrZdur"
       },
       "artists": [
         {
-          "name": "The Long Winters",
-          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        },
+        {
+          "name": "Jon Brion",
+          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
         }
       ],
-      "duration_ms": 252960,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
+      "duration_ms": 139280,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/1w2IeLkmSz5YoxlYKOj8gz"
+    },
+    {
+      "added_at": "2022-02-10 19:38:20",
+      "album": {
+        "name": "Louder Than Bombs",
+        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 112706,
+      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Dear Catastrophe Waitress",
-        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+        "name": "If You're Feeling Sinister",
+        "url": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI"
       },
       "artists": [
         {
@@ -1228,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Piazza, New York Catcher",
-      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
+      "duration_ms": 205360,
+      "name": "Get Me Away From Here, I'm Dying",
+      "url": "https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9"
     },
     {
       "added_at": "2022-02-10 19:38:20",
@@ -1251,18 +1127,114 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
         }
       ],
-      "duration_ms": 353946,
-      "name": "Casimir Pulaski Day",
-      "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Sunlandic Twins",
+        "url": "https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "I Was Never Young",
+      "url": "https://open.spotify.com/track/3vPdanGZRJILGXC3jzIgYc"
+    },
+    {
+      "added_at": "2022-02-10 19:38:20",
+      "album": {
+        "name": "Nino Rojo",
+        "url": "https://open.spotify.com/album/4ZMzm0EaZcpkCH8L3hIY6t"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/31cI8gcEKRIMRjuGzPe4W1"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "My Maudlin Career",
+        "url": "https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "French Navy",
+      "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "A Sleep & A Forgetting",
+        "url": "https://open.spotify.com/album/36GHC6uosFJ1nR4M7qIo90"
+      },
+      "artists": [
+        {
+          "name": "Islands",
+          "url": "https://open.spotify.com/artist/1ObsHTgbvIYOfSHohHuV6n"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Hallways",
+      "url": "https://open.spotify.com/track/4FzQApCNgoI2HAaBrdmkox"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Title and Registration",
+      "url": "https://open.spotify.com/track/0hgEsoAu23ap8V5GFX9Y3i"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1283,18 +1255,66 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "The Sunlandic Twins",
-        "url": "https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia"
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
       },
       "artists": [
         {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
         }
       ],
-      "duration_ms": 210840,
-      "name": "I Was Never Young",
-      "url": "https://open.spotify.com/track/3vPdanGZRJILGXC3jzIgYc"
+      "duration_ms": 261253,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Dear Catastrophe Waitress",
+        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Piazza, New York Catcher",
+      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Numbers & Mumbles",
+        "url": "https://open.spotify.com/album/75uYCevfxAInfAFSrBUBIa"
+      },
+      "artists": [
+        {
+          "name": "Say Hi",
+          "url": "https://open.spotify.com/artist/2da7ehIX9lFyIDqmjqVZvS"
+        }
+      ],
+      "duration_ms": 183173,
+      "name": "Let's Talk About Spaceships",
+      "url": "https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1315,18 +1335,18 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Numbers & Mumbles",
-        "url": "https://open.spotify.com/album/75uYCevfxAInfAFSrBUBIa"
+        "name": "When I Pretend To Fall",
+        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
       },
       "artists": [
         {
-          "name": "Say Hi",
-          "url": "https://open.spotify.com/artist/2da7ehIX9lFyIDqmjqVZvS"
+          "name": "The Long Winters",
+          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
         }
       ],
-      "duration_ms": 183173,
-      "name": "Let's Talk About Spaceships",
-      "url": "https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz"
+      "duration_ms": 252960,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1363,18 +1383,18 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "My Maudlin Career",
-        "url": "https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg"
+        "name": "Places Like This",
+        "url": "https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM"
       },
       "artists": [
         {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+          "name": "Architecture In Helsinki",
+          "url": "https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr"
         }
       ],
-      "duration_ms": 198893,
-      "name": "French Navy",
-      "url": "https://open.spotify.com/track/7Mb0qE443GpOcgkmgS4lP1"
+      "duration_ms": 194853,
+      "name": "Heart It Races",
+      "url": "https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1395,38 +1415,18 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Romanian Names",
-        "url": "https://open.spotify.com/album/5JA8qfuHU3NsMGwR47qRMK"
+        "name": "London Weekend",
+        "url": "https://open.spotify.com/album/63vTxU4khK2hK6dxQxCo5z"
       },
       "artists": [
         {
-          "name": "John Vanderslice",
-          "url": "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+          "name": "Another Sunny Day",
+          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
         }
       ],
-      "duration_ms": 208853,
-      "name": "Too Much Time",
-      "url": "https://open.spotify.com/track/4FqmNnOVeGIMAESjdxCFMs"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Rave On Buddy Holly",
-        "url": "https://open.spotify.com/album/6BpXVKdWpGhI4FzHZrZdur"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        },
-        {
-          "name": "Jon Brion",
-          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
-        }
-      ],
-      "duration_ms": 139280,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/1w2IeLkmSz5YoxlYKOj8gz"
+      "duration_ms": 278440,
+      "name": "You Should All Be Murdered",
+      "url": "https://open.spotify.com/track/5TX9oasZwIEz3wkIXH6XnS"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1447,82 +1447,18 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+        "name": "Naturally Sweetened",
+        "url": "https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Barry Louis Polisar",
+          "url": "https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb"
         }
       ],
-      "duration_ms": 224426,
-      "name": "Lived In Bars",
-      "url": "https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Widow City",
-        "url": "https://open.spotify.com/album/1hJ5tTaozVlnfu2Uif1pSn"
-      },
-      "artists": [
-        {
-          "name": "The Fiery Furnaces",
-          "url": "https://open.spotify.com/artist/03G0pJHLHj7FRuCV5OYzpv"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "My Egyptian Grammar",
-      "url": "https://open.spotify.com/track/2Ak3Seew0GuwIsJSqd5mMF"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "London Weekend",
-        "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
-      },
-      "artists": [
-        {
-          "name": "Another Sunny Day",
-          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
-        }
-      ],
-      "duration_ms": 98706,
-      "name": "I'm In Love With A Girl Who Doesn't Know I Exist",
-      "url": "https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2022-02-10 19:15:40",
-      "album": {
-        "name": "Give Up",
-        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
-      },
-      "artists": [
-        {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
-        }
-      ],
-      "duration_ms": 261253,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+      "duration_ms": 157623,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1543,18 +1479,82 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "A Sleep & A Forgetting",
-        "url": "https://open.spotify.com/album/36GHC6uosFJ1nR4M7qIo90"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
       "artists": [
         {
-          "name": "Islands",
-          "url": "https://open.spotify.com/artist/1ObsHTgbvIYOfSHohHuV6n"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 173680,
-      "name": "Hallways",
-      "url": "https://open.spotify.com/track/4FzQApCNgoI2HAaBrdmkox"
+      "duration_ms": 330773,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Lived In Bars",
+      "url": "https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
+    },
+    {
+      "added_at": "2022-02-10 19:15:40",
+      "album": {
+        "name": "Where'd You Learn To Kiss That Way?",
+        "url": "https://open.spotify.com/album/1Lr3IdIToxtcNiCLcf04MB"
+      },
+      "artists": [
+        {
+          "name": "The Field Mice",
+          "url": "https://open.spotify.com/artist/3KH6DLHeoFZgVbtKiLXb6L"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Emma's House",
+      "url": "https://open.spotify.com/track/7IeinCxS7XtnmYKE1FBkRe"
     },
     {
       "added_at": "2022-02-10 19:15:40",
@@ -1575,50 +1575,50 @@
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Howl Howl Gaff Gaff",
-        "url": "https://open.spotify.com/album/1jO9fwvlqWgjCazjIWvOl7"
+        "name": "Romanian Names",
+        "url": "https://open.spotify.com/album/5JA8qfuHU3NsMGwR47qRMK"
       },
       "artists": [
         {
-          "name": "Shout Out Louds",
-          "url": "https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl"
+          "name": "John Vanderslice",
+          "url": "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
         }
       ],
-      "duration_ms": 245080,
-      "name": "Very Loud",
-      "url": "https://open.spotify.com/track/7selJ7EVnDpSxWhNETbE9s"
+      "duration_ms": 208853,
+      "name": "Too Much Time",
+      "url": "https://open.spotify.com/track/4FqmNnOVeGIMAESjdxCFMs"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "London Weekend",
-        "url": "https://open.spotify.com/album/63vTxU4khK2hK6dxQxCo5z"
+        "name": "Begin to Hope (Special Edition)",
+        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
       },
       "artists": [
         {
-          "name": "Another Sunny Day",
-          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
         }
       ],
-      "duration_ms": 278440,
-      "name": "You Should All Be Murdered",
-      "url": "https://open.spotify.com/track/5TX9oasZwIEz3wkIXH6XnS"
+      "duration_ms": 226680,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
     },
     {
       "added_at": "2022-02-10 19:15:40",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 243000,
-      "name": "The Kids Don't Stand a Chance",
-      "url": "https://open.spotify.com/track/343bBmd4LiBX5OlHXDICa1"
+      "duration_ms": 195013,
+      "name": "That Green Gentleman (Things Have Changed)",
+      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
     }
   ],
   "unique_name": "Twee",

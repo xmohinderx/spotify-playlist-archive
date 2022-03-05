@@ -1,18 +1,18 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 135592,
+  "num_followers": 135626,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTUxNywwMDAwMDAwMGViOWE2N2ZkYzdiNzY5OWY2MDk4YWI2YWRkOTI3ODY0",
+  "snapshot_id": "MTY0NjQ0MTc5NSwwMDAwMDAwMGNlNjcwMGJmZmU5MGE4ZWRhZDkyYWJlYjc2OGJhOWIx",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Rebirth For Life",
-        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
+        "name": "Take It To The Street",
+        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
         }
       ],
-      "duration_ms": 349666,
-      "name": "Tubaluba",
-      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
+      "duration_ms": 259533,
+      "name": "Take It To The Street",
+      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -63,22 +63,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "This is Jazz 30: The Dirty Dozen Brass Band",
-        "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -95,18 +79,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+        "name": "This is Jazz 30: The Dirty Dozen Brass Band",
+        "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
       },
       "artists": [
         {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
         }
       ],
-      "duration_ms": 175600,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
+      "duration_ms": 296400,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -127,6 +111,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Shake That Thing",
         "url": "https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k"
       },
@@ -143,8 +143,8 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Take It To The Street",
-        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+        "name": "Rebirth For Life",
+        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
         }
       ],
-      "duration_ms": 259533,
-      "name": "Take It To The Street",
-      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
+      "duration_ms": 349666,
+      "name": "Tubaluba",
+      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -175,18 +175,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
-        "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
+        "name": "My Feet Can't Fail Me Now",
+        "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
       },
       "artists": [
         {
-          "name": "George Lewis",
-          "url": "https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt"
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Careless Love",
-      "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
+      "duration_ms": 312640,
+      "name": "Do It Fluid",
+      "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -223,24 +223,8 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "My Feet Can't Fail Me Now",
-        "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Do It Fluid",
-      "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Do Watcha Wanna",
-        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu"
       },
       "artists": [
         {
@@ -248,9 +232,25 @@
           "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
         }
       ],
-      "duration_ms": 335506,
-      "name": "I Feel Like Funkin' It Up - Extended Mix",
-      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
+      "duration_ms": 192680,
+      "name": "Do Whatcha Wanna",
+      "url": "https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
+        "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
+      },
+      "artists": [
+        {
+          "name": "George Lewis",
+          "url": "https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Down by the Riverside",
+      "url": "https://open.spotify.com/track/1BHMpKJngIU4iWpzZIj7hm"
     },
     {
       "added_at": "2022-01-28 05:02:00",
@@ -307,98 +307,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Complete Columbia Session 1946",
-        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "The Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Big City Blues",
-        "url": "https://open.spotify.com/album/2xuCuGJvbQxtrzt9UfUJlq"
-      },
-      "artists": [
-        {
-          "name": "Charlie Barnet & His Orchestra",
-          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
-        },
-        {
-          "name": "Charlie Barnet",
-          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
-        },
-        {
-          "name": "King Oliver",
-          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
-        },
-        {
-          "name": "Clarence Williams",
-          "url": "https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/0OHP5uq9yI8xrlovXxDaX0"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Do Whatcha Wanna",
-      "url": "https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
-        "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
-      },
-      "artists": [
-        {
-          "name": "George Lewis",
-          "url": "https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Down by the Riverside",
-      "url": "https://open.spotify.com/track/1BHMpKJngIU4iWpzZIj7hm"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Our New Orleans",
-        "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/65sPImCpuvhK21doidXxS0"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Night on Frenchmen Street",
         "url": "https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M"
       },
@@ -423,6 +331,70 @@
       "duration_ms": 271229,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Our New Orleans",
+        "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 276266,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/65sPImCpuvhK21doidXxS0"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
+        "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
+      },
+      "artists": [
+        {
+          "name": "George Lewis",
+          "url": "https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Careless Love",
+      "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Do Watcha Wanna",
+        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 335506,
+      "name": "I Feel Like Funkin' It Up - Extended Mix",
+      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -463,6 +435,34 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/2xuCuGJvbQxtrzt9UfUJlq"
+      },
+      "artists": [
+        {
+          "name": "Charlie Barnet & His Orchestra",
+          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+        },
+        {
+          "name": "Charlie Barnet",
+          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
+        },
+        {
+          "name": "King Oliver",
+          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
+        },
+        {
+          "name": "Clarence Williams",
+          "url": "https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/0OHP5uq9yI8xrlovXxDaX0"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Our New Orleans",
         "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
       },
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/08LDssCZG0BANHGtfXuy0O"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
+      "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Chasing Birds (Preservation Hall Jazz Band Re-Version)",
-        "url": "https://open.spotify.com/album/5aCiqtiBVqMASYAgzf3o8L"
+        "name": "Treme: Music From The HBO Original Series, Season 1",
+        "url": "https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "The New Orleans Jazz Vipers",
+          "url": "https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j"
         }
       ],
-      "duration_ms": 218702,
-      "name": "Chasing Birds - Preservation Hall Jazz Band Re-Version",
-      "url": "https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI"
+      "duration_ms": 159920,
+      "name": "I Hope Your Comin' Back To New Orleans",
+      "url": "https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD"
     },
     {
-      "added_at": "2021-04-26 16:53:52",
+      "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "Firehouse Five Plus Two Story",
-        "url": "https://open.spotify.com/album/5a3V35bBASSLfvmPaLF1Md"
+        "name": "Chasing Birds (Preservation Hall Jazz Band Re-Version)",
+        "url": "https://open.spotify.com/album/5aCiqtiBVqMASYAgzf3o8L"
       },
       "artists": [
         {
-          "name": "Firehouse Five Plus Two",
-          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Yes Sir! That's My Baby",
-      "url": "https://open.spotify.com/track/5kDN2pkuLFL7Is22W4ngAF"
+      "duration_ms": 218702,
+      "name": "Chasing Birds - Preservation Hall Jazz Band Re-Version",
+      "url": "https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Treme: Music From The HBO Original Series, Season 1",
-        "url": "https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb"
-      },
-      "artists": [
-        {
-          "name": "The New Orleans Jazz Vipers",
-          "url": "https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "I Hope Your Comin' Back To New Orleans",
-      "url": "https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Runnin' Wild",
         "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 201826,
       "name": "Joshua Fit De Battle of Jericho",
       "url": "https://open.spotify.com/track/6mhzK4YvxzG2MQseaazRGt"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Firehouse Five Plus Two Story",
+        "url": "https://open.spotify.com/album/5a3V35bBASSLfvmPaLF1Md"
+      },
+      "artists": [
+        {
+          "name": "Firehouse Five Plus Two",
+          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Yes Sir! That's My Baby",
+      "url": "https://open.spotify.com/track/5kDN2pkuLFL7Is22W4ngAF"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Best of Dixieland",
-        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
-      },
-      "artists": [
-        {
-          "name": "Original Dixieland Jazz Band",
-          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
-        }
-      ],
-      "duration_ms": 156003,
-      "name": "Tiger Rag 3",
-      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Good Neighbor",
         "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 168440,
       "name": "Don't You Think I Love You",
       "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Best of Dixieland",
+        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
+      },
+      "artists": [
+        {
+          "name": "Original Dixieland Jazz Band",
+          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
+        }
+      ],
+      "duration_ms": 156003,
+      "name": "Tiger Rag 3",
+      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
-        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
-      },
-      "artists": [
-        {
-          "name": "Leroy Jones",
-          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Lord, Lord, Lord",
-      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "The Sheik of Araby",
         "url": "https://open.spotify.com/album/1KMFnmvtbtx6ZElipw5fBc"
       },
@@ -851,18 +835,38 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "1940-1944",
-        "url": "https://open.spotify.com/album/1KNz1AGZYgT4XsJdBJ6kte"
+        "name": "Sounds Of New Orleans",
+        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
       "artists": [
         {
-          "name": "Wingy Manone",
-          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
+          "name": "Albert Burbank",
+          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
+        },
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 192933,
-      "name": "When I Get You Alone Tonight",
-      "url": "https://open.spotify.com/track/6664rP47lpTZsxTAUL9GLY"
+      "duration_ms": 151453,
+      "name": "Bill Bailey",
+      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
+        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Lord, Lord, Lord",
+      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -883,22 +887,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Johnny Dodds & Jimmy Blythe 1926-1928",
-        "url": "https://open.spotify.com/album/0vTFwaAnpJLWQ42j8wE1Hn"
+        "name": "1940-1944",
+        "url": "https://open.spotify.com/album/1KNz1AGZYgT4XsJdBJ6kte"
       },
       "artists": [
         {
-          "name": "Johnny Dodds",
-          "url": "https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp"
-        },
-        {
-          "name": "Jimmy Blythe",
-          "url": "https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C"
+          "name": "Wingy Manone",
+          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
         }
       ],
-      "duration_ms": 179600,
-      "name": "I'm Goin' Huntin'",
-      "url": "https://open.spotify.com/track/4gK9fOfg96Cll8RmuhSxY0"
+      "duration_ms": 192933,
+      "name": "When I Get You Alone Tonight",
+      "url": "https://open.spotify.com/track/6664rP47lpTZsxTAUL9GLY"
     }
   ],
   "unique_name": "New Orleans Brass",

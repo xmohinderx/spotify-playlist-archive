@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 205367,
       "name": "6AM",
       "url": "https://open.spotify.com/track/4Ry2fFWLxnGNRfCdpYoRcc"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 176996,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/0V825HbDpHPXs4mOQtGnbW"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 247933,
       "name": "Coming",
       "url": "https://open.spotify.com/track/1H2IEdM9irHOk4YTQTgRxE"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 212620,
       "name": "Don't Play Me",
       "url": "https://open.spotify.com/track/11zDwAkUczHN72NmK4nPHf"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 187250,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1WeMPzsUffoiydBQaC8Iky"
@@ -1194,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn"
       },
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 175989,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 192660,
       "name": "Homecoming Freestyle",
       "url": "https://open.spotify.com/track/6MGro2R6Bx8zFsl8axO4nM"
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 239893,
       "name": "Longtime (feat. Skepta)",
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 175357,
       "name": "Makaveli",
       "url": "https://open.spotify.com/track/1dffwauIdqk9IpiJSiehNt"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 190210,
       "name": "Mama Stay",
       "url": "https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 202706,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/56l5nazZw2rwYmu3dqbWjo"
@@ -2523,7 +2541,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168044,
       "name": "Only One (Anywhere, Pt. 2)",
       "url": "https://open.spotify.com/track/7tbDPQIpIt8tGKpSJXQAw7"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 233266,
       "name": "Party",
       "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
@@ -2677,7 +2695,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174545,
       "name": "Pempe",
       "url": "https://open.spotify.com/track/0NWyE9gJ8Q2fOdJfGcJwG3"
@@ -2921,7 +2939,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 191174,
       "name": "Ruger",
       "url": "https://open.spotify.com/track/39RFbhX6RVTnXn2ml9yVbK"
@@ -3131,7 +3149,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189029,
       "name": "See Through",
       "url": "https://open.spotify.com/track/4G3MjZTnwVDxmemf4I9vWb"
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 153600,
       "name": "Sip (Alcohol)",
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -3717,7 +3735,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 178252,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/6ubV4nUOhIvSs9mHf1lKU4"
@@ -3739,7 +3757,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
@@ -3819,7 +3837,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 147471,
       "name": "Wayward Girl",
       "url": "https://open.spotify.com/track/6QmZxAPBNA8v2Jj2Yk7Z8D"
@@ -3837,7 +3855,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
@@ -3973,7 +3991,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 197647,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3Ojkw9bUCkW3odXjl6J1xi"
@@ -3991,7 +4009,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 228463,
       "name": "Yebo/Sema",
       "url": "https://open.spotify.com/track/7tFZNqsXf7ESFsT8pYd2RV"

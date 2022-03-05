@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Mimi Barks",
-  "num_followers": 144932,
+  "num_followers": 145270,
   "original_name": "The oTHERS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMyNTI2MSwwMDAwMDFhYzAwMDAwMTdmNTBhMWU0ZTMwMDAwMDE3ZjUwOWMyMWU0",
+  "snapshot_id": "MTY0NjM5MDU2NSwwMDAwMDFhZDAwMDAwMTdmNTQ4NjU5ZmEwMDAwMDE3ZjUwOWMyMWU0",
   "tracks": [
     {
       "added_at": "2022-03-03 16:34:21",
@@ -95,6 +95,22 @@
       "duration_ms": 219686,
       "name": "I Spit On Your Grave",
       "url": "https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF"
+    },
+    {
+      "added_at": "2022-03-04 10:42:45",
+      "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh"
     },
     {
       "added_at": "2022-03-03 16:34:21",
@@ -1323,22 +1339,6 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/4F0cImmvDJ9IEvPgBHPaY9"
-    },
-    {
-      "added_at": "2022-03-03 16:34:21",
-      "album": {
-        "name": "Rust on the Gates of Heaven",
-        "url": "https://open.spotify.com/album/0Gnv10rQ8IwqGN6tuzWwgT"
-      },
-      "artists": [
-        {
-          "name": "Wear Your Wounds",
-          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
-        }
-      ],
-      "duration_ms": 404706,
-      "name": "Rust on the Gates of Heaven",
-      "url": "https://open.spotify.com/track/2Zb9Yix5QBYjgkCflM4Qe9"
     }
   ],
   "unique_name": "The oTHERS",

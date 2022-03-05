@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 
-> Explore the ever\-evolving roots & folk scene\. Cover: Molly Tuttle
+> Explore the ever\-evolving roots & folk scene\. Cover: Brandi Carlile
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dust](https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Dust](https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy) | 5:02 | 2022-02-25 |  |
 | [Dyan](https://open.spotify.com/track/24VL42SyykfEQGYIdyAg1H) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Dyan](https://open.spotify.com/album/5rgmHYbqXbu6pJsQp1uRlv) | 2:38 | 2021-12-10 |  |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2021-12-10 |  |
+| [Endless Time](https://open.spotify.com/track/3kQuEicvCFQ9AQoBM2pvqR) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6rn5v0MUWC69CE7Dk7llnC) | 4:20 | 2022-03-04 |  |
 | [Every Drop](https://open.spotify.com/track/5gpShDmknIBLH6JDhzhHu4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso \(Deluxe Edition\)](https://open.spotify.com/album/5xWV1OMbab5FjXNnlshacS) | 3:06 | 2021-12-10 | 2022-02-26 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-02-12 |
 | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO) | 2:58 | 2022-01-07 |  |
@@ -124,6 +125,7 @@
 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2021-12-10 | 2022-02-19 |
 | [Taking Me Back \(Gently\)](https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:36 | 2021-12-10 |  |
 | [Tangled](https://open.spotify.com/track/5sCS5RD3FoaPpru90mS8R7) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Tangled](https://open.spotify.com/album/4g32h5uIabwgSDGykJTvSh) | 3:47 | 2022-02-11 |  |
+| [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-03-04 |  |
 | [The Blues Have Blown Away](https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [The Blues Have Blown Away](https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b) | 2:47 | 2021-12-10 |  |
 | [The Exception](https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Exception](https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX) | 4:07 | 2021-12-10 |  |
 | [The Good Old Days](https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [The Good Old Days](https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF) | 3:38 | 2022-01-21 |  |
@@ -136,6 +138,7 @@
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2021-12-10 |  |
 | [These Fires](https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:51 | 2021-12-17 |  |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-12-10 |  |
+| [This Is A Photograph](https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE) | 3:30 | 2022-03-04 |  |
 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 | 2021-12-10 | 2022-01-08 |
 | [Vini Wè](https://open.spotify.com/track/15k4qMUlrAfEyuQILWe110) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Vini Wè](https://open.spotify.com/album/05sG8hbCEVtuHbtoA2QdYr) | 4:34 | 2022-02-25 |  |
 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 | 2022-02-11 |  |

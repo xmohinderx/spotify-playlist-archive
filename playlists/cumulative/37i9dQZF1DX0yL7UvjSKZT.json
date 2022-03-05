@@ -102,6 +102,40 @@
     },
     {
       "album": {
+        "name": "Indoor Vistas",
+        "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
+      },
+      "artists": [
+        {
+          "name": "Ethan Sherman",
+          "url": "https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse"
+        },
+        {
+          "name": "Thomas Cassell",
+          "url": "https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa"
+        },
+        {
+          "name": "Matthew Davis",
+          "url": "https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26"
+        },
+        {
+          "name": "Avery Merritt",
+          "url": "https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku"
+        },
+        {
+          "name": "Tim McNalley",
+          "url": "https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237768,
+      "name": "And Then, And Then, And Then",
+      "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+    },
+    {
+      "album": {
         "name": ".-..",
         "url": "https://open.spotify.com/album/2V1FvKvcKEsYNHXW1wXNHU"
       },
@@ -921,6 +955,24 @@
       "duration_ms": 326493,
       "name": "Julep",
       "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+    },
+    {
+      "album": {
+        "name": "Just Pick One",
+        "url": "https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Just Pick One",
+      "url": "https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX"
     },
     {
       "album": {

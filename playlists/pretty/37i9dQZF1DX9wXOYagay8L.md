@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw?si=eNx68SW3SjSschrTA28O\-g">Zinah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,006 likes - 65 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,056 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 22 | [Sawubona](https://open.spotify.com/track/7G8x0BvmlnsMTnp2tFnVNL) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Sawubona](https://open.spotify.com/album/6ZODtzCIIFss38Zpts2ZBi) | 4:15 |
 | 23 | [Balele](https://open.spotify.com/track/6WzAPWft8Rxhn91qoEQlmL) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Umsebenzi \(Gold Deluxe\)](https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz) | 3:54 |
 | 24 | [1 November](https://open.spotify.com/track/0xFrjHM0BH49huXC2n1fdk) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL) | [Karabo](https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc) | 4:35 |
-| 25 | [uBaba](https://open.spotify.com/track/4RAUKdu1tEeeF9sKgfh2jB) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [The Maniac DJ](https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC), [Alie Keys](https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL), [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw) | [Amagalelo](https://open.spotify.com/album/1KdQjmlYYh74SahJmDNGSV) | 4:49 |
+| 25 | [uBaba](https://open.spotify.com/track/4RAUKdu1tEeeF9sKgfh2jB) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [The Maniac DJ](https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC), [Alie Keys](https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL), [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw), [6th Avenue](https://open.spotify.com/artist/2XyPsNCNV26Bb720pI9Tli) | [Amagalelo](https://open.spotify.com/album/1KdQjmlYYh74SahJmDNGSV) | 4:49 |
 | 26 | [Zwivhuya](https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:35 |
 | 27 | [Amagama \- Outro](https://open.spotify.com/track/5svm683IVMIlIsUbnh09gP) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama \(Outro\)](https://open.spotify.com/album/4qoViDJuin6g4MihSrGxf6) | 2:37 |
 | 28 | [Baningi](https://open.spotify.com/track/5byAvC8hytkJlo4TXnds0J) | [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Baningi](https://open.spotify.com/album/0lANtXBUCsWjCDCZetzfew) | 4:25 |
@@ -72,6 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 62 | [Two Strokes](https://open.spotify.com/track/42S5AtrSNY05sTksB2p5o7) | [Viwe](https://open.spotify.com/artist/3Q0MK38M8FGQrpZ1dnh6k1) | [Ngoku](https://open.spotify.com/album/5EFVPzXx88teAhccDWYkWc) | 4:07 |
 | 63 | [Jike'lemaweni](https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 4:28 |
 | 64 | [Nzwakazi](https://open.spotify.com/track/7qoqQWKWYZTuHjJuqvwe5t) | [Bonga Kwana](https://open.spotify.com/artist/60Wka611vbfLW4IG31w99x) | [New faces to old problems](https://open.spotify.com/album/6dppQTbTIWldHxHF8zJOAO) | 3:55 |
-| 65 | [Things We Love](https://open.spotify.com/track/7vsLUjThYsm2jNotIEFuVq) | [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX) | [Things We Love](https://open.spotify.com/album/5pBSpliSTS4JTn2Ky3EIVP) | 4:33 |
+| 65 | [Holding On](https://open.spotify.com/track/2RjU4DPIgrXZWc97pGsMuO) | [Romo](https://open.spotify.com/artist/1gBaZj95aDyGNuHFj20qU0), [Zanda Zakuza](https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe), [Mkoma Saan](https://open.spotify.com/artist/6YXIqgdPcfeDcxxY1WxNdM) | [Start Over](https://open.spotify.com/album/74iDavaRV7ZBYxOurJGGhw) | 4:50 |
+| 66 | [Things We Love](https://open.spotify.com/track/7vsLUjThYsm2jNotIEFuVq) | [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX) | [Things We Love](https://open.spotify.com/album/5pBSpliSTS4JTn2Ky3EIVP) | 4:33 |
 
-Snapshot ID: `MTY0NjM0NDc0MCwwMDAwMDI5MDAwMDAwMTdmNTFjYjFkMGQwMDAwMDE3ZjJiZjI4NGJl`
+Snapshot ID: `MTY0NjM5NDA5OCwwMDAwMDI5MTAwMDAwMTdmNTRiYzQxZTgwMDAwMDE3ZjJiZjI4NGJl`

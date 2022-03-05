@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Camila Cabello, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,493 likes - 84 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,517 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 18 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 |
 | 19 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 |
 | 20 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 |
-| 21 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
+| 21 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DK](https://open.spotify.com/artist/0NgvbdprOZ9AdTczmfnGsv) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
 | 22 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
 | 23 | [Trust Me With This \(Mama\)](https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Trust Me With This \(Mama\)](https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO) | 3:44 |
 | 24 | [Crying in the Rain](https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Crying in the Rain](https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U) | 2:35 |

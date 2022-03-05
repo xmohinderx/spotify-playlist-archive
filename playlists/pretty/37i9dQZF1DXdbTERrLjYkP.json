@@ -1,29 +1,13 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Dylan Conrique",
-  "num_followers": 53112,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Zevia",
+  "num_followers": 53290,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTIwMCwwMDAwMDA0NjAwMDAwMTdmMmY0MDA5M2IwMDAwMDE3ZWZmNjFhODA4",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDA0NzAwMDAwMTdmNTM0YzhkMzMwMDAwMDE3ZjQ4MGI4ZGIz",
   "tracks": [
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Love You More",
-        "url": "https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 169765,
-      "name": "Love You More",
-      "url": "https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL"
-    },
     {
       "added_at": "2022-02-11 05:02:00",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 203470,
       "name": "life, im over you",
       "url": "https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Forward / Slash",
-        "url": "https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi"
-      },
-      "artists": [
-        {
-          "name": "Leanna Firestone",
-          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
-        }
-      ],
-      "duration_ms": 263541,
-      "name": "Google Translate / poppies",
-      "url": "https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -73,20 +41,100 @@
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
-      "added_at": "2022-02-25 05:00:00",
+      "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "can't hate you yet",
-        "url": "https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP"
+        "name": "I Hate The Beatles",
+        "url": "https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ"
       },
       "artists": [
         {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 202623,
-      "name": "can't hate you yet",
-      "url": "https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs"
+      "duration_ms": 185806,
+      "name": "I Hate The Beatles",
+      "url": "https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Forward / Slash",
+        "url": "https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi"
+      },
+      "artists": [
+        {
+          "name": "Leanna Firestone",
+          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+        }
+      ],
+      "duration_ms": 263541,
+      "name": "Google Translate / poppies",
+      "url": "https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Mr. Forgettable",
+        "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Mr. Forgettable",
+      "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2eS6hfchrO12pXPSvH5YDy"
+      },
+      "artists": [
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "duration_ms": 144557,
+      "name": "Makes Me Sick",
+      "url": "https://open.spotify.com/track/2gCIv3pJkzfX4kRj6wnIAS"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 169765,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -107,6 +155,70 @@
       "duration_ms": 189247,
       "name": "reckless driving (feat. Ben Kessler)",
       "url": "https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Phoebe Told Me",
+        "url": "https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "Phoebe Told Me",
+      "url": "https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Fat Funny Friend",
+        "url": "https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 199764,
+      "name": "Fat Funny Friend",
+      "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
+    },
+    {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "see you later",
+        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 207740,
+      "name": "2%",
+      "url": "https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "can't hate you yet",
+        "url": "https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "duration_ms": 202623,
+      "name": "can't hate you yet",
+      "url": "https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -157,20 +269,20 @@
       "url": "https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "Fat Funny Friend",
-        "url": "https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0"
+        "name": "Feels Like Magic",
+        "url": "https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "Sarah Proctor",
+          "url": "https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl"
         }
       ],
-      "duration_ms": 199764,
-      "name": "Fat Funny Friend",
-      "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
+      "duration_ms": 187961,
+      "name": "Feels Like Magic",
+      "url": "https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -187,22 +299,6 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "see you later",
-        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 207740,
-      "name": "2%",
-      "url": "https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -427,22 +523,6 @@
       "duration_ms": 201306,
       "name": "I Lost Myself In Loving You",
       "url": "https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V"
-    },
-    {
-      "added_at": "2022-02-09 19:26:00",
-      "album": {
-        "name": "Only Emotion",
-        "url": "https://open.spotify.com/album/6UxOg4nG9oarhtHFQghmbC"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 205965,
-      "name": "Your World",
-      "url": "https://open.spotify.com/track/55tJrxAsKjmkFK1PMSY5Uh"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -691,22 +771,6 @@
       "duration_ms": 230200,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Not For Me",
-        "url": "https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg"
-      },
-      "artists": [
-        {
-          "name": "Sarah Proctor",
-          "url": "https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl"
-        }
-      ],
-      "duration_ms": 226404,
-      "name": "Not For Me",
-      "url": "https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1363,22 +1427,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "20mg of Happiness",
-        "url": "https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "All my favorite songs",
-      "url": "https://open.spotify.com/track/5JG7dSDKuy5tSM77KLnCzY"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "What Was, Not Now",
         "url": "https://open.spotify.com/album/0izGGxTiCAzk9Sgu8loZTe"
       },
@@ -1495,22 +1543,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/7q1q1QmZumtecSST83J210"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 235374,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "If I Had Stayed",
         "url": "https://open.spotify.com/album/0m8Vg18eqPH7maMYhzyBKB"
       },
@@ -1539,22 +1571,6 @@
       "duration_ms": 161999,
       "name": "You'll Be Fine",
       "url": "https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "CHAPTER 2: The Shedding",
-        "url": "https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "Unrecognizable",
-      "url": "https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
     },
     {
       "added_at": "2022-01-14 05:00:00",

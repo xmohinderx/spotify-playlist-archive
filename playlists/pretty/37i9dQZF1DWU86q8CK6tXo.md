@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to female\-identifying only bangers alongside <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi's</a> personal picks Cover: LP Giobbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,549 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,554 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Disgusting](https://open.spotify.com/track/70u2tvGnIkPG6ZkeXmfaZd) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:36 |
 | 50 | [Hunted](https://open.spotify.com/track/1SRc7L73ECx6Lz4kPHTQhs) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Power](https://open.spotify.com/album/3lb3YJcUcA8ijiR0kUIHMu) | 3:14 |
 
-Snapshot ID: `MTY0NjM1NTAyNSwwMDAwMDAwMGM4NGFlMDViNDY5ZTY0NzU2NjViOTNmODIyNDZiYjdi`
+Snapshot ID: `MTY0NjQ0MTI1MywwMDAwMDAwMGM4NGFlMDViNDY5ZTY0NzU2NjViOTNmODIyNDZiYjdi`

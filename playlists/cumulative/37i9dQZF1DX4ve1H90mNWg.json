@@ -186,6 +186,24 @@
     },
     {
       "album": {
+        "name": "Campaign",
+        "url": "https://open.spotify.com/album/0TKHlddjauRFC1dWKaeXkb"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179571,
+      "name": "Campaign",
+      "url": "https://open.spotify.com/track/4wCX0hAaXG3TlqB5iVR4wB"
+    },
+    {
+      "album": {
         "name": "Casa Blanco",
         "url": "https://open.spotify.com/album/2HUdRkxYm1elYvNXlxgLFN"
       },
@@ -295,6 +313,24 @@
       "duration_ms": 158485,
       "name": "Drink Up",
       "url": "https://open.spotify.com/track/5yESvfqq1TL2iS08XeD2m1"
+    },
+    {
+      "album": {
+        "name": "Hard On A 304",
+        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121269,
+      "name": "Feelin Sexy",
+      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
     },
     {
       "album": {
@@ -484,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Hope It Don't Change You",
+        "url": "https://open.spotify.com/album/6tGyI9cCXDMXoScLR3Z9B1"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255699,
+      "name": "Hope It Don't Change You",
+      "url": "https://open.spotify.com/track/5RJoLafqd954rpRleTWjOA"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/3hxTTzd658zM7Y5058CzaP"
       },
@@ -517,6 +571,24 @@
       "duration_ms": 169012,
       "name": "Juice Box",
       "url": "https://open.spotify.com/track/2jViL46toq1BVMaXGHQZF2"
+    },
+    {
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191375,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
     },
     {
       "album": {
@@ -816,6 +888,24 @@
     },
     {
       "album": {
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "Right Out The Gate",
+      "url": "https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq"
+    },
+    {
+      "album": {
         "name": "Rose Gold Stripper Pole (feat. 2 Chainz)",
         "url": "https://open.spotify.com/album/14eXE65nvhQnfzBwLIR4Td"
       },
@@ -849,7 +939,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 96000,
       "name": "Same",
       "url": "https://open.spotify.com/track/2uFl9B6frO8XoKmR8ERspT"

@@ -6,8 +6,24 @@
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzA3OCxhZGNhZjA3MGI1MjI1NTM3M2E0MDQ2MzQ0ZmJhMTA5YzRlOWI0NjVh",
+  "snapshot_id": "MzA3OSw0ODk2MWZjMDEyZTliNTQxNGYzMGEyMjgxMTBkZDI4MDY5NjY1MDNk",
   "tracks": [
+    {
+      "added_at": "2022-03-04 15:19:02",
+      "album": {
+        "name": "Hey Girl",
+        "url": "https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"
+    },
     {
       "added_at": "2022-02-25 15:58:11",
       "album": {

@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTQ1NCw4ZTk0MGE1MmY5N2I3M2JkNTAxNzI0MTc4YjI1MDFmMzNhZmZmMDlj",
+  "snapshot_id": "NTQ1NSxlYjY2Yjg3NzY0ODY2ZmYyODUzM2JiZmI0Yzc2MjIwY2JkMTAwNTRl",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -689,26 +689,6 @@
       "url": "https://open.spotify.com/track/53EsDQghnk9rdBelvhDGH7"
     },
     {
-      "added_at": "2021-08-06 13:10:05",
-      "album": {
-        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
-        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Nunc gaudeant materna viscera (Antiphona)",
-      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
-    },
-    {
       "added_at": "2018-08-01 14:20:34",
       "album": {
         "name": "Music of the Crusades",
@@ -735,6 +715,26 @@
       "duration_ms": 255000,
       "name": "Chanterai por mon corage",
       "url": "https://open.spotify.com/track/5gb4RsudiAMDby7otcJE1o"
+    },
+    {
+      "added_at": "2021-08-06 13:10:05",
+      "album": {
+        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
+        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Nunc gaudeant materna viscera (Antiphona)",
+      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
     },
     {
       "added_at": "2021-08-06 13:10:05",
@@ -1201,10 +1201,10 @@
       "url": "https://open.spotify.com/track/2ERC147YmociX27DagDhqC"
     },
     {
-      "added_at": "2021-05-07 13:32:21",
+      "added_at": "2018-02-09 19:10:59",
       "album": {
-        "name": "Codex Faenza: Instrumental Music of the Early 15th Century",
-        "url": "https://open.spotify.com/album/1zytU9oZjHxbRDUI7IYEd1"
+        "name": "The Second Circle - Love Songs of Francesco Landini",
+        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
       },
       "artists": [
         {
@@ -1212,17 +1212,13 @@
           "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
         },
         {
-          "name": "Unicorn Ensemble",
-          "url": "https://open.spotify.com/artist/27HUTDcqSdkdXMOoOI70B4"
-        },
-        {
-          "name": "Michael Posch",
-          "url": "https://open.spotify.com/artist/59yus9rA8obcifF7Yd6d3o"
+          "name": "Anonymous 4",
+          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Non avra ma'pieta questa mia donna",
-      "url": "https://open.spotify.com/track/0Vj29Y3IWplmAKiYwh0d8w"
+      "duration_ms": 225266,
+      "name": "Nella partita",
+      "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -2461,24 +2457,24 @@
       "url": "https://open.spotify.com/track/6jPkdYIckdsdgU9i0r4nD7"
     },
     {
-      "added_at": "2022-02-11 15:59:25",
+      "added_at": "2022-03-04 19:43:41",
       "album": {
-        "name": "Chant Wars",
-        "url": "https://open.spotify.com/album/1z9XU7q9GKmjcubhJ0QrI5"
+        "name": "Boethius: Songs of Consolation",
+        "url": "https://open.spotify.com/album/4KEW5satTIwmKBTtuH3Xvn"
       },
       "artists": [
         {
-          "name": "Anonymous\u00a0",
-          "url": "https://open.spotify.com/artist/35y6unM66rGPWHTRFNrqKS"
+          "name": "Anicius Manlius Severinus Boethius",
+          "url": "https://open.spotify.com/artist/3W5rAL2GY92Kd7ucM5AoXy"
         },
         {
           "name": "Sequentia",
           "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
         }
       ],
-      "duration_ms": 562946,
-      "name": "A solis ortu usque ad occidua (lament on the death of Charlemagne, 814)",
-      "url": "https://open.spotify.com/track/2s1rJwlSAvQ5c8WR8fQOeD"
+      "duration_ms": 419373,
+      "name": "Carmina qui quondam",
+      "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
     },
     {
       "added_at": "2020-09-04 11:13:08",
@@ -2573,10 +2569,10 @@
       "url": "https://open.spotify.com/track/6AyksliTShvT5gIQF3tPgP"
     },
     {
-      "added_at": "2021-12-03 15:48:01",
+      "added_at": "2022-03-04 19:43:41",
       "album": {
-        "name": "Nuits occitanes: Troubadours' Songs",
-        "url": "https://open.spotify.com/album/6BZVATSU6DRrXNNGWg6YsJ"
+        "name": "Troubadours",
+        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
       },
       "artists": [
         {
@@ -2584,21 +2580,17 @@
           "url": "https://open.spotify.com/artist/478YvKazAcdkUNVK0RcKi5"
         },
         {
-          "name": "Ensemble Celadon",
-          "url": "https://open.spotify.com/artist/3ha9slqgoQKxJWpjCjQT9T"
+          "name": "Clemencic Consort",
+          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
         },
         {
-          "name": "Paulin Bundgen",
-          "url": "https://open.spotify.com/artist/5yeDYqucWsOWVATNbcNjQi"
-        },
-        {
-          "name": "Clara Coutouly",
-          "url": "https://open.spotify.com/artist/1BqjzkEuQ8PcKvCVA7BmYP"
+          "name": "Rene Clemencic",
+          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
         }
       ],
-      "duration_ms": 560306,
-      "name": "A chantar m'er",
-      "url": "https://open.spotify.com/track/61y6i0JxuBDvnF4vb2qFVd"
+      "duration_ms": 876013,
+      "name": "A Chantar",
+      "url": "https://open.spotify.com/track/53IDumFHPm0UcQbT1uSc0B"
     },
     {
       "added_at": "2021-01-29 09:00:09",
@@ -3105,10 +3097,10 @@
       "url": "https://open.spotify.com/track/0p7LzVPYfpw9RUUEiR3lXS"
     },
     {
-      "added_at": "2020-07-28 22:10:03",
+      "added_at": "2021-07-16 16:03:42",
       "album": {
-        "name": "Trouveres:H\u00f6fische Liebeslieder aus Nordfrankreich",
-        "url": "https://open.spotify.com/album/4SfY2wTVbaPs1gitfXDqiP"
+        "name": "A Medieval Tapestry: Instrumental and Vocal Music from the 12th through 14th Centuries",
+        "url": "https://open.spotify.com/album/13Oui7WRzWGKRu5Wgqxsnb"
       },
       "artists": [
         {
@@ -3116,13 +3108,13 @@
           "url": "https://open.spotify.com/artist/5LfIXNo9YfnCtzlSHUBfsp"
         },
         {
-          "name": "Sequentia",
-          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+          "name": "Folger Consort",
+          "url": "https://open.spotify.com/artist/06afJF4U39HXd18HTXppaG"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Estampie",
-      "url": "https://open.spotify.com/track/4vsRMp4PMFHjY8T6orOOVg"
+      "duration_ms": 423933,
+      "name": "Bietris est mes delis",
+      "url": "https://open.spotify.com/track/5soicLhevzwE3Cwc3rJkCX"
     },
     {
       "added_at": "2020-07-28 22:10:03",
@@ -3553,10 +3545,10 @@
       "url": "https://open.spotify.com/track/0L66jOz0UAz1Pab9VGKyOE"
     },
     {
-      "added_at": "2018-02-09 19:10:59",
+      "added_at": "2021-05-07 13:32:21",
       "album": {
-        "name": "The Second Circle - Love Songs of Francesco Landini",
-        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
+        "name": "Codex Faenza: Instrumental Music of the Early 15th Century",
+        "url": "https://open.spotify.com/album/1zytU9oZjHxbRDUI7IYEd1"
       },
       "artists": [
         {
@@ -3564,13 +3556,17 @@
           "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
         },
         {
-          "name": "Anonymous 4",
-          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
+          "name": "Unicorn Ensemble",
+          "url": "https://open.spotify.com/artist/27HUTDcqSdkdXMOoOI70B4"
+        },
+        {
+          "name": "Michael Posch",
+          "url": "https://open.spotify.com/artist/59yus9rA8obcifF7Yd6d3o"
         }
       ],
-      "duration_ms": 225266,
-      "name": "Nella partita",
-      "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
+      "duration_ms": 258933,
+      "name": "Non avra ma'pieta questa mia donna",
+      "url": "https://open.spotify.com/track/0Vj29Y3IWplmAKiYwh0d8w"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -3753,24 +3749,24 @@
       "url": "https://open.spotify.com/track/1M2s3IqLcABhrgG9YeRwQB"
     },
     {
-      "added_at": "2022-01-21 13:11:22",
+      "added_at": "2022-03-04 19:43:41",
       "album": {
         "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
         "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
       },
       "artists": [
         {
-          "name": "Anonyme",
-          "url": "https://open.spotify.com/artist/7zcwtgxeHkX3wMn7kygxFY"
+          "name": "Bernard de Ventadour",
+          "url": "https://open.spotify.com/artist/3KEqtcegawmyVTHsq40cZa"
         },
         {
           "name": "Ensemble Tre Fontane",
           "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
         }
       ],
-      "duration_ms": 242226,
-      "name": "Amour, tenson et bataille",
-      "url": "https://open.spotify.com/track/5jFqkkOkTQFZmicM2RyS7G"
+      "duration_ms": 366813,
+      "name": "Quand l'herba fresca",
+      "url": "https://open.spotify.com/track/3CWQsGWF09wgPQipTLrAF5"
     },
     {
       "added_at": "2022-02-25 18:25:14",
@@ -4237,10 +4233,10 @@
       "url": "https://open.spotify.com/track/1NRNotWsC0CamMM66h0OtZ"
     },
     {
-      "added_at": "2022-02-25 18:25:14",
+      "added_at": "2022-03-04 19:43:41",
       "album": {
-        "name": "Notre-Dame - Cath\u00e9drale d'\u00e9motions",
-        "url": "https://open.spotify.com/album/4zaUgU7SpZ1gJCh99E6VDm"
+        "name": "Songs of Angels",
+        "url": "https://open.spotify.com/album/0PNdnnvCZXXBr316pUo54Z"
       },
       "artists": [
         {
@@ -4248,33 +4244,17 @@
           "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
         },
         {
-          "name": "Maitrise Notre-Dame De Paris",
-          "url": "https://open.spotify.com/artist/2WUj4SjgI0ufKd3jiBbDl9"
+          "name": "New London Consort",
+          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
         },
         {
-          "name": "B\u00e9reng\u00e8re Sardin",
-          "url": "https://open.spotify.com/artist/2aDYTxKYlbqrBYqALgqlNT"
-        },
-        {
-          "name": "C\u00e9cile Achille",
-          "url": "https://open.spotify.com/artist/3AJUGu8R7YmpyGNTLuPNtw"
-        },
-        {
-          "name": "Rapha\u00ebl Mas",
-          "url": "https://open.spotify.com/artist/4NxFxE8eaoIaIVQiKLkxJz"
-        },
-        {
-          "name": "Sol\u00e8ne Riot",
-          "url": "https://open.spotify.com/artist/1ZDra2YKlFb1dNlhj8A7Mc"
-        },
-        {
-          "name": "Sylvain Dieudonn\u00e9",
-          "url": "https://open.spotify.com/artist/6n5ufXOwzawZ7NevjdOhAx"
+          "name": "Philip Pickett",
+          "url": "https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt"
         }
       ],
-      "duration_ms": 335813,
-      "name": "Gautier de Coincy: Hui matin a l'ajourn\u00e9e",
-      "url": "https://open.spotify.com/track/6UzJU8H27rbSjaJ76dSwNe"
+      "duration_ms": 723506,
+      "name": "Amours qui biens ses enchanter",
+      "url": "https://open.spotify.com/track/4gHqdwqlZXoSSb0dwcIjct"
     },
     {
       "added_at": "2022-02-18 14:09:15",
@@ -4609,10 +4589,10 @@
       "url": "https://open.spotify.com/track/0d1xBKT7QXkUEzqNRIBweY"
     },
     {
-      "added_at": "2022-01-28 15:17:24",
+      "added_at": "2022-03-04 19:43:41",
       "album": {
-        "name": "Firenze 1350, un jardin m\u00e9di\u00e9val florentin",
-        "url": "https://open.spotify.com/album/4mPDRTf8XaBlOT0TnhqzaH"
+        "name": "Landini e la musica Fiorentina",
+        "url": "https://open.spotify.com/album/2lOCz0TI9XjyFjk1aZiWmp"
       },
       "artists": [
         {
@@ -4620,17 +4600,13 @@
           "url": "https://open.spotify.com/artist/5HFwH1LXpwJDUg0uau3JiF"
         },
         {
-          "name": "Anna Danilevskaia",
-          "url": "https://open.spotify.com/artist/2mbLMU9Nj9dZeuMJkwcTjL"
-        },
-        {
-          "name": "Sollazzo Ensemble",
-          "url": "https://open.spotify.com/artist/1Tmb526IJMkzDwaXjPg93P"
+          "name": "Micrologus",
+          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
         }
       ],
-      "duration_ms": 257899,
-      "name": "Quando la stella",
-      "url": "https://open.spotify.com/track/46ut5xENuPSPnIAkzNTX7k"
+      "duration_ms": 295640,
+      "name": "Quand'Amor - Canzone",
+      "url": "https://open.spotify.com/track/0Wuvf9euZ42qRxjDG0KXXH"
     },
     {
       "added_at": "2021-02-19 11:36:47",
@@ -4693,10 +4669,10 @@
       "url": "https://open.spotify.com/track/0KOhKEu8gMk5hEVAZUkUBD"
     },
     {
-      "added_at": "2021-07-16 16:03:42",
+      "added_at": "2020-07-28 22:10:03",
       "album": {
-        "name": "A Medieval Tapestry: Instrumental and Vocal Music from the 12th through 14th Centuries",
-        "url": "https://open.spotify.com/album/13Oui7WRzWGKRu5Wgqxsnb"
+        "name": "Trouveres:H\u00f6fische Liebeslieder aus Nordfrankreich",
+        "url": "https://open.spotify.com/album/4SfY2wTVbaPs1gitfXDqiP"
       },
       "artists": [
         {
@@ -4704,13 +4680,13 @@
           "url": "https://open.spotify.com/artist/5LfIXNo9YfnCtzlSHUBfsp"
         },
         {
-          "name": "Folger Consort",
-          "url": "https://open.spotify.com/artist/06afJF4U39HXd18HTXppaG"
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
         }
       ],
-      "duration_ms": 423933,
-      "name": "Bietris est mes delis",
-      "url": "https://open.spotify.com/track/5soicLhevzwE3Cwc3rJkCX"
+      "duration_ms": 202466,
+      "name": "Estampie",
+      "url": "https://open.spotify.com/track/4vsRMp4PMFHjY8T6orOOVg"
     },
     {
       "added_at": "2022-02-18 14:09:15",

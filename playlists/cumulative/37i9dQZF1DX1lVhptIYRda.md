@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
-> Today's top country hits of the week, worldwide! Cover: Luke Combs
+> Today's top country hits of the week, worldwide! Cover: Gabby Barrett
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Beer:30](https://open.spotify.com/track/3jnQaDieHcTkkIrkJFIJvC) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6\-Pack](https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma) | 2:18 | 2020-05-24 | 2020-06-12 |
 | [Beers And Sunshine](https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine](https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR) | 2:58 | 2020-12-06 | 2021-03-14 |
 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 | 2021-10-16 |  |
-| [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-01-28 |  |
+| [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-01-28 | 2022-03-05 |
 | [Best Thing Since Backroads](https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Best Thing Since Backroads](https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue) | 3:07 | 2021-09-18 |  |
 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 | 2019-06-22 | 2019-11-09 |
 | [Better Than That](https://open.spotify.com/track/1R65hpDEf3BiYRmdaa7roQ) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Better Than That](https://open.spotify.com/album/64EzSE1DPtbfk5OUFCC6B5) | 3:18 | 2020-12-12 | 2021-02-20 |
@@ -141,6 +141,7 @@
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2020-10-23 | 2021-07-24 |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-01-27 | 2021-09-11 |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-04-30 | 2022-01-15 |
+| [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 |  |
 | [FYI](https://open.spotify.com/track/4WsoGxI9LCcAiB20WpUCoT) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [stages](https://open.spotify.com/album/4tbyDJAk0A6ZXGmIWcShB2) | 3:24 | 2019-08-24 | 2019-11-09 |
 | [Gaslighter](https://open.spotify.com/track/4BR0bp4qHX1lcBM2HtnoIm) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/0duNimI62kUS00BEgZ1gKV) | 3:23 | 2020-03-14 | 2020-05-02 |
 | [Getting Good](https://open.spotify.com/track/6ZU30kIHamg5oiQm4gQQ3A) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/3Jdjyvn35LXAi6r7cIHx4U) | 3:21 | 2020-01-13 | 2020-08-30 |
@@ -250,6 +251,7 @@
 | [Knowing You](https://open.spotify.com/track/2EEfUuBRZA4Ax1vYcluFS0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:46 | 2021-03-27 | 2021-11-06 |
 | [la](https://open.spotify.com/track/0YCHNLppOQkT0fNg6UAXhr) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [la](https://open.spotify.com/album/2Szj6AvXKHtR90Gi81bj6R) | 2:46 | 2020-02-01 | 2020-02-15 |
 | [Lady](https://open.spotify.com/track/3ySLzrN7950dpf1ncttONO) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Lady](https://open.spotify.com/album/6YjMnlV7GWmnUs4lN8bym9) | 3:13 | 2020-05-09 | 2021-04-17 |
+| [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-03-04 |  |
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2020-03-28 | 2020-05-09 |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 |  |
 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 | 2021-12-17 |  |
@@ -400,7 +402,7 @@
 | [State I'm In](https://open.spotify.com/track/6X9Lb3LG0Zx73lIWh9uild) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/56jWZh2aLv7o4LAiMrQPT2) | 2:36 | 2020-03-14 | 2020-05-09 |
 | [Stay Over](https://open.spotify.com/track/6YJY9l59OBxy3UKSeplf2q) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Stay Over](https://open.spotify.com/album/4Ub8EQuX5Fbwj0NTIpLkVl) | 3:03 | 2019-11-29 | 2020-02-29 |
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-28 |  |
-| [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-08-14 |  |
+| [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-08-14 | 2022-03-05 |
 | [Still Goin Down](https://open.spotify.com/track/096YtKWNRXdmYKFLelSBto) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Still Goin Down](https://open.spotify.com/album/1pizuXyasoOyxRbQFfmQqa) | 3:06 | 2020-12-12 | 2021-02-03 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-11-20 |  |
 | [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 | 2022-01-28 |  |

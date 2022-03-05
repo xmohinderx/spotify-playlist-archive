@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Joey Bada$$",
+  "description": "Up and down I-95. Cover: Conway The Machine",
   "name": "State of Mind",
   "published_playlist_ids": [
     "5nDkSNAemcz9OTqltErkCS"
@@ -27,6 +27,24 @@
       "duration_ms": 162253,
       "name": "Arya (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7"
+    },
+    {
+      "album": {
+        "name": "ATL",
+        "url": "https://open.spotify.com/album/1qttdjROESl0r19XsNwwE5"
+      },
+      "artists": [
+        {
+          "name": "Curly J",
+          "url": "https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107716,
+      "name": "ATL",
+      "url": "https://open.spotify.com/track/3wvhEtGHLOmWfdJLGjNgqS"
     },
     {
       "album": {
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 136760,
       "name": "Bussin",
       "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
@@ -257,6 +275,32 @@
       "duration_ms": 98218,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt"
+    },
+    {
+      "album": {
+        "name": "Casamigos Freestyle",
+        "url": "https://open.spotify.com/album/255y0FUpZ5VgDRDrSh7FiT"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        },
+        {
+          "name": "Charlie Heat",
+          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
+        },
+        {
+          "name": "Kirk Knight",
+          "url": "https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Casamigos Freestyle",
+      "url": "https://open.spotify.com/track/5JVZ62EMS4kvo7nzvDL4nE"
     },
     {
       "album": {
@@ -704,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Head High",
+        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Head High",
+      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+    },
+    {
+      "album": {
         "name": "HYPERNOVA.",
         "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
       },
@@ -723,6 +785,28 @@
       "duration_ms": 136303,
       "name": "Head$hot! (with Trippie Redd)",
       "url": "https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP"
+    },
+    {
+      "album": {
+        "name": "Hear Me Clearly",
+        "url": "https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141547,
+      "name": "Hear Me Clearly (with Nigo)",
+      "url": "https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS"
     },
     {
       "album": {
@@ -748,6 +832,28 @@
     },
     {
       "album": {
+        "name": "Hit Different (feat. B-Lovee)",
+        "url": "https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183941,
+      "name": "Hit Different (feat. B-Lovee)",
+      "url": "https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp"
+    },
+    {
+      "album": {
         "name": "Hoop Earrings",
         "url": "https://open.spotify.com/album/43KYrCZVk4uR7g1ttmqK5j"
       },
@@ -763,6 +869,24 @@
       "duration_ms": 143999,
       "name": "Hoop Earrings",
       "url": "https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ"
+    },
+    {
+      "album": {
+        "name": "I Ain't Gon Lie",
+        "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "I Ain't Gon Lie",
+      "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
     },
     {
       "album": {
@@ -1189,10 +1313,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 161024,
       "name": "Murda",
       "url": "https://open.spotify.com/track/0r4a2v0RdpnOUc6Rjy9Zsb"
+    },
+    {
+      "album": {
+        "name": "MURDAMAN!",
+        "url": "https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u"
+      },
+      "artists": [
+        {
+          "name": "YungManny",
+          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156708,
+      "name": "MURDAMAN!",
+      "url": "https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ"
     },
     {
       "album": {
@@ -1349,7 +1491,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 206813,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/2UdWZt2fxKf0UCakVzGYpG"
@@ -1527,7 +1669,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 150912,
       "name": "Said It\u2019s Lit",
       "url": "https://open.spotify.com/track/4sw5u1NAL7Wd1WaPBEHOFj"
@@ -1611,7 +1753,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 197043,
       "name": "Show Me Something",
       "url": "https://open.spotify.com/track/6sAic1RifoLBsJApRomgkq"
@@ -1665,7 +1807,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 310547,
       "name": "State of the Union, Pt. II",
       "url": "https://open.spotify.com/track/4Vg262UJVApIlI7d0xhkoc"
@@ -1723,7 +1865,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 180672,
       "name": "Stolen Greatness",
       "url": "https://open.spotify.com/track/5NI8sIgUyEj0tDXoghqVja"
@@ -1850,6 +1992,24 @@
     },
     {
       "album": {
+        "name": "The Wolf Is In The Peacoat",
+        "url": "https://open.spotify.com/album/67p1Bgut3cEHpDJBTG8NQV"
+      },
+      "artists": [
+        {
+          "name": "Doley Bernays",
+          "url": "https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196325,
+      "name": "The Wolf Is In The Peacoat",
+      "url": "https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3"
+    },
+    {
+      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -1967,7 +2127,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 175489,
       "name": "WHAT YOU NEED",
       "url": "https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve"

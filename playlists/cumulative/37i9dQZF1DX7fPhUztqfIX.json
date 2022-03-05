@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 332110,
       "name": "Adoration",
       "url": "https://open.spotify.com/track/6gQfufUDm9HDQhxhofqO8Z"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 263059,
       "name": "All The Ways",
       "url": "https://open.spotify.com/track/4xB0tLG0TPVYFWRPrLxETi"
@@ -237,6 +237,24 @@
       "duration_ms": 320867,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+    },
+    {
+      "album": {
+        "name": "Both Sides",
+        "url": "https://open.spotify.com/album/2mOA22tJ5FcaRBWuAfaGiy"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330169,
+      "name": "Both Sides",
+      "url": "https://open.spotify.com/track/45zVXGrDxZjvnT4i0qmHuq"
     },
     {
       "album": {
@@ -601,7 +619,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 288777,
       "name": "How Deep",
       "url": "https://open.spotify.com/track/3EIApilvbtOjjiOdMewQq8"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 346591,
       "name": "How High",
       "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 207800,
       "name": "I Remember - Studio Version",
       "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 316946,
       "name": "Just As I Am (Nothing to Prove)",
       "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
@@ -1560,6 +1578,24 @@
     },
     {
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308560,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu"
+    },
+    {
+      "album": {
         "name": "Living God",
         "url": "https://open.spotify.com/album/3EDSq0etGiOHOOozAeE7BQ"
       },
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 267467,
       "name": "Lord You Have My Heart (feat. Martin Smith)",
       "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
@@ -1769,7 +1805,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 345710,
       "name": "Nothing But The Blood (Live)",
       "url": "https://open.spotify.com/track/3PdUCd6MSSC6v7VLKSQvys"
@@ -2937,7 +2973,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 385294,
       "name": "Your Name - Live",
       "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"

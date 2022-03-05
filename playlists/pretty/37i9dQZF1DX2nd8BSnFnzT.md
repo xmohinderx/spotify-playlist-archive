@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Detonautas Roque Clube
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Di Ferrero, Clarissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,873 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,896 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Quem Precisar de Mim](https://open.spotify.com/track/4q0ZITs6cm8INxwK5zS5xN) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Esperança](https://open.spotify.com/album/2VfqxUIeu7mW0Jhz9Xv3Ta) | 3:16 |
+| 1 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Descansa](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 |
 | 2 | [As coisas que te lembram de mim](https://open.spotify.com/track/4wP5yTolLwqx7l8C6cvOMQ) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [As coisas que te lembram de mim](https://open.spotify.com/album/71JEKgbshTiS2YDnUEHQXB) | 3:13 |
 | 3 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 |
-| 4 | [O Que Fazer](https://open.spotify.com/track/12aZo49DuRM8CtQz0ye9Re) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe), [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7) | [O Que Fazer](https://open.spotify.com/album/0CsZwptuoW0hWUCxZ0GdnV) | 2:51 |
-| 5 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
-| 6 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 |
-| 7 | [Ela Traiu o Rock And Roll \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/5GhZ6FWfK82xnQWc5qX9en) | [Pedra Leticia](https://open.spotify.com/artist/3RizejcAkXH07quZqFCtpU), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Pedra Letícia ilumina Sonastério](https://open.spotify.com/album/5H7T27oIJGXx9JX7GwOkIR) | 3:40 |
+| 4 | [Filhos da Desilusão](https://open.spotify.com/track/1uZ8qza99USpObn9guAAfK) | [Excluídos](https://open.spotify.com/artist/3u24uyMrCe7Yvurb51K8lF) | [Filhos da Desilusão](https://open.spotify.com/album/2bBviZGl7eV6HtqWyWnc5J) | 4:30 |
+| 5 | [Ela Traiu o Rock And Roll \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/5GhZ6FWfK82xnQWc5qX9en) | [Pedra Leticia](https://open.spotify.com/artist/3RizejcAkXH07quZqFCtpU), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Pedra Letícia ilumina Sonastério](https://open.spotify.com/album/5H7T27oIJGXx9JX7GwOkIR) | 3:40 |
+| 6 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
+| 7 | [A Quem Precisar de Mim](https://open.spotify.com/track/4q0ZITs6cm8INxwK5zS5xN) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Esperança](https://open.spotify.com/album/2VfqxUIeu7mW0Jhz9Xv3Ta) | 3:16 |
 | 8 | [Laura](https://open.spotify.com/track/0mVzzMNdJfTQA4WSOt0Zlb) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Laura](https://open.spotify.com/album/5Pg8NItOkY9qaW0nDqca40) | 4:03 |
-| 9 | [DISCÓRDIA](https://open.spotify.com/track/3uJ7nGe0COVBFMWcoUvTmD) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [DISCÓRDIA](https://open.spotify.com/album/31fDcR8XivjpJ9AK7kNjGt) | 3:23 |
-| 10 | [Mais um Sábado Perdido](https://open.spotify.com/track/0aTRGWsVtazREkGaIR9EdW) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Mais um Sábado Perdido](https://open.spotify.com/album/2RnAXXsGewXhBgdqeiFf99) | 2:03 |
-| 11 | [Então Falou](https://open.spotify.com/track/7pSShzMg7PqEmRHbuQe63j) | [Primittivo](https://open.spotify.com/artist/4W41tDziy1sqkYpmg3m2zg) | [Então Falou](https://open.spotify.com/album/0VEVzIL7B0w7x2K3nolgeT) | 2:45 |
+| 9 | [Aquário](https://open.spotify.com/track/6ZIRB5Ms01u1GiVTZCSrzE) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Aquário](https://open.spotify.com/album/7yxxEZGcOwhbA7UV01x8Nx) | 4:34 |
+| 10 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 |
+| 11 | [Brasil 2000](https://open.spotify.com/track/046kpjWkxbBBnuEhHJlnq6) | [Os Roucos](https://open.spotify.com/artist/1mZXgYy65PyfmSu3soYrPs) | [Brasil 2000](https://open.spotify.com/album/3dGSyLAl6yalKGOpHE0rg2) | 3:05 |
 | 12 | [Todo Dia é Dia de Comemorar \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/2FgMoBbrgy2hzetNNrbbXz) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/album/7mf53NHZ8LnRVDy0qFwdOH) | 3:40 |
-| 13 | [O Faraó](https://open.spotify.com/track/7Avx0HsCnKCq2LTNaPiyQE) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [O Faraó](https://open.spotify.com/album/6w2b8VUmqYjWhxow4rKoYD) | 2:30 |
-| 14 | [Aquário](https://open.spotify.com/track/6ZIRB5Ms01u1GiVTZCSrzE) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Aquário](https://open.spotify.com/album/7yxxEZGcOwhbA7UV01x8Nx) | 4:34 |
-| 15 | [Filhos da Desilusão](https://open.spotify.com/track/1uZ8qza99USpObn9guAAfK) | [Excluídos](https://open.spotify.com/artist/3u24uyMrCe7Yvurb51K8lF) | [Filhos da Desilusão](https://open.spotify.com/album/2bBviZGl7eV6HtqWyWnc5J) | 4:30 |
-| 16 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 |
+| 13 | [Mais um Sábado Perdido](https://open.spotify.com/track/0aTRGWsVtazREkGaIR9EdW) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Mais um Sábado Perdido](https://open.spotify.com/album/2RnAXXsGewXhBgdqeiFf99) | 2:03 |
+| 14 | [Paranoia Gigante](https://open.spotify.com/track/0tt3xMFyE29zsNT0GIWKB0) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Paranoia Gigante](https://open.spotify.com/album/2rFlV9QEHKscbrr8HbKRTO) | 2:22 |
+| 15 | [Fogo e Não Fagulha](https://open.spotify.com/track/4h6GdLcFT8JvmUMUrfaCsr) | [Genomma](https://open.spotify.com/artist/5r5pqAi92RZNyAcmiEccjv) | [Fogo e Não Fagulha](https://open.spotify.com/album/4Mj69iXq7ghsdv4pBSsiHX) | 4:36 |
+| 16 | [A Volta](https://open.spotify.com/track/1MyWIvkVvahDc7ifLKG8iZ) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Volta](https://open.spotify.com/album/29RHpQagn2LRkxffMEPQdb) | 5:00 |
 | 17 | [Fiz 18](https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Fiz 18](https://open.spotify.com/album/3B803upCKgO5My70u4J7sK) | 3:14 |
-| 18 | [A Volta](https://open.spotify.com/track/1MyWIvkVvahDc7ifLKG8iZ) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Volta](https://open.spotify.com/album/29RHpQagn2LRkxffMEPQdb) | 5:00 |
-| 19 | [Fogo e Não Fagulha](https://open.spotify.com/track/4h6GdLcFT8JvmUMUrfaCsr) | [Genomma](https://open.spotify.com/artist/5r5pqAi92RZNyAcmiEccjv) | [Fogo e Não Fagulha](https://open.spotify.com/album/4Mj69iXq7ghsdv4pBSsiHX) | 4:36 |
-| 20 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
-| 21 | [Fábula de uma Granada](https://open.spotify.com/track/4OdsxenDbioHIBtVH0jNow) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Fábula de uma Granada](https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK) | 3:49 |
-| 22 | [Paranoia Gigante](https://open.spotify.com/track/0tt3xMFyE29zsNT0GIWKB0) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z) | [Paranoia Gigante](https://open.spotify.com/album/2rFlV9QEHKscbrr8HbKRTO) | 2:22 |
+| 18 | [Então Falou](https://open.spotify.com/track/7pSShzMg7PqEmRHbuQe63j) | [Primittivo](https://open.spotify.com/artist/4W41tDziy1sqkYpmg3m2zg) | [Então Falou](https://open.spotify.com/album/0VEVzIL7B0w7x2K3nolgeT) | 2:45 |
+| 19 | [O Faraó](https://open.spotify.com/track/7Avx0HsCnKCq2LTNaPiyQE) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [O Faraó](https://open.spotify.com/album/6w2b8VUmqYjWhxow4rKoYD) | 2:30 |
+| 20 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 |
+| 21 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 |
+| 22 | [Fábula de uma Granada](https://open.spotify.com/track/4OdsxenDbioHIBtVH0jNow) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Fábula de uma Granada](https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK) | 3:49 |
 | 23 | [Farofada Rock 'N Roll](https://open.spotify.com/track/4dVpdccbklkJ6lC1hffbJN) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Farofada Rock 'N Roll](https://open.spotify.com/album/34oikwHIkR0WhLmuPALBhx) | 3:34 |
 | 24 | [Metade Verdade](https://open.spotify.com/track/3XZgXb3XNjpPzUFFvAk6u2) | [Skolta](https://open.spotify.com/artist/0uVN3qgcVCwOUh5kvPQr51) | [Metade Verdade](https://open.spotify.com/album/2HrP56DCGpb1KvI0EksF0k) | 2:57 |
 | 25 | [Hora do Brasil](https://open.spotify.com/track/1oFIcBntvDjPU1tZ0yNYIN) | [Notívagos](https://open.spotify.com/artist/0llzGPxlorxbuUUwg04Emr) | [Hora do Brasil](https://open.spotify.com/album/73UFcMw5mHNqu682gX6vqx) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 |
 | 75 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 |
 
-Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDE0ZjAwMDAwMTdmMmVkMzE2NTkwMDAwMDE3ZWJmZTgzY2U0`
+Snapshot ID: `MTY0NjM2Mjg2MCwwMDAwMDE1MDAwMDAwMTdmNTJkZjlhM2YwMDAwMDE3ZjUwMDMxYjg4`

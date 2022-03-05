@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 
 > Comforting sounds of thunder and rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,535 likes - 202 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,640 likes - 200 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,13 +202,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 | 192 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 |
 | 193 | [Tormenta de la ciudad](https://open.spotify.com/track/64FAYSx9qRx8NltbjhIepz) | [Mia Paleta](https://open.spotify.com/artist/74lAHgwfFrDoZG6IKRmH9I) | [Tormenta de la selva](https://open.spotify.com/album/18u0aMfE6Ubx0Vi4GsYC2u) | 1:49 |
 | 194 | [Cracks of Thunder And Rainstorm](https://open.spotify.com/track/6GcUI8GPOR0oJActmrRKNE) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 2:54 |
-| 195 | [Calm Rain and Distant Thunder](https://open.spotify.com/track/44h6z1eReBUJaTl0cY8pof) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes](https://open.spotify.com/album/2XIwjSDOK23s1B9JgdxOE8) | 2:06 |
-| 196 | [Lluvia suave y truenos](https://open.spotify.com/track/19vICChcY7vRxy4NXp28mn) | [Exovis](https://open.spotify.com/artist/3sGurfp0enhDPhU9yuzIPL) | [Costa Tormenta](https://open.spotify.com/album/0cbvzR6kQKKgae4LrO3zST) | 1:58 |
-| 197 | [Heavy Rain \- Far away Thunder](https://open.spotify.com/track/1unfb0iDjqjrRiD6vQuSpz) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 1:59 |
-| 198 | [Rain & Thunder](https://open.spotify.com/track/390qr10wt5OInQ92Vd7ADt) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Rain & Thunder](https://open.spotify.com/album/3lSiIzAOT48IJLDgNb3Orw) | 3:12 |
-| 199 | [Sunday Night Thunder](https://open.spotify.com/track/10IftqX1oBDG0W0Q9cpDxd) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Misty Rain](https://open.spotify.com/album/0XYTjI6bP5Wh1bLsUIRBtW) | 2:48 |
-| 200 | [Earthy Rain With Rolling Thunder](https://open.spotify.com/track/0xmwsmYdbXuZDHeixtATZF) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 4:22 |
-| 201 | [Thunderstorm by Night](https://open.spotify.com/track/5YWO3rtH2xuF7Ysy1XenjF) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Distant Thunder](https://open.spotify.com/album/2sReYyHQzGTthoDBByyKFx) | 3:09 |
-| 202 | [Mother Thunder](https://open.spotify.com/track/75LkHXK4cTBnoBfAvJwT0O) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Thunderstorm Sound Therapy](https://open.spotify.com/album/6qzPvYOHW07m4E8cnW0SVa) | 2:36 |
+| 195 | [Lluvia suave y truenos](https://open.spotify.com/track/19vICChcY7vRxy4NXp28mn) | [Exovis](https://open.spotify.com/artist/3sGurfp0enhDPhU9yuzIPL) | [Costa Tormenta](https://open.spotify.com/album/0cbvzR6kQKKgae4LrO3zST) | 1:58 |
+| 196 | [Heavy Rain \- Far away Thunder](https://open.spotify.com/track/1unfb0iDjqjrRiD6vQuSpz) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 1:59 |
+| 197 | [Rain & Thunder](https://open.spotify.com/track/390qr10wt5OInQ92Vd7ADt) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Rain & Thunder](https://open.spotify.com/album/3lSiIzAOT48IJLDgNb3Orw) | 3:12 |
+| 198 | [Sunday Night Thunder](https://open.spotify.com/track/10IftqX1oBDG0W0Q9cpDxd) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Misty Rain](https://open.spotify.com/album/0XYTjI6bP5Wh1bLsUIRBtW) | 2:48 |
+| 199 | [Earthy Rain With Rolling Thunder](https://open.spotify.com/track/0xmwsmYdbXuZDHeixtATZF) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 4:22 |
+| 200 | [Mother Thunder](https://open.spotify.com/track/75LkHXK4cTBnoBfAvJwT0O) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Thunderstorm Sound Therapy](https://open.spotify.com/album/6qzPvYOHW07m4E8cnW0SVa) | 2:36 |
 
-Snapshot ID: `MTY0NTc5Nzc0MCwwMDAwMDA0NjAwMDAwMTdmMzEzMDhmZmUwMDAwMDE2Y2Y2OTFhZTUw`
+Snapshot ID: `MTY0NjQwNjM3NywwMDAwMDA0NzAwMDAwMTdmNTU3NzllZWYwMDAwMDE2Y2Y2OTFhZTUw`

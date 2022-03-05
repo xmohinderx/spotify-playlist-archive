@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 232286,
       "name": "Burdens",
       "url": "https://open.spotify.com/track/4IlBnAZ3kT5rEbkjDrD89b"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 424373,
       "name": "Defender",
       "url": "https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd"
@@ -854,6 +854,28 @@
     },
     {
       "album": {
+        "name": "Hope Is Here",
+        "url": "https://open.spotify.com/album/4p855YH6nf6IJgfiy6oNw7"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203197,
+      "name": "Hope Is Here (Do Not Fear)",
+      "url": "https://open.spotify.com/track/6uJaKvuzBPNxGmKWj5sVqj"
+    },
+    {
+      "album": {
         "name": "House Of The Lord",
         "url": "https://open.spotify.com/album/27yT7bqRfljcGXc7KFHzgB"
       },
@@ -955,7 +977,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2ZdoV837W0KtfWoTUHmEt1"
@@ -1013,7 +1035,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 232800,
       "name": "In the Arms",
       "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
@@ -1197,7 +1219,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 177319,
       "name": "Love",
       "url": "https://open.spotify.com/track/73cik4xfvTaCcUu2wPV47I"
@@ -1273,7 +1295,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 193073,
       "name": "Mean Girls",
       "url": "https://open.spotify.com/track/1fgQe9gzO6czUROrxPW7vb"
@@ -1417,7 +1439,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
@@ -1439,7 +1461,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Nobody (feat. Matthew West)",
       "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
@@ -1511,7 +1533,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 248386,
       "name": "Ordinary Days",
       "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
@@ -1587,7 +1609,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 200520,
       "name": "Prize Worth Fighting For",
       "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 198986,
       "name": "Reason",
       "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"

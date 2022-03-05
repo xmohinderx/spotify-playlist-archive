@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Nessa Barrett",
-  "num_followers": 253718,
+  "num_followers": 254267,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTIwMCwwMDAwMDA3OTAwMDAwMTdmMmY0MDA5NTMwMDAwMDE3ZjI4YzIwMTFi",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDA3YTAwMDAwMTdmNTM0YzhkNGMwMDAwMDE3ZjI4YzIwMTFi",
   "tracks": [
     {
       "added_at": "2022-02-25 05:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 204847,
       "name": "dying on the inside",
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "YES MOM",
+        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "YES MOM",
+      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Cherry Picking",
+        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
+      },
+      "artists": [
+        {
+          "name": "poutyface",
+          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
+        }
+      ],
+      "duration_ms": 150736,
+      "name": "Cherry Picking",
+      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -57,40 +89,36 @@
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
-      "added_at": "2022-02-25 05:00:00",
+      "added_at": "2022-02-11 05:02:00",
       "album": {
-        "name": "BOO HOO",
-        "url": "https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
       "artists": [
         {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        },
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 170502,
-      "name": "BOO HOO",
-      "url": "https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK"
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
+      "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "YES MOM",
-        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
+        "name": "Thing of Beauty",
+        "url": "https://open.spotify.com/album/4nz28faAHZndFb42UEwf5P"
       },
       "artists": [
         {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+          "name": "Danger Twins",
+          "url": "https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO"
         }
       ],
-      "duration_ms": 162360,
-      "name": "YES MOM",
-      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
+      "duration_ms": 199038,
+      "name": "Thing of Beauty",
+      "url": "https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -125,6 +153,22 @@
       "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Dear Denny",
+        "url": "https://open.spotify.com/album/6an5iKKW7Nf7PUTvCxna0A"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Dear Denny",
+      "url": "https://open.spotify.com/track/0ODA6YVgdZpss4n7JKaqzc"
+    },
+    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Celebrity Skin",
@@ -157,22 +201,6 @@
       "url": "https://open.spotify.com/track/1ACbgqWv4OYTqd3BBYVLVF"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Make A Wish",
@@ -187,6 +215,26 @@
       "duration_ms": 158918,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N"
+    },
+    {
+      "added_at": "2022-02-25 05:00:00",
+      "album": {
+        "name": "BOO HOO",
+        "url": "https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        },
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "duration_ms": 170502,
+      "name": "BOO HOO",
+      "url": "https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1183,22 +1231,6 @@
       "duration_ms": 230985,
       "name": "Goodbye (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/7pwF2SFF9LUeqD0f5wWrSR"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "Boys Will Be Boys",
-        "url": "https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ"
-      },
-      "artists": [
-        {
-          "name": "poutyface",
-          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
-        }
-      ],
-      "duration_ms": 152626,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p"
     },
     {
       "added_at": "2022-01-14 17:52:12",

@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 250212,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/1cc282JtAEefN7O792U5P5"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 134400,
       "name": "Good Comfort",
       "url": "https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF"
@@ -663,6 +663,28 @@
       "duration_ms": 155060,
       "name": "Humans",
       "url": "https://open.spotify.com/track/07wqYnbgiSsNs0cRA4G1Pc"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/3yG8BUXM4bnQ8pH3KgHS2G"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160303,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/2XPIIi8TnoZMMzBE5RNOAm"
     },
     {
       "album": {
@@ -1241,7 +1263,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 166920,
       "name": "Run",
       "url": "https://open.spotify.com/track/6W7GzCtwCy88SazHUCN87W"
@@ -1267,6 +1289,42 @@
       "duration_ms": 193280,
       "name": "Scripture",
       "url": "https://open.spotify.com/track/5mxjjwz1QzSBZL92y9Gm7N"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215776,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+    },
+    {
+      "album": {
+        "name": "Skeleton Cartier",
+        "url": "https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221583,
+      "name": "Skeleton Cartier",
+      "url": "https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og"
     },
     {
       "album": {

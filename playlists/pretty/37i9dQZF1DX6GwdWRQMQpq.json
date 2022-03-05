@@ -1,13 +1,165 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Flo Milli\n",
-  "num_followers": 2100118,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Baby Tate\n",
+  "num_followers": 2100958,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc3NDMxNSwwMDAwMDQ3ZTAwMDAwMTdmMmZjYjFmNmMwMDAwMDE3ZjJkZDI3ODFl",
+  "snapshot_id": "MTY0NjM4MTA0OSwwMDAwMDQ4MTAwMDAwMTdmNTNmNTI3ZGEwMDAwMDE3ZjUxNGZiNTE5",
   "tracks": [
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Sl*t Him Out Again (feat. Kali)",
+        "url": "https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 232873,
+      "name": "Sl*t Him Out Again (feat. Kali)",
+      "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Hard On A 304",
+        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 170218,
+      "name": "Join Em",
+      "url": "https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Sneaky Link Shemix",
+        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 98795,
+      "name": "Sneaky Link Shemix",
+      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Get Into It (Yuh)",
+      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+    },
+    {
+      "added_at": "2022-03-04 08:01:31",
+      "album": {
+        "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+        "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "DOECHII",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+      "url": "https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa"
+    },
+    {
+      "added_at": "2022-02-25 07:31:55",
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty"
+      },
+      "artists": [
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 127821,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Hard On A 304",
+        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 121269,
+      "name": "Feelin Sexy",
+      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 152647,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
+    },
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
@@ -61,90 +213,6 @@
       "url": "https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Sneaky Link Shemix",
-        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
-      },
-      "artists": [
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 98795,
-      "name": "Sneaky Link Shemix",
-      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 138293,
-      "name": "Get Into It (Yuh)",
-      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
-    },
-    {
-      "added_at": "2022-02-25 07:31:55",
-      "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty"
-      },
-      "artists": [
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 127821,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172248,
-      "name": "Sl*t Him Out",
-      "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Rose Gold Stripper Pole",
-        "url": "https://open.spotify.com/album/4r2vHhtN23zIdYTdD0F27s"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 131256,
-      "name": "Rose Gold Stripper Pole",
-      "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
-    },
-    {
       "added_at": "2022-02-25 07:31:55",
       "album": {
         "name": "Play Me",
@@ -159,22 +227,6 @@
       "duration_ms": 174786,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/4GH6iowVcqBysygV2hbcH5"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 152647,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -227,6 +279,22 @@
       "duration_ms": 113429,
       "name": "Megan's Piano",
       "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+    },
+    {
+      "added_at": "2022-03-04 08:04:09",
+      "album": {
+        "name": "Black Wall Street",
+        "url": "https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv"
+      },
+      "artists": [
+        {
+          "name": "Killumantii",
+          "url": "https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1"
+        }
+      ],
+      "duration_ms": 122064,
+      "name": "Black Wall Street",
+      "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -685,22 +753,6 @@
       "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
     },
     {
-      "added_at": "2021-11-12 05:35:11",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/24lFjjePi1ey6ycLdW5WxZ"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/4F0flTfcEU2ZcStYhJsaRy"
-    },
-    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Keep Going",
@@ -827,38 +879,6 @@
       "duration_ms": 138847,
       "name": "SMA",
       "url": "https://open.spotify.com/track/40gDaWBsieyvULRBTYECY4"
-    },
-    {
-      "added_at": "2022-02-18 05:00:00",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/23kypbkgaHakfqAyvWZw0o"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 148769,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/4sRA220I8uSmsF0rffzGU8"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Moncler Coat",
-        "url": "https://open.spotify.com/album/2Aatr5J5mRJxyeHydQyNxF"
-      },
-      "artists": [
-        {
-          "name": "Sally Sossa",
-          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
-        }
-      ],
-      "duration_ms": 107554,
-      "name": "Moncler Coat",
-      "url": "https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ"
     }
   ],
   "unique_name": "Feelin' Myself",

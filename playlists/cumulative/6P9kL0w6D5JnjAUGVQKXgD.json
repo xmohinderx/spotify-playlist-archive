@@ -6218,6 +6218,24 @@
     },
     {
       "album": {
+        "name": "Eyes Low",
+        "url": "https://open.spotify.com/album/2ExbEfHDIqhkwgyXMLcjfE"
+      },
+      "artists": [
+        {
+          "name": "NILVO",
+          "url": "https://open.spotify.com/artist/0GzzvvQz8SOHQs8vUBgpwt"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Eyes Low",
+      "url": "https://open.spotify.com/track/0X2tErMEQ4JT5OYQiU6QlP"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/4pvMZr2Kfe1typbTqMHa8z"
       },
@@ -12971,7 +12989,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 190487,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"

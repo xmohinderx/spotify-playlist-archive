@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189572,
       "name": "Amarrau",
       "url": "https://open.spotify.com/track/110wE8SC4g65RkoyhpNy1T"
@@ -187,10 +187,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 122226,
       "name": "CHICKEN TERIYAKI",
       "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
+    },
+    {
+      "album": {
+        "name": "Close Friends",
+        "url": "https://open.spotify.com/album/4wViRQZsi7uVK4JIyYqUaS"
+      },
+      "artists": [
+        {
+          "name": "KAVVO",
+          "url": "https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Close Friends",
+      "url": "https://open.spotify.com/track/4wMXOcFLq0e73zlOj82gtY"
     },
     {
       "album": {
@@ -205,7 +223,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 189015,
       "name": "Cositas de la USA",
       "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
@@ -442,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Felices x Siempre",
+        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199656,
+      "name": "Felices x Siempre",
+      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
+    },
+    {
+      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -495,6 +531,24 @@
       "duration_ms": 194360,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/1KqpVKfZY3YvWndnx976s8"
+    },
+    {
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "album": {
@@ -1303,7 +1357,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S"
@@ -1403,6 +1457,24 @@
       "duration_ms": 384000,
       "name": "TUS FALLOS",
       "url": "https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF"
+    },
+    {
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
       "album": {

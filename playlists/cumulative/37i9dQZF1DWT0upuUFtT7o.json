@@ -2062,6 +2062,24 @@
     },
     {
       "album": {
+        "name": "Head Talk",
+        "url": "https://open.spotify.com/album/6Pn8Xla54rOrAfEQiUZgwd"
+      },
+      "artists": [
+        {
+          "name": "Milk Jennings",
+          "url": "https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248433,
+      "name": "Head Talk",
+      "url": "https://open.spotify.com/track/2Mk3CiL20ZXRVM0Kky7adJ"
+    },
+    {
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/2FaHuiTP5xJ5XM49X1Vh2o"
       },
@@ -3915,7 +3933,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 248433,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG"

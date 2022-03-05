@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 275253,
       "name": "2020",
       "url": "https://open.spotify.com/track/2JCskibhK5KQk8v8An371h"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 161386,
       "name": "Crescendo i Ga\u030agata",
       "url": "https://open.spotify.com/track/6d35rdVufTVqEuaAPLxeMt"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 288078,
       "name": "God Natt Oslo",
       "url": "https://open.spotify.com/track/03DAM7GVONIxrPlxD2nUbp"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 260425,
       "name": "Heim igjen",
       "url": "https://open.spotify.com/track/1fbdwwnIq1J1dfySdyJqAK"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 227342,
       "name": "Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/76aHRAWLLROERsUoj7qxaR"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 205098,
       "name": "Hjem",
       "url": "https://open.spotify.com/track/3FxG5apYswIMtnYIZN5RKH"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 187986,
       "name": "Hysj, Hysj, Hysj",
       "url": "https://open.spotify.com/track/5RXYGJbs0J8v2lLYOMxtYr"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 186552,
       "name": "Pusterom",
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
@@ -1851,6 +1851,24 @@
       "duration_ms": 218640,
       "name": "Sangen om de glemte",
       "url": "https://open.spotify.com/track/4UfaAnu4XTEA0ZOqtJD5is"
+    },
+    {
+      "album": {
+        "name": "Stemmer i gresset",
+        "url": "https://open.spotify.com/album/4pShZqbj6GLGA1WOJN1z8p"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300280,
+      "name": "Siste reis",
+      "url": "https://open.spotify.com/track/3zEYZy5WKMCAiQ1A19KAm0"
     },
     {
       "album": {
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 285653,
       "name": "S\u00f8tten \u00e5r",
       "url": "https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 213386,
       "name": "Til alle tider",
       "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 251429,
       "name": "Tru",
       "url": "https://open.spotify.com/track/78OG4KeOteCs5a91xWDBHi"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 194376,
       "name": "Vit at det g\u00e5r \u00f8ve",
       "url": "https://open.spotify.com/track/3eCQqf58kxhCSvTr3XCZFC"

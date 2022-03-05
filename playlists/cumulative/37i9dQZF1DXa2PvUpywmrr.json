@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Diplo & Miguel",
+  "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Tyga & Doja Cat",
   "name": "Party Hits",
   "published_playlist_ids": [
     "6N39LWNwWRmhfR5bmoeU2O"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/6tGXzXwj350NzXzB8gJihK"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
@@ -1232,6 +1232,32 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -1265,7 +1291,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 140525,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq"
@@ -2189,7 +2215,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 198041,
       "name": "Toxic Pony",
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
@@ -2471,7 +2497,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 253786,
       "name": "You've Got To Let Go If You Want To Be Free",
       "url": "https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya"

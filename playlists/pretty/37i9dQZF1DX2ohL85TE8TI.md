@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Twenty\-Five Twenty\-One\(스물 다섯, 스물 하나\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,354 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,723 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
+| 1 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DK](https://open.spotify.com/artist/0NgvbdprOZ9AdTczmfnGsv) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 |
 | 2 | [What A Wonderful Day](https://open.spotify.com/track/46BdLsA9u9ILTZ2mvd3nbp) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3NMhbHEMzUQF0BbOXtRR8a) | 3:43 |
 | 3 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
 | 4 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 73 | [Squabble](https://open.spotify.com/track/7Mj1kQLaqu6Rr6rwAIJQQh) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/0xhf7P1ycg3HDD2lbWbkPm) | 3:25 |
 | 74 | [Come Rest With Me](https://open.spotify.com/track/7eBWnVQM0lht1VwAWdCjaZ) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/1tzbEdDDAP6TRfvduSo5g7) | 4:06 |
 | 75 | [Jirisan \(Original Television Soundtrack\) Pt\. 12 \- Harmony of Leaves](https://open.spotify.com/track/43YsabUToeccQwjwltN1HK) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [박진우](https://open.spotify.com/artist/5PznNJBhiSwaZ0m8It9hYO) | [Jirisan \(Original Television Soundtrack\) Pt\. 12 \- Harmony of Leaves](https://open.spotify.com/album/7bSLtA7tbuviX1r0LuH7Tp) | 3:28 |
-| 76 | [Picture](https://open.spotify.com/track/6DanOFoU6LbNUwoNF8chl0) | [HYUNGWON \(MONSTAR X\)](https://open.spotify.com/artist/4DA3JiShDCvs1Doc4XxcDn) | [Picture \(Fly Again X HYUNGWON\(MONSTA X\)\)](https://open.spotify.com/album/2yjWnI16HqIN9RKbNuYYod) | 3:27 |
+| 76 | [Picture](https://open.spotify.com/track/6DanOFoU6LbNUwoNF8chl0) | [HYUNGWON](https://open.spotify.com/artist/2X7BGapA7C4ELFcpFWNNTx) | [Picture \(Fly Again X HYUNGWON\(MONSTA X\)\)](https://open.spotify.com/album/2yjWnI16HqIN9RKbNuYYod) | 3:27 |
 | 77 | [Valley of the Shadow](https://open.spotify.com/track/3T7GZGeQ9p3hFozQXPXcMw) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Jirisan \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/5BtgyFpiAfpiQiJQ5BQksw) | 3:38 |
 | 78 | [Little Garden](https://open.spotify.com/track/6TqE1z62mVjQozkDA1kG0J) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Jirisan \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/4RrVo22Yam09DaiRxz2HUT) | 4:09 |
 | 79 | [Finale](https://open.spotify.com/track/0oslYYo3t1iwbnoTJy1mja) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL : The Coup \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2RPRofE4Hq2f8KOLWR9B2M) | 3:07 |

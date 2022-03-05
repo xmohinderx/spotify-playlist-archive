@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 172094,
       "name": "A 200 mil",
       "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 206032,
       "name": "Ahots Hari",
       "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 170024,
       "name": "Aitormena",
       "url": "https://open.spotify.com/track/0Tei9Df9ToODKMjoDQ26cP"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 256851,
       "name": "Bajo el Sol",
       "url": "https://open.spotify.com/track/1NRdxh5Zl1Az79W9Z9NO5X"
@@ -730,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Ruidoso",
+        "url": "https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS"
+      },
+      "artists": [
+        {
+          "name": "Bella \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197525,
+      "name": "Coraz\u00f3n Ruidoso",
+      "url": "https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d"
+    },
+    {
+      "album": {
         "name": "Cruz del Sur",
         "url": "https://open.spotify.com/album/5aD3f3tNUtbVN3IeQbmkc9"
       },
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 128500,
       "name": "Despi\u00e9rtame Cuando Llegues",
       "url": "https://open.spotify.com/track/4YgfqwmFPUyRighlXA9kLa"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "El Agua Y La Miel / Milagro (Demo)",
       "url": "https://open.spotify.com/track/3Ujdh4BxO47sP3pkFxw7lm"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 297773,
       "name": "El don de la ternura",
       "url": "https://open.spotify.com/track/4UjvNMH8l88rk7OmLXtyIK"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/15MrK18b57Reu75doUBMxb"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 197485,
       "name": "Enredaderas",
       "url": "https://open.spotify.com/track/7jznLltf0c64ROOQCIEP97"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 179324,
       "name": "Herba de Namorar",
       "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 152264,
       "name": "No Fer Tant",
       "url": "https://open.spotify.com/track/2lx42rIGTfQzs3kGNPxnGf"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 245534,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
@@ -2448,6 +2466,24 @@
     },
     {
       "album": {
+        "name": "Parque Chas",
+        "url": "https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234837,
+      "name": "Parque Chas",
+      "url": "https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl"
+    },
+    {
+      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8"
       },
@@ -2543,7 +2579,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 223047,
       "name": "Propuestas Imposibles",
       "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
@@ -2731,7 +2767,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 354887,
       "name": "Ruegos y Dem\u00e1s",
       "url": "https://open.spotify.com/track/7fWlwO4QBU6TEg3sadKJCS"
@@ -2749,7 +2785,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/2cpVlayykQr0o0orPVt9ZZ"
@@ -2803,7 +2839,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 302976,
       "name": "Sana sana",
       "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
@@ -3283,7 +3319,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 214405,
       "name": "Tu Ciudad",
       "url": "https://open.spotify.com/track/0GX27xOEfQreqFwFoLlNzL"
@@ -3341,7 +3377,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 180757,
       "name": "Un d\u00eda lo encontr\u00e9",
       "url": "https://open.spotify.com/track/3oUpoOrGSqMWXtDnZMBRtZ"
@@ -3399,7 +3435,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 238946,
       "name": "Una Fecha En El Calendario",
       "url": "https://open.spotify.com/track/4SZToPB2zdHUmIASfZFFlI"

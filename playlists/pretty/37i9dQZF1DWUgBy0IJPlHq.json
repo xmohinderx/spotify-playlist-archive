@@ -1,28 +1,28 @@
 {
-  "description": "A new shade of Country. Cover: Zach Bryan",
-  "num_followers": 367505,
+  "description": "A new shade of Country. Cover: Midland",
+  "num_followers": 367721,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDBjZjAwMDAwMTdmMmY0MGYzNzgwMDAwMDE3ZjJjNWY3MmI0",
+  "snapshot_id": "MTY0NjQxMjc4MywwMDAwMDBkMTAwMDAwMTdmNTVkOTVmMjkwMDAwMDE3ZjUxZTU1YWUy",
   "tracks": [
     {
-      "added_at": "2022-02-25 05:01:00",
+      "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "From Austin",
-        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+        "name": "The Last Resort",
+        "url": "https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 207453,
-      "name": "From Austin",
-      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+      "duration_ms": 236800,
+      "name": "The Last Resort",
+      "url": "https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 222400,
       "name": "Marfa Lights",
       "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -71,26 +87,6 @@
       "duration_ms": 203373,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/45Ue0F8p2OaC94Jdyoeg6u"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Good To Be...",
-        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
-      "url": "https://open.spotify.com/track/0e0PhBW5VPfAn62bbupqy9"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -141,20 +137,20 @@
       "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "Sunrise Tells The Story",
-        "url": "https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0"
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH"
+      "duration_ms": 186718,
+      "name": "Gettin' By",
+      "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -239,34 +235,70 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Tehachapi",
-        "url": "https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3"
+        "name": "Drowning in Dreams, Pt. 1",
+        "url": "https://open.spotify.com/album/0FqqzkczFHMqkfVPzs7Ev8"
       },
       "artists": [
         {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2"
+      "duration_ms": 203964,
+      "name": "The Highway Song",
+      "url": "https://open.spotify.com/track/3vNsIsqM1MdTT1z4jNUf46"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2022-03-04 16:53:03",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+        "name": "High Heels",
+        "url": "https://open.spotify.com/album/6yIGyDzTIV1nkyN6Po3U2u"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 186718,
-      "name": "Gettin' By",
-      "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
+      "duration_ms": 202223,
+      "name": "High Heels",
+      "url": "https://open.spotify.com/track/1K2YZyRxCsUSIoqAriiYQj"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Good To Be...",
+        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
+      "url": "https://open.spotify.com/track/0e0PhBW5VPfAn62bbupqy9"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Moonriser",
+        "url": "https://open.spotify.com/album/1bUNx1cbXakYu9pjfDbZsp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Buxton",
+          "url": "https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP"
+        }
+      ],
+      "duration_ms": 212883,
+      "name": "On the Roof",
+      "url": "https://open.spotify.com/track/1E3anxRwTDfSt4ORRzugNi"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -299,22 +331,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 1",
-        "url": "https://open.spotify.com/album/0FqqzkczFHMqkfVPzs7Ev8"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "The Highway Song",
-      "url": "https://open.spotify.com/track/3vNsIsqM1MdTT1z4jNUf46"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g"
       },
@@ -327,6 +343,38 @@
       "duration_ms": 208856,
       "name": "Old Enough to Know",
       "url": "https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Tehachapi",
+        "url": "https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -395,22 +443,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Heading South",
-        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Heading South",
-      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "Shenandoah Shakedown",
         "url": "https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79"
       },
@@ -465,6 +497,26 @@
       "url": "https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ben Haggard",
+          "url": "https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Doin' This",
@@ -481,36 +533,20 @@
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "Circles Around This Town",
-        "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
+        "name": "In Between: The Collection",
+        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Get It Right",
-        "url": "https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ"
-      },
-      "artists": [
-        {
-          "name": "Bo Armstrong",
-          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Get It Right",
-      "url": "https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY"
+      "duration_ms": 180833,
+      "name": "Look At The Mess I'm In",
+      "url": "https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -531,18 +567,18 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi"
+        "name": "Circles Around This Town",
+        "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
       },
       "artists": [
         {
-          "name": "Jackson+Sellers",
-          "url": "https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 155706,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447"
+      "duration_ms": 195760,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -583,6 +619,22 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
+        "name": "Get It Right",
+        "url": "https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Get It Right",
+      "url": "https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
         "name": "Junky Star",
         "url": "https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x"
       },
@@ -615,26 +667,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Broken Families",
-        "url": "https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        },
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 197391,
-      "name": "Broken Families",
-      "url": "https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -699,6 +731,26 @@
       "duration_ms": 244240,
       "name": "Cheap Seats",
       "url": "https://open.spotify.com/track/5AnsnQkwnkPf2kxj05ZMlK"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "State Of Mind (feat. Margo Price)",
+        "url": "https://open.spotify.com/album/2SPR1ILQhgDjoSw1j92uMo"
+      },
+      "artists": [
+        {
+          "name": "Mike Campbell & The Dirty Knobs",
+          "url": "https://open.spotify.com/artist/1pBQqdeHHjEdCtjSUAdu0G"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 258061,
+      "name": "State Of Mind (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/3xbafuZ0aEPeHSwb1qxIpV"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -781,6 +833,22 @@
       "url": "https://open.spotify.com/track/5OasGMgbZAHCR4BnUXNVv8"
     },
     {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "You, Yeah, You",
+        "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 189329,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y"
+    },
+    {
       "added_at": "2022-02-18 15:39:02",
       "album": {
         "name": "Riddy Arman",
@@ -795,6 +863,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Non-Typical Find",
+        "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
+      },
+      "artists": [
+        {
+          "name": "Tylor & the Train Robbers",
+          "url": "https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F"
+        }
+      ],
+      "duration_ms": 289960,
+      "name": "Staring Down the North",
+      "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -895,22 +979,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "You, Yeah, You",
-        "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 189329,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "White Dove",
         "url": "https://open.spotify.com/album/0l9s01Apr4iWRPDBvNVjGK"
       },
@@ -931,22 +999,6 @@
       "duration_ms": 231749,
       "name": "White Dove",
       "url": "https://open.spotify.com/track/5SBpklyXHt6ledjUTz3TJ6"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Music City USA",
-        "url": "https://open.spotify.com/album/4vMGuocZFMQUaI9eiUjyiG"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 201163,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/7DrV8qvP5o1SWonZelyQuX"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -1043,22 +1095,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Non-Typical Find",
-        "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
-      },
-      "artists": [
-        {
-          "name": "Tylor & the Train Robbers",
-          "url": "https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F"
-        }
-      ],
-      "duration_ms": 289960,
-      "name": "Staring Down the North",
-      "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "Resentment (New Feelings Version)",
         "url": "https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv"
       },
@@ -1075,6 +1111,42 @@
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Music City USA",
+        "url": "https://open.spotify.com/album/4vMGuocZFMQUaI9eiUjyiG"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 201163,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/7DrV8qvP5o1SWonZelyQuX"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Broken Families",
+        "url": "https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        },
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 197391,
+      "name": "Broken Families",
+      "url": "https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -1243,6 +1315,38 @@
       "duration_ms": 293862,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Sunrise Tells The Story",
+        "url": "https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -1783,22 +1887,6 @@
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Long Game",
-        "url": "https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 180016,
-      "name": "Long Game",
-      "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
         "name": "Whiskey River",
         "url": "https://open.spotify.com/album/2Bq8jup1tjO1rxo7YTauaU"
       },
@@ -1863,26 +1951,6 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Dear Miss Loretta",
-        "url": "https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Patty Loveless",
-          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
-        }
-      ],
-      "duration_ms": 220307,
-      "name": "Dear Miss Loretta",
-      "url": "https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu"
     },
     {
       "added_at": "2022-02-04 05:00:00",

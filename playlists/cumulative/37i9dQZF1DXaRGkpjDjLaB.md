@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaRGkpjDjLaB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaRGkpjDjLaB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaRGkpjDjLaB)
 
-### Sad Bunny :\(
+### [Sad Bunny :\(](https://open.spotify.com/playlist/2iYOUxDATGg3IGgyFNnQZq)
 
 > If you're going to be sad, at least let it be with Bad Bunny.
 

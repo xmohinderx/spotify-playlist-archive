@@ -86,7 +86,7 @@
 | [With Or Without You](https://open.spotify.com/track/0tP5ogrxKrIPKHHc0seuOr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles \(Deluxe Version\)](https://open.spotify.com/album/7k7aHoW1MGWWQR0KXvswkx) | 4:56 | 2021-02-12 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [You Are My Sunshine](https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM) | 2:37 | 2021-02-12 |  |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2021-02-12 |  |
-| [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2021-02-12 |  |
-| [Your Song \- Remastered](https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 4:03 | 2021-02-12 | 2022-03-03 |
+| [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2021-02-12 | 2022-03-05 |
+| [Your Song \- Remastered](https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 4:03 | 2021-02-12 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

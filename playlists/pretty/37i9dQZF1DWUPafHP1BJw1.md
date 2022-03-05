@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,199 likes - 103 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,419 likes - 103 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 52 | [Across The Universe \(Arr\. Lawson\)](https://open.spotify.com/track/3tjcfuKQ71cu6fQTwzBNnv) | [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Rowena Calvert](https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Lysandre Ménard](https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5) | [Across The Universe \(Arr\. Lawson\)](https://open.spotify.com/album/7HXVpWl09KTOsLM39pW5o5) | 3:50 |
 | 53 | [Space Oddity](https://open.spotify.com/track/2BZkZHf4HRzWQtQQefZIRm) | [Metropole Orkest Cellos](https://open.spotify.com/artist/6wyZZfsz3SxmQZCFA7Tsh1) | [Space Oddity](https://open.spotify.com/album/2hAI9RiMftw5OiaLNOdhhm) | 6:35 |
 | 54 | [Chandelier](https://open.spotify.com/track/5A51C7Ank2IRW0TmhYkeoK) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 3:35 |
-| 55 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
+| 55 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
 | 56 | [Somebody That I Used to Know](https://open.spotify.com/track/4RF3cNvUyTDYiuj1Xw4XWs) | [Mike Dawes](https://open.spotify.com/artist/3B83ffT0B4Si3ttxzY9fMz) | [What Just Happened?](https://open.spotify.com/album/0tc53fBUv9MTYjhqFOIeWH) | 4:04 |
 | 57 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
 | 58 | [Smells Like Teen Spirit \- Piano Cover](https://open.spotify.com/track/6fvqtnABaU0svCjVTg7oSk) | [Queenz of Piano](https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz) | [Smells Like Teen Spirit](https://open.spotify.com/album/5ekaL7idjwFklKpUPZqChX) | 3:47 |

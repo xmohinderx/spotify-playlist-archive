@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Rex Orange County",
+  "description": "New and approved indie pop. Cover: BENEE",
   "name": "Indie Pop",
   "published_playlist_ids": [
     "2nCGCENCYFC3EyufXsiFQ9"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174857,
       "name": "1 2 365 4 Me",
       "url": "https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 195982,
       "name": "Adult Movies",
       "url": "https://open.spotify.com/track/5k3bwPbg6Kiz4bz76vRnyZ"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 130840,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 208128,
       "name": "Bad Friend",
       "url": "https://open.spotify.com/track/1xqypUOvcTFkO3kSmBlXhW"
@@ -1703,6 +1703,24 @@
       "duration_ms": 191462,
       "name": "Bitch (I Said It)",
       "url": "https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C"
+    },
+    {
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF"
+      },
+      "artists": [
+        {
+          "name": "LORA",
+          "url": "https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163504,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB"
     },
     {
       "album": {
@@ -2659,7 +2677,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 192773,
       "name": "Catch My Drift",
       "url": "https://open.spotify.com/track/2r3d7ZEucbIL2N7E1ayWyX"
@@ -5359,7 +5377,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 170706,
       "name": "Fill The Spaces",
       "url": "https://open.spotify.com/track/2ddgzUXidxSXERP4LaLwtF"
@@ -5413,7 +5431,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 154115,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u"
@@ -5723,7 +5741,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 156461,
       "name": "Furniture",
       "url": "https://open.spotify.com/track/6Yw8OzTprQU3pqwnBRodi3"
@@ -5781,7 +5799,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 209748,
       "name": "Games",
       "url": "https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG"
@@ -6448,6 +6466,24 @@
     },
     {
       "album": {
+        "name": "Harmless Fun",
+        "url": "https://open.spotify.com/album/7utbZQTQuG0qyPxHloha0L"
+      },
+      "artists": [
+        {
+          "name": "Belot",
+          "url": "https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132625,
+      "name": "Harmless Fun",
+      "url": "https://open.spotify.com/track/5K09SsCBHoecbMq3fUN7BW"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/5tgF2RTf3CbJiU8GSoeUsy"
       },
@@ -6567,7 +6603,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 167722,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh"
@@ -6669,7 +6705,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 166613,
       "name": "help herself (with BENEE)",
       "url": "https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi"
@@ -8738,6 +8774,24 @@
     },
     {
       "album": {
+        "name": "Last Man On Earth",
+        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188813,
+      "name": "Last Man On Earth",
+      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
+    },
+    {
+      "album": {
         "name": "Last Week On A Friday",
         "url": "https://open.spotify.com/album/0duCmbNg3WovtYaj09Zr61"
       },
@@ -10522,6 +10576,24 @@
     },
     {
       "album": {
+        "name": "Lychee",
+        "url": "https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237362,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG"
+    },
+    {
+      "album": {
         "name": "Never Fucking Fall in Love Again",
         "url": "https://open.spotify.com/album/0U6R4LjIiTa81tGQKWTDTd"
       },
@@ -12155,7 +12227,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/4xeGlEItAGRsWFykY7ixjW"
@@ -15677,7 +15749,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174278,
       "name": "the lifeboat's empty!",
       "url": "https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4"
@@ -16301,7 +16373,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 222902,
       "name": "UGLY",
       "url": "https://open.spotify.com/track/4se5MOrdbpU4nJUOrcf5td"
@@ -16953,7 +17025,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 177186,
       "name": "What's Wrong",
       "url": "https://open.spotify.com/track/1C5YO3ItmCjO2lUtLQmYYO"

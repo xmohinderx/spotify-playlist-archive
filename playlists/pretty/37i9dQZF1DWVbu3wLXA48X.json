@@ -1,12 +1,12 @@
 {
   "description": "Current indie tunes from Asia and around the world. Cover: The Crane",
-  "num_followers": 91189,
+  "num_followers": 91261,
   "original_name": "Indie Shuffle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMyMzIwMCwwMDAwMDE0ZjAwMDAwMTdmNTA4MjcwOGUwMDAwMDE3ZjUwNjU0N2E4",
+  "snapshot_id": "MTY0NjM4MTMxNywwMDAwMDE1MDAwMDAwMTdmNTNmOTNiOTMwMDAwMDE3ZjUwNjU0N2E4",
   "tracks": [
     {
       "added_at": "2022-03-03 16:00:00",
@@ -59,6 +59,22 @@
       "duration_ms": 154969,
       "name": "Can We Have A Conversation?",
       "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
+    },
+    {
+      "added_at": "2022-03-04 08:08:36",
+      "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/1M19JDKFDaQvAI4BTv3Gn5"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/3C6aaaQ73DYqlQqUbZ8m8p"
     },
     {
       "added_at": "2022-03-03 16:00:00",

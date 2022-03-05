@@ -805,7 +805,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 203187,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 191549,
       "name": "Va Cae",
       "url": "https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq"
@@ -1067,6 +1067,24 @@
       "duration_ms": 257650,
       "name": "Yo Te Adoro",
       "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5HCC9IAXVCgxAY7vRnZdb0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228101,
+      "name": "Yo Te Prometo - Remix",
+      "url": "https://open.spotify.com/track/3dO8ScvlHx9OnnICsFCFHN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbK4SCc53BQf"

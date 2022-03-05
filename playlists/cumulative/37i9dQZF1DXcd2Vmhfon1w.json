@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 234000,
       "name": "Ciego Por el Club",
       "url": "https://open.spotify.com/track/2k5Chk6O0ugyRdHL6OOFav"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 118000,
       "name": "CREDO",
       "url": "https://open.spotify.com/track/4dWsDhwVrP2W1WCxlOD3TP"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 130585,
       "name": "El Patr\u00f3n",
       "url": "https://open.spotify.com/track/2AJE7bubR0uhLhEXhgyerM"
@@ -668,6 +668,28 @@
     },
     {
       "album": {
+        "name": "Juglar del Siglo XXI",
+        "url": "https://open.spotify.com/album/7bxbscLnwPLah6i2bZVA9V"
+      },
+      "artists": [
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/4zKqmhQaO4H4b50EJyxiSa"
+    },
+    {
+      "album": {
         "name": "Guajiro",
         "url": "https://open.spotify.com/album/2xWes52vgOfvY7Q8IKAYv7"
       },
@@ -690,6 +712,28 @@
     },
     {
       "album": {
+        "name": "Madrid V",
+        "url": "https://open.spotify.com/album/63TOo644jy6PwbPeEb3Bsa"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Mon",
+          "url": "https://open.spotify.com/artist/3HkB3egKNBUqV7kojcri6g"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197872,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/7411L3K2yn8FsOBU09ONxY"
+    },
+    {
+      "album": {
         "name": "Hare Krishna",
         "url": "https://open.spotify.com/album/4Q6bZ5dGGtf0E9iDjf0G2h"
       },
@@ -705,6 +749,24 @@
       "duration_ms": 141932,
       "name": "Hare Krishna",
       "url": "https://open.spotify.com/track/29UNZ5fn0uFUJn19VSvX96"
+    },
+    {
+      "album": {
+        "name": "Hasta Cuando",
+        "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199595,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
     },
     {
       "album": {
@@ -767,6 +829,24 @@
       "duration_ms": 256695,
       "name": "La fabrica de sue\u00f1os",
       "url": "https://open.spotify.com/track/1mUMzzNbgaNzsIt42siYln"
+    },
+    {
+      "album": {
+        "name": "La Florinata",
+        "url": "https://open.spotify.com/album/1jnZco9PxSoj53UgEPFLEw"
+      },
+      "artists": [
+        {
+          "name": "Bejo",
+          "url": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236009,
+      "name": "La Florinata",
+      "url": "https://open.spotify.com/track/4mMru0gIj4JubTsnNqN3h8"
     },
     {
       "album": {
@@ -895,7 +975,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 178000,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/51H6AVeUAybOfvVukBMVqQ"

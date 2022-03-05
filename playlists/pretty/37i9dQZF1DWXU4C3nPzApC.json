@@ -1,15 +1,31 @@
 {
-  "description": "The best music with a Nashville flavour. Cover: The Shires",
-  "num_followers": 158279,
+  "description": "The best music with a Nashville flavour. Cover: Twinnie",
+  "num_followers": 158344,
   "original_name": "Very Nearly Nashville",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg0NzEyNCwwMDAwMDAzOTAwMDAwMTdlZjg4NzUxYjUwMDAwMDE3ZWY4ODZjMzIy",
+  "snapshot_id": "MTY0NjM5Njc4MywwMDAwMDAzYTAwMDAwMTdmNTRlNTNjYmUwMDAwMDE3ZjU0ZTBlNmJm",
   "tracks": [
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
+      "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW"
+      },
+      "artists": [
+        {
+          "name": "Twinnie",
+          "url": "https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b"
+        }
+      ],
+      "duration_ms": 189049,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V"
+    },
+    {
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Forever After All",
         "url": "https://open.spotify.com/album/461sUW89BloceHafW18Jrb"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/4DdUFOY2ums5dOOMBzoMYo"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "I See Stars",
         "url": "https://open.spotify.com/album/0Y1mySIig8YiKZrjJGXZs3"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/32WnhIyvw6RGjtNFrHF68W"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Circles Around This Town",
         "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "I Quit Drinking",
         "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Country Stuff",
         "url": "https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Don't Be a Stranger (feat. Cam)",
         "url": "https://open.spotify.com/album/1MtaySeGQhJpunJUa8dLei"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/3olaYC5TAKtKdz0zhMwxyV"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Pacifico (Deluxe)",
         "url": "https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "see you later (ten years)",
         "url": "https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3BmHqsIguuZLlnRHq5bPmg"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/0I3oSMNUCUBf6lqyZEsCte"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Better Than We Found It",
         "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Hollywood Gypsy",
         "url": "https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh"
@@ -277,27 +293,7 @@
       "url": "https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
-      "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
-    },
-    {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
@@ -313,7 +309,7 @@
       "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
@@ -333,7 +329,7 @@
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
@@ -349,7 +345,7 @@
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Just About Over You (Radio Edit)",
         "url": "https://open.spotify.com/album/5daeIQFYVirEPLqnivqo6h"
@@ -365,7 +361,7 @@
       "url": "https://open.spotify.com/track/7r4QGA98fNi3iPxc7umIjt"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Blessed & Free",
         "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
@@ -385,7 +381,7 @@
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "You Belong To Somebody Else",
         "url": "https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW"
@@ -405,7 +401,7 @@
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Lil Bit",
         "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
@@ -425,7 +421,7 @@
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "On Our Way",
         "url": "https://open.spotify.com/album/6U9ZFq4ZiqEdRyutUAhit8"
@@ -441,7 +437,7 @@
       "url": "https://open.spotify.com/track/3xWylfRlWliWQzubJEIWV9"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7u2aFGHQDsHOBufPfg4kbO"
@@ -457,7 +453,7 @@
       "url": "https://open.spotify.com/track/7iUd74cF2TPLC3O0ccxlCm"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Next Girl",
         "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
@@ -473,7 +469,7 @@
       "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Elevator Boots",
         "url": "https://open.spotify.com/album/7BqWW8M4L2IyA9Cl6CssD2"
@@ -489,7 +485,7 @@
       "url": "https://open.spotify.com/track/3jZ6v2I4mK5ugVYwht4Mfx"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "I Won't",
         "url": "https://open.spotify.com/album/0nhbhXjVhQvOH3XuOFWlMP"
@@ -505,7 +501,7 @@
       "url": "https://open.spotify.com/track/5P51W99kjEeqhMr8uHdI8m"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Coldest Fire",
         "url": "https://open.spotify.com/album/56xWbm7XpOgY52m9aTEdfS"
@@ -521,7 +517,7 @@
       "url": "https://open.spotify.com/track/6aMtFVU2OWJ6XCE36XPjGI"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/0cQJAAGTwnKJCz4FKLmooz"
@@ -537,7 +533,7 @@
       "url": "https://open.spotify.com/track/1S8NRzYfxtEDce2hEI80af"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Moonstar",
         "url": "https://open.spotify.com/album/2a7Iemv4KcVROkxXOKQ1Mg"
@@ -553,7 +549,7 @@
       "url": "https://open.spotify.com/track/6XJfecxMzGgOqtMsCSMUOy"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Swear It All Again",
         "url": "https://open.spotify.com/album/27VDig0LRMovkOjmzR8Um2"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/5dOnsC5uMCwBheWsVfYdxr"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Helpless to Help You",
         "url": "https://open.spotify.com/album/4sabTzXpuqanjL7grucJS7"
@@ -585,7 +581,7 @@
       "url": "https://open.spotify.com/track/1gisg7sH4MkPkPm2di1nim"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
@@ -601,7 +597,7 @@
       "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/4CbF1PlKGrpwgRcJCGY2z2"
@@ -617,7 +613,7 @@
       "url": "https://open.spotify.com/track/41CZ0ERIZE6HV5j28LbZ5J"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Light Year",
         "url": "https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/30cNitQYZeICMATH0G7kfb"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK"
@@ -657,7 +653,7 @@
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Backslider",
         "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Lay Low EP",
         "url": "https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/4ei1wfqTvqneY8b9pbdtY6"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Song of the Summer",
         "url": "https://open.spotify.com/album/4fpWwAbSqxqm1QmomZuBxk"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/6Ig11LezmkpIA32TnirLhB"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Diamond Studded Shoes",
         "url": "https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5"
@@ -745,7 +741,7 @@
       "url": "https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Little House Big Love",
         "url": "https://open.spotify.com/album/0qHXZk39IiGrPUhj2UwtS3"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/3qaFMNCJrxzO8o5Yi13uwN"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "State of Confusion",
         "url": "https://open.spotify.com/album/0PE5kuealmExWNziGj2DJn"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/4x75c8IwR61Kb5Qc5jYojA"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Bruise You Left",
         "url": "https://open.spotify.com/album/0lCoGeUUOQ2iQXk8FJsg2D"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/4QlQ9E86UWTyLNO8724Drv"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Everything Changes (Piano)",
         "url": "https://open.spotify.com/album/2jOKWDdT0tn8UxGbHO1BQj"
@@ -813,7 +809,7 @@
       "url": "https://open.spotify.com/track/3ZZ5x1z9tQ4dV1ZmC78lpj"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
@@ -829,7 +825,7 @@
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Sunshine & White Wine",
         "url": "https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW"
@@ -845,7 +841,7 @@
       "url": "https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw"
     },
     {
-      "added_at": "2022-02-14 13:58:44",
+      "added_at": "2022-03-04 12:26:23",
       "album": {
         "name": "Back To The Beginning",
         "url": "https://open.spotify.com/album/1mu2MMauRuWXh1v8ztD7rD"

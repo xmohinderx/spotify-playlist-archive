@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 363360,
+  "num_followers": 363417,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM1NTM3NiwwMDAwMDAwMDI1YWZhOTU1NjFkZTE5NDc1MDQxYmFmMDU2YWM5YmMw",
+  "snapshot_id": "MTY0NjQ0MTY0MiwwMDAwMDAwMDJmNTRlMGZkNzFkNGY5MDNkM2I4MjA3M2M0NTViZGY4",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
         }
       ],
-      "duration_ms": 216746,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
+      "duration_ms": 206800,
+      "name": "Chattanooga Choo Choo",
+      "url": "https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -75,22 +75,6 @@
       "duration_ms": 145933,
       "name": "More - Remastered 2004",
       "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Hi De Ho Man",
-        "url": "https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT"
-      },
-      "artists": [
-        {
-          "name": "Cab Calloway",
-          "url": "https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Everybody Eats When They Come To My House",
-      "url": "https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -115,22 +99,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Exotic Sounds from a Space Age Bachelor Pad",
         "url": "https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0"
       },
@@ -147,86 +115,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+        "name": "Hi De Ho Man",
+        "url": "https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Cab Calloway",
+          "url": "https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Verve Jazz Masters 54",
-        "url": "https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo"
-      },
-      "artists": [
-        {
-          "name": "Woody Herman",
-          "url": "https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Ultimate Big Band Collection: Glenn Miller",
-        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Chattanooga Choo Choo",
-      "url": "https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
-      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Atomic Mr Basie",
-        "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Whirly-Bird",
-      "url": "https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO"
+      "duration_ms": 167266,
+      "name": "Everybody Eats When They Come To My House",
+      "url": "https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -240,9 +140,9 @@
           "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 158226,
-      "name": "It Had to Be You (Big Band and Vocals)",
-      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -283,38 +183,34 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+        "name": "Ultimate Big Band Collection: Glenn Miller",
+        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
         }
       ],
-      "duration_ms": 183960,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
+      "duration_ms": 216746,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
     },
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The World Of Nat King Cole (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
+        "name": "Verve Jazz Masters 54",
+        "url": "https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo"
       },
       "artists": [
         {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        },
-        {
-          "name": "Stan Kenton & His Orchestra",
-          "url": "https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b"
+          "name": "Woody Herman",
+          "url": "https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P"
         }
       ],
-      "duration_ms": 153973,
-      "name": "Orange Colored Sky - Remastered 2005",
-      "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
+      "duration_ms": 184000,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -335,18 +231,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Quintessence",
-        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
         }
       ],
-      "duration_ms": 147080,
-      "name": "Straight, No Chaser",
-      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
+      "duration_ms": 171666,
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
+      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -371,18 +271,50 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+        "name": "Contrasts",
+        "url": "https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Jimmy Dorsey & His Orchestra",
+          "url": "https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Four Brothers",
-      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+      "duration_ms": 185333,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "It Had to Be You (Big Band and Vocals)",
+      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -411,6 +343,38 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "The Atomic Mr Basie",
+        "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Whirly-Bird",
+      "url": "https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Four Brothers",
+      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "More Smiles",
         "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
       },
@@ -427,18 +391,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Contrasts",
-        "url": "https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf"
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
       },
       "artists": [
         {
-          "name": "Jimmy Dorsey & His Orchestra",
-          "url": "https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 185333,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
+      "duration_ms": 183960,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -455,54 +419,6 @@
       "duration_ms": 187453,
       "name": "Rusty Dusty Blues",
       "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Decca Years",
-        "url": "https://open.spotify.com/album/653NffdK42IKzsD3goAEHg"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 125960,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/3krgfOQI9Szq8cF0Umm1O1"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
-        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "Three In One",
-      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Luck Be a Lady",
-      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -531,22 +447,38 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Cheek To Cheek (Deluxe)",
-        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+        "name": "The World Of Nat King Cole (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
         },
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Stan Kenton & His Orchestra",
+          "url": "https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b"
         }
       ],
-      "duration_ms": 143706,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV"
+      "duration_ms": 153973,
+      "name": "Orange Colored Sky - Remastered 2005",
+      "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Luck Be a Lady",
+      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -571,38 +503,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Q's Jook Joint",
-        "url": "https://open.spotify.com/album/4nnrb8iMCWDNkgP9ibskgI"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5s9wI2Jijxp5sDyL9ltKmR"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Dino: The Essential Dean Martin",
         "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
       },
@@ -615,22 +515,6 @@
       "duration_ms": 144693,
       "name": "Ain't That A Kick In The Head - 1997 - Remastered",
       "url": "https://open.spotify.com/track/7coH7f2P7SiLxmo95b5QHX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Roar Of '74",
-        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Nuttville",
-      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -651,6 +535,74 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
+        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
+      },
+      "artists": [
+        {
+          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "Three In One",
+      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 143706,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Decca Years",
+        "url": "https://open.spotify.com/album/653NffdK42IKzsD3goAEHg"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "duration_ms": 125960,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/3krgfOQI9Szq8cF0Umm1O1"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Jumpin' Jive",
         "url": "https://open.spotify.com/album/4xrPIoskW5gjPPe05YSjde"
       },
@@ -663,6 +615,22 @@
       "duration_ms": 167666,
       "name": "Jack, You're Dead!",
       "url": "https://open.spotify.com/track/6II9eJG8h4SR6h5yray17w"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Quintessence",
+        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -683,6 +651,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "The Roar Of '74",
+        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Nuttville",
+      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Inspiration (A Tribute To Nat King Cole)",
         "url": "https://open.spotify.com/album/7vyiMvnff3s8c226VZS3Mg"
       },
@@ -699,18 +683,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "To Ella With Love",
-        "url": "https://open.spotify.com/album/7u4thCH0J24iqaKu1UwffK"
+        "name": "I've Got The World On A String",
+        "url": "https://open.spotify.com/album/6Rjz2NpZC4VA1uZ7mMTzC5"
       },
       "artists": [
         {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin"
+      "duration_ms": 129893,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/1XrqYPszJzH7nEk4I2D6da"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -747,54 +735,34 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "I've Got The World On A String",
-        "url": "https://open.spotify.com/album/6Rjz2NpZC4VA1uZ7mMTzC5"
+        "name": "To Ella With Love",
+        "url": "https://open.spotify.com/album/7u4thCH0J24iqaKu1UwffK"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
         }
       ],
-      "duration_ms": 129893,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/1XrqYPszJzH7nEk4I2D6da"
+      "duration_ms": 166960,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin"
     },
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/4nnrb8iMCWDNkgP9ibskgI"
       },
       "artists": [
         {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Begin the Beguine",
-      "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Dinah '62",
-        "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Is You Is or Is You Ain't My Baby - 2002 Remaster",
-      "url": "https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO"
+      "duration_ms": 175733,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5s9wI2Jijxp5sDyL9ltKmR"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -835,6 +803,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Dinah '62",
+        "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Is You Is or Is You Ain't My Baby - 2002 Remaster",
+      "url": "https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Best Of The Big Bands",
         "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 461934,
       "name": "Greenhouse",
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2"
     }
   ],
   "unique_name": "Big Band",

@@ -4670,6 +4670,24 @@
     },
     {
       "album": {
+        "name": "Eggz Benny",
+        "url": "https://open.spotify.com/album/3zuujkBis1epFkensMUnp7"
+      },
+      "artists": [
+        {
+          "name": "_91nova",
+          "url": "https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125560,
+      "name": "Principles",
+      "url": "https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk"
+    },
+    {
+      "album": {
         "name": "promising player",
         "url": "https://open.spotify.com/album/7mijXDlyABD9E9hx4XjkE5"
       },

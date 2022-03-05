@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3RN5zcotxToQqV0q0m50Kg"
+      },
+      "artists": [
+        {
+          "name": "Gavin Haley",
+          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142980,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/07ubAt43hun1eLEacA47Ew"
+    },
+    {
+      "album": {
         "name": "Bongo",
         "url": "https://open.spotify.com/album/1vhhvaZbVUwTa8YjqAJZMm"
       },
@@ -465,7 +483,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 165245,
       "name": "CHASE",
       "url": "https://open.spotify.com/track/3o0hzQy37arz4ymJvqeTYL"
@@ -777,6 +795,24 @@
       "duration_ms": 131658,
       "name": "favorite song",
       "url": "https://open.spotify.com/track/4h9DDdqtoiamRfNMYTwvwE"
+    },
+    {
+      "album": {
+        "name": "Fcked Up Teeth",
+        "url": "https://open.spotify.com/album/6bsiQWW6O3PBOFYPNXUQFS"
+      },
+      "artists": [
+        {
+          "name": "Damien Styles",
+          "url": "https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181727,
+      "name": "Fcked Up Teeth",
+      "url": "https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG"
     },
     {
       "album": {
@@ -1445,7 +1481,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 144881,
       "name": "love sux",
       "url": "https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw"
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 174645,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA"
@@ -2509,10 +2545,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 196873,
       "name": "The Best Part of Life",
       "url": "https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB"
+    },
+    {
+      "album": {
+        "name": "age tape 2",
+        "url": "https://open.spotify.com/album/4VFcsJluDONGiR78zu3h6a"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117714,
+      "name": "the other side",
+      "url": "https://open.spotify.com/track/3wledcRROg8EvoTbc27Xfw"
     },
     {
       "album": {
@@ -2531,6 +2585,24 @@
       "duration_ms": 159980,
       "name": "Things In The Way",
       "url": "https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8"
+    },
+    {
+      "album": {
+        "name": "This Isn't Heaven, It Must Be Hell",
+        "url": "https://open.spotify.com/album/3l4Np4G1QZYOIoicvsXE6c"
+      },
+      "artists": [
+        {
+          "name": "Louyah",
+          "url": "https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179383,
+      "name": "This Isn't Heaven, It Must Be Hell",
+      "url": "https://open.spotify.com/track/5NICLsAN2wxcFQEdriIV1s"
     },
     {
       "album": {

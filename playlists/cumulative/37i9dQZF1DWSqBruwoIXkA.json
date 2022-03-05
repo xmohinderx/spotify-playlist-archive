@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Somehow, heartbreak feels good in a place like this. Cover: Joshua Bassett",
+  "description": "Somehow, heartbreak feels good in a place like this. Cover: Mckenna Grace",
   "name": "sad hour",
   "published_playlist_ids": [
     "6tJGIzI3K3tQit8JSbnL1t"
@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "better off without me",
+        "url": "https://open.spotify.com/album/6NpbtHJjrRHeYqlyUaZa35"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170211,
+      "name": "better off without me",
+      "url": "https://open.spotify.com/track/1Ip5p31SowqjJLo2ss1afJ"
+    },
+    {
+      "album": {
         "name": "Birthday Cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 168538,
       "name": "Burning Bridges - Up Close, Acoustic",
       "url": "https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 163095,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4mXPA7pFHil9wtWk6LaGmT"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 228571,
       "name": "Gone Away",
       "url": "https://open.spotify.com/track/5y8EtFGaKa9Nn8LGGL4wFD"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 212606,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq"
@@ -3051,7 +3069,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-05",
       "duration_ms": 199931,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI"
