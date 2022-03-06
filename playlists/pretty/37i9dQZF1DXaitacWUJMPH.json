@@ -1,12 +1,12 @@
 {
   "description": "24 songs dedicated to the Mamba & Mambacita. R.I.P. Kobe & Gianna Bryant.",
-  "num_followers": 363458,
+  "num_followers": 363657,
   "original_name": "2 . 24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjQ0MTc3NywwMDAwMDAwMDI2NGUxYzdmNGJjZWU4NDIwNzlhN2U1Y2UxZTNiYzc3",
+  "snapshot_id": "MTY0NjUyODAzNywwMDAwMDAwMDU5M2EzZDY1NmU0YmI0M2IwNjgyNDkxOWNhNzZhMWIy",
   "tracks": [
     {
       "added_at": "2022-02-24 07:24:00",
@@ -47,18 +47,22 @@
     {
       "added_at": "2022-02-24 07:24:00",
       "album": {
-        "name": "MIDDLE CHILD",
-        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 213593,
-      "name": "MIDDLE CHILD",
-      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-02-24 07:24:00",
@@ -111,22 +115,22 @@
     {
       "added_at": "2022-02-24 07:24:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+        "name": "From The D To The A (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+      "duration_ms": 158684,
+      "name": "From The D To The A (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
     },
     {
       "added_at": "2022-02-24 07:24:00",
@@ -219,22 +223,18 @@
     {
       "added_at": "2022-02-24 07:24:00",
       "album": {
-        "name": "From The D To The A (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91"
+        "name": "MIDDLE CHILD",
+        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 158684,
-      "name": "From The D To The A (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
+      "duration_ms": 213593,
+      "name": "MIDDLE CHILD",
+      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
       "added_at": "2022-02-24 07:24:00",
@@ -275,34 +275,42 @@
     {
       "added_at": "2022-02-24 07:24:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/00qyYZFYwkyK3StN7wjpLt"
       },
       "artists": [
         {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Don Q",
+          "url": "https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee"
+        },
+        {
+          "name": "Trap Manny",
+          "url": "https://open.spotify.com/artist/0SNzlwOGBLhCMZPN2ZKzna"
         }
       ],
-      "duration_ms": 143152,
-      "name": "Woodlawn",
-      "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
+      "duration_ms": 157118,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/4adrh1YMaPAhtqalhG8hIH"
     },
     {
       "added_at": "2022-02-24 07:24:00",
       "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+        "name": "Starvation 5",
+        "url": "https://open.spotify.com/album/768dhdnqsbqb0iYiOb8NlM"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Ace Hood",
+          "url": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
         }
       ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+      "duration_ms": 188855,
+      "name": "4th Quarter",
+      "url": "https://open.spotify.com/track/7lbMFw3ZVx2orxwHP5blUb"
     },
     {
       "added_at": "2022-02-24 07:24:00",
@@ -323,18 +331,26 @@
     {
       "added_at": "2022-02-24 07:24:00",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 175169,
-      "name": "Big Stepper",
-      "url": "https://open.spotify.com/track/6x0QNM6f0C2JEjK0hFF8Ca"
+      "duration_ms": 207243,
+      "name": "Respect It (with Hit-Boy feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
     },
     {
       "added_at": "2022-02-24 07:24:00",

@@ -1235,6 +1235,32 @@
     {
       "album": {
         "name": "Enemy",
+        "url": "https://open.spotify.com/album/1mFbJ9XkEokyl35muNhPYe"
+      },
+      "artists": [
+        {
+          "name": "Arc North",
+          "url": "https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH"
+        },
+        {
+          "name": "Meric Again",
+          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/5o1QZzfsboTlxhoAPR36LA"
+    },
+    {
+      "album": {
+        "name": "Enemy",
         "url": "https://open.spotify.com/album/1sUzfPoIGKRnmyaEDxXL75"
       },
       "artists": [

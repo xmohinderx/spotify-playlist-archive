@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYWNM3NfvzJ.md) - [plain]
 
 > All the adrenaline you need is right here\.  Let's GO!
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,897 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,948 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

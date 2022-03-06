@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Gas Street Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,279 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,403 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [In The House \- Austin City Limits Live](https://open.spotify.com/track/2p9FpaEn0OJBb0rl9ag1E3) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey \(Deluxe\)](https://open.spotify.com/album/7Imz8iMSqeo8oVPE29hdul) | 3:08 |
 | 36 | [Who You Want Me To Be](https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Who You Want Me To Be](https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03) | 3:16 |
 | 37 | [ALL OF THE GLORY](https://open.spotify.com/track/1F7H8iAT4JGwdKx3ok1kko) | [Jared Grant](https://open.spotify.com/artist/7ngm4D0XEn5TpywtBtkCWc), [Ally Dowling](https://open.spotify.com/artist/2ynJucSNR8sxPoyBYmNY35) | [All of the glory](https://open.spotify.com/album/5JxQxb2rin6rSTyKx0kUKw) | 4:07 |
-| 38 | [Lord of Every Man](https://open.spotify.com/track/1IluFZ3fLaezaD8AAExNBy) | [Foothills Worship](https://open.spotify.com/artist/0WrTifksQisvPgp5HuP22j) | [Lord of Every Man](https://open.spotify.com/album/4SVzYYU1Z3z4Lumua51wL0) | 4:34 |
+| 38 | [Lord of Every Man](https://open.spotify.com/track/1IluFZ3fLaezaD8AAExNBy) | [Foothills Worship](https://open.spotify.com/artist/0WrTifksQisvPgp5HuP22j) | [Lord of Every Man](https://open.spotify.com/album/4SVzYYU1Z3z4Lumua51wL0) | 4:32 |
 | 39 | [Here To Stay](https://open.spotify.com/track/7q3TGvvestNvHO0Y95GLwg) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Here To Stay](https://open.spotify.com/album/7jQTiDSbRYX3sGKiz4h2hG) | 3:59 |
 | 40 | [Secret Place](https://open.spotify.com/track/5JQ1uGXqZSbEnabW64psrB) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Secret Place](https://open.spotify.com/album/1D5UImCRj2c5oLZXoO5ZP4) | 5:07 |
 | 41 | [Better](https://open.spotify.com/track/7gDjPjbthbsL8LouQzMcHy) | [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3) | [Better](https://open.spotify.com/album/6sHYraD7vXuyKCzsPdAx3m) | 4:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=Vgpr7tHjS2CfggGsb8UGag"> Omah Lay </a> and <a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s?si=l5tN5gNgRtCgrL9oBiQSsA"> Justice Beiber </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,411 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,420 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

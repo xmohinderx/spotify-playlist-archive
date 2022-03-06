@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Worship now with the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more! Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,596 likes - 92 songs - 8 hr 38 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 108,614 likes - 92 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 80 | [Living Hope](https://open.spotify.com/track/7o24sKRAGXOfX2BWhO7oqU) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Top 25 Praise Songs – The Blessing](https://open.spotify.com/album/3Ip0l3AjSDjpv6hn2THc3Z) | 5:18 |
 | 81 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 |
 | 82 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 |
-| 83 | [Oceans \(Where Feet May Fail\) \- Live from Madison Square Garden](https://open.spotify.com/track/0GTfVXhvbhO4AhaEfzPhU6) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [The People Tour: Live from Madison Square Garden](https://open.spotify.com/album/2KAJsrTtWloQtFaStadvbB) | 7:23 |
+| 83 | [Oceans \(Where Feet May Fail\) \- Live from Madison Square Garden](https://open.spotify.com/track/0GTfVXhvbhO4AhaEfzPhU6) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The People Tour: Live from Madison Square Garden](https://open.spotify.com/album/2KAJsrTtWloQtFaStadvbB) | 7:23 |
 | 84 | [Hope Of The Ages](https://open.spotify.com/track/6nO9opuYeQjARa2l2Owa2b) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Hope Of The Ages](https://open.spotify.com/album/1IU9Imw6nb93dOX9iBLDy7) | 5:10 |
 | 85 | [Jesus Over Everything \- Live](https://open.spotify.com/track/7CU31fAxkaKbxU8u2jvBcT) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [See The Light \(Live\)](https://open.spotify.com/album/0ufsdvAfWMEgQi1dDvXJ9v) | 5:13 |
 | 86 | [Hope Builds \- Live](https://open.spotify.com/track/4PJU5JqG3XrXFLVVZyAQlx) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Hope Builds \(Live\)](https://open.spotify.com/album/3Zcfso4vyw6XTIix2JzOfi) | 5:17 |

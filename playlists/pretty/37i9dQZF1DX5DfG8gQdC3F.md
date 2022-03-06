@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,515 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,580 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 27 | [Matinee](https://open.spotify.com/track/25aSJ6E9ekeQzV3ogafGdI) | [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Matinee](https://open.spotify.com/album/4Nn99TZ3AbpY4ZGQRva5Dm) | 2:31 |
 | 28 | [Good Life \(2022\)](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life \(2022\)](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 |
 | 29 | [IF HE RULES THE WORLD](https://open.spotify.com/track/6Weja22zCSWwPSiPuC0Sjr) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [IF HE RULES THE WORLD](https://open.spotify.com/album/5APVoIcLvUR7nXp9cY4VKU) | 3:19 |
-| 30 | [ay! \(with Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(with Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
+| 30 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
 | 31 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:16 |
 | 32 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 |
 | 33 | [Thugz Dont Cry](https://open.spotify.com/track/7gGJyJ3Ft5xRn2JHdrd62N) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [GRASSWAYZ](https://open.spotify.com/album/6BC6u8kIWICEcamEVUN3yM) | 2:45 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 39 | [What You're Thinking](https://open.spotify.com/track/51q8KeszKpVOWghI37pdWK) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:28 |
 | 40 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 |
 | 41 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
-| 42 | [No Love](https://open.spotify.com/track/3xxEMPmkQtRT60tC5aFuJf) | [Shubh](https://open.spotify.com/artist/3fNqkyOu3QAWlUk6phhpYU) | [No Love](https://open.spotify.com/album/29bk3ksqGxN0kj1kzasxyz) | 2:50 |
+| 42 | [No Love](https://open.spotify.com/track/3xxEMPmkQtRT60tC5aFuJf) | [Shubh](https://open.spotify.com/artist/3swDJJXxwsHWdizFk7w1nk) | [No Love](https://open.spotify.com/album/29bk3ksqGxN0kj1kzasxyz) | 2:50 |
 | 43 | [Freak \(with Vandelux\)](https://open.spotify.com/track/0Hhc5lUBREFnaDmzrnRYj2) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Freak \(with Vandelux\)](https://open.spotify.com/album/6a6QBIMsMwV0g5T5OOqFOV) | 2:40 |
 | 44 | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB) | 2:32 |
 | 45 | [G Lock](https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [G Lock](https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE) | 3:10 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 97 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 |
 | 98 | [Conversations](https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [No Pants Till February](https://open.spotify.com/album/7k7HVIoDlxmQEIjX8pG7q4) | 4:24 |
 | 99 | [Fastest](https://open.spotify.com/track/66Ww7rTWXpgazQzI4Bbf72) | [Frontperson](https://open.spotify.com/artist/1WnOzyhRKLqKr7XXFcGMaf) | [Fastest](https://open.spotify.com/album/6GIbd2iSrCwwKiCARkrp12) | 3:32 |
-| 100 | [Ces't la vie](https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [Ces't la vie](https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I) | 2:51 |
+| 100 | [C'est la vie](https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [C'est la vie](https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I) | 2:51 |
 
 Snapshot ID: `MTY0NjQwOTE2NiwwMDAwMDJhZjAwMDAwMTdmNTVhMjJlYzgwMDAwMDE3ZjUxNDI0YWQ1`

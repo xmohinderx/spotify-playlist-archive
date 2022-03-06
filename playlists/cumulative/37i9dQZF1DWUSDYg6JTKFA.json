@@ -331,7 +331,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 232693,
       "name": "Give Me Your Eyes",
       "url": "https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 284970,
       "name": "Glory and Majesty",
       "url": "https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 353546,
       "name": "Good Grace - Live",
       "url": "https://open.spotify.com/track/2vfXvhJepsm4imsD8CRK3H"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 240249,
       "name": "Gracefully Broken - Radio Version",
       "url": "https://open.spotify.com/track/6W9EPcObAGDpZosKp4IKcf"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 208480,
       "name": "He Knows",
       "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 300373,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 299365,
       "name": "King of My Heart (Live)",
       "url": "https://open.spotify.com/track/7mj5fT0Biju5jR41m9ghUl"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 212466,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 224169,
       "name": "My Lighthouse",
       "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 259653,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 217799,
       "name": "Rise",
       "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
@@ -1203,6 +1203,24 @@
       "duration_ms": 185946,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/10EsmmPLFJt1Ubof7uXegf"
+    },
+    {
+      "album": {
+        "name": "What If We Were Real",
+        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213886,
+      "name": "Stronger - With Cold Ending",
+      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
     },
     {
       "album": {

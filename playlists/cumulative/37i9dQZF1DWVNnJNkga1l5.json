@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 220946,
       "name": "Antes",
       "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 281293,
       "name": "Bella Se\u00f1ora",
       "url": "https://open.spotify.com/track/4iR4dZgBuXPIhDx0Pa2uoi"
@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Buen Viaje",
+        "url": "https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252840,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF"
+    },
+    {
+      "album": {
         "name": "Canciones De Amor De Yuri",
         "url": "https://open.spotify.com/album/0anrPKPsDQgrGqZA8jaLIN"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 217160,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/37VoMBYfOxPDiMPUP5iMIn"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 236093,
       "name": "La Calle De Las Sirenas",
       "url": "https://open.spotify.com/track/44OzhCg9CsKCbUtBHyLQqI"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 257773,
       "name": "La cima del cielo",
       "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 327240,
       "name": "Otro D\u00eda M\u00e1s Sin Verte",
       "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 222526,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/2RdfcTpYnfQPTieIi7dc6e"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 273066,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/5PrGKIdXRTMBj3OmMOe5w9"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 266466,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 287573,
       "name": "Usted (feat. Vicentico) - MTV Unplugged",
       "url": "https://open.spotify.com/track/08llaN4Lh6GCfd9aHInwB2"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 242253,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 231440,
       "name": "Yo No Te Pido La Luna",
       "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/2GCb04vjU2QePbEEHUOAC4"

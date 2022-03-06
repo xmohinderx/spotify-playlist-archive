@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "Just When I Thought",
+        "url": "https://open.spotify.com/album/0C2Dp8I1w4PKbICibbFYX1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282104,
+      "name": "Just When I Thought",
+      "url": "https://open.spotify.com/track/3GqPiO86B7tUuDzzl7SePU"
+    },
+    {
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
       },

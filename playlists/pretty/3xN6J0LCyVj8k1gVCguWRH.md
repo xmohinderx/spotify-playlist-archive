@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonuses\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,101 likes - 131 songs - 8 hr 15 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,094 likes - 131 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 130 | [Ego Mégalo](https://open.spotify.com/track/5emJwSB8vwPnpvzmkhlsl5) | [Adelina](https://open.spotify.com/artist/0z6AhCJhphrAGC5eINRnLz) | [Ego Mégalo](https://open.spotify.com/album/3pKyiafSl2hgDZ1CyxymRL) | 3:30 |
 | 131 | [A Dinner Out](https://open.spotify.com/track/2Lig6x6Wr1LsVBmMLdscz4) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [Latte / The Italian Breakfast](https://open.spotify.com/album/1dO5cpEOoa2ORCwazxkFUv) | 4:27 |
 
-Snapshot ID: `MjU2NCxjZjU4NzY2YzU2NmM4YjBjYjE0M2U1OTFmYjI3NjIyOGYwOGY2NmQ1`
+Snapshot ID: `MjU2NixiMjFkNjU4OTdmZGE1OWJjOGU2ZTU1YWI0OWEwMjU1NmIyMDgyMTE2`

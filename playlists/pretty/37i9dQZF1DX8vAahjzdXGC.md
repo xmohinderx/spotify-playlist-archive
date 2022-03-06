@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Camila Cabello, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,193 likes - 128 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,205 likes - 128 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 2 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 |
 | 3 | [Trust Me With This \(Mama\)](https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Trust Me With This \(Mama\)](https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO) | 3:44 |
 | 4 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 |
-| 5 | [Rosa](https://open.spotify.com/track/5MwWGiNjYSYH7P4MnvcYJI) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Rosa](https://open.spotify.com/album/0qpfGSuvN4DVmlYUMQN3GO) | 3:49 |
+| 5 | [Rosa](https://open.spotify.com/track/5MwWGiNjYSYH7P4MnvcYJI) | [SORE](https://open.spotify.com/artist/3mtwsPcu2vlZrJYCWNMdmm) | [Rosa](https://open.spotify.com/album/0qpfGSuvN4DVmlYUMQN3GO) | 3:49 |
 | 6 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 |
 | 7 | [ghosts](https://open.spotify.com/track/7q82TZ5ekazfwaKXMnly9L) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1), [Sachi Gomez](https://open.spotify.com/artist/6GuW8ICnPBxa35l2yfcrwC) | [ghosts](https://open.spotify.com/album/6m2wN6Ock2epm2TzVJSWzI) | 2:43 |
 | 8 | [LOTUS](https://open.spotify.com/track/6HkSylgCGtlAPF5noI0CUr) | [Jack Donn](https://open.spotify.com/artist/36hz4zHcALj3eLFbdNh6TS), [Henkar](https://open.spotify.com/artist/4KgJIBIlB3NvO6olLuJRl7) | [LOTUS](https://open.spotify.com/album/0PAyIddobjqAOBSoScnTr5) | 3:23 |
 | 9 | [Vorfreude](https://open.spotify.com/track/7ACrflOmyze0d8qruUXcyM) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:28 |
-| 10 | [ay! \(with Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(with Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
+| 10 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
 | 11 | [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 |
 | 12 | [All Out Savage](https://open.spotify.com/track/0CVLlW23TMg2ZJgpGM4ENU) | [Kim!](https://open.spotify.com/artist/2EVVSRpRPI6B5xw6cbaXCa) | [All Out Savage](https://open.spotify.com/album/1ATaXuSvQQ7YHoyevJX2e2) | 2:48 |
 | 13 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 21 | [Tabir](https://open.spotify.com/track/4cPbswDTbPywO773knw79H) | [Mantra Vutura](https://open.spotify.com/artist/2aOcSZtVGcy3cs45euQqZ6) | [Tabir](https://open.spotify.com/album/5fYUONWUvTRj5fstO9KKhD) | 4:37 |
 | 22 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
 | 23 | [feel something?](https://open.spotify.com/track/09HYCZjFYpWZLel2etwJsK) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [feel something?](https://open.spotify.com/album/4TRYCE0miUzqcKWwz5NloA) | 5:22 |
-| 24 | [Let's Be Friends](https://open.spotify.com/track/2uEgL5DcFJcl7LdRVb5jUX) | [Dhika Fawaz](https://open.spotify.com/artist/1jJSHVQJW9CtPcaPg8RHYb) | [Let's Be Friends](https://open.spotify.com/album/0UQ39UcNSmCRirTYlxfhHb) | 3:07 |
+| 24 | [Let's Be Friend](https://open.spotify.com/track/2uEgL5DcFJcl7LdRVb5jUX) | [Dhika Fawaz](https://open.spotify.com/artist/1jJSHVQJW9CtPcaPg8RHYb) | [Let's Be Friend](https://open.spotify.com/album/0UQ39UcNSmCRirTYlxfhHb) | 3:07 |
 | 25 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 |
 | 26 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 |
 | 27 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 99 | [Hanging On](https://open.spotify.com/track/4Bk9XgBiO13Ba3mRjXBq0Z) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Silence in Between](https://open.spotify.com/album/0qC7OBo3dCONK0fgHbySdU) | 3:55 |
 | 100 | [Up](https://open.spotify.com/track/77rg8mh1XOppZBIhBcwgOX) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [2](https://open.spotify.com/album/5ZDc6YHilcbyY5KIUGmwAc) | 2:51 |
 | 101 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 |
-| 102 | [Don’t Trust The Dawn](https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Don’t Trust The Dawn](https://open.spotify.com/album/6pmkZgZ01iByTV2hfaZmdo) | 4:03 |
+| 102 | [Dawn do that](https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dawn do that](https://open.spotify.com/album/6pmkZgZ01iByTV2hfaZmdo) | 4:03 |
 | 103 | [what is life?](https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 3:10 |
 | 104 | [juice](https://open.spotify.com/track/6d9H0nJJUAegfSLowT8cWl) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [juice](https://open.spotify.com/album/01tEErmmg5weyRa8rIKbc0) | 2:37 |
 | 105 | [ma chérie](https://open.spotify.com/track/48uSNQpQ1WTNP8Jzz5MaH9) | [lavndr](https://open.spotify.com/artist/5HsrAgY0Oj9VgkcjVJdUnO) | [forget\-me\-not](https://open.spotify.com/album/5CpXIB03tZfkHGl9v2CrFL) | 3:03 |

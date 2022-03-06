@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 10 genombrott, 100 känsla\. Möt KLASS 2021.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,057 likes - 80 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,171 likes - 80 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 66 | [MANO \(feat\. Kamelen\) \- Remix](https://open.spotify.com/track/781V5yu5LgVV4k3KBzKw07) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [MANO \(feat\. Kamelen\) \[Remix\]](https://open.spotify.com/album/4peqBtP035We6XL90Hpmqk) | 2:48 |
 | 67 | [BLOCK](https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:20 |
 | 68 | [PRESSEN](https://open.spotify.com/track/6m9f5eFAyoyhEuPUU6VLjv) | [pJAY](https://open.spotify.com/artist/3q2wHS0NiGLdN4HyPTTBTU) | [PRESSEN](https://open.spotify.com/album/4QujdXGiSmIQbrTqsBS5lv) | 2:41 |
-| 69 | [What's The Plan \(feat\. Naod\)](https://open.spotify.com/track/4Xwl2xxHppkhAgAEl4RY3X) | [Ice Csay](https://open.spotify.com/artist/4X1fbaUNw7K6pXP9WRQ7Dr), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [What's The Plan? \(feat\. Naod\)](https://open.spotify.com/album/0ENksSnSExIMzCT3jom4Ww) | 2:42 |
+| 69 | [What's The Plan? \(feat\. Naod\)](https://open.spotify.com/track/4Xwl2xxHppkhAgAEl4RY3X) | [Ice Csay](https://open.spotify.com/artist/4X1fbaUNw7K6pXP9WRQ7Dr), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [What's The Plan? \(feat\. Naod\)](https://open.spotify.com/album/0ENksSnSExIMzCT3jom4Ww) | 2:42 |
 | 70 | [La boheme](https://open.spotify.com/track/4GMC1bODd0THzwC3R6b4l3) | [Schmarre](https://open.spotify.com/artist/6ichDOc1Is3mzHexDjl4v4) | [La boheme](https://open.spotify.com/album/3hWYuKiZf0ong8KH15eUCD) | 2:31 |
 | 71 | [MODE](https://open.spotify.com/track/0RRhERcWUShqApDwqzkc3J) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo) | [MODE](https://open.spotify.com/album/25tL1F0rn2MlyUUuHKBegZ) | 2:28 |
 | 72 | [Offside](https://open.spotify.com/track/68iZcSWAuoWVnmA7WKZy1K) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Offside](https://open.spotify.com/album/26HqefOZ5kw9YqCtFKq3n0) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [Branschen \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Studio 100](https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544) | 2:40 |
 | 80 | [Hammarkullen \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Studio 100](https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej) | 2:49 |
 
-Snapshot ID: `MTY0NjQ0MTM2NCwwMDAwMDAwMDMwNjlkOGY2ZmQxNTdlNmZjMjI3N2UxNzlmNjU1NWI0`
+Snapshot ID: `MTY0NjUyNzYyMCwwMDAwMDAwMDMwNjlkOGY2ZmQxNTdlNmZjMjI3N2UxNzlmNjU1NWI0`

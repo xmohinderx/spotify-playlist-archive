@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "De Perreo",
+        "url": "https://open.spotify.com/album/07o7LzZmecQhaGtVV239OB"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173784,
+      "name": "De Perreo",
+      "url": "https://open.spotify.com/track/7Men0McTVqAHxfVrRCzb41"
+    },
+    {
+      "album": {
         "name": "Dile a los dem\u00e1s",
         "url": "https://open.spotify.com/album/2aUw6q2WS0r9QeOGdfOOCP"
       },
@@ -361,6 +379,24 @@
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    {
+      "album": {
+        "name": "FUE",
+        "url": "https://open.spotify.com/album/7agivcohsBICoHafttM2j7"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242833,
+      "name": "FUE",
+      "url": "https://open.spotify.com/track/7EzMotErPHP0TJ2Gv987q7"
     },
     {
       "album": {
@@ -759,7 +795,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
@@ -781,7 +817,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 177655,
       "name": "Sabe",
       "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"

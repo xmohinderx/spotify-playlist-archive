@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "180 (Remix) (feat. Kemba)",
       "url": "https://open.spotify.com/track/1oF1tFOdqoM6I2Y4crbGRU"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 169453,
       "name": "BOZOS",
       "url": "https://open.spotify.com/track/6SD90udaKP3jfdz0c9p8Om"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 211848,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q"
@@ -540,6 +540,32 @@
     },
     {
       "album": {
+        "name": "Casamigos Freestyle",
+        "url": "https://open.spotify.com/album/255y0FUpZ5VgDRDrSh7FiT"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        },
+        {
+          "name": "Charlie Heat",
+          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
+        },
+        {
+          "name": "Kirk Knight",
+          "url": "https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Casamigos Freestyle",
+      "url": "https://open.spotify.com/track/5JVZ62EMS4kvo7nzvDL4nE"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/26bwkDvo9hJSK7O1SUELQ3"
       },
@@ -551,7 +577,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 179250,
       "name": "Cassius",
       "url": "https://open.spotify.com/track/3Uqv1FU5OwU6hVOdj81VQa"
@@ -599,7 +625,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 204248,
       "name": "Chaining Day",
       "url": "https://open.spotify.com/track/3DQORrfGUHMsNWY4qDpALB"
@@ -635,7 +661,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
@@ -971,7 +997,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
@@ -1095,7 +1121,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "God's Bathroom Floor",
       "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
@@ -1345,7 +1371,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 276208,
       "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/2gFD8UPaAcuNfz7Lrwd0Bp"
@@ -1389,7 +1415,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 180680,
       "name": "How You Live It (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv"
@@ -1505,7 +1531,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 286503,
       "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
       "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
@@ -1597,7 +1623,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 180686,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/3R4IFsTuDOR7XEt2Tl2iuR"
@@ -1615,7 +1641,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 188160,
       "name": "King's Blvd 2",
       "url": "https://open.spotify.com/track/7pQXGnceGhu1hRQkG5g7I7"
@@ -1637,7 +1663,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 122080,
       "name": "Laps Around the Sun",
       "url": "https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm"
@@ -1739,7 +1765,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 133601,
       "name": "Let's Ride our Heelies to the Cosmos",
       "url": "https://open.spotify.com/track/1Gbwu9p6QFLCGBGKCGdKFr"
@@ -1877,7 +1903,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 195367,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
@@ -2019,7 +2045,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "No M\u00e1s!",
       "url": "https://open.spotify.com/track/3Sxd2zTEoWwMPAVbBJGwAC"
@@ -2317,7 +2343,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 162380,
       "name": "Red Lobster Biscuits",
       "url": "https://open.spotify.com/track/7JcUYHmxHM6H9kjHOcTxuW"
@@ -2415,7 +2441,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -2547,7 +2573,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 124931,
       "name": "Sink",
       "url": "https://open.spotify.com/track/6SGtzveb9eeXkSYqkyLk21"
@@ -2713,7 +2739,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 132773,
       "name": "Stain",
       "url": "https://open.spotify.com/track/0stfZSMUC46cbsQh4j1oSG"
@@ -2775,7 +2801,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 208211,
       "name": "Steak Um (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv"
@@ -2862,6 +2888,28 @@
     },
     {
       "album": {
+        "name": "Stressed",
+        "url": "https://open.spotify.com/album/1e9ydi2WYxbjKzQASf4pu8"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wallo267",
+          "url": "https://open.spotify.com/artist/4CDHyGh4gnewa65FSdKNG1"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l"
+    },
+    {
+      "album": {
         "name": "Substance (We Woke Up)",
         "url": "https://open.spotify.com/album/0VptfDjz26NkJS4b7bjmNK"
       },
@@ -2907,7 +2955,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 235500,
       "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
       "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
@@ -3079,7 +3127,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 164938,
       "name": "The Game",
       "url": "https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci"
@@ -3255,7 +3303,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 116829,
       "name": "Theme For The People",
       "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
@@ -3583,7 +3631,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"

@@ -1298,6 +1298,28 @@
     },
     {
       "album": {
+        "name": "Chopin Favourites",
+        "url": "https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/2TB6PQkgnw9rrFRK4VOOrC"
+    },
+    {
+      "album": {
         "name": "Chopin: The Nocturnes",
         "url": "https://open.spotify.com/album/4Lq2ben6ERqYOQB1PM5QfB"
       },
@@ -1317,28 +1339,6 @@
       "duration_ms": 334053,
       "name": "Nocturne No.1 in B flat minor, Op.9 No.1",
       "url": "https://open.spotify.com/track/1EGFCxKCQ3isMnlPzEW8G1"
-    },
-    {
-      "album": {
-        "name": "Chopin Favourites",
-        "url": "https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248933,
-      "name": "Nocturne No.2 in E flat major, Op.9 No.2",
-      "url": "https://open.spotify.com/track/2TB6PQkgnw9rrFRK4VOOrC"
     },
     {
       "album": {

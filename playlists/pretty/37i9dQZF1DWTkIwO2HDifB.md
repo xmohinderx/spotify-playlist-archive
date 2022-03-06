@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Passando o Rodo e os funks mais 🔑 do Brasil\. Foto: POCAH, Lara Silva, Mc Mirella, Tainá Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,505,528 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,507,005 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

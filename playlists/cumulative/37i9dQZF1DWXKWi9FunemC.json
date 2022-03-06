@@ -185,7 +185,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 261886,
       "name": "Before You",
       "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 249485,
       "name": "Fortress (Acoustic)",
       "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 250750,
       "name": "Home (GCM Sinai Sessions) - Live",
       "url": "https://open.spotify.com/track/38hnWg98FJs2UyoS5ZZOuS"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 207893,
       "name": "Just Give Me Jesus",
       "url": "https://open.spotify.com/track/2TkU9jzogblGW1Dv3G7SIo"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 254146,
       "name": "Love Together",
       "url": "https://open.spotify.com/track/5zfHzOElny9FesLftcnDoj"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 232933,
       "name": "Not Finished Yet",
       "url": "https://open.spotify.com/track/7zm8o8n8g0e1eVDWRGj0Ff"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 229266,
       "name": "One Good Try",
       "url": "https://open.spotify.com/track/6wdW7RIXNx64DH6HqDOgSf"
@@ -1640,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
+    },
+    {
+      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 240946,
       "name": "This Wild Earth",
       "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "Who May Ascend",
       "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 142800,
       "name": "You Can Close Your Eyes (feat. William Fitzsimmons) [Bonus Track]",
       "url": "https://open.spotify.com/track/0mSZtpdHUYbrfe2f4HJPzO"

@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Joe Bonamassa",
-  "num_followers": 127860,
+  "num_followers": 127921,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjQ0MTIxNywwMDAwMDAwMDc1YjljNDU5ZTU3ZDI5OTA5ZWM4ZGQ5MmZjZDE3ZGFh",
+  "snapshot_id": "MTY0NjUyNzQ3NCwwMDAwMDAwMGZkYWUxNTc0NDBkMmYyMTY3YmNlMjVmMTZkZDU5ZDdj",
   "tracks": [
     {
       "added_at": "2022-02-04 17:00:00",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
+      "added_at": "2021-06-11 04:01:00",
       "album": {
-        "name": "This Train (Live)",
-        "url": "https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b"
+        "name": "Little Wing (Live at LOCKN' / 2019)",
+        "url": "https://open.spotify.com/album/03rUt9AiKYNGCOQ9zA0g4k"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
         }
       ],
-      "duration_ms": 504893,
-      "name": "This Train - Live",
-      "url": "https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp"
+      "duration_ms": 413617,
+      "name": "Little Wing - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/5vjFiCBjqqVV2CJj8fJYJt"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -61,28 +65,20 @@
       "url": "https://open.spotify.com/track/6r28qSBAz5RqvhhuFvEzTy"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) [Live from The London Palladium]",
-        "url": "https://open.spotify.com/album/1z9quT1fn0GLbg7401MS0z"
+        "name": "Diamonds & Gold (Live)",
+        "url": "https://open.spotify.com/album/66TI5r8liZTsY3zglSew4Z"
       },
       "artists": [
         {
-          "name": "Mick Fleetwood and Friends",
-          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
-        },
-        {
-          "name": "Billy Gibbons",
-          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
-        },
-        {
-          "name": "Steven Tyler",
-          "url": "https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 289800,
-      "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
-      "url": "https://open.spotify.com/track/58ZM2KIhmc9awWI0RDSV5l"
+      "duration_ms": 387346,
+      "name": "Diamonds & Gold - Live",
+      "url": "https://open.spotify.com/track/15vIOt0JMhkeFUsbOEhMis"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -135,18 +131,42 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live - Attack Of The Killer V",
-        "url": "https://open.spotify.com/album/0JG0CSfe5uuEhkLOaH7aAk"
+        "name": "Roadsongs",
+        "url": "https://open.spotify.com/album/31hfJ2wHUoRjqwNdZXU6u3"
       },
       "artists": [
         {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
         }
       ],
-      "duration_ms": 454000,
-      "name": "Camp Washington Chile/If You Have To Know",
-      "url": "https://open.spotify.com/track/0pCcV5CRp8mqlEXZIOnk2X"
+      "duration_ms": 382200,
+      "name": "Key To The Highway - Live",
+      "url": "https://open.spotify.com/track/7zX9fAnniTOdTsSV8eipxM"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) [Live from The London Palladium]",
+        "url": "https://open.spotify.com/album/1z9quT1fn0GLbg7401MS0z"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        },
+        {
+          "name": "Billy Gibbons",
+          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+        },
+        {
+          "name": "Steven Tyler",
+          "url": "https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
+      "url": "https://open.spotify.com/track/58ZM2KIhmc9awWI0RDSV5l"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -167,22 +187,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "King King Live",
-        "url": "https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv"
-      },
-      "artists": [
-        {
-          "name": "King King",
-          "url": "https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT"
-        }
-      ],
-      "duration_ms": 383306,
-      "name": "Wait On Time - Live",
-      "url": "https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Keep On Growing (Live)",
         "url": "https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84"
       },
@@ -199,50 +203,34 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "The Healing (Live)",
-        "url": "https://open.spotify.com/album/3mwKeJxKHxB0BRVK4AYgtb"
+        "name": "King King Live",
+        "url": "https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "King King",
+          "url": "https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT"
         }
       ],
-      "duration_ms": 338226,
-      "name": "The Healing - Live",
-      "url": "https://open.spotify.com/track/6dw30khcpmcf4Uw4KZqETY"
+      "duration_ms": 383306,
+      "name": "Wait On Time - Live",
+      "url": "https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb"
     },
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live! The Real Deal",
-        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+        "name": "Live - Attack Of The Killer V",
+        "url": "https://open.spotify.com/album/0JG0CSfe5uuEhkLOaH7aAk"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
         }
       ],
-      "duration_ms": 461533,
-      "name": "Damn Right I've Got The Blues - Live",
-      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Roadsongs",
-        "url": "https://open.spotify.com/album/31hfJ2wHUoRjqwNdZXU6u3"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 382200,
-      "name": "Key To The Highway - Live",
-      "url": "https://open.spotify.com/track/7zX9fAnniTOdTsSV8eipxM"
+      "duration_ms": 454000,
+      "name": "Camp Washington Chile/If You Have To Know",
+      "url": "https://open.spotify.com/track/0pCcV5CRp8mqlEXZIOnk2X"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -263,8 +251,24 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live At The Sydney Opera House",
-        "url": "https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH"
+        "name": "Empty Promises (Live)",
+        "url": "https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 469445,
+      "name": "Empty Promises (Live)",
+      "url": "https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "This Train (Live)",
+        "url": "https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b"
       },
       "artists": [
         {
@@ -272,9 +276,149 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 447360,
-      "name": "Drive - Live",
-      "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
+      "duration_ms": 504893,
+      "name": "This Train - Live",
+      "url": "https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "70th Birthday Concert",
+        "url": "https://open.spotify.com/album/3e5hpW2IwWDYlTEAchPhTA"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live Trout Vol. 1",
+        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout and The Free Radicals",
+          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
+        "url": "https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3"
+      },
+      "artists": [
+        {
+          "name": "Tasha Taylor",
+          "url": "https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "One More Car, One More Rider",
+        "url": "https://open.spotify.com/album/2NxnSpRW6vvDbCBoJkb5gC"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 539293,
+      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
+      "url": "https://open.spotify.com/track/4BuUr1VLpSndHMPHhtQoYP"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Nobody Knows You When You're Down And Out (Live at LOCKN' / 2019)",
+        "url": "https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "duration_ms": 299863,
+      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 446206,
+      "name": "Rocket 88 - Live",
+      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live At San Quentin",
+        "url": "https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Everyday I Have The Blues - Live (San Quentin)",
+      "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "British Blues Explosion Live",
+        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 421219,
+      "name": "Mainline Florida - Live",
+      "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -327,146 +471,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live from the 805",
-        "url": "https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f"
+        "name": "Tell Her You Belong To Me (Live)",
+        "url": "https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc"
       },
       "artists": [
         {
-          "name": "Alastair Greene",
-          "url": "https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 227253,
-      "name": "The Sweetest Honey (Live)",
-      "url": "https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Alabama (Live)",
-        "url": "https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 206671,
-      "name": "Alabama - Live",
-      "url": "https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ"
-    },
-    {
-      "added_at": "2020-11-20 05:01:00",
-      "album": {
-        "name": "Blue On Black (Live)",
-        "url": "https://open.spotify.com/album/7hi34Iyim7nwlMgZNISz0X"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 299826,
-      "name": "Blue On Black - Live",
-      "url": "https://open.spotify.com/track/4eUhCAOrhmKZavEf08lhgL"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Broke Down On The Brazos (Live)",
-        "url": "https://open.spotify.com/album/5R53kCyQtLd4oQIBO4SJGs"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 528120,
-      "name": "Broke Down On The Brazos (Live)",
-      "url": "https://open.spotify.com/track/5OITHr7K2kAAMG9CDO5GHJ"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Why Does It Take So Long To Say Goodbye (Live)",
-        "url": "https://open.spotify.com/album/3CDI2rvne7PElFMRn7rLL9"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 574040,
-      "name": "Why Does It Take So Long To Say Goodbye - Live",
-      "url": "https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live At The Roxy",
-        "url": "https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "One More Car, One More Rider",
-        "url": "https://open.spotify.com/album/2NxnSpRW6vvDbCBoJkb5gC"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 539293,
-      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
-      "url": "https://open.spotify.com/track/4BuUr1VLpSndHMPHhtQoYP"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Scorched Earth, Vol.1 (Live)",
-        "url": "https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 382741,
-      "name": "Steamroller / Powerful Thing - Live",
-      "url": "https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Empty Promises (Live)",
-        "url": "https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 469445,
-      "name": "Empty Promises (Live)",
-      "url": "https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7"
+      "duration_ms": 396682,
+      "name": "Tell Her You Belong To Me (Live)",
+      "url": "https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -487,22 +503,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Songs from the Road",
-        "url": "https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 437358,
-      "name": "Judgment Day",
-      "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Frosty (Live)",
         "url": "https://open.spotify.com/album/0Y3RF1vbBHc8bTm0hFZvwS"
       },
@@ -519,8 +519,24 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+        "name": "Songs from the Road",
+        "url": "https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 437358,
+      "name": "Judgment Day",
+      "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "British Blues Explosion Live",
+        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
       },
       "artists": [
         {
@@ -528,57 +544,25 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 345270,
-      "name": "Let The Good Times Roll - Live",
-      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
+      "duration_ms": 922505,
+      "name": "How Many More Times - Live",
+      "url": "https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI"
     },
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live Trout Vol. 1",
-        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
+        "name": "Live At The Roxy",
+        "url": "https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd"
       },
       "artists": [
         {
-          "name": "Walter Trout and The Free Radicals",
-          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Watchagonnado (Live)",
-        "url": "https://open.spotify.com/album/6X1thdV5sgh1sFkP81K4lg"
-      },
-      "artists": [
-        {
-          "name": "Supersonic Blues Machine",
-          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
-        }
-      ],
-      "duration_ms": 329840,
-      "name": "Watchagonnado (Live)",
-      "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Tell Her You Belong To Me (Live)",
-        "url": "https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 396682,
-      "name": "Tell Her You Belong To Me (Live)",
-      "url": "https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi"
+      "duration_ms": 232400,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -595,238 +579,6 @@
       "duration_ms": 549933,
       "name": "Soulshine",
       "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Nobody Knows You When You're Down And Out (Live at LOCKN' / 2019)",
-        "url": "https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        },
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 299863,
-      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
-      "url": "https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 303168,
-      "name": "Born Under A Bad Sign - Live",
-      "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 446206,
-      "name": "Rocket 88 - Live",
-      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Diamonds & Gold (Live)",
-        "url": "https://open.spotify.com/album/66TI5r8liZTsY3zglSew4Z"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387346,
-      "name": "Diamonds & Gold - Live",
-      "url": "https://open.spotify.com/track/15vIOt0JMhkeFUsbOEhMis"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Backstage Pass (Live)",
-        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
-      },
-      "artists": [
-        {
-          "name": "Ghost Town Blues Band",
-          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
-        }
-      ],
-      "duration_ms": 268650,
-      "name": "Tip of My Hat (Live)",
-      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Little Wing (Live at LOCKN' / 2019)",
-        "url": "https://open.spotify.com/album/03rUt9AiKYNGCOQ9zA0g4k"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        },
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 413617,
-      "name": "Little Wing - Live at LOCKN' / 2019",
-      "url": "https://open.spotify.com/track/5vjFiCBjqqVV2CJj8fJYJt"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live At San Quentin",
-        "url": "https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Everyday I Have The Blues - Live (San Quentin)",
-      "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live At Montreux 1999",
-        "url": "https://open.spotify.com/album/0owj4Gjka5q4S5az5SL7kt"
-      },
-      "artists": [
-        {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
-        }
-      ],
-      "duration_ms": 410133,
-      "name": "Stop Breakin' Down - Live",
-      "url": "https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "West L.A. Fadeaway (Live)",
-        "url": "https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy"
-      },
-      "artists": [
-        {
-          "name": "Bob Weir",
-          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
-        }
-      ],
-      "duration_ms": 771564,
-      "name": "West L.A. Fadeaway - Live",
-      "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 600506,
-      "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
-      "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live at the Jazzhaus",
-        "url": "https://open.spotify.com/album/6bBIe89atzmYXFceEDUP1c"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 410520,
-      "name": "Chills & Thrills",
-      "url": "https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "British Blues Explosion Live",
-        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 421219,
-      "name": "Mainline Florida - Live",
-      "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
-      },
-      "artists": [
-        {
-          "name": "Dave Fields",
-          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
-        }
-      ],
-      "duration_ms": 497133,
-      "name": "Pocket Full of Dust (Live)",
-      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live in Nashville",
-        "url": "https://open.spotify.com/album/3qmwNduPLk9xtrMRuUAGPf"
-      },
-      "artists": [
-        {
-          "name": "John Oates",
-          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
-        }
-      ],
-      "duration_ms": 509607,
-      "name": "Pallet Soft and Low (Live)",
-      "url": "https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -847,18 +599,262 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
-        "url": "https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3"
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
       "artists": [
         {
-          "name": "Tasha Taylor",
-          "url": "https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 218026,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
+      "duration_ms": 600506,
+      "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
+      "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Alabama (Live)",
+        "url": "https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 206671,
+      "name": "Alabama - Live",
+      "url": "https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live At The Sydney Opera House",
+        "url": "https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 447360,
+      "name": "Drive - Live",
+      "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Backstage Pass (Live)",
+        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
+      },
+      "artists": [
+        {
+          "name": "Ghost Town Blues Band",
+          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
+        }
+      ],
+      "duration_ms": 268650,
+      "name": "Tip of My Hat (Live)",
+      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live-Spontaneous Combustion",
+        "url": "https://open.spotify.com/album/319sQSVvGqeaNlCoJ2Zxc2"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "Crying For My Baby",
+      "url": "https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7"
+    },
+    {
+      "added_at": "2020-11-20 05:01:00",
+      "album": {
+        "name": "Blue On Black (Live)",
+        "url": "https://open.spotify.com/album/7hi34Iyim7nwlMgZNISz0X"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Blue On Black - Live",
+      "url": "https://open.spotify.com/track/4eUhCAOrhmKZavEf08lhgL"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live from the 805",
+        "url": "https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f"
+      },
+      "artists": [
+        {
+          "name": "Alastair Greene",
+          "url": "https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "The Sweetest Honey (Live)",
+      "url": "https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live at the Jazzhaus",
+        "url": "https://open.spotify.com/album/6bBIe89atzmYXFceEDUP1c"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 410520,
+      "name": "Chills & Thrills",
+      "url": "https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Watchagonnado (Live)",
+        "url": "https://open.spotify.com/album/6X1thdV5sgh1sFkP81K4lg"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Blues Machine",
+          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+        }
+      ],
+      "duration_ms": 329840,
+      "name": "Watchagonnado (Live)",
+      "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live In Concert",
+        "url": "https://open.spotify.com/album/2O6PBRZYz7a9wEUbE7SZkS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaeshammer",
+          "url": "https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07"
+        },
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
+        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 368213,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live At Montreux 1999",
+        "url": "https://open.spotify.com/album/0owj4Gjka5q4S5az5SL7kt"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "duration_ms": 410133,
+      "name": "Stop Breakin' Down - Live",
+      "url": "https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4"
+    },
+    {
+      "added_at": "2021-04-09 04:00:00",
+      "album": {
+        "name": "High Class Girl (Live)",
+        "url": "https://open.spotify.com/album/3hC1eU6oCmdwuWP9haKloF"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 341840,
+      "name": "High Class Girl - Live",
+      "url": "https://open.spotify.com/track/77PULbIYAM090fHatJgXe5"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live! The Real Deal",
+        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 461533,
+      "name": "Damn Right I've Got The Blues - Live",
+      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "TRY! - Live In Concert",
+        "url": "https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz"
+      },
+      "artists": [
+        {
+          "name": "John Mayer Trio",
+          "url": "https://open.spotify.com/artist/68xuC1qXRhCUvGd4SSM655"
+        }
+      ],
+      "duration_ms": 349253,
+      "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
+      "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Broke Down On The Brazos (Live)",
+        "url": "https://open.spotify.com/album/5R53kCyQtLd4oQIBO4SJGs"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 528120,
+      "name": "Broke Down On The Brazos (Live)",
+      "url": "https://open.spotify.com/track/5OITHr7K2kAAMG9CDO5GHJ"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -879,8 +875,24 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Let Me Love You Baby (Live)",
-        "url": "https://open.spotify.com/album/77bZYLZQxXW4zaXb5kdiSR"
+        "name": "LIVE! In Chicago",
+        "url": "https://open.spotify.com/album/5hacXiG8xBevQ7ZWH3KCg2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 354893,
+      "name": "True Lies",
+      "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
       "artists": [
         {
@@ -888,95 +900,95 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 335955,
-      "name": "Let Me Love You Baby - Live",
-      "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
+      "duration_ms": 261874,
+      "name": "Lonesome Whistle Blues - Live",
+      "url": "https://open.spotify.com/track/75QEITVgnbtUomK27erkds"
     },
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+        "name": "Can't Walk Away From It Now (Live)",
+        "url": "https://open.spotify.com/album/5o1wAMgW0MN63RlrhkjLnw"
       },
       "artists": [
         {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
         }
       ],
-      "duration_ms": 275033,
-      "name": "Keep Coming Back - Live",
-      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
+      "duration_ms": 320618,
+      "name": "Can't Walk Away From It Now - Live",
+      "url": "https://open.spotify.com/track/4n1bjZ2y6dpbjYIhbhA71W"
     },
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Songs from the Road",
-        "url": "https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo"
+        "name": "Soul Salvation (Live)",
+        "url": "https://open.spotify.com/album/3ptXSdbiTNTOnzfTepmCtI"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
         }
       ],
-      "duration_ms": 298777,
-      "name": "Night Train - Live",
-      "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
+      "duration_ms": 272160,
+      "name": "Soul Salvation - Live",
+      "url": "https://open.spotify.com/track/5zh6I3FXW2MtDCq3QfT5bw"
     },
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I Didn't Know (Live)",
-        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Dave Fields",
+          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
         }
       ],
-      "duration_ms": 198040,
-      "name": "I Didn't Know - Live",
-      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+      "duration_ms": 497133,
+      "name": "Pocket Full of Dust (Live)",
+      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Live at the King Eddy",
+        "url": "https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP"
+      },
+      "artists": [
+        {
+          "name": "The Harpoonist & the Axe Murderer",
+          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
+        }
+      ],
+      "duration_ms": 256986,
+      "name": "Cry a Little - Live",
+      "url": "https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "West L.A. Fadeaway (Live)",
+        "url": "https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "duration_ms": 771564,
+      "name": "West L.A. Fadeaway - Live",
+      "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
     },
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Setlist: The Very Best of Johnny Winter LIVE",
-        "url": "https://open.spotify.com/album/21mmu8nrIjyeyPMwP2Is6f"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 287813,
-      "name": "Roll With Me - Live in California - September 1975",
-      "url": "https://open.spotify.com/track/5NmsAu22qNYcF2BI9jRY9R"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
-      },
-      "artists": [
-        {
-          "name": "Vanja Sky",
-          "url": "https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Do You Wanna - Live",
-      "url": "https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy"
-    },
-    {
-      "added_at": "2021-04-09 04:00:00",
-      "album": {
-        "name": "High Class Girl (Live)",
-        "url": "https://open.spotify.com/album/3hC1eU6oCmdwuWP9haKloF"
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
       "artists": [
         {
@@ -984,9 +996,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 341840,
-      "name": "High Class Girl - Live",
-      "url": "https://open.spotify.com/track/77PULbIYAM090fHatJgXe5"
+      "duration_ms": 345270,
+      "name": "Let The Good Times Roll - Live",
+      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
     }
   ],
   "unique_name": "Blues Live & Loud",

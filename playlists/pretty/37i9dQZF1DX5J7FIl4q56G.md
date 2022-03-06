@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,725 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,142 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 6 | [Levitate](https://open.spotify.com/track/4yJTpQEI4HBszHdV8H1xXa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Levitate](https://open.spotify.com/album/5H3PYYAUuoV1Jz0Q3ERxKt) | 4:32 |
 | 7 | [Deadweight](https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Deadweight](https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK) | 3:48 |
 | 8 | [Cold](https://open.spotify.com/track/64GtWmpFNjnUgsYn28ieRL) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg), [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Cold](https://open.spotify.com/album/5PRkdn0Ae1vUmjp0OoTfkO) | 3:56 |
-| 9 | [Enviromental Patients](https://open.spotify.com/track/6kYhshfUHmoWpsR2mp2s3W) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Enviromental Patients](https://open.spotify.com/album/3Xkf298OolEiHstHxIHNG6) | 3:40 |
+| 9 | [Environmental Patients](https://open.spotify.com/track/6kYhshfUHmoWpsR2mp2s3W) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Environmental Patients](https://open.spotify.com/album/3Xkf298OolEiHstHxIHNG6) | 3:40 |
 | 10 | [The Price Of Dreaming](https://open.spotify.com/track/5G6Plz8xQnmOXzvan5rH2D) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/6GrgW5NAKxU1UHxc1g3giG) | 4:03 |
 | 11 | [Loyal to None](https://open.spotify.com/track/0Js1wMAJV6wqUnnb60UMJ6) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Loyal to None](https://open.spotify.com/album/3sAk3uyhjOR7Ed82EoCgDS) | 2:32 |
 | 12 | [Lost Horizon](https://open.spotify.com/track/4hLHJfINh7UpeejDud3rMr) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Erica Ohlsson](https://open.spotify.com/artist/19VFBREdO17EzjQT9GIo2M) | [Lost Horizon](https://open.spotify.com/album/2Cw4GDEAGylk0O5QdGesQe) | 3:49 |

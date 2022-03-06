@@ -1422,24 +1422,6 @@
     },
     {
       "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/3mQBrnm5x439zf6Fa5Zhic"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "date_added": "2021-12-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204346,
-      "name": "WOULD YOU RUN",
-      "url": "https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw"
-    },
-    {
-      "album": {
         "name": "HIDE & SEEK",
         "url": "https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8"
       },
@@ -1455,6 +1437,24 @@
       "duration_ms": 200933,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/3mQBrnm5x439zf6Fa5Zhic"
+      },
+      "artists": [
+        {
+          "name": "\ud2b8\ub77c\uc774\ube44",
+          "url": "https://open.spotify.com/artist/7AlIwquwRJYjojSDTPXOEq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "\uc6b0\uc8fc\ub85c",
+      "url": "https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk"

@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
-> tbh we give up\. tweet \#hyperpopdesc with a description and well just pick one of those\. shout out frax.
+> "hyperpop is yoinky sploinky" \#hyperpopdesc Cover: Fraxiom
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 200977,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/32zrJNyJdpoMOqW7u3PEgo"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 152007,
       "name": "Historia de un Amor - with Pablo Alboran",
       "url": "https://open.spotify.com/track/2QI2S23GUATtWiytIaNKQq"
@@ -1793,7 +1793,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 172755,
       "name": "LAst dAy oN EaRTh",
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
@@ -1877,6 +1877,28 @@
       "duration_ms": 176237,
       "name": "Mala",
       "url": "https://open.spotify.com/track/0B5guQ4vxSZhKhDD637Pwe"
+    },
+    {
+      "album": {
+        "name": "Perro, Calle y del Barrio",
+        "url": "https://open.spotify.com/album/2N5D0ZAC41FIMzS1SIfmo1"
+      },
+      "artists": [
+        {
+          "name": "Soultwo",
+          "url": "https://open.spotify.com/artist/1nMlUmx6rSruIwSQxelCPp"
+        },
+        {
+          "name": "Javier Arce",
+          "url": "https://open.spotify.com/artist/2WW13i9QlHkOZ0Iy2kk0iw"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/20ScqiAHw5bBjinvkxDp4F"
     },
     {
       "album": {
@@ -1961,7 +1983,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
@@ -2445,7 +2467,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 192613,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
@@ -2949,7 +2971,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"

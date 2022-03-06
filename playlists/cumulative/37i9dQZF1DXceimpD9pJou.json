@@ -266,6 +266,28 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Est\u00e1 Dios",
+        "url": "https://open.spotify.com/album/4s7WCLcqjEoQ1bgeZrLrxy"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Tobo",
+          "url": "https://open.spotify.com/artist/08GwuFG128T7ElmNimrvns"
+        },
+        {
+          "name": "Jon Carlo",
+          "url": "https://open.spotify.com/artist/78Xx1nGRbBHmfwtx2arZZK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237019,
+      "name": "Aqu\u00ed Est\u00e1 Dios",
+      "url": "https://open.spotify.com/track/6RauS2jhWkWRxHwG26mno4"
+    },
+    {
+      "album": {
         "name": "Nunca Falla",
         "url": "https://open.spotify.com/album/5XzPLJu1mt6D7I0ZXNzDzM"
       },
@@ -325,7 +347,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 423893,
       "name": "Bendita Esperanza - Live",
       "url": "https://open.spotify.com/track/1zadQBdLuwX58zNfMTqCjW"
@@ -391,7 +413,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 225980,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4G7MGVRhu0RvXX1m31TbjB"
@@ -409,7 +431,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 167010,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0NYPwvbSwtDNRwUJw8K2Fe"
@@ -463,7 +485,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 192036,
       "name": "Cotizate",
       "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
@@ -597,7 +619,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV"
@@ -615,7 +637,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 186250,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/6EGduvmEGHgdF3fHYPuUvj"
@@ -637,6 +659,24 @@
       "duration_ms": 127986,
       "name": "DRILL-O",
       "url": "https://open.spotify.com/track/6SqpjKcNSlemeke20izs6p"
+    },
+    {
+      "album": {
+        "name": "Ed\u00e9n",
+        "url": "https://open.spotify.com/album/1S1TvI9fJDgJkaKr0GJach"
+      },
+      "artists": [
+        {
+          "name": "Patty Gleason",
+          "url": "https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351424,
+      "name": "Ed\u00e9n",
+      "url": "https://open.spotify.com/track/5bKybaTJNjqKqd9btx82fR"
     },
     {
       "album": {
@@ -823,7 +863,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 248701,
       "name": "Feo pero Salvo feat. Albert Miliano",
       "url": "https://open.spotify.com/track/2PzVtMzk6wDoUeas8cMsLY"
@@ -951,7 +991,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 245039,
       "name": "Hay Algo",
       "url": "https://open.spotify.com/track/6VtJzFeqa6OGp9ayDwWQxp"
@@ -1129,7 +1169,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 160695,
       "name": "Lleg\u00f3 el Culto",
       "url": "https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse"
@@ -1165,7 +1205,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 184849,
       "name": "Lo Primero",
       "url": "https://open.spotify.com/track/62wcs7NhqaDGt9PILwW2AG"
@@ -1187,7 +1227,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 225435,
       "name": "Lo Que Era",
       "url": "https://open.spotify.com/track/7eQBfRk8lukEnmS1iyqBCh"
@@ -1335,7 +1375,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 493920,
       "name": "Mi Ayuda - En Vivo",
       "url": "https://open.spotify.com/track/7h8ZLklXyToWGYEgUmfits"
@@ -1357,7 +1397,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 194739,
       "name": "Mi Buen Pastor Ft Edder HT",
       "url": "https://open.spotify.com/track/0tWXvjg6EkBUSsIvHHgeQ6"
@@ -1419,7 +1459,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 543230,
       "name": "Mi Mayor Necesidad - Live",
       "url": "https://open.spotify.com/track/0zXd3p2yHvkVg8QOsrdV35"
@@ -1805,7 +1845,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 263155,
       "name": "Proclamar\u00e9",
       "url": "https://open.spotify.com/track/7sw6cadVO6MvzQTKNLqQCe"
@@ -1973,7 +2013,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 236128,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8"
@@ -2061,7 +2101,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 173118,
       "name": "Siempre Ha Estado Aqui",
       "url": "https://open.spotify.com/track/09GnpJ8bUqNfdW8CxnkoQa"
@@ -2115,7 +2155,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 270070,
       "name": "Sobre las Aguas",
       "url": "https://open.spotify.com/track/36dxoAE6Bj269tBwNSfi8p"
@@ -2189,10 +2229,50 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 478549,
       "name": "Tan Solo Una Orden (feat. Alex Campos) - En Vivo",
       "url": "https://open.spotify.com/track/7DNHrOf6ON5QBj3vfo3SFo"
+    },
+    {
+      "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
+      },
+      "artists": [
+        {
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+        },
+        {
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
+    },
+    {
+      "album": {
+        "name": "Te Tengo A Ti",
+        "url": "https://open.spotify.com/album/5qKkVffZs0pk5RTasMpirw"
+      },
+      "artists": [
+        {
+          "name": "Nathanael Paredes",
+          "url": "https://open.spotify.com/artist/78CHoGmVPt81ebx9DNpQJk"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290858,
+      "name": "Te Tengo A Ti",
+      "url": "https://open.spotify.com/track/6hQwgxM85boXb9bpfQmx1H"
     },
     {
       "album": {
@@ -2252,6 +2332,28 @@
     },
     {
       "album": {
+        "name": "Dios de Propositos, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1RPR4EThzzxMpF00LKvzYp"
+      },
+      "artists": [
+        {
+          "name": "Emily Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7JRe1uF6vEcfNMyOnkuvzi"
+        },
+        {
+          "name": "Horeb Collective",
+          "url": "https://open.spotify.com/artist/3jM0rNZlv6t1KXnImCtDyb"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559636,
+      "name": "Tu Gracia - En Vivo",
+      "url": "https://open.spotify.com/track/1avndzhDc1uj2KluWeey7O"
+    },
+    {
+      "album": {
         "name": "Venga Tu Reino (Deluxe)",
         "url": "https://open.spotify.com/album/26W3PMfdqy8gG7Tw9rlozA"
       },
@@ -2275,7 +2377,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 348000,
       "name": "Tumbas a Jardines (feat. Brandon Lake & Edgar Aguilar)",
       "url": "https://open.spotify.com/track/3aT6p2DCLQIwOcULLntBTp"
@@ -2363,7 +2465,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 209699,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e"
@@ -2417,7 +2519,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 144155,
       "name": "Veintiuno",
       "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
@@ -2513,6 +2615,24 @@
       "duration_ms": 209458,
       "name": "Vine a Salvarte",
       "url": "https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC"
+    },
+    {
+      "album": {
+        "name": "YHWH",
+        "url": "https://open.spotify.com/album/4t9lJ8uU3iI2NrIE3SSuRu"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290702,
+      "name": "YHWH",
+      "url": "https://open.spotify.com/track/6jJ6bAj2kEblJNMKoq1TU1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou"

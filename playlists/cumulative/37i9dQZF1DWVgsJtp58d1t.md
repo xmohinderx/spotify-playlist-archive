@@ -2,7 +2,7 @@
 
 ### [This is Frequency](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
-> New releases, driving the current\. Cover: Tiana Major9
+> New releases, driving the current\. Cover: Cruel Santino
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-21 | 2022-02-26 |
 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 | 2022-03-04 |  |
 | [Diet Coke](https://open.spotify.com/track/25vP1c6ZkWsR4ejonbGFDF) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/5GpWWoHvsz1y5HPZTFvxzD) | 2:59 | 2022-02-08 |  |
+| [DIRTY EYES EVIL MANNERS \(feat\. Skepta\)](https://open.spotify.com/track/4bdCqs0jYAClm8Ps9rpMHE) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:36 | 2022-03-05 |  |
 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 | 2022-03-04 |  |
 | [Do The Benz](https://open.spotify.com/track/1yXfYe6dulPpwZYaoTRQXG) | [B\. Lewie](https://open.spotify.com/artist/6PaR8BiEKBuKDML0yTChAs), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [NO LAW](https://open.spotify.com/album/6zFSr9nPShhwiqQ2lIMlUS) | 1:45 | 2022-03-04 |  |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-04 |  |

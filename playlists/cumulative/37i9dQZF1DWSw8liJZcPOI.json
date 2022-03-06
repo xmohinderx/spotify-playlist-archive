@@ -23,7 +23,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 237832,
       "name": "#20 (Lichen)",
       "url": "https://open.spotify.com/track/4ovtBDG1jiIXe033VVhNgq"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 210440,
       "name": "A Tiny Ripple That Becomes A Giant Wave",
       "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 127865,
       "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
       "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 123656,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/4u1fQ9pvtLh1XDlivrHrPJ"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 191453,
       "name": "Bl\u00e5 Berget",
       "url": "https://open.spotify.com/track/3fSmUQD1lsm09lvLUwtIoJ"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 175178,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 323855,
       "name": "Circle 23 - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 221960,
       "name": "Dear, Utopia - Jameson Nathan Jones Rework",
       "url": "https://open.spotify.com/track/4DDtvtAqHwTchhBthZIPcO"
@@ -1909,7 +1909,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/4tiKvBdGo2KVVUazCIfWOE"
@@ -1967,7 +1967,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 90285,
       "name": "Entering",
       "url": "https://open.spotify.com/track/5Gvgr1O5vJFM0pG9VMZF7N"
@@ -2083,7 +2083,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 342400,
       "name": "Fight to Make It Up",
       "url": "https://open.spotify.com/track/7urVuBvdhiOpWGiWX81iXe"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Flow State Vestida 4",
       "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
@@ -2340,6 +2340,24 @@
     },
     {
       "album": {
+        "name": "For Mark",
+        "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309600,
+      "name": "For Mark",
+      "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
+    },
+    {
+      "album": {
         "name": "For Now I Am Winter (Nils Frahm Rework)",
         "url": "https://open.spotify.com/album/3gxFx3lf6a5xzxIDFkyG20"
       },
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 250312,
       "name": "For Now I Am Winter - Nils Frahm Rework",
       "url": "https://open.spotify.com/track/6XfYMFnnwPZasthiS7ph3g"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 414255,
       "name": "Forest Path",
       "url": "https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h"
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 280890,
       "name": "Fyrir Mikael - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/2YSuyEIuU4Q3BTGUzYYVRz"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 233253,
       "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
@@ -2807,7 +2825,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 264566,
       "name": "Hjlo\u0301\u00f0",
       "url": "https://open.spotify.com/track/3xssh2f0VPRKBnrhnOF1Gc"
@@ -3313,7 +3331,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 275666,
       "name": "Leicester",
       "url": "https://open.spotify.com/track/3xNGLXWGtyFsDREQJqhV8s"
@@ -3545,7 +3563,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 247120,
       "name": "Modern Driveway",
       "url": "https://open.spotify.com/track/2XgqIg1xo9bvzyK0DEnqxN"
@@ -3729,7 +3747,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 121000,
       "name": "No Ball Games (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4HUsC4vT6Aqeql8FKLfnbJ"
@@ -3747,7 +3765,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
@@ -4063,7 +4081,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 231285,
       "name": "Parallel (feat. Manu Delago)",
       "url": "https://open.spotify.com/track/1TYyoP8sdXQ039kghXQZuf"
@@ -4451,7 +4469,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 386085,
       "name": "Sadness - Carlos Cipa Rework",
       "url": "https://open.spotify.com/track/6DLTECZMsEl9En73TNRoEQ"
@@ -4583,7 +4601,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 335767,
       "name": "She Lives in Golden Sands",
       "url": "https://open.spotify.com/track/2bfPtJBxdYPrF8cKeIEUzH"
@@ -4715,7 +4733,7 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM"
@@ -5675,7 +5693,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 137500,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
@@ -5823,7 +5841,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 256005,
       "name": "Upstream Dream",
       "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
@@ -6105,7 +6123,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 276316,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3p6PUYuD5JbhR33oukJBzB"
@@ -6163,7 +6181,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 145333,
       "name": "Where Do We Go from Here",
       "url": "https://open.spotify.com/track/1X0X6BC5drvd3cnh3bCrXf"
@@ -6185,7 +6203,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 170539,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
@@ -6203,7 +6221,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 346386,
       "name": "Wholeness and the Implicate Order",
       "url": "https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK"

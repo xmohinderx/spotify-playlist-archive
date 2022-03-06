@@ -596,6 +596,28 @@
     },
     {
       "album": {
+        "name": "Alles anders (weniger im Arsch)",
+        "url": "https://open.spotify.com/album/7tuQuHJszRNLbjVRtKtMdI"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153783,
+      "name": "Alles anders (weniger im Arsch)",
+      "url": "https://open.spotify.com/track/1H2rGO5zzjRTfFIgD7wNRj"
+    },
+    {
+      "album": {
         "name": "Grosse Freiheit",
         "url": "https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S"
       },
@@ -1053,7 +1075,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 167741,
       "name": "Auf die Feinde (feat. RAF Camora)",
       "url": "https://open.spotify.com/track/4Ir5arQOnMzt0wSB2lq6U3"
@@ -1123,6 +1145,28 @@
       "duration_ms": 196517,
       "name": "Aventador",
       "url": "https://open.spotify.com/track/5T7pVU8KMd7hpyqfWt0nhy"
+    },
+    {
+      "album": {
+        "name": "ay! (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124188,
+      "name": "ay! (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/374EllG6WyKdKvklfanNZT"
     },
     {
       "album": {
@@ -1286,6 +1330,28 @@
     },
     {
       "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "album": {
         "name": "Bitches brauchen Rap",
         "url": "https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp"
       },
@@ -1429,7 +1495,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 220750,
       "name": "Behute",
       "url": "https://open.spotify.com/track/7l4SCt0ebVQnbQNEXyH7F7"
@@ -4331,7 +4397,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -5695,6 +5761,24 @@
       "duration_ms": 158463,
       "name": "I Didn't Change My Number",
       "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
+    },
+    {
+      "album": {
+        "name": "I DON\u2019T WANNA PARTY NO MORE",
+        "url": "https://open.spotify.com/album/6r6ZAtU32Z5NxJClLFZjD8"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "I DON\u2019T WANNA PARTY NO MORE",
+      "url": "https://open.spotify.com/track/39qM1tojOMEnll1pHxAxhB"
     },
     {
       "album": {
@@ -7253,7 +7337,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -7737,6 +7821,24 @@
       "duration_ms": 168421,
       "name": "Medizin",
       "url": "https://open.spotify.com/track/23QvvFds2ICn6Ho2Em1GOX"
+    },
+    {
+      "album": {
+        "name": "Mein Herz",
+        "url": "https://open.spotify.com/album/0w8oOS2pQtGUNUhaXwGlJ5"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156987,
+      "name": "Mein Herz",
+      "url": "https://open.spotify.com/track/4onuHfF4KTeJx9pstLBOz8"
     },
     {
       "album": {
@@ -8529,7 +8631,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -9073,6 +9175,24 @@
       "duration_ms": 132909,
       "name": "NUR AUS PRINZIP",
       "url": "https://open.spotify.com/track/3RaGnI3zmPUElLfNcl3W56"
+    },
+    {
+      "album": {
+        "name": "Nur ein Song (I Need Some Sleep)",
+        "url": "https://open.spotify.com/album/0mIMkAR1AK9yEls80nzUPc"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Nur ein Song (I Need Some Sleep)",
+      "url": "https://open.spotify.com/track/6WrtlZnKUrg3KKDyjpnZBz"
     },
     {
       "album": {
@@ -10127,7 +10247,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
@@ -10273,6 +10393,28 @@
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6"
+    },
+    {
+      "album": {
+        "name": "Rapstars (feat. Jamule)",
+        "url": "https://open.spotify.com/album/6vVtUeMoS2jlEiXyGht3ed"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "Rapstars (feat. Jamule)",
+      "url": "https://open.spotify.com/track/6Q2cC3r8j2hasFAf1g00d3"
     },
     {
       "album": {
@@ -11284,6 +11426,28 @@
     },
     {
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
+    },
+    {
+      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/0DPCR4i84ks81cy29Bf8Od"
       },
@@ -11321,7 +11485,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
@@ -12027,7 +12191,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -12056,6 +12220,28 @@
     },
     {
       "album": {
+        "name": "TAG TEAM",
+        "url": "https://open.spotify.com/album/2TMLKBbqeFQjUWtseZJyIS"
+      },
+      "artists": [
+        {
+          "name": "Frauenarzt",
+          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148706,
+      "name": "TAG TEAM",
+      "url": "https://open.spotify.com/track/2Zn92GVxtSPkbrA5vnyZI0"
+    },
+    {
+      "album": {
         "name": "Tageslicht",
         "url": "https://open.spotify.com/album/05lqmfzvjBSy1RktcQants"
       },
@@ -12075,7 +12261,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 173199,
       "name": "Tageslicht",
       "url": "https://open.spotify.com/track/2c5CLmXwJ4V0IIqJ6B68gq"
@@ -12579,7 +12765,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
@@ -14131,7 +14317,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

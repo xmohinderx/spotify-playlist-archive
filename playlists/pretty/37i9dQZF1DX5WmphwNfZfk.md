@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Leith
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,734 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,739 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 98 | [My Therapist Told Me](https://open.spotify.com/track/08Ngb5MY4QnSXmawXGhW5p) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [My Therapist Told Me](https://open.spotify.com/album/4J4qnIjpeLbhDiBoqCvSPk) | 2:58 |
 | 99 | [Closer](https://open.spotify.com/track/03cFsB74lD9w4T0ewkIoq3) | [ZOEY LEVEN](https://open.spotify.com/artist/5R7VOCNi2mdK8UxzcYc0cp) | [Closer](https://open.spotify.com/album/73OvqzrfKWprAuwbJDGMrs) | 3:58 |
 
-Snapshot ID: `MTY0NjQ0MTYxOSwwMDAwMDAwMGY4NTc1MWZmOTcxMjk3MWFiODliZDhmYjZjNzJlMmEx`
+Snapshot ID: `MTY0NjUyNzg3NiwwMDAwMDAwMGY4NTc1MWZmOTcxMjk3MWFiODliZDhmYjZjNzJlMmEx`

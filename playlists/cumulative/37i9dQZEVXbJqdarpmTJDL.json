@@ -7024,6 +7024,28 @@
     },
     {
       "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/6z84yim12YDysnuol7GHwF"
+      },
+      "artists": [
+        {
+          "name": "Lau Jr",
+          "url": "https://open.spotify.com/artist/0VqAapxk0FZ4ijMAZxf3hA"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150858,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/5VcyKjkocEbeh3pw8GioJk"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -8838,6 +8860,24 @@
     },
     {
       "album": {
+        "name": "Pali Girisa",
+        "url": "https://open.spotify.com/album/0wkF3RceltUplBX9Iwk9kM"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206457,
+      "name": "Pali Girisa",
+      "url": "https://open.spotify.com/track/4BId9LnmRAaun8GsS8shTE"
+    },
+    {
+      "album": {
         "name": "Pano Kato Challenge",
         "url": "https://open.spotify.com/album/27T2zhBAb0QKU7lbxBoKMr"
       },
@@ -9881,7 +9921,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 166240,
       "name": "SALONICA GRECO",
       "url": "https://open.spotify.com/track/3JHmF0uVA4tYjIY1veinzK"
@@ -11181,7 +11221,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 185208,
       "name": "To 'Xoun Kapsei",
       "url": "https://open.spotify.com/track/6rCfFX21lHuDFfexga27F1"

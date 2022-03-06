@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 320000,
       "name": "Al\u00e9m do Infinito",
       "url": "https://open.spotify.com/track/5QCsVGMVZOlkEOZBbt1rn2"
@@ -586,6 +586,24 @@
     },
     {
       "album": {
+        "name": "Bruna Black no Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/24R0ogq7IgfTQimUsvvMNG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180319,
+      "name": "Consola\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1RDrajFFcrkxEVVgpGcucT"
+    },
+    {
+      "album": {
         "name": "Ana Ca\u00f1as Canta Belchior",
         "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
       },
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 200813,
       "name": "Garota da Linha Azul",
       "url": "https://open.spotify.com/track/7KKPApvO78DY3bhqbZzAa5"
@@ -1208,6 +1226,28 @@
     },
     {
       "album": {
+        "name": "Mar do Sonhador",
+        "url": "https://open.spotify.com/album/7HpLIirkGZXvLooQnnlchA"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Andrade",
+          "url": "https://open.spotify.com/artist/6zpu0t9nfePmnwBBlw63xl"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Mar do Sonhador",
+      "url": "https://open.spotify.com/track/2J9VKTodi8CqwvaVCtc77r"
+    },
+    {
+      "album": {
         "name": "Do Mar",
         "url": "https://open.spotify.com/album/5Lqns3GiTef2VDMLnuc5UR"
       },
@@ -1223,7 +1263,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 427326,
       "name": "Mariana Olhos D'\u00e1gua",
       "url": "https://open.spotify.com/track/2RBpQ4S9HEDP6wNoJeoh2w"
@@ -1639,7 +1679,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 235435,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/4QC1L4JgL4ZFwVFd3AcdSw"
@@ -1973,7 +2013,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 153125,
       "name": "Quando o Ver\u00e3o Chegar",
       "url": "https://open.spotify.com/track/55iPmc0vf50RVte1sY2dui"
@@ -2325,7 +2365,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
@@ -2379,7 +2419,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 236286,
       "name": "Terra Af\u00e9f\u00e9",
       "url": "https://open.spotify.com/track/6gEvuTrxNJIG38UjkfYiC8"
@@ -2525,7 +2565,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 202758,
       "name": "Um Minuto",
       "url": "https://open.spotify.com/track/5DrQiLk5UmSD6y47DtJuw9"

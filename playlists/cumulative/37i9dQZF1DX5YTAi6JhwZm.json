@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/2Od5gIW3c3szwoTxl0Hhu7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Au Privave",
+      "url": "https://open.spotify.com/track/1PA0tI1YObjGqpTKgKoUJP"
+    },
+    {
+      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -175,7 +193,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 356746,
       "name": "Bo-Fill - Rudy Van Gelder 24Bit Mastering",
       "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
@@ -620,6 +638,60 @@
     },
     {
       "album": {
+        "name": "Blue's Moods",
+        "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/11yFXAL7mtcXaEz8CnumIq"
+    },
+    {
+      "album": {
+        "name": "Blue's Moods",
+        "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353800,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/76oiXjka5OXZJ4eqSQIDfY"
+    },
+    {
+      "album": {
+        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281093,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/4RLNFZ5CHaLH1URS90ycgP"
+    },
+    {
+      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -653,7 +725,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 160733,
       "name": "If I Love Again",
       "url": "https://open.spotify.com/track/18OCB6x3sj2wTSxsoabG71"
@@ -973,7 +1045,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 293106,
       "name": "Lion's Den - Rudy Van Gelder Edition/2007 Remaster",
       "url": "https://open.spotify.com/track/5Q9XLLVex1yZ0Heo2SVhMI"
@@ -1034,6 +1106,28 @@
     },
     {
       "album": {
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315893,
+      "name": "Mack The Knife",
+      "url": "https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG"
+    },
+    {
+      "album": {
         "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
@@ -1045,7 +1139,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 438293,
       "name": "Metamorphosis - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6dNNF5G1fQOYbFlHXIqWtI"
@@ -1189,7 +1283,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 334253,
       "name": "O Mama Enit - Rudy Van Gelder 24-Bit Mastering/2003 Remaster",
       "url": "https://open.spotify.com/track/6xFh3v76Pv1Ucqf4xAT2bY"
@@ -1247,6 +1341,24 @@
       "duration_ms": 270533,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/4BDJyHyvzdFDh7udlg8lDq"
+    },
+    {
+      "album": {
+        "name": "Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "Opus De Funk",
+      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
     },
     {
       "album": {
@@ -1351,7 +1463,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 381893,
       "name": "Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster",
       "url": "https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l"
@@ -1427,6 +1539,24 @@
       "duration_ms": 225145,
       "name": "Soon",
       "url": "https://open.spotify.com/track/2HyhUHo9i6tsAEjb8Rjvmk"
+    },
+    {
+      "album": {
+        "name": "Minor Move (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH"
+      },
+      "artists": [
+        {
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495666,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/03wsijXCWgrIjGaPHy3sTe"
     },
     {
       "album": {
@@ -1539,10 +1669,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 330120,
       "name": "Tariff - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj"
+    },
+    {
+      "album": {
+        "name": "Swiss Nights, Vol. 3",
+        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 762666,
+      "name": "Tenor madness",
+      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
     },
     {
       "album": {
@@ -1717,7 +1865,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 294906,
       "name": "The Lion's Roar - Remastered",
       "url": "https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg"
@@ -1883,7 +2031,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 372080,
       "name": "Tippin' - Rudy Van Gelder Edition/2000 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k"
@@ -2007,6 +2155,28 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+    },
+    {
+      "album": {
+        "name": "Sonny's Crib",
+        "url": "https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475293,
+      "name": "With A Song In My Heart - Remastered 1998",
+      "url": "https://open.spotify.com/track/1f7EWS1kruAco1sc1W614Q"
     },
     {
       "album": {

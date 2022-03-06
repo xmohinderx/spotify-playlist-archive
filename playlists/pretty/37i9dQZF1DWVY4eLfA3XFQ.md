@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Miane
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,609 likes - 135 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,697 likes - 135 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
-| 2 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
-| 3 | [Don't Wanna Lie](https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Don't Wanna Lie](https://open.spotify.com/album/236XMgaxHRyqXMDHL8vSHU) | 3:28 |
-| 4 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 |
-| 5 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 |
-| 6 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 |
-| 7 | [Locco](https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco](https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj) | 3:03 |
+| 1 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
+| 2 | [Don't Wanna Lie](https://open.spotify.com/track/5r5MjmaLklyNOzKXY6Fqm5) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Don't Wanna Lie](https://open.spotify.com/album/236XMgaxHRyqXMDHL8vSHU) | 3:28 |
+| 3 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 |
+| 4 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 |
+| 5 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 |
+| 6 | [Locco](https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco](https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj) | 3:03 |
+| 7 | [Sublime](https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Sublime](https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru) | 3:08 |
 | 8 | [Nothing Gonna Stop This](https://open.spotify.com/track/1JWA4peO1GxEgDxh8J23UA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Nothing Gonna Stop This](https://open.spotify.com/album/30ubmboEJ0dSuxjXbusHTA) | 3:47 |
-| 9 | [Sublime](https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Sublime](https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru) | 3:08 |
+| 9 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
 | 10 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 |
 | 11 | [Human \(feat\. Echoes\) \- Joshwa Remix](https://open.spotify.com/track/23DTsnKCwj5Gf2J1aZXMNh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Human \(feat\. Echoes\) \[Joshwa Remix\]](https://open.spotify.com/album/51JpJXT6QTsz1Fp672erqG) | 3:35 |
 | 12 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 134 | [My Cheri](https://open.spotify.com/track/2KMGtmMG9ECmayTeqtb3YY) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [My Cheri](https://open.spotify.com/album/6ZUEW9WFB8WK1ullIjAmUn) | 2:31 |
 | 135 | [Love You Like That](https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Love You Like That](https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT) | 2:55 |
 
-Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDEwMTAwMDAwMTdmNTM0YzhkNGIwMDAwMDE3ZjUzNDIwOTM3`
+Snapshot ID: `MTY0NjQ0MTkwNSwwMDAwMDEwMjAwMDAwMTdmNTc5NWJlOWEwMDAwMDE3ZjUzNDIwOTM3`

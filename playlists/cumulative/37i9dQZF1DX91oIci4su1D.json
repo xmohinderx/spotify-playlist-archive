@@ -418,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/2Jc6QLBZHVicHidjCASyBf"
+      },
+      "artists": [
+        {
+          "name": "Dustin Husain",
+          "url": "https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/2Q6crgCiZsT5cSbCOn5snz"
+    },
+    {
+      "album": {
         "name": "Au79",
         "url": "https://open.spotify.com/album/55MZcCAnI1bSM9lE4DWV1v"
       },
@@ -502,6 +520,28 @@
     },
     {
       "album": {
+        "name": "Beyond The Sky",
+        "url": "https://open.spotify.com/album/0f80qx8NHVigp3ZLEeaXQB"
+      },
+      "artists": [
+        {
+          "name": "Darren O'Brien",
+          "url": "https://open.spotify.com/artist/0t09XXLzz2mlwojA5oGrXk"
+        },
+        {
+          "name": "Alex Holmes",
+          "url": "https://open.spotify.com/artist/3z8cJXANYZnhvGg80JKBSN"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297041,
+      "name": "Beyond the Sky",
+      "url": "https://open.spotify.com/track/0DwBNCpmS7FFq434qH7blo"
+    },
+    {
+      "album": {
         "name": "Anjunabeats Rising - Volume 6",
         "url": "https://open.spotify.com/album/5fhzaERL0R2s8CsNQzIVJr"
       },
@@ -565,6 +605,32 @@
       "duration_ms": 218194,
       "name": "Blue Roses",
       "url": "https://open.spotify.com/track/6QzEYSHEX75PpO9DCGNvxY"
+    },
+    {
+      "album": {
+        "name": "Born to Run",
+        "url": "https://open.spotify.com/album/22rc8Q5ZBZiljRoi1fORKq"
+      },
+      "artists": [
+        {
+          "name": "Andy Moor",
+          "url": "https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn"
+        },
+        {
+          "name": "Somna",
+          "url": "https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210376,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/0taZjhXbTPtGHQsEv3nhkl"
     },
     {
       "album": {
@@ -935,6 +1001,24 @@
       "duration_ms": 221739,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4wv1O6QCbotNMM5BWqUOn7"
+    },
+    {
+      "album": {
+        "name": "Cry My Name",
+        "url": "https://open.spotify.com/album/3pfUQ49kJpoHO6EDp0s0oy"
+      },
+      "artists": [
+        {
+          "name": "York",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Cry My Name",
+      "url": "https://open.spotify.com/track/5gJKGE7dk8OTULVIPIxWKn"
     },
     {
       "album": {
@@ -1493,7 +1577,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 232714,
       "name": "Free Souls - Ben van Gosh Radio Remix",
       "url": "https://open.spotify.com/track/5ZfnLl8eUqclVeeWEuVFKf"
@@ -1782,6 +1866,28 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Torrence",
+          "url": "https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH"
+        },
+        {
+          "name": "Elara",
+          "url": "https://open.spotify.com/artist/6Hjeq4rnhr7spF9RLOWt7i"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256699,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92"
+    },
+    {
+      "album": {
         "name": "Great Ocean Road",
         "url": "https://open.spotify.com/album/2EPd7BNNI9zY3MEgSdV2kr"
       },
@@ -2043,6 +2149,28 @@
       "duration_ms": 227826,
       "name": "Impulse",
       "url": "https://open.spotify.com/track/6PZIukWau8YFLsFZBGwtLG"
+    },
+    {
+      "album": {
+        "name": "In the Middle",
+        "url": "https://open.spotify.com/album/1h0rrzX2J3Krv1PkAJXWMt"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "In the Middle",
+      "url": "https://open.spotify.com/track/64xXJHoaNRJ9yXIXrubb0t"
     },
     {
       "album": {
@@ -2562,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4u40bU2UJr0JCIKLD4l9LQ"
+      },
+      "artists": [
+        {
+          "name": "Rub!k",
+          "url": "https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/6vlZbpSGMaWTIoaWyL5qcL"
+    },
+    {
+      "album": {
         "name": "Made of Stone",
         "url": "https://open.spotify.com/album/6QqHyLXIWltfMVhO8XQWLW"
       },
@@ -2789,6 +2935,24 @@
       "duration_ms": 191718,
       "name": "Moment",
       "url": "https://open.spotify.com/track/1OhNIHWABDYC8KE7EF3YOK"
+    },
+    {
+      "album": {
+        "name": "Moonshade",
+        "url": "https://open.spotify.com/album/0AB7gk8gDvtXH5i43s4k6G"
+      },
+      "artists": [
+        {
+          "name": "Ronski Speed",
+          "url": "https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197297,
+      "name": "Moonshade",
+      "url": "https://open.spotify.com/track/5K1qQiwzz0k7Dc64wiZpFS"
     },
     {
       "album": {
@@ -4573,7 +4737,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
@@ -4757,6 +4921,24 @@
       "duration_ms": 185468,
       "name": "Wouldn\u2019t Be Mine",
       "url": "https://open.spotify.com/track/0BLdhHmtdxd3BGR8nSNEI1"
+    },
+    {
+      "album": {
+        "name": "Xtravaganza",
+        "url": "https://open.spotify.com/album/0iBWzQSltzceD09pF9a7yA"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "Xtravaganza",
+      "url": "https://open.spotify.com/track/2yeRKaYDZp9EPANGzeBcvH"
     },
     {
       "album": {

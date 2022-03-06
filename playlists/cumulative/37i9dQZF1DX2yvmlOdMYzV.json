@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "Stairway To Heaven",
+        "url": "https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb"
+      },
+      "artists": [
+        {
+          "name": "SOLIS",
+          "url": "https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh"
+        },
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203951,
+      "name": "Abeg (feat. Amindi)",
+      "url": "https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP"
+    },
+    {
+      "album": {
         "name": "Alt Therapy Session 1: Disillusion",
         "url": "https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu"
       },
@@ -59,7 +81,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 258211,
       "name": "ALIENS!",
       "url": "https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 171818,
       "name": "D'Evils",
       "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
@@ -457,7 +479,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 220401,
       "name": "Desoleil (Brilliant Corners)",
       "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
@@ -643,7 +665,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 164642,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y"
@@ -673,7 +695,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "Flight 99",
       "url": "https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D"
@@ -829,7 +851,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 177248,
       "name": "Groove",
       "url": "https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 213877,
       "name": "Hours Make Ours",
       "url": "https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL"
@@ -1231,7 +1253,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 202160,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg"
@@ -1253,6 +1275,24 @@
       "duration_ms": 73897,
       "name": "kometostai.aintreallynootherwaytoputitro",
       "url": "https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit"
+    },
+    {
+      "album": {
+        "name": "Hud Dreems",
+        "url": "https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD"
+      },
+      "artists": [
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73897,
+      "name": "kometostai.aintreallynootherwaytoputitro",
+      "url": "https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4"
     },
     {
       "album": {
@@ -1387,7 +1427,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 181831,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
@@ -1405,7 +1445,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 238122,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y"
@@ -1597,7 +1637,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 235161,
       "name": "Motion",
       "url": "https://open.spotify.com/track/5QDiaIPUAFXD22LJakFHfH"
@@ -1637,7 +1677,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
@@ -1869,7 +1909,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "Payday",
       "url": "https://open.spotify.com/track/1TEHeYuZGKXIcZxONEsJ3K"
@@ -2017,7 +2057,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 154200,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/4U7Mih8jHL0v5g6oksHMBm"
@@ -2377,7 +2417,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
@@ -2447,7 +2487,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 211090,
       "name": "Talk to Yuh",
       "url": "https://open.spotify.com/track/6fwV7mBG3K6eAmSfPmNtK6"
@@ -2483,7 +2523,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 227253,
       "name": "Too Much to Ask",
       "url": "https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1"
@@ -2643,7 +2683,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 172240,
       "name": "Where U At?",
       "url": "https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,203 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,242 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 54 | [Lifeline](https://open.spotify.com/track/1koxIMwzkdxekBrLkPtGsL) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:13 |
 | 55 | [Truth Be Told](https://open.spotify.com/track/1N61QLRTGgzb97qTd03KhZ) | [Skye Wallace](https://open.spotify.com/artist/6BBaTzjSoI3KGH2c5yyCae) | [Truth Be Told](https://open.spotify.com/album/58rMecu5z9tfXa3Vambk9c) | 4:03 |
 | 56 | [Bombs Away](https://open.spotify.com/track/72Xa1iPkKwuHCepobKLZt4) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Big Wreck 7.1](https://open.spotify.com/album/6fF0RwxKsajChTSJrHsZLN) | 5:32 |
-| 57 | [ay! \(with Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(with Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
+| 57 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
 | 58 | [Ship Of Lies](https://open.spotify.com/track/2ED7C5OZR7TIiFM1SnQa3y) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Power Trio](https://open.spotify.com/album/70ZIBGWf7ZRzjx9AT4Ze9p) | 3:35 |
 | 59 | [Fear Of The Dawn](https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3sYkBlospe8hXvJxeNUfdN) | 2:02 |
 | 60 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |

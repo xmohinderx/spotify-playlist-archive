@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 200655,
       "name": "Alone",
       "url": "https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 195706,
       "name": "Butterflies (with Starrah & Four Tet)",
       "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
@@ -668,6 +668,28 @@
     },
     {
       "album": {
+        "name": "Comfortable (feat. QUIX)",
+        "url": "https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179552,
+      "name": "Comfortable (feat. QUIX)",
+      "url": "https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2"
+    },
+    {
+      "album": {
         "name": "Cross My Heart",
         "url": "https://open.spotify.com/album/4yTrSLs99kcWGXEUCPfp7C"
       },
@@ -719,7 +741,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz"
@@ -957,7 +979,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -1001,7 +1023,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 193457,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
@@ -1071,7 +1093,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 192000,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC"
@@ -1155,7 +1177,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 248437,
       "name": "Fly With Us",
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
@@ -1203,7 +1225,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 188920,
       "name": "Freedom (You Bring Me)",
       "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 318720,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
@@ -1477,7 +1499,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 198620,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 219193,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6xMb0wjwc0jaW4jUEBFCJp"
@@ -1999,7 +2021,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 204761,
       "name": "Life Of Sin (feat. Ranger Trucco)",
       "url": "https://open.spotify.com/track/5CB3JnLsxjDJj2EUabWcuj"
@@ -2413,7 +2435,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 130757,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/6X6CUqG6rW8rtGXdzyCOJH"
@@ -2601,7 +2623,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 162200,
       "name": "One Way Up",
       "url": "https://open.spotify.com/track/3Gw986f1XAe5dgCJ7NW8D4"
@@ -2701,7 +2723,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 212494,
       "name": "Pain",
       "url": "https://open.spotify.com/track/5kiTsfqM10sKjL5FxwKHKn"
@@ -2745,7 +2767,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 219561,
       "name": "Paper Walls",
       "url": "https://open.spotify.com/track/3p7bWzqLgmHc172MBh7Vd2"
@@ -2873,7 +2895,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 231031,
       "name": "Playbox",
       "url": "https://open.spotify.com/track/4PyjU6NkpXm78HRNAXg0fk"
@@ -3123,7 +3145,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 289599,
       "name": "Safe With Me (feat. Luma)",
       "url": "https://open.spotify.com/track/1cfY8NzqmmZgo9aLqAyY4c"
@@ -3163,7 +3185,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 210875,
       "name": "Searching",
       "url": "https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6"
@@ -3461,7 +3483,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 190080,
       "name": "Talamanca - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
@@ -3743,7 +3765,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"

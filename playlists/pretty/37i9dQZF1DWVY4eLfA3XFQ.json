@@ -1,29 +1,13 @@
 {
   "description": "Tech house technicians. Cover: Miane",
-  "num_followers": 540609,
+  "num_followers": 540697,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDEwMTAwMDAwMTdmNTM0YzhkNGIwMDAwMDE3ZjUzNDIwOTM3",
+  "snapshot_id": "MTY0NjQ0MTkwNSwwMDAwMDEwMjAwMDAwMTdmNTc5NWJlOWEwMDAwMDE3ZjUzNDIwOTM3",
   "tracks": [
-    {
-      "added_at": "2022-01-14 11:21:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
-    },
     {
       "added_at": "2022-02-25 05:00:00",
       "album": {
@@ -125,6 +109,22 @@
       "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
     },
     {
+      "added_at": "2022-02-18 17:51:41",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 188220,
+      "name": "Sublime",
+      "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
+    },
+    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Nothing Gonna Stop This",
@@ -145,20 +145,20 @@
       "url": "https://open.spotify.com/track/1JWA4peO1GxEgDxh8J23UA"
     },
     {
-      "added_at": "2022-02-18 17:51:41",
+      "added_at": "2022-01-14 11:21:00",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
       "artists": [
         {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 188220,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH"
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2022-02-25 05:00:00",

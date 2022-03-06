@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 179052,
       "name": "Alone, Pt. II",
       "url": "https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 234219,
       "name": "Back of Your Head",
       "url": "https://open.spotify.com/track/4Nxo4PVVFePtkEG3G0LuD9"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 170356,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/6KgZeNR9fab84NbLXa81cY"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 185660,
       "name": "Can't Be Happier",
       "url": "https://open.spotify.com/track/3Ckog39sKyHfXaIwNASV5J"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 218800,
       "name": "Crocodile Tears (feat. Jens Hult)",
       "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 144136,
       "name": "I Got A Feeling",
       "url": "https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 191578,
       "name": "Keep It Simple (feat. Wilder Woods)",
       "url": "https://open.spotify.com/track/58fGC7ZRlPhW1J7kLx1goK"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 139813,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4fwo6czG5nvOQMzhOto1ya"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 205277,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/4KpbD67QmMxvdSVGOGiqlj"
@@ -1657,10 +1657,36 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 210921,
       "name": "Naked",
       "url": "https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8"
+    },
+    {
+      "album": {
+        "name": "Naked (With My Headphones On) [Remixes]",
+        "url": "https://open.spotify.com/album/3JuKtjAgqBodqKXmHPiMje"
+      },
+      "artists": [
+        {
+          "name": "Rat City",
+          "url": "https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        },
+        {
+          "name": "ZIDA",
+          "url": "https://open.spotify.com/artist/7nfMjFOi7usk7HzVnSvU1T"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201243,
+      "name": "Naked (With My Headphones On) - ZIDA Remix",
+      "url": "https://open.spotify.com/track/76A13l24ua8ixcpzqEbld2"
     },
     {
       "album": {
@@ -1807,7 +1833,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max) - From 'SCOOB!' The Album",
       "url": "https://open.spotify.com/track/4ejNoyrhgjrioqJbgTNPu3"
@@ -1825,7 +1851,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 194600,
       "name": "One Day Left",
       "url": "https://open.spotify.com/track/52BgV5YV7PQ3u8DaM2amGP"
@@ -2045,7 +2071,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
@@ -2449,7 +2475,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
@@ -2577,7 +2603,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 187300,
       "name": "There's No Way - Alle Farben Remix",
       "url": "https://open.spotify.com/track/3LaQ1GajOXoUeiTA9UAcCK"
@@ -2691,7 +2717,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
@@ -2823,7 +2849,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 185277,
       "name": "X (with KAROL G)",
       "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"

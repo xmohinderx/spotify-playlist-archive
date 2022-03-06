@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 219692,
       "name": "Count on You - Youngr Bootleg",
       "url": "https://open.spotify.com/track/3LN1zLOeJAKcTyUdBgJ3Uq"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 159152,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6fpvMHuOB3C9SCrtMGzJaO"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 194288,
       "name": "Feels Like Paradise",
       "url": "https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 145833,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 151101,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 156900,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hJzh7MhYDQxP33adTYPGZ"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 159669,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 160295,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 166080,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 157141,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 145321,
       "name": "Running Through the Night",
       "url": "https://open.spotify.com/track/4nrFhh3yvOyhTkQBUC3Xyd"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 158241,
       "name": "Seesaw",
       "url": "https://open.spotify.com/track/1uAj4hDjBtWly8NmC4zZoX"
@@ -2053,6 +2053,24 @@
       "duration_ms": 145161,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/4ypvGTFFUV8yJasEl7toew"
+    },
+    {
+      "album": {
+        "name": "The Life We Live",
+        "url": "https://open.spotify.com/album/2e3cn4CKJ6U1VlopYsWZou"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165807,
+      "name": "The Life We Live",
+      "url": "https://open.spotify.com/track/1mrD3TMvXoEmliFuzVPrep"
     },
     {
       "album": {
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 202501,
       "name": "Waves (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 167875,
       "name": "What They Call Love",
       "url": "https://open.spotify.com/track/3G954hH4NT5HmtGInACyi9"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 170229,
       "name": "Without Your Love - sunsets & sandals Remix",
       "url": "https://open.spotify.com/track/78KQ0GVdHsDbv2ilNYSIBf"

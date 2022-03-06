@@ -2762,6 +2762,32 @@
     },
     {
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF"
+      },
+      "artists": [
+        {
+          "name": "Sabai",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Adam Pearce",
+          "url": "https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf"
+        },
+        {
+          "name": "Zack Gray",
+          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182350,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc"
+    },
+    {
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -2953,6 +2979,24 @@
       "duration_ms": 286186,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
+    },
+    {
+      "album": {
+        "name": "What It Used To Be",
+        "url": "https://open.spotify.com/album/5KF2JJfmBPvXvI2dwCmlJj"
+      },
+      "artists": [
+        {
+          "name": "Zack Gray",
+          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222499,
+      "name": "What It Used To Be",
+      "url": "https://open.spotify.com/track/5PQBkYkta4muwWf7vZJoM7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,715 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,714 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 139 | [Little Fluffy Clouds \- Dance Mix 2](https://open.spotify.com/track/0yHKFQNwiCzpjR312MJsb0) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 4:10 |
 | 140 | [Listen To Me](https://open.spotify.com/track/0RDm6nifR4k5mHUpX3ZDq7) | [Baby Huey](https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv) | [The Baby Huey Story: The Living Legend](https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T) | 6:41 |
 | 141 | [Girl You Need A Change Of Mind](https://open.spotify.com/track/4tb83lAchJx253WSWQRrtk) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [The Ultimate Collection: Eddie Kendricks](https://open.spotify.com/album/7LLbmy5yQitJH9jlzwGy5z) | 7:32 |
-| 142 | [Me and Baby Brother](https://open.spotify.com/track/6cEMqF91ynqfRrHzrbdE2e) | [War](https://open.spotify.com/artist/7nbZmY3X0uzRAbFxshaIdl) | [Funk](https://open.spotify.com/album/3H0lgIm0FI2uNoWePdyLHR) | 3:27 |
+| 142 | [Me and Baby Brother](https://open.spotify.com/track/6cEMqF91ynqfRrHzrbdE2e) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Funk](https://open.spotify.com/album/3H0lgIm0FI2uNoWePdyLHR) | 3:27 |
 | 143 | [You And I \- Extended M+M Mix](https://open.spotify.com/track/2fJEzP9qInZw7KrcYXeG1d) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [The Complete Motown Albums](https://open.spotify.com/album/7yFTgt9BhYCE6WisIsPuIO) | 9:57 |
 | 144 | [City, Country, City](https://open.spotify.com/track/2NyXzPvyCeO8r1sQqCOnfd) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The World Is A Ghetto: 40th Anniversary Expanded Edition](https://open.spotify.com/album/1q3NaPlEoZobh2qUSss0aT) | 13:20 |
 | 145 | [Only For The Headstrong \(95' Remix\)](https://open.spotify.com/track/6fcxUNLacz2rmEoN55x50K) | [Psychotropic](https://open.spotify.com/artist/29FD5lXAkRpx8qtqn06LhC) | [The Massive Sounds Of The Underground Vibe](https://open.spotify.com/album/4cEukztJxM5kZlmSr9WWga) | 7:58 |

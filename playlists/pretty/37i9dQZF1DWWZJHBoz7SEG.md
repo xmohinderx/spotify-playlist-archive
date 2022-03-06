@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Mario Bautista y Piso 21; Camila Cabello y Ed Sheeran; Reykon y Beéle; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,867 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,389 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

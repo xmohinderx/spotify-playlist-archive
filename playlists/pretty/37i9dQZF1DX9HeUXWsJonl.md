@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,531 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,563 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 3 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 |
 | 4 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 |
 | 5 | [Bad Love](https://open.spotify.com/track/3jI5FBlOWlKYglME1q48B4) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Bad Love](https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv) | 3:48 |
-| 6 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 |
+| 6 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/25AY4L2c6L9B9Eq9GY5d5b) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 |
 | 7 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 |
 | 8 | [Demi\-tour](https://open.spotify.com/track/3ZqeaCp6xjjOKGt1KOEyXQ) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Demi\-tour](https://open.spotify.com/album/7r9DuONoCBCEhVHXpSzUTH) | 2:58 |
 | 9 | [Sidi El Houwari](https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Sidi El Houwari](https://open.spotify.com/album/7MRuqMWZGwhuZ1417n7B1n) | 3:56 |

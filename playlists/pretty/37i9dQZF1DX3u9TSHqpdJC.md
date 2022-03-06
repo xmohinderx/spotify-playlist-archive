@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Grey Zeigler\. Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,886 likes - 150 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,957 likes - 150 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 113 | [Talk](https://open.spotify.com/track/7jx6lLjF3uc028w18Dond1) | [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Talk](https://open.spotify.com/album/6LTWr8Ds6vsLDdaewA3ktG) | 3:06 |
 | 114 | [Rituals](https://open.spotify.com/track/659qvpJqsHveuxFlYgQ8cE) | [Kazi Jay](https://open.spotify.com/artist/1eodbrSFcfte0fixcwxFoJ) | [Rituals](https://open.spotify.com/album/17HcieOyLcBdlfExjwkhY7) | 2:52 |
 | 115 | [Never Was You](https://open.spotify.com/track/0NFQRRjMQ4pds9b2yXSmJX) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Never Was You](https://open.spotify.com/album/1hP31eIEy6YSwOdhEtfPge) | 2:55 |
-| 116 | [Parents](https://open.spotify.com/track/4criR1WAeW4svSZKwpxNdI) | [OAKLND](https://open.spotify.com/artist/3GxFZQ3sJ4wnczQjXXgtdL), [The New Coast](https://open.spotify.com/artist/1EuCCNdLHenJnX4UUTMcWL) | [Parents](https://open.spotify.com/album/1VBTAUkHeFQb8wNE126yKE) | 3:03 |
+| 116 | [Parents](https://open.spotify.com/track/4criR1WAeW4svSZKwpxNdI) | [OAKLND](https://open.spotify.com/artist/3GxFZQ3sJ4wnczQjXXgtdL), [NEWCOAST](https://open.spotify.com/artist/1EuCCNdLHenJnX4UUTMcWL) | [Parents](https://open.spotify.com/album/1VBTAUkHeFQb8wNE126yKE) | 3:03 |
 | 117 | [Better Alone](https://open.spotify.com/track/4KskDaTafpIJt0cezCGLR8) | [West](https://open.spotify.com/artist/0rCFX1FVZ9ulGM0uZm37tN) | [Better Alone](https://open.spotify.com/album/5TvpgvO46LNlVp8yRFDfFL) | 3:15 |
 | 118 | [Best F\-ing Life](https://open.spotify.com/track/3Y26yO66jwXXxlzIO8i4OF) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Best F\-ing Life](https://open.spotify.com/album/68OLYlJiYoetm1YWjBXp1J) | 3:30 |
 | 119 | [Too Much](https://open.spotify.com/track/2oEDiptE2CpIBOGtJk1Jyn) | [esmerelda](https://open.spotify.com/artist/4DhDDf2DoOm6wSTJtiKQ6A) | [Too Much](https://open.spotify.com/album/1Hz6gpP6WfWOedwG8syK5V) | 3:36 |

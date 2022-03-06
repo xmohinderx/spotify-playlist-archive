@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WWRAxBsY0Y.md) - [plain]
 
 > Sometimes people assume that stoner music is just reggae, hip hop, or psychedelic rock\. Experience the rest of it with these stoner tracks for everybody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,307 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,312 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 184242,
       "name": "A$AP",
       "url": "https://open.spotify.com/track/6TesHoNPZGdcVjllhAuKJh"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 225942,
       "name": "Apaga el celular",
       "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 219880,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 133880,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/7LeQ55Z5jPBB0ggYJtAiYO"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 242500,
       "name": "Buf\u00f3n",
       "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 195428,
       "name": "Condiciones",
       "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
@@ -1571,7 +1571,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 157732,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
@@ -1604,6 +1604,32 @@
     },
     {
       "album": {
+        "name": "El Favorito de los Capo (Remix)",
+        "url": "https://open.spotify.com/album/2Wwlfka1zfYcOvGtPGKTXp"
+      },
+      "artists": [
+        {
+          "name": "Flow Mafia",
+          "url": "https://open.spotify.com/artist/0pxWSJ3TbIRuGPJnmxCfBe"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278960,
+      "name": "El Favorito de los Capo - Remix",
+      "url": "https://open.spotify.com/track/0jPkVCHNaLJhhtq70OingB"
+    },
+    {
+      "album": {
         "name": "El Granjero",
         "url": "https://open.spotify.com/album/1y6dUbuIlBHaugrLVtm8wn"
       },
@@ -1615,7 +1641,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 224185,
       "name": "El Granjero",
       "url": "https://open.spotify.com/track/7k3SjypJ8lF9WWu8Op0We0"
@@ -1961,7 +1987,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 240253,
       "name": "Hablamos Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
@@ -1979,7 +2005,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 209230,
       "name": "Hasta Que Salga el Sol",
       "url": "https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV"
@@ -2019,7 +2045,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 189466,
       "name": "High",
       "url": "https://open.spotify.com/track/6LfwUHqd9XiRKVbmVXqVd0"
@@ -2149,7 +2175,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 242376,
       "name": "Jimmy Fallon - Remix",
       "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
@@ -2215,7 +2241,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 225786,
       "name": "Kobe En LA",
       "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
@@ -2593,7 +2619,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 142703,
       "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
       "url": "https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85"
@@ -2741,7 +2767,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 263288,
       "name": "Me Acostumbre (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
@@ -2879,7 +2905,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 266966,
       "name": "Me Rolie",
       "url": "https://open.spotify.com/track/72djXv6IXNcNGm7wmkVCLg"
@@ -2989,7 +3015,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 182293,
       "name": "Mi Chain de Roque",
       "url": "https://open.spotify.com/track/3MzOM5DAp7k48yZHB2DiN6"
@@ -3007,7 +3033,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 259200,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
@@ -3025,7 +3051,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 141904,
       "name": "Modo Bestia",
       "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
@@ -3337,7 +3363,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 304733,
       "name": "Ojal\u00e1 (feat. Darell)",
       "url": "https://open.spotify.com/track/3EMDvnVpQd9RZJvKSpOhUm"
@@ -3437,7 +3463,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
@@ -3645,7 +3671,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 446009,
       "name": "Punto G - Remix",
       "url": "https://open.spotify.com/track/0swhRlMVAFZUralMYJ7RAj"
@@ -3663,7 +3689,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 194181,
       "name": "PURPURA",
       "url": "https://open.spotify.com/track/0RHazYjaRGLIYPvn6mtRWY"
@@ -3737,7 +3763,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 270680,
       "name": "Que Tengo Que Hacer",
       "url": "https://open.spotify.com/track/69M7ZcGR8iI57HNOD3bvxM"
@@ -3779,7 +3805,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 318261,
       "name": "Rangos II",
       "url": "https://open.spotify.com/track/6UZqzprpRF4X7cG6S9FSTA"
@@ -3927,7 +3953,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 297485,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
@@ -4027,7 +4053,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 299548,
       "name": "Si Me Muero (feat. Farruko, Lary Over, Nengo Flow & Darell)",
       "url": "https://open.spotify.com/track/7gLApUvGknNvpqeRtgp7S9"
@@ -4045,7 +4071,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 220640,
       "name": "Si Te Busco",
       "url": "https://open.spotify.com/track/5lhlkHhBsRybKrNhenPaNz"
@@ -4203,7 +4229,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 141578,
       "name": "Sold Out Dates",
       "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"
@@ -4301,7 +4327,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 200259,
       "name": "Superman Sin Capa - Remix",
       "url": "https://open.spotify.com/track/3IIqhLYR07zTtMTeRBZq8y"
@@ -4401,7 +4427,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 198282,
       "name": "Te Llame Borracho",
       "url": "https://open.spotify.com/track/3ZqYV9HnAVVdMB4TjO8RBx"
@@ -4441,7 +4467,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 172526,
       "name": "Tiempos de Cali",
       "url": "https://open.spotify.com/track/2hPKmBa6qTWrPlM8l6hgsp"
@@ -4475,7 +4501,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 298786,
       "name": "Toma Bebe - Official Remix",
       "url": "https://open.spotify.com/track/4uJL26cmM5HEiGlqE2YhoE"
@@ -4563,7 +4589,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 331431,
       "name": "Tu No Metes Cabra Remix (feat. Daddy Yankee, Anuel AA & Cosculluela)",
       "url": "https://open.spotify.com/track/0QQNA8bZqefrGfsShzlZkb"
@@ -4737,7 +4763,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 283001,
       "name": "Un Ratito Mas",
       "url": "https://open.spotify.com/track/21lnmphofXWWeSSx0PEMjc"
@@ -4759,7 +4785,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 276768,
       "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
       "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
@@ -4837,7 +4863,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 193560,
       "name": "Viajo Sin Ver (feat. Duran the Coach & Yondoe)",
       "url": "https://open.spotify.com/track/0S9WImop4N0fP2Q9VlwzLc"

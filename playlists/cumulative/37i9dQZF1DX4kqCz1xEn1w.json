@@ -184,6 +184,28 @@
     },
     {
       "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/4acl5WscYD8Mj6YqbWi778"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485396,
+      "name": "Be Enthroned (Live)",
+      "url": "https://open.spotify.com/track/3OzQn19XAveO8ZbKH1YPOA"
+    },
+    {
+      "album": {
         "name": "Alive & Breathing Vol. 2",
         "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
       },
@@ -369,7 +391,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
@@ -405,7 +427,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 327034,
       "name": "Christ In Me (Single Version) - Live",
       "url": "https://open.spotify.com/track/4K3fj2JkekQeu01NpbYho0"
@@ -427,6 +449,24 @@
       "duration_ms": 307026,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
+    },
+    {
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350386,
+      "name": "Come Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
     },
     {
       "album": {
@@ -499,7 +539,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 255121,
       "name": "Don't Ever Let Me Go - Live",
       "url": "https://open.spotify.com/track/3OvG9LxwPFPBS2W4JqVDrm"
@@ -867,7 +907,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 303106,
       "name": "How Can You Refuse Him Now (Pilgrimage)",
       "url": "https://open.spotify.com/track/0NDgq9s6GX5U6VA5gGtMxq"
@@ -925,7 +965,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 531653,
       "name": "How He Loves - Live",
       "url": "https://open.spotify.com/track/7siTF7GpWKpG0iGpYxgAfS"
@@ -1037,7 +1077,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 120013,
       "name": "Isaiah 53:1-6 (Profession)",
       "url": "https://open.spotify.com/track/1oOcb0Dzkr3MMmXqBhNFOh"
@@ -1091,7 +1131,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 285160,
       "name": "King Of Kings (Praise)",
       "url": "https://open.spotify.com/track/5SF9z8Azou7JO4PUcfLofS"
@@ -1127,7 +1167,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 310506,
       "name": "Love Changes Everything",
       "url": "https://open.spotify.com/track/6sN4bX9ivtlmD8t52fgjmL"
@@ -1229,10 +1269,32 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "album": {
+        "name": "I Really Love You (Live)",
+        "url": "https://open.spotify.com/album/4WqclX4OiJKC0eriTugFmO"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511685,
+      "name": "Oh The Cross - Live",
+      "url": "https://open.spotify.com/track/4N2z745CqERTOBdrCjkh58"
     },
     {
       "album": {
@@ -1247,7 +1309,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 278506,
       "name": "Oh the Power",
       "url": "https://open.spotify.com/track/4zXRZbJT17R91PDUar2Wa0"
@@ -1439,7 +1501,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 284760,
       "name": "Savior Of The World - Single Version",
       "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
@@ -1519,6 +1581,24 @@
       "duration_ms": 300026,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+    },
+    {
+      "album": {
+        "name": "Take Your Throne",
+        "url": "https://open.spotify.com/album/7v09GHRgRdax722MdLdvGi"
+      },
+      "artists": [
+        {
+          "name": "A Jesus Church",
+          "url": "https://open.spotify.com/artist/4TYANTKQ4uK2FLUcu7Nq6a"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386330,
+      "name": "Take Your Throne",
+      "url": "https://open.spotify.com/track/2ef82aVtG2SPRHyshYW8mC"
     },
     {
       "album": {
@@ -1632,6 +1712,24 @@
     },
     {
       "album": {
+        "name": "United We Stand (Live)",
+        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411039,
+      "name": "The Stand - Live",
+      "url": "https://open.spotify.com/track/7HdvPclBiBpuUzpERTYfxK"
+    },
+    {
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -1661,7 +1759,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 343813,
       "name": "This We Know - Live",
       "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
@@ -1851,7 +1949,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 329080,
       "name": "Who You Say I Am - Live",
       "url": "https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp"

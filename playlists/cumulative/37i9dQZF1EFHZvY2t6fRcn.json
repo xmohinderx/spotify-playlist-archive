@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Devil I Know",
+        "url": "https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau"
+    },
+    {
+      "album": {
         "name": "DONT PANIC!",
         "url": "https://open.spotify.com/album/3dAtB9xY7UrJAMgTOIeuQE"
       },

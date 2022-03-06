@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw?si=eNx68SW3SjSschrTA28O\-g">Zinah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,056 likes - 66 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,111 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 28 | [Baningi](https://open.spotify.com/track/5byAvC8hytkJlo4TXnds0J) | [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Baningi](https://open.spotify.com/album/0lANtXBUCsWjCDCZetzfew) | 4:25 |
 | 29 | [Dikeledi](https://open.spotify.com/track/0j7TOSVjcDskEsbTKsXMHl) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Karabo](https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc) | 3:47 |
 | 30 | [Nobody](https://open.spotify.com/track/6UK501alfX7lkqdcgpfbtA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Nobody](https://open.spotify.com/album/2cKQHqidrsJc6xo3ukVJrp) | 3:35 |
-| 31 | [Dilikajele](https://open.spotify.com/track/6UaixHxytkgIWgCSRiV6lu) | [Siphesihle Sikhakhane](https://open.spotify.com/artist/7KrBKyJFrPbKMQtIEaOE5H), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [The Moon](https://open.spotify.com/artist/0xJbmjfiVl342AWEo1Ejz1) | [Dilikajele](https://open.spotify.com/album/7hPYzccCBmseUpYf9vW6Iz) | 4:43 |
+| 31 | [Dilikajele](https://open.spotify.com/track/6UaixHxytkgIWgCSRiV6lu) | [Siphesihle Skhakhane](https://open.spotify.com/artist/4bmPuA56Cb2xJYmB8u3ji3), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [The Moon](https://open.spotify.com/artist/0xJbmjfiVl342AWEo1Ejz1) | [Dilikajele](https://open.spotify.com/album/7hPYzccCBmseUpYf9vW6Iz) | 4:43 |
 | 32 | [Nomalizo](https://open.spotify.com/track/1ysHgVZiTnTNYSeMaUSjG1) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [The Maniac DJ](https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC), [Howard](https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Nomalizo](https://open.spotify.com/album/0lrN0sE96nmWQARcESCze2) | 5:04 |
 | 33 | [Nginjena](https://open.spotify.com/track/5SuyPgnvNqJJz6v8NDreBq) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Nginjena](https://open.spotify.com/album/2DbsYObKNlNtVBjhTEg9HW) | 4:36 |
 | 34 | [Lilizela](https://open.spotify.com/track/7II1jN6iXtWsSt1e27wLVB) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Lilizela](https://open.spotify.com/album/0ADNDen7YgetZ2TQCVFAZz) | 4:07 |

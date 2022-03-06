@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Caio Luccas, Azevedo, MC Maneirinho, Anezzi, Dallass
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,563 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,728 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 10 | [Coruja](https://open.spotify.com/track/2Kr0R9KxgrKWm4gELAECwD) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [Zoo](https://open.spotify.com/album/3jqd57ft9JoXiJnIJreNHb) | 2:46 |
 | 11 | [Scooby Doo](https://open.spotify.com/track/4H9bsNViPTJV0zNGlYJnUN) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Scooby Doo](https://open.spotify.com/album/3O32msHNBmuPDpw4y9x9tZ) | 3:32 |
 | 12 | [Outro Lugar](https://open.spotify.com/track/5PbOsgsouPpbfqbCj0QhiN) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Outro Lugar](https://open.spotify.com/album/49y4atSQOPtFIJaioAieob) | 2:47 |
-| 13 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 |
+| 13 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 |
 | 14 | [Cash](https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Cash](https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT) | 3:34 |
 | 15 | [Solta o Flash](https://open.spotify.com/track/7vFhksN6h4Ma4gdRM4qHes) | [Haitam](https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Solta o Flash](https://open.spotify.com/album/54qEZ2E8bhmRGmu28huaCp) | 2:32 |
 | 16 | [Sem Dó](https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Sem Dó](https://open.spotify.com/album/3sQwZ1Bu0Qhzn2XeJwQW9E) | 4:27 |

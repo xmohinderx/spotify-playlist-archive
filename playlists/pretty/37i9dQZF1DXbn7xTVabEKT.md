@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbn7xTVabEKT.md) - [plain]
 
 > Your favorite arias, performed by legendary opera divas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,845 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,913 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

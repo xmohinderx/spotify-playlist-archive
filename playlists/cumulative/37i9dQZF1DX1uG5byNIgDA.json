@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 251279,
       "name": "Answer : Love Myself",
       "url": "https://open.spotify.com/track/4eVkn18rN4GguUWOsR6Use"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 189000,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 189546,
       "name": "Dear DREAM",
       "url": "https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 209618,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 218880,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 172358,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 156818,
       "name": "Just Good",
       "url": "https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r"
@@ -1479,6 +1479,24 @@
       "duration_ms": 164053,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
+    },
+    {
+      "album": {
+        "name": "VOID.",
+        "url": "https://open.spotify.com/album/4N4k3DU7Bz7lRuV8v5CbCR"
+      },
+      "artists": [
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "LEAVE ME.",
+      "url": "https://open.spotify.com/track/5zqfniqxaSh0bfJLjsAu5Q"
     },
     {
       "album": {
@@ -1577,6 +1595,28 @@
       "duration_ms": 159749,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
+    },
+    {
+      "album": {
+        "name": "Mangue \ub9dd\uace0",
+        "url": "https://open.spotify.com/album/5dgreGubJZdlHRY1aMGkfX"
+      },
+      "artists": [
+        {
+          "name": "BlackDoe",
+          "url": "https://open.spotify.com/artist/41yz92BDilStKRfo5xJYik"
+        },
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194677,
+      "name": "Mangue \ub9dd\uace0",
+      "url": "https://open.spotify.com/track/5pSYu3LUUcWgc4xTxyX3Pi"
     },
     {
       "album": {
@@ -1739,7 +1779,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 203424,
       "name": "My Universe (Seungmin, I.N Feat. Changbin)",
       "url": "https://open.spotify.com/track/2PGhCLeiYBYU4xIAMHLpyA"
@@ -1815,7 +1855,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 226560,
       "name": "Only one for me",
       "url": "https://open.spotify.com/track/4vxK5XbTTDNNKYbPDmZZC3"
@@ -1909,7 +1949,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 216000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
@@ -1981,7 +2021,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Sangsu station",
       "url": "https://open.spotify.com/track/1xvSbNUKm3Ig7LkguLSFO4"
@@ -2173,7 +2213,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 225817,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
@@ -2285,7 +2325,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
@@ -2393,7 +2433,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 240680,
       "name": "Thank you",
       "url": "https://open.spotify.com/track/3ZsDedN6LsO0jyfE8Re494"
@@ -2517,7 +2557,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 176884,
       "name": "Time Of Love",
       "url": "https://open.spotify.com/track/7CXXE0TJeCjsVIKnnATvmJ"
@@ -2755,7 +2795,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/1xo0SABqJrTriyMb2JMtLg"
@@ -2827,7 +2867,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA"
@@ -2867,7 +2907,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "zZ(Tired) zZ(\ud53c\uace4\ud574) (With Yebit)",
       "url": "https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc"

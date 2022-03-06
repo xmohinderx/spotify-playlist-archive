@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça os hits do momento da música pop brasileira\. Foto: PEDRO SAMPAIO, Mc Pedrinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,324,495 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,325,387 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 26 | [FOGO NO BARRACO](https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:25 |
 | 27 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 28 | [pessoa certa hora errada](https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [pessoa certa hora errada](https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ) | 2:44 |
-| 29 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Descansa](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 |
+| 29 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 |
 | 30 | [Coração de Gelo](https://open.spotify.com/track/5tx0bbEsMwk7luBItngfrX) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Coração de Gelo](https://open.spotify.com/album/6QUWmfP8I7IF2PRhKvDuKS) | 2:34 |
 | 31 | [SORRIA](https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [SORRIA](https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs) | 3:01 |
 | 32 | [OH MOÇA!](https://open.spotify.com/track/23OJkU2mXHEY1iUIuzMinl) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy), [Fraga](https://open.spotify.com/artist/6WPfa3cpGOhlD4tXc6a9ke) | [OH MOÇA!](https://open.spotify.com/album/2wqwUCvxzj4StPquAdKpcN) | 3:55 |

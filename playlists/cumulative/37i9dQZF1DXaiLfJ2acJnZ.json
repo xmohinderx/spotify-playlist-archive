@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "acting like you're famous",
+        "url": "https://open.spotify.com/album/4eD8Z8Kgx3wTKowxTUmFIj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Deakin",
+          "url": "https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208706,
+      "name": "acting like you're famous",
+      "url": "https://open.spotify.com/track/78stlFEQRetcPVZkNnSVdT"
+    },
+    {
+      "album": {
         "name": "Afternoon Haze",
         "url": "https://open.spotify.com/album/69bSm1HzOke9V5jFq4Rhmg"
       },
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 176868,
       "name": "Better for Me",
       "url": "https://open.spotify.com/track/6nBEjwGB9eFeixOssxPej5"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 193600,
       "name": "Coming For Ya",
       "url": "https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 189000,
       "name": "Girls Like Us",
       "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 193733,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 199762,
       "name": "Hopelessly Hoping",
       "url": "https://open.spotify.com/track/1FINEb2GSCtIFGtBULfjgK"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 260760,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/2SnU0h8f6LlxvSycvfcCQQ"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 176622,
       "name": "I'll Get Over It",
       "url": "https://open.spotify.com/track/6muh9p2mTDMlIZ06Z4tvvX"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 173640,
       "name": "My 100",
       "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 183070,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 212503,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
@@ -2247,6 +2265,28 @@
       "duration_ms": 215789,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
     },
     {
       "album": {
@@ -2387,7 +2427,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 193650,
       "name": "Time Alone",
       "url": "https://open.spotify.com/track/0sjl9UqTccGjKBu0RAhGyZ"
@@ -2607,7 +2647,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 201264,
       "name": "Worst Ways",
       "url": "https://open.spotify.com/track/3Vyg7aVSl2vOMSSw5X11pD"
@@ -2679,7 +2719,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 230133,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/3PBOgjs3aYjPtdB1gbMRqM"

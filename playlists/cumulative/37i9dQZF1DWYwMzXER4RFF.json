@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 318694,
       "name": "A Hymn",
       "url": "https://open.spotify.com/track/5PXYOVPrnkj6HIdKvEMiwJ"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 120268,
       "name": "Book",
       "url": "https://open.spotify.com/track/6lpyYxV1Hd72S4ezzA47fb"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 289111,
       "name": "Chondromalacia Patella",
       "url": "https://open.spotify.com/track/4fduOgyq6d5DBlnST7h9VR"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 226973,
       "name": "Courtesy Call",
       "url": "https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 173760,
       "name": "Crass",
       "url": "https://open.spotify.com/track/1ltNqlKxSUM9abfYOdL0kA"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 264436,
       "name": "Daily Routine",
       "url": "https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 222840,
       "name": "Four Wheel Drive",
       "url": "https://open.spotify.com/track/17TtXWJsfYiRy3FUvdJWAT"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 202986,
       "name": "Fried",
       "url": "https://open.spotify.com/track/0yHJ0oAtSWgYWqG0a86GLA"
@@ -1420,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "I Am Kate Moss",
+        "url": "https://open.spotify.com/album/7E5SNH3yuDZlJezLvqMCwH"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194812,
+      "name": "I Am Kate Moss",
+      "url": "https://open.spotify.com/track/0FfZqUBiv9YAzlUko2XzDY"
+    },
+    {
+      "album": {
         "name": "TV or Not TV",
         "url": "https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6"
       },
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 179055,
       "name": "Last Breath",
       "url": "https://open.spotify.com/track/1ZMsAnynOVdPV4JXIDhfYu"
@@ -1791,10 +1809,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 195253,
       "name": "Life\u2019s Lemons",
       "url": "https://open.spotify.com/track/25V1oMTIao8HcZdirSGVBT"
+    },
+    {
+      "album": {
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+      },
+      "artists": [
+        {
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "album": {
@@ -1899,7 +1935,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 321506,
       "name": "Male Bonding",
       "url": "https://open.spotify.com/track/3Mef8dlql8ngrKhOt7IAoZ"
@@ -1953,7 +1989,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 202000,
       "name": "Modern Job",
       "url": "https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy"
@@ -2011,7 +2047,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 272500,
       "name": "Narrator - Edit",
       "url": "https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1"
@@ -2101,7 +2137,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 204306,
       "name": "Nigel Hitter",
       "url": "https://open.spotify.com/track/5sV5xcygaRKdwL48GIvj1a"
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 413721,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1ulRN20ts4efc3DHKABsVu"
@@ -2339,7 +2375,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 200226,
       "name": "Pour Another",
       "url": "https://open.spotify.com/track/3wcBaL5KuXA4uVF6SzsjXT"
@@ -2357,7 +2393,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 305899,
       "name": "Processed By The Boys",
       "url": "https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT"
@@ -2613,7 +2649,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 168133,
       "name": "Shiny New Model",
       "url": "https://open.spotify.com/track/5Blr6wOtVsOujq4YsTDETf"
@@ -2667,7 +2703,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 223106,
       "name": "Sit Down Meal",
       "url": "https://open.spotify.com/track/2TXt5g2SyO4ZPNcJnVVeCh"
@@ -2703,7 +2739,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 336624,
       "name": "Slow (Loud)",
       "url": "https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs"
@@ -2721,7 +2757,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 300820,
       "name": "Sludge",
       "url": "https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy"
@@ -2869,7 +2905,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 185080,
       "name": "Stimulus for Living",
       "url": "https://open.spotify.com/track/6ZuhUEBqrXxvsrxAymcwzh"
@@ -2887,7 +2923,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Stoned Again - Live",
       "url": "https://open.spotify.com/track/1fwPnO7m3MdoOCYQg7iM4N"
@@ -2909,7 +2945,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 191266,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/3zCp3vtCQD11S9VyqHVQlN"
@@ -2927,7 +2963,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 276002,
       "name": "Sunglasses - Edit",
       "url": "https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz"
@@ -3219,7 +3255,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 204786,
       "name": "This Heat",
       "url": "https://open.spotify.com/track/5zzfwhoMD6rRct8MTyeAFR"
@@ -3237,10 +3273,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 277723,
       "name": "Through Men's Eyes",
       "url": "https://open.spotify.com/track/48tuVRZQHhqo7CgwUCF7ub"
+    },
+    {
+      "album": {
+        "name": "Thrown",
+        "url": "https://open.spotify.com/album/2mbIu20oNcZ7XltpzpnOwL"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167739,
+      "name": "Thrown",
+      "url": "https://open.spotify.com/track/3ZOCZDNMUtW3iYgcDnmy8f"
     },
     {
       "album": {
@@ -3255,7 +3309,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 197192,
       "name": "To the Door",
       "url": "https://open.spotify.com/track/7g2lJm34prT5NF7FeQIfRQ"
@@ -3349,7 +3403,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 234560,
       "name": "Uber Alles",
       "url": "https://open.spotify.com/track/3gQpvTd6fWeAT5RuqgTwei"
@@ -3367,7 +3421,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 184241,
       "name": "Under Control",
       "url": "https://open.spotify.com/track/0171LDd84HFEbAQlf034jz"
@@ -3457,7 +3511,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 225850,
       "name": "What Do You Stand For",
       "url": "https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7"

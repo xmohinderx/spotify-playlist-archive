@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Di Ferrero, Clarissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,896 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,922 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Descansa](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 |
+| 1 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 |
 | 2 | [As coisas que te lembram de mim](https://open.spotify.com/track/4wP5yTolLwqx7l8C6cvOMQ) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [As coisas que te lembram de mim](https://open.spotify.com/album/71JEKgbshTiS2YDnUEHQXB) | 3:13 |
 | 3 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 |
 | 4 | [Filhos da Desilusão](https://open.spotify.com/track/1uZ8qza99USpObn9guAAfK) | [Excluídos](https://open.spotify.com/artist/3u24uyMrCe7Yvurb51K8lF) | [Filhos da Desilusão](https://open.spotify.com/album/2bBviZGl7eV6HtqWyWnc5J) | 4:30 |

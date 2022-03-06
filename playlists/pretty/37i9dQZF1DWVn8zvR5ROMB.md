@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,932 likes - 134 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,994 likes - 134 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 29 | [Tennessee Plates](https://open.spotify.com/track/7cEouqRu8bObbomrwuL7br) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Tennessee Plates](https://open.spotify.com/album/0srMTeW5VhA6uBv8OEcZ0m) | 2:46 |
 | 30 | [The Downside](https://open.spotify.com/track/1icX3Rr0YJWGrvShet50Aw) | [Maddie Wilson](https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W) | [The Downside](https://open.spotify.com/album/3bFF0kMvkaQewqd0hKS1Iy) | 2:55 |
 | 31 | [House of Cards](https://open.spotify.com/track/575lzM2ykkNA3Qaiqs3oU2) | [Nicole Rayy](https://open.spotify.com/artist/5R1hcGaJHZ8vhRFaXsgvSC) | [House of Cards](https://open.spotify.com/album/1Eg8SqkoSde2hAcXQ43tAZ) | 2:56 |
-| 32 | [Coal](https://open.spotify.com/track/1y2d9aiqrbFmNfgq2Zvkwp) | [Matt Rogers](https://open.spotify.com/artist/2XWyb05FKAmTVDfKrfA5C0) | [Coal](https://open.spotify.com/album/0x4FYqj0aFSFlcICAA0csV) | 3:37 |
+| 32 | [Coal](https://open.spotify.com/track/1y2d9aiqrbFmNfgq2Zvkwp) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC) | [Coal](https://open.spotify.com/album/0x4FYqj0aFSFlcICAA0csV) | 3:37 |
 | 33 | [This Side of That](https://open.spotify.com/track/7hK2aKxQNPNTWILb5sK4rD) | [PJ North](https://open.spotify.com/artist/6NWptU8WArewy8NBT9JN7B) | [Tell Yourself](https://open.spotify.com/album/2UuM1sDjsAM5zvka2d7oZx) | 3:27 |
 | 34 | [Glitter](https://open.spotify.com/track/4JAVZ5yR0KVWFoJgci4XMd) | [Becca Bowen](https://open.spotify.com/artist/24PQgrKuGcVnXlJ23WA0Hb) | [Glitter](https://open.spotify.com/album/2j2408eX8aUfGeP2arzl9o) | 3:27 |
 | 35 | [Maybe a Little](https://open.spotify.com/track/2uZICWcGYRI81GxTV8IwZB) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Maybe a Little](https://open.spotify.com/album/7BFPY02vKVL8gkKp7xyClx) | 2:44 |

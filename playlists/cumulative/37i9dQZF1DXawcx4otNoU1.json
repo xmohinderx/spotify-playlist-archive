@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Don't Judge Me",
+        "url": "https://open.spotify.com/album/6Ny9NQi1tvteQHFcXkJX9T"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200672,
+      "name": "Don't Judge Me",
+      "url": "https://open.spotify.com/track/4CdrEw76dPI0QyurNUjklR"
+    },
+    {
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/1iLPhaq2JCR9dDnh9omdRE"
       },

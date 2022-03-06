@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Alison Shearer\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,585 likes - 123 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,635 likes - 123 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 85 | [Change Up](https://open.spotify.com/track/7gidZSicJRt18bSCI1TMU1) | [Taru Alexander](https://open.spotify.com/artist/1fZQNY6i4nAo2uumbk26m1) | [Echoes of the Masters](https://open.spotify.com/album/10iwUzwON2ZvlOaiyCXnih) | 4:22 |
 | 86 | [Turquoise](https://open.spotify.com/track/2aCz38OJjpYqOrV2LxfNY4) | [Madone](https://open.spotify.com/artist/1SodFdn34HZihrh67ZozQ4) | [Turquoise](https://open.spotify.com/album/4gipvTMdf73aFGIUgJxQmK) | 3:52 |
 | 87 | [Camino](https://open.spotify.com/track/327YUydMmUz48OoknIRGYJ) | [Groove in Transit](https://open.spotify.com/artist/0iqC9bhWfFdpG82uKaAJv0) | [Camino](https://open.spotify.com/album/24Do3rZznvVRLMqWVq2D4V) | 5:37 |
-| 88 | [The Beat Goes On \- Don Blake Remix](https://open.spotify.com/track/1c0rMtzD1jojR7bNob56Wc) | [Gadget](https://open.spotify.com/artist/4o9ii8b1L3D2CpVdsyhbtx), [Lady Paradox](https://open.spotify.com/artist/6xNsC3M3pKfELSxER7Wxpg), [Millennium Jazz Music](https://open.spotify.com/artist/5Z0IPiVInY7yKWbuM0E32Y), [Benny Diction](https://open.spotify.com/artist/42ycbt4FB6jzBFXgFv1zdu), [Don Blake](https://open.spotify.com/artist/2Te43iOZf1ZNqzS4pHyaYE) | [The Beat Goes On \( Remix \)](https://open.spotify.com/album/2m0L5X04QjWnLrE2XHKVy8) | 3:39 |
+| 88 | [The Beat Goes On \- Don Blake Remix](https://open.spotify.com/track/1c0rMtzD1jojR7bNob56Wc) | [Gadget](https://open.spotify.com/artist/4o9ii8b1L3D2CpVdsyhbtx), [Lady Paradox](https://open.spotify.com/artist/6xNsC3M3pKfELSxER7Wxpg), [Millennium Jazz Music](https://open.spotify.com/artist/5Z0IPiVInY7yKWbuM0E32Y), [Benny Diction](https://open.spotify.com/artist/42ycbt4FB6jzBFXgFv1zdu), [Don Blake](https://open.spotify.com/artist/6lZT0gSL2x2iqkJnIi6wau) | [The Beat Goes On \( Remix \)](https://open.spotify.com/album/2m0L5X04QjWnLrE2XHKVy8) | 3:39 |
 | 89 | [Falling](https://open.spotify.com/track/3FGh56n0k7QjldeNbdsI78) | [James Fernando](https://open.spotify.com/artist/1VofWbvm6WLaH1UhTNqtNy), [Matt Lagan](https://open.spotify.com/artist/1L9vS2Sl7CJxdRXCBd5y4T) | [The Grind](https://open.spotify.com/album/1wgXNfC1lreQHucLM9PXlN) | 2:46 |
 | 90 | [Jump](https://open.spotify.com/track/646oAqLol7y3D4HYRy5fKV) | [Julieta Eugenio](https://open.spotify.com/artist/3H7h1KgR3buzLFKHRSQN45), [Matt Dwonszyk](https://open.spotify.com/artist/1wJhh9c7iZqRd9SwVoCtAh), [Jonathan Barber](https://open.spotify.com/artist/3a6ffRV0HgmJGBshUJFCmr) | [Jump](https://open.spotify.com/album/0WsHjrJwjzpdeakHthVuQF) | 6:49 |
 | 91 | [Dirty Horse, Pt\. 2](https://open.spotify.com/track/1BYvys5Qle4wOxlU897fEa) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Dirty Horse, Pt\. 2](https://open.spotify.com/album/2JuQgWJSoVc3NxQXffrLFH) | 4:29 |

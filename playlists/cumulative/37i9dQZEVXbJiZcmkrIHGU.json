@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "100.000",
+        "url": "https://open.spotify.com/album/2rMWodmNGluLZg6Hl9DfTD"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "O.G.",
+          "url": "https://open.spotify.com/artist/5QZJttrSLq4WJL9Vb1MgFq"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120200,
+      "name": "100.000",
+      "url": "https://open.spotify.com/track/3jVerWHJeiqeaKpTr5AWC1"
+    },
+    {
+      "album": {
         "name": "10von10",
         "url": "https://open.spotify.com/album/0lYaNHSwem7u68WcMejtoy"
       },
@@ -103,7 +125,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 189956,
       "name": "10von10 - Remix",
       "url": "https://open.spotify.com/track/4VINQO7QzZt4F45RWfz6aK"
@@ -676,6 +698,28 @@
     },
     {
       "album": {
+        "name": "Alles anders (weniger im Arsch)",
+        "url": "https://open.spotify.com/album/7tuQuHJszRNLbjVRtKtMdI"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153783,
+      "name": "Alles anders (weniger im Arsch)",
+      "url": "https://open.spotify.com/track/1H2rGO5zzjRTfFIgD7wNRj"
+    },
+    {
+      "album": {
         "name": "Grosse Freiheit",
         "url": "https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S"
       },
@@ -977,7 +1021,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1187,7 +1231,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 167741,
       "name": "Auf die Feinde (feat. RAF Camora)",
       "url": "https://open.spotify.com/track/4Ir5arQOnMzt0wSB2lq6U3"
@@ -1409,6 +1453,32 @@
       "duration_ms": 136000,
       "name": "B.I.B.O.",
       "url": "https://open.spotify.com/track/5F3sqL2deoeV2kr8Vn9H4V"
+    },
+    {
+      "album": {
+        "name": "BA3T",
+        "url": "https://open.spotify.com/album/3jKxFtT5tfoldnKJdh5jWH"
+      },
+      "artists": [
+        {
+          "name": "Majoe",
+          "url": "https://open.spotify.com/artist/1a71mkqZC54WhePSbnq7RK"
+        },
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        },
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "BA3T",
+      "url": "https://open.spotify.com/track/7gbN2G0XmBAAk6YnBbRYsX"
     },
     {
       "album": {
@@ -2506,6 +2576,24 @@
     },
     {
       "album": {
+        "name": "Cabriodach",
+        "url": "https://open.spotify.com/album/0jmtn5sS0OKZjn36aOyaNI"
+      },
+      "artists": [
+        {
+          "name": "ART",
+          "url": "https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134413,
+      "name": "Cabriodach",
+      "url": "https://open.spotify.com/track/0L0ad4IvsdvjHE8Rv0oLMj"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -3376,6 +3464,24 @@
     },
     {
       "album": {
+        "name": "DIPLOMATISCHE IMMUNIT\u00c4T",
+        "url": "https://open.spotify.com/album/5ShBMYEzdaqKEZbSCpjy0m"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "DIPLOMATISCHE IMMUNIT\u00c4T",
+      "url": "https://open.spotify.com/track/2LFBAypKVAfPa1w1maiM03"
+    },
+    {
+      "album": {
         "name": "DIS IS FASTLIFE",
         "url": "https://open.spotify.com/album/4w58GviyeBXupdAuB5FjoE"
       },
@@ -3671,7 +3777,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 219935,
       "name": "DOWN",
       "url": "https://open.spotify.com/track/0dtmf5crBXbjBtveo8ggJA"
@@ -4915,6 +5021,28 @@
       "duration_ms": 130478,
       "name": "Favourite Artist",
       "url": "https://open.spotify.com/track/6z7fOAKMA2CcnVzRrNR2T3"
+    },
+    {
+      "album": {
+        "name": "Fehler",
+        "url": "https://open.spotify.com/album/5odkESmAgY1c828kLwcgX4"
+      },
+      "artists": [
+        {
+          "name": "Mike Singer",
+          "url": "https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU"
+        },
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Fehler",
+      "url": "https://open.spotify.com/track/64lZscoj6ZaR43UASnJNyz"
     },
     {
       "album": {
@@ -6164,6 +6292,24 @@
     },
     {
       "album": {
+        "name": "Ha-Satan",
+        "url": "https://open.spotify.com/album/5xhp4PQ6raaeLT3fRqwX9k"
+      },
+      "artists": [
+        {
+          "name": "Sun Diego",
+          "url": "https://open.spotify.com/artist/3TqfPVt0HX8GCzNOOjDcum"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Ha-Satan",
+      "url": "https://open.spotify.com/track/3StKvZCPfREqoxvUfa5FxF"
+    },
+    {
+      "album": {
         "name": "MONDSCHEIN",
         "url": "https://open.spotify.com/album/4TPUvb4gs0SCddTlDvVyPJ"
       },
@@ -6381,7 +6527,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 167021,
       "name": "hausflur",
       "url": "https://open.spotify.com/track/4eZQUtvU0l7rFZzajOfF1I"
@@ -6879,6 +7025,24 @@
       "duration_ms": 232813,
       "name": "I AM WOMAN",
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
+    },
+    {
+      "album": {
+        "name": "I DON\u2019T WANNA PARTY NO MORE",
+        "url": "https://open.spotify.com/album/6r6ZAtU32Z5NxJClLFZjD8"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "I DON\u2019T WANNA PARTY NO MORE",
+      "url": "https://open.spotify.com/track/39qM1tojOMEnll1pHxAxhB"
     },
     {
       "album": {
@@ -8586,6 +8750,24 @@
     },
     {
       "album": {
+        "name": "Kurz vor 6",
+        "url": "https://open.spotify.com/album/3tdyhG9UzjhcNTIu60yuNx"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130432,
+      "name": "Kurz vor 6",
+      "url": "https://open.spotify.com/track/7FKrDATk0wVqftb958qLrt"
+    },
+    {
+      "album": {
         "name": "K\u00f6lsche Jung (Edit)",
         "url": "https://open.spotify.com/album/6cxbLaCAsZOLZGeqFg0UUT"
       },
@@ -9217,7 +9399,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -9910,6 +10092,24 @@
     },
     {
       "album": {
+        "name": "Mein Herz",
+        "url": "https://open.spotify.com/album/0w8oOS2pQtGUNUhaXwGlJ5"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156987,
+      "name": "Mein Herz",
+      "url": "https://open.spotify.com/track/4onuHfF4KTeJx9pstLBOz8"
+    },
+    {
+      "album": {
         "name": "Melatonin",
         "url": "https://open.spotify.com/album/54PnkL2FwgI7IYayxFBAFh"
       },
@@ -9925,7 +10125,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 139311,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/480dxcx2AKaFrtwTg0fHXK"
@@ -11508,6 +11708,24 @@
     },
     {
       "album": {
+        "name": "Nur ein Song (I Need Some Sleep)",
+        "url": "https://open.spotify.com/album/0mIMkAR1AK9yEls80nzUPc"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Nur ein Song (I Need Some Sleep)",
+      "url": "https://open.spotify.com/track/6WrtlZnKUrg3KKDyjpnZBz"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -11537,7 +11755,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 144838,
       "name": "Offday",
       "url": "https://open.spotify.com/track/3z1wcTPPAKnuhKXHoFMXSb"
@@ -12742,6 +12960,28 @@
     },
     {
       "album": {
+        "name": "Rapstars (feat. Jamule)",
+        "url": "https://open.spotify.com/album/6vVtUeMoS2jlEiXyGht3ed"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "Rapstars (feat. Jamule)",
+      "url": "https://open.spotify.com/track/6Q2cC3r8j2hasFAf1g00d3"
+    },
+    {
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -13846,6 +14086,28 @@
     },
     {
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
+    },
+    {
+      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/0DPCR4i84ks81cy29Bf8Od"
       },
@@ -14151,7 +14413,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -14217,7 +14479,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 138533,
       "name": "Sommergewitter",
       "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
@@ -14690,6 +14952,28 @@
     },
     {
       "album": {
+        "name": "TAG TEAM",
+        "url": "https://open.spotify.com/album/2TMLKBbqeFQjUWtseZJyIS"
+      },
+      "artists": [
+        {
+          "name": "Frauenarzt",
+          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148706,
+      "name": "TAG TEAM",
+      "url": "https://open.spotify.com/track/2Zn92GVxtSPkbrA5vnyZI0"
+    },
+    {
+      "album": {
         "name": "Tageslicht",
         "url": "https://open.spotify.com/album/05lqmfzvjBSy1RktcQants"
       },
@@ -14709,7 +14993,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 173199,
       "name": "Tageslicht",
       "url": "https://open.spotify.com/track/2c5CLmXwJ4V0IIqJ6B68gq"
@@ -15513,7 +15797,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 172388,
       "name": "und ich rauch",
       "url": "https://open.spotify.com/track/32JtIdyR3ZcYN2lfYNfapv"
@@ -16923,7 +17207,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
@@ -17189,7 +17473,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

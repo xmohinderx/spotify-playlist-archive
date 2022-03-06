@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Randall King
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,264 likes - 185 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,376 likes - 185 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

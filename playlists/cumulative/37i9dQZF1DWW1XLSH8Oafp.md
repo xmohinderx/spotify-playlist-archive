@@ -2,7 +2,7 @@
 
 ### [planet rave](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
-> ur on the list bb 🪐 featuring mura masa
+> ur on the list bb 🪐 featuring YAZ
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 | 2021-07-23 | 2022-02-19 |
 | [On Your Side \- Stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(Stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-07-30 | 2022-02-26 |
 | [Past Time](https://open.spotify.com/track/229jCyeEeAZazw6Q2Ev8hA) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Past Time](https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9) | 5:40 | 2022-02-11 |  |
+| [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 | 2022-03-05 |  |
 | [Piece of Me \- salute Remix](https://open.spotify.com/track/61QFm5wxcUkfETCPIBIPiS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Piece of Me \(salute Remix\)](https://open.spotify.com/album/0PdLhYfpgNgXGXQ1xUOSgz) | 3:18 | 2021-10-15 |  |
 | [planet1995](https://open.spotify.com/track/3Jh6eYEVu0H0fxZCrihisA) | [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [planet1995](https://open.spotify.com/album/4fuy1NdmPV4DlnMeVeEtIK) | 3:48 | 2022-01-07 |  |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-03 | 2022-01-22 |

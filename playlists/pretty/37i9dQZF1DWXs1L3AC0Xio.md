@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > Chill out with these awesome rock ballads\. Cover: <a href="spotify:artist:6Wr3hh341P84m3EI8qdn9O">Rise Against</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,714 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,860 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

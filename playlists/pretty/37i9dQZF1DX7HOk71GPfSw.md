@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> tbh we give up\. tweet \#hyperpopdesc with a description and well just pick one of those\. shout out frax.
+> "hyperpop is yoinky sploinky" \#hyperpopdesc Cover: Fraxiom
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,989 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,342 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [2much](https://open.spotify.com/track/3Cy5Dua2zVvH8YvJ5ORILo) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [2much](https://open.spotify.com/album/5OJZzfiSO8qZ7KM5A7U3F6) | 3:58 |
 | 100 | [sick](https://open.spotify.com/track/4c9sDWdPn61U5gkwlu8zke) | [bleach](https://open.spotify.com/artist/3lQ7lf6EHZzz2EhFBhVdtp) | [sick](https://open.spotify.com/album/5hLP6G8OzuxMDUjMjn7McU) | 2:46 |
 
-Snapshot ID: `MTY0NjQxMzQzNSwwMDAwMDEzNzAwMDAwMTdmNTVlMzUyZjAwMDAwMDE3ZjUxNWY0NGJm`
+Snapshot ID: `MTY0NjUyNTA0MiwwMDAwMDEzODAwMDAwMTdmNWM4YTRmZTAwMDAwMDE3ZjUxNWY0NGJm`

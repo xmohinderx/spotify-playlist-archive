@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Stromae
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,760 likes - 93 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,766 likes - 93 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [Sehnsucht](https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6) | 2:32 |
 | 21 | [Hello World](https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [Hello World](https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era) | 2:51 |
 | 22 | [NACHT](https://open.spotify.com/track/1VkBySIC0RJhbgvYi1NoCa) | [MOIZ](https://open.spotify.com/artist/2OWJHYzYBGBa1enilQDUW4) | [NACHT](https://open.spotify.com/album/4HFkXyqjdNyVYQEiZUGQgI) | 2:28 |
-| 23 | [ay! \(with Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(with Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
+| 23 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
 | 24 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DOECHII](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
 | 25 | [Lonely](https://open.spotify.com/track/44qdoLCf0Mcok8cTdOVoQj) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Lonely](https://open.spotify.com/album/7kd3zPWCtzNPj66QF05j3c) | 3:09 |
 | 26 | [Endorphine](https://open.spotify.com/track/4ItJ9vgBWpWyn8cH2dPgP1) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L), [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Endorphine](https://open.spotify.com/album/56uDOSfuKLDMweEsSL8qN4) | 2:41 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 86 | [Stadt der Einsamkeit](https://open.spotify.com/track/3La0PdrNwOQjAqaIsRsWMB) | [August](https://open.spotify.com/artist/0B7GIwpooTHd3ZHr1hJmxq) | [Stadt der Einsamkeit](https://open.spotify.com/album/0KMAVtgofTld1UNBpUosMR) | 2:42 |
 | 87 | [Trans Agenda Dynastie](https://open.spotify.com/track/1DaZRFZgqffCkIWxukdADN) | [Kerosin95](https://open.spotify.com/artist/43lLFqwBfXJP3T5ZsL6E2x) | [Trans Agenda Dynastie](https://open.spotify.com/album/0Z7uXQcF7VfSUnF9hRReQd) | 3:03 |
 | 88 | [BITTERSWEET](https://open.spotify.com/track/5zUGWJBqTMamOeL58dMuRR) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [BITTERSWEET](https://open.spotify.com/album/6r9fQoaWItkUCVUJTCOFaq) | 5:20 |
-| 89 | [Nie davon](https://open.spotify.com/track/2MLDfhmAN3zq8VRBeVYnns) | [MORGEN](https://open.spotify.com/artist/1EWvJ3VydkV7W7yTBWouFm) | [Nie davon](https://open.spotify.com/album/4SWBqOPlefT1XmXgWNX4nr) | 3:22 |
+| 89 | [Nie davon](https://open.spotify.com/track/2MLDfhmAN3zq8VRBeVYnns) | [MORGEN](https://open.spotify.com/artist/6YWq8Bl0IRFCWyRYTzthjZ) | [Nie davon](https://open.spotify.com/album/4SWBqOPlefT1XmXgWNX4nr) | 3:22 |
 | 90 | [Sie sagen mir](https://open.spotify.com/track/29ktYuUOntOJHEeDfvcCCS) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Nie wieder](https://open.spotify.com/album/5zLSRHPsNZtN53b6nuKpSQ) | 3:45 |
 | 91 | [Love](https://open.spotify.com/track/40WVvoup6kd2rKznMJR0Pw) | [Kat Frankie](https://open.spotify.com/artist/6vdr7WnqTfEEPjKJsNrlgY), [Fama M'Boup](https://open.spotify.com/artist/4evTQ9PcRlZvvlK4TtW4HF) | [Love](https://open.spotify.com/album/0klP9AQTiloW6xB8H6cjZ6) | 3:27 |
 | 92 | [Happy Birthday in the Sky](https://open.spotify.com/track/64HhnYD3ZOCCRrgqRdJJm0) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Happy Birthday in the Sky](https://open.spotify.com/album/5LaAIOHS1BSZwhH49n6IhV) | 5:09 |

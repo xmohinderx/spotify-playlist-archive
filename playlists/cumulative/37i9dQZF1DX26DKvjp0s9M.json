@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Idle Labor",
+        "url": "https://open.spotify.com/album/3IzLouGQA5uY4NfT6zNe3j"
+      },
+      "artists": [
+        {
+          "name": "Craft Spells",
+          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240608,
+      "name": "After the Moment",
+      "url": "https://open.spotify.com/track/5ozIJrlaCAf3g8MMyot483"
+    },
+    {
+      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-13",
+      "date_removed": null,
       "duration_ms": 260279,
       "name": "All My Happiness is Gone",
       "url": "https://open.spotify.com/track/3NEeKJm8LcdaDG98oZwSZx"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 210613,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 203773,
       "name": "Everlasting Light",
       "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 262520,
       "name": "Every Time the Sun Comes Up",
       "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 317426,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 190218,
       "name": "Gretel",
       "url": "https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 151333,
       "name": "Is This It",
       "url": "https://open.spotify.com/track/0jBE7Fn78EAvmIs3dCd6GO"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 354360,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 244946,
       "name": "Lemon Glow",
       "url": "https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/1kn0qoZsAYz2IEOSmWGrvX"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 187415,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 272973,
       "name": "The Light",
       "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
@@ -2475,7 +2493,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 159320,
       "name": "Toothpaste Kisses",
       "url": "https://open.spotify.com/track/6jeWgaprnGyAsRhUcNuZKX"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 272230,
       "name": "Water Me Down",
       "url": "https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt"
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/3498wF96LsgVgMkGmJzJOC"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 279026,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"

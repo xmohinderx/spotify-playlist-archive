@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 212843,
       "name": "Affection",
       "url": "https://open.spotify.com/track/4SSTO88KFsMLeYF7kuMzWl"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 250518,
       "name": "All Made Up",
       "url": "https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 219622,
       "name": "Avenue Of The Fireflies",
       "url": "https://open.spotify.com/track/4sFLrUl0Omp65zLQEJZcNB"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
@@ -523,6 +523,28 @@
       "duration_ms": 178420,
       "name": "Bedroom Eyes (feat. Studio Killers)",
       "url": "https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8"
+    },
+    {
+      "album": {
+        "name": "Better Now (feat. MARO)",
+        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196196,
+      "name": "Better Now (feat. MARO)",
+      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
     },
     {
       "album": {
@@ -741,7 +763,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 257130,
       "name": "Chaeri",
       "url": "https://open.spotify.com/track/23lHAG7gddyqzpCAv3OuCT"
@@ -759,7 +781,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 346786,
       "name": "Changed for the Better",
       "url": "https://open.spotify.com/track/3XMcylC5T7qYdmg5bMcbiD"
@@ -959,7 +981,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 185266,
       "name": "De Tecidos",
       "url": "https://open.spotify.com/track/5VN37zj6J0yQfTLzKGyFsQ"
@@ -1109,7 +1131,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
@@ -1385,7 +1407,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 278373,
       "name": "Far Cry",
       "url": "https://open.spotify.com/track/4Bfu3zDZRQuglHGTdJ3I8U"
@@ -1581,7 +1603,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 211306,
       "name": "Fine Little Rhythm",
       "url": "https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA"
@@ -1701,7 +1723,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 206333,
       "name": "From the Back of a Cab - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6OrLovzoCKCwsiGYydDpKt"
@@ -2025,7 +2047,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 224587,
       "name": "Hips (w/ Mindchatter)",
       "url": "https://open.spotify.com/track/6r807Xr2NIpbKE6litA7va"
@@ -2433,7 +2455,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
@@ -2535,7 +2557,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 244525,
       "name": "Inner Light - Barry Can\u2019t Swim Remix",
       "url": "https://open.spotify.com/track/0luVePRe2Z1wnYxULh5LGh"
@@ -2611,7 +2633,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 262786,
       "name": "Into My Heart",
       "url": "https://open.spotify.com/track/2aE8FWURsIuFIGNFG1CHVr"
@@ -2647,7 +2669,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 207586,
       "name": "Is There Any Love",
       "url": "https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t"
@@ -2753,7 +2775,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 236958,
       "name": "Jersey City",
       "url": "https://open.spotify.com/track/7CsfpYeYnweWfSbQrEaZag"
@@ -2771,7 +2793,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 281381,
       "name": "Joy",
       "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
@@ -2931,7 +2953,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 230765,
       "name": "Let\u2019s Sing Let\u2019s Dance",
       "url": "https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S"
@@ -3223,7 +3245,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
@@ -3241,7 +3263,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 269818,
       "name": "Love Divide",
       "url": "https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy"
@@ -3503,7 +3525,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 183973,
       "name": "Make Me One (feat. Xavier Smith)",
       "url": "https://open.spotify.com/track/5jvEt3iANFPO8U3Q4Ef1al"
@@ -3791,7 +3813,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
@@ -3835,7 +3857,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 200973,
       "name": "Naked - Nosaj Thing Remix",
       "url": "https://open.spotify.com/track/4PJhsp3DADV5peo5QlU1oV"
@@ -3977,7 +3999,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 201155,
       "name": "Off You",
       "url": "https://open.spotify.com/track/3b2pfV1sGo8ni5lhF6IQRM"
@@ -3995,7 +4017,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 237865,
       "name": "On My Mind - Short Version",
       "url": "https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z"
@@ -4039,7 +4061,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 285985,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/21QJJMA4SjQ7qXfTVE7wlw"
@@ -4743,7 +4765,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 225048,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/2bnayGAnFWqebodBao1xv8"
@@ -4839,7 +4861,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 209001,
       "name": "Saving My Love",
       "url": "https://open.spotify.com/track/672thZgpcYBR1qow7EOJgC"
@@ -5051,6 +5073,24 @@
       "duration_ms": 343506,
       "name": "So U Kno",
       "url": "https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv"
+    },
+    {
+      "album": {
+        "name": "Social Suicide",
+        "url": "https://open.spotify.com/album/73jmV69w0lGAk3xaTlF8Bx"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238613,
+      "name": "Social Suicide",
+      "url": "https://open.spotify.com/track/6Bob8aMfpzpEHjmzS1ToEO"
     },
     {
       "album": {
@@ -5387,7 +5427,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
@@ -5591,7 +5631,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 217373,
       "name": "That Life",
       "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
@@ -5667,7 +5707,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 250578,
       "name": "The Road to Love",
       "url": "https://open.spotify.com/track/2umORTX6Xf9Gqhf3kuGLD0"
@@ -5913,7 +5953,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 169246,
       "name": "Time Is Mine",
       "url": "https://open.spotify.com/track/7qohJZZBpGDUHuUozqAwoS"
@@ -6297,7 +6337,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-06",
       "duration_ms": 175508,
       "name": "Walk The Beat",
       "url": "https://open.spotify.com/track/1MMO7ytenCjfcWSIFhWvql"
@@ -6493,7 +6533,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 218848,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/2mIQWWaYinwqKxjEmE8Ave"
@@ -6671,7 +6711,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 226779,
       "name": "Young",
       "url": "https://open.spotify.com/track/70STqK5eCMIxVJ6zMFMGrZ"
