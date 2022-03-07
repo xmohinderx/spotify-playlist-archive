@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Odyss\u00e9e",
+        "url": "https://open.spotify.com/album/4d4fsuAvC0I50M0YEZolYX"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/5UDtayJNlpDaNvSApkPc1P"
+    },
+    {
+      "album": {
         "name": "Amar (Est\u00fadio Off #2)",
         "url": "https://open.spotify.com/album/6j94xbCb7SLWeNbBq3keWM"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 242134,
       "name": "Clear",
       "url": "https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA"
@@ -241,7 +259,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 255278,
       "name": "Cry Your Heart Out",
       "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 225267,
       "name": "Dance Like Nobody's Watching",
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
@@ -277,7 +295,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 266306,
       "name": "Dark Minnie",
       "url": "https://open.spotify.com/track/2BXcsxPfh1TqEsvp6ZjHzu"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/6poJxrnTNulYCmha4n5GOF"
@@ -537,7 +555,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
@@ -850,6 +868,24 @@
     },
     {
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "album": {
         "name": "besitos, cu\u00eddate",
         "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
       },
@@ -919,7 +955,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
@@ -959,7 +995,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 217466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6tl0rKudQ0U0zJy8EqX891"
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 169411,
       "name": "Pressure (with SG Lewis)",
       "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
@@ -1053,7 +1089,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 222290,
       "name": "Raise Up - Single Version",
       "url": "https://open.spotify.com/track/1ylTiIxsIYDSwlsaOJ4H2b"
@@ -1241,7 +1277,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 253281,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1m7vbLfcbKILAxOQDSqnQv"

@@ -245,10 +245,28 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 77343,
       "name": "Dark",
       "url": "https://open.spotify.com/track/26jRyz87hxFJbFOCQcjP8B"
+    },
+    {
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123228,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
     },
     {
       "album": {

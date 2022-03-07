@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo?si=MNAjNXCpRASIo0ywvCqWPQ">Gaba Cannal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,326 likes - 75 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,729 likes - 75 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

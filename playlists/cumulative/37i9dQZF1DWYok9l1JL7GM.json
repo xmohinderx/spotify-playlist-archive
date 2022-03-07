@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 308973,
       "name": "Bout It, Bout It II",
       "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 211400,
       "name": "Danger (Been So Long) featuring Nivea",
       "url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 198995,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/0EvsLFtgq2ToSaH8UXmPK0"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 214213,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/0EgigrGFGb4PHaVNb7fgK7"
@@ -1447,6 +1447,32 @@
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
+    },
+    {
+      "album": {
+        "name": "Crazyndalazdayz",
+        "url": "https://open.spotify.com/album/7c2vgd6qltoG2fAGZN2Bpz"
+      },
+      "artists": [
+        {
+          "name": "Tear Da Club Up Thugs",
+          "url": "https://open.spotify.com/artist/6EXX0GpVsILp9TGCfu7AVG"
+        },
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118933,
+      "name": "Slob On My Nob (feat. Project Pat)",
+      "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"
     },
     {
       "album": {
@@ -1851,7 +1877,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 232106,
       "name": "Trap Star",
       "url": "https://open.spotify.com/track/1ynZEpoQPz0ylGFCUx7l9u"
@@ -1887,7 +1913,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 263440,
       "name": "Vica Versa",
       "url": "https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr"
@@ -2087,7 +2113,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 273973,
       "name": "You Don't Want Drama",
       "url": "https://open.spotify.com/track/48F4fY1pKOTWN1H8q99dJE"

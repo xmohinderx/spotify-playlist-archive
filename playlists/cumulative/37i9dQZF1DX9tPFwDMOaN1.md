@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9tPFwDMOaN1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9tPFwDMOaN1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tPFwDMOaN1)
 
-### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/0DPECkGD3cQbH17pAKSjBj)
+### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 > New look and feel, same old playlist you love\. Let's turn on the movement! Cover: NMIXX
 

@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 230531,
       "name": "8%",
       "url": "https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 255297,
       "name": "A Call from My Dream",
       "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 227604,
       "name": "a car going nowhere",
       "url": "https://open.spotify.com/track/15iXRayrmpaA6QmtEKqpX4"
@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Beyond the Nights",
+        "url": "https://open.spotify.com/album/3J1ybIIdZkqPGxNmfzPPy0"
+      },
+      "artists": [
+        {
+          "name": "OurR",
+          "url": "https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Beyond the Nights",
+      "url": "https://open.spotify.com/track/3ABjDPEgS3IfmWkGcgbzvC"
+    },
+    {
+      "album": {
         "name": "Bichulae",
         "url": "https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof"
       },
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 222826,
       "name": "Bruised Cloud",
       "url": "https://open.spotify.com/track/7vvA2Xv9Pp2d94oPArNw48"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 187693,
       "name": "Don't be Disappointed",
       "url": "https://open.spotify.com/track/5NFUz1lKuetUhaRBPYuC6b"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 236440,
       "name": "Eyes on you",
       "url": "https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 185986,
       "name": "Fighting! \uc751\uc6d0\ud574",
       "url": "https://open.spotify.com/track/6jD4BKw85zAOpK9DCx6uYm"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/41c8b3Nj6DCoaKrdaim47d"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 237129,
       "name": "Girl Scout",
       "url": "https://open.spotify.com/track/3S4u5vm5ThxB68vevwDDMH"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 193558,
       "name": "Hanagae",
       "url": "https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 331000,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 248156,
       "name": "I don't know",
       "url": "https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 194909,
       "name": "Indica (feat. Motte)",
       "url": "https://open.spotify.com/track/4lZTygIDDA87R9TWyJxXEc"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 299428,
       "name": "Koh",
       "url": "https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 239842,
       "name": "Let's stay together",
       "url": "https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 175229,
       "name": "My Last Teen",
       "url": "https://open.spotify.com/track/13vw7pAaPFnJLsv66FeXnq"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "One Another",
       "url": "https://open.spotify.com/track/189vi3KtFMw8bH2dKiXtD1"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 206146,
       "name": "One another - 2020",
       "url": "https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 189533,
       "name": "RAL 9002",
       "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 195866,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1UZFUBCPJgHqLXgIVOfTGO"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 132437,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu"
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 269722,
       "name": "Snow in Seoul",
       "url": "https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI"
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 238774,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI"
@@ -2459,7 +2477,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 220013,
       "name": "Someone \ub204\uad70\uac00\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/5fDAZCEKQztxEEmmqCZI76"
@@ -2937,7 +2955,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 234701,
       "name": "Where are you",
       "url": "https://open.spotify.com/track/6j0CMk5tIEl57UuO9PrLpX"
@@ -3103,7 +3121,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 258420,
       "name": "\uae34 \uafc8 A Long Dream",
       "url": "https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH"
@@ -3121,7 +3139,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 209070,
       "name": "\ub110 \uc9c0\uc6b0\ub824 \ud574",
       "url": "https://open.spotify.com/track/2rrYnRZaanjsF4iPbGk3dS"

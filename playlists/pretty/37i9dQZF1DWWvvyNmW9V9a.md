@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > another day at Euphoria high \- cover: Zendaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,475 likes - 103 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,858 likes - 103 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > Reminisce, keep rollin' to the boogie or discover: get a taste of late 70's and early & 80's clubmusic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,586 likes - 60 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,673 likes - 60 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

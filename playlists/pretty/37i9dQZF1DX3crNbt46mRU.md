@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Stromae
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,766 likes - 93 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,764 likes - 93 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

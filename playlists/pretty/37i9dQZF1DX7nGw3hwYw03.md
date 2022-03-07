@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 
 > Essential Alesso originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,911 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,951 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dark](https://open.spotify.com/track/26jRyz87hxFJbFOCQcjP8B) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/233Z7fuQQJdAZIdYEbbusf) | 1:17 |
+| 1 | [Dark](https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii) | 2:03 |
 | 2 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 3 | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO) | 2:54 |
 | 4 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 | 51 | [Tilted Towers](https://open.spotify.com/track/5hdAQegqnitMjNacfLOHQd) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Tilted Towers](https://open.spotify.com/album/1ROknPR3DQnKIqajsMzw85) | 4:19 |
 | 52 | [City Of Dreams \- Original Mix](https://open.spotify.com/track/5DKHdWT3u5mOu3dm8A8P1V) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ruben Haze](https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL) | [City Of Dreams](https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym) | 6:45 |
 
-Snapshot ID: `MTY0NjUyNzk0NiwwMDAwMDAwMGZjMjE2ZTYyYjI2MzhkNDE4M2IyN2ZkMzM3MDBhOGM2`
+Snapshot ID: `MTY0NjYxNDM2NCwwMDAwMDAwMGYxOWZlMDczOTA4NTZkYTgxYzdmZGY1MTNiM2NmNzZm`

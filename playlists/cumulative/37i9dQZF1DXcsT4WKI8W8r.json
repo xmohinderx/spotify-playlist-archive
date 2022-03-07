@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 194706,
       "name": "Alive",
       "url": "https://open.spotify.com/track/69W4dkOSocvfq3mFu3nR0H"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 161167,
       "name": "Bet You Wanna (feat. Cardi B)",
       "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
@@ -820,6 +820,24 @@
     },
     {
       "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260004,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 253360,
       "name": "Electricity - Acoustic",
       "url": "https://open.spotify.com/track/79QsAQKkk3hlOC6yV1uKdg"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 175952,
       "name": "elephant in the room",
       "url": "https://open.spotify.com/track/61jjgVlNSJtLQ06Gy28mtA"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 290093,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0lXlx9l0CXCwdxRdXCzdpA"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 190933,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 206209,
       "name": "Happier - Acoustic",
       "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 177140,
       "name": "How Can I Forget",
       "url": "https://open.spotify.com/track/0ibG3XCJ32Qq9maUY4AViR"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 232234,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/64oxbrbRQV6MZto7o8Y42P"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "If It Was Me",
       "url": "https://open.spotify.com/track/0q0mlZUDIu8DJmNAcjicFC"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 197893,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/0QfK2sctatsomM50LGI8Os"
@@ -2425,7 +2443,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 164577,
       "name": "Needed",
       "url": "https://open.spotify.com/track/3V12MJj9mQlIVovOTcH71v"
@@ -2575,7 +2593,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 202486,
       "name": "Oops (I'm Sorry)",
       "url": "https://open.spotify.com/track/485KVYPmRISdLpKbaSJ81u"
@@ -2833,7 +2851,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 172226,
       "name": "Resentment (feat. Sturgill Simpson, Brian Wilson & Wrabel)",
       "url": "https://open.spotify.com/track/6iewIywVK4V0SQfSCZonCR"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 230226,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/0prNGof3XqfTvNDxHonvdK"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 224720,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/5Zb6THrh1D6xUXkrrCYan4"
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
@@ -3163,7 +3181,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Somewhere in Ann Arbor",
       "url": "https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK"
@@ -3181,7 +3199,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 205320,
       "name": "spark",
       "url": "https://open.spotify.com/track/3S8ltNG88j9u6JHGa0b7um"
@@ -3239,7 +3257,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 202542,
       "name": "Stuck In The Rain",
       "url": "https://open.spotify.com/track/7FbIfuvWzBceD97ysXLKle"
@@ -3579,7 +3597,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 157220,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
@@ -3799,7 +3817,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"

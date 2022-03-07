@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Camila Cabello, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,205 likes - 128 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,219 likes - 128 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

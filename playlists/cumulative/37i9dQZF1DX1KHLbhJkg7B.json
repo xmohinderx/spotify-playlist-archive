@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 182120,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/3IUYqtBJqRBZoVliuNKGsg"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 222960,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/57IKN5kmhY7bUmiGgqNeLU"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 254826,
       "name": "A Country Boy Can Survive",
       "url": "https://open.spotify.com/track/5Xa9KNhvOogPz6hklgiHXO"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 253120,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/2bBDdsNOksX2mS53aSm6tY"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 175063,
       "name": "Bless the Broken Road - Acoustic",
       "url": "https://open.spotify.com/track/3wNWGhHUXcfIAkofmN1A3a"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 213894,
       "name": "Bring It on Home to Me",
       "url": "https://open.spotify.com/track/2T3Zh0xxfmiFqTiniywESU"
@@ -435,10 +435,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 196600,
       "name": "But You Know I Love You",
       "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
+    },
+    {
+      "album": {
+        "name": "Can't You See",
+        "url": "https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC"
+      },
+      "artists": [
+        {
+          "name": "Skrizzly Adams",
+          "url": "https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210499,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN"
     },
     {
       "album": {
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 233684,
       "name": "Carolina In My Mind",
       "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 242022,
       "name": "Country State Of Mind",
       "url": "https://open.spotify.com/track/1vVbMOgQbT7kp3Ri0gI9KR"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 166894,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/5dUIFih8gZDXRz6OHpIpwz"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 141478,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0X1kKB6ZWb8DzlPFKctcE9"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 192818,
       "name": "Eighteen Wheels And A Dozen Roses",
       "url": "https://open.spotify.com/track/62q6KjbWuCZitSsWve9NNq"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 208440,
       "name": "Every Which Way but Loose - Friends and Heroes Session",
       "url": "https://open.spotify.com/track/2d94Il3qGrgAsv2m81S5u1"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 235825,
       "name": "Fishin' in the Dark",
       "url": "https://open.spotify.com/track/6DV9CGdFzQeF4CIFZ2cFtl"
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 184240,
       "name": "Five O'Clock World",
       "url": "https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 215000,
       "name": "Help Me Make It Through The Night",
       "url": "https://open.spotify.com/track/7v1gS86jVpKFdnt0gmkOSg"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 171033,
       "name": "Honky Tonk Man",
       "url": "https://open.spotify.com/track/0JH86boEDEXrREt6rOBac8"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 257893,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 88001,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 269506,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/6j7MXYyyMQXHStKzBFAUez"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 176610,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/1wIZmRtB9eVWMdQ10oIkX1"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 173426,
       "name": "Six Days On The Road",
       "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 252680,
       "name": "Stupid Boy",
       "url": "https://open.spotify.com/track/4hXHfVaFhLiwExyQdjneAe"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 241263,
       "name": "Take Me Back to Tulsa (feat. George Strait and Willie Nelson)",
       "url": "https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 165705,
       "name": "The Bottle Let Me Down",
       "url": "https://open.spotify.com/track/7iAPw5fKsiuwaPappNUpX2"
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 295880,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 195906,
       "name": "Then You Can Tell Me Goodbye - Remastered Version",
       "url": "https://open.spotify.com/track/49wpeXdqjeI3rvNcVPD6jr"
@@ -2763,7 +2781,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 154893,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
@@ -2839,7 +2857,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 224583,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb"
@@ -2983,7 +3001,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 226747,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx"
@@ -3041,7 +3059,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 247693,
       "name": "Whenever I Call You \"Friend\" (feat. Phillip Sweet)",
       "url": "https://open.spotify.com/track/3hY1wEShrxHsKAwxLnFOU3"

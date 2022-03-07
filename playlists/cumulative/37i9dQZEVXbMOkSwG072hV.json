@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 227100,
       "name": "Ameno Amapiano Remix (You Wanna Bamba)",
       "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 168718,
       "name": "Elefante de Olinda",
       "url": "https://open.spotify.com/track/01r1TXOzRhmPFJ1qFdy0Ax"
@@ -2240,6 +2240,28 @@
     },
     {
       "album": {
+        "name": "Os Meninos do Urso",
+        "url": "https://open.spotify.com/album/3koZ9Ccw4DB2NqcxJSzHs1"
+      },
+      "artists": [
+        {
+          "name": "RD da Penha",
+          "url": "https://open.spotify.com/artist/4RlT9YruZO1OZZ5csHgJg8"
+        },
+        {
+          "name": "MC RF",
+          "url": "https://open.spotify.com/artist/7nYIVfrKwfTLzIIlLpTyaq"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235859,
+      "name": "Os Meninos do Urso",
+      "url": "https://open.spotify.com/track/1WAg96QmdeflRDaZHdl1IO"
+    },
+    {
+      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
       },
@@ -2615,6 +2637,24 @@
       "duration_ms": 137076,
       "name": "Se a Saudade Bater",
       "url": "https://open.spotify.com/track/5WVsfMt8jKVuSGOr4iBFDu"
+    },
+    {
+      "album": {
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/4Al0uGFYkzyHcMtULMNIer"
+      },
+      "artists": [
+        {
+          "name": "Mc Kaio",
+          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/7JF7FB2phyOIYmuhQCj9UX"
     },
     {
       "album": {
@@ -3149,7 +3189,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 148760,
       "name": "Turma Do Funil",
       "url": "https://open.spotify.com/track/2VZQhlolmptgAaiWzR2vly"
@@ -3233,7 +3273,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 558786,
       "name": "Vassourinhas - Ao Vivo",
       "url": "https://open.spotify.com/track/0u1CsowOPOWhuKeacVvl14"

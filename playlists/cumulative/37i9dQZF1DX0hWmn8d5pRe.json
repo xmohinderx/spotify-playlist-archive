@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 181666,
       "name": "Can't Stop Rockin'",
       "url": "https://open.spotify.com/track/7A1G4cFoivSdoryjH9w2z6"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 212013,
       "name": "Just like Heaven - 2006 Remaster",
       "url": "https://open.spotify.com/track/1KSkVwl54ghzE1jSbsVNBr"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 171560,
       "name": "Under My Wheels",
       "url": "https://open.spotify.com/track/6TPMFSJFmyIohTM5El90Po"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 273600,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp"
@@ -1471,6 +1471,24 @@
       "duration_ms": 245360,
       "name": "West End Girls - 2001 Remaster",
       "url": "https://open.spotify.com/track/7FlwylpJSe3ea6m1IrkizS"
+    },
+    {
+      "album": {
+        "name": "Music For Pleasure",
+        "url": "https://open.spotify.com/album/7gScKKGyOuQioKGEyEJtMR"
+      },
+      "artists": [
+        {
+          "name": "Monaco",
+          "url": "https://open.spotify.com/artist/0N3oP3Si8ihzFUrU6kITZ8"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248360,
+      "name": "What Do You Want From Me?",
+      "url": "https://open.spotify.com/track/3H097K41pskob32JipdXzK"
     },
     {
       "album": {
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 220706,
       "name": "Working for the Weekend",
       "url": "https://open.spotify.com/track/0sgDEFq9oeC8ueOK0mR5IA"

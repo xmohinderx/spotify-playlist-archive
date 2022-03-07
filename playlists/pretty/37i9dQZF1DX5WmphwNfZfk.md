@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Leith
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,739 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,740 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,28 +84,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 74 | [cruise control](https://open.spotify.com/track/72uh8sdfHtUQcD1asTVOqf) | [Chakky](https://open.spotify.com/artist/6OVdtD62dqKYHBz10L7h5q) | [cruise control](https://open.spotify.com/album/1CsMgEIO593nWdRmCobzL1) | 3:00 |
 | 75 | [Mean Nun](https://open.spotify.com/track/5I8fITneRvst6HrxErxzR7) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [Mean Nun](https://open.spotify.com/album/0sNm4QxboaDTa0lbH9vJN1) | 1:58 |
 | 76 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 |
-| 77 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 |
-| 78 | [Beach House](https://open.spotify.com/track/3b6puThJHLaJYfgf1gAk5i) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [Beach House](https://open.spotify.com/album/50seucpMyJN46bWp1HRUmm) | 2:49 |
-| 79 | [All In My Mind](https://open.spotify.com/track/384oW4RbxvLy2eE4zAFABD) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [All In My Mind](https://open.spotify.com/album/0IARnOUMvRTxiwypVED2VE) | 2:28 |
-| 80 | [all my friends](https://open.spotify.com/track/3PCf2y6XsgtVusXV2xehX7) | [ghosthands](https://open.spotify.com/artist/1wNZGB5JKkcCu4EYNws9rL) | [all my friends](https://open.spotify.com/album/54qPtI85XRiPEh6jkxgqen) | 3:21 |
-| 81 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 |
-| 82 | [Temporary Farewell](https://open.spotify.com/track/5izFSdELM0aLAOWz7YEywd) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Temporary Farewell](https://open.spotify.com/album/3uL5zrm1IVvjFGRcuQ6H7B) | 3:44 |
-| 83 | [Niko](https://open.spotify.com/track/5Vqwx3HM9sXo4l4zwR22Bp) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Niko](https://open.spotify.com/album/5jEAovZnlVii1pNAE2DsMf) | 2:48 |
-| 84 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 |
-| 85 | [Conversations](https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [No Pants Till February](https://open.spotify.com/album/7k7HVIoDlxmQEIjX8pG7q4) | 4:24 |
-| 86 | [Crossed Wires](https://open.spotify.com/track/3qxhvx0fN9n2qmLOvvSJdB) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Crossed Wires](https://open.spotify.com/album/2HmAD3gWMZieKs02oDodWE) | 3:05 |
-| 87 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 |
-| 88 | [PHOENIX](https://open.spotify.com/track/1JjP2oYeFS5L2mWkc9abJl) | [Busy Nasa](https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi), [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe) | [333](https://open.spotify.com/album/7LyH1QSSk3ougLo55qXcGK) | 2:30 |
-| 89 | [Judge Me](https://open.spotify.com/track/0sWwA3apfTCkLMMrivpPeJ) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Judge Me](https://open.spotify.com/album/1koBXSMqbuHkIbQhaTQ7V5) | 3:20 |
-| 90 | [Crystal Ball](https://open.spotify.com/track/2U5WF7KJR8Uh4RJIUKvr9z) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [Crystal Ball](https://open.spotify.com/album/12V9dpCyl7Hmrw718OfDHY) | 4:07 |
-| 91 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 |
-| 92 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 |
-| 93 | [Post Breakup Bender](https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Post Breakup Bender](https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6) | 3:44 |
-| 94 | [Different Morning \(feat\. DijahSB\) \- Radio Edit](https://open.spotify.com/track/368fIfG0s5PGN6Umv2UR7p) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Different Morning \(feat\. DijahSB\)](https://open.spotify.com/album/2xWuxKRWdUpaZWFMdelg4b) | 3:19 |
-| 95 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 |
-| 96 | [Dead to You](https://open.spotify.com/track/4W1W0DzHwGbmepJ0BvAT8F) | [Vi](https://open.spotify.com/artist/0XPSOhKsMhkMtCJN2zdLJb) | [Dead to You](https://open.spotify.com/album/3e1zOzZmghrlUxi9LNiBky) | 2:42 |
-| 97 | [Right Here](https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 2:55 |
-| 98 | [My Therapist Told Me](https://open.spotify.com/track/08Ngb5MY4QnSXmawXGhW5p) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [My Therapist Told Me](https://open.spotify.com/album/4J4qnIjpeLbhDiBoqCvSPk) | 2:58 |
-| 99 | [Closer](https://open.spotify.com/track/03cFsB74lD9w4T0ewkIoq3) | [ZOEY LEVEN](https://open.spotify.com/artist/5R7VOCNi2mdK8UxzcYc0cp) | [Closer](https://open.spotify.com/album/73OvqzrfKWprAuwbJDGMrs) | 3:58 |
+| 77 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 |
+| 78 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 |
+| 79 | [Beach House](https://open.spotify.com/track/3b6puThJHLaJYfgf1gAk5i) | [Sandman](https://open.spotify.com/artist/2UytYzhVi9dPgPi9FIFGI4) | [Beach House](https://open.spotify.com/album/50seucpMyJN46bWp1HRUmm) | 2:49 |
+| 80 | [All In My Mind](https://open.spotify.com/track/384oW4RbxvLy2eE4zAFABD) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [All In My Mind](https://open.spotify.com/album/0IARnOUMvRTxiwypVED2VE) | 2:28 |
+| 81 | [all my friends](https://open.spotify.com/track/3PCf2y6XsgtVusXV2xehX7) | [ghosthands](https://open.spotify.com/artist/1wNZGB5JKkcCu4EYNws9rL) | [all my friends](https://open.spotify.com/album/54qPtI85XRiPEh6jkxgqen) | 3:21 |
+| 82 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 |
+| 83 | [Temporary Farewell](https://open.spotify.com/track/5izFSdELM0aLAOWz7YEywd) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Temporary Farewell](https://open.spotify.com/album/3uL5zrm1IVvjFGRcuQ6H7B) | 3:44 |
+| 84 | [Niko](https://open.spotify.com/track/5Vqwx3HM9sXo4l4zwR22Bp) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Niko](https://open.spotify.com/album/5jEAovZnlVii1pNAE2DsMf) | 2:48 |
+| 85 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 |
+| 86 | [Conversations](https://open.spotify.com/track/2pifkKyH7zHadphSEkuqPQ) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [No Pants Till February](https://open.spotify.com/album/7k7HVIoDlxmQEIjX8pG7q4) | 4:24 |
+| 87 | [Crossed Wires](https://open.spotify.com/track/3qxhvx0fN9n2qmLOvvSJdB) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Crossed Wires](https://open.spotify.com/album/2HmAD3gWMZieKs02oDodWE) | 3:05 |
+| 88 | [Angel](https://open.spotify.com/track/32v7Lr04s6kDM7g9NEMVO7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Forever, Yours](https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG) | 2:46 |
+| 89 | [PHOENIX](https://open.spotify.com/track/1JjP2oYeFS5L2mWkc9abJl) | [Busy Nasa](https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi), [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe) | [333](https://open.spotify.com/album/7LyH1QSSk3ougLo55qXcGK) | 2:30 |
+| 90 | [Judge Me](https://open.spotify.com/track/0sWwA3apfTCkLMMrivpPeJ) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Judge Me](https://open.spotify.com/album/1koBXSMqbuHkIbQhaTQ7V5) | 3:20 |
+| 91 | [Crystal Ball](https://open.spotify.com/track/2U5WF7KJR8Uh4RJIUKvr9z) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [Crystal Ball](https://open.spotify.com/album/12V9dpCyl7Hmrw718OfDHY) | 4:07 |
+| 92 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 |
+| 93 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 |
+| 94 | [Post Breakup Bender](https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Post Breakup Bender](https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6) | 3:44 |
+| 95 | [Different Morning \(feat\. DijahSB\) \- Radio Edit](https://open.spotify.com/track/368fIfG0s5PGN6Umv2UR7p) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Different Morning \(feat\. DijahSB\)](https://open.spotify.com/album/2xWuxKRWdUpaZWFMdelg4b) | 3:19 |
+| 96 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 |
+| 97 | [Dead to You](https://open.spotify.com/track/4W1W0DzHwGbmepJ0BvAT8F) | [Vi](https://open.spotify.com/artist/0XPSOhKsMhkMtCJN2zdLJb) | [Dead to You](https://open.spotify.com/album/3e1zOzZmghrlUxi9LNiBky) | 2:42 |
+| 98 | [Right Here](https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 2:55 |
+| 99 | [My Therapist Told Me](https://open.spotify.com/track/08Ngb5MY4QnSXmawXGhW5p) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [My Therapist Told Me](https://open.spotify.com/album/4J4qnIjpeLbhDiBoqCvSPk) | 2:58 |
+| 100 | [Closer](https://open.spotify.com/track/03cFsB74lD9w4T0ewkIoq3) | [ZOEY LEVEN](https://open.spotify.com/artist/5R7VOCNi2mdK8UxzcYc0cp) | [Closer](https://open.spotify.com/album/73OvqzrfKWprAuwbJDGMrs) | 3:58 |
 
-Snapshot ID: `MTY0NjUyNzg3NiwwMDAwMDAwMGY4NTc1MWZmOTcxMjk3MWFiODliZDhmYjZjNzJlMmEx`
+Snapshot ID: `MTY0NjYxNDI5NiwwMDAwMDAwMGY4NTc1MWZmOTcxMjk3MWFiODliZDhmYjZjNzJlMmEx`

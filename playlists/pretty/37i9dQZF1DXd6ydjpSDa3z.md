@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6ydjpSDa3z.md) - [plain]
 
 > Cozy up with Chekhov's classic short stories, or settle in for a longer listen with Tolstoy, Dostoyevsky, and other Russian greats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,352 likes - 65 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,351 likes - 65 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

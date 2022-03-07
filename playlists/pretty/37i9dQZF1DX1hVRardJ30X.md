@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carlos Vives, Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,728 likes - 58 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,745 likes - 58 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 |
 | 55 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 |
 | 56 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 |
-| 57 | [Malcriada](https://open.spotify.com/track/3X6Pf1ZPEL9QSRiJhUA9hR) | [Tavo Betancourt](https://open.spotify.com/artist/4xnT9AGBIzrElvpsRV7bh3), [Alex Duran](https://open.spotify.com/artist/7MhRwQGWxPy3rFzcI7qSmx), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Malcriada](https://open.spotify.com/album/0fT4rgC0jZ2pX0IbP4hmsf) | 3:07 |
+| 57 | [Malcriada](https://open.spotify.com/track/3X6Pf1ZPEL9QSRiJhUA9hR) | [Tavo Betancourt](https://open.spotify.com/artist/4xnT9AGBIzrElvpsRV7bh3), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w), [Alex Durán](https://open.spotify.com/artist/6OYFLuEBMQCH1IyUykYzvr) | [Malcriada](https://open.spotify.com/album/0fT4rgC0jZ2pX0IbP4hmsf) | 3:07 |
 | 58 | [Antónimos](https://open.spotify.com/track/66mA8bN15swKsFoeyHLJTT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Antónimos](https://open.spotify.com/album/1awxHDaPvY65gcHl8JBx6B) | 2:59 |
 
 Snapshot ID: `MTY0NjQwNjEwNiwwMDAwMDM2MjAwMDAwMTdmNTU3MzdjYWIwMDAwMDE3ZjRiYmE3Yjcx`

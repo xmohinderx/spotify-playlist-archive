@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > <a href="https://open.spotify.com/track/20bNmfHntXFvYInCEQZYfp?si=e255ce242aff4eae">latte foam art, tiny pumpkins, fuzzy comfy socks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,968 likes - 105 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,089 likes - 105 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

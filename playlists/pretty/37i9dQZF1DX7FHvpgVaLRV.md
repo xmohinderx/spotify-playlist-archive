@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FHvpgVaLRV.md) - [plain]
 
 > Para acompanhar sua rotina de ioga no conforto do lar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,239 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,248 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Mc Don Juan e Mari Fernandez, Naiara Azevedo e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,732,265 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,732,627 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 5 | [Meu Amor](https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Meu Amor](https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ) | 2:41 |
 | 6 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
 | 7 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 |
-| 8 | [Safada](https://open.spotify.com/track/5haWHx17xgxBhXfKv9bE75) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG) | [Safada](https://open.spotify.com/album/6e36GhHj1NHqqTDbC9z1It) | 3:33 |
+| 8 | [Safada](https://open.spotify.com/track/5haWHx17xgxBhXfKv9bE75) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG) | [Safada](https://open.spotify.com/album/6e36GhHj1NHqqTDbC9z1It) | 3:33 |
 | 9 | [Imperfeitos \(Ao Vivo\)](https://open.spotify.com/track/5bIBRWgc9SBktQiMpJf0G5) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Imperfeitos \(Ao Vivo\)](https://open.spotify.com/album/6Ow8qi8q8xvKfuUoyKEq7R) | 2:56 |
 | 10 | [Maloqueirinha](https://open.spotify.com/track/5V6R8MrL2VCGkvk81zm3PR) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi) | [Maloqueirinha](https://open.spotify.com/album/5FqqBqGJ7lLU3rb2REXZMi) | 2:18 |
 | 11 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 |

@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 237019,
       "name": "Aqu\u00ed Est\u00e1 Dios",
       "url": "https://open.spotify.com/track/6RauS2jhWkWRxHwG26mno4"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 184449,
       "name": "Aroma En Tu Risa (Nueva Versi\u00f3n)",
       "url": "https://open.spotify.com/track/0EI2qnBg7F2jm4XIdQpaxn"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 225980,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4G7MGVRhu0RvXX1m31TbjB"
@@ -546,6 +546,32 @@
     },
     {
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/5i4rUuV3HlivEuXKQrNGIo"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "Trez Hache",
+          "url": "https://open.spotify.com/artist/0wgDsnsyLZpCS1Gj5cnI0r"
+        },
+        {
+          "name": "Helementt",
+          "url": "https://open.spotify.com/artist/153zCjJxe1HnU2huS6jnMU"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/4MXt7Xh7WQiL85Q6Et2OfF"
+    },
+    {
+      "album": {
         "name": "Dios (Ac\u00fastico) [Live]",
         "url": "https://open.spotify.com/album/11GYfNcLbxgWtCiPF3KQWC"
       },
@@ -637,7 +663,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 186250,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/6EGduvmEGHgdF3fHYPuUvj"
@@ -655,7 +681,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 127986,
       "name": "DRILL-O",
       "url": "https://open.spotify.com/track/6SqpjKcNSlemeke20izs6p"
@@ -673,7 +699,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 351424,
       "name": "Ed\u00e9n",
       "url": "https://open.spotify.com/track/5bKybaTJNjqKqd9btx82fR"
@@ -863,7 +889,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 248701,
       "name": "Feo pero Salvo feat. Albert Miliano",
       "url": "https://open.spotify.com/track/2PzVtMzk6wDoUeas8cMsLY"
@@ -1169,7 +1195,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 160695,
       "name": "Lleg\u00f3 el Culto",
       "url": "https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse"
@@ -1263,7 +1289,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 213437,
       "name": "Manada",
       "url": "https://open.spotify.com/track/5Pde1RKCdQ5mfAYNQVeC56"
@@ -1307,6 +1333,28 @@
       "duration_ms": 199204,
       "name": "Me Llamas (Remix)",
       "url": "https://open.spotify.com/track/7p4I6CdGqTVmYXVIsv7MVV"
+    },
+    {
+      "album": {
+        "name": "Me Salvaste",
+        "url": "https://open.spotify.com/album/5YPV6e4HH78wLOO6MDKAvE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        },
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 811503,
+      "name": "Me Salvaste",
+      "url": "https://open.spotify.com/track/6Kv31K0bsskf3cbWrxQE0I"
     },
     {
       "album": {
@@ -1375,7 +1423,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 493920,
       "name": "Mi Ayuda - En Vivo",
       "url": "https://open.spotify.com/track/7h8ZLklXyToWGYEgUmfits"
@@ -1441,7 +1489,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 178466,
       "name": "Mi Entrenador",
       "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
@@ -1651,7 +1699,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 164118,
       "name": "No Soy Perfecta",
       "url": "https://open.spotify.com/track/6RLmYiQPeLztb7Ns6MZmRL"
@@ -1892,6 +1940,24 @@
     },
     {
       "album": {
+        "name": "Fe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bKsoKI16zKzu8YtLQdFBJ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188946,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/0RuHawQ6vLF9r35L7HD2cl"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Con Ese",
         "url": "https://open.spotify.com/album/6WvJTzI5uvCgUXuQoJgy7f"
       },
@@ -1995,7 +2061,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 185282,
       "name": "Rodeado - Remix",
       "url": "https://open.spotify.com/track/4tgZGUQu4S78WEedVTGTRf"
@@ -2013,7 +2079,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 236128,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8"
@@ -2061,7 +2127,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 355813,
       "name": "Santo Dios",
       "url": "https://open.spotify.com/track/3ikEGnU6cs3LZRyCejl3Ms"
@@ -2119,7 +2185,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 233670,
       "name": "Sin Ti Yo No",
       "url": "https://open.spotify.com/track/426C4mp79rpsXXdwqX49vJ"
@@ -2137,7 +2203,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 202175,
       "name": "Soberano",
       "url": "https://open.spotify.com/track/7Ay5gGiMH3QLgGfbbCWh79"
@@ -2251,7 +2317,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
@@ -2377,7 +2443,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 348000,
       "name": "Tumbas a Jardines (feat. Brandon Lake & Edgar Aguilar)",
       "url": "https://open.spotify.com/track/3aT6p2DCLQIwOcULLntBTp"
@@ -2439,7 +2505,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 185405,
       "name": "Uno en \u00c9l",
       "url": "https://open.spotify.com/track/7HbDChHFpq3NWIn1b4Eb5F"
@@ -2465,7 +2531,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 209699,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e"

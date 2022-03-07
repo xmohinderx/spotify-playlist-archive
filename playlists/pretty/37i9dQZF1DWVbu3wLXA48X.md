@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The Crane
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,309 likes - 89 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,354 likes - 89 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

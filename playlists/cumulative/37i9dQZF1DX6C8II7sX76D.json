@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "SYS02",
+        "url": "https://open.spotify.com/album/1hWdAnaS9tsIcwYM3hC48Y"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301995,
+      "name": "District 8",
+      "url": "https://open.spotify.com/track/3oXiddNGiWhpmlQCWkJoJ9"
+    },
+    {
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 155364,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/6ShImJT1uMlKJbdJh6MnbH"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 196213,
       "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 198305,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/24nL5EXPrdodyCdxXoRRBZ"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 267272,
       "name": "One Spliff",
       "url": "https://open.spotify.com/track/6bdF0R4RW9bkzL6H2lPcQw"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 252178,
       "name": "Pick a Seat",
       "url": "https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 163389,
       "name": "Run It (feat. Rick Ross & Rich Brian)",
       "url": "https://open.spotify.com/track/282R6Lvm9nLtpx8AzUwJe0"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 174117,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/5GRf6zSrCi8gErdN6CyRJT"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 291851,
       "name": "Vacation Bible School",
       "url": "https://open.spotify.com/track/6KbkGUqEJBwghxPLUQpOXQ"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 141217,
       "name": "\u042f \u0431\u0443\u0434\u0443 \u0435\u0431\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3lFrFQcZWPLa8WEG7xoc4b"

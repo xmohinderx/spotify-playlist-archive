@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: ROSALÍA \- Camila Cabello, Ed Sheeran \- Bam Bam](https://open.spotify.com/playlist/1dFZcyMQEmk5cQSIUnSLB0)
+### [HOT NOW: ROSALÍA \- Camila Cabello, Ed Sheeran \- Bam Bam](https://open.spotify.com/playlist/4wboR1ZcO7Q0wzczGdRvpc)
 
 > ¡No busques más! La música del momento está aquí.
 

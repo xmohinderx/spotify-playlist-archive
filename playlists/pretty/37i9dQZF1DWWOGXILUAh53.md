@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Becky Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,073 likes - 59 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,141 likes - 59 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

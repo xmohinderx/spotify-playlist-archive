@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Isabel LaRosa, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,569 likes - 82 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,604 likes - 82 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 13 | [RUNAWAY](https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RUNAWAY](https://open.spotify.com/album/4m4Ohp8rvOe3YANkKTb40C) | 3:15 |
 | 14 | [ITS STRAIGHT](https://open.spotify.com/track/2qVR8fPHIAcK0lKbF8A950) | [Luh Cheetoh](https://open.spotify.com/artist/560BZJhvtTnwVdzUCxtcN4) | [ITS STRAIGHT](https://open.spotify.com/album/59VX9oPXeUFX9rFQ5g8fVU) | 2:47 |
 | 15 | [Southside](https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Southside](https://open.spotify.com/album/136E0FzmsWqfjBbiT29CMW) | 3:22 |
-| 16 | [Tu Boca \- Waidrian Remix](https://open.spotify.com/track/3LKAZZ9tzV9oPYVK1AAM5d) | [Waidrian](https://open.spotify.com/artist/2KHMDED0sL5iU8WLUS3OFj), [Halé](https://open.spotify.com/artist/0J6p1lOznVRKRPgZ2wNta3) | [Tu Boca \(Waidrian Remix\)](https://open.spotify.com/album/62xnnGsGCd4XCkixBqvYr0) | 3:03 |
+| 16 | [Tu Boca \- Waidrian Remix](https://open.spotify.com/track/3LKAZZ9tzV9oPYVK1AAM5d) | [Waidrian](https://open.spotify.com/artist/2KHMDED0sL5iU8WLUS3OFj), [HALÉ](https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii) | [Tu Boca \(Waidrian Remix\)](https://open.spotify.com/album/62xnnGsGCd4XCkixBqvYr0) | 3:03 |
 | 17 | [Calling \(feat\. Ell Murphy\) \[Vocal Edit\]](https://open.spotify.com/track/7KcE6hhkk2cy2MHdMf8Xya) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Calling \(feat\. Ell Murphy\)](https://open.spotify.com/album/0rVL75Z6wCeIjjOh6qeMTa) | 3:30 |
 | 18 | [Freak](https://open.spotify.com/track/0Rvju1AKA3cqwX8TwVRhpx) | [Lewis CanCut](https://open.spotify.com/artist/6s185hBvaMT7xUfKSRnPfo), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR) | [Magic Circle](https://open.spotify.com/album/4Wx083ht3L88b9Iftk23A3) | 3:12 |
 | 19 | [SAHARA](https://open.spotify.com/track/5Kynp7uUwq2gOmu74QIrYS) | [BOMBAYS](https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC) | [SAHARA](https://open.spotify.com/album/447aLykf7SZ5wrpgiwcbEj) | 3:40 |

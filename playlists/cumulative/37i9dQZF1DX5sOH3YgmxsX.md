@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5sOH3YgmxsX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5sOH3YgmxsX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5sOH3YgmxsX)
 
-### [Hora da Resenha](https://open.spotify.com/playlist/2A3ZFkr4JezRx7jeu71lGw)
+### [Hora da Resenha](https://open.spotify.com/playlist/4gC028V9S4T35s9XtUEPWl)
 
 > Papos, piadas, risadas e convidados certeiros: aqueles podcasts que são sucesso!
 

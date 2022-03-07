@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 203906,
       "name": "Before We Make It Real",
       "url": "https://open.spotify.com/track/6N0aQvnu2lc73bVznVm2h2"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 239946,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/6PhqFutjkq3tzchjqS5nF7"
@@ -730,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 173473,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/17BBfm9oQzNsX1PjnsOgRG"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 343253,
       "name": "Other You",
       "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 223693,
       "name": "Say It Ain't So",
       "url": "https://open.spotify.com/track/73qCssYvdf93OxwVf04JcT"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-07",
       "duration_ms": 182856,
       "name": "Vacuum",
       "url": "https://open.spotify.com/track/08dWzsbcHpduLw8WsANcWp"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"

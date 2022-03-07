@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9cjKvsL1KlZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9cjKvsL1KlZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9cjKvsL1KlZ)
 
-### Sidetalk Radio
+### [Sidetalk Radio](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
 
 > Sounds of New York curated by Sidetalk, New York’s one\-minute street show
 
