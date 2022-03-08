@@ -2,7 +2,7 @@
 
 ### [Grunge Forever](https://open.spotify.com/playlist/28qkTCnYXNzdsou4tGgtal)
 
-> Grunge will live forever\. Cover: Mark Lanegan
+> Grunge will live forever\. Cover: Kurt Cobain
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Fell On Black Days](https://open.spotify.com/track/3vBA9cISon26MlnDWdKSSQ) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY) | 4:43 | 2021-11-30 |  |
 | [Glycerine \- Remastered](https://open.spotify.com/track/2nzlgHTbUDzuRtTFoX3qfJ) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/2tvQxqjYZn9tUZ0D6ZGEJC) | 4:26 | 2021-11-30 |  |
 | [Heart\-Shaped Box](https://open.spotify.com/track/4OaV9UYQ3EfrBRPjoO6u7c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/7mhk75WqSVNIvxZumfCdvu) | 4:41 | 2021-11-30 |  |
-| [Highway Of Souls](https://open.spotify.com/track/0XU4TZ7eOrDoLpJRNyCRhu) | [Love Battery](https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF) | [Between The Eyes](https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc) | 5:25 | 2021-12-31 |  |
+| [Highway Of Souls](https://open.spotify.com/track/0XU4TZ7eOrDoLpJRNyCRhu) | [Love Battery](https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF) | [Between The Eyes](https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc) | 5:25 | 2021-12-31 | 2022-03-08 |
 | [Hunger Strike \- 25th Anniversary Mix](https://open.spotify.com/track/2EiA1EfoX6jFGVCGqkBiT6) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Hunger Strike \(25th Anniversary Mix\)](https://open.spotify.com/album/5lZMq9bGOLJXJQ05BBX6zL) | 4:06 | 2021-11-30 |  |
 | [I Don't Know Anything](https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above \(Deluxe Edition\)](https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn) | 5:00 | 2021-12-30 |  |
 | [I'll Stick Around](https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:52 | 2021-12-30 |  |
@@ -59,6 +59,7 @@
 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 | 2021-12-30 |  |
 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 | 2021-12-30 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 5:01 | 2021-11-30 |  |
+| [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-03-07 |  |
 | [Spoonman](https://open.spotify.com/track/2tkyEHSkv0I3l4OkBe1FnO) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY) | 4:06 | 2021-11-30 |  |
 | [Start Choppin'](https://open.spotify.com/track/5vlvuYDeC10hTC82qT6In3) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Where You Been \[Digital Version\] \[with Bonus Track\]](https://open.spotify.com/album/1qeu2eJJWAn1cLSW0EOZij) | 5:40 | 2021-11-30 |  |
 | [Suck You Dry \- 2008 Remaster](https://open.spotify.com/track/3Fg4SlOiqKDodVJbAM2Gut) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Piece Of Cake](https://open.spotify.com/album/3CNnWJLxLMowI9DYqgLLeq) | 2:34 | 2021-11-30 |  |

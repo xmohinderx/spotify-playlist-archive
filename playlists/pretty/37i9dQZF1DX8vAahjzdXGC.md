@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Camila Cabello, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,219 likes - 128 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,230 likes - 128 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 113 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 |
 | 114 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 |
 | 115 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 |
-| 116 | [Everything Feels Right](https://open.spotify.com/track/6Hq7ptbtOICZ5aiDfeyYIN) | [Three Of Dreams](https://open.spotify.com/artist/7wiXwcJoAuFc1RuuLHJ8zy) | [Everything Feels Right](https://open.spotify.com/album/1FUwhNTd5z7dbVzf1BcCt0) | 3:23 |
+| 116 | [Everything Feels Right](https://open.spotify.com/track/6Hq7ptbtOICZ5aiDfeyYIN) | [Three Of Dreams](https://open.spotify.com/artist/7wiXwcJoAuFc1RuuLHJ8zy), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Everything Feels Right](https://open.spotify.com/album/1FUwhNTd5z7dbVzf1BcCt0) | 3:23 |
 | 117 | [Milikmu](https://open.spotify.com/track/5BjjtKFvLnw1CymCf9Gq75) | [Monica Tania](https://open.spotify.com/artist/0w4eOEpzuijBXwAbGpaxPp) | [Milikmu](https://open.spotify.com/album/4VBtkFGvGQ4RvayhjdCQ3p) | 3:22 |
 | 118 | [more](https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [more](https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW) | 3:13 |
 | 119 | [Cambridge](https://open.spotify.com/track/6DfRpYORAstVFmaenQyJOJ) | [Reckless Escapades](https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm) | [Cambridge](https://open.spotify.com/album/1VtSROpmS9fX9g0hYIB8tE) | 3:45 |

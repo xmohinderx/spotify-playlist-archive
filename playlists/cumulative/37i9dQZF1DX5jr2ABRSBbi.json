@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Pam Rabbit",
+  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Tolstoys",
   "name": "EQUAL CZ&SK",
   "published_playlist_ids": [
     "0SBZE5WqIPIEhAB3YQXr14"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "side effects of being human",
+        "url": "https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "almost 20",
+      "url": "https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n"
+    },
+    {
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5GNZUz9HCl5bF4unXNwIAA"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 168672,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/275xXbu1bAryi3n5H65EQ2"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 183720,
       "name": "Are You There",
       "url": "https://open.spotify.com/track/6rVgVKdD7w6MN3IZ7Ub6Tc"
@@ -185,6 +203,28 @@
       "duration_ms": 264097,
       "name": "Champ",
       "url": "https://open.spotify.com/track/3mor9gkLB2b6fGo9ckK89V"
+    },
+    {
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/6k6JIL8EdqPvGLS9oFrjH7"
+      },
+      "artists": [
+        {
+          "name": "Meowlau",
+          "url": "https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8"
+        },
+        {
+          "name": "Val",
+          "url": "https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207307,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/6tH84i4TyWzWUJGS54A7jM"
     },
     {
       "album": {
@@ -376,6 +416,24 @@
     },
     {
       "album": {
+        "name": "I Want To Be Perfect",
+        "url": "https://open.spotify.com/album/1LJL5tyy403JxvpgPoSMQD"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173393,
+      "name": "I Want To Be Perfect",
+      "url": "https://open.spotify.com/track/0cfLMh35GyuZne7PNaJIFn"
+    },
+    {
+      "album": {
         "name": "Time And Fate",
         "url": "https://open.spotify.com/album/7aDh92lgDBbFosDaDCgAFg"
       },
@@ -488,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Jsem",
+        "url": "https://open.spotify.com/album/0pRARP9FOKcmcCKj2hFRdi"
+      },
+      "artists": [
+        {
+          "name": "Tereza Balonov\u00e1",
+          "url": "https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224738,
+      "name": "Jsem",
+      "url": "https://open.spotify.com/track/091LqS4GafDKXraNTFZxhC"
+    },
+    {
+      "album": {
         "name": "Just Another Dream",
         "url": "https://open.spotify.com/album/517LIc9zu3bC3oIqZMgaiF"
       },
@@ -565,10 +641,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 257720,
       "name": "Kdy\u017e pad\u00e1 sn\u00edh",
       "url": "https://open.spotify.com/track/1xrMKGJ5nycrs0bb5fxFLi"
+    },
+    {
+      "album": {
+        "name": "Lampiony",
+        "url": "https://open.spotify.com/album/73OblXxnh21rQ9KMZNKgng"
+      },
+      "artists": [
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/0PsuGDOlfOP2oextgt3x6H"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205555,
+      "name": "Lampiony",
+      "url": "https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae"
     },
     {
       "album": {
@@ -619,7 +713,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 214000,
       "name": "Ljubljana",
       "url": "https://open.spotify.com/track/0hDgnTAoyOaKMAQDlHov4w"
@@ -637,7 +731,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 160804,
       "name": "looking at porn",
       "url": "https://open.spotify.com/track/2WLH4kW5gS9G5nPtoo8qGg"
@@ -663,6 +757,24 @@
       "duration_ms": 173133,
       "name": "MAJSA",
       "url": "https://open.spotify.com/track/6iSuFJfbMvQ6rqFPuD2KsQ"
+    },
+    {
+      "album": {
+        "name": "Mirror Me",
+        "url": "https://open.spotify.com/album/6y5wzKUDXEUTgJAr8yjB6i"
+      },
+      "artists": [
+        {
+          "name": "Tolstoys",
+          "url": "https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150007,
+      "name": "Mirror Me",
+      "url": "https://open.spotify.com/track/15OMPbRzKfZKNDkTFVJMQn"
     },
     {
       "album": {
@@ -775,6 +887,28 @@
       "duration_ms": 153998,
       "name": "No ne",
       "url": "https://open.spotify.com/track/5FGWgx9LwXG3sNIYknUeRj"
+    },
+    {
+      "album": {
+        "name": "No\u010dn\u00ed nebe",
+        "url": "https://open.spotify.com/album/3E6ArN95PrHgNcIf5SHl4M"
+      },
+      "artists": [
+        {
+          "name": "Eva Buresova",
+          "url": "https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu"
+        },
+        {
+          "name": "Robin Mood",
+          "url": "https://open.spotify.com/artist/32Lsv3McZSxXzpgmzfl9K0"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "No\u010dn\u00ed nebe",
+      "url": "https://open.spotify.com/track/6MhmF5c2ZAaN1Mlfnbh4Ka"
     },
     {
       "album": {
@@ -1326,6 +1460,28 @@
     },
     {
       "album": {
+        "name": "\u00dabo\u010d\u00ed",
+        "url": "https://open.spotify.com/album/5ZB03QZgrrujo158132H2h"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1ra Zmekov\u00e1",
+          "url": "https://open.spotify.com/artist/25kg48KQR5IPL7CHQO5QhC"
+        },
+        {
+          "name": "Francesca Mountfort",
+          "url": "https://open.spotify.com/artist/4rvGhMLpsSo6W2UKI1sqDJ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254911,
+      "name": "\u00dabo\u010d\u00ed",
+      "url": "https://open.spotify.com/track/5pJzzbzjPgCJrKe394kv8Y"
+    },
+    {
+      "album": {
         "name": "\u00dasm\u011bv Mony Lisy",
         "url": "https://open.spotify.com/album/41EOKFrNe37ury0DVVxAzq"
       },
@@ -1337,7 +1493,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 208000,
       "name": "\u00dasm\u011bv Mony Lisy",
       "url": "https://open.spotify.com/track/3IKg1r6h5M2qtm6RKnjAvT"

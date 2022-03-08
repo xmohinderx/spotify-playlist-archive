@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,017 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,992 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 63 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
 | 64 | [Duet for Guitars \#3](https://open.spotify.com/track/3zeHdmXo195KoBqqHOO6A9) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/3I1zi5eB3rHCYye20JoG2U) | 1:52 |
 | 65 | [The Day is Past and Gone \(Variations\), Extended](https://open.spotify.com/track/2vSjs5QYsnVfp1HIDMhHdh) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 4:43 |
-| 66 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[from Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 |
+| 66 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 |
 | 67 | [Angi](https://open.spotify.com/track/2wxpgRChMOPsE9lebeEzMj) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/5jCLZRSd8CyV34s7iEvqYZ) | 2:27 |
 | 68 | [Si No Te Vas \(Instrumental\)](https://open.spotify.com/track/3dRkBf8fXhph6yQtQR7uBL) | [Carrie Rodriguez](https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF) | [Lola](https://open.spotify.com/album/58hQMhoiyYayFc1pLHwnEa) | 4:21 |
 | 69 | [Ocean](https://open.spotify.com/track/59tcQJiHwApzE4h6yVnL9i) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR) | [Ocean](https://open.spotify.com/album/0GeL4qG8LeNZU2yyHNpP1h) | 11:39 |

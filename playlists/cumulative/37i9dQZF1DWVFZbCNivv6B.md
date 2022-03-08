@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Snow Tha Product y Gera MX.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Yoss Bones.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

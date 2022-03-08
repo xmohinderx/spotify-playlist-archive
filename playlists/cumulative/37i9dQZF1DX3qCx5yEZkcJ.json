@@ -63,7 +63,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 145230,
       "name": "23 'Til Infinity",
       "url": "https://open.spotify.com/track/78S4mnm98YkJnSmCaLiCQv"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "2GI NO NA2",
       "url": "https://open.spotify.com/track/0rPEJjMxTD7oB3YZgc0Zbw"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 156359,
       "name": "Best Regards",
       "url": "https://open.spotify.com/track/4DAgTthT39ZAJTv6Vya7df"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 166392,
       "name": "BIG BLUE",
       "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 196235,
       "name": "Bopatron",
       "url": "https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 198777,
       "name": "City Strollin'",
       "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 108292,
       "name": "Coffee Nap",
       "url": "https://open.spotify.com/track/55LozwKlz0eZHLKYWIqzFL"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 101650,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
@@ -1528,6 +1528,24 @@
     },
     {
       "album": {
+        "name": "D\u2019s Swing",
+        "url": "https://open.spotify.com/album/7E2Dz8BSnXj0gAq86v43xX"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218528,
+      "name": "D\u2019s Swing",
+      "url": "https://open.spotify.com/track/6t19DdPFNoNbclHt3stXZ8"
+    },
+    {
+      "album": {
         "name": "Education",
         "url": "https://open.spotify.com/album/6kYy5w6Uv33REXcaaxdXk3"
       },
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 92530,
       "name": "Exploring",
       "url": "https://open.spotify.com/track/3AodEX1n2u71gNkSOrUksB"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 106666,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/3Pj5p85yrHKzWShk4miojl"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 124151,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 187941,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1zUOLEMjeD1AWRxjSy0HRF"
@@ -2425,7 +2443,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 130666,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/3OUEma9S6MNldD205VCGio"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 133294,
       "name": "Its All About Vibes",
       "url": "https://open.spotify.com/track/2tJP6iNCbZ4xKxYnXmSd84"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 121263,
       "name": "Ja(zz)mmin",
       "url": "https://open.spotify.com/track/24KCZicSfQoj496yIIyiTr"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 126879,
       "name": "Jasmine Tea",
       "url": "https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf"
@@ -3357,7 +3375,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 106837,
       "name": "Meditations on Guitar",
       "url": "https://open.spotify.com/track/2vzAM5zjTyfH4Gfqo3p5Vv"
@@ -3509,7 +3527,7 @@
       ],
       "date_added": "2019-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 154667,
       "name": "More Life",
       "url": "https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K"
@@ -3611,7 +3629,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 93919,
       "name": "Na Mezhi",
       "url": "https://open.spotify.com/track/2AlxcFQueCwOvtsoHaMXQh"
@@ -4183,7 +4201,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 123600,
       "name": "Ova",
       "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
@@ -4401,7 +4419,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 168000,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/0RZDD0fZ1C0gKU1ca1Vibm"
@@ -4477,7 +4495,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
@@ -4785,7 +4803,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 170782,
       "name": "Romantic Rain",
       "url": "https://open.spotify.com/track/0ONPyowm9YQFY7mtx45GaD"
@@ -4955,7 +4973,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 102000,
       "name": "settle down",
       "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
@@ -5487,7 +5505,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 94814,
       "name": "sunset cruise",
       "url": "https://open.spotify.com/track/1Hg3AkNPFx7fBAbfhktzKy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Martin James Bartlett
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,848 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,953 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 75 | [Rodelinda, HWV 19, Ouverture: \[Largo\] \- Presto \- Adagio \(Arr\. for Harpsichord\)](https://open.spotify.com/track/6c6CZWbXOuBKQTBRwdOOna) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Francesco Corti](https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2) | [Handel: Winged Hands\. The Eight Great Suites & Overtures](https://open.spotify.com/album/2vWLDSjlqJpmhGKM391NFp) | 3:31 |
 | 76 | [Cello Concertino, Op\. 43bis: IV\. Adagio](https://open.spotify.com/track/0FZpgJccaN7YETUysFaAZ6) | [Mieczysław Weinberg](https://open.spotify.com/artist/6roPI9Y9n0FmCWxI3GxjaH), [Les Métamorphoses](https://open.spotify.com/artist/7cPR8n18GjERWdPidsnIDo), [Raphael Feye](https://open.spotify.com/artist/0ICRZ96D8h4j9sV3RJmT9W), [Pieter Wispelwey](https://open.spotify.com/artist/1SWaFKyfyRsmbg3Kcr3muo) | [Weinberg](https://open.spotify.com/album/52FOkYvBPxrh5IdO5zFmRx) | 5:54 |
 | 77 | [Abendempfindung, K\. 523](https://open.spotify.com/track/2FefAuRONtbpkNYqjTlQG2) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Carolyn Sampson](https://open.spotify.com/artist/7FjSvvNq767gjo9ge8oXhP), [Kristian Bezuidenhout](https://open.spotify.com/artist/2Bvd2g06Kz9rkzXaMNEtNK) | [Trennung: Songs of Separation](https://open.spotify.com/album/4K9VuOdy4T3SBqMx5CDaJJ) | 4:42 |
-| 78 | [From Those Serene and Rapturous Joys, Z 326: I\. Symphony](https://open.spotify.com/track/3GFFmobz9jZuleSJONsq1T) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Le Banquet Céleste](https://open.spotify.com/artist/4QtYLpjx4hxRRvifcVDa67), [Damien Guillon](https://open.spotify.com/artist/49ljWCSPNM8rwB1D5ikt8j) | [Purcell: Odes & Welcome Songs](https://open.spotify.com/album/3y1uNHhJTlQQx4OSKalAWe) | 1:56 |
+| 78 | [From Those Serene and Rapturous Joys, Z 326: I\. Symphony](https://open.spotify.com/track/3GFFmobz9jZuleSJONsq1T) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Le Banquet Céleste](https://open.spotify.com/artist/4QtYLpjx4hxRRvifcVDa67), [Damien Guillon](https://open.spotify.com/artist/49ljWCSPNM8rwB1D5ikt8j) | [Purcell: Royal Odes](https://open.spotify.com/album/3y1uNHhJTlQQx4OSKalAWe) | 1:56 |
 | 79 | [Este, K\. 18](https://open.spotify.com/track/5gygIbCRqR4JZo4Ie5i8gy) | [Zoltán Kodály](https://open.spotify.com/artist/7MjAFDEchgyC28I0asclTE), [Christine Nonbo Andersen](https://open.spotify.com/artist/3o9egeTgRSlzCpuyHQhY0I), [Danish National Vocal Ensemble](https://open.spotify.com/artist/0PMTPw7TE0L97oTgdtYjfK), [Marcus Creed](https://open.spotify.com/artist/2jyy7Q6sbWfKNCCwbu14oB) | [Kodály & Ligeti: Choral Works](https://open.spotify.com/album/4yOMC5WhFVmdcj0KtyuKzE) | 4:59 |
 | 80 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 |
 

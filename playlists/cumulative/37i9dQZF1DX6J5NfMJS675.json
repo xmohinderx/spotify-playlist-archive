@@ -2154,6 +2154,24 @@
     },
     {
       "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392008,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
+    },
+    {
+      "album": {
         "name": "Hierarchy Level",
         "url": "https://open.spotify.com/album/1tcOoRp81kPt5tDT7gpX1s"
       },
@@ -3837,7 +3855,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 401152,
       "name": "Response",
       "url": "https://open.spotify.com/track/5LcR0pUWwnSUdLtNIzMNlO"
@@ -4499,6 +4517,24 @@
       "duration_ms": 295396,
       "name": "Terminate - Radio Edit",
       "url": "https://open.spotify.com/track/0kLNsHxGapjwwNsJHfyLAj"
+    },
+    {
+      "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/2HE22ZqykGRTdLjqrTJuVN"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410000,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/5sxjDcq1CPIQ6pmLbMRY1o"
     },
     {
       "album": {
@@ -5387,7 +5423,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 450000,
       "name": "Water",
       "url": "https://open.spotify.com/track/3BEXJwaESbt51fg2uV2JHj"
@@ -5481,10 +5517,32 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 380909,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/0j8iHPirDSkD5nUQw9XzRF"
+    },
+    {
+      "album": {
+        "name": "Alternation",
+        "url": "https://open.spotify.com/album/1X6UFwxiJp7V3QVkziem8G"
+      },
+      "artists": [
+        {
+          "name": "R\u00f8dh\u00e5d",
+          "url": "https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h"
+        },
+        {
+          "name": "Sara Clarke",
+          "url": "https://open.spotify.com/artist/1Dthi9kK2qsRoIw2S2coDd"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317200,
+      "name": "Wise Saying",
+      "url": "https://open.spotify.com/track/12w5BTUsdBNPQtDQr0xe8w"
     },
     {
       "album": {

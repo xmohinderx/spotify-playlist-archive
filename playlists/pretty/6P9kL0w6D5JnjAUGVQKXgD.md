@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Dimitri Vegas, Like Mike, Kim Loaiza, Azteck
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,534 likes - 100 songs - 4 hr 47 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,533 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 91 | [Head Up In The Clouds](https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP), [Lee Morris](https://open.spotify.com/artist/0of4ZCQQXBygOFG7cCMmBV), [George Redwood](https://open.spotify.com/artist/05GVokC63cKCaNegdJDj1n) | [Head Up In The Clouds](https://open.spotify.com/album/7fGno87MnrXy6r7CLMKQDp) | 3:20 |
 | 92 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/album/4ZgHHCDZ6YI1iZ9L8xzrB4) | 2:21 |
 | 93 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 |
-| 94 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk) | 2:22 |
+| 94 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 |
 | 95 | [Diamonds](https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8) | [James Godfrey](https://open.spotify.com/artist/1pW7nkXUFCEdCzVOzPKqlV), [Danielle Knoll](https://open.spotify.com/artist/4WORCXhH4FPPjU8P87Tj2u) | [Diamonds](https://open.spotify.com/album/6LiCWteZBny6uiTf6GfYM3) | 2:38 |
-| 96 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 |
-| 97 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 |
+| 96 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 |
+| 97 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
 | 98 | [Counting Stars](https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v) | [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Counting Stars](https://open.spotify.com/album/37pe9MY7jGryHnAep9PDBk) | 2:37 |
-| 99 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
+| 99 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk) | 2:22 |
 | 100 | [Want U To Myself](https://open.spotify.com/track/0FHKZ1sDMl3p51DP4jjwm6) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Want U To Myself](https://open.spotify.com/album/0XVr3BMAXyrJz2tRPcXxYH) | 2:40 |
 
-Snapshot ID: `MTEzNiw2MTRiYjVhYTA4ZTNlOGIyNjVkN2U2OWVkMzZiYWFkNjhmYTU1MzFi`
+Snapshot ID: `MTEzNyxkYTI2ZjhhZWUzYmZiZjM0MzI4ZDZmZThkNzQwMWM4NmJmMDI0YzU4`

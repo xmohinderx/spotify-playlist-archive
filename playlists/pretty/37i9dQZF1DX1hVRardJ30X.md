@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carlos Vives, Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,745 likes - 58 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,769 likes - 58 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 30 | [Esto Se Va A Descontrolar](https://open.spotify.com/track/5JJxVdS5tN3RGbCDjkXvvj) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Esto Se Va A Descontrolar](https://open.spotify.com/album/2OeM48pyZ2peAYu8Z4bL2B) | 2:15 |
 | 31 | [Un Desorden](https://open.spotify.com/track/04okck67PRCo6wD2kS1cLh) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Patron Rd](https://open.spotify.com/artist/4CtPLmkZiRHxlK0YpCaUdA) | [Un Desorden](https://open.spotify.com/album/24HgzUbNf0XFjG6JEptgq6) | 2:58 |
 | 32 | [Catalyna La O](https://open.spotify.com/track/536cu2qLwAvu71JRuyitNg) | [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw), [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz) | [Catalyna La O](https://open.spotify.com/album/7MPhFB2DA5PRB3vlsWf5Fb) | 2:12 |
-| 33 | [Guxxi](https://open.spotify.com/track/2XCqYrNtA5dZtP14r82mYK) | [Ballah](https://open.spotify.com/artist/6zbAKw9q6ymunp4AjySpL7), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Pardo](https://open.spotify.com/artist/1oM012tBHo8az57LFfGSpc) | [Guxxi](https://open.spotify.com/album/2oCEJLGwWEWT3g95I3UYQG) | 2:50 |
+| 33 | [Guxxi](https://open.spotify.com/track/2XCqYrNtA5dZtP14r82mYK) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Ballah](https://open.spotify.com/artist/6zbAKw9q6ymunp4AjySpL7), [Pardo](https://open.spotify.com/artist/1oM012tBHo8az57LFfGSpc) | [Guxxi](https://open.spotify.com/album/2oCEJLGwWEWT3g95I3UYQG) | 2:50 |
 | 34 | [Vpc](https://open.spotify.com/track/7LhQq6ZlM4LX78xlFYD1PM) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Bubblegum](https://open.spotify.com/album/0ZL0oydayDLXJgWaXgk0rR) | 3:23 |
 | 35 | [Hoy en Dia](https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Hoy en Dia](https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu) | 3:46 |
 | 36 | [La Muerte Me Llama \- Con Banda](https://open.spotify.com/track/2BbCrLfI8UnxOdJOntKc7j) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Banda La Peligrosa](https://open.spotify.com/artist/0sz3Q1xMAXkRqeqf7kDrVV) | [La Muerte Me Llama \(Con Banda\)](https://open.spotify.com/album/4J1SAbJ0mMt5oRigTZFIcd) | 3:02 |

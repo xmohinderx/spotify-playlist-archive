@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Camila Cabello, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,519 likes - 84 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,521 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

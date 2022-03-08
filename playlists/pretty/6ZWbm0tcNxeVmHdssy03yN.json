@@ -1,12 +1,12 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 30993,
+  "num_followers": 31023,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NDk1Myw4OTJjY2VkZTMxNDljOWE0OTE2OTY3ZGZjYmMwZjVhZmQ0M2VlMmJj",
+  "snapshot_id": "NDk1NSxmMTFiNjE5Mzk1ZDUwZmM1ZTQyYTYzNjEzZTYyNWQ4NTc0MDA3MzQ4",
   "tracks": [
     {
       "added_at": "2022-03-04 06:03:10",
@@ -87,6 +87,22 @@
       "duration_ms": 200954,
       "name": "Love Runs Out",
       "url": "https://open.spotify.com/track/5wZubIxbINLXXnvIK2loPs"
+    },
+    {
+      "added_at": "2022-03-07 18:23:37",
+      "album": {
+        "name": "cool water",
+        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
+      },
+      "artists": [
+        {
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "cool water",
+      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
     },
     {
       "added_at": "2022-03-04 06:03:10",

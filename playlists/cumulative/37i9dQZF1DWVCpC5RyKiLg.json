@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 188309,
       "name": "Amor Da Sua Cama",
       "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 313854,
       "name": "At\u00e9 Que Durou - Ao Vivo",
       "url": "https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 224181,
       "name": "At\u00e9 que enfim - Ao vivo",
       "url": "https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 204080,
       "name": "At\u00e9 Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/4ksSf8cL3VlUvQSkFcRHy3"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 201856,
       "name": "Com ou Sem Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 267533,
       "name": "Cuidado Cupido",
       "url": "https://open.spotify.com/track/19cDGnoySRRBms8x9C0ZsY"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 360269,
       "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
       "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 155588,
       "name": "Esses V\u00edcios",
       "url": "https://open.spotify.com/track/2InUVOBY515umeuwdQtsQ4"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 211173,
       "name": "Eu Era",
       "url": "https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 173666,
       "name": "Eu Ligo Pra Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/6lcUzde7peeHxraZ3Maf5k"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 233042,
       "name": "Eu Te Amo - Ao Vivo",
       "url": "https://open.spotify.com/track/1R38t8OwFftz2EzCwMogIJ"
@@ -888,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
+        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Infiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
+    },
+    {
+      "album": {
         "name": "Confraterniza\u00e7\u00e3o Fam\u00edlia Santana 3",
         "url": "https://open.spotify.com/album/4KGqlLeBhuz15oI7RX8waB"
       },
@@ -903,6 +921,24 @@
       "duration_ms": 195416,
       "name": "Inseguran\u00e7a",
       "url": "https://open.spotify.com/track/0Q3cVM06oCgB78Qu0RCuUW"
+    },
+    {
+      "album": {
+        "name": "Hits Para Namorar",
+        "url": "https://open.spotify.com/album/54jwx7wNnFOjaVn82mV3Rd"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Santiago",
+          "url": "https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "Jogado Na Rua",
+      "url": "https://open.spotify.com/track/09NdjJyx9HiLhGFd9YinIS"
     },
     {
       "album": {
@@ -939,6 +975,24 @@
       "duration_ms": 227413,
       "name": "Lancinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Largado As Tra\u00e7as - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/74gguwbBvfBTurNJUWFOsC"
     },
     {
       "album": {
@@ -1029,7 +1083,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 198769,
       "name": "Mal Acostumado",
       "url": "https://open.spotify.com/track/4o2PBBped448WOwkMAFRHy"
@@ -1083,7 +1137,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 243097,
       "name": "Melhor Eu Ir - Ao Vivo",
       "url": "https://open.spotify.com/track/2pbmSONpVrMl9OEetkL974"
@@ -1101,7 +1155,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 193669,
       "name": "Mentira - Ao Vivo",
       "url": "https://open.spotify.com/track/146Vb458Y5RbqEa0fYFPzm"
@@ -1180,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "Os Anjos Cantam",
+        "url": "https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167240,
+      "name": "Nocaute",
+      "url": "https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj"
+    },
+    {
+      "album": {
         "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
@@ -1253,6 +1325,24 @@
       "duration_ms": 174178,
       "name": "Para, Pensa e Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
+    },
+    {
+      "album": {
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184032,
+      "name": "Paredes - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK"
     },
     {
       "album": {
@@ -1362,6 +1452,24 @@
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 310717,
+      "name": "Pot-Pourri: Depois do Prazer / Quando a Gente Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tpvDlSeYtwsGAyGsZ35wC"
+    },
+    {
+      "album": {
+        "name": "Tardezinha 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 260913,
       "name": "Pot-Pourri: Essa Tal Liberdade / Me Leva Junto Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/3enb4Bhq4E8sczYzXmjhkY"
@@ -1379,7 +1487,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 233386,
       "name": "Pot-Pourri: Tempo de Aprender / T\u00f4 Te Filmando (Sorria) - Ao Vivo",
       "url": "https://open.spotify.com/track/7dY8hOEsXfkE6ALSU5VPgO"
@@ -1527,7 +1635,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 166672,
       "name": "Reprise - Ao Vivo",
       "url": "https://open.spotify.com/track/4C24fGqRUrz3TyVt4uku2Y"
@@ -1719,7 +1827,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 125674,
       "name": "S\u00f3 pro Meu Prazer - Ao Vivo",
       "url": "https://open.spotify.com/track/5L31XAxIqX2hiNyr8hYNNN"
@@ -1799,7 +1907,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 183073,
       "name": "Text\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3yOuQI8yjJaApfdo4hdkVW"
@@ -1817,7 +1925,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 175219,
       "name": "Tijol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
@@ -1926,6 +2034,28 @@
     },
     {
       "album": {
+        "name": "Deserto da Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/2feJXjSywZ2RGNAJAoJzGS"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220081,
+      "name": "Vai por Mim",
+      "url": "https://open.spotify.com/track/5DgTJpZB8OEqjAmfZZJQsE"
+    },
+    {
+      "album": {
         "name": "Livre (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/2lM6OIrHRmkhGQDRVycxjO"
       },
@@ -1937,7 +2067,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/08Sd5vVcIH3uKeAiaJdoYj"
@@ -1977,7 +2107,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 206253,
       "name": "Voa Beija-Flor - Ao Vivo",
       "url": "https://open.spotify.com/track/5CkCOlVxiYPzREq0PeCKAN"

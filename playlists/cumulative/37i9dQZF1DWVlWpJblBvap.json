@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 324280,
       "name": "Already Done",
       "url": "https://open.spotify.com/track/2bcjiEmggC5r06kuLuwGIm"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 225333,
       "name": "Fill This Place (Studio Version)",
       "url": "https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 318874,
       "name": "Fountain (I Am Good) - Live",
       "url": "https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 226173,
       "name": "Future",
       "url": "https://open.spotify.com/track/1z01NnUSANXoI9xABwxn1k"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 571345,
       "name": "Good & Loved (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/1uYMBmK0Z9nPUNsoOax3yV"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 411733,
       "name": "Here's My Heart - Live",
       "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 433346,
       "name": "I Belong - Live",
       "url": "https://open.spotify.com/track/27fs8NYZ76CkPeQWNhBjyn"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 266434,
       "name": "I Still Believe (Faithful Always)",
       "url": "https://open.spotify.com/track/5D7VjqVm0gE29TUWBz7Dv6"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 357404,
       "name": "Just The Cross",
       "url": "https://open.spotify.com/track/5PZ4RVcDgIwvBqZ5BfiXjm"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 205666,
       "name": "Lord, I Need You",
       "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 490000,
       "name": "New Wine - Live",
       "url": "https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h"
@@ -1550,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "The Heart Of Worship",
+        "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320600,
+      "name": "The Heart Of Worship",
+      "url": "https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j"
+    },
+    {
+      "album": {
         "name": "The Power of Your Name",
         "url": "https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb"
       },
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 236768,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/2LDslUaUIvhF0eJPLqKqzM"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 202213,
       "name": "You Speak",
       "url": "https://open.spotify.com/track/3Va8230Rdc5sr7CG5PVvg6"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 236093,
       "name": "YOUR NAME IS POWER",
       "url": "https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 308733,
       "name": "Your Waters",
       "url": "https://open.spotify.com/track/7EpnRr4uyl4eIPLVxhmBAu"

@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
 
-> Best Bollywood dance songs from last 10 years\. Cover\- Kriti Sanon
+> Best Bollywood dance songs from last 10 years\. Cover\- Alia Bhatt
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

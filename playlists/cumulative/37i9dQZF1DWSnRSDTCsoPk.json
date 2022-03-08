@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 233893,
       "name": "Back",
       "url": "https://open.spotify.com/track/0uAsZrUZNHLg0JrnrSWuej"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 163508,
       "name": "Bomb Bomb",
       "url": "https://open.spotify.com/track/2U6RSyXFnDVNYoD9iUgi09"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 271333,
       "name": "I Got A Boy",
       "url": "https://open.spotify.com/track/1w3NKvQH0sizDnL2G0keq4"
@@ -2347,7 +2347,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 212266,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL"
@@ -2543,7 +2543,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 226970,
       "name": "RHYTHM TA",
       "url": "https://open.spotify.com/track/5T7NN5LxcfMEudEbya2wcE"
@@ -3608,6 +3608,24 @@
     },
     {
       "album": {
+        "name": "New Chapter #1: The Chance of Love - The 8th Album",
+        "url": "https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "\uc6b4\uba85 The Chance of Love",
+      "url": "https://open.spotify.com/track/3XzxHvEomjJIKZcZqYfFut"
+    },
+    {
+      "album": {
         "name": "FLIGHT LOG : TURBULENCE",
         "url": "https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0"
       },
@@ -3619,7 +3637,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 193578,
       "name": "\ud558\ub4dc\uce90\ub9ac Hard Carry",
       "url": "https://open.spotify.com/track/1xzCUpXSMnAbckUXDwBTlW"

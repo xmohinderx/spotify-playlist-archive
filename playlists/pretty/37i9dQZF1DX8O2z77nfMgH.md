@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con Greeicy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,995 likes - 67 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,038 likes - 67 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

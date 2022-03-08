@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Sara Kays
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,257 likes - 217 songs - 11 hr 47 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,255 likes - 217 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -80,6 +80,32 @@
     },
     {
       "album": {
+        "name": "All About You (Retrospected)",
+        "url": "https://open.spotify.com/album/6HXmFuGO7eXPmkOtzUkQ9D"
+      },
+      "artists": [
+        {
+          "name": "Classified",
+          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
+        },
+        {
+          "name": "Breagh Isabel",
+          "url": "https://open.spotify.com/artist/5nm8xNDJvPX3ncbw3TSaXs"
+        },
+        {
+          "name": "Brett Matthews",
+          "url": "https://open.spotify.com/artist/1z6pylUZFNXlYe6rIDvRqZ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243909,
+      "name": "All About You (Retrospected)",
+      "url": "https://open.spotify.com/track/6XuoaKF9i1i2y2HfegB5yB"
+    },
+    {
+      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Hajaj.",
+  "description": "Global crossovers by/with Arab artists. Cover: Llunr.",
   "name": "Arab X",
   "published_playlist_ids": [
     "6fGVta71tWekmtXgUIs2Fr"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 244931,
       "name": "D4M",
       "url": "https://open.spotify.com/track/4jkP3gAU9o4ZcDDk4JRFdr"
@@ -1120,6 +1120,28 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK"
+      },
+      "artists": [
+        {
+          "name": "Malket",
+          "url": "https://open.spotify.com/artist/3Qv91VR5pS1PdDM6X5jDNx"
+        },
+        {
+          "name": "MMT",
+          "url": "https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232274,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh"
+    },
+    {
+      "album": {
         "name": "Is It On",
         "url": "https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW"
       },
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 199603,
       "name": "Like That",
       "url": "https://open.spotify.com/track/57ckc64pkdrinysXmErndL"
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 174000,
       "name": "Love on the Comedown",
       "url": "https://open.spotify.com/track/16b3BqYPz4JSXrzkMMt72C"
@@ -1539,7 +1561,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 205946,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0jVixX0ZFa2m9bhDbHoTXD"
@@ -2107,6 +2129,24 @@
       "duration_ms": 193388,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG"
+    },
+    {
+      "album": {
+        "name": "the world could end with you",
+        "url": "https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE"
+      },
+      "artists": [
+        {
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180722,
+      "name": "the world could end with you",
+      "url": "https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q"
     },
     {
       "album": {

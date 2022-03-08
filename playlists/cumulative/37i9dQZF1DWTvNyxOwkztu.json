@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "9 PM",
       "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 168607,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/56AuxQI50J898m8QTtHxQR"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 152164,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 216032,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 229830,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 161739,
       "name": "dustland",
       "url": "https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 437188,
       "name": "Forrest Glade",
       "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 170347,
       "name": "Healing",
       "url": "https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s"
@@ -1264,6 +1264,24 @@
     },
     {
       "album": {
+        "name": "Lilac Luster",
+        "url": "https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH"
+      },
+      "artists": [
+        {
+          "name": "wet n salty",
+          "url": "https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn"
+        }
+      ],
+      "date_added": "2022-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176891,
+      "name": "Lilac Luster",
+      "url": "https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh"
+    },
+    {
+      "album": {
         "name": "Looking for You",
         "url": "https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN"
       },
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 220954,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 221142,
       "name": "Motion",
       "url": "https://open.spotify.com/track/5eJ9Y5N3Lgedolcw6g1zJd"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 264449,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1FofRLPW08PcSxX9EEXFrI"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 132857,
       "name": "NiteGlow",
       "url": "https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 171137,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 245106,
       "name": "Suen\u0303o Lu\u0301cido",
       "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "Sun Road",
       "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"

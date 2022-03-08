@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSKB2Pc3PY.md) - [plain]
 
 > Learn German with a collection of audio courses that will take you from beginner to advanced conversations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,090 likes - 409 songs - 1 day 18 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,087 likes - 409 songs - 1 day 18 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

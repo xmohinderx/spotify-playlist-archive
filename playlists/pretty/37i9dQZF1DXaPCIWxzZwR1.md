@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > just long enough
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,905 likes - 107 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,688 likes - 107 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

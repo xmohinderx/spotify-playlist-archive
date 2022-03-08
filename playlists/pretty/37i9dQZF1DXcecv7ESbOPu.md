@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,630 likes - 115 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,631 likes - 115 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [So Sorry I Could Die](https://open.spotify.com/track/76KQa2I8SE2vrlyW8Nx2jf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [So Sorry I Could Die](https://open.spotify.com/album/52xmu9yFpB30ZZJi2cuYcL) | 4:21 |
 | 115 | [Race to the Sea](https://open.spotify.com/track/5xsF9hH7BTnX6liiWS8Dfb) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:47 |
 
-Snapshot ID: `MTY0NjM4MTgwOSwwMDAwMDM2ODAwMDAwMTdmNTQwMGJmM2UwMDAwMDE3ZjRhMTFjMWJi`
+Snapshot ID: `MTY0NjY1NDI0NywwMDAwMDM2YTAwMDAwMTdmNjQzZGQyMzcwMDAwMDE3ZjRhMTFjMWJi`

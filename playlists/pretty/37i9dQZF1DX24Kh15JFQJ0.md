@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes.<br/>Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,684 likes - 109 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,722 likes - 109 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

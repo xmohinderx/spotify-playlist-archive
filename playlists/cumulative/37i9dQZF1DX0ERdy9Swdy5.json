@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 279186,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 251351,
       "name": "Arrepentida",
       "url": "https://open.spotify.com/track/0f6VT4JZxNc9DE2kUtqlNw"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 309253,
       "name": "Cinco Noches",
       "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 304893,
       "name": "Ella se Hizo Deseo",
       "url": "https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
@@ -585,6 +585,24 @@
       "duration_ms": 282173,
       "name": "Hasta El Sol De Hoy",
       "url": "https://open.spotify.com/track/1ruoF0rzUcG2UZMaeSacRj"
+    },
+    {
+      "album": {
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305066,
+      "name": "Hasta Que Te Conoci",
+      "url": "https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH"
     },
     {
       "album": {
@@ -801,7 +819,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 284053,
       "name": "Luna Negra",
       "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 298600,
       "name": "Pagina Del Amor",
       "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 293560,
       "name": "Se Me Sigue Olvidando",
       "url": "https://open.spotify.com/track/2wHtuxkW4dFAlwGkbnwa7l"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 319165,
       "name": "Si Te Marchas (Voy a Llorar)",
       "url": "https://open.spotify.com/track/68l1KAnUNML8GMTAuQu0X6"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 267693,
       "name": "T\u00f9 No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 271726,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp"

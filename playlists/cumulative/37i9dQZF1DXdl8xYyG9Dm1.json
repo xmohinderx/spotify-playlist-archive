@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=SSgpy2JnRyujmu9ty_3Hzg\"> Zoocci Coke Dope  </a>  ",
+  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E?si=uEUsY20uRKueUm-r8PBApQ\"> Faith K </a>  ",
   "name": "No Wahala",
   "published_playlist_ids": [
     "6lFDRmAzLffN6r39zEBvaL"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 227500,
       "name": "Africana (feat. Victoria Kimani)",
       "url": "https://open.spotify.com/track/7v7cJqKreMEQOZlarcBAU8"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 215700,
       "name": "Alakori",
       "url": "https://open.spotify.com/track/3hr4lwTXMCFKIH5KOSoXQ5"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 207065,
       "name": "ASTRONAUTE",
       "url": "https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 265142,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/0IHFTzh4RsknfejGkeMeWy"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 204137,
       "name": "K:HOVA",
       "url": "https://open.spotify.com/track/3mmOgsd9IPJHkPnpWqW7zE"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 170385,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/5JwjfDu3lSEnetsqeGbwFf"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 199171,
       "name": "Link Up",
       "url": "https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 186173,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/2zmtVdWZ37PZEbN8lx5cou"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 192000,
       "name": "PLAYBACK",
       "url": "https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 266501,
       "name": "Sore - Remix",
       "url": "https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6"
@@ -1401,6 +1401,28 @@
       "duration_ms": 201649,
       "name": "Take My Losses",
       "url": "https://open.spotify.com/track/2rdOsy3zOycov3yZb8y733"
+    },
+    {
+      "album": {
+        "name": "Nangena",
+        "url": "https://open.spotify.com/album/7hWvhVZIutFixBf5g62C4f"
+      },
+      "artists": [
+        {
+          "name": "Faith K",
+          "url": "https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E"
+        },
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "That Chick (feat. Money Badoo)",
+      "url": "https://open.spotify.com/track/5w6n5yb6UPcxz20naEYHlN"
     },
     {
       "album": {
@@ -1647,7 +1669,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 217145,
       "name": "Yatch",
       "url": "https://open.spotify.com/track/0Fzu7jMb9pqjMf94sd2Iqn"
@@ -1699,7 +1721,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 290602,
       "name": "Zonke",
       "url": "https://open.spotify.com/track/1S7R8nkRQmopIKJs0h7fTL"
@@ -1717,7 +1739,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 263576,
       "name": "\u03a3. MOROSE",
       "url": "https://open.spotify.com/track/0fukO3WYYUHaXOrvEohpEG"

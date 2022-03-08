@@ -63,7 +63,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 232760,
       "name": "All My Hope",
       "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 235733,
       "name": "Battles",
       "url": "https://open.spotify.com/track/14bqFNVPZc9Di315NcFVXy"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 212466,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 259653,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 217799,
       "name": "Rise",
       "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 196067,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0G53u1G1uEAexqs61asVRf"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 185946,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/10EsmmPLFJt1Ubof7uXegf"
@@ -1242,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "That Was Then, This Is Now",
+        "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197880,
+      "name": "That Was Then, This Is Now",
+      "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
       },
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 191013,
       "name": "The Comeback",
       "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"

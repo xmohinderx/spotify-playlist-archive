@@ -1,28 +1,60 @@
 {
   "description": "Electronic Trap House with Arab spices.",
-  "num_followers": 156198,
+  "num_followers": 156297,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjYxNDQ5MywwMDAwMDAwMDlhYjg4OGI2NjlmZTJmOGI3N2U2ZTJhOGJkNWUyMTVj",
+  "snapshot_id": "MTY0NjcwMDg0OSwwMDAwMDAwMDU2YWVkNWMzY2RkMTYyYzgzZGI0MGNlMDkxZWM3NjY1",
   "tracks": [
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S"
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/0lx0Z2R9v6IAeEkn41YXig"
       },
       "artists": [
         {
-          "name": "BoyPanda",
-          "url": "https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN"
+          "name": "MVGMVR",
+          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4"
+      "duration_ms": 176491,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Morocco",
+        "url": "https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ"
+      },
+      "artists": [
+        {
+          "name": "Cris Taylor",
+          "url": "https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o"
+        }
+      ],
+      "duration_ms": 163248,
+      "name": "Morocco",
+      "url": "https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH"
+      },
+      "artists": [
+        {
+          "name": "NOIXES",
+          "url": "https://open.spotify.com/artist/4YeITwoqeIks45gELm488B"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -47,34 +79,50 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Morocco",
-        "url": "https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ"
+        "name": "End",
+        "url": "https://open.spotify.com/album/6fcDKqZrJxK5OnJwPPnMJj"
       },
       "artists": [
         {
-          "name": "Cris Taylor",
-          "url": "https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o"
+          "name": "YZKN",
+          "url": "https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy"
         }
       ],
-      "duration_ms": 163248,
-      "name": "Morocco",
-      "url": "https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l"
+      "duration_ms": 184634,
+      "name": "End",
+      "url": "https://open.spotify.com/track/78NWG8vFrAehpsCJr1SLvq"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Khal\u012bfah \u062e\u0644\u064a\u0641\u0629",
-        "url": "https://open.spotify.com/album/69U97qF3lUP5SUFSwzkbIV"
+        "name": "Izdaja",
+        "url": "https://open.spotify.com/album/4JHBVlegmR6YPQxnGKuSTA"
       },
       "artists": [
         {
-          "name": "Gillionaire",
-          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
+          "name": "NIN9",
+          "url": "https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO"
         }
       ],
-      "duration_ms": 232750,
-      "name": "Khal\u012bfah \u062e\u0644\u064a\u0641\u0629",
-      "url": "https://open.spotify.com/track/6Tug6cAjUEfmKJvvrJcauP"
+      "duration_ms": 176535,
+      "name": "Izdaja",
+      "url": "https://open.spotify.com/track/2oUAGVmjS4FMaHKxa7KQDh"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S"
+      },
+      "artists": [
+        {
+          "name": "BoyPanda",
+          "url": "https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -95,54 +143,122 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Drop It Again",
-        "url": "https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q"
+        "name": "Duhan",
+        "url": "https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc"
       },
       "artists": [
         {
-          "name": "YZKN",
-          "url": "https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy"
+          "name": "Mazlum Uruc",
+          "url": "https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av"
+        },
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
         }
       ],
-      "duration_ms": 162821,
-      "name": "Drop It Again",
-      "url": "https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW"
+      "duration_ms": 176920,
+      "name": "Duhan",
+      "url": "https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Raqsni",
-        "url": "https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde"
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4egsetbw3T8yB4eT39kHkY"
+      },
+      "artists": [
+        {
+          "name": "Nextro",
+          "url": "https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq"
+        },
+        {
+          "name": "Wizard",
+          "url": "https://open.spotify.com/artist/0tCxvv05YgEzpyn3uIA7iM"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Royal",
+      "url": "https://open.spotify.com/track/4M92m8y6WXm0xHzWBY3tJJ"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Desert Lord",
+        "url": "https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK"
+      },
+      "artists": [
+        {
+          "name": "AxLi",
+          "url": "https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56"
+        }
+      ],
+      "duration_ms": 125400,
+      "name": "Desert Lord",
+      "url": "https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Khal\u012bfah \u062e\u0644\u064a\u0641\u0629",
+        "url": "https://open.spotify.com/album/69U97qF3lUP5SUFSwzkbIV"
+      },
+      "artists": [
+        {
+          "name": "Gillionaire",
+          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
+        }
+      ],
+      "duration_ms": 232750,
+      "name": "Khal\u012bfah \u062e\u0644\u064a\u0641\u0629",
+      "url": "https://open.spotify.com/track/6Tug6cAjUEfmKJvvrJcauP"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Moseqah",
+        "url": "https://open.spotify.com/album/52xKCcZzaZZdgRuuHmaVlj"
       },
       "artists": [
         {
           "name": "El-M3allem",
           "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
-        },
-        {
-          "name": "The Anka Music",
-          "url": "https://open.spotify.com/artist/5YXi3lEh6AvClD3yzgsRdR"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Raqsni",
-      "url": "https://open.spotify.com/track/0sVmHjhJDCR8BCh2dwWRjb"
+      "duration_ms": 236657,
+      "name": "El-M3allem - Moseqah",
+      "url": "https://open.spotify.com/track/6G56HoNH8vgM5d0M8jmtSH"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Katyar",
-        "url": "https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ"
+        "name": "Raabta",
+        "url": "https://open.spotify.com/album/3V1Oc07lftQBCVzijCE01A"
       },
       "artists": [
         {
-          "name": "MVGMVR",
-          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
+          "name": "CryJaxx",
+          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
         }
       ],
-      "duration_ms": 224437,
-      "name": "Katyar",
-      "url": "https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts"
+      "duration_ms": 183312,
+      "name": "Raabta",
+      "url": "https://open.spotify.com/track/2IEzElQ5KAtXDoJAGixG2R"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW"
+      },
+      "artists": [
+        {
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -163,38 +279,6 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/396e5sssz75hqSyu6lg2BH"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 229098,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/03Rac7rITePpSgheEsFoMz"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Arabic Trap, Pt. 2",
-        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
-      },
-      "artists": [
-        {
-          "name": "VFM Style",
-          "url": "https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Maqlooba",
-      "url": "https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
         "name": "Dulce",
         "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
       },
@@ -211,34 +295,34 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Manama",
-        "url": "https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm"
+        "name": "La C\u00e2lin",
+        "url": "https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH"
       },
       "artists": [
         {
-          "name": "URUS Squad",
-          "url": "https://open.spotify.com/artist/2bRnKEAk11EOei6FppGcto"
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
         }
       ],
-      "duration_ms": 173187,
-      "name": "Manama",
-      "url": "https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x"
+      "duration_ms": 172008,
+      "name": "La C\u00e2lin",
+      "url": "https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "GHADAB",
-        "url": "https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4XLJx1Q55pQ80Pp0krcLlb"
       },
       "artists": [
         {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+          "name": "Nextro",
+          "url": "https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq"
         }
       ],
-      "duration_ms": 151158,
-      "name": "GHADAB",
-      "url": "https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU"
+      "duration_ms": 187248,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/7mjsDtb6oMFXi6IL069UED"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -259,6 +343,154 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
+        "name": "Nouba",
+        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
+      },
+      "artists": [
+        {
+          "name": "RAMSSEY",
+          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
+        }
+      ],
+      "duration_ms": 178187,
+      "name": "Nouba",
+      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Dam",
+        "url": "https://open.spotify.com/album/5I15j6rtNdviAPqcTQ5SJn"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Dam",
+      "url": "https://open.spotify.com/track/0ptmm2MFQXuGjWTix8yx9K"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "GHADAB",
+        "url": "https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG"
+      },
+      "artists": [
+        {
+          "name": "El-M3allem",
+          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+        }
+      ],
+      "duration_ms": 151158,
+      "name": "GHADAB",
+      "url": "https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Arab Trap - EP.1",
+        "url": "https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC"
+      },
+      "artists": [
+        {
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        }
+      ],
+      "duration_ms": 188665,
+      "name": "Enta",
+      "url": "https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Sargon",
+        "url": "https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl"
+      },
+      "artists": [
+        {
+          "name": "AxLi",
+          "url": "https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Sargon",
+      "url": "https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Manama",
+        "url": "https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm"
+      },
+      "artists": [
+        {
+          "name": "URUS Squad",
+          "url": "https://open.spotify.com/artist/2bRnKEAk11EOei6FppGcto"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Manama",
+      "url": "https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Outlaws",
+        "url": "https://open.spotify.com/album/3VqqDh5hse1mGK6Vi7HMxV"
+      },
+      "artists": [
+        {
+          "name": "Adro",
+          "url": "https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN"
+        },
+        {
+          "name": "SVRRIC",
+          "url": "https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E"
+        }
+      ],
+      "duration_ms": 180004,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Omri",
+        "url": "https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL"
+      },
+      "artists": [
+        {
+          "name": "FEARSTbeats",
+          "url": "https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w"
+        }
+      ],
+      "duration_ms": 196585,
+      "name": "Omri",
+      "url": "https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW"
+      },
+      "artists": [
+        {
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
+        }
+      ],
+      "duration_ms": 170197,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/4z1b97XrbtSt3iz5qgwBfJ"
       },
@@ -271,22 +503,6 @@
       "duration_ms": 245721,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2R2H8r2X1MCJFvvLx6DYZy"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Kyojin",
-        "url": "https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq"
-      },
-      "artists": [
-        {
-          "name": "MVGMVR",
-          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Kyojin",
-      "url": "https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -315,88 +531,28 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6TfsBtepltkzcQIKSSkXnF"
       },
       "artists": [
         {
-          "name": "NOIXES",
-          "url": "https://open.spotify.com/artist/4YeITwoqeIks45gELm488B"
+          "name": "Onur Ormen",
+          "url": "https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL"
+        },
+        {
+          "name": "SVRRIC",
+          "url": "https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B"
+      "duration_ms": 137124,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/06VL0LPGJodM9Kq7j2mpcu"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Dam",
-        "url": "https://open.spotify.com/album/5I15j6rtNdviAPqcTQ5SJn"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Dam",
-      "url": "https://open.spotify.com/track/0ptmm2MFQXuGjWTix8yx9K"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "La C\u00e2lin",
-        "url": "https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        }
-      ],
-      "duration_ms": 172008,
-      "name": "La C\u00e2lin",
-      "url": "https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Ankh",
-        "url": "https://open.spotify.com/album/6Sz6N6aIGSh7R4pGfmVpD3"
-      },
-      "artists": [
-        {
-          "name": "Gagexa",
-          "url": "https://open.spotify.com/artist/5voQQxmOq6cYSOmXBHVg1y"
-        }
-      ],
-      "duration_ms": 200056,
-      "name": "Ankh",
-      "url": "https://open.spotify.com/track/4qg5zuCvEWTeOb3ON0qLuc"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/0lx0Z2R9v6IAeEkn41YXig"
+        "name": "Katyar",
+        "url": "https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ"
       },
       "artists": [
         {
@@ -404,25 +560,29 @@
           "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
         }
       ],
-      "duration_ms": 176491,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh"
+      "duration_ms": 224437,
+      "name": "Katyar",
+      "url": "https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Illumine",
-        "url": "https://open.spotify.com/album/2eLdRmXRzyfdL2oXIT0qNH"
+        "name": "Full Focus (Ahmed Helmy Remix)",
+        "url": "https://open.spotify.com/album/2ShVJZSHGhDez4kiR5cqHa"
       },
       "artists": [
         {
-          "name": "Darko De Jan",
-          "url": "https://open.spotify.com/artist/4JMknrStbwkcRZavaIEjrA"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
         }
       ],
-      "duration_ms": 409817,
-      "name": "Illumine - Original Mix",
-      "url": "https://open.spotify.com/track/3HvRFELeWQ5ib6G5w9wvJi"
+      "duration_ms": 195490,
+      "name": "Full Focus - Ahmed Helmy Remix",
+      "url": "https://open.spotify.com/track/0muZu4qXeGPTCsSw9Hglnc"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -443,58 +603,98 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Duhan",
-        "url": "https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc"
+        "name": "Marrakech",
+        "url": "https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv"
       },
       "artists": [
         {
-          "name": "Mazlum Uruc",
-          "url": "https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av"
-        },
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+          "name": "T\u00fcrk\u00fcm",
+          "url": "https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY"
         }
       ],
-      "duration_ms": 176920,
-      "name": "Duhan",
-      "url": "https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb"
+      "duration_ms": 140571,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Arab Trap - EP.1",
-        "url": "https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC"
+        "name": "Ankh",
+        "url": "https://open.spotify.com/album/6Sz6N6aIGSh7R4pGfmVpD3"
       },
       "artists": [
         {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+          "name": "Gagexa",
+          "url": "https://open.spotify.com/artist/5voQQxmOq6cYSOmXBHVg1y"
         }
       ],
-      "duration_ms": 188665,
-      "name": "Enta",
-      "url": "https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi"
+      "duration_ms": 200056,
+      "name": "Ankh",
+      "url": "https://open.spotify.com/track/4qg5zuCvEWTeOb3ON0qLuc"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "INVASION",
-        "url": "https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U"
       },
       "artists": [
         {
-          "name": "Dj Khalid Music",
-          "url": "https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt"
-        },
-        {
-          "name": "Hassan Hajila",
-          "url": "https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54"
+          "name": "Naffar",
+          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
         }
       ],
-      "duration_ms": 213062,
-      "name": "INVASION",
-      "url": "https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh"
+      "duration_ms": 185600,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Mazikah",
+        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
+      },
+      "artists": [
+        {
+          "name": "El-M3allem",
+          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "Mazikah",
+      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Drop It Again",
+        "url": "https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q"
+      },
+      "artists": [
+        {
+          "name": "YZKN",
+          "url": "https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy"
+        }
+      ],
+      "duration_ms": 162821,
+      "name": "Drop It Again",
+      "url": "https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Kyojin",
+        "url": "https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq"
+      },
+      "artists": [
+        {
+          "name": "MVGMVR",
+          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Kyojin",
+      "url": "https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -519,54 +719,54 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/0IbRugL7qPDVyD2AmWNhmk"
+        "name": "Arab Trap: Made in Egypt",
+        "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
       },
       "artists": [
         {
-          "name": "Mylky",
-          "url": "https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2"
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        }
+      ],
+      "duration_ms": 154711,
+      "name": "Arab Trap: Made in Egypt",
+      "url": "https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Arabic Trap, Pt. 2",
+        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
+      },
+      "artists": [
+        {
+          "name": "Cricced",
+          "url": "https://open.spotify.com/artist/535cving7nSQvOkrzJSKFy"
+        }
+      ],
+      "duration_ms": 156995,
+      "name": "Qarabag (Remix)",
+      "url": "https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Get It Poppin'",
+        "url": "https://open.spotify.com/album/0sZMAjVIVLwP8sg5ptuh81"
+      },
+      "artists": [
+        {
+          "name": "Costel Van Dein",
+          "url": "https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF"
         },
         {
-          "name": "MOHA",
-          "url": "https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK"
+          "name": "Vaigandt",
+          "url": "https://open.spotify.com/artist/2Yg9H6o3ge1uOiq3o4xLRk"
         }
       ],
-      "duration_ms": 222517,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/1yRyJyB90a0YiaogagFXfx"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/6fcDKqZrJxK5OnJwPPnMJj"
-      },
-      "artists": [
-        {
-          "name": "YZKN",
-          "url": "https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "End",
-      "url": "https://open.spotify.com/track/78NWG8vFrAehpsCJr1SLvq"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Arabic Trap, Pt. 3",
-        "url": "https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v"
-      },
-      "artists": [
-        {
-          "name": "FG",
-          "url": "https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F"
-        }
-      ],
-      "duration_ms": 185225,
-      "name": "\u0130z",
-      "url": "https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9"
+      "duration_ms": 217142,
+      "name": "Get It Poppin - Original Mix",
+      "url": "https://open.spotify.com/track/0slgFvDaJE9xxF0IXQoe81"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -591,124 +791,28 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Omri",
-        "url": "https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL"
-      },
-      "artists": [
-        {
-          "name": "FEARSTbeats",
-          "url": "https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w"
-        }
-      ],
-      "duration_ms": 196585,
-      "name": "Omri",
-      "url": "https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Desert Lord",
-        "url": "https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK"
-      },
-      "artists": [
-        {
-          "name": "AxLi",
-          "url": "https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56"
-        }
-      ],
-      "duration_ms": 125400,
-      "name": "Desert Lord",
-      "url": "https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW"
-      },
-      "artists": [
-        {
-          "name": "Naffar",
-          "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
-        }
-      ],
-      "duration_ms": 170197,
-      "name": "Fury",
-      "url": "https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Nouba",
-        "url": "https://open.spotify.com/album/4rwwa6ZVK3K8MuGbopfXi7"
-      },
-      "artists": [
-        {
-          "name": "RAMSSEY",
-          "url": "https://open.spotify.com/artist/7etLZ7TIK2RgDuArlZfCRk"
-        }
-      ],
-      "duration_ms": 178187,
-      "name": "Nouba",
-      "url": "https://open.spotify.com/track/1mlJgASSQPfbhryiYlgbTg"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Arabic Trap, Pt. 2",
-        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
-      },
-      "artists": [
-        {
-          "name": "Cricced",
-          "url": "https://open.spotify.com/artist/535cving7nSQvOkrzJSKFy"
-        }
-      ],
-      "duration_ms": 156995,
-      "name": "Qarabag (Remix)",
-      "url": "https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Moseqah",
-        "url": "https://open.spotify.com/album/52xKCcZzaZZdgRuuHmaVlj"
+        "name": "Raqsni",
+        "url": "https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde"
       },
       "artists": [
         {
           "name": "El-M3allem",
           "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
-        }
-      ],
-      "duration_ms": 236657,
-      "name": "El-M3allem - Moseqah",
-      "url": "https://open.spotify.com/track/6G56HoNH8vgM5d0M8jmtSH"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6TfsBtepltkzcQIKSSkXnF"
-      },
-      "artists": [
-        {
-          "name": "Onur Ormen",
-          "url": "https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL"
         },
         {
-          "name": "SVRRIC",
-          "url": "https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E"
+          "name": "The Anka Music",
+          "url": "https://open.spotify.com/artist/5YXi3lEh6AvClD3yzgsRdR"
         }
       ],
-      "duration_ms": 137124,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/06VL0LPGJodM9Kq7j2mpcu"
+      "duration_ms": 154666,
+      "name": "Raqsni",
+      "url": "https://open.spotify.com/track/0sVmHjhJDCR8BCh2dwWRjb"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/396e5sssz75hqSyu6lg2BH"
       },
       "artists": [
         {
@@ -716,105 +820,9 @@
           "url": "https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/4XLJx1Q55pQ80Pp0krcLlb"
-      },
-      "artists": [
-        {
-          "name": "Nextro",
-          "url": "https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq"
-        }
-      ],
-      "duration_ms": 187248,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/7mjsDtb6oMFXi6IL069UED"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
-        "url": "https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I"
-      },
-      "artists": [
-        {
-          "name": "Gillionaire",
-          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
-        }
-      ],
-      "duration_ms": 139043,
-      "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
-      "url": "https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Izdaja",
-        "url": "https://open.spotify.com/album/4JHBVlegmR6YPQxnGKuSTA"
-      },
-      "artists": [
-        {
-          "name": "NIN9",
-          "url": "https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO"
-        }
-      ],
-      "duration_ms": 176535,
-      "name": "Izdaja",
-      "url": "https://open.spotify.com/track/2oUAGVmjS4FMaHKxa7KQDh"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Arab Trap: Made in Egypt",
-        "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
-      },
-      "artists": [
-        {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
-        }
-      ],
-      "duration_ms": 154711,
-      "name": "Arab Trap: Made in Egypt",
-      "url": "https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "In Peace",
-        "url": "https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p"
-      },
-      "artists": [
-        {
-          "name": "Dav the Ninja",
-          "url": "https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Tribe",
-      "url": "https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "ALMAZAT",
-        "url": "https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ"
-      },
-      "artists": [
-        {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
-        }
-      ],
-      "duration_ms": 188722,
-      "name": "ALMAZAT",
-      "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
+      "duration_ms": 229098,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/03Rac7rITePpSgheEsFoMz"
     },
     {
       "added_at": "2021-11-09 13:53:10",
@@ -835,110 +843,114 @@
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "To Syria, With Love (Remixes)",
-        "url": "https://open.spotify.com/album/62vdZUBIHbEDWjphdWj0og"
+        "name": "Tomb (feat. Rasha Kamal)",
+        "url": "https://open.spotify.com/album/4CxRw7HbgNHvzU3aomYs7J"
       },
       "artists": [
         {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+          "name": "Adrinaline",
+          "url": "https://open.spotify.com/artist/3v3DkyxS6vk3Je2Uk1unJn"
         },
         {
-          "name": "Bad Royale",
-          "url": "https://open.spotify.com/artist/7kHe4uFK1KQFqMRP7td4mS"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Ya Bnayya - Bad Royale Remix",
-      "url": "https://open.spotify.com/track/54w6HSR0vBATL3XLN6KW7K"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Marrakech",
-        "url": "https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv"
-      },
-      "artists": [
-        {
-          "name": "T\u00fcrk\u00fcm",
-          "url": "https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Arab Trap 2 / Habibi",
-        "url": "https://open.spotify.com/album/2lItbZXFxyql2Y2brBCiba"
-      },
-      "artists": [
-        {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Arab Trap 2 / Habibi",
-      "url": "https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v"
-    },
-    {
-      "added_at": "2021-11-09 13:53:10",
-      "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4egsetbw3T8yB4eT39kHkY"
-      },
-      "artists": [
-        {
-          "name": "Nextro",
-          "url": "https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq"
+          "name": "Fady Haroun",
+          "url": "https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV"
         },
         {
-          "name": "Wizard",
-          "url": "https://open.spotify.com/artist/0tCxvv05YgEzpyn3uIA7iM"
+          "name": "Rasha Kamal",
+          "url": "https://open.spotify.com/artist/5iLDAAxXFGVIrUO0l77i8X"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Royal",
-      "url": "https://open.spotify.com/track/4M92m8y6WXm0xHzWBY3tJJ"
+      "duration_ms": 177293,
+      "name": "Tomb (feat. Rasha Kamal)",
+      "url": "https://open.spotify.com/track/4Ilhu67UnrkeG5gtGytsij"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Mazikah",
-        "url": "https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ"
       },
       "artists": [
         {
-          "name": "El-M3allem",
-          "url": "https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW"
+          "name": "Ahmed Romel",
+          "url": "https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs"
         }
       ],
-      "duration_ms": 213956,
-      "name": "Mazikah",
-      "url": "https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn"
+      "duration_ms": 212307,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV"
     },
     {
       "added_at": "2021-11-09 13:53:10",
       "album": {
-        "name": "Outlaws",
-        "url": "https://open.spotify.com/album/3VqqDh5hse1mGK6Vi7HMxV"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0IbRugL7qPDVyD2AmWNhmk"
       },
       "artists": [
         {
-          "name": "Adro",
-          "url": "https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN"
+          "name": "Mylky",
+          "url": "https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2"
         },
         {
-          "name": "SVRRIC",
-          "url": "https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E"
+          "name": "MOHA",
+          "url": "https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK"
         }
       ],
-      "duration_ms": 180004,
-      "name": "Outlaws",
-      "url": "https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI"
+      "duration_ms": 222517,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/1yRyJyB90a0YiaogagFXfx"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
+        "url": "https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I"
+      },
+      "artists": [
+        {
+          "name": "Gillionaire",
+          "url": "https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty"
+        }
+      ],
+      "duration_ms": 139043,
+      "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
+      "url": "https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "In Peace",
+        "url": "https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p"
+      },
+      "artists": [
+        {
+          "name": "Dav the Ninja",
+          "url": "https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Tribe",
+      "url": "https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX"
+    },
+    {
+      "added_at": "2021-11-09 13:53:10",
+      "album": {
+        "name": "INVASION",
+        "url": "https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj"
+      },
+      "artists": [
+        {
+          "name": "Dj Khalid Music",
+          "url": "https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt"
+        },
+        {
+          "name": "Hassan Hajila",
+          "url": "https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54"
+        }
+      ],
+      "duration_ms": 213062,
+      "name": "INVASION",
+      "url": "https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh"
     }
   ],
   "unique_name": "Arabic Trap",

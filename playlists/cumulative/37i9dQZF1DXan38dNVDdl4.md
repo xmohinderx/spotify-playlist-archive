@@ -2,7 +2,7 @@
 
 ### [Dancehall Official](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
-> The best in new & current Dancehall\. Cover: Mavado
+> The best in new & current Dancehall\. Cover: Koffee
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Professional Love](https://open.spotify.com/track/115Lty8K9kr2T6lg0I0sRx) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Professional Love](https://open.spotify.com/album/5kYbwdFPFBSCw2mCqrnHkS) | 2:51 | 2021-12-20 |  |
 | [Promise](https://open.spotify.com/track/40w9HRXfnkLTDLGcX8gNDp) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/7DAL1tGwj7NiK4u5hNZYsu) | 3:39 | 2021-12-20 |  |
 | [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 | 2021-12-20 |  |
+| [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-03-07 |  |
 | [Racketeer](https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Racketeer](https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9) | 2:39 | 2021-12-20 | 2022-03-03 |
 | [Rate Who Rate You](https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Rate Who Rate You](https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU) | 3:36 | 2021-12-20 |  |
 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2021-12-20 |  |
@@ -87,7 +88,7 @@
 | [Ultimate](https://open.spotify.com/track/2nNSQOyX7zG1EceT9An0xH) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 2:59 | 2021-12-20 |  |
 | [Verified Choppa 2](https://open.spotify.com/track/7HrHYsLaa8JHY9S7EETKfb) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/3kdeQrwrOoiN3UGtB5B9gp) | 2:18 | 2022-03-02 |  |
 | [Weh mi Duh](https://open.spotify.com/track/2jGf0v0szuFhG3sxxdi7gF) | [$wizzz](https://open.spotify.com/artist/2O6ph9RDudyvAR4Gj6VDoE) | [Weh mi Duh](https://open.spotify.com/album/64jNld1WXafJSnaAvRCaff) | 2:43 | 2022-03-02 |  |
-| [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-12-20 |  |
+| [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-12-20 | 2022-03-08 |
 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 | 2022-03-02 |  |
 | [Wine All Day](https://open.spotify.com/track/444Yzj8LjfENmK7x0XEfP5) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Gyalentine's](https://open.spotify.com/album/0r8V36dzV0odZrz40lbUDL) | 3:29 | 2021-12-20 |  |
 | [Wollan](https://open.spotify.com/track/6kMHnJZ8QgRR0NV4LmdNpA) | [Bermuda Music](https://open.spotify.com/artist/4nZPsE22Q1maa358GzSLZD), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Wollan](https://open.spotify.com/album/0GIweXN9DpKbSos21PvMfs) | 3:34 | 2021-12-20 | 2022-03-03 |

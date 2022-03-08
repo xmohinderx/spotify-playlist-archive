@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Gerardo Ortiz en portada. ",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Enigma Norte\u00f1o en portada. ",
   "name": "Corridos Perrones",
   "published_playlist_ids": [
     "7MKeGtBxLUek4q2wQW5uWo"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 245376,
       "name": "El Comerciante",
       "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
@@ -968,6 +968,24 @@
     },
     {
       "album": {
+        "name": "La Super Del Barril",
+        "url": "https://open.spotify.com/album/1aVMdFlUsGOFhZ4rrT2uV3"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "La Super Del Barril",
+      "url": "https://open.spotify.com/track/660F2s421In55amf3bkFMU"
+    },
+    {
+      "album": {
         "name": "Lo Que Les Falta",
         "url": "https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP"
       },
@@ -1125,6 +1143,24 @@
       "duration_ms": 153086,
       "name": "Mis Ra\u00edces",
       "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+    },
+    {
+      "album": {
+        "name": "Operativo Guasanga (En Vivo)",
+        "url": "https://open.spotify.com/album/1lDEsLv28JwXZvqsvN4rKy"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195569,
+      "name": "Operativo Guasanga - En Vivo",
+      "url": "https://open.spotify.com/track/5P6SAHuQ70HBnIev2OdKSW"
     },
     {
       "album": {
@@ -1347,7 +1383,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"

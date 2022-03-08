@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 167896,
       "name": "21st Century Vampire",
       "url": "https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 164032,
       "name": "24 Hr Drive-Thru",
       "url": "https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 177626,
       "name": "Candy Coated Lie$",
       "url": "https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 159636,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 155672,
       "name": "Don't Assume What You Don't Know",
       "url": "https://open.spotify.com/track/5ir1QKCH1OamaVRa4fN9wt"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 146451,
       "name": "GO PHUCK URSELF",
       "url": "https://open.spotify.com/track/21Q89OzFYAcYSNurWhz3Rk"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 155680,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 215644,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 176280,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0dZr5sBxsXdi2PgdtchNnJ"
@@ -1252,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "LOUDMOUTH",
+        "url": "https://open.spotify.com/album/6YIMA2QvnMepRD7FwKsygm"
+      },
+      "artists": [
+        {
+          "name": "VIAL",
+          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157452,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/6GlrfpSsWOdjeD9K1ziFzi"
+    },
+    {
+      "album": {
         "name": "Grow Up",
         "url": "https://open.spotify.com/album/64XYLNjFpYocukgD44QT4H"
       },
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 179556,
       "name": "Rough",
       "url": "https://open.spotify.com/track/4lalLstnInAdtSWUpOumhn"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 198080,
       "name": "Sarcasm",
       "url": "https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 141908,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 234534,
       "name": "Yer Killin' Me",
       "url": "https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK"

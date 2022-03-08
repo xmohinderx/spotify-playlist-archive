@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,641 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,090 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 20 | [Reproches](https://open.spotify.com/track/3L6RhaS4ISh8GSagrFMFZn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/1rGEWKEdDvDx5Ij1oxpRfs) | 4:33 |
 | 21 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 |
 | 22 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
-| 23 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
+| 23 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Sherry Fino](https://open.spotify.com/artist/76ofGeLRBabrg897HgfH5D) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
 | 24 | [Shars 2019](https://open.spotify.com/track/4vI7HAK6oC52MfOYlICa0l) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2019](https://open.spotify.com/album/0ouvrlpcjyOklFJK70pwNe) | 2:55 |
 | 25 | [Cómete Mi Éxito](https://open.spotify.com/track/4gFxJbsFvf0L97TlkGW04k) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Cómete Mi Éxito](https://open.spotify.com/album/1qA191L6gF00pamusjQHMw) | 3:23 |
 | 26 | [Welcome](https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD) | [Patato](https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9) | 2:24 |

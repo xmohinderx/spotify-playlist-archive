@@ -2,7 +2,7 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
-> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: AMEE
+> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: MIN
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

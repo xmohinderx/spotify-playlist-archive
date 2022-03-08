@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Latto",
-  "num_followers": 492103,
+  "num_followers": 493097,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDA2MCwwMDAwMDBiYjAwMDAwMTdmNTM0ZDc3ODcwMDAwMDE3ZjRkYTAyZWQ5",
+  "snapshot_id": "MTY0NjYyMDI1MSwwMDAwMDBiZDAwMDAwMTdmNjIzNzE3NGUwMDAwMDE3ZjRkYTAyZWQ5",
   "tracks": [
     {
       "added_at": "2021-10-15 04:00:00",
@@ -61,26 +61,6 @@
       "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
     },
     {
-      "added_at": "2022-01-16 21:34:51",
-      "album": {
-        "name": "Throw It Back",
-        "url": "https://open.spotify.com/album/4BobJqfRqRCEpjULDOiOFJ"
-      },
-      "artists": [
-        {
-          "name": "TarioP",
-          "url": "https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp"
-        },
-        {
-          "name": "ShantiiP",
-          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
-        }
-      ],
-      "duration_ms": 70542,
-      "name": "Throw It Back",
-      "url": "https://open.spotify.com/track/3Lf1nGVFPEsydObkXHUu2b"
-    },
-    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "Planet Her",
@@ -111,26 +91,6 @@
       "duration_ms": 177376,
       "name": "Cocky Af",
       "url": "https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Amala (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Tia Tamera (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -169,6 +129,46 @@
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Amala (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Tia Tamera (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
+    },
+    {
+      "added_at": "2022-03-07 02:19:19",
+      "album": {
+        "name": "Sl*t Him Out Again (feat. Kali)",
+        "url": "https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 232873,
+      "name": "Sl*t Him Out Again (feat. Kali)",
+      "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
+    },
+    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Imma Celebrity",
@@ -183,6 +183,26 @@
       "duration_ms": 188965,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+    },
+    {
+      "added_at": "2022-01-16 21:34:51",
+      "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/4BobJqfRqRCEpjULDOiOFJ"
+      },
+      "artists": [
+        {
+          "name": "TarioP",
+          "url": "https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp"
+        },
+        {
+          "name": "ShantiiP",
+          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
+        }
+      ],
+      "duration_ms": 70542,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/3Lf1nGVFPEsydObkXHUu2b"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -219,22 +239,6 @@
       "duration_ms": 237053,
       "name": "Like a Boy",
       "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
-    },
-    {
-      "added_at": "2022-02-20 22:18:45",
-      "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172248,
-      "name": "Sl*t Him Out",
-      "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -307,34 +311,22 @@
     {
       "added_at": "2022-03-04 05:01:00",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj"
+        "name": "The Pinkprint",
+        "url": "https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 251240,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+      "duration_ms": 237840,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/6ORDoQ6jxdfqNyqvUKDHF0"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -351,6 +343,22 @@
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 251240,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2022-01-05 21:24:08",
@@ -407,22 +415,18 @@
     {
       "added_at": "2022-03-04 05:01:00",
       "album": {
-        "name": "The Pinkprint",
-        "url": "https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Feeling Myself",
-      "url": "https://open.spotify.com/track/6ORDoQ6jxdfqNyqvUKDHF0"
+      "duration_ms": 159920,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -439,22 +443,6 @@
       "duration_ms": 137533,
       "name": "SAOKO",
       "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "PBC",
-        "url": "https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 154510,
-      "name": "PBC",
-      "url": "https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU"
     },
     {
       "added_at": "2022-02-21 10:55:26",
@@ -479,18 +467,18 @@
     {
       "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv"
+        "name": "Cum Cake",
+        "url": "https://open.spotify.com/album/5ATRiVbJcsarm1ndaI0DY9"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
         }
       ],
-      "duration_ms": 154749,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"
+      "duration_ms": 199296,
+      "name": "Deepthroat",
+      "url": "https://open.spotify.com/track/5cXtT63OTadsjqfRkm5Dwd"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -561,6 +549,22 @@
       "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "PBC",
+        "url": "https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 154510,
+      "name": "PBC",
+      "url": "https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Closer (feat. H.E.R.)",
@@ -603,18 +607,18 @@
     {
       "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "Cum Cake",
-        "url": "https://open.spotify.com/album/5ATRiVbJcsarm1ndaI0DY9"
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv"
       },
       "artists": [
         {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 199296,
-      "name": "Deepthroat",
-      "url": "https://open.spotify.com/track/5cXtT63OTadsjqfRkm5Dwd"
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"
     },
     {
       "added_at": "2022-02-04 05:02:00",

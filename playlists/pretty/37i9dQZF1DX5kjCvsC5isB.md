@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Alice Merton
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,147 likes - 139 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,175 likes - 139 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

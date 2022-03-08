@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "Adios Nonino",
       "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 202516,
       "name": "Canto de Amor",
       "url": "https://open.spotify.com/track/0kqiPmUKNjYmqy2MZjUU21"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 250133,
       "name": "Caser\u00f3n de Tejas",
       "url": "https://open.spotify.com/track/76iHnpsVxQwhKx9JYQ20Up"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 178386,
       "name": "Che bandoneon",
       "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 208384,
       "name": "Confidencias",
       "url": "https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 180520,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 193348,
       "name": "La Piel de la Ciudad",
       "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 237226,
       "name": "Malevaje",
       "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 213476,
       "name": "Mano a Mano",
       "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 158842,
       "name": "Milonga Sentimental",
       "url": "https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 196373,
       "name": "Mujer ni\u00f1a y amiga",
       "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 165546,
       "name": "Mu\u00f1eca Brava",
       "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
@@ -940,6 +940,36 @@
     },
     {
       "album": {
+        "name": "Brindis de Mi Alma",
+        "url": "https://open.spotify.com/album/1AIpQbfbovwfTLyFgCfzbu"
+      },
+      "artists": [
+        {
+          "name": "Vero Koufati",
+          "url": "https://open.spotify.com/artist/5YU9mnS46goOuYBSgW4fjP"
+        },
+        {
+          "name": "Walther Castro",
+          "url": "https://open.spotify.com/artist/5SDX7oYcQpIPJbJ0WiVzTo"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/13unnxfdkF6z5Qv2zdCB8q"
+        },
+        {
+          "name": "Emilio Longo",
+          "url": "https://open.spotify.com/artist/3cro0Qy5Sm5pdcFL8WrTUC"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "No Me Vendr\u00eda Mal",
+      "url": "https://open.spotify.com/track/0vO08QikFN1wCOr9hvLp4L"
+    },
+    {
+      "album": {
         "name": "El Amor Ese Loco Berretin",
         "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
       },
@@ -969,7 +999,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 249481,
       "name": "O Mundo",
       "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
@@ -1245,7 +1275,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-08",
       "duration_ms": 185693,
       "name": "Sue\u00f1o de Barrilete",
       "url": "https://open.spotify.com/track/2kJB9Hvpn3bqx2Mac8lMVP"
@@ -1299,7 +1329,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 178706,
       "name": "Tango Negro",
       "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"

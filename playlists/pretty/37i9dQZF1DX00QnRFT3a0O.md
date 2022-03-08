@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00QnRFT3a0O.md) - [plain]
 
 > Here are the winners of the 48th Annual GMA Dove Awards\. For more information go to <a href="http://doveawards.com//">2017 Dove Awards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 31 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 31 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128100,
+  "num_followers": 128166,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI4Nyw2YzVkM2UwM2I4ZGJhOGFmODE1ZTJmMWMyZDdlOGFjMjM5M2FmZTg2",
+  "snapshot_id": "MzI4OSw0ZmQwZWEwZDNhN2Q2Mjc3ZjY4MDNjZjgyMWY2NDc5YmRkOWU5MWNj",
   "tracks": [
+    {
+      "added_at": "2022-03-07 16:31:56",
+      "album": {
+        "name": "Warp",
+        "url": "https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 223615,
+      "name": "Warp",
+      "url": "https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj"
+    },
     {
       "added_at": "2022-03-04 17:08:07",
       "album": {
@@ -1127,22 +1143,6 @@
       "duration_ms": 205772,
       "name": "Million Reasons",
       "url": "https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        }
-      ],
-      "duration_ms": 193292,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

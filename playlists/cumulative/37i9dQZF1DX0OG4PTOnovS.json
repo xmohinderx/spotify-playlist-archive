@@ -702,6 +702,28 @@
     },
     {
       "album": {
+        "name": "My God (Dance Remix)",
+        "url": "https://open.spotify.com/album/0dbIMdhLtNdR6pS0LCzQO5"
+      },
+      "artists": [
+        {
+          "name": "Go Fish",
+          "url": "https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR"
+        },
+        {
+          "name": "Chase Akers",
+          "url": "https://open.spotify.com/artist/5augMSFXAhbTGrk3qScKBj"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "My God (Dance Remix)",
+      "url": "https://open.spotify.com/track/1GCnKpwj0BT7AtAEcMwzQ3"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
       },

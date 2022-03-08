@@ -724,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Deva Deva (From \"Ee Preethiya Kariyaavudu\")",
+        "url": "https://open.spotify.com/album/5bpHQhUrWKlxrcuN8161rI"
+      },
+      "artists": [
+        {
+          "name": "Bhanu Harithasya",
+          "url": "https://open.spotify.com/artist/0g3k2mhDZvsq5Rz1cmXABb"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257571,
+      "name": "Deva Deva - From \"Ee Preethiya Kariyaavudu\"",
+      "url": "https://open.spotify.com/track/2JL6sruaD4Q6DNgrCG9ggm"
+    },
+    {
+      "album": {
         "name": "Mugilpete",
         "url": "https://open.spotify.com/album/1GT8fDmpGnziaZ5PBVuV6M"
       },
@@ -2877,6 +2895,32 @@
       "duration_ms": 231093,
       "name": "Raamam Raaghavam (From \"Rrr\")",
       "url": "https://open.spotify.com/track/6HmWP8iJw234brBeyjlthO"
+    },
+    {
+      "album": {
+        "name": "Radhe Radhe (From \"Rider\")",
+        "url": "https://open.spotify.com/album/1aBy2llBclc5ANIyLZ406k"
+      },
+      "artists": [
+        {
+          "name": "Sunil Gujagonda",
+          "url": "https://open.spotify.com/artist/18x9LlrhDJHREB5uTuLPux"
+        },
+        {
+          "name": "Prithwi Bhat",
+          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101096,
+      "name": "Radhe Radhe (From \"Rider\")",
+      "url": "https://open.spotify.com/track/6b9LnWqdF6NrfrB859iNu8"
     },
     {
       "album": {
