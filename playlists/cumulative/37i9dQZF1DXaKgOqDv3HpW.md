@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 | 2022-02-18 |  |
+| [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 |  |
 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2022-02-18 |  |
 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 | 2022-02-18 |  |
@@ -60,6 +61,7 @@
 | [Galaxy River](https://open.spotify.com/track/4qoE30s1SzfR9aylJwSULq) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Galaxy River](https://open.spotify.com/album/3TzMmfxAKMqkRFAShdma9u) | 3:37 | 2022-02-18 |  |
 | [Gelborn Heights](https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Soft Slow Sleep](https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK) | 3:13 | 2022-02-18 |  |
 | [Giant Steps Tomorrow](https://open.spotify.com/track/2KiBZ6xU6dnj47aT71G28P) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Giant Steps Tomorrow](https://open.spotify.com/album/31cxoMZtA7p665UG7sEhew) | 3:15 | 2022-02-18 |  |
+| [Glemt Perle](https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Glemt Perle](https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ) | 4:13 | 2022-03-08 |  |
 | [Haze](https://open.spotify.com/track/4hv0YrKRtGmsDghhkURaNJ) | [Anima](https://open.spotify.com/artist/3XM6Pf9Qxz0xdPZV1SEGjd) | [Haze](https://open.spotify.com/album/1D9Ik1SIjR9YVi8BeY8JQr) | 3:38 | 2022-02-18 |  |
 | [Hermosa](https://open.spotify.com/track/5Qg04tWgRG0Yv8VNRUKs9k) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [Hermosa](https://open.spotify.com/album/5lLEiFsDZ1OexGJOxxfQnp) | 2:58 | 2022-02-18 |  |
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-02-18 |  |
@@ -96,6 +98,7 @@
 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 | 2022-02-18 |  |
 | [Nourish](https://open.spotify.com/track/0t4SxD4RI2sZYu7ehNF0Dt) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Delicate](https://open.spotify.com/album/14NlEEottXO4wgKV8dHLkT) | 3:40 | 2022-02-18 |  |
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2022-02-18 |  |
+| [Oceanwide](https://open.spotify.com/track/7Mr3SK5zRJ0mrdNraurM5Z) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Oceanwide](https://open.spotify.com/album/0zrCCtHKET7BZkwwuo7Mhu) | 2:32 | 2022-03-08 |  |
 | [Odmor](https://open.spotify.com/track/1wzC22A0BTQ68u6GoMGP6E) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Odmor](https://open.spotify.com/album/6WeD2HTw15YD5yPSEqEcKO) | 2:34 | 2022-02-18 |  |
 | [Omsluten](https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Omsluten](https://open.spotify.com/album/5ATPZF3T6j6YMrC7sMl8Wv) | 3:21 | 2022-02-18 |  |
 | [Onehundredfive](https://open.spotify.com/track/6WvrWe1fnO2ntO1hjL8m8b) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Elba](https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp) | 2:55 | 2022-02-18 |  |
@@ -148,6 +151,7 @@
 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 | 2022-02-18 |  |
 | [Verlangen](https://open.spotify.com/track/75pcpojFTJnyfeGw0YrEQ9) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Verlangen](https://open.spotify.com/album/0rJlx5Lk9FZni8yreWrEFP) | 4:13 | 2022-02-18 |  |
 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 | 2022-02-18 |  |
+| [Volta](https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2) | [Milo Leclercq](https://open.spotify.com/artist/2CACfYzbEfvbpMPHapIrrL) | [Volta](https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi) | 2:48 | 2022-03-08 |  |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2022-02-18 |  |
 | [Where Peaceful Waters Flow](https://open.spotify.com/track/06k0KNOgWngBL962uONmeV) | [Dani Hadad](https://open.spotify.com/artist/4dplzww3ZxsFV5sNlOcYmn) | [Peace](https://open.spotify.com/album/1ScFHV7vGlCdruwg6vUUKs) | 3:27 | 2022-02-18 |  |
 | [White Dove](https://open.spotify.com/track/0TXwtGVDlyxefhSQb8QCA3) | [TN2020](https://open.spotify.com/artist/5OhsS6nG8LaW0V6QtxIFr0) | [White Dove](https://open.spotify.com/album/3VxlCszbdAMtaEhlYRxFTY) | 3:30 | 2022-02-18 |  |

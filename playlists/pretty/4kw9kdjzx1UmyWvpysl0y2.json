@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128166,
+  "num_followers": 128207,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI4OSw0ZmQwZWEwZDNhN2Q2Mjc3ZjY4MDNjZjgyMWY2NDc5YmRkOWU5MWNj",
+  "snapshot_id": "MzI5MSxjZjRlMmNiNjI1M2MwZmFiOGY2MjJhNjIxMjJiNDFjMWY4M2ZlMjk3",
   "tracks": [
+    {
+      "added_at": "2022-03-08 17:31:26",
+      "album": {
+        "name": "Hate U/Miss U",
+        "url": "https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        },
+        {
+          "name": "Lani Daye",
+          "url": "https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Hate U/Miss U",
+      "url": "https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL"
+    },
     {
       "added_at": "2022-03-07 16:31:56",
       "album": {
@@ -260,7 +280,7 @@
       },
       "artists": [
         {
-          "name": "Sabai",
+          "name": "SABAI",
           "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
         },
         {
@@ -892,7 +912,7 @@
       },
       "artists": [
         {
-          "name": "Sabai",
+          "name": "SABAI",
           "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
         },
         {
@@ -1123,26 +1143,6 @@
       "duration_ms": 189850,
       "name": "Purple",
       "url": "https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Million Reasons",
-        "url": "https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Gunnva",
-          "url": "https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh"
-        }
-      ],
-      "duration_ms": 205772,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

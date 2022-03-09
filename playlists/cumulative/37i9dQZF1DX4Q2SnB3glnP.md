@@ -30,6 +30,7 @@
 | [Blanket of Peace](https://open.spotify.com/track/2PvRoKLmB0Q211nKNw8vmS) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 2:53 | 2021-12-08 |  |
 | [Blueshift](https://open.spotify.com/track/0cfXjSH3zQ9nwzeZ9lVi2Z) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Wavelengths](https://open.spotify.com/album/08HJyivb81Vnz01oGQdUuj) | 3:05 | 2021-12-08 |  |
 | [Breeze Warmth](https://open.spotify.com/track/1V8NGcSLCAGS3fSQr4uAuE) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Warmer Dreams](https://open.spotify.com/album/6xgJBum4aaBBHFiEUJliJX) | 3:23 | 2021-12-08 |  |
+| [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-03-08 |  |
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2021-12-08 |  |
 | [Calm](https://open.spotify.com/track/3Pcd6tCQ84hbnBDhkIhO4g) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [New Light](https://open.spotify.com/album/5CFrWmXkc0iHtduRrZYgmY) | 3:35 | 2021-12-08 |  |
 | [Calm Waters](https://open.spotify.com/track/5ipVdxQrpHlOWHC0sRFavT) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Water & Harp \- vol.1](https://open.spotify.com/album/6BFMvYIexJIrHC7PGqBf7I) | 3:12 | 2021-12-08 |  |
@@ -208,5 +209,6 @@
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2021-12-08 |  |
 | [Yellow](https://open.spotify.com/track/5aadCHkKtIIAwkUAQRiiv9) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Beach Waves](https://open.spotify.com/album/51VYJwvNDONE60PEjNZYQC) | 2:50 | 2021-12-08 |  |
 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2021-12-08 |  |
+| [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-08 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

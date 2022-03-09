@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Old Crow Medicine Show
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,710 likes - 155 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,812 likes - 155 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 64 | [All Is Well \(feat\. Joy Williams\)](https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [All Is Well Feat\. Joy Williams](https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J) | 2:57 |
 | 65 | [The Good Old Days](https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [The Good Old Days](https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF) | 3:38 |
 | 66 | [Wish for You](https://open.spotify.com/track/3vcWkX0FKNN2bMuFVsSCVi) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Wish for You](https://open.spotify.com/album/0QgUjMT60yrIhWhEppXHkg) | 3:24 |
-| 67 | [Upside Down](https://open.spotify.com/track/3loKrxBymgzppOS7mhhNa5) | [Watchhouse](https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:08 |
+| 67 | [Upside Down](https://open.spotify.com/track/3loKrxBymgzppOS7mhhNa5) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:08 |
 | 68 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 |
 | 69 | [Waste Your Time](https://open.spotify.com/track/0sBRVZYkvO1m9sndONbhg5) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Waste Your Time](https://open.spotify.com/album/5Jbk7SSm8MwBeTbZTXLWjZ) | 3:36 |
 | 70 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 |

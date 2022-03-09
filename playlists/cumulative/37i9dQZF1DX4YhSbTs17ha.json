@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Escucha las canciones de pop m\u00e1s exitosas en M\u00e9xico. En portada: Man\u00e1 & Christian Nodal.\n",
+  "description": "Escucha las canciones de pop m\u00e1s exitosas en M\u00e9xico. En portada: Bruses\n",
   "name": "S\u00f3lo Pop",
   "published_playlist_ids": [
     "1nDBCqiK6HvT2BsLItZYgM"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 145922,
       "name": "Dos Veces",
       "url": "https://open.spotify.com/track/1OBAWijV9qQIBu5fCHRomS"
@@ -2165,6 +2165,24 @@
       "duration_ms": 257379,
       "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
+    },
+    {
+      "album": {
+        "name": "Wannabe - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152109,
+      "name": "Wannabe - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring  Jack Harlow, Gunna, and Future.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,074,864 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074,985 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 10 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 |
 | 11 | [Peru](https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Peru \(with 21 Savage & Blxst\)](https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md) | 3:06 |
 | 12 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
-| 13 | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
+| 13 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
 | 14 | [TO THE MOON](https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TO THE MOON](https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt) | 2:32 |
 | 15 | [Need You](https://open.spotify.com/track/5FkBoG7xkb0pPkaO8rS5td) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Need You](https://open.spotify.com/album/7GDatS6iAApwmxAvLMEG1c) | 2:53 |
 | 16 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 |

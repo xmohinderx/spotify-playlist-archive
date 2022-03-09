@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrating the women of worship music! Cover: Lauren Daigle",
+  "description": "Celebrating the women of worship music! Cover: Brooke Ligertwood",
   "name": "Women of Worship",
   "published_playlist_ids": [
     "22bPetK1VLYHItsWqIDfAJ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309329,
+      "name": "A Thousand Hallelujahs - Live",
+      "url": "https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl"
+    },
     {
       "album": {
         "name": "A Woman",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,687,616 likes - 115 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,687,659 likes - 115 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 50 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 |
 | 51 | [Heroes / Dying](https://open.spotify.com/track/5dXkJaRsnCtg7qKU5lgZzg) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Superheroes](https://open.spotify.com/album/0KtWvkv5MHPbHfxbcUK43V) | 3:50 |
 | 52 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
-| 53 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
+| 53 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
 | 54 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 |
 | 55 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
 | 56 | [Old Gods](https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 3:46 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 95 | [James](https://open.spotify.com/track/64PvmmEK0qTUaVUVvrYR7W) | [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Kairos](https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k) | 3:31 |
 | 96 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
 | 97 | [Heavy](https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Heavy](https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK) | 4:24 |
-| 98 | [The Wolves](https://open.spotify.com/track/06WxkgbX4KNPEbUvVbZu9S) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [The Wolves](https://open.spotify.com/album/7IAODoRuv3EzGRQRZlrmoO) | 4:05 |
+| 98 | [The Wolves](https://open.spotify.com/track/06WxkgbX4KNPEbUvVbZu9S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [The Wolves](https://open.spotify.com/album/7IAODoRuv3EzGRQRZlrmoO) | 4:05 |
 | 99 | [Don't You Cry For Me \- Acoustic](https://open.spotify.com/track/2okaCGJegLC7oK8z7OXutm) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me \(Acoustic\)](https://open.spotify.com/album/2YK6l9mVcjDHrw7cLyT7j7) | 4:35 |
 | 100 | [Crack The Case](https://open.spotify.com/track/4MKTyMpljQlY0KQWLR8194) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Living In The Future / Crack The Case](https://open.spotify.com/album/7EoeiW6dthY3YdsWPd941G) | 5:54 |
 | 101 | [I Want More](https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 3:32 |

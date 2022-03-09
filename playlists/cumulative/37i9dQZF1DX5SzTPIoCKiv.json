@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 307297,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/2YGALkTVMM2Lnp4dcCOUDy"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 192980,
       "name": "As For Me (feat. Chris Tomlin)",
       "url": "https://open.spotify.com/track/1XFbNf7O1xycvXDZiO8NsK"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 245213,
       "name": "Battles",
       "url": "https://open.spotify.com/track/135BpkRmi9GG7HLhB6OK5m"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 202943,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 281177,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/2yDWexKaX2plvcDbomivOK"
@@ -450,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Coming Out Fighting",
+        "url": "https://open.spotify.com/album/7v4kN2sY4pDsP6MpafYEbk"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223224,
+      "name": "Coming Out Fighting",
+      "url": "https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5"
+    },
+    {
+      "album": {
         "name": "Changed",
         "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
       },
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 284800,
       "name": "Don't Quit",
       "url": "https://open.spotify.com/track/7Astyw7Pvb7a7VgmtZM25Y"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 229066,
       "name": "Fighting For Me",
       "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 267773,
       "name": "Hymn of Heaven",
       "url": "https://open.spotify.com/track/4nK7i4idbh4N3Nf6p9PSPa"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 229119,
       "name": "I Believe It Now (Single Version)",
       "url": "https://open.spotify.com/track/6kc0XFXTEaBWCEXZnQPFIc"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 261093,
       "name": "My Weapon",
       "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 223280,
       "name": "OK",
       "url": "https://open.spotify.com/track/76UQFZtK8p9OC1FqHh38ha"
@@ -1660,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "Live At Ocean Way Nashville",
+        "url": "https://open.spotify.com/album/7LToRg5wHDUpoNSPJ0reLR"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409574,
+      "name": "Peace - Live",
+      "url": "https://open.spotify.com/track/0QUvcGpq4A3yP0XU6GStIY"
+    },
+    {
+      "album": {
         "name": "Peace Be Still",
         "url": "https://open.spotify.com/album/6DijVs6K0pynequruoG3o2"
       },
@@ -1707,7 +1743,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 200520,
       "name": "Prize Worth Fighting For",
       "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
@@ -1751,7 +1787,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
@@ -1769,7 +1805,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 198986,
       "name": "Reason",
       "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
@@ -2007,7 +2043,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 211133,
       "name": "Source of Life",
       "url": "https://open.spotify.com/track/3tl8OtHXna5VWrb16okaLA"
@@ -2043,7 +2079,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 254106,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
@@ -2341,7 +2377,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 227071,
       "name": "What I'm Here For",
       "url": "https://open.spotify.com/track/60TDbRgxNauv2waKkBZ58q"
@@ -2403,7 +2439,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"

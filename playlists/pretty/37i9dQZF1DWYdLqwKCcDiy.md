@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdLqwKCcDiy.md) - [plain]
 
 > Relive the year in roots, with some of the best songs in folk & Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,120 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,119 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdLqwKCcDiy.md) - [plain]
 | 11 | [Gloria](https://open.spotify.com/track/1FAKozGHHmuafTOj2ESuZt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:47 |
 | 12 | [A Golden Year](https://open.spotify.com/track/7hIfyMsGQ04jaNRLXdzRMs) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Other Girls](https://open.spotify.com/album/158vIXOymv1hbHh1pCG2fD) | 3:33 |
 | 13 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
-| 14 | [The Wolves](https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:05 |
+| 14 | [The Wolves](https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:05 |
 | 15 | [Faraway Look](https://open.spotify.com/track/1PpkzNzgJXq5ErZimSkBSu) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire](https://open.spotify.com/album/3YkPGNQ0ATRPcigTb74F5A) | 3:09 |
 | 16 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 | 17 | [Does Anybody Know](https://open.spotify.com/track/6E7MY8plyVrd0RWUDl63Kn) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 3:27 |

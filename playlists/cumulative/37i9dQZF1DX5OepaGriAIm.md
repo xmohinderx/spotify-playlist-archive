@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5OepaGriAIm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5OepaGriAIm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OepaGriAIm)
 
-### [Women of Jazz](https://open.spotify.com/playlist/4LwfDjUpnxvRcAhlvi2TnD)
+### [EQUAL: Jazz](https://open.spotify.com/playlist/4LwfDjUpnxvRcAhlvi2TnD)
 
 > Trace the history of jazz from timeless classics to boundary\-breaking contemporary favorites\. Cover: Diana Krall
 

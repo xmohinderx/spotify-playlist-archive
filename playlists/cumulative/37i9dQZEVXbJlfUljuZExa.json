@@ -5298,6 +5298,28 @@
     },
     {
       "album": {
+        "name": "Second Voyage",
+        "url": "https://open.spotify.com/album/5G5A5sUJWRg1qdur7wtrSn"
+      },
+      "artists": [
+        {
+          "name": "Sekumpulan Orang Gila",
+          "url": "https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv"
+        },
+        {
+          "name": "Shila Amzah",
+          "url": "https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231510,
+      "name": "Pelukan Angkasa",
+      "url": "https://open.spotify.com/track/3HBhXGSQbK0uehCnwCjfH7"
+    },
+    {
+      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
       },
@@ -5442,7 +5464,7 @@
     },
     {
       "album": {
-        "name": "PS5 (with TOMORROW X TOGETHER feat. Alan Walker)",
+        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
         "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
       },
       "artists": [
@@ -5463,7 +5485,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152214,
-      "name": "PS5 (with TOMORROW X TOGETHER feat. Alan Walker)",
+      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
     },
     {
@@ -6137,7 +6159,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"

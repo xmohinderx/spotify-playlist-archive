@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the tone for your dinner with cozy jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,369 likes - 102 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,428 likes - 102 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

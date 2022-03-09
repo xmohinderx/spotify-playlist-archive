@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 153245,
       "name": "9albi",
       "url": "https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds"
@@ -790,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Betateb Khialak",
+        "url": "https://open.spotify.com/album/1ErPBre7sIpdaVPLJgpuUq"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291061,
+      "name": "Betateb Khialak",
+      "url": "https://open.spotify.com/track/0YiPfcpDYfPfQ3mTgATAtj"
+    },
+    {
+      "album": {
         "name": "Bizarre",
         "url": "https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n"
       },
@@ -1194,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "Fawda",
+        "url": "https://open.spotify.com/album/5Fob6Veclpqwcp28gUXneD"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198352,
+      "name": "Fawda",
+      "url": "https://open.spotify.com/track/3arw0QpzjtfvrwyXGAd5Ax"
+    },
+    {
+      "album": {
         "name": "Fazzeit",
         "url": "https://open.spotify.com/album/2mkjGNKz8aQqsWUBjRSZ1s"
       },
@@ -1410,6 +1446,24 @@
     },
     {
       "album": {
+        "name": "Hkomt Hob",
+        "url": "https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX"
+      },
+      "artists": [
+        {
+          "name": "El Jawhara",
+          "url": "https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Hkomt Hob",
+      "url": "https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA"
+    },
+    {
+      "album": {
         "name": "Hnaya",
         "url": "https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U"
       },
@@ -1576,6 +1630,24 @@
     },
     {
       "album": {
+        "name": "ISMAK",
+        "url": "https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190830,
+      "name": "ISMAK",
+      "url": "https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY"
+    },
+    {
+      "album": {
         "name": "Jeet Ahrak",
         "url": "https://open.spotify.com/album/3G88nKXJz9ApDpVI2ngwjk"
       },
@@ -1659,7 +1731,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 159339,
       "name": "Keda Wala Keda",
       "url": "https://open.spotify.com/track/5jpNJTb9XKt6WVxEQfKLYK"
@@ -2254,6 +2326,42 @@
     },
     {
       "album": {
+        "name": "Mazar",
+        "url": "https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213616,
+      "name": "Mazar",
+      "url": "https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP"
+    },
+    {
+      "album": {
+        "name": "Meen Bint Sgheeri \u0645\u064a\u0646 \u0628\u0646\u062a \u0635\u063a\u064a\u0631\u0629",
+        "url": "https://open.spotify.com/album/5VXW37C2muaHyfgQXQqXu2"
+      },
+      "artists": [
+        {
+          "name": "Rasha Nahas",
+          "url": "https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193596,
+      "name": "Meen Bint Sgheeri \u0645\u064a\u0646 \u0628\u0646\u062a \u0635\u063a\u064a\u0631\u0629",
+      "url": "https://open.spotify.com/track/0NdTGMo7HIf4tjFCT0vHVh"
+    },
+    {
+      "album": {
         "name": "Merry Merry Christmas",
         "url": "https://open.spotify.com/album/0ZMRdzabgRQ0DOSYd2nyPz"
       },
@@ -2305,6 +2413,24 @@
       "duration_ms": 247840,
       "name": "Mish Mishta'a",
       "url": "https://open.spotify.com/track/5zSWm3BkuNRAY5jwh6mh8n"
+    },
+    {
+      "album": {
+        "name": "Mishta'a",
+        "url": "https://open.spotify.com/album/2JX4flVTuPELhry4HCPu1I"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227807,
+      "name": "Mishta'a",
+      "url": "https://open.spotify.com/track/4w2hGIB38EBnf4l0y8Y1UE"
     },
     {
       "album": {
@@ -2669,7 +2795,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 235440,
       "name": "Rah Enseheb",
       "url": "https://open.spotify.com/track/6Oza7GHux6YY8kRInFrM0Y"

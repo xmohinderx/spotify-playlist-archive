@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: LŪN
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,229 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,485 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 62 | [Fear](https://open.spotify.com/track/3jcV2a1ObbPIZSRe1pB4Bi) | [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU) | [Fear](https://open.spotify.com/album/0Iv8URhJBemkg4SdoRdiwW) | 3:24 |
 | 63 | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/track/2WidoejAximc21Pv69Q3ey) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Shell Shock \(feat\. Georgia Ku\)](https://open.spotify.com/album/4BaInrxpN9Bey7O1LGhVDp) | 4:24 |
 | 64 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
-| 65 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [Sabai](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 |
+| 65 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 |
 | 66 | [TALKIN](https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [TALKIN](https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V) | 3:50 |
 | 67 | [Hideaway](https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Hideaway](https://open.spotify.com/album/0SzzJuc02s0uKGsS89eqF9) | 2:23 |
 | 68 | [Better Off Leaving](https://open.spotify.com/track/1XoYqY65aFOuc0rnhANLeV) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [Better Off Leaving](https://open.spotify.com/album/0v3Rc54IpZHPQrZbUcegXD) | 3:37 |

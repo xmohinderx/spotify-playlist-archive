@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: <a href="spotify:artist:4LX0KCPnH7gvxEbVXqXmAE">Molly Tuttle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,151 likes - 91 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,179 likes - 91 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 8 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 |
 | 9 | [Stress Dreams](https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx) | 8:01 |
 | 10 | [A Faded Star](https://open.spotify.com/track/4WidGItghW8sCcIQj93Xod) | [The Deadly Gentlemen](https://open.spotify.com/artist/4dtiIYPHTDAkzOECVtalw5) | [Roll Me, Tumble Me](https://open.spotify.com/album/1vFtsKWIMFAf2QhWcxEiD4) | 4:24 |
-| 11 | [Next to Nothing](https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC) | [Watchhouse](https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV) | 3:31 |
+| 11 | [Next to Nothing](https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV) | 3:31 |
 | 12 | [Shiver](https://open.spotify.com/track/5TiDYdUa8B6rod4U7389Kr) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Shiver](https://open.spotify.com/album/60z9HLMTqPLS1nt3OLUBCB) | 3:32 |
 | 13 | [The High Road](https://open.spotify.com/track/2FaRTKC8O1ylcBlSY8P8NU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:49 |
 | 14 | [Sometimes it Does](https://open.spotify.com/track/78T2fM83dSxh0lSJ6E5p0Z) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/7lSva8Xi3JNK7d4TRo5s3N) | 1:59 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 64 | [Swarm \(Live\)](https://open.spotify.com/track/1qCRXkjsYFCHbSclL7Q8DE) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers Live At the Good Music Club](https://open.spotify.com/album/0rpDrksHkwnw2gZ6w5HuV2) | 2:54 |
 | 65 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 |
 | 66 | [Desperado](https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5), [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Desperado](https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR) | 3:34 |
-| 67 | [Better Way](https://open.spotify.com/track/7puCiBLOOXgMVPSCrtSQ6C) | [Watchhouse](https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 5:56 |
+| 67 | [Better Way](https://open.spotify.com/track/7puCiBLOOXgMVPSCrtSQ6C) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 5:56 |
 | 68 | [Local Honey](https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim) | [Sean Watkins](https://open.spotify.com/artist/45K759axQK0aohwSjbkgpy) | [What to Fear](https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd) | 2:44 |
 | 69 | [Meeting Is Over](https://open.spotify.com/track/0Jyru2R52NaBR6wiEGMQUp) | [Moira Smiley](https://open.spotify.com/artist/035KHOtaTMMoN7YASM6mwk), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Seamus Egan](https://open.spotify.com/artist/5dWAsW7cMbMCswqTwN2jQm) | [Meeting Is Over](https://open.spotify.com/album/4YgPIWCcfPIfpkgmewgoYx) | 4:24 |
 | 70 | [Good Intentions](https://open.spotify.com/track/6586Yb57Ussd4h1A7brBsU) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Good Intentions](https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb) | 3:05 |

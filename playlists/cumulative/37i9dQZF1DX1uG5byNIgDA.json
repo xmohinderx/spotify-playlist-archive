@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 208736,
       "name": "Beautiful Feeling",
       "url": "https://open.spotify.com/track/5qomEJP9XCFsuHbrMB2dwl"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 230148,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 210535,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 185840,
       "name": "Concrete (feat. CHEEZE)",
       "url": "https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 189546,
       "name": "Dear DREAM",
       "url": "https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
@@ -695,6 +695,28 @@
       "duration_ms": 213786,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/5S69qVsbHudSKincIUbYSf"
+    },
+    {
+      "album": {
+        "name": "Dress (Feat. Gyungmin)",
+        "url": "https://open.spotify.com/album/0RJxMJwKKxafU1t0U7yB7M"
+      },
+      "artists": [
+        {
+          "name": "HyungBin",
+          "url": "https://open.spotify.com/artist/78eKrXJX9IieggAbrqU8WA"
+        },
+        {
+          "name": "Gyungmin",
+          "url": "https://open.spotify.com/artist/0wvn8397XZuRfR3COx53Gb"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206718,
+      "name": "Dress (Feat. Gyungmin)",
+      "url": "https://open.spotify.com/track/6qqSrSA5dhh5LzfZNI0DaM"
     },
     {
       "album": {
@@ -807,7 +829,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 209618,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3"
@@ -904,18 +926,40 @@
     },
     {
       "album": {
+        "name": "To You, We Flow",
+        "url": "https://open.spotify.com/album/2s5izSOE9U3Af3cCyM2EOJ"
+      },
+      "artists": [
+        {
+          "name": "WELOVE",
+          "url": "https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI"
+        },
+        {
+          "name": "Anandelight",
+          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "Flow and Flow",
+      "url": "https://open.spotify.com/track/0xtFlh7zuV3MwwBVoiQuSf"
+    },
+    {
+      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
       },
       "artists": [
         {
           "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/4ydv0BOIcFYvoUOOTz86XP"
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 215880,
       "name": "Future",
       "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
@@ -973,7 +1017,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 205859,
       "name": "Hard to Start",
       "url": "https://open.spotify.com/track/2MxlULOEyapHB4RBRd344M"
@@ -1135,7 +1179,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 234177,
       "name": "HOME",
       "url": "https://open.spotify.com/track/7lthOBXNue2IvedLRfkod8"
@@ -1229,7 +1273,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 197320,
       "name": "HWAA",
       "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
@@ -1301,7 +1345,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 172358,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
@@ -1359,7 +1403,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 257631,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
@@ -1403,7 +1447,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 208040,
       "name": "Jam & Butterfly",
       "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
@@ -1591,7 +1635,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 159749,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
@@ -1667,7 +1711,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 236829,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
@@ -1761,7 +1805,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 195982,
       "name": "MY TREASURE",
       "url": "https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J"
@@ -1779,7 +1823,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 203424,
       "name": "My Universe (Seungmin, I.N Feat. Changbin)",
       "url": "https://open.spotify.com/track/2PGhCLeiYBYU4xIAMHLpyA"
@@ -1949,7 +1993,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
@@ -2039,7 +2083,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
@@ -2307,7 +2351,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 216488,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"
@@ -2379,7 +2423,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 194234,
       "name": "Take Me To You",
       "url": "https://open.spotify.com/track/4CtTi2tSRjUc6vABWAgUNp"
@@ -2433,7 +2477,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 196170,
       "name": "Tamed-Dashed",
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
@@ -2611,7 +2655,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 145360,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
@@ -2701,7 +2745,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
@@ -2748,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "proLOG?",
+        "url": "https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "what is life?",
+      "url": "https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E"
+    },
+    {
+      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/6qpO20n7B2yFAZeqcjy2yn"
       },
@@ -2777,7 +2839,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 236816,
       "name": "Wind flower",
       "url": "https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O"
@@ -2813,7 +2875,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/1xo0SABqJrTriyMb2JMtLg"
@@ -2849,7 +2911,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 237685,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
@@ -2925,7 +2987,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "zZ(Tired) zZ(\ud53c\uace4\ud574) (With Yebit)",
       "url": "https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc"
@@ -2961,7 +3023,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

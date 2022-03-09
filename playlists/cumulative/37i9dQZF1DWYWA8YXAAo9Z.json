@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 343000,
       "name": "A Black Bird Sat on My Window and Cried",
       "url": "https://open.spotify.com/track/51kjApNxwEpctdm8d9GOLG"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 311548,
       "name": "A man with two watches",
       "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "Alternations",
       "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Approximate Bermeja",
       "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 405907,
       "name": "As You See It",
       "url": "https://open.spotify.com/track/3sbEPDb47adTLNX807a0Ab"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 317393,
       "name": "BELOW",
       "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 145376,
       "name": "cells_",
       "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 330115,
       "name": "Descending Isolation",
       "url": "https://open.spotify.com/track/0S4pxlHnt8lUxczCwy4rhA"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 173883,
       "name": "Garlands",
       "url": "https://open.spotify.com/track/2OU3aFpcNqVEZ7tvZ0013P"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 270796,
       "name": "Genera II",
       "url": "https://open.spotify.com/track/0yWHG5YEGdORusADKKlAdv"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 166001,
       "name": "Glendora",
       "url": "https://open.spotify.com/track/5fxrvTVsybBsyNaPbvDGDI"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 590000,
       "name": "Interstices",
       "url": "https://open.spotify.com/track/0q3iG7HlsDetEhFukIyEoc"
@@ -1019,6 +1019,24 @@
       "duration_ms": 372930,
       "name": "Lumina",
       "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
+    },
+    {
+      "album": {
+        "name": "Maisie by the Sea",
+        "url": "https://open.spotify.com/album/2YBBo7GH8bJWwFGbrAz8FA"
+      },
+      "artists": [
+        {
+          "name": "Walton",
+          "url": "https://open.spotify.com/artist/542yacXt2x9eLr9g8v0X8k"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Maisie by the Sea",
+      "url": "https://open.spotify.com/track/5fq9opexjEBHkrB7zs92Bv"
     },
     {
       "album": {
@@ -1300,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/5LtM4wUzsuxwMf0EtFCUy1"
+      },
+      "artists": [
+        {
+          "name": "Isaac Soto",
+          "url": "https://open.spotify.com/artist/2mHbrHlppDiGj9pBxti8fc"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273644,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/65LdlsIG7EkIWmhAj5u4ud"
+    },
+    {
+      "album": {
         "name": "One Last Glimpse",
         "url": "https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS"
       },
@@ -1311,7 +1347,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 517599,
       "name": "Plant Memory",
       "url": "https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ"
@@ -1401,7 +1437,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 277753,
       "name": "Reflections On The Waterfront",
       "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
@@ -1437,7 +1473,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 512742,
       "name": "sense",
       "url": "https://open.spotify.com/track/22MoPPtD3KKQSlC9TX4OeU"
@@ -1545,7 +1581,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 467159,
       "name": "Small Triumphs and Deep Disappointments",
       "url": "https://open.spotify.com/track/0vIZVb4SiFVnyu8hQSwxK1"
@@ -1811,7 +1847,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 455960,
       "name": "Through Circle and Shadow",
       "url": "https://open.spotify.com/track/2OBRaX5PhBAlgo6TvQMVqX"
@@ -1829,7 +1865,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 268043,
       "name": "Tide Pools",
       "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
@@ -1919,7 +1955,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 353000,
       "name": "wander into",
       "url": "https://open.spotify.com/track/3E9IXQVQhaf79PXNr24GDy"

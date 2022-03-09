@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,631 likes - 115 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,629 likes - 115 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 63 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
 | 64 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 |
 | 65 | [SE DIG OMKRING](https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [SE DIG OMKRING](https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf) | 3:07 |
-| 66 | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
+| 66 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
 | 67 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 |
 | 68 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 |
 | 69 | [Defection](https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW) | 4:05 |

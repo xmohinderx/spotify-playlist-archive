@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cautionary Tale](https://open.spotify.com/track/51LJmGVbrbxPP04Kog24Ul) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT) | 3:42 |
-| 2 | [Wildfire](https://open.spotify.com/track/4TcTtWG8wSrxRmKWHNYHK8) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/1WtfsOpueoXSRpNaySuwhn) | 5:29 |
+| 2 | [Wildfire](https://open.spotify.com/track/4TcTtWG8wSrxRmKWHNYHK8) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/1WtfsOpueoXSRpNaySuwhn) | 5:29 |
 | 3 | [Heaven's Gate](https://open.spotify.com/track/62EuvgIqhc9o5DPqKse952) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Desert Songs](https://open.spotify.com/album/7qKtluvfzF0kPPT9IOLQNe) | 3:09 |
 | 4 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 |
 | 5 | [Dusty Trails](https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl) | 4:24 |

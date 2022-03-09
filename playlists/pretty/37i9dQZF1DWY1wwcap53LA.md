@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,682 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,714 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 59 | [Afraid of Forever](https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/0aIZsHJt4yXaBnNbFqec71) | 2:56 |
 | 60 | [Cabin Fever](https://open.spotify.com/track/3tKVfUEpy8ll3GtC3uYfAA) | [Aaron Vance](https://open.spotify.com/artist/2BdvOgZdYNtGAzVEfg5jci) | [Cabin Fever](https://open.spotify.com/album/28TxK5Wufy1F037e5TENu1) | 2:53 |
 
-Snapshot ID: `MTY0NjcwMDM5NiwwMDAwMDAwMGRkMDM0YzQzODYzNjNiN2I4NjIxYjY0OWVkYTZmNWNh`
+Snapshot ID: `MTY0Njc4Njg1MCwwMDAwMDAwMGRkMDM0YzQzODYzNjNiN2I4NjIxYjY0OWVkYTZmNWNh`

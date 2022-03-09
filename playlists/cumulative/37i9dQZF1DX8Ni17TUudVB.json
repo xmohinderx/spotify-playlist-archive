@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 199047,
       "name": "AGEN WIDA",
       "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 122975,
       "name": "Bad at Drugs",
       "url": "https://open.spotify.com/track/6UQyMXIwfvl7CSPh2PYrMa"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 145178,
       "name": "Duck Dance",
       "url": "https://open.spotify.com/track/5Liw2qrmtEqx4slVPB9kaN"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 170625,
       "name": "For Our People",
       "url": "https://open.spotify.com/track/7ebktX3jgXa926ybZM1l4h"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Get Down In The Car",
       "url": "https://open.spotify.com/track/5gkPspofRPYZzhcxKvIX9i"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 238835,
       "name": "Get It",
       "url": "https://open.spotify.com/track/7HkM8b2FsT4ca2iPC2EzuQ"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 134400,
       "name": "Getaway (Jaxomy Remix)",
       "url": "https://open.spotify.com/track/75awRswVFJGlDwUHbpPY4S"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 215200,
       "name": "Jinn",
       "url": "https://open.spotify.com/track/4NELKXacSEkhWYujzYzEU0"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 280645,
       "name": "La Rana",
       "url": "https://open.spotify.com/track/1Cv6h7fvpqwwhwzFghwfwP"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 139354,
       "name": "Leave Me",
       "url": "https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc"
@@ -1667,7 +1667,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Oooh! (I Like It)!",
       "url": "https://open.spotify.com/track/0jWUJM3T8s6bkyjlKXCklk"
@@ -1835,6 +1835,24 @@
       "duration_ms": 189000,
       "name": "Physical - Alok Remix",
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "album": {
+        "name": "Punk'd",
+        "url": "https://open.spotify.com/album/3PADHeVFOTdyhgvFq8JfsW"
+      },
+      "artists": [
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233379,
+      "name": "Punk'd",
+      "url": "https://open.spotify.com/track/6wXRfpl3JYxB5eYWqIi4qF"
     },
     {
       "album": {
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 359126,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 255000,
       "name": "What's Up Suckaz",
       "url": "https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX"

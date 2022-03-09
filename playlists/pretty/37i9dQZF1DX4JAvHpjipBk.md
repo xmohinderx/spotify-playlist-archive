@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Camila Cabello & Ed Sheeran, Machine Gun Kelly, Charli XCX, Dominic Fike, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,871,411 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,871,602 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 9 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
 | 10 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 |
 | 11 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 |
-| 12 | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
+| 12 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
 | 13 | [Sometimes](https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Sometimes](https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF) | 2:46 |
 | 14 | [Fils de joie](https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:15 |
 | 15 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |

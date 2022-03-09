@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
-> songs you can escape to\. cover: dora jar
+> happy IWD <3 cover: dora jar
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-26 | 2022-01-08 |
 | [All Dressed In White](https://open.spotify.com/track/4I0Btf4tqaK9HewG27RvqC) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen \(Deluxe\)](https://open.spotify.com/album/5zzd05ffaL9xuXwQkVuxoF) | 2:00 | 2020-02-14 | 2020-03-13 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2019-08-08 | 2019-11-14 |
+| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-08 |  |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-12-01 | 2022-01-08 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 | 2021-12-02 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-26 | 2021-06-05 |
@@ -407,6 +408,7 @@
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2019-11-14 | 2020-04-22 |
 | [Everything Is Quiet](https://open.spotify.com/track/4oSKJkY3P8XOsxliqvn0cy) | [allie](https://open.spotify.com/artist/7JPsWnynfZxpOE77M22LdC) | [Everything Is Quiet](https://open.spotify.com/album/53aANm9TyGbUrk3ZN6l6xL) | 4:13 | 2021-06-05 | 2021-06-11 |
 | [Everything's Fine](https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:52 | 2021-01-13 | 2021-04-15 |
+| [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 |  |
 | [Everywhere](https://open.spotify.com/track/5TKgmsPfKm135sTK968bNe) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Everywhere](https://open.spotify.com/album/6nMQFSM4DhrDAadq6CWm2h) | 2:43 | 2021-10-22 | 2021-12-02 |
 | [Evil Spider](https://open.spotify.com/track/0jeJE3TUJ5FrRuVLr7w4JQ) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 2:33 | 2019-08-10 | 2020-09-30 |
 | [Excuses](https://open.spotify.com/track/4b64vOfZptiujHdsqjbfoD) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Excuses](https://open.spotify.com/album/030CZCgobrplhu5ddAGiMO) | 2:48 | 2021-04-10 | 2021-07-31 |

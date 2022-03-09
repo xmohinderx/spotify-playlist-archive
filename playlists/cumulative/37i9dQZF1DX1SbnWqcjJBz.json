@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 227076,
       "name": "100 Degrees (Still Disco to Me) [with Dannii Minogue]",
       "url": "https://open.spotify.com/track/6NVAKG7z43XHV0oPbQgTeZ"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 172133,
       "name": "911",
       "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 162053,
       "name": "All About You",
       "url": "https://open.spotify.com/track/5c7tO3OhDBA4CUkdGoKkI2"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 212333,
       "name": "Applause",
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 235573,
       "name": "Boys Wanna Be Her",
       "url": "https://open.spotify.com/track/0MAior6fZ9hfPgzjphQLXk"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 277666,
       "name": "Do The Television",
       "url": "https://open.spotify.com/track/0AZFnIhyFJ6TmV8Vw6njdJ"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 205884,
       "name": "Evacuate The Dancefloor - Radio Edit",
       "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
@@ -1422,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0oKmvkXNQvyd3fHVn4zF7u"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3IyeQMpMEqNcEvFQGJ2eps"
+    },
+    {
+      "album": {
         "name": "Froot",
         "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
       },
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "G.U.Y.",
       "url": "https://open.spotify.com/track/5ve8saw5u0CbP9fcyNzmxN"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 221153,
       "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
       "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 200853,
       "name": "Gold Trans Am",
       "url": "https://open.spotify.com/track/5pOeKpXet0UPJyjjM2k7v0"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 208133,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 461737,
       "name": "Greatest Hits Megamix",
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 237040,
       "name": "I Blame Myself",
       "url": "https://open.spotify.com/track/0i62I5HJlzIVu2FALBmBPx"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 219093,
       "name": "I Don't Need A Man",
       "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 210266,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
@@ -2151,10 +2169,46 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 203466,
       "name": "I Will Never Let You Down",
       "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195519,
+      "name": "I'm a Mess",
+      "url": "https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Grow Up",
+        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207775,
+      "name": "I'm Gonna Show You Crazy",
+      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
     },
     {
       "album": {
@@ -2389,7 +2443,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 239213,
       "name": "Kill the Lights",
       "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
@@ -2523,6 +2577,24 @@
       "duration_ms": 193493,
       "name": "Let\u2019s Get Lost",
       "url": "https://open.spotify.com/track/6dAj7di0SClcosyapzeH9r"
+    },
+    {
+      "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "Lgbt",
+      "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
     },
     {
       "album": {
@@ -2739,7 +2811,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
@@ -3079,7 +3151,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 193924,
       "name": "On The Metro",
       "url": "https://open.spotify.com/track/2NZFQ5xAY6obCPiJjtMD6L"
@@ -3097,7 +3169,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 171693,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/7mTgsbq7n8jgnwLswpgugB"
@@ -3292,6 +3364,24 @@
     },
     {
       "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/0LohatbcUXRauoeMlR1jnS"
+    },
+    {
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -3419,7 +3509,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 216925,
       "name": "Rhythm Of Love",
       "url": "https://open.spotify.com/track/5C3pgfD9ux8oT6VUqSVkeg"
@@ -3491,7 +3581,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 221451,
       "name": "Screwed",
       "url": "https://open.spotify.com/track/6YhyLXlXUIR6CZCP9x5Crj"
@@ -3513,6 +3603,24 @@
       "duration_ms": 364506,
       "name": "She's Not Me",
       "url": "https://open.spotify.com/track/2Gx4ofo5H3n2WdvJ1vuiYu"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/65jNkB2GjWLUZ223XmuKLT"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Show Me How You Burlesque (Burlesque) - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3my8nYpb74vfIPyRPo0zVq"
     },
     {
       "album": {
@@ -3563,7 +3671,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 210813,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3Sfz97E5X6dm1172XOZ8wO"
@@ -3585,7 +3693,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 213534,
       "name": "Slumber Party feat. Tinashe",
       "url": "https://open.spotify.com/track/2i9q8CteBmpslOJeQdMGqA"
@@ -3647,7 +3755,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Song 4 Mutya (Out Of Control)",
       "url": "https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV"
@@ -3957,7 +4065,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 213306,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z"
@@ -3993,7 +4101,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 214386,
       "name": "U + Ur Hand",
       "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
@@ -4047,7 +4155,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 197386,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
@@ -4119,10 +4227,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 228289,
       "name": "War Paint",
       "url": "https://open.spotify.com/track/0fFYGwyzvRLQXwm5IMK4oE"
+    },
+    {
+      "album": {
+        "name": "Emotion (Deluxe)",
+        "url": "https://open.spotify.com/album/1DFixLWuPkv3KT3TnV35m3"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Warm Blood",
+      "url": "https://open.spotify.com/track/4g9s3kTi4rHo1s52q6miZM"
     },
     {
       "album": {
@@ -4177,7 +4303,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 176947,
       "name": "Wave (feat. Mike Sabath)",
       "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New look and feel, same old playlist you love. Let's turn on the movement! Cover: NMIXX",
+  "description": "New look and feel, same old playlist you love. Let's turn on the movement! Cover: SUNMI",
   "name": "K-Pop ON! (\uc628)",
   "published_playlist_ids": [
     "05j7NY1SwyJ5jKPj2s00I0"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 210573,
       "name": "Alcohol-Free",
       "url": "https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA"
@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180956,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/6bvZRLLkBKkmgpBJTTj3QK"
+    },
+    {
+      "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
       },
@@ -943,6 +961,24 @@
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
+    },
+    {
+      "album": {
+        "name": "Oh Sorry Ya",
+        "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155214,
+      "name": "Oh Sorry Ya",
+      "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
     },
     {
       "album": {
@@ -1494,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "Play Game : AWAKE",
+        "url": "https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Ven para",
+      "url": "https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR"
+    },
+    {
+      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
@@ -1603,6 +1657,24 @@
       "duration_ms": 207650,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
+    },
+    {
+      "album": {
+        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218984,
+      "name": "You make Me",
+      "url": "https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp"
     },
     {
       "album": {

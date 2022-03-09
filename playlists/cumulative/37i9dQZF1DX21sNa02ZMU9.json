@@ -542,6 +542,28 @@
     },
     {
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/3v0AeWgJPrdPPZGt1tS2s0"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/7LP4Es66zdY7CyjepqmvAg"
+    },
+    {
+      "album": {
         "name": "Hand Built By Robots",
         "url": "https://open.spotify.com/album/4qNxTvUl9Xlt5kZF0Njr8H"
       },
@@ -643,7 +665,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1mr3616BzLdhXfJmLmRsO8"
@@ -661,7 +683,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Get the Party Started",
       "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
@@ -737,7 +759,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 227619,
       "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
       "url": "https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH"
@@ -831,7 +853,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 288360,
       "name": "I Don't Feel Like Dancin'",
       "url": "https://open.spotify.com/track/7MAXOaoJrqK8dwFhlUw18N"
@@ -885,7 +907,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2tP7ZekzXfduShx8C6cbll"
@@ -983,7 +1005,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Just The Thing",
       "url": "https://open.spotify.com/track/7Ea3bRL50VWPRqiolGTNSv"
@@ -1059,7 +1081,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 236133,
       "name": "Lift",
       "url": "https://open.spotify.com/track/786p0qCocRlAZHWxHebdmc"
@@ -1203,7 +1225,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 231466,
       "name": "No Such Thing",
       "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
@@ -1725,7 +1747,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 244866,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr"
@@ -1743,7 +1765,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 229333,
       "name": "Sunsets",
       "url": "https://open.spotify.com/track/5txqlF1lxNhkWy1xYOwr8r"
@@ -1761,7 +1783,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 182386,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6gjjyhY00azOGzdeZqyuW9"
@@ -1801,7 +1823,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/26eOTllWPn7oKuDUJnsJwF"
@@ -1909,7 +1931,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 209546,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
@@ -2039,7 +2061,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/3CNqo3gYrfexdrtjFmC9he"

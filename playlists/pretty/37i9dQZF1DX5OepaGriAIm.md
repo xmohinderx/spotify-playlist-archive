@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain](/playlists/plain/37i9dQZF1DX5OepaGriAIm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OepaGriAIm)
 
-### [Women of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm)
+### [EQUAL: Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm)
 
 > Trace the history of jazz from timeless classics to boundary\-breaking contemporary favorites\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,099 likes - 125 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,159 likes - 125 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 124 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 125 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MTY0NDUzNDAwMCwwMDAwMDAzMTAwMDAwMTdlZTVkZDZhN2EwMDAwMDE3ZDdiZWUyMDdk`
+Snapshot ID: `MTY0Njc0NjAyMSwwMDAwMDAzMjAwMDAwMTdmNjliNjJmNjMwMDAwMDE3ZjY5YjFmMjM4`

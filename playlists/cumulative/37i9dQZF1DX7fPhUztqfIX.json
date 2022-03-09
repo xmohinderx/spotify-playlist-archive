@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 386906,
       "name": "All Praise - Live",
       "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 311406,
       "name": "Calm the Storm (Live)",
       "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 329813,
       "name": "Change - Live",
       "url": "https://open.spotify.com/track/6IzMmHtGpqtGHI9y6dJJdO"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 279653,
       "name": "Christ is Enough",
       "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 288386,
       "name": "Found",
       "url": "https://open.spotify.com/track/3S9QiEXE0wFkFnUTny7BUf"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 262800,
       "name": "God of the Breakthrough",
       "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 312018,
       "name": "He Wears A Crown - Live",
       "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 185062,
       "name": "Higher Than Mine",
       "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 346591,
       "name": "How High",
       "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 249500,
       "name": "Humanity / Majesty",
       "url": "https://open.spotify.com/track/5xFpSyAqb0Z6Mk8qQbqqCE"
@@ -1277,7 +1277,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 207800,
       "name": "I Remember - Studio Version",
       "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 266620,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
@@ -1508,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "King Jesus",
+        "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414698,
+      "name": "King Jesus - Live",
+      "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
+    },
+    {
+      "album": {
         "name": "King Of Glory (Live)",
         "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
       },
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 249013,
       "name": "King Of Glory - Live",
       "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 308560,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 361627,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/5VgquNbp6fnxq6ynWbDmw9"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 420693,
       "name": "More Than Anything - Live",
       "url": "https://open.spotify.com/track/6yK3OkA2tQ6KaUDUK4fwfi"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 257812,
       "name": "No One (feat. Setnick Sene)",
       "url": "https://open.spotify.com/track/2udSExsn5OYcy7Q8Kbx684"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/5yqIFVBn9Ra40WuXhpMEFf"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 345710,
       "name": "Nothing But The Blood (Live)",
       "url": "https://open.spotify.com/track/3PdUCd6MSSC6v7VLKSQvys"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 279748,
       "name": "Oh the Love of God",
       "url": "https://open.spotify.com/track/3pX3rFQyhhaxmvNYzbQ3f3"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Over It All - Demo",
       "url": "https://open.spotify.com/track/0JrF1BwvqseeacszmR0O4F"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/6UEX4PS9R0HjfN3iG0mm7G"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 284760,
       "name": "Savior Of The World - Single Version",
       "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 195986,
       "name": "Sound of Freedom",
       "url": "https://open.spotify.com/track/0ffnyvtjsmJvME97m2JVeh"
@@ -2907,7 +2925,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 407190,
       "name": "When It Comes to You",
       "url": "https://open.spotify.com/track/3zDHLmakrSF2O7ztljntZZ"
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 339642,
       "name": "White as Snow",
       "url": "https://open.spotify.com/track/1hIBOvbiMNBOkE1eflvcjo"

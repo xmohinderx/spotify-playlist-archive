@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Congratulations to all of this year's nominees!",
+  "description": "Congratulations to all of this year's winners & nominees!",
   "name": "ACM Awards 2022",
   "published_playlist_ids": [
     "2O2A0u2oMemfyiWYSMET6A"
@@ -299,6 +299,24 @@
       "duration_ms": 219573,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
+    },
+    {
+      "album": {
+        "name": "Big Dreams and Faded Jeans",
+        "url": "https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247213,
+      "name": "Big Dreams and Faded Jeans",
+      "url": "https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet"
     },
     {
       "album": {
@@ -1454,6 +1472,28 @@
     },
     {
       "album": {
+        "name": "Just the Way",
+        "url": "https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D"
+    },
+    {
+      "album": {
         "name": "Born Here Live Here Die Here",
         "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
       },
@@ -1523,6 +1563,24 @@
       "duration_ms": 194786,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
+    },
+    {
+      "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214238,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
     },
     {
       "album": {
@@ -2070,6 +2128,28 @@
     },
     {
       "album": {
+        "name": "Praise The Lord (feat. Thomas Rhett)",
+        "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160289,
+      "name": "Praise The Lord (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
+    },
+    {
+      "album": {
         "name": "Pretty Heart",
         "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
       },
@@ -2085,6 +2165,24 @@
       "duration_ms": 244797,
       "name": "Pretty Heart",
       "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
+    },
+    {
+      "album": {
+        "name": "Raised on Country",
+        "url": "https://open.spotify.com/album/66JJneTDQTIYsQ6vEYe8qs"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175594,
+      "name": "Raised on Country",
+      "url": "https://open.spotify.com/track/6voi5xnLs9JKmWG2oLmgDU"
     },
     {
       "album": {
@@ -2241,7 +2339,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 219440,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/4ULmTlRhaDL9KzyhoueQFo"
@@ -2555,6 +2653,42 @@
       "duration_ms": 190693,
       "name": "Understand Why",
       "url": "https://open.spotify.com/track/4ezCwgeG8vFDxvNtiUGMmm"
+    },
+    {
+      "album": {
+        "name": "Born Here Live Here Die Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183597,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje"
+    },
+    {
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243266,
+      "name": "Watch You Burn",
+      "url": "https://open.spotify.com/track/7J0GgWPMf5OTSJK6uXxFe0"
     },
     {
       "album": {

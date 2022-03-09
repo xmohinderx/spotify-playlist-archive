@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,930 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,971 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 66 | [Leo Leo](https://open.spotify.com/track/2wetsVvxCvDu5NDXo7v7Wb) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Leo Leo](https://open.spotify.com/album/5TmDMmHEW9pNDthQL6a13V) | 3:07 |
 | 67 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 |
 | 68 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 |
-| 69 | [Swagg](https://open.spotify.com/track/3U1wjyEjTcdGQUTwsGHrpY) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Swagg](https://open.spotify.com/album/3sz09gojJ618LB5ilGNhTA) | 3:31 |
+| 69 | [Swagg](https://open.spotify.com/track/3U1wjyEjTcdGQUTwsGHrpY) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Swagg](https://open.spotify.com/album/3sz09gojJ618LB5ilGNhTA) | 3:31 |
 | 70 | [Kama Unae](https://open.spotify.com/track/4nlevgaJwaJShkPGD36kYQ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Kid Golden](https://open.spotify.com/artist/1mVLIIOcE7lXrw47yFUxYU), [Paul Peter Matthysse](https://open.spotify.com/artist/25nD2JksQyjpZxchxgvgDK) | [Wanangu 99](https://open.spotify.com/album/5R6gnSXhq3hNUgeeaKBlZJ) | 3:24 |
 
 Snapshot ID: `MTY0NjM0MTE0MCwwMDAwMDA0MzAwMDAwMTdmNTE5NDJlOWIwMDAwMDE3ZjNmZTVlZmE2`

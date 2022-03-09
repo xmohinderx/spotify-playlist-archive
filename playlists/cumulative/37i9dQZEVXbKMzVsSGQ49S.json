@@ -798,6 +798,28 @@
     },
     {
       "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "album": {
         "name": "Lengi lifum vi\u00f0",
         "url": "https://open.spotify.com/album/2CMdGmSXOv4k0k35t3u9Z6"
       },
@@ -2347,7 +2369,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 183947,
       "name": "Ef \u00e1stin er hrein (feat. GDRN)",
       "url": "https://open.spotify.com/track/519zAAsZrSxcdIiC2X0MHw"
@@ -4891,7 +4913,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 178946,
       "name": "H\u00e6kkum \u00ed botn",
       "url": "https://open.spotify.com/track/0LU4WGvqi88j2RjDhhN6Dm"
@@ -6557,7 +6579,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -8825,7 +8847,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 141276,
       "name": "Reggae & Calypso (Russ Millions x Buni x YV)",
       "url": "https://open.spotify.com/track/3FMedgGsLUNwx8NciePFEK"
@@ -9798,6 +9820,24 @@
     },
     {
       "album": {
+        "name": "Nevermind (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232203,
+      "name": "Something In The Way - Remastered",
+      "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
+    },
+    {
+      "album": {
         "name": "Spending My Time",
         "url": "https://open.spotify.com/album/0GFJVXoCvHj3Wazmia0rx1"
       },
@@ -10591,7 +10631,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 257213,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
@@ -10635,7 +10675,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"

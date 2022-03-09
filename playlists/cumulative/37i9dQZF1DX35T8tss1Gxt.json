@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 192000,
       "name": "Act Right",
       "url": "https://open.spotify.com/track/4kEdfHJnEs0nmOGypj2QqB"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 255468,
       "name": "All That's Within Me",
       "url": "https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 287205,
       "name": "All This",
       "url": "https://open.spotify.com/track/15uuKZIuhC2bzgsya33JxW"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 165405,
       "name": "Another In The Fire",
       "url": "https://open.spotify.com/track/6WHwV2HTbHqZ7yPqliO5cf"
@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/31N8Te52jkft4appFKnqzd"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162741,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4ScuweLj0tTDZobFXMBEEy"
+    },
+    {
+      "album": {
         "name": "E6 (Hot Mix)",
         "url": "https://open.spotify.com/album/3VWh2UjLcYbic1FFmkzL9B"
       },
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Eternal Eyes",
       "url": "https://open.spotify.com/track/7uj5EABJQit9vNb4IPwf3y"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 237684,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/4yUdZ5MKh2XWoxcUP1wKlQ"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 283693,
       "name": "Found In You",
       "url": "https://open.spotify.com/track/5rslaXHRbFr8rq9Lnvshy7"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 275412,
       "name": "Goin' Up (feat. Aaron Cole)",
       "url": "https://open.spotify.com/track/2WGLMKLoN34qT6vTPVo3Xa"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "Goodness and Mercy",
       "url": "https://open.spotify.com/track/5lnh7ZU2YS7MqFB8FH2IOB"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 230400,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/7ouTAQjTCipK9Ag5GAwqE0"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 311640,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5ALPne4FwgXQSsbeZcmtUZ"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 221667,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/2gBzzuRTz1Yyw4vPKWymJ9"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 240845,
       "name": "It's Gonna Be Alright - Remix Radio Edit",
       "url": "https://open.spotify.com/track/3RM2kL165af3sq7Q9kpTiA"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 219614,
       "name": "Let Him In",
       "url": "https://open.spotify.com/track/00JwSM2j1iwqba0cEZUJNu"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 212274,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0sFz91C0QxRjB7jYxSdZx0"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 158399,
       "name": "Mind Remix",
       "url": "https://open.spotify.com/track/08f44TILBPrfpzKF4GtMbf"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 160000,
       "name": "my heart",
       "url": "https://open.spotify.com/track/4HTusGcaDNc0LRJ7EPGo1N"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 249322,
       "name": "Never Let Me Down - Radio Edit",
       "url": "https://open.spotify.com/track/0vlEquyZ5kmN7BRAEd1prT"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 224100,
       "name": "Pretty Brown Skin (feat. EUGENE KIING & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/5EAX9QacyUHrlftFcpmELT"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/7FwjUHTuAFPSZCKcAiify8"
@@ -2757,7 +2775,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 240105,
       "name": "SEARCH ME",
       "url": "https://open.spotify.com/track/1e20PTHf4mZhewGYhHTzgL"
@@ -2873,7 +2891,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 157780,
       "name": "Single & I Love It",
       "url": "https://open.spotify.com/track/68MMQ3Gbf1n8uQqqNaNbuZ"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 190714,
       "name": "This Is How I Thank The Lord",
       "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
@@ -3113,7 +3131,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 156831,
       "name": "This Loving",
       "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
@@ -3165,7 +3183,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 196120,
       "name": "trust in you",
       "url": "https://open.spotify.com/track/1dkehSF3jpeDXfeiJBzWcz"
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 180023,
       "name": "Unappreciated",
       "url": "https://open.spotify.com/track/0WmoLUqAtbN2IuSGVjL8X5"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 287346,
       "name": "Unborn",
       "url": "https://open.spotify.com/track/0G6JshZwTk2raO9262yk09"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 199010,
       "name": "Wade In The Water - Live",
       "url": "https://open.spotify.com/track/1xcC0GKNgEWDjWxawt29Nl"
@@ -3381,7 +3399,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 178834,
       "name": "You",
       "url": "https://open.spotify.com/track/1SJdqZMc1xRxAO0J87ClGG"
@@ -3403,7 +3421,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 153666,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/0K1nuUsU4PtFd9YhfxJy9T"
@@ -3443,7 +3461,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 292272,
       "name": "You Didn't Break It",
       "url": "https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN"
@@ -3505,7 +3523,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 185454,
       "name": "Your Love Is Simple - Chris Howland Remix",
       "url": "https://open.spotify.com/track/5tGLlErR37eyo9Md7rdEe8"

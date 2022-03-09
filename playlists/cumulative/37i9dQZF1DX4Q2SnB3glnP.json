@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Breezy Blossoms",
+        "url": "https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b"
+      },
+      "artists": [
+        {
+          "name": "Antero Lehto",
+          "url": "https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Breezy Blossoms",
+      "url": "https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f"
+    },
+    {
+      "album": {
         "name": "Brillo En El Mar",
         "url": "https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP"
       },
@@ -3649,6 +3667,24 @@
       "duration_ms": 132306,
       "name": "Yoga Depth",
       "url": "https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46"
+    },
+    {
+      "album": {
+        "name": "Zeppelin See",
+        "url": "https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa"
+      },
+      "artists": [
+        {
+          "name": "Montbretia",
+          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Zeppelin See",
+      "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4Q2SnB3glnP"

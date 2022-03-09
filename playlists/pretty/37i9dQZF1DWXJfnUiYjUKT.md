@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,162 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,273 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 15 | [Never Ending](https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:57 |
 | 16 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 |
 | 17 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 |
-| 18 | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
+| 18 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
 | 19 | [Sometimes](https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Sometimes](https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF) | 2:46 |
 | 20 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DOECHII](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
 | 21 | [What Everybody Wants](https://open.spotify.com/track/6xkghIDZwnZtTfpjEqccrr) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes \(Deluxe\)](https://open.spotify.com/album/6M3X8VGDuFXvqoj1mLS0eV) | 2:30 |

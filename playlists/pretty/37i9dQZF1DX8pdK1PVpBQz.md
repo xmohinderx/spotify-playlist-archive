@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Chelsea Jade\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,546 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,575 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

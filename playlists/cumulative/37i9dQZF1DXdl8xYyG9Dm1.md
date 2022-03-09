@@ -2,7 +2,7 @@
 
 ### [No Wahala](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
-> The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E?si=uEUsY20uRKueUm\-r8PBApQ"> Faith K </a>
+> The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=SSgpy2JnRyujmu9ty\_3Hzg"> Zoocci Coke Dope  </a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5hL1aT2vhMb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hL1aT2vhMb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hL1aT2vhMb)
 
-### [Women of Classical](https://open.spotify.com/playlist/012aSLmowAebrua7OTJ5nZ)
+### [EQUAL: Classical](https://open.spotify.com/playlist/012aSLmowAebrua7OTJ5nZ)
 
-> Celebrate the great women composers who continue to transform the classical world\. Cover: Hania Rani and Dobrawa Czocher
+> Celebrate the great women composers who continue to transform the classical world\. Cover: Olivia Belli
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Flight](https://open.spotify.com/track/6Wn3TQhCt3HEQVpw8fXRwJ) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Flight](https://open.spotify.com/album/3MEd2aRhQnRBjtWRtQY314) | 4:29 | 2021-12-13 |  |
 | [For Airi](https://open.spotify.com/track/1qEJ1pHXVtuMTeHPvk0hMS) | [Errollyn Wallen](https://open.spotify.com/artist/6Vl4eGV594sQXxRQDMOSCw), [Fenella Humphreys](https://open.spotify.com/artist/2y5f64ZV3wDZHP4j3fgvg6) | [Errollyn Wallen: For Airi](https://open.spotify.com/album/181OZDdEFmMuDRilvLcpHk) | 6:10 | 2022-03-04 |  |
 | [From My Garden for Viola](https://open.spotify.com/track/64Qe81hJnfgWcFpvXh7DiF) | [Ursula Mamlok](https://open.spotify.com/artist/653cVD6X1NXCPYtYlV88sq), [Hartmut Rohde](https://open.spotify.com/artist/7d87rxxZfkcbSoJyDWQo0u) | [Mamlok: String Quartet No\. 1 \- Polyphony No\. 1](https://open.spotify.com/album/3zhrZOF4HBOP7J2a2HxA3C) | 6:47 | 2021-12-13 |  |
+| [Island II](https://open.spotify.com/track/2vUY8WL94C9ortPW7AwwEE) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sol Novo](https://open.spotify.com/album/3JWpVOW9aj9y5eoMaUFbFN) | 2:23 | 2022-03-08 |  |
 | [L'Amour de loin: Premier acte \(Traversée\)](https://open.spotify.com/track/6qYCeiqAVBnHTba6V7bjMU) | [Kaija Saariaho](https://open.spotify.com/artist/35ooFrlJDRGXeuI2fL70d3), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Kaija Saariaho: L'Amour de loin](https://open.spotify.com/album/0U87oFi5yMbht78x78l5BE) | 5:41 | 2021-12-13 |  |
 | [L'Ondine, Op\. 101](https://open.spotify.com/track/0yrHoMVTYMzudpVkauhMJm) | [Cécile Chaminade](https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk), [Anette Muller\-Roos](https://open.spotify.com/artist/6C6tQ7BN7gF18TKPEx54ec) | [Inspired Women](https://open.spotify.com/album/1X9IhNKc10XpG2YkD1D6V9) | 3:42 | 2022-01-26 |  |
 | [Louella](https://open.spotify.com/track/4KZjoARqRW6xvGQ1PC0BRv) | [Emilie Levienaise\-Farrouch](https://open.spotify.com/artist/4L9xhLgedQ5e9BwaVNunWf), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Inland](https://open.spotify.com/album/0TvU10qcRdU9hR5Vl1tD0D) | 1:40 | 2021-12-13 |  |

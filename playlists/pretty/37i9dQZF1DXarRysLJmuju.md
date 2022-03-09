@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,093 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,145 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

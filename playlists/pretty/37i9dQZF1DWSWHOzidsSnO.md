@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Mujeres colombianas a todo volumen! En portada: Kali Uchis
+> ¡Mujeres colombianas a todo volumen! En portada: Totó La Momposina
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,353 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,554 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 1 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 |
 | 2 | [Cafecito Para Dos](https://open.spotify.com/track/1PgVif1282OX4Bcm49DxpT) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Cafecito Para Dos](https://open.spotify.com/album/3mocltU8GILvbWMquiATqn) | 3:01 |
 | 3 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 |
 | 4 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 |
-| 5 | [Por Infiel](https://open.spotify.com/track/6kA6ItJcRJTQK3XkZqnEy1) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Por Infiel](https://open.spotify.com/album/0eHJV4b2FT7jGtLZG1VQ4H) | 2:46 |
-| 6 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 |
-| 7 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
-| 8 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 |
-| 9 | [De Fuego](https://open.spotify.com/track/6WmA8K4fywCoN70Z4YmdiT) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [De Fuego](https://open.spotify.com/album/2t7K8A7GcSuiEG0Q3fMqW1) | 3:03 |
-| 10 | [Perro Es Perro](https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Perro Es Perro](https://open.spotify.com/album/3PXimCd1eMcfJFCAfCy9gC) | 2:51 |
+| 5 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 |
+| 6 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
+| 7 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 |
+| 8 | [De Fuego](https://open.spotify.com/track/6WmA8K4fywCoN70Z4YmdiT) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [De Fuego](https://open.spotify.com/album/2t7K8A7GcSuiEG0Q3fMqW1) | 3:03 |
+| 9 | [Perro Es Perro](https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Perro Es Perro](https://open.spotify.com/album/3PXimCd1eMcfJFCAfCy9gC) | 2:51 |
+| 10 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 11 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 |
 | 12 | [Demasiao](https://open.spotify.com/track/61BQX0yQEUUTWlYZg1CxBY) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Demasiao](https://open.spotify.com/album/3ErfNfpKjlVaavyhWc4MG2) | 2:46 |
 | 13 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 69 | [Ojos Noche](https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL) | 4:00 |
 | 70 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MTY0NjQyMzI4OSwwMDAwMDA0MzAwMDAwMTdmNTY3OWFlOGIwMDAwMDE3ZWJhYTIyYWU1`
+Snapshot ID: `MTY0NjcxODc4MCwwMDAwMDA0NDAwMDAwMTdmNjgxNjgyY2IwMDAwMDE3ZjUzMTA3MTg0`

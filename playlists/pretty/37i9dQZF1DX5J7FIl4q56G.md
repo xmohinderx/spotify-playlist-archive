@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,939 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,285 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 16 | [Orgy in the Morgue](https://open.spotify.com/track/0EMKvC3xGPr6LfTgcVYMvV) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 3:20 |
 | 17 | [Golden Future](https://open.spotify.com/track/5TOlemfwkpjdbpjPBuUi9G) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [Golden Future](https://open.spotify.com/album/4RRGaoMOoXBpvSiDjpxdz5) | 3:31 |
 | 18 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 |
-| 19 | [May It Be](https://open.spotify.com/track/4dxT3byfL0g1mlPjHxk18d) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb), [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [May It Be](https://open.spotify.com/album/3CopkuccqoeUUM8havVeNh) | 4:08 |
+| 19 | [May It Be](https://open.spotify.com/track/4dxT3byfL0g1mlPjHxk18d) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI), [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [May It Be](https://open.spotify.com/album/3CopkuccqoeUUM8havVeNh) | 4:08 |
 | 20 | [Leviathan](https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Leviathan](https://open.spotify.com/album/7fbTDvnweDQXMW3YNdGgBS) | 4:34 |
 | 21 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 |
 | 22 | [Hierophant](https://open.spotify.com/track/6Z81Mgv0n5CYhGcSQvhHOh) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Hierophant](https://open.spotify.com/album/3kuUtTdSvGPUStfmqkTYuO) | 4:05 |

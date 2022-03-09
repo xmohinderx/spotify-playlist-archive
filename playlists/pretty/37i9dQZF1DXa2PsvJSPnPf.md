@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,463 likes - 115 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,509 likes - 115 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 6 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
 | 7 | [Michigan](https://open.spotify.com/track/0WkJWnMCumm1fnFscdY7Rw) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/12M64Waii6uYeGrpkUwo3K) | 5:30 |
 | 8 | [Fast Like a Match](https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Fast Like a Match](https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6) | 2:41 |
-| 9 | [Belly of the Beast](https://open.spotify.com/track/0wVW9re949n7qz4wSahxef) | [Watchhouse](https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:11 |
+| 9 | [Belly of the Beast](https://open.spotify.com/track/0wVW9re949n7qz4wSahxef) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN) | 4:11 |
 | 10 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 | 11 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 12 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 62 | [Poor Lost Souls](https://open.spotify.com/track/3wG5ynGTSJy7JtWzCIMDFR) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/4rRGLoOo2DIwGg8szXLsrK) | 4:16 |
 | 63 | [Georgia Drumbeat](https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo) | 2:50 |
 | 64 | [The Time for Flowers](https://open.spotify.com/track/2dzZaRN9Uqp1JEic2lQ4k5) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [The Time for Flowers](https://open.spotify.com/album/3xhTmtzpGjC8IjT84xhaRg) | 3:59 |
-| 65 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
+| 65 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
 | 66 | [Just Want To Be Loved](https://open.spotify.com/track/0NYl9aDHEcTNQ8SKu8GLqM) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:16 |
 | 67 | [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 |
 | 68 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 76 | [The Cure](https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Brother Sister](https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL) | 3:57 |
 | 77 | [War With My Mind](https://open.spotify.com/track/6dV5ohVw7jYD7ZeMsSz15j) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [War With My Mind](https://open.spotify.com/album/3Gf11NuU7KYiVZJ2Cn7UcQ) | 4:04 |
 | 78 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/4WuMWn9T3SboX6NW2SDFC7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/2v80dfb7HwsIeIQgi4ooNm) | 5:15 |
-| 79 | [Time We Made Time](https://open.spotify.com/track/5YZh8S8hKuaKB0Rs9XcLhW) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Time We Made Time](https://open.spotify.com/album/5T1VfEDIptAH3Qet8NleOY) | 4:55 |
+| 79 | [Time We Made Time](https://open.spotify.com/track/5YZh8S8hKuaKB0Rs9XcLhW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Time We Made Time](https://open.spotify.com/album/5T1VfEDIptAH3Qet8NleOY) | 4:55 |
 | 80 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
 | 81 | [Nearing Home](https://open.spotify.com/track/0sJWTQfu5h2l5MgffbNfOZ) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/5wypLtHgbpupR5THbQeaTM) | 3:38 |
 | 82 | [We're All in This Together Now](https://open.spotify.com/track/7DPcXtOGL9yzR9KsoUlKqU) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [We're All in This Together Now](https://open.spotify.com/album/7L3P1iEoljsP34W4rCocbY) | 4:02 |

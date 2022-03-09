@@ -496,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Tough Boy",
+        "url": "https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149617,
+      "name": "Fake Smile",
+      "url": "https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2"
+    },
+    {
+      "album": {
         "name": "Feel Something (feat. Duncan Laurence)",
         "url": "https://open.spotify.com/album/7ex8A5McEuRHMwynXZgONx"
       },

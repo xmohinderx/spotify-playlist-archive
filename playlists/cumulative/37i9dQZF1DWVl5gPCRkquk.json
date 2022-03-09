@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Birds",
       "url": "https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 236177,
       "name": "Cascades",
       "url": "https://open.spotify.com/track/5Wp1uC4TKl5gPTWF0GjfdK"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 217997,
       "name": "Field Notes on an Endless Day",
       "url": "https://open.spotify.com/track/3DCBRhUy3ypOvOTSgHIhky"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 186533,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 255467,
       "name": "Heartache After Heartache",
       "url": "https://open.spotify.com/track/188k8ICwKJcbNEHowkxRKW"
@@ -1708,7 +1708,7 @@
       "artists": [
         {
           "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S"
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
       "date_added": "2021-10-29",
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 212471,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 195494,
       "name": "Paula Collins",
       "url": "https://open.spotify.com/track/4bmsylpNL4dgJkEZ7nApzW"
@@ -2027,7 +2027,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 192053,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/2thyOEqaDSJwb9jaHvsa6F"
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 190000,
       "name": "Secret - Acoustic",
       "url": "https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P"
@@ -2161,7 +2161,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"
@@ -2251,7 +2251,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 370200,
       "name": "Song For Zula",
       "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
@@ -2461,7 +2461,7 @@
       },
       "artists": [
         {
-          "name": "Mandolin Orange",
+          "name": "Watchhouse",
           "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
@@ -2579,7 +2579,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX"

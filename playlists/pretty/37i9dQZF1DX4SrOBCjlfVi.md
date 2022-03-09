@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring King Von, A Boogie, and more\. Cover: DaBaby & NBA Youngboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,227 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,490 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Turbo](https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 2:59 |
 | 2 | [Straight To It \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:58 |
 | 3 | [Publicity Stunt](https://open.spotify.com/track/1SKkHYkGqhadpciJKXfRhU) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Publicity Stunt](https://open.spotify.com/album/12XcAM4LFALAk3I3h9M9of) | 3:16 |
-| 4 | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
+| 4 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
 | 5 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 |
 | 6 | [Sometimes](https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Sometimes](https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF) | 2:46 |
 | 7 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 |

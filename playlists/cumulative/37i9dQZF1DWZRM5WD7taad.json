@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
+    },
+    {
+      "album": {
         "name": "Bilingue",
         "url": "https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf"
       },
@@ -484,6 +502,24 @@
     },
     {
       "album": {
+        "name": "HOEHIPHOP",
+        "url": "https://open.spotify.com/album/3Tf3zB3CF9SySnTZiNg4E7"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/4vBFex92UAoPQdSqrzdpNd"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "HOEHIPHOP",
+      "url": "https://open.spotify.com/track/348NgnWNjXqG8vMO3KusxW"
+    },
+    {
+      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/6WQonABzkyv6R7VsNhRjo9"
       },
@@ -789,7 +825,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 161250,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/55bd4KmdD0m1o4cmreo5uJ"
@@ -1177,7 +1213,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 168433,
       "name": "Quieres Volver",
       "url": "https://open.spotify.com/track/0sE9ipQEnacBPDJ2hVUded"
@@ -1253,7 +1289,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 154450,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Aretha Franklin",
+  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
   "name": "Women of R&B",
   "published_playlist_ids": [
     "4Hyc8FBwGAkz0KJlOJzNHJ"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 252533,
       "name": "Hey Mr. DJ",
       "url": "https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ"
@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "album": {
         "name": "The Best Of Brandy (with bonus track)",
         "url": "https://open.spotify.com/album/3Wp3pDoipERYHTH020cbQk"
       },
@@ -447,7 +465,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 404213,
       "name": "I Wonder If I Take You Home",
       "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
@@ -483,7 +501,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 260240,
       "name": "I've Got Love On My Mind",
       "url": "https://open.spotify.com/track/7cmvEuNhRpJT7xVN79hvPL"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 239653,
       "name": "Let Me Be Your Angel",
       "url": "https://open.spotify.com/track/3UteV5HVR6c6vMfFTvYtuG"
@@ -689,10 +707,32 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 264266,
       "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
       "url": "https://open.spotify.com/track/2eCDuQgR7ZLMSoFlbqkd8X"
+    },
+    {
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "album": {
@@ -895,7 +935,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 266173,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/79OBBymbNYRof6aNHRCV6F"

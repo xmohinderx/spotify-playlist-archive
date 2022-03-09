@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 182420,
       "name": "3 Months",
       "url": "https://open.spotify.com/track/2bm7HuBe4qhsVwwbm5rbWZ"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 204600,
       "name": "30",
       "url": "https://open.spotify.com/track/2mF0a6QdJY5WDWar4THKyi"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 254866,
       "name": "After The Rain \ube44\uac00 \uadf8\uce58\uace0 \ub098\uba74",
       "url": "https://open.spotify.com/track/6e6tVmCBpFAWopWgnclcqs"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 199640,
       "name": "Better",
       "url": "https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 212842,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 231259,
       "name": "Could You Be My Song \uc0c8\ubcbd\u2606",
       "url": "https://open.spotify.com/track/2N1m67XDI7V3OQ6alngjRl"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 208022,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3cs3lGvmdiksYhEn8nnslm"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 211346,
       "name": "For You (Holiday Remix) - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "How Do You Feel \uc5b4\ub5a8 \uac83 \uac19\uc544",
       "url": "https://open.spotify.com/track/13TsBlKDFHcBrxCzAZv3qy"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 201295,
       "name": "I want to see you again",
       "url": "https://open.spotify.com/track/1kVjixoK9haTO1NxlBf6hh"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 272386,
       "name": "INCOMPLETE",
       "url": "https://open.spotify.com/track/1YI04hmMPhmcutJm1bpp0c"
@@ -1548,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "Oh Sorry Ya",
+        "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155214,
+      "name": "Oh Sorry Ya",
+      "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
+    },
+    {
+      "album": {
         "name": "Dream Carousel",
         "url": "https://open.spotify.com/album/5muUC6jA14752TNSBMOtoY"
       },
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 166238,
       "name": "Piece Of Stars",
       "url": "https://open.spotify.com/track/7z2fpDv4PfwdtjIj1FxZGK"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 215610,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/183LBqwbF66GTjGMH7fiMP"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 196453,
       "name": "Shiny Light",
       "url": "https://open.spotify.com/track/0qpfmbAzsdXiKIQWokdSYB"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 190050,
       "name": "Tie a Cherry",
       "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 227198,
       "name": "Trip \uc5ec\ud589",
       "url": "https://open.spotify.com/track/78iqyVhGvzdGL1WUflBpAl"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 190785,
       "name": "TWIT",
       "url": "https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 217134,
       "name": "Wisue \ud587\ube5b\ucc98\ub7fc \ube7c\uc5b4\ub09c",
       "url": "https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE"
@@ -2759,7 +2777,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 218235,
       "name": "youknowbetter \ub2c8\uac00 \ub354 \uc798 \uc54c\uc796\uc544",
       "url": "https://open.spotify.com/track/1ej66Z3M6DfmoZeJCSrOxN"

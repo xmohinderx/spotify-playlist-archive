@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
       },
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 263269,
       "name": "Distancia - Remix",
       "url": "https://open.spotify.com/track/7K3MP841Z0yq9mcKWL0sNB"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 152400,
       "name": "Historia de un Amor - avec Pablo Alboran",
       "url": "https://open.spotify.com/track/5J6v7TQWGtEfOlSJlIeEqU"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 204316,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
@@ -1778,6 +1796,24 @@
     },
     {
       "album": {
+        "name": "La Trampa es Ley",
+        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141864,
+      "name": "La Trampa es Ley",
+      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+    },
+    {
+      "album": {
         "name": "La Ultima Vez",
         "url": "https://open.spotify.com/album/2UYJSRhqmqcHEson9D5sO0"
       },
@@ -1917,6 +1953,36 @@
     {
       "album": {
         "name": "Mala",
+        "url": "https://open.spotify.com/album/4UOzvysEvszNx8c4kzqHk9"
+      },
+      "artists": [
+        {
+          "name": "Poseidon",
+          "url": "https://open.spotify.com/artist/1gxdThXHiWiUTGIrOS7kpw"
+        },
+        {
+          "name": "RVS",
+          "url": "https://open.spotify.com/artist/6ZAaL51t20ryEyzYYwb3OM"
+        },
+        {
+          "name": "Brayy Music",
+          "url": "https://open.spotify.com/artist/5fUGhPWKsteeoQfBWuIouM"
+        },
+        {
+          "name": "King Pride",
+          "url": "https://open.spotify.com/artist/5VnuplnWQXIg34e6zcTQcD"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/1T2zW5YYHxPauHtGE4Aqnz"
+    },
+    {
+      "album": {
+        "name": "Mala",
         "url": "https://open.spotify.com/album/5RAF7Rbi8HMy2diMqbbGcF"
       },
       "artists": [
@@ -1953,6 +2019,28 @@
       "duration_ms": 192573,
       "name": "Mami",
       "url": "https://open.spotify.com/track/20ScqiAHw5bBjinvkxDp4F"
+    },
+    {
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "album": {
@@ -2037,7 +2125,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
@@ -2171,7 +2259,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -2215,7 +2303,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
@@ -2992,6 +3080,28 @@
     },
     {
       "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/1TOMbiz5YRkt4YFTKrqCPX"
+      },
+      "artists": [
+        {
+          "name": "Blxndy",
+          "url": "https://open.spotify.com/artist/06P15y5H0ATAeUu81mde3F"
+        },
+        {
+          "name": "Alldizy",
+          "url": "https://open.spotify.com/artist/3hY1a7dAWKcpkSw5zQnQFr"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/5gZPcJfFnJIGZBTPa6hoFG"
+    },
+    {
+      "album": {
         "name": "Shaku Quil",
         "url": "https://open.spotify.com/album/1qsy60mmfeKyLUL4P6GEm9"
       },
@@ -3011,6 +3121,24 @@
       "duration_ms": 190775,
       "name": "Sr. Oficial",
       "url": "https://open.spotify.com/track/6CBzpQbsctRxabC9mYri4d"
+    },
+    {
+      "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
     },
     {
       "album": {
@@ -3229,7 +3357,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"

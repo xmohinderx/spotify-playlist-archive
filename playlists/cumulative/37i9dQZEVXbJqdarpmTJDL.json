@@ -7039,7 +7039,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 150858,
       "name": "Mango",
       "url": "https://open.spotify.com/track/5VcyKjkocEbeh3pw8GioJk"
@@ -8875,6 +8875,24 @@
       "duration_ms": 206457,
       "name": "Pali Girisa",
       "url": "https://open.spotify.com/track/4BId9LnmRAaun8GsS8shTE"
+    },
+    {
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/5zx6yjMEp0TVohDeBjvpBN"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167947,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/5MSjkbXoVSgd0i9Bkwm0nd"
     },
     {
       "album": {

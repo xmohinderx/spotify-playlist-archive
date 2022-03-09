@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5sOH3YgmxsX.md) - [plain]
 
 > Papos, piadas, risadas e convidados certeiros: aqueles podcasts que são sucesso!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,725 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 12,726 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

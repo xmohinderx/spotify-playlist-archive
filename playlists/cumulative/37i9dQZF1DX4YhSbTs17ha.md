@@ -2,7 +2,7 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
 
-> Escucha las canciones de pop más exitosas en México\. En portada: Maná & Christian Nodal.
+> Escucha las canciones de pop más exitosas en México\. En portada: Bruses
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 | 2022-02-04 |  |
 | [De Pies a Cabeza](https://open.spotify.com/track/1wTuF2qEjsKUCwTTrennmx) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [De Pies a Cabeza](https://open.spotify.com/album/1uuumfrsBCVJ8QGO8kHSL4) | 3:04 | 2022-02-04 | 2022-02-26 |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-18 |  |
-| [Dos Veces](https://open.spotify.com/track/1OBAWijV9qQIBu5fCHRomS) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Dos Veces](https://open.spotify.com/album/4BchCVcAvu2fNGjqiqFFJe) | 2:25 | 2022-02-04 |  |
+| [Dos Veces](https://open.spotify.com/track/1OBAWijV9qQIBu5fCHRomS) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Dos Veces](https://open.spotify.com/album/4BchCVcAvu2fNGjqiqFFJe) | 2:25 | 2022-02-04 | 2022-03-09 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2022-02-04 | 2022-02-12 |
 | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/track/2FpvK90F0hDiZ5cNqFQhyd) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Mabel](https://open.spotify.com/artist/7mM2sm7CppI1adkdG5nURJ) | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/album/6HR4ZwP1SpSH3IafP2VPSq) | 4:16 | 2022-02-04 |  |
 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 | 2022-02-04 |  |
@@ -110,6 +110,7 @@
 | [Una Chica Como Tú](https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Chica Como Tú](https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M) | 2:47 | 2022-02-04 |  |
 | [Vacaciones](https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vacaciones](https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG) | 2:35 | 2022-02-04 |  |
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2022-02-04 |  |
+| [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-08 |  |
 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2022-02-04 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-25 |  |
 | [Yo No Te Olvido](https://open.spotify.com/track/0B1wfBxRDSUEYnzcyQYmyi) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Yo No Te Olvido](https://open.spotify.com/album/5TDXuO3jMxlrjoy3cmLMyo) | 2:42 | 2022-02-04 |  |

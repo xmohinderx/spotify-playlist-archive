@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain](/playlists/plain/37i9dQZF1DWWW53w3AslFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWW53w3AslFX)
 
-### [Women of Indie \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWWW53w3AslFX)
+### [Women of Indie](https://open.spotify.com/playlist/37i9dQZF1DWWW53w3AslFX)
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,709 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,723 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

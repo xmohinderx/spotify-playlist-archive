@@ -2,10 +2,11 @@
 
 ### [Women of Worship](https://open.spotify.com/playlist/22bPetK1VLYHItsWqIDfAJ)
 
-> Celebrating the women of worship music! Cover: Lauren Daigle
+> Celebrating the women of worship music! Cover: Brooke Ligertwood
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 | 2022-03-09 |  |
 | [A Woman](https://open.spotify.com/track/74z3fROToqDySr3Al4hABk) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [A Woman](https://open.spotify.com/album/13fcRwWwx7Ecwma3vVaPO4) | 5:20 | 2021-03-02 |  |
 | [Alabaster Heart \(Live\)](https://open.spotify.com/track/5tvyBw58RUK5l2QyKghTzn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Alabaster Heart \(Live\)](https://open.spotify.com/album/5kMHXaEbgek2K2KXUg8c4Y) | 8:30 | 2021-03-02 |  |
 | [Already Done](https://open.spotify.com/track/2bcjiEmggC5r06kuLuwGIm) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/0RBO5fep7UmvtUBd0102HW) | 5:24 | 2021-03-02 |  |

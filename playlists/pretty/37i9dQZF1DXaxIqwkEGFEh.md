@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: 22Gz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,483 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,997 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 13 | [I Hate YoungBoy](https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Hate YoungBoy](https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao) | 4:21 |
 | 14 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 |
 | 15 | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb) | 2:59 |
-| 16 | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different \(feat\. B\-Lovee\)](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
+| 16 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
 | 17 | [Dolla Fo' Dolla](https://open.spotify.com/track/3jygqNqsSwvuICQMU65bEW) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [10Percent](https://open.spotify.com/artist/3taVPHqiHmPFwAK7hlfGpj) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 3:05 |
 | 18 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
 | 19 | [Said It’s Lit](https://open.spotify.com/track/4sw5u1NAL7Wd1WaPBEHOFj) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Said It’s Lit](https://open.spotify.com/album/7vkA6H43oTStJyxEJeyIiI) | 2:30 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 37 | [Top Of The Key](https://open.spotify.com/track/3Xm5vrj7mIjXlnYavul1FV) | [Band Gang Masoe](https://open.spotify.com/artist/2gLPsLWmFGGtoKLTK3I3hB) | [Top Of The Key](https://open.spotify.com/album/0HQ1PqDqIHrwCnOoPiHPNT) | 2:25 |
 | 38 | [Set Me Free](https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Set Me Free](https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx) | 3:13 |
 | 39 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 |
-| 40 | [I'm In Her](https://open.spotify.com/track/00vLPEjm5Wc9WX378Mfaqs) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [I'm In Her](https://open.spotify.com/album/6VbNrgdQYSiLM97kFPHosL) | 2:41 |
+| 40 | [I'm In Her \(feat\. Doe Boy\)](https://open.spotify.com/track/00vLPEjm5Wc9WX378Mfaqs) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [I'm In Her \(feat\. Doe Boy\)](https://open.spotify.com/album/6VbNrgdQYSiLM97kFPHosL) | 2:41 |
 | 41 | [4's Up](https://open.spotify.com/track/2f5hNzC7H56KsR1GAdG5cR) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [4's Up](https://open.spotify.com/album/5XMm4LbpzsyRvsTsAB60NR) | 2:12 |
 | 42 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
 | 43 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 |

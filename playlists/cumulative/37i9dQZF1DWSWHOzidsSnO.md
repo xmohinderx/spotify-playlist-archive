@@ -2,7 +2,7 @@
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
-> ¡Mujeres colombianas a todo volumen! En portada: Kali Uchis
+> ¡Mujeres colombianas a todo volumen! En portada: Totó La Momposina
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 | 2022-01-05 | 2022-03-05 |
 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 | 2022-01-05 |  |
 | [Perro Es Perro](https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Perro Es Perro](https://open.spotify.com/album/3PXimCd1eMcfJFCAfCy9gC) | 2:51 | 2022-03-04 |  |
-| [Por Infiel](https://open.spotify.com/track/6kA6ItJcRJTQK3XkZqnEy1) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Por Infiel](https://open.spotify.com/album/0eHJV4b2FT7jGtLZG1VQ4H) | 2:46 | 2022-03-04 |  |
+| [Por Infiel](https://open.spotify.com/track/6kA6ItJcRJTQK3XkZqnEy1) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Por Infiel](https://open.spotify.com/album/0eHJV4b2FT7jGtLZG1VQ4H) | 2:46 | 2022-03-04 | 2022-03-09 |
 | [Ruiseñora](https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/2TCFGGgfl6tV6TEonST3Jm) | 3:43 | 2022-01-05 |  |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2022-01-05 |  |
 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana Velasquez](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 | 2022-01-05 |  |
@@ -87,6 +87,7 @@
 | [Vete](https://open.spotify.com/track/48drpTVrcQ3z9jgWW1zIAa) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Vete](https://open.spotify.com/album/6DNZha5d4L1k6IYOtRaC7g) | 2:28 | 2022-01-05 |  |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2022-01-05 |  |
 | [WOW](https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:51 | 2022-01-05 | 2022-03-05 |
+| [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 | 2022-03-08 |  |
 | [último y primero](https://open.spotify.com/track/3hF6BMF3pT8MV6vWQZZI4h) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/2GwdTLsgFiGYd5cIUp6RvG) | 2:59 | 2022-01-05 | 2022-03-05 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

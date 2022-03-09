@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 523466,
       "name": "At Night",
       "url": "https://open.spotify.com/track/24U3tHtsmkqzdYGQUcBH5J"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 530773,
       "name": "Cry Me a River - Live",
       "url": "https://open.spotify.com/track/518gXaq0LZe99Bz0Laspi2"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 241133,
       "name": "I Remember Clifford - Live At Philharmonie, Munich / 1986",
       "url": "https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 563320,
       "name": "Old Folks - Live",
       "url": "https://open.spotify.com/track/0w6BWAytSQFGUW5paTcKzd"
@@ -1523,6 +1523,24 @@
       "duration_ms": 344206,
       "name": "On a Misty Night",
       "url": "https://open.spotify.com/track/5ehmctMo8g8GbqQXlxP43W"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lodies en noir & blanc",
+        "url": "https://open.spotify.com/album/019jkstAav7gCfwinh0asK"
+      },
+      "artists": [
+        {
+          "name": "Aldo Romano",
+          "url": "https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297406,
+      "name": "On John's Guitar",
+      "url": "https://open.spotify.com/track/5PbTy9q6gIZEWUpyGHXplm"
     },
     {
       "album": {
@@ -1575,6 +1593,24 @@
       "duration_ms": 375840,
       "name": "Pastorale",
       "url": "https://open.spotify.com/track/2NTQheIeDelu14XCu0Mh7A"
+    },
+    {
+      "album": {
+        "name": "At This Time...",
+        "url": "https://open.spotify.com/album/1oQCGl03k3fDmNADJ99zAn"
+      },
+      "artists": [
+        {
+          "name": "Steve Kuhn",
+          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369950,
+      "name": "Pawn Broker",
+      "url": "https://open.spotify.com/track/7MiBR34i4KkdoM3fdf4RUT"
     },
     {
       "album": {
@@ -1921,7 +1957,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 608533,
       "name": "Secret Love - Live",
       "url": "https://open.spotify.com/track/4E4P5vhVNbfsd109TTNSbL"
@@ -2359,7 +2395,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 291466,
       "name": "Touch Her Soft Lips And Part",
       "url": "https://open.spotify.com/track/7o65XOJ6wuSlzJ6aXtMxlT"

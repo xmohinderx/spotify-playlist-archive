@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Miane
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,776 likes - 135 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,834 likes - 135 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

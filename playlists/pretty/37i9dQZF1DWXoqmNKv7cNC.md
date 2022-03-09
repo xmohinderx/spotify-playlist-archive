@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres mexicanas a todo volumen\. En portada: Espacios Vacíos
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,961 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,226 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 |
 | 2 | [Elektro](https://open.spotify.com/track/7dFgscXqE9tIXVYrbHQX7t) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:25 |
 | 3 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
-| 4 | [Boni Naitó](https://open.spotify.com/track/0P7naJRJFW1uhaYbFabYOS) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Boni Naitó](https://open.spotify.com/album/6XOfXd2Maq3nRJoc73Nn8B) | 4:43 |
-| 5 | [Unfuckable](https://open.spotify.com/track/0EQ4s8yW2o841HNUijgtoI) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Unfuckable](https://open.spotify.com/album/36ENek0b07NeGVx50KEzOI) | 3:52 |
-| 6 | [Realidad](https://open.spotify.com/track/55mKDXgmHh9zhtWmTJbIzI) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Realidad](https://open.spotify.com/album/3mUJ4dvBB1ClRg0MrnyEZO) | 3:01 |
-| 7 | [Me Has Jodido](https://open.spotify.com/track/3JyYTbrqUqEKX8K9NwDPqL) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [Me Has Jodido](https://open.spotify.com/album/2VU7QSgwIMJ7n0pUOonUrn) | 3:56 |
-| 8 | [Sweet Things](https://open.spotify.com/track/5Y65mv534Bsxqtn68smUVn) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Sweet Things](https://open.spotify.com/album/1oUMyWqnfHw1o4xf830nBr) | 3:27 |
-| 9 | [Armas](https://open.spotify.com/track/3GL7JbuFLumddTE39TiHnM) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Fragmentos](https://open.spotify.com/album/5T6LOlkhu7UI4II6ZpEOWI) | 2:51 |
-| 10 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
-| 11 | [un rato](https://open.spotify.com/track/22BWBU9Pwgz3M7fP1mahfk) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [un rato](https://open.spotify.com/album/0LigoTHlglv2GPl0nb2O0F) | 2:48 |
-| 12 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 |
-| 13 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 |
-| 14 | [Pétalos Mordidos](https://open.spotify.com/track/1cKeieljYx7hzbBsSW2FOV) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm) | 4:06 |
-| 15 | [La Gravedad](https://open.spotify.com/track/5pDeUSc4KOTMRhnlB3qyLK) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [La Gravedad](https://open.spotify.com/album/4q5C46Gf1jbRYgZfMXadIg) | 3:18 |
+| 4 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 |
+| 5 | [Boni Naitó](https://open.spotify.com/track/0P7naJRJFW1uhaYbFabYOS) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Boni Naitó](https://open.spotify.com/album/6XOfXd2Maq3nRJoc73Nn8B) | 4:43 |
+| 6 | [Unfuckable](https://open.spotify.com/track/0EQ4s8yW2o841HNUijgtoI) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Unfuckable](https://open.spotify.com/album/36ENek0b07NeGVx50KEzOI) | 3:52 |
+| 7 | [Realidad](https://open.spotify.com/track/55mKDXgmHh9zhtWmTJbIzI) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Realidad](https://open.spotify.com/album/3mUJ4dvBB1ClRg0MrnyEZO) | 3:01 |
+| 8 | [Me Has Jodido](https://open.spotify.com/track/3JyYTbrqUqEKX8K9NwDPqL) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [Me Has Jodido](https://open.spotify.com/album/2VU7QSgwIMJ7n0pUOonUrn) | 3:56 |
+| 9 | [Sweet Things](https://open.spotify.com/track/5Y65mv534Bsxqtn68smUVn) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Sweet Things](https://open.spotify.com/album/1oUMyWqnfHw1o4xf830nBr) | 3:27 |
+| 10 | [Armas](https://open.spotify.com/track/3GL7JbuFLumddTE39TiHnM) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Fragmentos](https://open.spotify.com/album/5T6LOlkhu7UI4II6ZpEOWI) | 2:51 |
+| 11 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
+| 12 | [un rato](https://open.spotify.com/track/22BWBU9Pwgz3M7fP1mahfk) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [un rato](https://open.spotify.com/album/0LigoTHlglv2GPl0nb2O0F) | 2:48 |
+| 13 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 |
+| 14 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 |
+| 15 | [Pétalos Mordidos](https://open.spotify.com/track/1cKeieljYx7hzbBsSW2FOV) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm) | 4:06 |
 | 16 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
-| 17 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 |
+| 17 | [La Gravedad](https://open.spotify.com/track/5pDeUSc4KOTMRhnlB3qyLK) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [La Gravedad](https://open.spotify.com/album/4q5C46Gf1jbRYgZfMXadIg) | 3:18 |
 | 18 | [Réplica](https://open.spotify.com/track/2gx50X4fo4FeVlfzBsZfTU) | [Micca Mont](https://open.spotify.com/artist/3Mcs80YyahnlFronaLHtqv) | [Réplica](https://open.spotify.com/album/2gfggcXf2oMHUX2cWBNm9t) | 3:40 |
 | 19 | [Salir De Aquí](https://open.spotify.com/track/28ASv5ejhdUv4DT4fExQpz) | [Cuarto Paisaje](https://open.spotify.com/artist/3tcFEwQkk95yAtjJY3mdtp) | [Salir De Aquí](https://open.spotify.com/album/4gTxAapzjnspfiQXQ50GcT) | 2:50 |
 | 20 | [Hombre Artificial](https://open.spotify.com/track/0E0GUcqI3PKltYRLc3cuNh) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Hombre Artificial](https://open.spotify.com/album/4BdHjwNp2TewBaPYqeYpZt) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [Año](https://open.spotify.com/track/6TQ8NdTRsfYskVVo6HOcj9) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Año](https://open.spotify.com/album/1ay3xlJFeazqynt9bQdNu4) | 4:11 |
 | 50 | [Así Quererte](https://open.spotify.com/track/6R0loMKQKrNks1IJUoBVxj) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Así Quererte](https://open.spotify.com/album/79eykvhKVzBuco5sbnwvRF) | 3:27 |
 
-Snapshot ID: `MTY0NjMxNjAwMCwwMDAwMDA3YTAwMDAwMTdmNTAxNDkzNmYwMDAwMDE3ZjQ2NGMxMGQ2`
+Snapshot ID: `MTY0NjcxOTIwMCwwMDAwMDA3YjAwMDAwMTdmNjgxY2ViN2MwMDAwMDE3ZjQ2NGMxMGQ2`

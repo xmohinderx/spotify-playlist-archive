@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Casey Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,025 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,123 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 22 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 |
 | 23 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
 | 24 | [Whiskey Me Away](https://open.spotify.com/track/0wF5NIMrLi7ZzsFiDNVqIB) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Whiskey Me Away](https://open.spotify.com/album/1lOiIiSj6MYinTYSMg0yOb) | 3:14 |
-| 25 | [She's The One](https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9) | [Ronnie Joudo](https://open.spotify.com/artist/2gfAOvUByRRsIwjifbOKxC) | [Shes The One](https://open.spotify.com/album/3ka1YGa2qQHfB7OfTx3KJw) | 3:31 |
+| 25 | [She's The One](https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9) | [Ronnie Joudo](https://open.spotify.com/artist/2gfAOvUByRRsIwjifbOKxC) | [She's The One](https://open.spotify.com/album/3ka1YGa2qQHfB7OfTx3KJw) | 3:31 |
 | 26 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 |
 | 27 | [Better Off](https://open.spotify.com/track/1ri3fquyE7rkzWerCCoGCy) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Better Off](https://open.spotify.com/album/6aBc3vulL7vdiKqJjYVFT2) | 3:19 |
 | 28 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 |

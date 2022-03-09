@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
-> Future K\-Pop hits! Cover: THE BOYZ
+> Future K\-Pop hits! Cover: Weeekly
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2021-07-13 | 2021-09-18 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-07-14 | 2021-09-07 |
 | [Vanilla](https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Vanilla](https://open.spotify.com/album/77w56C1tECJwOgVEhNbI5x) | 3:24 | 2021-06-16 | 2021-08-05 |
+| [Ven para](https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:14 | 2022-03-08 |  |
 | [Vibin](https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:22 | 2021-10-06 | 2021-11-24 |
 | [VIVACE](https://open.spotify.com/track/4t2A9XnGWrIqzKOYKYfPTr) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Light a Wish](https://open.spotify.com/album/4rweatsYVwajSONjLE5Qi9) | 3:35 | 2021-10-16 | 2021-12-14 |
 | [Voiceless](https://open.spotify.com/track/4LK6Kbz62qTjzhA9MbXuRB) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Pilmography](https://open.spotify.com/album/6ycojlJlzjC6T9IlWYI0PK) | 3:47 | 2022-02-07 |  |
@@ -494,7 +495,7 @@
 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 | 2021-06-04 | 2021-07-28 |
 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 | 2020-10-13\* | 2020-11-11 |
 | [White Night \(Feat\. Loco\)](https://open.spotify.com/track/6Z3YqTeAPKrptw70GpHJiO) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [White Night](https://open.spotify.com/album/3ShhhBVOyC5AZ54NJdijYq) | 3:51 | 2022-01-24 |  |
-| [Who Are You \(Feat\. SEULGI of Red Velvet\)](https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Who Are You](https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL) | 2:59 | 2021-12-28 |  |
+| [Who Are You \(Feat\. SEULGI of Red Velvet\)](https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Who Are You](https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL) | 2:59 | 2021-12-28 | 2022-03-09 |
 | [Who U Are](https://open.spotify.com/track/6C9dV3oVFBYZ3CShCU300P) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [MAGENTA](https://open.spotify.com/album/7L2jDMk6IZChhMxPdJMJ6i) | 3:22 | 2020-10-13\* | 2021-01-18 |
 | [Why \(Feat\. Gaeko\)](https://open.spotify.com/track/0877whPAoQZIQw1u0r7YgM) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Why](https://open.spotify.com/album/4JILWoE6FaQltScDKW4kbO) | 3:30 | 2021-07-01 | 2021-08-05 |
 | [Why Not?](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:25 | 2020-10-19 | 2021-03-01 |

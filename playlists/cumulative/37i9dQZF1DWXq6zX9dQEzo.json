@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 183341,
       "name": "All I See (feat. CASS)",
       "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 226293,
       "name": "Alone (feat. Tru)",
       "url": "https://open.spotify.com/track/0LttzRjJ4kRdDD7PnMuaqg"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 202020,
       "name": "Bacha Drill",
       "url": "https://open.spotify.com/track/5ClmUS0EX91calScR72J1Y"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 186550,
       "name": "Barely Finshed",
       "url": "https://open.spotify.com/track/0iR4jOBv5KLk6zUvq4ilVI"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 244786,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 213200,
       "name": "Directions",
       "url": "https://open.spotify.com/track/3YhXESohpSdlgZKyfSyhmu"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 201733,
       "name": "Drops In the Ocean",
       "url": "https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 139841,
       "name": "First Of Many (feat. George.Rose)",
       "url": "https://open.spotify.com/track/0yiFuQgmMRhl5hVIZLMBGh"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Freedom Reign",
       "url": "https://open.spotify.com/track/1JtoUj5crGlArogzjngLRp"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 174222,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5Xixrsp3R6N25lUXm8qivi"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 224634,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
@@ -1474,6 +1474,28 @@
     },
     {
       "album": {
+        "name": "I Can't Quit (feat. Reconcile)",
+        "url": "https://open.spotify.com/album/3NAZ931MEChrjgV8LC6ahR"
+      },
+      "artists": [
+        {
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
+        },
+        {
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207878,
+      "name": "I Can't Quit (feat. Reconcile)",
+      "url": "https://open.spotify.com/track/52jHZXtW03EI5qCv3NKg1E"
+    },
+    {
+      "album": {
         "name": "When It Hurts: A Story By Isaiah Hill",
         "url": "https://open.spotify.com/album/1vBAFhwlesvJXy1HBIIUoP"
       },
@@ -1637,7 +1659,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 123000,
       "name": "L00K",
       "url": "https://open.spotify.com/track/0vZG79GJM6fiEUqtqe50Qp"
@@ -1769,7 +1791,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 133388,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/67eJisNpkndo9Zkowt7M7V"
@@ -2233,7 +2255,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 127000,
       "name": "RECOGNIZE",
       "url": "https://open.spotify.com/track/6onsgnoCfzkrqxuN3wyLek"
@@ -2309,7 +2331,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 169328,
       "name": "Shabach Praise",
       "url": "https://open.spotify.com/track/04YBaIXzoZCovJZwtwR47x"
@@ -2397,7 +2419,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 162153,
       "name": "Sin Pausa",
       "url": "https://open.spotify.com/track/0pGz2PpI6ijh1DHufWkkyI"
@@ -2579,7 +2601,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 107250,
       "name": "TEGUCCI",
       "url": "https://open.spotify.com/track/7tDqPQ6cdfwtNzeThl1LCQ"
@@ -2655,7 +2677,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 195506,
       "name": "The River",
       "url": "https://open.spotify.com/track/1mSMwIW4ZK6DVl499FvDPv"
@@ -2779,7 +2801,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 267906,
       "name": "Touchdown (feat. Canon)",
       "url": "https://open.spotify.com/track/71SyQ1CQbS4hz240Ql0BF4"
@@ -2923,7 +2945,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 191853,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/5AWOVMrfZmajuL2hpOkMHG"

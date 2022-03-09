@@ -1,13 +1,29 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 288224,
+  "num_followers": 288343,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcwMDM5NSwwMDAwMDAwMDMxMTBjNzM2N2JlNDk2YmFjZDAyZWQxZTYwYmEzZTY2",
+  "snapshot_id": "MTY0Njc4Njg0OSwwMDAwMDAwMDc1OGNmODQ5MWQ0ODY5NGJjYzhmYTliNDJhN2MyNzFj",
   "tracks": [
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa"
+    },
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
@@ -43,6 +59,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "INTRO",
+        "url": "https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY"
+      },
+      "artists": [
+        {
+          "name": "Intro",
+          "url": "https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm"
+        }
+      ],
+      "duration_ms": 382640,
+      "name": "Ribbon in the Sky",
+      "url": "https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "I Missed Us",
         "url": "https://open.spotify.com/album/6YSQvWSvizPl2VTn4SZocD"
       },
@@ -59,18 +91,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "INTRO",
-        "url": "https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY"
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
       },
       "artists": [
         {
-          "name": "Intro",
-          "url": "https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 382640,
-      "name": "Ribbon in the Sky",
-      "url": "https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI"
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -91,222 +123,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Ventriloquism",
-        "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
       },
       "artists": [
         {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 277985,
-      "name": "Don't Disturb This Groove",
-      "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Love's In Need Of Love Today",
-        "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        },
-        {
-          "name": "Sonna",
-          "url": "https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf"
-        }
-      ],
-      "duration_ms": 252697,
-      "name": "Love's In Need Of Love Today",
-      "url": "https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
-      },
-      "artists": [
-        {
-          "name": "Marsha Ambrosius",
-          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
-        },
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 331133,
-      "name": "As",
-      "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "The Best Of Will Downing 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/2MyPaq7tg7LtHqW1NHkc2d"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        },
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Stop, Look, Listen To Your Heart",
-      "url": "https://open.spotify.com/track/375jahpbHbxrCsuxMURdEm"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Motown and Motown II",
-        "url": "https://open.spotify.com/album/6ltXFtJichkres50eobH84"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/2fdv8or6lmHe5KLTUvaJCD"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/5b5MEeTdOAJHl5ICZW8QMs"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 296066,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/1KcxXt4Jy9Az9Wizs5Z6pF"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
-        "url": "https://open.spotify.com/album/3NaHm6o0RzwjJkmhokkSl3"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 322360,
-      "name": "Since I Lost My Baby",
-      "url": "https://open.spotify.com/track/4s4B4L94OJcz66RJpuqfjy"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 257720,
-      "name": "Love Don't Live Here Anymore",
-      "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
-        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "Love Won't Let Me Wait",
-      "url": "https://open.spotify.com/track/2QLX7wEeFwt3icCHi041CJ"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Sketches Of A Man",
-        "url": "https://open.spotify.com/album/1VW9ltXjlRK43xOXS3l0VE"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/5UzPW8HC6slxstdRbV3Kcp"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
-      },
-      "artists": [
-        {
-          "name": "Big Bub",
-          "url": "https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4"
-        }
-      ],
-      "duration_ms": 355800,
-      "name": "Zoom",
-      "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"
+      "duration_ms": 197081,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -331,18 +159,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Groove Thang",
-        "url": "https://open.spotify.com/album/5b4Pc4tgG9o0Lu2uStwsHz"
+        "name": "Love's In Need Of Love Today",
+        "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
       },
       "artists": [
         {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        },
+        {
+          "name": "Sonna",
+          "url": "https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf"
         }
       ],
-      "duration_ms": 216009,
-      "name": "Groove Thang",
-      "url": "https://open.spotify.com/track/7LpTPlYiVnDnV5BwVYJB0U"
+      "duration_ms": 252697,
+      "name": "Love's In Need Of Love Today",
+      "url": "https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -363,18 +195,190 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Spotify Sessions (Live At Spotify, NY/2012)",
-        "url": "https://open.spotify.com/album/6ZqZWyc8jm3G7Ub2cmYtY8"
+        "name": "Motown and Motown II",
+        "url": "https://open.spotify.com/album/6ltXFtJichkres50eobH84"
       },
       "artists": [
         {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
         }
       ],
-      "duration_ms": 281559,
-      "name": "What's Going On - Live At Spotify, NY/2012",
-      "url": "https://open.spotify.com/track/0lgnI9taHYt4AJlISFD5wv"
+      "duration_ms": 319200,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/2fdv8or6lmHe5KLTUvaJCD"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Song For You",
+        "url": "https://open.spotify.com/album/04Qos9tg4OsBifMkV1SQY1"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "duration_ms": 329464,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Best Of Will Downing 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/2MyPaq7tg7LtHqW1NHkc2d"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Stop, Look, Listen To Your Heart",
+      "url": "https://open.spotify.com/track/375jahpbHbxrCsuxMURdEm"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 257720,
+      "name": "Love Don't Live Here Anymore",
+      "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD"
+      },
+      "artists": [
+        {
+          "name": "Big Bub",
+          "url": "https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4"
+        }
+      ],
+      "duration_ms": 355800,
+      "name": "Zoom",
+      "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/65QQadPIDZ96Aad8AA35oJ"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        },
+        {
+          "name": "KeKe Wyatt",
+          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "My First Love",
+      "url": "https://open.spotify.com/track/5j5v5wfw1O7g5iLCq10wAP"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 331133,
+      "name": "As",
+      "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Sketches Of A Man",
+        "url": "https://open.spotify.com/album/1VW9ltXjlRK43xOXS3l0VE"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/5UzPW8HC6slxstdRbV3Kcp"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Sending My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Ventriloquism",
+        "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 277985,
+      "name": "Don't Disturb This Groove",
+      "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -411,54 +415,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/65QQadPIDZ96Aad8AA35oJ"
+        "name": "Spotify Sessions (Live At Spotify, NY/2012)",
+        "url": "https://open.spotify.com/album/6ZqZWyc8jm3G7Ub2cmYtY8"
       },
       "artists": [
         {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        },
-        {
-          "name": "KeKe Wyatt",
-          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
         }
       ],
-      "duration_ms": 266760,
-      "name": "My First Love",
-      "url": "https://open.spotify.com/track/5j5v5wfw1O7g5iLCq10wAP"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 197081,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Ultimate D'Angelo",
-        "url": "https://open.spotify.com/album/6kdaBN7lOYDLZfCAGiSecr"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/3o9PU86yJAeojzW69KdLh6"
+      "duration_ms": 281559,
+      "name": "What's Going On - Live At Spotify, NY/2012",
+      "url": "https://open.spotify.com/track/0lgnI9taHYt4AJlISFD5wv"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -495,18 +463,50 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
+        "name": "The Best Of O'Bryan",
+        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
       },
       "artists": [
         {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+          "name": "O'Bryan",
+          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
         }
       ],
-      "duration_ms": 173206,
-      "name": "Sending My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
+      "duration_ms": 238693,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
+        "url": "https://open.spotify.com/album/3NaHm6o0RzwjJkmhokkSl3"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 322360,
+      "name": "Since I Lost My Baby",
+      "url": "https://open.spotify.com/track/4s4B4L94OJcz66RJpuqfjy"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/5b5MEeTdOAJHl5ICZW8QMs"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 296066,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/1KcxXt4Jy9Az9Wizs5Z6pF"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -531,106 +531,102 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
-        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/1ecv8bJajqX9E0EOX2g3eI"
       },
       "artists": [
         {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 278480,
-      "name": "'Til My Baby Comes Home",
-      "url": "https://open.spotify.com/track/33LLMc7LEuf4tc8h0NzhvC"
+      "duration_ms": 382333,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/5ZbY8J67Qsv6Kko2tZOf5Z"
     },
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Unpredictable",
-        "url": "https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve"
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/1kbWhB5qEyUDaHPtXYiA2m"
       },
       "artists": [
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 335866,
+      "name": "The Love We Had (Stays On My Mind)",
+      "url": "https://open.spotify.com/track/3PaovpaWAYcNH6CCBXFfR5"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "From The Soul Of Man",
+        "url": "https://open.spotify.com/album/4KX3bkP8l9X04DmkbDeazR"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "duration_ms": 390426,
+      "name": "I Love You More Than You'll Ever Know",
+      "url": "https://open.spotify.com/track/5JEju6tjLsd0qbiWfGxAky"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 270733,
-      "name": "Love Changes (feat. Mary J. Blige)",
-      "url": "https://open.spotify.com/track/7q83jvO3GjbyS7FnHoM1f2"
+      "duration_ms": 283093,
+      "name": "Slow Jam (feat. Monica)",
+      "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
     },
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "BEcoming",
-        "url": "https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/2TIjGXdwqGxaTBaQP5VxpT"
       },
       "artists": [
         {
-          "name": "Stacy Barthe",
-          "url": "https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 185356,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1"
+      "duration_ms": 311533,
+      "name": "Right And A Wrong Way",
+      "url": "https://open.spotify.com/track/2met1tFe07C9au1j8llxq8"
     },
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Song For You",
-        "url": "https://open.spotify.com/album/04Qos9tg4OsBifMkV1SQY1"
+        "name": "Ultimate D'Angelo",
+        "url": "https://open.spotify.com/album/6kdaBN7lOYDLZfCAGiSecr"
       },
       "artists": [
         {
-          "name": "Avery Wilson",
-          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 329464,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
+      "duration_ms": 236666,
+      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3o9PU86yJAeojzW69KdLh6"
     }
   ],
   "unique_name": "Soul Revived",

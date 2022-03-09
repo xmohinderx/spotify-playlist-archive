@@ -1340,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "Magic Mind",
+        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
+      },
+      "artists": [
+        {
+          "name": "Duane Drew",
+          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155424,
+      "name": "Magic Mind",
+      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
+    },
+    {
+      "album": {
         "name": "Maybe Tomorrow?",
         "url": "https://open.spotify.com/album/3wS0pPrQENgREfs4IEZ9bP"
       },

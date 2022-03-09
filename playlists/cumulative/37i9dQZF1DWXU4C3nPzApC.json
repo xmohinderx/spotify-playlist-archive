@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating IWD 2022. Women at full volume. Cover: Twinnie",
+  "description": "The best music with a Nashville flavour. Cover: Twinnie",
   "name": "Very Nearly Nashville",
   "published_playlist_ids": [
     "5MYHtRglmvJsgUyFpYLHKg"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 216588,
       "name": "Back To The Beginning",
       "url": "https://open.spotify.com/track/79D9sS05hiL69QszESYsAr"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 197215,
       "name": "Better Than We Found It",
       "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 185510,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/4ei1wfqTvqneY8b9pbdtY6"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 183173,
       "name": "Coldest Fire",
       "url": "https://open.spotify.com/track/6aMtFVU2OWJ6XCE36XPjGI"
@@ -273,10 +273,54 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 193207,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/6HvWvijSH9uJsBpWAY7s2C"
+    },
+    {
+      "album": {
+        "name": "Crazy One More Time (Revisited)",
+        "url": "https://open.spotify.com/album/4qoFgtGcRTrdlfrIXcrwF9"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "Crazy One More Time - Revisited",
+      "url": "https://open.spotify.com/track/0jy7nb2V8Twnk6aGz3hqCE"
+    },
+    {
+      "album": {
+        "name": "Death Row",
+        "url": "https://open.spotify.com/album/6MWy82eeVqcCSSBXeVPRVx"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/6SfrCSnhSoiJPzCJafw9m0"
     },
     {
       "album": {
@@ -313,7 +357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 195208,
       "name": "Don't Be a Stranger (feat. Cam)",
       "url": "https://open.spotify.com/track/3olaYC5TAKtKdz0zhMwxyV"
@@ -349,7 +393,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 236853,
       "name": "Elevator Boots - Single Edit",
       "url": "https://open.spotify.com/track/3jZ6v2I4mK5ugVYwht4Mfx"
@@ -407,7 +451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
@@ -425,7 +469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 232533,
       "name": "Forever After All",
       "url": "https://open.spotify.com/track/4DdUFOY2ums5dOOMBzoMYo"
@@ -487,7 +531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
@@ -505,7 +549,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Human",
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
@@ -588,6 +632,24 @@
     },
     {
       "album": {
+        "name": "In Case You Didn't Know: The Love Songs",
+        "url": "https://open.spotify.com/album/5Iaz3UFrFnIILIEPSmcY8x"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226200,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/0zhGlr0hbwtGytKPozVQ4N"
+    },
+    {
+      "album": {
         "name": "Real To Me (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/2tIadsHYDmVwJc1zS0qfkB"
       },
@@ -599,7 +661,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 166800,
       "name": "It\u2019s \u2018Cause I Am",
       "url": "https://open.spotify.com/track/1hbROWuUFyYfE9uBsfXoje"
@@ -715,7 +777,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
@@ -755,7 +817,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 183091,
       "name": "Little House Big Love",
       "url": "https://open.spotify.com/track/3qaFMNCJrxzO8o5Yi13uwN"
@@ -827,7 +889,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 203381,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa"
@@ -845,7 +907,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 154026,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/3LLezpquftwn7QI1rYIovM"
@@ -943,7 +1005,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 176493,
       "name": "Radio",
       "url": "https://open.spotify.com/track/7iUd74cF2TPLC3O0ccxlCm"
@@ -1015,7 +1077,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 167120,
       "name": "simple times",
       "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
@@ -1051,7 +1113,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 186916,
       "name": "Song of the Summer",
       "url": "https://open.spotify.com/track/6Ig11LezmkpIA32TnirLhB"
@@ -1105,7 +1167,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 162120,
       "name": "Steal My Love",
       "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
@@ -1141,7 +1203,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 199120,
       "name": "Swear It All Again",
       "url": "https://open.spotify.com/track/5dOnsC5uMCwBheWsVfYdxr"
@@ -1177,7 +1239,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 188661,
       "name": "Tell You Everything - Not Put Together",
       "url": "https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc"
@@ -1213,7 +1275,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 214360,
       "name": "The Neon",
       "url": "https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk"
@@ -1231,7 +1293,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 172586,
       "name": "Want It Again",
       "url": "https://open.spotify.com/track/0I3oSMNUCUBf6lqyZEsCte"

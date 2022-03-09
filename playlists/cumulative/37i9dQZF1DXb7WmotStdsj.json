@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Moul Karsan",
+        "url": "https://open.spotify.com/album/1Wz4Lb9J28dWAbV3AB42YC"
+      },
+      "artists": [
+        {
+          "name": "Cheb Bello",
+          "url": "https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600177,
+      "name": "Moul Karsan",
+      "url": "https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d"
+    },
+    {
+      "album": {
         "name": "Nakareen El Khir",
         "url": "https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR"
       },

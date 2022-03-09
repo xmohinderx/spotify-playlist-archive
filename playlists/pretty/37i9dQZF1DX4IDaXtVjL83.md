@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: salem ilese, TOMORROW X TOGETHER, Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,586 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,955 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PS5 \(with TOMORROW X TOGETHER feat\. Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER feat\. Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
+| 1 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 |
 | 2 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 |
 | 3 | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
 | 4 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 |

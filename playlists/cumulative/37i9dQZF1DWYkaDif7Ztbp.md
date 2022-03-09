@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc?si=9Izkl2gNTdeBOA7\_wgnc9Q" > Aṣa </a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=Td78wUT8RdixRuXpVdUeMg" > Omah Lay </a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover\- Akshay Kumar, Dhanush, and Sara Ali Khan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,468 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,186 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 |
 | 50 | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM) | 3:20 |
 
-Snapshot ID: `MTY0NjE5NzM4NywwMDAwMDBjOTAwMDAwMTdmNDkwMmIwMzgwMDAwMDE3ZThhZjc1MDY4`
+Snapshot ID: `MTY0NjcxMjQ0NiwwMDAwMDBjYTAwMDAwMTdmNjdiNWRkOWYwMDAwMDE3ZThhZjc1MDY4`

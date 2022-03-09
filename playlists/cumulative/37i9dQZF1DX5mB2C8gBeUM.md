@@ -2,7 +2,7 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
-> Country gone wild! You never know what you're gonna get\.  Artist: Walker Hayes
+> Country gone wild! You never know what you're gonna get\.  Artist: BRELAND
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Own It](https://open.spotify.com/track/5dqxl2I4ov00c6bv0cnRwD) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Love Drunk or Lonely](https://open.spotify.com/album/6E0HKo0wDRP97q3cVIn9IN) | 2:45 | 2021-12-10 |  |
 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 | 2021-12-10 |  |
 | [Plain Jane](https://open.spotify.com/track/6aoT8a5ra1r6vCsbrdHfsW) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 3:00 | 2021-12-10 |  |
+| [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-08 |  |
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2021-12-10 |  |
 | [Rather Be Broke](https://open.spotify.com/track/3u5VNiGarGDcBYuM26XXaC) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [Rather Be Broke](https://open.spotify.com/album/3HNKlvVe8NwP4hd2WK25QQ) | 2:37 | 2021-12-10 |  |
 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 | 2021-12-10 |  |

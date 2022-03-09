@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,589 likes - 59 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,615 likes - 59 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

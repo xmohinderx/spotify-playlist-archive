@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Caio Luccas, Azevedo, MC Maneirinho, Anezzi, Dallass
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,067 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,264 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vizão de Cria](https://open.spotify.com/track/0zmfFA2d0ZRZ2aFeE4E76b) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [Vizão de Cria](https://open.spotify.com/album/5A1sLSZqKooVjMXsuZirEQ) | 4:37 |
+| 1 | [Vizão de Cria](https://open.spotify.com/track/0zmfFA2d0ZRZ2aFeE4E76b) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Vizão de Cria](https://open.spotify.com/album/5A1sLSZqKooVjMXsuZirEQ) | 4:37 |
 | 2 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 |
 | 3 | [Iphone Branco](https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Iphone Branco](https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2) | 2:17 |
 | 4 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 |

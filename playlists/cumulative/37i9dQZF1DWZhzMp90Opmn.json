@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 127490,
       "name": "In the Air Pink Noise",
       "url": "https://open.spotify.com/track/0SKVt9FLtATRPUk9p9lcpA"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 178000,
       "name": "Low Pink Noise",
       "url": "https://open.spotify.com/track/4LFqQzq8xlTZyhpDnvp0dG"
@@ -1596,6 +1596,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Chill",
+        "url": "https://open.spotify.com/album/5bPfFb7gJETLRmqMvbtyLr"
+      },
+      "artists": [
+        {
+          "name": "Astrofuss",
+          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "Pink Noise for Sleepy Eyes",
+      "url": "https://open.spotify.com/track/5ZHYpNFUvC57CTLIg4YXOt"
+    },
+    {
+      "album": {
         "name": "Pink Noise for Studying",
         "url": "https://open.spotify.com/album/7LF4enxQrH9dDfe5ne5u24"
       },
@@ -1809,6 +1827,24 @@
       "duration_ms": 216000,
       "name": "Pink Noise Loopable Sleep Therapy",
       "url": "https://open.spotify.com/track/0SkfWdFxSr7KgIV9ljrrhy"
+    },
+    {
+      "album": {
+        "name": "Focus Noise Vol. 2",
+        "url": "https://open.spotify.com/album/2KvmKYZUYyEPKpExfUF6t9"
+      },
+      "artists": [
+        {
+          "name": "03.48Pink",
+          "url": "https://open.spotify.com/artist/2chCn0N9UBN7eXrHgLsy7v"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137931,
+      "name": "Pink Noise LP 450",
+      "url": "https://open.spotify.com/track/1DLaJN45902AaSCex3c14a"
     },
     {
       "album": {

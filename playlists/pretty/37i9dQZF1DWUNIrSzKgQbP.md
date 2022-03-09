@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > acoustic songs for the season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,655,136 likes - 101 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,655,042 likes - 101 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 43 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 |
 | 44 | [Cherry Wine](https://open.spotify.com/track/3EJaUuGn4gtGa7u0vswTGv) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Cherry Wine](https://open.spotify.com/album/4YksSqrl0x1dKKNrZLMk7j) | 4:06 |
 | 45 | [December Song](https://open.spotify.com/track/6jmtD3wBCznMagjURJHVBx) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [December Song](https://open.spotify.com/album/4oepkwqAEiysj5ObhWFNUK) | 3:35 |
-| 46 | [Wildfire](https://open.spotify.com/track/4TcTtWG8wSrxRmKWHNYHK8) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/1WtfsOpueoXSRpNaySuwhn) | 5:29 |
+| 46 | [Wildfire](https://open.spotify.com/track/4TcTtWG8wSrxRmKWHNYHK8) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/1WtfsOpueoXSRpNaySuwhn) | 5:29 |
 | 47 | [Two Turtle Doves](https://open.spotify.com/track/3x1cqywJSAokVupnJ6Cjn5) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/2pOgv6Ehh8LcJ6VuSyXVeB) | 4:10 |
 | 48 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 |
 | 49 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 95 | [Heart Of My Own](https://open.spotify.com/track/1mqk8DNti1zvdd1GY5quDS) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/00VIGPygVKjYbWXfoOaqHa) | 3:49 |
 | 96 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 |
 | 97 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 |
-| 98 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 |
+| 98 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 |
 | 99 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
 | 100 | [Constantly](https://open.spotify.com/track/7i7a9AYgpKIcjmqBDENEoy) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Constantly](https://open.spotify.com/album/0OjlnHNdy3QtNaxwpYPg98) | 3:26 |
 | 101 | [The Back Of Her](https://open.spotify.com/track/2YQr4Zh2TsIABHW1TbuvEs) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Pull The Right Rope](https://open.spotify.com/album/1zJWPGP8JFdpypvANgL1KQ) | 5:15 |

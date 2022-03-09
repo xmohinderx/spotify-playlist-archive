@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Ghost",
-  "num_followers": 578939,
+  "num_followers": 579285,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
@@ -324,16 +324,12 @@
       },
       "artists": [
         {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        },
-        {
-          "name": "Melissa Bonny",
-          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
-        },
-        {
           "name": "Charlotte Wessels",
           "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        },
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
         }
       ],
       "duration_ms": 248613,

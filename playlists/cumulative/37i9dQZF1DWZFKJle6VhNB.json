@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 207104,
       "name": "50 Reais",
       "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Amor de Verdade",
       "url": "https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 169986,
       "name": "Bara Bara",
       "url": "https://open.spotify.com/track/2sy6pIiHstUzImrkUXB1K6"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 186773,
       "name": "Beijo Geladinho",
       "url": "https://open.spotify.com/track/6rbkRZKovJISNCd5cZtOMP"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 192426,
       "name": "Der\u00ea",
       "url": "https://open.spotify.com/track/6N6wYxdPVMnEVK8xsplS8z"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 251520,
       "name": "Festa no Ap\u00ea (Dragostea Din Tei)",
       "url": "https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "FICA \u00c0 VONTADE",
       "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 234360,
       "name": "Inara\u00ed",
       "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 171692,
       "name": "Malandramente",
       "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 242133,
       "name": "Mel da Sua Boca",
       "url": "https://open.spotify.com/track/5StjBn63VYSJtMJbNJAtA7"
@@ -1605,7 +1605,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 149002,
       "name": "Pa\u00eds do Futebol",
       "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 163253,
       "name": "Sentou e Gostou",
       "url": "https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Tchubirabirom",
       "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
@@ -2234,6 +2234,40 @@
     },
     {
       "album": {
+        "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
+        "url": "https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "DJ Yuri Martins",
+          "url": "https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201532,
+      "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
+      "url": "https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7"
+    },
+    {
+      "album": {
         "name": "VAI MENINA",
         "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
       },
@@ -2369,7 +2403,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 139041,
       "name": "V\u00e1rias Novinhas",
       "url": "https://open.spotify.com/track/779I9FojBtIvVPtQe1DSRI"

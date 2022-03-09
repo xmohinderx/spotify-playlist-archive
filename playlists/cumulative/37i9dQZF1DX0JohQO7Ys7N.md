@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=hyn6Vi0nRlmNtVvH\-TMoLg"> Caleb Awiti </a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6?si=aBvt2JiqQzOP95Xq75t6VQ"> Wendy Kay </a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

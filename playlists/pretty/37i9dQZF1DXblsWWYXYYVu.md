@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,231 likes - 107 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,261 likes - 107 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

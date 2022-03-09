@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 241918,
       "name": "Betalen Voor Dit",
       "url": "https://open.spotify.com/track/5JEE1m3eVgMz5EDauj9Iar"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
@@ -3645,7 +3645,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 193733,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
@@ -3911,6 +3911,24 @@
     {
       "album": {
         "name": "Hallo",
+        "url": "https://open.spotify.com/album/0LQQ5dNl5fW6mmsP9Fyk5r"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132274,
+      "name": "Hallo",
+      "url": "https://open.spotify.com/track/07wa4OYLExaJjgHWtdzniV"
+    },
+    {
+      "album": {
+        "name": "Hallo",
         "url": "https://open.spotify.com/album/6QEgO7kSdee6FL4SPJ1sRX"
       },
       "artists": [
@@ -3921,7 +3939,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 132274,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/3oRdBo7nH2CY9VeQOTgm7x"
@@ -4595,7 +4613,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 147139,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
@@ -5171,7 +5189,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 125706,
       "name": "Invaincu",
       "url": "https://open.spotify.com/track/2GiZ3sC2p1Cc2t2gbdMKsN"
@@ -5637,7 +5655,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "La solassitude",
       "url": "https://open.spotify.com/track/09IE6tsb0tL0VLGH4GxCOO"
@@ -7955,7 +7973,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
@@ -9476,6 +9494,24 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -9901,7 +9937,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -10259,6 +10295,28 @@
       "duration_ms": 150762,
       "name": "Ven Ven",
       "url": "https://open.spotify.com/track/3upYG0cy9J2QhyV4GgV37x"
+    },
+    {
+      "album": {
+        "name": "Vijfzes",
+        "url": "https://open.spotify.com/album/1M0pzYENRnlrAlxyzuVRed"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/29pELPV4yKMAQND6m6Cz08"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155701,
+      "name": "Vijfzes",
+      "url": "https://open.spotify.com/track/2eYNrrqxFmodusF1bHHyi9"
     },
     {
       "album": {

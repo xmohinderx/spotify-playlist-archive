@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,698 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,720 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 | 3 | [Destined to Pretend](https://open.spotify.com/track/7aMsAx7UULQ2ozQvX7do3G) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Destined to Pretend](https://open.spotify.com/album/2WJNUi4IgsmBrXIUzfvTAr) | 3:12 |
 | 4 | [People Change](https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4) | 3:32 |
 | 5 | [Northern Winds \- Live at the Elmwood Hall](https://open.spotify.com/track/6GRPP8gcoTqfbWIGhPLJ0t) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Live at the Elmwood Hall](https://open.spotify.com/album/7cbC5xWYR3RyiBwy6VORlZ) | 5:09 |
-| 6 | [Golden Embers](https://open.spotify.com/track/3fOETmGlFv8nCmZSMIPfmL) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs) | 4:45 |
+| 6 | [Golden Embers](https://open.spotify.com/track/3fOETmGlFv8nCmZSMIPfmL) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs) | 4:45 |
 | 7 | [Forest Green](https://open.spotify.com/track/6MdpU45V7K5WSTfhK1IhoV) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4ZjJMYZSIk0mbZ6iXkwgvM) | 3:39 |
 | 8 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/68DJwUeMyM2ac4Kahfzzy8) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/album/5Lmem0h0uYNzJA6qep0sf2) | 3:34 |
 | 9 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |

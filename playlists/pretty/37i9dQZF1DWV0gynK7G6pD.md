@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Martin James Bartlett
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,953 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,041 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 14 | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/track/4uSFOXu5fSfbWMLsNPikp0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/album/3JNTQwUs7ggr8fsFiVNhuC) | 3:34 |
 | 15 | [Stay \- Slowed Remix](https://open.spotify.com/track/0xWeHl232ClemqntbpgwU1) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Stephen Lee Price](https://open.spotify.com/artist/1f754WBVbHOHM6ivw5vEgh) | [Stay \(Slowed Remix\)](https://open.spotify.com/album/5Tr9NTr6CDgbZuuzvfvRuR) | 4:00 |
 | 16 | [Symphony No\. 3 in C Major, Op\. 52: II\. Andantino con moto, quasi allegretto](https://open.spotify.com/track/1rGWFIvd6BUJyLi45jnw6O) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Oslo Philharmonic Orchestra](https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Sibelius: Symphony No\. 3 in C Major, Op\. 52: II\. Andantino con moto, quasi allegretto](https://open.spotify.com/album/2KqI9CW78tjrQddgon1XgA) | 10:42 |
-| 17 | [Sicilienne](https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [ミロシュ](https://open.spotify.com/artist/430niZMvjWKgBhYwjh4VTE) | [Sicilienne](https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM) | 3:57 |
+| 17 | [Sicilienne](https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sicilienne](https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM) | 3:57 |
 | 18 | [My Lagan Love](https://open.spotify.com/track/2M21dEEBXm8xCLC5fWFT6t) | [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD), [Anúna](https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC) | [My Lagan Love](https://open.spotify.com/album/07PeUrYIzED08lUsNXSTJL) | 4:26 |
 | 19 | [Trois gymnopédies: No\. 2, Lent et triste](https://open.spotify.com/track/6h618j7Sgfq2i1ysgfvJTy) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Metamorphose String Orchestra](https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe), [Pavel Lyubomudrov](https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE) | [Trois gymnopédies: No\. 2, Lent et triste](https://open.spotify.com/album/2xWUFJFUBzidISqH4xKWmg) | 2:58 |
 | 20 | [Emma: Piano Suite](https://open.spotify.com/track/4VZZgBgdeLdaWjEnxl7iHD) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Emma: Piano Suite](https://open.spotify.com/album/1AEkzEnuG5bVxSg800d5Tn) | 3:10 |

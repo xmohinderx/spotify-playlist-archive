@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 254693,
       "name": "A Pesar de Todos",
       "url": "https://open.spotify.com/track/3sruqhzDXhj9jqlgrUWqr6"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 217494,
       "name": "Amor de Verdad",
       "url": "https://open.spotify.com/track/4nJ3IvzpHPCUPzQ0oUf2L2"
@@ -175,10 +175,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
+    },
+    {
+      "album": {
+        "name": "Boleto al Amor",
+        "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205611,
+      "name": "Boleto al Amor",
+      "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
     },
     {
       "album": {
@@ -211,7 +233,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -519,7 +541,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 176173,
       "name": "Cuanto Te Quiero",
       "url": "https://open.spotify.com/track/6pFtckyqZ1TZivTyHudgXq"
@@ -573,7 +595,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 187393,
       "name": "De Amor Voy a Morirme",
       "url": "https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf"
@@ -1215,7 +1237,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 192482,
       "name": "Hawai",
       "url": "https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71"
@@ -1331,7 +1353,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 234257,
       "name": "La Almohada",
       "url": "https://open.spotify.com/track/12CKvZLUeSWW8YLKNmRmPo"
@@ -1490,6 +1512,28 @@
     },
     {
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5yEunu5lGVvGdi2bGgZ7Ne"
+      },
+      "artists": [
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267303,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3KIMz0gFb6UlwjGaxGEtQk"
+    },
+    {
+      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1595,7 +1639,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 195466,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
@@ -1765,7 +1809,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 180666,
       "name": "No Deber\u00eda Quererte",
       "url": "https://open.spotify.com/track/5P4xezLTnfp7alej9QCFyN"
@@ -1849,7 +1893,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1979,7 +2023,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 250760,
       "name": "Nunca me Faltes",
       "url": "https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW"
@@ -2127,7 +2171,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Que Bello",
       "url": "https://open.spotify.com/track/7cSaRsCIekpL1auJQU4V4T"
@@ -2423,7 +2467,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 260769,
       "name": "Si Tu Amor No Vuelve / Coraz\u00f3n de Acero",
       "url": "https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6"
@@ -2485,6 +2529,24 @@
       "duration_ms": 224352,
       "name": "Su Florcita",
       "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+    },
+    {
+      "album": {
+        "name": "Supe Que Me Amabas",
+        "url": "https://open.spotify.com/album/0WcC3WFfQKjK2V5czeyUU3"
+      },
+      "artists": [
+        {
+          "name": "Jackita",
+          "url": "https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203368,
+      "name": "Supe Que Me Amabas",
+      "url": "https://open.spotify.com/track/6MaTna8KTEchLEYmdzwgs5"
     },
     {
       "album": {
@@ -2881,7 +2943,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -2993,7 +3055,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 213600,
       "name": "Ya Me Entere",
       "url": "https://open.spotify.com/track/7IqU3VnEGCta6yVb7peofO"
@@ -3123,7 +3185,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 148040,
       "name": "Yo Quiero Ser Tu Amor",
       "url": "https://open.spotify.com/track/7oEs1y8dFJ7QBmYg2w6fZ0"
@@ -3159,7 +3221,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-09",
       "duration_ms": 204293,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/53NcJRablHg60JNQUlgNNY"

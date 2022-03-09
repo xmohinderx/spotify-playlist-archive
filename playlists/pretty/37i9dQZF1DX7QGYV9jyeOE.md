@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain](/playlists/plain/37i9dQZF1DX7QGYV9jyeOE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QGYV9jyeOE)
 
-### [Women of New Age](https://open.spotify.com/playlist/37i9dQZF1DX7QGYV9jyeOE)
+### [EQUAL New Age](https://open.spotify.com/playlist/37i9dQZF1DX7QGYV9jyeOE)
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,240 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,270 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 69 | [Requiem](https://open.spotify.com/track/1gayETCFqhIo2HAfgQFOD9) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Solace](https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp) | 4:01 |
 | 70 | [Walk Softly into the Night](https://open.spotify.com/track/2NSIBktrcGeMsp2AbbDchC) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Blue Cosmos](https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff) | 6:56 |
 
-Snapshot ID: `MTYzNDMxNDcxMiwwMDAwMDAwNTAwMDAwMTdjODRiZjc2ZmYwMDAwMDE3OThlMWFhZmQw`
+Snapshot ID: `MTY0Njc0NTIxNCwwMDAwMDAwNjAwMDAwMTdmNjlhOWRmNTMwMDAwMDE3ZjY5YTkwN2Q2`

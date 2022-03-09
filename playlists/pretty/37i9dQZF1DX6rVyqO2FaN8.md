@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rVyqO2FaN8.md) - [plain]
 
 > Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Jimmie Allen
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,902 likes - 77 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,051 likes - 77 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
