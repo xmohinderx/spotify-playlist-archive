@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Pusha T\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,967 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,042 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 2 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DOECHII](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 |
 | 3 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 |
 | 4 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 |
-| 5 | [The Mob](https://open.spotify.com/track/6NuGhdLQfrYvG5wBnaBnb1) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [YNW Bortlen](https://open.spotify.com/artist/5jx69PEwHeFm5MDZ695RIV) | [The Mob](https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04) | 3:57 |
+| 5 | [The Mob](https://open.spotify.com/track/6NuGhdLQfrYvG5wBnaBnb1) | [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YNW Bortlen](https://open.spotify.com/artist/5jx69PEwHeFm5MDZ695RIV) | [The Mob](https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04) | 3:57 |
 | 6 | [Kaiju](https://open.spotify.com/track/1yz2ll2Xi1ycXhkwxtsdQ3) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [DJ Scratch](https://open.spotify.com/artist/4vBBOm1tR7WToK4DZmDZAd) | [Saturday Afternoon Kung Fu Theater](https://open.spotify.com/album/2B1vfij3XHohiv36HUHhr1) | 3:03 |
 | 7 | [ROB](https://open.spotify.com/track/6keGLa1EdSAA5G0p2RFmVg) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [Ghenn](https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR) | 3:25 |
 | 8 | [All Out Savage](https://open.spotify.com/track/0CVLlW23TMg2ZJgpGM4ENU) | [Kim!](https://open.spotify.com/artist/2EVVSRpRPI6B5xw6cbaXCa) | [All Out Savage](https://open.spotify.com/album/1ATaXuSvQQ7YHoyevJX2e2) | 2:48 |

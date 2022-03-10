@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,558 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,818 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 25 | [Cómete Mi Éxito](https://open.spotify.com/track/4gFxJbsFvf0L97TlkGW04k) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Cómete Mi Éxito](https://open.spotify.com/album/1qA191L6gF00pamusjQHMw) | 3:23 |
 | 26 | [Welcome](https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD) | [Patato](https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9) | 2:24 |
 | 27 | [Pa que lo gocen](https://open.spotify.com/track/7BMdZsDXxPH6Db3Ug6A2q2) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Yipiyou](https://open.spotify.com/album/7euTtDGIoACenU5iWH6tr2) | 3:40 |
-| 28 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/5PyHIBFMJRAVeFSv1gqcKc), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
+| 28 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
 | 29 | [Mar de Males](https://open.spotify.com/track/2dt8G6Jx5Ngp5WKvZQoXf1) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/64lovgnKDKb6b0RZrgRozI) | 3:36 |
 | 30 | [La Florinata](https://open.spotify.com/track/4mMru0gIj4JubTsnNqN3h8) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u) | [La Florinata](https://open.spotify.com/album/1jnZco9PxSoj53UgEPFLEw) | 3:56 |
 | 31 | [6 AM](https://open.spotify.com/track/0wLx8D4VWzWxgCtdWyqdYd) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [6 AM](https://open.spotify.com/album/4J9OPrsqAr0fCyyjS8oJhC) | 3:22 |

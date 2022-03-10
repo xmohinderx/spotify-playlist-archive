@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 279289,
       "name": "A Tua Gl\u00f3ria Faz",
       "url": "https://open.spotify.com/track/3bhfiy0dkFBogW4kSk6GIL"
@@ -125,10 +125,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 364878,
       "name": "Alfa e \u00d4mega",
       "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
+    },
+    {
+      "album": {
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
     },
     {
       "album": {
@@ -327,7 +349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 259181,
       "name": "Deixar a L\u00e1grima Rolar",
       "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
@@ -577,7 +599,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 259691,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
@@ -671,7 +693,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 346190,
       "name": "Eu Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/1CnSl7glGbo9OjyogP6ySo"
@@ -762,6 +784,28 @@
     },
     {
       "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+    },
+    {
+      "album": {
         "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
         "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
       },
@@ -813,7 +857,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 227369,
       "name": "Hino da Vit\u00f3ria",
       "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
@@ -889,7 +933,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 446373,
       "name": "Jesus, O Plano Perfeito - Live",
       "url": "https://open.spotify.com/track/1ZLfLLE5Q5FFSdbRhsQpB2"
@@ -951,7 +995,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 447843,
       "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
@@ -1155,7 +1199,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 407000,
       "name": "N\u00e3o Mais Escravos",
       "url": "https://open.spotify.com/track/2cTvqciATSvFWR4W4qN5am"
@@ -1257,7 +1301,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 314117,
       "name": "O Teu Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2MTlVAPbFJZK2jjbkwEoBu"
@@ -1293,7 +1337,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 314289,
       "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
       "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
@@ -1319,7 +1363,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 368346,
       "name": "Os Sonhos de Deus (feat. Luk\u00e3o Carvalho & Eli Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM"
@@ -1417,7 +1461,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 495671,
       "name": "Poderoso Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/53ocDEomVRu0LFS8SqRifj"
@@ -1435,7 +1479,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 334878,
       "name": "Posso Clamar",
       "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
@@ -1453,7 +1497,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 919733,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
@@ -1471,7 +1515,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 208608,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
@@ -1489,7 +1533,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 239211,
       "name": "Prioridade",
       "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
@@ -1573,7 +1617,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 246828,
       "name": "Quero Descer (Ao Vivo)",
       "url": "https://open.spotify.com/track/5G8lsDiUpxvc337PflB9yB"
@@ -1591,7 +1635,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 297726,
       "name": "Raridade",
       "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
@@ -1621,6 +1665,24 @@
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
+    },
+    {
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
     },
     {
       "album": {
@@ -1675,7 +1737,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 266193,
       "name": "Soldado Ferido",
       "url": "https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX"
@@ -1751,7 +1813,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 298005,
       "name": "Teus Olhos Revelam",
       "url": "https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe"

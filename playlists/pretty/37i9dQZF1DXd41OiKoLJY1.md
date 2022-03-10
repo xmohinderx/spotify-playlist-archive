@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: SectionJuan, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,937 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,842 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 3 | ['TIL THE DAYLIGHT](https://open.spotify.com/track/5wb2sOGuo0NyCIGJuJu0Cr) | [ACE$](https://open.spotify.com/artist/4JJnEFAIo6EiPMfmDVeQtS), [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR) | ['TIL THE DAYLIGHT](https://open.spotify.com/album/14oKoPCchlmdAhEeHJuHl2) | 3:36 |
 | 4 | [Sabihin Mo Na](https://open.spotify.com/track/5WADHiAvquoV2ijefbfZmX) | [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg), [Paula Valdez](https://open.spotify.com/artist/0OpD8KtLsIYdCBhqIO3C5F), [Jrxme](https://open.spotify.com/artist/08rpVm7QVoQQhXWAirxqv3) | [Sabihin Mo Na](https://open.spotify.com/album/1U6NzcMbnInOu8kSehuHTD) | 3:54 |
 | 5 | [At Kahit](https://open.spotify.com/track/2V8y3mXusbLMpAZgLg6ve9) | [Jose Carlito](https://open.spotify.com/artist/0dCm0lE7zONgLuquyvat4m) | [At Kahit](https://open.spotify.com/album/5TlW3zW6vLb3BklQWkAk04) | 5:33 |
-| 6 | [Everyone's Just Trying To Survive](https://open.spotify.com/track/6Ei5E8Y1DFGW6mvlbAdb01) | [Wicked Adobo](https://open.spotify.com/artist/3Z8kNkPtwHdbq8CkfPIaLp) | [Everyone's Just Trying To Survive](https://open.spotify.com/album/23mi1uAoIF7sQIgoDubJOe) | 4:08 |
+| 6 | [Everyone's Just Trying To Survive](https://open.spotify.com/track/6Ei5E8Y1DFGW6mvlbAdb01) | [Wicked Adobo](https://open.spotify.com/artist/3Z8kNkPtwHdbq8CkfPIaLp), [Silverfilter](https://open.spotify.com/artist/0mELhHNNwatIgE5tFTcoHA) | [Everyone's Just Trying To Survive](https://open.spotify.com/album/23mi1uAoIF7sQIgoDubJOe) | 4:08 |
 | 7 | [Sinta](https://open.spotify.com/track/5dWi2obpLGO3edaYvdia8K) | [Quaderno](https://open.spotify.com/artist/6gW0p0JnjDSXDDhE0llqdN) | [Sinta](https://open.spotify.com/album/2CTEzyBlsVXJ0lSgVrwacR) | 4:39 |
 | 8 | [BANG](https://open.spotify.com/track/7fpM0yEqXzIUwUTPIYAkT7) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU), [Lineath](https://open.spotify.com/artist/6fzKERw1fgPhkfx7aR0l8M), [Academy of Rock Global](https://open.spotify.com/artist/0DxhkogNXdeva0gPTyfUsu) | [BANG](https://open.spotify.com/album/2LMtd1kV7sobFRQkgExSob) | 3:42 |
 | 9 | [Sa’Yong Piling](https://open.spotify.com/track/46sQZkM5vKrpkOtHTGaA2I) | [Von Lucero](https://open.spotify.com/artist/4F87JbbPHYAjW97YGRbSQF) | [Sa’Yong Piling](https://open.spotify.com/album/2UJGV6O0mNpmmrtaDSq2sR) | 4:04 |

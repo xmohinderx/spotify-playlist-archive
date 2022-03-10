@@ -159,7 +159,7 @@
 | [Wonderland](https://open.spotify.com/track/22P891aHkxRyvSStsUkYZn) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [I Am Everybody](https://open.spotify.com/album/0gxLS8U6BKg3R9wxmQeO1O) | 2:47 | 2022-02-02 | 2022-03-09 |
 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 | 2022-03-08 |  |
 | [You'll Be Fine](https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [You'll Be Fine](https://open.spotify.com/album/39FcPlEZ6XEqGyYuyM5mtJ) | 2:41 | 2022-01-05 | 2022-02-03 |
-| [Young Blood](https://open.spotify.com/track/3PBOgjs3aYjPtdB1gbMRqM) | [PHOEBE ∆X∆](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Wisdom Teeth, Pt\. 1](https://open.spotify.com/album/5wGeFuGlGIRC8ZhDwSkxgw) | 3:50 | 2022-03-08 |  |
+| [Young Blood](https://open.spotify.com/track/3PBOgjs3aYjPtdB1gbMRqM) | [PHOEBE AXA](https://open.spotify.com/artist/2jnPQ5AWdzhb4ZHf2xmR3X) | [Wisdom Teeth, Pt\. 1](https://open.spotify.com/album/5wGeFuGlGIRC8ZhDwSkxgw) | 3:50 | 2022-03-08 |  |
 | [Добро Пожаловать Домой](https://open.spotify.com/track/6ezcH7a4s9tPnhQhU1c7YM) | [Mirèle](https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K) | [Добро Пожаловать Домой](https://open.spotify.com/album/1hCOoVg6uXLclTdRY8FAlL) | 2:41 | 2022-01-05 | 2022-02-03 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Butches Brew",
+        "url": "https://open.spotify.com/album/772bVEvhc7IUfBZALChmh6"
+      },
+      "artists": [
+        {
+          "name": "Butch Cassidy Sound System",
+          "url": "https://open.spotify.com/artist/5G63bkLymqmiaIkrUZExGG"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275893,
+      "name": "Brothers and Sisters",
+      "url": "https://open.spotify.com/track/2OLssDLdq7vwHOlhRe53Zy"
+    },
+    {
+      "album": {
         "name": "Blackwood Dub",
         "url": "https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 255533,
       "name": "Jamaican Proverb",
       "url": "https://open.spotify.com/track/5jYVj4prrAjmXd0mNDaGAt"
@@ -609,6 +627,24 @@
       "duration_ms": 222146,
       "name": "Negus Negast, Pt. 2",
       "url": "https://open.spotify.com/track/2SUzyAhKsaIC987kD1Ow1K"
+    },
+    {
+      "album": {
+        "name": "Modern Mantra",
+        "url": "https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F"
+      },
+      "artists": [
+        {
+          "name": "DJ Krush",
+          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121280,
+      "name": "On the Dub-ble",
+      "url": "https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR"
     },
     {
       "album": {
@@ -851,7 +887,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 191400,
       "name": "Under Mi Sensi",
       "url": "https://open.spotify.com/track/2TBOlAo3jhW00nKl5EIhYo"

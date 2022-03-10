@@ -1,13 +1,29 @@
 {
   "description": "Comece o dia com grandes hits!",
-  "num_followers": 1436309,
+  "num_followers": 1436417,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc4NzE2MywwMDAwMDAwMGQ3ODI5MTI2MWFmYWZlYWE0MjU4YzdkMGYwNTE0YzBm",
+  "snapshot_id": "MTY0Njg3MzY3NCwwMDAwMDAwMDhlNmE3ZGNhZDgwNWY1NjkxYzE4OGNhOWMxN2E2NzQw",
   "tracks": [
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Bar\u00e3o Pra Sempre",
+        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 202474,
+      "name": "Por Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
+    },
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
@@ -31,54 +47,18 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Amores E Flores",
-        "url": "https://open.spotify.com/album/1PlsJ3MpUgGs7AkuKymCtp"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 171366,
-      "name": "Amores E Flores",
-      "url": "https://open.spotify.com/track/5rRpDkzRMwGViXM0jYd5ye"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Let Me Be The One",
-        "url": "https://open.spotify.com/album/5IiftA3bZZGl9egM4UNdd9"
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
       "artists": [
         {
           "name": "IZA",
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Maejor",
-          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Let Me Be The One",
-      "url": "https://open.spotify.com/track/3ExgP2Oq27CoiZYWklkBpy"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Bar\u00e3o Pra Sempre",
-        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 202474,
-      "name": "Por Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
+      "duration_ms": 208941,
+      "name": "Dona de mim",
+      "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -95,42 +75,6 @@
       "duration_ms": 194440,
       "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Microfonado",
-        "url": "https://open.spotify.com/album/7cKiOutJu0aydk3PEqmUcu"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 208982,
-      "name": "A Tal Can\u00e7\u00e3o Pra Lua (Microfonado)",
-      "url": "https://open.spotify.com/track/6eTqKGvYUGkLGYTulRDy6E"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -175,6 +119,58 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Microfonado",
+        "url": "https://open.spotify.com/album/7cKiOutJu0aydk3PEqmUcu"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 208982,
+      "name": "A Tal Can\u00e7\u00e3o Pra Lua (Microfonado)",
+      "url": "https://open.spotify.com/track/6eTqKGvYUGkLGYTulRDy6E"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Graveto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 170877,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
       },
@@ -195,8 +191,8 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+        "name": "Meu talism\u00e3",
+        "url": "https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO"
       },
       "artists": [
         {
@@ -204,25 +200,9 @@
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         }
       ],
-      "duration_ms": 208941,
-      "name": "Dona de mim",
-      "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Graveto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 170877,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+      "duration_ms": 165176,
+      "name": "Meu talism\u00e3",
+      "url": "https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -263,22 +243,34 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/6xYAY8G9FYFDsf3qDb58j4"
+        "name": "Amores E Flores",
+        "url": "https://open.spotify.com/album/1PlsJ3MpUgGs7AkuKymCtp"
       },
       "artists": [
         {
-          "name": "Palm Trees",
-          "url": "https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392"
-        },
-        {
-          "name": "Tony Ferrari",
-          "url": "https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 184700,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6iUSZ7QJFMw3QHI7Lpj05D"
+      "duration_ms": 171366,
+      "name": "Amores E Flores",
+      "url": "https://open.spotify.com/track/5rRpDkzRMwGViXM0jYd5ye"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -303,34 +295,58 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6xYAY8G9FYFDsf3qDb58j4"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Palm Trees",
+          "url": "https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392"
+        },
+        {
+          "name": "Tony Ferrari",
+          "url": "https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T"
         }
       ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+      "duration_ms": 184700,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6iUSZ7QJFMw3QHI7Lpj05D"
     },
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Let Me Be The One",
+        "url": "https://open.spotify.com/album/5IiftA3bZZGl9egM4UNdd9"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Let Me Be The One",
+      "url": "https://open.spotify.com/track/3ExgP2Oq27CoiZYWklkBpy"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -359,54 +375,34 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf"
+        "name": "(n\u00e3o) era amor",
+        "url": "https://open.spotify.com/album/1pX7Hry9lbEICEN2ez13K7"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
         }
       ],
-      "duration_ms": 190363,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM"
+      "duration_ms": 157989,
+      "name": "(n\u00e3o) era amor",
+      "url": "https://open.spotify.com/track/7DmZMqXYgQ1oI3z3bGUEbi"
     },
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Meu talism\u00e3",
-        "url": "https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO"
+        "name": "Bem Melhor",
+        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 165176,
-      "name": "Meu talism\u00e3",
-      "url": "https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Marcianos",
-        "url": "https://open.spotify.com/album/0pxPOnlmvaIz5MLW4lcfc7"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 246152,
-      "name": "Nossa Conversa",
-      "url": "https://open.spotify.com/track/6Q8xj3afIv8e8rRdIWKHhU"
+      "duration_ms": 183050,
+      "name": "Bem Melhor",
+      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -439,18 +435,34 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "se essa vida fosse um filme",
-        "url": "https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI"
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
       "artists": [
         {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 125097,
-      "name": "se essa vida fosse um filme",
-      "url": "https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0"
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Marcianos",
+        "url": "https://open.spotify.com/album/0pxPOnlmvaIz5MLW4lcfc7"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "duration_ms": 246152,
+      "name": "Nossa Conversa",
+      "url": "https://open.spotify.com/track/6Q8xj3afIv8e8rRdIWKHhU"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -475,8 +487,100 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Bem Melhor",
-        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 190363,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Focus - O Essencial De Lulu Santos",
+        "url": "https://open.spotify.com/album/6jLQP7r0m43L8DC0ebmWRL"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/57uVLvxN3mK6k5oVLIngBq"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Passarinhos (Remix)",
+        "url": "https://open.spotify.com/album/0VkPkc6tXvv5x8e9N4VuBQ"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        },
+        {
+          "name": "Marcio Arantes",
+          "url": "https://open.spotify.com/artist/7tGmsXagv9nYjO7Rowwtx3"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Passarinhos (Remix)",
+      "url": "https://open.spotify.com/track/0gg3CdFwZ6pw2YAqoIq5lN"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "se essa vida fosse um filme",
+        "url": "https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 125097,
+      "name": "se essa vida fosse um filme",
+      "url": "https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Hoje Eu Quero Me Perder",
+        "url": "https://open.spotify.com/album/5lnpFWdelG0DnKG4hncCfQ"
       },
       "artists": [
         {
@@ -484,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Bem Melhor",
-      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
+      "duration_ms": 173076,
+      "name": "Hoje Eu Quero Me Perder",
+      "url": "https://open.spotify.com/track/6ZUArSVO6hPj6e27tD3OyT"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -527,96 +631,8 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Passarinhos (Remix)",
-        "url": "https://open.spotify.com/album/0VkPkc6tXvv5x8e9N4VuBQ"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        },
-        {
-          "name": "Marcio Arantes",
-          "url": "https://open.spotify.com/artist/7tGmsXagv9nYjO7Rowwtx3"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Passarinhos (Remix)",
-      "url": "https://open.spotify.com/track/0gg3CdFwZ6pw2YAqoIq5lN"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "(n\u00e3o) era amor",
-        "url": "https://open.spotify.com/album/1pX7Hry9lbEICEN2ez13K7"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 157989,
-      "name": "(n\u00e3o) era amor",
-      "url": "https://open.spotify.com/track/7DmZMqXYgQ1oI3z3bGUEbi"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Focus - O Essencial De Lulu Santos",
-        "url": "https://open.spotify.com/album/6jLQP7r0m43L8DC0ebmWRL"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/57uVLvxN3mK6k5oVLIngBq"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
+        "name": "Ouro",
+        "url": "https://open.spotify.com/album/71HeCCNmwSJpAQy0eZYwV0"
       },
       "artists": [
         {
@@ -624,13 +640,13 @@
           "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         },
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 155798,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
+      "duration_ms": 179339,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/6toDZSoqG5QUitFsoxavRy"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -651,18 +667,38 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Hoje Eu Quero Me Perder",
-        "url": "https://open.spotify.com/album/5lnpFWdelG0DnKG4hncCfQ"
+        "name": "I\u00ea I\u00ea I\u00ea",
+        "url": "https://open.spotify.com/album/1JvHoEorSjvyN1QedgMiQ5"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
         }
       ],
-      "duration_ms": 173076,
-      "name": "Hoje Eu Quero Me Perder",
-      "url": "https://open.spotify.com/track/6ZUArSVO6hPj6e27tD3OyT"
+      "duration_ms": 260667,
+      "name": "A Casa \u00e9 Sua",
+      "url": "https://open.spotify.com/track/0wfcNeRfE0Z7bTlTYmVKQC"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
+        "url": "https://open.spotify.com/album/5qMS3cSMMEwhMEykSB7GcX"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 180625,
+      "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
+      "url": "https://open.spotify.com/track/3RHhNmN9eFeutAzyJ6SqnY"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -703,22 +739,18 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
-        "url": "https://open.spotify.com/album/5qMS3cSMMEwhMEykSB7GcX"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 180625,
-      "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
-      "url": "https://open.spotify.com/track/3RHhNmN9eFeutAzyJ6SqnY"
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -739,62 +771,6 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Ouro",
-        "url": "https://open.spotify.com/album/71HeCCNmwSJpAQy0eZYwV0"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 179339,
-      "name": "Complicado",
-      "url": "https://open.spotify.com/track/6toDZSoqG5QUitFsoxavRy"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/4ifYC7yF3P5wMHUO9GBnON"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/5knrAEjUMh6T2kDCN7YD2b"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
         "name": "Crise",
         "url": "https://open.spotify.com/album/1GrLzuMykj1N2woxKXsb0W"
       },
@@ -811,6 +787,26 @@
       "duration_ms": 223488,
       "name": "Bilhete 2.0",
       "url": "https://open.spotify.com/track/4eizL2CPEy9lFUZw7HBKrk"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 155798,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -847,22 +843,22 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Leve (Manimal Remix)",
-        "url": "https://open.spotify.com/album/0hOnjROOEJXYH3QElVhctS"
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/4ifYC7yF3P5wMHUO9GBnON"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Manimal",
-          "url": "https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9"
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
         }
       ],
-      "duration_ms": 145161,
-      "name": "Leve - Manimal Remix",
-      "url": "https://open.spotify.com/track/0YK71rSArDeNp5HcllHnDg"
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/5knrAEjUMh6T2kDCN7YD2b"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -879,62 +875,6 @@
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "I\u00ea I\u00ea I\u00ea",
-        "url": "https://open.spotify.com/album/1JvHoEorSjvyN1QedgMiQ5"
-      },
-      "artists": [
-        {
-          "name": "Arnaldo Antunes",
-          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
-        }
-      ],
-      "duration_ms": 260667,
-      "name": "A Casa \u00e9 Sua",
-      "url": "https://open.spotify.com/track/0wfcNeRfE0Z7bTlTYmVKQC"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Yo Te Vine A Amar",
-        "url": "https://open.spotify.com/album/6UTZooqn80YxhxPUJ0B3rl"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 198163,
-      "name": "Yo Te Vine A Amar",
-      "url": "https://open.spotify.com/track/5EARH4DZODYVMlkLJWO9Ss"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Vou Al\u00e9m",
-        "url": "https://open.spotify.com/album/0aw3UAqbUpzQ2k9D50QGRL"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 172075,
-      "name": "Vai Ter Que Aguentar",
-      "url": "https://open.spotify.com/track/5GAdMAL3tRJkVN1HtwohK2"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -959,74 +899,6 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Shawn Mendes (Deluxe)",
-        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 190799,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Out of Words",
-        "url": "https://open.spotify.com/album/59oSYq5Ng6K5AIXRBeIN2g"
-      },
-      "artists": [
-        {
-          "name": "Bianca Rhoden",
-          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
-        }
-      ],
-      "duration_ms": 141799,
-      "name": "Out of Words",
-      "url": "https://open.spotify.com/track/1ftjKpH66EE8VFkr7HLB9B"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "#Relaxa",
-        "url": "https://open.spotify.com/album/7lfK9u1FPxWdl2sroPxJSZ"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 186781,
-      "name": "Relaxa",
-      "url": "https://open.spotify.com/track/7u2R7mGNiFAnRbbhx7S9NM"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Nobody's Love",
-        "url": "https://open.spotify.com/album/2cDt5R89HP8ZCXhNAmZs27"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Nobody's Love",
-      "url": "https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -1047,18 +919,118 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/3zk4ryXCq1a4NwC4WYxfHW"
+        "name": "Yo Te Vine A Amar",
+        "url": "https://open.spotify.com/album/6UTZooqn80YxhxPUJ0B3rl"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 141508,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/4R5xvs5X0phd0EYWyGigju"
+      "duration_ms": 198163,
+      "name": "Yo Te Vine A Amar",
+      "url": "https://open.spotify.com/track/5EARH4DZODYVMlkLJWO9Ss"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Leve (Manimal Remix)",
+        "url": "https://open.spotify.com/album/0hOnjROOEJXYH3QElVhctS"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Manimal",
+          "url": "https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "Leve - Manimal Remix",
+      "url": "https://open.spotify.com/track/0YK71rSArDeNp5HcllHnDg"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Shawn Mendes (Deluxe)",
+        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 190799,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "#Relaxa",
+        "url": "https://open.spotify.com/album/7lfK9u1FPxWdl2sroPxJSZ"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 186781,
+      "name": "Relaxa",
+      "url": "https://open.spotify.com/track/7u2R7mGNiFAnRbbhx7S9NM"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Vou Al\u00e9m",
+        "url": "https://open.spotify.com/album/0aw3UAqbUpzQ2k9D50QGRL"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 172075,
+      "name": "Vai Ter Que Aguentar",
+      "url": "https://open.spotify.com/track/5GAdMAL3tRJkVN1HtwohK2"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Respect (with The Royal Philharmonic Orchestra)",
+        "url": "https://open.spotify.com/album/3B73SxANAKIz24HHUbCFMk"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "Respect (with The Royal Philharmonic Orchestra)",
+      "url": "https://open.spotify.com/track/6pANgXP3h8LSEbYyWi7W7T"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -1107,22 +1079,54 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Respect (with The Royal Philharmonic Orchestra)",
-        "url": "https://open.spotify.com/album/3B73SxANAKIz24HHUbCFMk"
+        "name": "Nobody's Love",
+        "url": "https://open.spotify.com/album/2cDt5R89HP8ZCXhNAmZs27"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 157106,
-      "name": "Respect (with The Royal Philharmonic Orchestra)",
-      "url": "https://open.spotify.com/track/6pANgXP3h8LSEbYyWi7W7T"
+      "duration_ms": 211253,
+      "name": "Nobody's Love",
+      "url": "https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Indecente",
+        "url": "https://open.spotify.com/album/7kasEt4zsxQQU8mbOaVu5t"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 205187,
+      "name": "Indecente",
+      "url": "https://open.spotify.com/track/5FOCkGt7bp22nBVfQ4WSIT"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/35i6JrOJDOFIUuyQDtMjbA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 182146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -1163,94 +1167,18 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/35i6JrOJDOFIUuyQDtMjbA"
+        "name": "Out of Words",
+        "url": "https://open.spotify.com/album/59oSYq5Ng6K5AIXRBeIN2g"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+          "name": "Bianca Rhoden",
+          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
         }
       ],
-      "duration_ms": 182146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "I Promise I Won't Shoot",
-        "url": "https://open.spotify.com/album/5r8gLIWmCn47OPBSGzjiz9"
-      },
-      "artists": [
-        {
-          "name": "Gus & Vic",
-          "url": "https://open.spotify.com/artist/1GgAdCL2mIcXhZ2Wzwzb7b"
-        }
-      ],
-      "duration_ms": 185687,
-      "name": "I Promise I Won't Shoot",
-      "url": "https://open.spotify.com/track/5rvLeyCN7oF4xFLnRzXN99"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Holy (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Indecente",
-        "url": "https://open.spotify.com/album/7kasEt4zsxQQU8mbOaVu5t"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 205187,
-      "name": "Indecente",
-      "url": "https://open.spotify.com/track/5FOCkGt7bp22nBVfQ4WSIT"
-    },
-    {
-      "added_at": "2022-02-04 03:00:00",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+      "duration_ms": 141799,
+      "name": "Out of Words",
+      "url": "https://open.spotify.com/track/1ftjKpH66EE8VFkr7HLB9B"
     },
     {
       "added_at": "2022-02-04 03:00:00",
@@ -1279,34 +1207,110 @@
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/3zk4ryXCq1a4NwC4WYxfHW"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
+      "duration_ms": 141508,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/4R5xvs5X0phd0EYWyGigju"
     },
     {
       "added_at": "2022-02-04 03:00:00",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "I Promise I Won't Shoot",
+        "url": "https://open.spotify.com/album/5r8gLIWmCn47OPBSGzjiz9"
+      },
+      "artists": [
+        {
+          "name": "Gus & Vic",
+          "url": "https://open.spotify.com/artist/1GgAdCL2mIcXhZ2Wzwzb7b"
+        }
+      ],
+      "duration_ms": 185687,
+      "name": "I Promise I Won't Shoot",
+      "url": "https://open.spotify.com/track/5rvLeyCN7oF4xFLnRzXN99"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Diamonds On The Inside",
+        "url": "https://open.spotify.com/album/7kWiJBFrMMzj6YzslY4n0V"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Diamonds On The Inside",
+      "url": "https://open.spotify.com/track/3SGhZ9mc7dbxrPMJEKlOlV"
+    },
+    {
+      "added_at": "2022-02-04 03:00:00",
+      "album": {
+        "name": "Last Time Love",
+        "url": "https://open.spotify.com/album/3BR2OFMYl0UQShwHm6Jihj"
+      },
+      "artists": [
+        {
+          "name": "Fancy Cars",
+          "url": "https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem"
+        },
+        {
+          "name": "Myah Marie",
+          "url": "https://open.spotify.com/artist/01xtyBZsNZqM9B0vENQMNu"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Last Time Love",
+      "url": "https://open.spotify.com/track/2aBVR2kHDFocniQ0T1DUcG"
     }
   ],
   "unique_name": "Tenha um \u00d3timo Dia!",

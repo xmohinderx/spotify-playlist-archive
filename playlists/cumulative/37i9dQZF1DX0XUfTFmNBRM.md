@@ -2,7 +2,7 @@
 
 ### [Top Hits Hindi](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
-> Hottest Hindi music served here\. Cover\- Akshay Kumar, Dhanush, and Sara Ali Khan.
+> Hottest Hindi music served here\. Cover\- Sidhant Chaturvedi & Deepika Padukone
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

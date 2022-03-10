@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Congratulations to all of this year's winners & nominees!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,195 likes - 61 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,815 likes - 61 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 | 54 | [Raised on Country](https://open.spotify.com/track/6voi5xnLs9JKmWG2oLmgDU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Raised on Country](https://open.spotify.com/album/66JJneTDQTIYsQ6vEYe8qs) | 2:55 |
 | 55 | [What’s Your Country Song](https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:51 |
 | 56 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 |
-| 57 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 |
-| 58 | [Younger Me](https://open.spotify.com/track/46GyuWg3cYoPyfkHgr4s9c) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons \(Deluxe\)](https://open.spotify.com/album/2xXJINeBLHwdFzQECIJuUM) | 3:26 |
-| 59 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI) | 4:07 |
-| 60 | [Watch You Burn](https://open.spotify.com/track/7J0GgWPMf5OTSJK6uXxFe0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:03 |
-| 61 | [Beach Boys](https://open.spotify.com/track/2ZuWXOOVsHFQodtdDo4WJq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:00 |
+| 57 | [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/track/3oxOe0e2fDhLoblIAxWa1o) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU), [Mike Love](https://open.spotify.com/artist/7lIlJTlWaSIBTMJxpIvd8f) | [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/album/3r8lnwwavbBwzIo4nGassa) | 3:03 |
+| 58 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 |
+| 59 | [Younger Me](https://open.spotify.com/track/46GyuWg3cYoPyfkHgr4s9c) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons \(Deluxe\)](https://open.spotify.com/album/2xXJINeBLHwdFzQECIJuUM) | 3:26 |
+| 60 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI) | 4:07 |
+| 61 | [Watch You Burn](https://open.spotify.com/track/7J0GgWPMf5OTSJK6uXxFe0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:03 |
 
-Snapshot ID: `MTY0Njc0OTE0MCwwMDAwMDAxMTAwMDAwMTdmNjllNWM1YTkwMDAwMDE3ZWVhOGVmNGEy`
+Snapshot ID: `MTY0Njg0NTIxOSwwMDAwMDAxMjAwMDAwMTdmNmY5ZmQyMjAwMDAwMDE3ZWVhOGVmNGEy`

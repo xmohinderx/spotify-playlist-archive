@@ -22370,6 +22370,24 @@
     },
     {
       "album": {
+        "name": "WRATH",
+        "url": "https://open.spotify.com/album/7MPw42EmxMIWBoj6BHd3eX"
+      },
+      "artists": [
+        {
+          "name": "Button Maker",
+          "url": "https://open.spotify.com/artist/4MAagcKJAflUPllm4L7SOQ"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140669,
+      "name": "WRATH",
+      "url": "https://open.spotify.com/track/7jWtCaPR3clpHhpAkq2iau"
+    },
+    {
+      "album": {
         "name": "WTF",
         "url": "https://open.spotify.com/album/5LcMGi5nDM6E3Dw0XdfWT3"
       },

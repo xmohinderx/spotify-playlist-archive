@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2?si=e2e50b12fc7644ba">Ethel Cain</a>, <a href="https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4?si=0bb176c8be7c4f8d">Britney Spears</a>, <a href="https://open.spotify.com/artist/0mpgl4qEYonWABZPuDt3uc?si=7dee21e78adf4cee">Annet Artani</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,820 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,970 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 9 | [I Don't Want to Wait \(Artist's 20th Anniversary Edition\)](https://open.spotify.com/track/3TPM942bMXrEnCPym6vL7i) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Bright Red Feeling \(Live in New York City\)](https://open.spotify.com/album/0GajQ8t3Jb55gl0QPjgyv0) | 4:55 |
 | 10 | [Concrete](https://open.spotify.com/track/2le7fdIkJuRZLwCM1mFxSf) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Concrete](https://open.spotify.com/album/6SmgsgCgJBktHz7G1xAMEa) | 4:02 |
 | 11 | [Selfish](https://open.spotify.com/track/4nV8bV7vQGVoWGyyoJUxbG) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Selfish](https://open.spotify.com/album/3azT3VDRZvCI09HzqTcQlD) | 4:19 |
-| 12 | [Young Blood](https://open.spotify.com/track/3PBOgjs3aYjPtdB1gbMRqM) | [PHOEBE ∆X∆](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Wisdom Teeth, Pt\. 1](https://open.spotify.com/album/5wGeFuGlGIRC8ZhDwSkxgw) | 3:50 |
+| 12 | [Young Blood](https://open.spotify.com/track/3PBOgjs3aYjPtdB1gbMRqM) | [PHOEBE AXA](https://open.spotify.com/artist/2jnPQ5AWdzhb4ZHf2xmR3X) | [Wisdom Teeth, Pt\. 1](https://open.spotify.com/album/5wGeFuGlGIRC8ZhDwSkxgw) | 3:50 |
 | 13 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 |
 | 14 | [Rosa](https://open.spotify.com/track/1vO1PM21XquIr92fJgAFzh) | [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Attese, Vol\. 2](https://open.spotify.com/album/2ggQTP2Elnll8dCZqvecpi) | 3:37 |
 | 15 | [A Woman's Worth](https://open.spotify.com/track/1NRorokmYEtr1koWybvaE4) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 5:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Baby, I'm Hollywood!](https://open.spotify.com/track/37Rszesj8IDBkYCCsRJEB6) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 4:33 |
 | 40 | [hating myself in the summer](https://open.spotify.com/track/0W94oSiDJwCViDJ7cg8pRH) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [hating myself in the summer](https://open.spotify.com/album/3qMSTBdlyljwqzzTiP5xV0) | 2:42 |
 
-Snapshot ID: `MTY0Njc4NzE2MiwwMDAwMDAwMDNjNDI5YmNiMWZjMWEyOGI1OTJmZjgyZWM3NGIwODE1`
+Snapshot ID: `MTY0Njg3MzY3MiwwMDAwMDAwMDNjNDI5YmNiMWZjMWEyOGI1OTJmZjgyZWM3NGIwODE1`

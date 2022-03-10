@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica\. Foto: C\. Tangana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,444,572 likes - 107 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445,710 likes - 107 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

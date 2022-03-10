@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "ALT the Good Vibes.",
+  "description": "alternative songs and a good time.",
   "name": "It's ALT Good!",
   "published_playlist_ids": [
     "1Bj13TwCdIEL5pmYy3YM5V"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 164617,
       "name": "Alright (frick it!)",
       "url": "https://open.spotify.com/track/0guJsHG67oNPEtZCIHfMxm"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 189423,
       "name": "Apple Crumble",
       "url": "https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 199274,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/7FOgj5HLQd9LXGKXot1RhA"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 169760,
       "name": "Good",
       "url": "https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 195093,
       "name": "Kombucha",
       "url": "https://open.spotify.com/track/7pGYQz0yMkm8rLdP6u1wZW"
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 211826,
       "name": "Manta Rays",
       "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 175894,
       "name": "Melt",
       "url": "https://open.spotify.com/track/4Axn3CdPeSAciEvCa2p7Xs"
@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 205844,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4NTerkM5Eqn2rRwFMESuzD"
@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 192149,
       "name": "Not OK!",
       "url": "https://open.spotify.com/track/2YbMlkq0ARgHiMGBFGTnxq"
@@ -2361,7 +2361,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 185821,
       "name": "Safe",
       "url": "https://open.spotify.com/track/72X7mJmnx6pHyRWvtelVkL"
@@ -2629,7 +2629,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 231443,
       "name": "Summer Sound",
       "url": "https://open.spotify.com/track/0n5M23g9jUnTrNug9b7bC5"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 211040,
       "name": "Sunshine Time",
       "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
@@ -2719,7 +2719,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 163680,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD"
@@ -2777,6 +2777,24 @@
       "duration_ms": 186374,
       "name": "Television",
       "url": "https://open.spotify.com/track/469PWHZlngcQyOJnGGAWzs"
+    },
+    {
+      "album": {
+        "name": "Tell Me Tell Me",
+        "url": "https://open.spotify.com/album/0XbVK5VZidNVJ66a1m6KXz"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188257,
+      "name": "Tell Me Tell Me",
+      "url": "https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK"
     },
     {
       "album": {
@@ -2983,6 +3001,24 @@
       "duration_ms": 131302,
       "name": "WHAT YOU GONNA DO???",
       "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
+    },
+    {
+      "album": {
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "album": {

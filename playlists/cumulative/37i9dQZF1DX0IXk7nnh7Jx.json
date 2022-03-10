@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 221666,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/6U9KXC0ziE2wqjZVxZvBNr"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 264038,
       "name": "Bound",
       "url": "https://open.spotify.com/track/0rvhiH38OoFU2tHbImKjnz"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 199000,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/4LJCaeXCP3cAkVpdMBA3wM"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 197462,
       "name": "Found",
       "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 235312,
       "name": "Gone Are the Days (Julie Odnoralov Remix)",
       "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 266169,
       "name": "Held by Your Love",
       "url": "https://open.spotify.com/track/0kpBBTRrCmupemEosDzcMe"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 164520,
       "name": "I Had a Dream I Knew You Better",
       "url": "https://open.spotify.com/track/3MsYV9iIVJpWLh3pRmqU3Z"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 204202,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI"
@@ -888,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Lead Me (Among the Ruins)",
+        "url": "https://open.spotify.com/album/2H80kM6umUt3ZMVuuqqleo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311530,
+      "name": "Lead Me (Among the Ruins)",
+      "url": "https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1"
+    },
+    {
+      "album": {
         "name": "Light of Your Grace",
         "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
       },
@@ -903,6 +921,24 @@
       "duration_ms": 189307,
       "name": "Light of Your Grace",
       "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
+    },
+    {
+      "album": {
+        "name": "Light & Bloom",
+        "url": "https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s"
+      },
+      "artists": [
+        {
+          "name": "Holly Ann",
+          "url": "https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243268,
+      "name": "Lion's Den",
+      "url": "https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY"
     },
     {
       "album": {
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 266762,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r"
@@ -1241,7 +1277,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 304192,
       "name": "Stir A Passion",
       "url": "https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt"
@@ -1313,7 +1349,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 181840,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/7eL7RLdVokaOBzjfIs5zMH"
@@ -1331,7 +1367,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/3siXfTF5Czys5WTvyeYMSY"
@@ -1407,7 +1443,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 317989,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91"
@@ -1425,7 +1461,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 320003,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
@@ -1479,7 +1515,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 281270,
       "name": "We Sing Hallelujah",
       "url": "https://open.spotify.com/track/022DnzvMN4AP1hIHQodnXB"
@@ -1497,7 +1533,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 186857,
       "name": "What Living's All About",
       "url": "https://open.spotify.com/track/6kyXGiAum5xXiezOPBn23M"
@@ -1555,7 +1591,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 311186,
       "name": "World Keeps Spinning",
       "url": "https://open.spotify.com/track/2p5VBF4NTxAIooKRCIMWYj"
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 269560,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"

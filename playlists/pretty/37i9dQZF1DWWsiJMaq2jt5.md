@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Natalia Przybysz
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,413 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,618 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 51 | [Nie zwalniaj \(randka\) \- Studyjna](https://open.spotify.com/track/5QMu6fxA2ldphxnkNVugc4) | [Wdowa](https://open.spotify.com/artist/6m7Sh5eBXT5Y1dprnuuqWR), [Justyna Kuśmierczyk](https://open.spotify.com/artist/7nEP1XNNGdnC7oo5y8pTTU) | [Nie zwalniaj \(randka\)](https://open.spotify.com/album/0qqArn1TPnhhQqPUVUCGkD) | 3:09 |
 | 52 | [Nie Lubię Zmyślać](https://open.spotify.com/track/5N3UG7eyNWYUqCcPNWkfXh) | [Juli Chan](https://open.spotify.com/artist/6jIH7ytOavKICdIcTdVHYa) | [Nie Lubię Zmyślać](https://open.spotify.com/album/2cJm8K6BWEmwzUbWaE535P) | 2:43 |
 | 53 | [Spokój](https://open.spotify.com/track/7tcPYtAWvdDwFBqYrqe6fx) | [IVO](https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Spokój](https://open.spotify.com/album/3BfcdvOJXBW3dXADxTfJB5) | 3:40 |
-| 54 | [Bez planu](https://open.spotify.com/track/5HkfszwOXyKzIiwGQBxZfY) | [Ania Blush](https://open.spotify.com/artist/4QQaa1L3pPNpi8hN1RwSsh) | [Bez planu](https://open.spotify.com/album/4uj6aGPHcb07ziGFKiCrUq) | 3:24 |
-| 55 | [Flow Alone](https://open.spotify.com/track/5n1XUIB2IZP766ifuT3P30) | [KAŚKA](https://open.spotify.com/artist/5fwn3lWnA3Z2IgbgnxuzeP) | [Flow Alone](https://open.spotify.com/album/4VgaFnUqnax6RUsnWiCGr3) | 3:01 |
-| 56 | [Czarny Kot](https://open.spotify.com/track/37vuLvkZ7p8pT53JRV925m) | [Monika Fortuniak](https://open.spotify.com/artist/01ncc1B50xOY2nYOgyJqI2), [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ) | [Czarny Kot](https://open.spotify.com/album/4uPUpaNscy163I6hsaDWRN) | 3:54 |
-| 57 | [Marzenia Me](https://open.spotify.com/track/6To1ctBJCRy5kd63IiuarP) | [Kaja Gniecioszek](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Marzenia Me](https://open.spotify.com/album/0AZjvZ7ziOHTGTbuNzz7c7) | 3:37 |
-| 58 | [Na parapecie](https://open.spotify.com/track/1TQ3xXXbwfPT1qNilJzNoh) | [Łzy](https://open.spotify.com/artist/49kDJkXVeVB2KjvJmAwq0f) | [Na parapecie](https://open.spotify.com/album/6jrTWiasMEsXTyRVkO9eZY) | 3:38 |
-| 59 | [Feniks](https://open.spotify.com/track/2HgMzoHdLCNYQcYiBrp0mn) | [CARLA](https://open.spotify.com/artist/1RxQ9AlRqsv1viwsUOPdw4) | [Feniks](https://open.spotify.com/album/4OgUnvzeyhdX8UyHauarol) | 3:18 |
+| 54 | [Oczarowanie](https://open.spotify.com/track/6tr8migtnoUibyAHs6r0tY) | [Olga Bończyk](https://open.spotify.com/artist/5WS3maUUPaPuXJlu467MFO) | [Oczarowanie](https://open.spotify.com/album/42dsxqnw2OEJwRnz3jKaw9) | 3:33 |
+| 55 | [Bez planu](https://open.spotify.com/track/5HkfszwOXyKzIiwGQBxZfY) | [Ania Blush](https://open.spotify.com/artist/4QQaa1L3pPNpi8hN1RwSsh) | [Bez planu](https://open.spotify.com/album/4uj6aGPHcb07ziGFKiCrUq) | 3:24 |
+| 56 | [Flow Alone](https://open.spotify.com/track/5n1XUIB2IZP766ifuT3P30) | [KAŚKA](https://open.spotify.com/artist/5fwn3lWnA3Z2IgbgnxuzeP) | [Flow Alone](https://open.spotify.com/album/4VgaFnUqnax6RUsnWiCGr3) | 3:01 |
+| 57 | [Czarny Kot](https://open.spotify.com/track/37vuLvkZ7p8pT53JRV925m) | [Monika Fortuniak](https://open.spotify.com/artist/01ncc1B50xOY2nYOgyJqI2), [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ) | [Czarny Kot](https://open.spotify.com/album/4uPUpaNscy163I6hsaDWRN) | 3:54 |
+| 58 | [Marzenia Me](https://open.spotify.com/track/6To1ctBJCRy5kd63IiuarP) | [Kaja Gniecioszek](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Marzenia Me](https://open.spotify.com/album/0AZjvZ7ziOHTGTbuNzz7c7) | 3:37 |
+| 59 | [Na parapecie](https://open.spotify.com/track/1TQ3xXXbwfPT1qNilJzNoh) | [Łzy](https://open.spotify.com/artist/49kDJkXVeVB2KjvJmAwq0f) | [Na parapecie](https://open.spotify.com/album/6jrTWiasMEsXTyRVkO9eZY) | 3:38 |
+| 60 | [Feniks](https://open.spotify.com/track/2HgMzoHdLCNYQcYiBrp0mn) | [CARLA](https://open.spotify.com/artist/1RxQ9AlRqsv1viwsUOPdw4) | [Feniks](https://open.spotify.com/album/4OgUnvzeyhdX8UyHauarol) | 3:18 |
 
-Snapshot ID: `MTY0NjY5NDAwMCwwMDAwMDAxMDAwMDAwMTdmNjY5YzY4NjYwMDAwMDE3ZjY1NGQ4ZTE4`
+Snapshot ID: `MTY0NjgyOTMzMSwwMDAwMDAxMTAwMDAwMTdmNmVhZDY0MDYwMDAwMDE3ZjY1NGQ4ZTE4`

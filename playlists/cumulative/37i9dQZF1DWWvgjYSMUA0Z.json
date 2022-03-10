@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "A Time To Pause",
+        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
+      },
+      "artists": [
+        {
+          "name": "Sierra Rubio",
+          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214869,
+      "name": "A Time To Pause",
+      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
+    },
+    {
+      "album": {
         "name": "Agape",
         "url": "https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV"
       },
@@ -185,6 +203,24 @@
       "duration_ms": 166200,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh"
+    },
+    {
+      "album": {
+        "name": "Cestrum Nocturnum",
+        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195171,
+      "name": "Cestrum Nocturnum",
+      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
     },
     {
       "album": {
@@ -566,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Macromedas",
+        "url": "https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl"
+      },
+      "artists": [
+        {
+          "name": "Zoniacs",
+          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153993,
+      "name": "Macromedas",
+      "url": "https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu"
+    },
+    {
+      "album": {
         "name": "Me Segure",
         "url": "https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl"
       },
@@ -671,6 +725,24 @@
       "duration_ms": 216848,
       "name": "Organic Peace",
       "url": "https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu"
+    },
+    {
+      "album": {
+        "name": "Our Secret",
+        "url": "https://open.spotify.com/album/6ztVq3Ij6UV0CRp2JPvrb8"
+      },
+      "artists": [
+        {
+          "name": "Alannah Hammer",
+          "url": "https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Our Secret",
+      "url": "https://open.spotify.com/track/6Z4NvvryL9Af5gloYsvNMx"
     },
     {
       "album": {
@@ -952,6 +1024,24 @@
     },
     {
       "album": {
+        "name": "Aureole",
+        "url": "https://open.spotify.com/album/00qD0iqQkCuQFXN1cu5Mwx"
+      },
+      "artists": [
+        {
+          "name": "Sheila Dawn",
+          "url": "https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/59xd0X9j4l5COqxkGuZiJp"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/1adS1XhqBudKquCDqma83g"
       },
@@ -1003,6 +1093,24 @@
       "duration_ms": 302386,
       "name": "Root Chakra - Evolution - regular",
       "url": "https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B"
+    },
+    {
+      "album": {
+        "name": "Beyond My Senses",
+        "url": "https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2"
+      },
+      "artists": [
+        {
+          "name": "Golga Nesh",
+          "url": "https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192899,
+      "name": "Sacred Spirit",
+      "url": "https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO"
     },
     {
       "album": {
@@ -1305,7 +1413,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 195200,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/6Npq5SfkDU4egsF19bzfEc"
@@ -1471,6 +1579,24 @@
       "duration_ms": 378591,
       "name": "Voice Healing",
       "url": "https://open.spotify.com/track/0kaXyVNzFEfBqkXW5dOC6m"
+    },
+    {
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi"
+      },
+      "artists": [
+        {
+          "name": "Milo Leclercq",
+          "url": "https://open.spotify.com/artist/2CACfYzbEfvbpMPHapIrrL"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168053,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2"
     },
     {
       "album": {

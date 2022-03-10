@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Yoss Bones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,109 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,344 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 44 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 |
 | 45 | [Mi Palabra](https://open.spotify.com/track/1IdekOdej4Vw06T9CHT4qF) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Mi Palabra](https://open.spotify.com/album/0D04x5FrJ52Zc0fuqknEcW) | 3:10 |
 | 46 | [Don Quijote](https://open.spotify.com/track/76IsXl3qjqwdi0i5T7JlYj) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Don Quijote](https://open.spotify.com/album/1kaqwJoaGilRwKnrJ5wjv6) | 2:42 |
-| 47 | [A Mover el Cuello](https://open.spotify.com/track/7tADtBNDO52AYYTjclVN6o) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [A Mover el Cuello](https://open.spotify.com/album/6tdQn4T7ptDLWzbz5dNplg) | 3:27 |
+| 47 | [A Mover el Cuello](https://open.spotify.com/track/7tADtBNDO52AYYTjclVN6o) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb) | [A Mover el Cuello](https://open.spotify.com/album/6tdQn4T7ptDLWzbz5dNplg) | 3:27 |
 | 48 | [Conmigo No](https://open.spotify.com/track/3FPP7nkUq0Q0wbsVzv9IeA) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Conmigo No](https://open.spotify.com/album/5S0kbNFGP70HdyQEA7fO0G) | 3:45 |
 | 49 | [Sonrisa Grande, Ojos Tristes](https://open.spotify.com/track/0lBgg4RBEbDroO3SxeG5G9) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Punto de Quiebre](https://open.spotify.com/album/1GxhmPcuyNST8j5JEataUT) | 4:23 |
 | 50 | [Ahí Nací](https://open.spotify.com/track/721PP2J5zjvLgZB2dd2jEr) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ahí Nací](https://open.spotify.com/album/7d9bjauhvnNz9YKj27opID) | 4:45 |

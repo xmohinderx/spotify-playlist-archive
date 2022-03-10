@@ -2,7 +2,7 @@
 
 ### [Rock This](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
 
-> The newest from Avril Lavigne along with the top Rock songs you need to know.
+> The newest from Sueco along with the top Rock songs you need to know.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

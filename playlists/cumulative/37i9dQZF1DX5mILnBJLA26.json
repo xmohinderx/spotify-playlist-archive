@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 308610,
       "name": "Amanxeba",
       "url": "https://open.spotify.com/track/2fpXH4cVDnwGwvN3dGoN2D"
@@ -351,6 +351,36 @@
       "duration_ms": 227100,
       "name": "Ameno Amapiano Remix (You Wanna Bamba)",
       "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
+    },
+    {
+      "album": {
+        "name": "Umshiso, Vol. 2",
+        "url": "https://open.spotify.com/album/0ArrEIaD6zfIzRYHklaqNo"
+      },
+      "artists": [
+        {
+          "name": "Kwiish SA",
+          "url": "https://open.spotify.com/artist/2J1TbsWFTYT0LHNSX897xS"
+        },
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "MalumNator",
+          "url": "https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK"
+        },
+        {
+          "name": "Sihle",
+          "url": "https://open.spotify.com/artist/0w4CrvaJvgevZhtyBHEcnm"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427049,
+      "name": "Anizthembi",
+      "url": "https://open.spotify.com/track/7sSRQwCvb9WNpSFgXMAE5r"
     },
     {
       "album": {
@@ -821,7 +851,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 382334,
       "name": "Break",
       "url": "https://open.spotify.com/track/1rNhpvqIGtOWyXo1Bdsnja"
@@ -843,7 +873,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
@@ -1289,6 +1319,44 @@
       "duration_ms": 437237,
       "name": "Eloyi (feat. Mashudu, DJ Jaivane & Sinny Man'Que)",
       "url": "https://open.spotify.com/track/3uW90CWLd8llVufVC453cT"
+    },
+    {
+      "album": {
+        "name": "Undisputed, Vol. 3",
+        "url": "https://open.spotify.com/album/1mypPBQuDRbQoJcciVwTOU"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/3pG8AfzlYs5OOTt3o9tYdH"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "Bob Mabena",
+          "url": "https://open.spotify.com/artist/64AibK7iJaFyzaWdx2t09W"
+        },
+        {
+          "name": "Lolo SA",
+          "url": "https://open.spotify.com/artist/3LgBE9gST2UxOK7r88dtUg"
+        },
+        {
+          "name": "Siya Mzizi",
+          "url": "https://open.spotify.com/artist/4LiJl2ogEi8kpXuQdy194r"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409041,
+      "name": "Emaplankeni",
+      "url": "https://open.spotify.com/track/5SHw32P6406GUdo9FiQFYU"
     },
     {
       "album": {
@@ -2180,6 +2248,32 @@
     },
     {
       "album": {
+        "name": "Undisputed, Vol. 3",
+        "url": "https://open.spotify.com/album/1mypPBQuDRbQoJcciVwTOU"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Zuma",
+          "url": "https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/3pG8AfzlYs5OOTt3o9tYdH"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340393,
+      "name": "Kwaze Kwamndani",
+      "url": "https://open.spotify.com/track/7e1ErwDh8nT6IbBGMhiDhU"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -2522,6 +2616,28 @@
     },
     {
       "album": {
+        "name": "Need To Be Home",
+        "url": "https://open.spotify.com/album/5671iktLcWY6Bf9SaDHcXU"
+      },
+      "artists": [
+        {
+          "name": "Kaymolic",
+          "url": "https://open.spotify.com/artist/1U940h5IIGiuvtTBbNUvOe"
+        },
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/3zMybYCWvPqnbVw7rEQoKa"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447346,
+      "name": "Need To Be Home",
+      "url": "https://open.spotify.com/track/1bSu8EqVCPMhJ0JsqSmYmI"
+    },
+    {
+      "album": {
         "name": "Double Release",
         "url": "https://open.spotify.com/album/6GKI5S8CdP05g2zOYs4nBN"
       },
@@ -2637,7 +2753,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 425090,
       "name": "Ngthand' Wena",
       "url": "https://open.spotify.com/track/6hIFM7jq3f0gxzX8OiJTQq"
@@ -3392,6 +3508,28 @@
     },
     {
       "album": {
+        "name": "Umshiso, Vol. 2",
+        "url": "https://open.spotify.com/album/0ArrEIaD6zfIzRYHklaqNo"
+      },
+      "artists": [
+        {
+          "name": "Kwiish SA",
+          "url": "https://open.spotify.com/artist/2J1TbsWFTYT0LHNSX897xS"
+        },
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446667,
+      "name": "Suspect No 55",
+      "url": "https://open.spotify.com/track/6DG7iioLEGLwidORuXbmJA"
+    },
+    {
+      "album": {
         "name": "Terminator 2 (The Rise Of The Machine)",
         "url": "https://open.spotify.com/album/3s25Ensp5VHmTWFXXNM04W"
       },
@@ -3621,7 +3759,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 522828,
       "name": "The One",
       "url": "https://open.spotify.com/track/49qBOJLpSQSvugez622FB0"
@@ -3791,6 +3929,28 @@
       "duration_ms": 236100,
       "name": "Tshivhidzwela Amapiano",
       "url": "https://open.spotify.com/track/4bTDY7z3hULGxQX5iqaOwD"
+    },
+    {
+      "album": {
+        "name": "Undisputed, Vol. 3",
+        "url": "https://open.spotify.com/album/1mypPBQuDRbQoJcciVwTOU"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372542,
+      "name": "Tsodiyo",
+      "url": "https://open.spotify.com/track/1bErIvtq4N2DtXUbStFTaC"
     },
     {
       "album": {
@@ -4141,7 +4301,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 492743,
       "name": "War (iBozza's Touch)",
       "url": "https://open.spotify.com/track/1FcMfwPG3pR4fra6Yt64G4"

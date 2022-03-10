@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4BBUsdtyMbVF0DcE2pYRrs"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259139,
+      "name": "Asi Como Soy",
+      "url": "https://open.spotify.com/track/6hXBcnrby339MIG6sYg532"
+    },
+    {
+      "album": {
         "name": "Vestida De Adoracion",
         "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 297580,
       "name": "Autor",
       "url": "https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY"
@@ -377,7 +395,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 179280,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/0y3ktyFql7gzD7Tym48pNK"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 302416,
       "name": "Creere",
       "url": "https://open.spotify.com/track/4WczcRQ9nfFmIn8E7CsFFD"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 302471,
       "name": "Creere",
       "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
@@ -626,6 +644,28 @@
     },
     {
       "album": {
+        "name": "Musica Cristiana & Reflexiones",
+        "url": "https://open.spotify.com/album/16zoqlLfsHByh3eRb0AXvP"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279536,
+      "name": "El Numero De Jesus (feat. Christine D'clario)",
+      "url": "https://open.spotify.com/track/4qINg0fAGin9OaQMJGasTS"
+    },
+    {
+      "album": {
         "name": "A Partir De Hoy",
         "url": "https://open.spotify.com/album/4PxRFhGhm1X0fiqRCBFgtm"
       },
@@ -637,7 +677,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 213081,
       "name": "En El Mar De Tu Gracia",
       "url": "https://open.spotify.com/track/5CyjKpEdvD4tcasCfGNWln"
@@ -655,7 +695,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 409217,
       "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
       "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
@@ -785,7 +825,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 210364,
       "name": "Grito de Jubilo",
       "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
@@ -879,7 +919,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 175942,
       "name": "La Bater\u00eda",
       "url": "https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs"
@@ -955,7 +995,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 202000,
       "name": "Latido",
       "url": "https://open.spotify.com/track/0LbNO9UA0I8EDHLwIZ3dXa"
@@ -1021,7 +1061,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 382453,
       "name": "Los Hijos Y Las Hijas De Dios - Live",
       "url": "https://open.spotify.com/track/5Cx8ciE1irYf1ur2DmGHC7"
@@ -1057,7 +1097,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 359999,
       "name": "Mas Profundo",
       "url": "https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU"
@@ -1075,7 +1115,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 236600,
       "name": "Me Basta",
       "url": "https://open.spotify.com/track/0BRxio3HO3AQ7Pm3Zx8xUn"
@@ -1133,6 +1173,28 @@
       "duration_ms": 411360,
       "name": "Mi Roca - Live",
       "url": "https://open.spotify.com/track/5u7yVQIBrav9jqv6aFvmEZ"
+    },
+    {
+      "album": {
+        "name": "\u00c9l Es Cristo (Live)",
+        "url": "https://open.spotify.com/album/40P49UCDj7lxcUCXILCuYK"
+      },
+      "artists": [
+        {
+          "name": "North Point En Vivo",
+          "url": "https://open.spotify.com/artist/5sZzaeeDYDV1qNLlJZ6ICd"
+        },
+        {
+          "name": "Ronnie Pi\u00f1eiro",
+          "url": "https://open.spotify.com/artist/0aGoOuMYVLHrlPejwxvcmi"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346040,
+      "name": "Mi Vida - Live",
+      "url": "https://open.spotify.com/track/7qK1vnYEemCXgkNbFOjuVU"
     },
     {
       "album": {
@@ -1216,6 +1278,28 @@
     },
     {
       "album": {
+        "name": "No Lo Has Visto A\u00fan",
+        "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245163,
+      "name": "No Lo Has Visto A\u00fan",
+      "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
+    },
+    {
+      "album": {
         "name": "No M\u00e1s",
         "url": "https://open.spotify.com/album/1Yu6bKHy545AZSh1rb4sWz"
       },
@@ -1231,6 +1315,24 @@
       "duration_ms": 206865,
       "name": "No Mas",
       "url": "https://open.spotify.com/track/47Pw8T2m3QUVog4YE3yxLm"
+    },
+    {
+      "album": {
+        "name": "No Me Rindo",
+        "url": "https://open.spotify.com/album/7uaQNRfTO60L6V8DD0Q77u"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184984,
+      "name": "No Me Rindo",
+      "url": "https://open.spotify.com/track/1LwXAt1bn2VKEkw3u8uoWh"
     },
     {
       "album": {
@@ -1419,7 +1521,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 367773,
       "name": "Que Baje la Nube",
       "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
@@ -1499,7 +1601,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 249519,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx"
@@ -1709,7 +1811,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 228970,
       "name": "Tu Amor Lo Vale Todo",
       "url": "https://open.spotify.com/track/5Fchjw21HPd4hI4GnUtEp4"
@@ -1745,7 +1847,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 197685,
       "name": "Tu Lluvia Esperar\u00e9",
       "url": "https://open.spotify.com/track/1sBurd3VW9rUjQt5Azrzke"
@@ -1879,7 +1981,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 255537,
       "name": "Viene De Ti",
       "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
@@ -1915,7 +2017,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 361130,
       "name": "Vivo Est\u00e1s",
       "url": "https://open.spotify.com/track/1fmDLQyhd0s34rf61l5mp4"
@@ -1951,7 +2053,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 316521,
       "name": "Yo Creo En Ti",
       "url": "https://open.spotify.com/track/6A6RWVRsBavxWjgB5qQYEg"

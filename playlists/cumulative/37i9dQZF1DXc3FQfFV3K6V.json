@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA"
+      },
+      "artists": [
+        {
+          "name": "Los Types",
+          "url": "https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK"
+    },
+    {
+      "album": {
         "name": "American Tune",
         "url": "https://open.spotify.com/album/2g2rX08oAA6EpTn6HFVGox"
       },
@@ -1207,6 +1225,24 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "album": {
+        "name": "Kiss From A Rose",
+        "url": "https://open.spotify.com/album/6A8hlKALPC8Pg1tyRLsx7z"
+      },
+      "artists": [
+        {
+          "name": "Zoe De La Sera",
+          "url": "https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240394,
+      "name": "Kiss From A Rose",
+      "url": "https://open.spotify.com/track/6UedQdOB6BIX96B4V1oBP4"
     },
     {
       "album": {

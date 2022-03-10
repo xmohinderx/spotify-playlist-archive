@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 210873,
       "name": "Cali Sober (with Pepper)",
       "url": "https://open.spotify.com/track/3hqLfzMGBk7XfbLv19g2lF"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 194188,
       "name": "Catching Lightning",
       "url": "https://open.spotify.com/track/0c0OK6ACguL8yMJzwnVnL2"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 133080,
       "name": "Collie Man",
       "url": "https://open.spotify.com/track/3Zjdqz7eOox8XU0zTCPL4P"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 189613,
       "name": "Count Me In",
       "url": "https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 176759,
       "name": "Dancing On The Radio",
       "url": "https://open.spotify.com/track/0B5iOjvAs57ZQSJWoJ3zZ2"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 185013,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 203904,
       "name": "Headline",
       "url": "https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 210680,
       "name": "In This Together",
       "url": "https://open.spotify.com/track/3uXq0ZQLD9roiPZsuRmAuN"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 215146,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/4L0nc0tHfDjr3HlAm1EFeu"
@@ -1221,6 +1221,28 @@
       "duration_ms": 210346,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf"
+    },
+    {
+      "album": {
+        "name": "Lemonade (feat. Mike Posner)",
+        "url": "https://open.spotify.com/album/6a8Q4EzInWMxhHrpWxbuAH"
+      },
+      "artists": [
+        {
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172907,
+      "name": "Lemonade (feat. Mike Posner)",
+      "url": "https://open.spotify.com/track/6MjyB01eNCjBAXbXWDSvju"
     },
     {
       "album": {
@@ -1337,7 +1359,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 224807,
       "name": "Message to the World",
       "url": "https://open.spotify.com/track/3OUurzjheL7pC4TAYZdJ3d"
@@ -1431,7 +1453,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 256397,
       "name": "My Way Out",
       "url": "https://open.spotify.com/track/7lqFfTDNavCqNQ1xEEVQlB"
@@ -1805,7 +1827,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 181370,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1HBztgfs0Wtltk4z8hUiSf"
@@ -1939,7 +1961,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Snowman (with Dirty Heads)",
       "url": "https://open.spotify.com/track/1BzKS4LnJQdRotvaaP7gRB"
@@ -2325,7 +2347,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 202172,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
@@ -2467,7 +2489,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re"
@@ -2543,7 +2565,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 239853,
       "name": "Where's The Love",
       "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"

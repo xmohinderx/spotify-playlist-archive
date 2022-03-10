@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128207,
+  "num_followers": 128231,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI5MSxjZjRlMmNiNjI1M2MwZmFiOGY2MjJhNjIxMjJiNDFjMWY4M2ZlMjk3",
+  "snapshot_id": "MzI5Myw0OTZkNGEyMWQyZTdlYWJhNWMyYzljY2ZiMDIwNGY4MDUwY2ZjMDdl",
   "tracks": [
+    {
+      "added_at": "2022-03-09 17:22:18",
+      "album": {
+        "name": "do it",
+        "url": "https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9"
+      },
+      "artists": [
+        {
+          "name": "Enjac",
+          "url": "https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "do it",
+      "url": "https://open.spotify.com/track/3CQBzi1hvykznrFbZOGqnO"
+    },
     {
       "added_at": "2022-03-08 17:31:26",
       "album": {
@@ -1123,26 +1139,6 @@
       "duration_ms": 202909,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        },
-        {
-          "name": "Liam Thomas",
-          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
-        }
-      ],
-      "duration_ms": 189850,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

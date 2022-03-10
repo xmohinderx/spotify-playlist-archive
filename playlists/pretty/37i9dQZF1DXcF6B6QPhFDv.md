@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 ### [Rock This](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> The newest from Avril Lavigne along with the top Rock songs you need to know.
+> The newest from Sueco along with the top Rock songs you need to know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,611,005 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,611,252 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [Jump](https://open.spotify.com/track/3wGVgIe8CvDxGEJEdrAKfh) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:49 |
 | 50 | [Survivor](https://open.spotify.com/track/4xdUk9rp5wOd3ZLwwNfjwd) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Survivor](https://open.spotify.com/album/7zsfcfnaarayjDTB4KBRDV) | 4:02 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDY4NzAwMDAwMTdmNjdlNWZkMDQwMDAwMDE3ZjY3MmI2NTli`
+Snapshot ID: `MTY0Njg2MDU5NywwMDAwMDY4ODAwMDAwMTdmNzA4YTdhNzMwMDAwMDE3ZjcwODljNGQ5`

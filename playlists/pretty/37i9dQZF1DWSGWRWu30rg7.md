@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Mezzaluna\. Artwork: Keljo
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,126 likes - 92 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,124 likes - 92 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

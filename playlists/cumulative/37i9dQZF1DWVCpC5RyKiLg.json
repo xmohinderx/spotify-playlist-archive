@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12 Horas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240048,
+      "name": "12 Horas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
+    },
+    {
+      "album": {
         "name": "Ao Cubo, Ao Vivo, Em Cores",
         "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 165360,
       "name": "Anti-Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/7JdZZfozlODQ08ATf8xIZ6"
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 313854,
       "name": "At\u00e9 Que Durou - Ao Vivo",
       "url": "https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm"
@@ -225,7 +243,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 161678,
       "name": "Beijo De Varanda - Ao Vivo",
       "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
@@ -250,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+        "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191161,
+      "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+      "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
+    },
+    {
+      "album": {
         "name": "O Embaixador in Cariri (Ao Vivo)",
         "url": "https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU"
       },
@@ -261,7 +301,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 215766,
       "name": "Carreira Solo - Ao Vivo",
       "url": "https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN"
@@ -551,7 +591,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 221693,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/4kUpVCOVfhipS0KRuoBYvs"
@@ -591,7 +631,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 246293,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/2VtqQYnbE16obMwI9iXEwp"
@@ -635,7 +675,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 161502,
       "name": "Ent\u00e3o Toma - Ao Vivo",
       "url": "https://open.spotify.com/track/600Byp0tUwr2aDLm361rG1"
@@ -671,7 +711,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 155588,
       "name": "Esses V\u00edcios",
       "url": "https://open.spotify.com/track/2InUVOBY515umeuwdQtsQ4"
@@ -711,7 +751,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 211173,
       "name": "Eu Era",
       "url": "https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE"
@@ -729,7 +769,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 173666,
       "name": "Eu Ligo Pra Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/6lcUzde7peeHxraZ3Maf5k"
@@ -747,7 +787,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 233042,
       "name": "Eu Te Amo - Ao Vivo",
       "url": "https://open.spotify.com/track/1R38t8OwFftz2EzCwMogIJ"
@@ -971,7 +1011,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 189266,
       "name": "Juras de Amor",
       "url": "https://open.spotify.com/track/3WTWx7yJAqohrSs7PLHGhq"
@@ -1119,7 +1159,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 193680,
       "name": "Maus Bocados",
       "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
@@ -1155,7 +1195,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 243097,
       "name": "Melhor Eu Ir - Ao Vivo",
       "url": "https://open.spotify.com/track/2pbmSONpVrMl9OEetkL974"
@@ -1173,7 +1213,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 193669,
       "name": "Mentira - Ao Vivo",
       "url": "https://open.spotify.com/track/146Vb458Y5RbqEa0fYFPzm"
@@ -1281,7 +1321,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 182340,
       "name": "Notifica\u00e7\u00e3o Preferida - Ao Vivo",
       "url": "https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ"
@@ -1317,7 +1357,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 180687,
       "name": "Onze e Pouquinho",
       "url": "https://open.spotify.com/track/65i9Mc7h1CG7ssI1OhMPcT"
@@ -1339,7 +1379,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 174178,
       "name": "Para, Pensa e Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
@@ -1451,7 +1491,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 205430,
       "name": "Ponto Fraco - Ao Vivo",
       "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
@@ -1469,7 +1509,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 310717,
       "name": "Pot-Pourri: Depois do Prazer / Quando a Gente Ama - Ao Vivo",
       "url": "https://open.spotify.com/track/5tpvDlSeYtwsGAyGsZ35wC"
@@ -1505,7 +1545,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 233386,
       "name": "Pot-Pourri: Tempo de Aprender / T\u00f4 Te Filmando (Sorria) - Ao Vivo",
       "url": "https://open.spotify.com/track/7dY8hOEsXfkE6ALSU5VPgO"
@@ -1805,7 +1845,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 153934,
       "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
       "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"
@@ -1845,7 +1885,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 125674,
       "name": "S\u00f3 pro Meu Prazer - Ao Vivo",
       "url": "https://open.spotify.com/track/5L31XAxIqX2hiNyr8hYNNN"
@@ -1863,7 +1903,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 156838,
       "name": "Tamb\u00e9m Sei Fazer Falta - Ao Vivo",
       "url": "https://open.spotify.com/track/6hrV6KYL9zM8vFAbOSxFHY"
@@ -1925,7 +1965,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 183073,
       "name": "Text\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3yOuQI8yjJaApfdo4hdkVW"
@@ -2067,7 +2107,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 220081,
       "name": "Vai por Mim",
       "url": "https://open.spotify.com/track/5DgTJpZB8OEqjAmfZZJQsE"
@@ -2085,7 +2125,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/08Sd5vVcIH3uKeAiaJdoYj"
@@ -2183,7 +2223,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 220853,
       "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
       "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"

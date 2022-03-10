@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 385074,
       "name": "Admit It (U Don't Want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 296554,
       "name": "Billions",
       "url": "https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 167840,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/2bGOko2yETQVFk1YsGuvJ9"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 211155,
       "name": "Breath of Fresh Air",
       "url": "https://open.spotify.com/track/0ikr85ckI4rmk5iEnLjweB"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 161133,
       "name": "cbd",
       "url": "https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 179552,
       "name": "Comfortable (feat. QUIX)",
       "url": "https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 235630,
       "name": "Could I Break Your Heart",
       "url": "https://open.spotify.com/track/1W0WTqgKKTmmEzcNQWNG6y"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 189628,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 213600,
       "name": "Distant Lands",
       "url": "https://open.spotify.com/track/0YeaRKy0gwdUI1d68RvefB"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 190515,
       "name": "Don't Break His Heart",
       "url": "https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 186456,
       "name": "eee",
       "url": "https://open.spotify.com/track/0acffaX5iSeZRT6QsorKPA"
@@ -1106,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/03idXsvqv5OVZa8srntnH9"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/5AH62IT62TEek7uigczBeR"
+    },
+    {
+      "album": {
         "name": "Handyman",
         "url": "https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h"
       },
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 188571,
       "name": "HEAVEN'S GATES (feat. Izzy Camina)",
       "url": "https://open.spotify.com/track/25lRu5PG4eZnDz9earNetB"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 192520,
       "name": "High",
       "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 229091,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES"
@@ -1346,6 +1364,28 @@
     },
     {
       "album": {
+        "name": "I See You (with Marc E. Bassy)",
+        "url": "https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173296,
+      "name": "I See You (with Marc E. Bassy)",
+      "url": "https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq"
+    },
+    {
+      "album": {
         "name": "I'm a Mess",
         "url": "https://open.spotify.com/album/2mqY2v3uVMRYNFTERP3812"
       },
@@ -1361,7 +1401,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 136744,
       "name": "I'm a Mess",
       "url": "https://open.spotify.com/track/1cfoP2ZOuwM5mcFUsZ1UH9"
@@ -1729,7 +1769,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 179000,
       "name": "Move Up",
       "url": "https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn"
@@ -1827,7 +1867,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 174344,
       "name": "Nothing Good Comes Easy",
       "url": "https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw"
@@ -1845,7 +1885,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 233960,
       "name": "NW3",
       "url": "https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6"
@@ -2063,7 +2103,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 260487,
       "name": "Reach",
       "url": "https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y"
@@ -2212,6 +2252,28 @@
     },
     {
       "album": {
+        "name": "Riot (Chahine Remix)",
+        "url": "https://open.spotify.com/album/0QQaemw9727t0MirfAj56x"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        },
+        {
+          "name": "Chahine",
+          "url": "https://open.spotify.com/artist/0ffZOUG03CN6pw4ry7CJY9"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188535,
+      "name": "Riot - Chahine Remix",
+      "url": "https://open.spotify.com/track/1wDB8a4bZlnkbUmhJm0OE3"
+    },
+    {
+      "album": {
         "name": "running back v2",
         "url": "https://open.spotify.com/album/3UiLBW5hlvxEDAolwoWJUq"
       },
@@ -2259,7 +2321,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 195720,
       "name": "Salt and Vinegar",
       "url": "https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1"
@@ -2281,7 +2343,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
@@ -2303,7 +2365,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 220740,
       "name": "searching",
       "url": "https://open.spotify.com/track/6LNIPD5VhXOj8xO1uOryri"
@@ -2569,7 +2631,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 359126,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
@@ -2605,10 +2667,28 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 191234,
       "name": "The Sea that Swallowed Me Whole",
       "url": "https://open.spotify.com/track/3JDvRAfXZ6aTc4vPehFBQg"
+    },
+    {
+      "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/5mL2ZU969ZAdz9MmyihsvV"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174961,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1yAThAiJFPoKepwK6jiCHd"
     },
     {
       "album": {
@@ -2711,7 +2791,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 169222,
       "name": "Together We Go Down In The Dark",
       "url": "https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm"
@@ -2729,7 +2809,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 163338,
       "name": "Told U So",
       "url": "https://open.spotify.com/track/2TtyGbcqGEXUYQdwQfLtyL"
@@ -2823,7 +2903,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 161632,
       "name": "VALENTINE",
       "url": "https://open.spotify.com/track/0OYi9qARPLv68hWIvIEifz"
@@ -2845,7 +2925,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 180423,
       "name": "Vanilla Sky (with Wrabel)",
       "url": "https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp"
@@ -2881,7 +2961,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 200282,
       "name": "When You Lose Someone",
       "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"

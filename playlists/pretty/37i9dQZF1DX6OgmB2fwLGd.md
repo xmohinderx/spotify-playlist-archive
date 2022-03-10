@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: BabyTron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,398 likes - 91 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,972 likes - 91 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Vibe to female\-identifying only tunes, plus some of <a href="spotify:artist:0avMDS4HyoCEP6RqZJWpY2">Ethel Cain's</a> inspirations\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,757 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,821 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 |
 | 50 | [Aorta](https://open.spotify.com/track/0UxLfXmjXU5qoRFL25n5lA) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Retribution](https://open.spotify.com/album/3FQr8w09aMhMfW6dDnD3HG) | 3:37 |
 
-Snapshot ID: `MTY0Njc4NjcyNCwwMDAwMDAwMDU0MmY1ODRhMmE0MDYzODAxZDk3YzA3YmE4Yzc3ZjFi`
+Snapshot ID: `MTY0Njg3MzI0MywwMDAwMDAwMDU0MmY1ODRhMmE0MDYzODAxZDk3YzA3YmE4Yzc3ZjFi`

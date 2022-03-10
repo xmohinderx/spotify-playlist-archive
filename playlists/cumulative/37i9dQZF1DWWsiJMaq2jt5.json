@@ -2314,6 +2314,24 @@
     },
     {
       "album": {
+        "name": "Oczarowanie",
+        "url": "https://open.spotify.com/album/42dsxqnw2OEJwRnz3jKaw9"
+      },
+      "artists": [
+        {
+          "name": "Olga Bo\u0144czyk",
+          "url": "https://open.spotify.com/artist/5WS3maUUPaPuXJlu467MFO"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213552,
+      "name": "Oczarowanie",
+      "url": "https://open.spotify.com/track/6tr8migtnoUibyAHs6r0tY"
+    },
+    {
+      "album": {
         "name": "Regnum",
         "url": "https://open.spotify.com/album/5B0eNSX66zm2fH0IhYK1uB"
       },

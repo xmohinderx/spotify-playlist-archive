@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 301995,
       "name": "District 8",
       "url": "https://open.spotify.com/track/3oXiddNGiWhpmlQCWkJoJ9"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 155364,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/6ShImJT1uMlKJbdJh6MnbH"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 220223,
       "name": "GOOD PUSS",
       "url": "https://open.spotify.com/track/4nCdyt8Blll5Mt3ClGahn6"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 198305,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/24nL5EXPrdodyCdxXoRRBZ"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 183000,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/2vjH6qrmEcwrvEQ5WGipUM"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 193920,
       "name": "The Killer Is Escaping",
       "url": "https://open.spotify.com/track/1nkTfBMSwfNouFGp7mpkfl"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 174117,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/5GRf6zSrCi8gErdN6CyRJT"
@@ -1282,6 +1282,24 @@
     },
     {
       "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/6PXqQOVeSTmA90oXv1iw32"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Who's That Chick? (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/75d6e3GrR6aTeMLMF7fxgK"
+    },
+    {
+      "album": {
         "name": "\u042f \u0431\u0443\u0434\u0443 \u0435\u0431\u0430\u0442\u044c",
         "url": "https://open.spotify.com/album/7KmkBV5L8rYExv79lF7Pxp"
       },
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 141217,
       "name": "\u042f \u0431\u0443\u0434\u0443 \u0435\u0431\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3lFrFQcZWPLa8WEG7xoc4b"

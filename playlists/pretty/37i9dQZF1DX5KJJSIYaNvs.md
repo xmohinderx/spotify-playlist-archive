@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover:  Nikhita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,213 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,387 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bura Na Mano Yaara](https://open.spotify.com/track/5JScryXKuz9DwQymFKFPcY) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Bura Na Mano Yaara](https://open.spotify.com/album/0CYZF1aZl2806nCE4pAiGx) | 2:38 |
+| 1 | [Bura Na Mano Yaara](https://open.spotify.com/track/5JScryXKuz9DwQymFKFPcY) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Shloke Lal](https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um) | [Bura Na Mano Yaara](https://open.spotify.com/album/0CYZF1aZl2806nCE4pAiGx) | 2:38 |
 | 2 | [Dholida](https://open.spotify.com/track/3e1JStKIIfidujpSzjqv3F) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Jahnvi Shrimankar](https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Dipti](https://open.spotify.com/artist/2qs6QhyW9EGLaD9d3XKGeR), [Pragati](https://open.spotify.com/artist/28158US0Sov816JcVhUGVz), [Rucha](https://open.spotify.com/artist/0ZOgFq0MwvVRl9V70yhz3f), [Arohi](https://open.spotify.com/artist/04yw6jIldqUYBFzYkYILat), [Archana](https://open.spotify.com/artist/6ZfDJaY1IBhPVkUIjErbnX) | [Dholida \- Gangubai Kathiawadi](https://open.spotify.com/album/6oH4j0fIkr2BWEt9nirAdy) | 2:59 |
 | 3 | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 |
 | 4 | [Tumse Pyaar Karke](https://open.spotify.com/track/4Iyx3XvZwM0hYsLmeyjva3) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Tumse Pyaar Karke](https://open.spotify.com/album/1cUI7KGXYLNjTBvzjdDr59) | 3:54 |

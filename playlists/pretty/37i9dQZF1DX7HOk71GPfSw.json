@@ -1,12 +1,12 @@
 {
   "description": "\"hyperpop is yoinky sploinky\" #hyperpopdesc Cover: Fraxiom",
-  "num_followers": 302262,
+  "num_followers": 302579,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjU0MTc1MCwwMDAwMDEzOTAwMDAwMTdmNWQ4OTNmMjEwMDAwMDE3ZjUxNWY0NGJm",
+  "snapshot_id": "MTY0Njg2MDk2NCwwMDAwMDEzYTAwMDAwMTdmNzA5MDEwZmMwMDAwMDE3ZjUxNWY0NGJm",
   "tracks": [
     {
       "added_at": "2022-03-04 05:05:00",
@@ -207,6 +207,22 @@
       "duration_ms": 222565,
       "name": "rock music",
       "url": "https://open.spotify.com/track/0QU3VTMzBkx6Jyv9cgUaVh"
+    },
+    {
+      "added_at": "2022-03-09 21:22:44",
+      "album": {
+        "name": "WRATH",
+        "url": "https://open.spotify.com/album/7MPw42EmxMIWBoj6BHd3eX"
+      },
+      "artists": [
+        {
+          "name": "Button Maker",
+          "url": "https://open.spotify.com/artist/4MAagcKJAflUPllm4L7SOQ"
+        }
+      ],
+      "duration_ms": 140669,
+      "name": "WRATH",
+      "url": "https://open.spotify.com/track/7jWtCaPR3clpHhpAkq2iau"
     },
     {
       "added_at": "2022-02-25 05:09:00",

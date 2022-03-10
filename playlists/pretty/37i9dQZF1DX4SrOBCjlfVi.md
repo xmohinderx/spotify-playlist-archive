@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring King Von, A Boogie, and more\. Cover: DaBaby & NBA Youngboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,490 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,758 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [Beat The Streets](https://open.spotify.com/track/3z8OCUCuwJop3DB4tIMsRX) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Beat The Streets](https://open.spotify.com/album/5b8LqxodAqVzwPvozld6ty) | 2:34 |
 | 12 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 |
 | 13 | [Lately](https://open.spotify.com/track/77OMY86vNpNk304RSucxNr) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Lately](https://open.spotify.com/album/5YJFDKrHWunjpNJYtAVC6N) | 2:30 |
-| 14 | [The Mob](https://open.spotify.com/track/6NuGhdLQfrYvG5wBnaBnb1) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [YNW Bortlen](https://open.spotify.com/artist/5jx69PEwHeFm5MDZ695RIV) | [The Mob](https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04) | 3:57 |
+| 14 | [The Mob](https://open.spotify.com/track/6NuGhdLQfrYvG5wBnaBnb1) | [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YNW Bortlen](https://open.spotify.com/artist/5jx69PEwHeFm5MDZ695RIV) | [The Mob](https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04) | 3:57 |
 | 15 | [Life of Sin](https://open.spotify.com/track/1xiUzPAksS3sKRHYRtPtP2) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Life of Sin](https://open.spotify.com/album/0aLvHpsvtzOJsgGz4r4bYl) | 2:49 |
 | 16 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 |
 | 17 | [I Ain't Gon Lie](https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [I Ain't Gon Lie](https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ) | 2:00 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 |
 | 28 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT) | 3:52 |
 | 29 | [Envision](https://open.spotify.com/track/560TByt7ZU9o6biO9egDle) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Envision](https://open.spotify.com/album/4Z8VUwRL87SCNagXTZmZMe) | 2:42 |
-| 30 | [Feelin Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 |
+| 30 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 |
 | 31 | [Situation](https://open.spotify.com/track/5yRFUb6uJF6VD4uxiBMWL2) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Situation](https://open.spotify.com/album/76CRN3sBlR9O0VtMXcYwIf) | 2:06 |
 | 32 | [Crocs & Wock'](https://open.spotify.com/track/2BSyX4weGuITcvl5r2lLCC) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:09 |
 | 33 | [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 |

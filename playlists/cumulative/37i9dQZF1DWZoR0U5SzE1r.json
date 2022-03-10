@@ -157,7 +157,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 587240,
       "name": "At Your Whisper - Live",
       "url": "https://open.spotify.com/track/3P0ffgyiJKBpWL03gYL8mt"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 703840,
       "name": "Bigger Than I Thought / King Of My Heart - Medley/Live",
       "url": "https://open.spotify.com/track/6r2AtVDNp50tViZjwAYUSx"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 250973,
       "name": "Bring It All to Jesus - Live",
       "url": "https://open.spotify.com/track/7ly18VvK1XldnZtDw1uWwb"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 331373,
       "name": "Captain",
       "url": "https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 433279,
       "name": "Covered - Live",
       "url": "https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 200453,
       "name": "Faithful Is Your Love",
       "url": "https://open.spotify.com/track/2mEnOOQWPHO2mnANs2goZD"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 408054,
       "name": "Fill Up The Sky - Live",
       "url": "https://open.spotify.com/track/1HZ8msvxpytLxf5PC1FZRc"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 305670,
       "name": "Great Redeemer",
       "url": "https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 285560,
       "name": "I'm Listening - Live",
       "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 516373,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 344986,
       "name": "Mover of Mountains (Live)",
       "url": "https://open.spotify.com/track/7tj72TNjfyaYeYyQ01yNhP"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 442893,
       "name": "Nobody Like You (Live)",
       "url": "https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 335613,
       "name": "Not One Thing (feat. Meredith Mauldin)",
       "url": "https://open.spotify.com/track/514QrzCj7ESCQbNozP9ueU"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 452388,
       "name": "Open Over Us (Live)",
       "url": "https://open.spotify.com/track/7v4qvJHhz314Fcq0sLmyvR"
@@ -1998,6 +1998,24 @@
     },
     {
       "album": {
+        "name": "Mover of Mountains",
+        "url": "https://open.spotify.com/album/2lpkPfilFnBtHHqwbVk92G"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452066,
+      "name": "Seek (Live)",
+      "url": "https://open.spotify.com/track/4rCKtQn3jpC9VdBgqkX8nO"
+    },
+    {
+      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 360000,
       "name": "Simple Gospel (Live)",
       "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 490133,
       "name": "Starts And Ends - Live",
       "url": "https://open.spotify.com/track/6pVL0PbjKbn56UHzXfNF37"
@@ -2093,6 +2111,28 @@
       "duration_ms": 256226,
       "name": "Still",
       "url": "https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R"
+    },
+    {
+      "album": {
+        "name": "Stir a Passion",
+        "url": "https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9"
+      },
+      "artists": [
+        {
+          "name": "Worship Central",
+          "url": "https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt"
+        },
+        {
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499760,
+      "name": "Stir a Passion - Live",
+      "url": "https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ"
     },
     {
       "album": {
@@ -2155,7 +2195,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 293071,
       "name": "The Cross Has The Final Word - Live",
       "url": "https://open.spotify.com/track/1rO2tmrMZq6Cid4eHGOxyK"
@@ -2267,7 +2307,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 309093,
       "name": "Tremble - Live",
       "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
@@ -2307,7 +2347,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 298104,
       "name": "Upon Him - Live",
       "url": "https://open.spotify.com/track/2utobW1ZSUCAWYprpSWArd"
@@ -2459,7 +2499,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-10",
       "duration_ms": 291306,
       "name": "Worthy of It All (Psalm 51)",
       "url": "https://open.spotify.com/track/2oEPMd2H2Icjj3mz3iiWk1"

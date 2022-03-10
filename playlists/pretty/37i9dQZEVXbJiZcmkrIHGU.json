@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2080662,
+  "num_followers": 2080944,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAwMDUzMDI0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAwMTM4NTgzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Weg von mir",
         "url": "https://open.spotify.com/album/2YZ136w4VENx6JTJ3cIoE6"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0h14I7cPYi1RZG6GmVpMso"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -61,43 +61,23 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Kopf aus",
-        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/78qLX2ToMCHZfYokHOC2GJ"
       },
       "artists": [
         {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 136120,
-      "name": "Kopf aus",
-      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+      "duration_ms": 195000,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/5Pp64isQvPVgptiOdS9Kcn"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Rapstars (feat. Jamule)",
-        "url": "https://open.spotify.com/album/6vVtUeMoS2jlEiXyGht3ed"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 150651,
-      "name": "Rapstars (feat. Jamule)",
-      "url": "https://open.spotify.com/track/6Q2cC3r8j2hasFAf1g00d3"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "WENN DU MICH VERMISST",
         "url": "https://open.spotify.com/album/6d4QrOkN7QZd4Aay3koF7a"
@@ -117,7 +97,59 @@
       "url": "https://open.spotify.com/track/7EtfwHVS8FcciOBU1VnT8G"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Rapstars (feat. Jamule)",
+        "url": "https://open.spotify.com/album/6vVtUeMoS2jlEiXyGht3ed"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 150651,
+      "name": "Rapstars (feat. Jamule)",
+      "url": "https://open.spotify.com/track/6Q2cC3r8j2hasFAf1g00d3"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Kopf aus",
+      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX"
@@ -137,43 +169,7 @@
       "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Wie viele Lieder muss ich noch schreiben?",
-        "url": "https://open.spotify.com/album/4JubIw2TXZDQGoOX5ddY23"
-      },
-      "artists": [
-        {
-          "name": "SDP",
-          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
-        },
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 193254,
-      "name": "Wie viele Lieder muss ich noch schreiben?",
-      "url": "https://open.spotify.com/track/3CQhud304mI5VmW6EjoTDg"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -201,23 +197,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Nur ein Song (I Need Some Sleep)",
-        "url": "https://open.spotify.com/album/0mIMkAR1AK9yEls80nzUPc"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Nur ein Song (I Need Some Sleep)",
-      "url": "https://open.spotify.com/track/6WrtlZnKUrg3KKDyjpnZBz"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "187 Allstars \u201822",
         "url": "https://open.spotify.com/album/3bXAKp1T2ViXKffJLB6snF"
@@ -237,63 +217,7 @@
       "url": "https://open.spotify.com/track/7jQcjzl8yPQsmxpO5orx4Y"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Mein Herz",
-        "url": "https://open.spotify.com/album/0w8oOS2pQtGUNUhaXwGlJ5"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 156987,
-      "name": "Mein Herz",
-      "url": "https://open.spotify.com/track/4onuHfF4KTeJx9pstLBOz8"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Alles anders (weniger im Arsch)",
-        "url": "https://open.spotify.com/album/7tuQuHJszRNLbjVRtKtMdI"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        },
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 153783,
-      "name": "Alles anders (weniger im Arsch)",
-      "url": "https://open.spotify.com/track/1H2rGO5zzjRTfFIgD7wNRj"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -313,91 +237,27 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "I DON\u2019T WANNA PARTY NO MORE",
-        "url": "https://open.spotify.com/album/6r6ZAtU32Z5NxJClLFZjD8"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "I DON\u2019T WANNA PARTY NO MORE",
-      "url": "https://open.spotify.com/track/39qM1tojOMEnll1pHxAxhB"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/2HpKiYKlnaDg6ou4CoFYzk"
@@ -413,7 +273,59 @@
       "url": "https://open.spotify.com/track/2xSIcmvFQHs2CeS34Mgp62"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Nur ein Song (I Need Some Sleep)",
+        "url": "https://open.spotify.com/album/0mIMkAR1AK9yEls80nzUPc"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Nur ein Song (I Need Some Sleep)",
+      "url": "https://open.spotify.com/track/6WrtlZnKUrg3KKDyjpnZBz"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Wie viele Lieder muss ich noch schreiben?",
+        "url": "https://open.spotify.com/album/4JubIw2TXZDQGoOX5ddY23"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 193254,
+      "name": "Wie viele Lieder muss ich noch schreiben?",
+      "url": "https://open.spotify.com/track/3CQhud304mI5VmW6EjoTDg"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -437,23 +349,63 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+        "name": "Alles anders (weniger im Arsch)",
+        "url": "https://open.spotify.com/album/7tuQuHJszRNLbjVRtKtMdI"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+      "duration_ms": 153783,
+      "name": "Alles anders (weniger im Arsch)",
+      "url": "https://open.spotify.com/track/1H2rGO5zzjRTfFIgD7wNRj"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -469,43 +421,39 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "Mein Herz",
+        "url": "https://open.spotify.com/album/0w8oOS2pQtGUNUhaXwGlJ5"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 156987,
+      "name": "Mein Herz",
+      "url": "https://open.spotify.com/track/4onuHfF4KTeJx9pstLBOz8"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "TAG TEAM",
-        "url": "https://open.spotify.com/album/2TMLKBbqeFQjUWtseZJyIS"
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
       "artists": [
         {
-          "name": "Frauenarzt",
-          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
-        },
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 148706,
-      "name": "TAG TEAM",
-      "url": "https://open.spotify.com/track/2Zn92GVxtSPkbrA5vnyZI0"
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -525,23 +473,39 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Auf & Ab",
-        "url": "https://open.spotify.com/album/0HSkqlRyseGrpCBrrTv773"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 165476,
-      "name": "Auf & Ab",
-      "url": "https://open.spotify.com/track/0RSZ8EmUPEN3ySfCgytPke"
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "I DON\u2019T WANNA PARTY NO MORE",
+        "url": "https://open.spotify.com/album/6r6ZAtU32Z5NxJClLFZjD8"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "I DON\u2019T WANNA PARTY NO MORE",
+      "url": "https://open.spotify.com/track/39qM1tojOMEnll1pHxAxhB"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
@@ -557,7 +521,55 @@
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Auf & Ab",
+        "url": "https://open.spotify.com/album/0HSkqlRyseGrpCBrrTv773"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 165476,
+      "name": "Auf & Ab",
+      "url": "https://open.spotify.com/track/0RSZ8EmUPEN3ySfCgytPke"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "PUSSY POWER",
+        "url": "https://open.spotify.com/album/6X06cIAYz5nsDnVbDftsi3"
+      },
+      "artists": [
+        {
+          "name": "Katja Krasavice",
+          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
+        }
+      ],
+      "duration_ms": 175164,
+      "name": "Onlyfans",
+      "url": "https://open.spotify.com/track/0BbYTaDH81up32xTKIGjbS"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Belgisches Viertel",
         "url": "https://open.spotify.com/album/6giaXxm0g5927v4ESbtzCt"
@@ -573,47 +585,7 @@
       "url": "https://open.spotify.com/track/1h3d2lvISrSIV6fS89U51S"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Brooklyn",
-        "url": "https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 182618,
-      "name": "Brooklyn",
-      "url": "https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        },
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "paris freestyle (skrilla remix)",
         "url": "https://open.spotify.com/album/1W3vAs6CkRhiNSRKTluUVs"
@@ -633,79 +605,43 @@
       "url": "https://open.spotify.com/track/6fuO9uk9wbjCHvQJqk2Qpx"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+        "name": "TAG TEAM",
+        "url": "https://open.spotify.com/album/2TMLKBbqeFQjUWtseZJyIS"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Manila",
-        "url": "https://open.spotify.com/album/04G5svGohksmXulzf6BbK3"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "Frauenarzt",
+          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
         },
         {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
         }
       ],
-      "duration_ms": 144621,
-      "name": "Manila",
-      "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
+      "duration_ms": 148706,
+      "name": "TAG TEAM",
+      "url": "https://open.spotify.com/track/2Zn92GVxtSPkbrA5vnyZI0"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "DER LETZTE SONG (ALLES WIRD GUT) (feat. Fred Rabe)",
-        "url": "https://open.spotify.com/album/2uZ1heDjBsSvxnANhH8EmD"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "KUMMER",
-          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
-        },
-        {
-          "name": "Fred Rabe",
-          "url": "https://open.spotify.com/artist/4MYiI4xv9otdG9iB3d4Q25"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 171722,
-      "name": "DER LETZTE SONG (ALLES WIRD GUT) (feat. Fred Rabe)",
-      "url": "https://open.spotify.com/track/2FQRZLR31e3423Nmrgv0Pv"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "PUSSY POWER",
-        "url": "https://open.spotify.com/album/6X06cIAYz5nsDnVbDftsi3"
-      },
-      "artists": [
-        {
-          "name": "Katja Krasavice",
-          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
-        }
-      ],
-      "duration_ms": 175164,
-      "name": "Onlyfans",
-      "url": "https://open.spotify.com/track/0BbYTaDH81up32xTKIGjbS"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -725,39 +661,43 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Grosse Freiheit",
+        "url": "https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+      "duration_ms": 152771,
+      "name": "Sp\u00e4ti",
+      "url": "https://open.spotify.com/track/0TBylB8tjwqp4YHSrwRJQQ"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Zukunft 1 & 2",
         "url": "https://open.spotify.com/album/6npdmy45COickvaNIV5obJ"
@@ -777,63 +717,75 @@
       "url": "https://open.spotify.com/track/2Oi1IJ6JEUX1aya9VUAA1Z"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "BA3T",
-        "url": "https://open.spotify.com/album/3jKxFtT5tfoldnKJdh5jWH"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Majoe",
-          "url": "https://open.spotify.com/artist/1a71mkqZC54WhePSbnq7RK"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "DER LETZTE SONG (ALLES WIRD GUT) (feat. Fred Rabe)",
+        "url": "https://open.spotify.com/album/2uZ1heDjBsSvxnANhH8EmD"
+      },
+      "artists": [
+        {
+          "name": "KUMMER",
+          "url": "https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7"
         },
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        },
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+          "name": "Fred Rabe",
+          "url": "https://open.spotify.com/artist/4MYiI4xv9otdG9iB3d4Q25"
         }
       ],
-      "duration_ms": 196250,
-      "name": "BA3T",
-      "url": "https://open.spotify.com/track/7gbN2G0XmBAAk6YnBbRYsX"
+      "duration_ms": 171722,
+      "name": "DER LETZTE SONG (ALLES WIRD GUT) (feat. Fred Rabe)",
+      "url": "https://open.spotify.com/track/2FQRZLR31e3423Nmrgv0Pv"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Kurz vor 6",
-        "url": "https://open.spotify.com/album/3tdyhG9UzjhcNTIu60yuNx"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 130432,
-      "name": "Kurz vor 6",
-      "url": "https://open.spotify.com/track/7FKrDATk0wVqftb958qLrt"
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "Grosse Freiheit",
-        "url": "https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S"
+        "name": "hausflur",
+        "url": "https://open.spotify.com/album/1edD0IzK7r5KxKtNlWVgPa"
       },
       "artists": [
         {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
         }
       ],
-      "duration_ms": 152771,
-      "name": "Sp\u00e4ti",
-      "url": "https://open.spotify.com/track/0TBylB8tjwqp4YHSrwRJQQ"
+      "duration_ms": 167021,
+      "name": "hausflur",
+      "url": "https://open.spotify.com/track/4eZQUtvU0l7rFZzajOfF1I"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Stop Wars",
         "url": "https://open.spotify.com/album/436g2HazcJdAWbcd9bYob5"
@@ -857,39 +809,23 @@
       "url": "https://open.spotify.com/track/6ooXbVKFh6a9xbspUVZx7z"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
-      "album": {
-        "name": "Ha-Satan",
-        "url": "https://open.spotify.com/album/5xhp4PQ6raaeLT3fRqwX9k"
-      },
-      "artists": [
-        {
-          "name": "Sun Diego",
-          "url": "https://open.spotify.com/artist/3TqfPVt0HX8GCzNOOjDcum"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Ha-Satan",
-      "url": "https://open.spotify.com/track/3StKvZCPfREqoxvUfa5FxF"
-    },
-    {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "Sommergewitter",
         "url": "https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP"
@@ -905,7 +841,43 @@
       "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
     },
     {
-      "added_at": "2022-03-08 11:10:24",
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "TO THE MOON",
+        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
+      },
+      "artists": [
+        {
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "Kurz vor 6",
+        "url": "https://open.spotify.com/album/3tdyhG9UzjhcNTIu60yuNx"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 130432,
+      "name": "Kurz vor 6",
+      "url": "https://open.spotify.com/track/7FKrDATk0wVqftb958qLrt"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
       "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
@@ -919,6 +891,22 @@
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "added_at": "2022-03-09 10:56:23",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     }
   ],
   "unique_name": "Top 50 - Germany",
