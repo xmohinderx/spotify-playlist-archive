@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: ShaSimone",
+  "description": "The best of UK Rap & Drill.  Cover: Aitch",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 205032,
       "name": "6am on the Island",
       "url": "https://open.spotify.com/track/1TTGOYBfXgRrTrEJmifKoQ"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
@@ -1955,6 +1955,28 @@
       "duration_ms": 183541,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3W7ML7M75Voo30imYBX2Xl"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8"
     },
     {
       "album": {
@@ -2677,7 +2699,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 154105,
       "name": "Big Move",
       "url": "https://open.spotify.com/track/3D5x0PzZ6v4gHcmPlhDM9l"
@@ -2757,7 +2779,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 173419,
       "name": "Big Woman",
       "url": "https://open.spotify.com/track/4YkEW0NUEldXj6bxpYUZcy"
@@ -9334,6 +9356,24 @@
     },
     {
       "album": {
+        "name": "Connecting Flights",
+        "url": "https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv"
+      },
+      "artists": [
+        {
+          "name": "Dapz on the Map",
+          "url": "https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179981,
+      "name": "Hunger Games",
+      "url": "https://open.spotify.com/track/5mKDYPIxZmFge680VUiRFt"
+    },
+    {
+      "album": {
         "name": "Hushpuppi",
         "url": "https://open.spotify.com/album/6mebKYxLTdHiLPxvlss5kA"
       },
@@ -12147,7 +12187,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 223333,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1BgONKEmEw2BkWbPBrM9Zn"
@@ -12765,6 +12805,24 @@
       "duration_ms": 189800,
       "name": "New Opp Block",
       "url": "https://open.spotify.com/track/4FOtkvnbZZClySiRYbQDVF"
+    },
+    {
+      "album": {
+        "name": "NGL",
+        "url": "https://open.spotify.com/album/3cDseoR2oeClAG8hhhHkBD"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182297,
+      "name": "NGL",
+      "url": "https://open.spotify.com/track/0CVZMoWiCizIuuxsu3Rlf9"
     },
     {
       "album": {
@@ -19323,7 +19381,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 236310,
       "name": "Torch",
       "url": "https://open.spotify.com/track/5bCYDIFDRiH6Vc0dBUGxvU"
@@ -19571,6 +19629,32 @@
       "duration_ms": 205053,
       "name": "Two Years Clear",
       "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"
+    },
+    {
+      "album": {
+        "name": "Typa Way",
+        "url": "https://open.spotify.com/album/1v8obs02a28Pv1b6Mbjnir"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Typa Way",
+      "url": "https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7"
     },
     {
       "album": {

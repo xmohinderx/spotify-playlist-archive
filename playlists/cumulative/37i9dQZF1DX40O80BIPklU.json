@@ -118,6 +118,40 @@
     },
     {
       "album": {
+        "name": "Inmortales",
+        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        },
+        {
+          "name": "Grey Music Family",
+          "url": "https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm"
+        },
+        {
+          "name": "Chulu",
+          "url": "https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247516,
+      "name": "Ahora Corren",
+      "url": "https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3"
+    },
+    {
+      "album": {
         "name": "Ahora Y Siempre",
         "url": "https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z"
       },
@@ -849,7 +883,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 160443,
       "name": "Lejos del 2",
       "url": "https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7"
@@ -1061,7 +1095,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 184917,
       "name": "Niple",
       "url": "https://open.spotify.com/track/7jeleRcyCUp5pusaGcioka"
@@ -1599,6 +1633,24 @@
       "duration_ms": 258586,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi"
+    },
+    {
+      "album": {
+        "name": "Vibrando en Alto",
+        "url": "https://open.spotify.com/album/2Sa6rmZ4tPSRse0aOlRKjI"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180515,
+      "name": "Vibrando en Alto",
+      "url": "https://open.spotify.com/track/0HoLCZ3G0dbGqtmlmnIMhw"
     },
     {
       "album": {

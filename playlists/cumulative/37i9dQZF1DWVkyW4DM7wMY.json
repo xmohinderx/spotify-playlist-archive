@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133324,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
       },
@@ -77,7 +99,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 215327,
       "name": "Bleu",
       "url": "https://open.spotify.com/track/2gxJQDv1lGLZBkuIxFkqtx"
@@ -249,6 +271,24 @@
       "duration_ms": 167500,
       "name": "Echoes - Remix",
       "url": "https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi"
+    },
+    {
+      "album": {
+        "name": "Ex Wako Hawezi",
+        "url": "https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ex Wako Hawezi",
+      "url": "https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s"
     },
     {
       "album": {
@@ -467,7 +507,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 158961,
       "name": "Heircassle",
       "url": "https://open.spotify.com/track/5dr23gsc7npeFKXyySIH4d"
@@ -1349,7 +1389,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 218666,
       "name": "Sazile",
       "url": "https://open.spotify.com/track/4E9AzfzEfjhqI3vtnDrkwF"
@@ -1443,7 +1483,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 171492,
       "name": "SUMMER VIBES",
       "url": "https://open.spotify.com/track/6veOKwqP7YI8x6wo5QVDMU"

@@ -37,10 +37,28 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 193120,
       "name": "1901",
       "url": "https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa"
+    },
+    {
+      "album": {
+        "name": "Capture / Release",
+        "url": "https://open.spotify.com/album/6vlPKAgC59SB759oU1MVL7"
+      },
+      "artists": [
+        {
+          "name": "The Rakes",
+          "url": "https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106600,
+      "name": "22 Grand Job",
+      "url": "https://open.spotify.com/track/2JNS9kPl3vvRXsoGNewjg4"
     },
     {
       "album": {
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 233586,
       "name": "40 Day Dream",
       "url": "https://open.spotify.com/track/1m2A0wGb43khkL02TdRt4K"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 220693,
       "name": "An Honest Mistake",
       "url": "https://open.spotify.com/track/1tk7gvlaVfEmANvHEPQz8t"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/1KbagD47zTS1PnmS8iKPIK"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 263133,
       "name": "Black And White Town",
       "url": "https://open.spotify.com/track/1RJxjF2aOMi1JLJ9K2PUJj"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Do You Want To",
       "url": "https://open.spotify.com/track/09TpJe9jnom4mB2DDhZKkB"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 215720,
       "name": "Flux",
       "url": "https://open.spotify.com/track/3motGmEfXRYg9uYLfeMef4"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Gold Lion",
       "url": "https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 205213,
       "name": "Golden Touch - Full Length",
       "url": "https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 185266,
       "name": "Graffiti",
       "url": "https://open.spotify.com/track/7mS5J9JuB4mo6VgvUj0fDZ"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 261360,
       "name": "I Still Remember",
       "url": "https://open.spotify.com/track/14BDEYKBXqn0YndMKl10BW"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 209026,
       "name": "I'd Rather Dance With You",
       "url": "https://open.spotify.com/track/4hGOhC87bn7JBdYykOJJvJ"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 217733,
       "name": "I'm Not Gonna Teach Your Boyfriend How To Dance With You",
       "url": "https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 217040,
       "name": "Jump In The Pool",
       "url": "https://open.spotify.com/track/4anehmsEuhkXRjm6HAocaj"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 168533,
       "name": "So Says I",
       "url": "https://open.spotify.com/track/1ZOHZ37YIHnVn8dEpNIEhp"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 266346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/0vD4P4669qdPvVQbNclFZR"
@@ -2129,7 +2147,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 222320,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/17DjxJJG1NHXg1VatxfFfU"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 238381,
       "name": "Whole New Way",
       "url": "https://open.spotify.com/track/1e87d9I8cdIIUcLdNhGJxW"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 277466,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/7e7KneZN3eFpHyfo9DOJyf"
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 405920,
       "name": "You! Me! Dancing!",
       "url": "https://open.spotify.com/track/5xNFbAiYGZsesA6pQmfjZa"

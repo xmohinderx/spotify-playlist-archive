@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+    },
+    {
+      "album": {
         "name": "Carnaval de Sof\u00e1",
         "url": "https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk"
       },
@@ -335,7 +353,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 198711,
       "name": "Casa Pronta",
       "url": "https://open.spotify.com/track/1wwfsmydqA3Q8FK1vWj83J"
@@ -371,7 +389,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 151583,
       "name": "Corcovado",
       "url": "https://open.spotify.com/track/5y4OLeQ9cwyhFXQgdOQgSY"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 218532,
       "name": "Desculpa o Exagero",
       "url": "https://open.spotify.com/track/6UlCJWjcObqoxgKnFMN5WD"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 207321,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/5jyhJeoNPBM5EGMU1OTfb8"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 220031,
       "name": "Lisboa-Madrid",
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
@@ -812,6 +830,24 @@
     },
     {
       "album": {
+        "name": "Me conta da tua janela",
+        "url": "https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202007,
+      "name": "Me conta da tua janela",
+      "url": "https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY"
+    },
+    {
+      "album": {
         "name": "Meu Canto - EP",
         "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
@@ -827,7 +863,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 230786,
       "name": "Me Espera",
       "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 192698,
       "name": "Se Perder",
       "url": "https://open.spotify.com/track/4no2z9sJGD1O2iHCCDDgEC"
@@ -1311,7 +1347,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 180535,
       "name": "Vontade Lunar (feat. OUTROEU)",
       "url": "https://open.spotify.com/track/6g8Q5HsDn9Mn2ckBiWMAJf"
@@ -1347,7 +1383,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 165106,
       "name": "Zen",
       "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"

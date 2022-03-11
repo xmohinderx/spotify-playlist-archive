@@ -1,12 +1,12 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 6805,
+  "num_followers": 6810,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxODQ5OCwwMDAwMDA0ZTAwMDAwMTdmNjgxMjM1YmUwMDAwMDE3ZjY4MTBhYWJm",
+  "snapshot_id": "MTY0Njk0NTk0MCwwMDAwMDA0ZjAwMDAwMTdmNzVhMGIyOGQwMDAwMDE3ZjY4MTBhYWJm",
   "tracks": [
     {
       "added_at": "2021-12-09 20:59:00",
@@ -55,6 +55,22 @@
       "duration_ms": 158000,
       "name": "Camille",
       "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
+    },
+    {
+      "added_at": "2022-03-10 20:59:00",
+      "album": {
+        "name": "Ex Wako Hawezi",
+        "url": "https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Ex Wako Hawezi",
+      "url": "https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s"
     },
     {
       "added_at": "2022-03-03 20:59:00",
@@ -117,22 +133,6 @@
       "url": "https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N"
     },
     {
-      "added_at": "2022-01-13 13:38:18",
-      "album": {
-        "name": "Filthy Rich",
-        "url": "https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Filthy Rich",
-      "url": "https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9"
-    },
-    {
       "added_at": "2022-02-11 09:38:38",
       "album": {
         "name": "Never Left",
@@ -147,6 +147,26 @@
       "duration_ms": 172363,
       "name": "Never Left",
       "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
+    },
+    {
+      "added_at": "2022-03-10 20:59:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -165,40 +185,76 @@
       "url": "https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h"
     },
     {
-      "added_at": "2021-11-25 20:59:00",
+      "added_at": "2022-01-27 20:59:00",
       "album": {
-        "name": "Strings Attached",
-        "url": "https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq"
+        "name": "Jaafari's 19th",
+        "url": "https://open.spotify.com/album/0ai61scImkAr7m5BXocapW"
       },
       "artists": [
         {
-          "name": "Kash Kaaria",
-          "url": "https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi"
-        },
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
         }
       ],
-      "duration_ms": 187792,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb"
+      "duration_ms": 213932,
+      "name": "Jaafari's 19th",
+      "url": "https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi"
     },
     {
       "added_at": "2022-02-04 03:01:04",
       "album": {
-        "name": "Diamond in the Trenches",
-        "url": "https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47"
+        "name": "Misimu",
+        "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
       },
       "artists": [
         {
-          "name": "The.wav",
-          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
+          "name": "SERRO",
+          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
+        },
+        {
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD"
         }
       ],
-      "duration_ms": 308934,
-      "name": "Kilimanjaro",
-      "url": "https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH"
+      "duration_ms": 246923,
+      "name": "Hold On To The Faith",
+      "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
+    },
+    {
+      "added_at": "2022-02-24 20:59:00",
+      "album": {
+        "name": "Just Another Love Song",
+        "url": "https://open.spotify.com/album/532BimGtZfjb35BXOSTnJe"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Meghan",
+          "url": "https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI"
+        }
+      ],
+      "duration_ms": 177019,
+      "name": "Just Another Love Song",
+      "url": "https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ"
+    },
+    {
+      "added_at": "2021-10-29 06:04:39",
+      "album": {
+        "name": "Klabu",
+        "url": "https://open.spotify.com/album/6QP1Xlw0ufY3bsCmaMz8im"
+      },
+      "artists": [
+        {
+          "name": "MR. LU*",
+          "url": "https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Klabu",
+      "url": "https://open.spotify.com/track/6QOxa26PnUPC9bxJKWDinP"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -225,6 +281,22 @@
       "url": "https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq"
     },
     {
+      "added_at": "2022-02-04 03:01:04",
+      "album": {
+        "name": "Diamond in the Trenches",
+        "url": "https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47"
+      },
+      "artists": [
+        {
+          "name": "The.wav",
+          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
+        }
+      ],
+      "duration_ms": 308934,
+      "name": "Kilimanjaro",
+      "url": "https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH"
+    },
+    {
       "added_at": "2022-02-24 20:59:00",
       "album": {
         "name": "Love Can Turn the World",
@@ -241,40 +313,20 @@
       "url": "https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU"
     },
     {
-      "added_at": "2022-02-04 03:01:04",
+      "added_at": "2022-01-13 13:38:18",
       "album": {
-        "name": "Misimu",
-        "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
+        "name": "Filthy Rich",
+        "url": "https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l"
       },
       "artists": [
         {
-          "name": "SERRO",
-          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
-        },
-        {
-          "name": "Mutoriah",
-          "url": "https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD"
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
         }
       ],
-      "duration_ms": 246923,
-      "name": "Hold On To The Faith",
-      "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Jaafari's 19th",
-        "url": "https://open.spotify.com/album/0ai61scImkAr7m5BXocapW"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 213932,
-      "name": "Jaafari's 19th",
-      "url": "https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi"
+      "duration_ms": 166736,
+      "name": "Filthy Rich",
+      "url": "https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -307,42 +359,6 @@
       "duration_ms": 270031,
       "name": "Stay",
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
-    },
-    {
-      "added_at": "2021-10-29 06:04:39",
-      "album": {
-        "name": "Klabu",
-        "url": "https://open.spotify.com/album/6QP1Xlw0ufY3bsCmaMz8im"
-      },
-      "artists": [
-        {
-          "name": "MR. LU*",
-          "url": "https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Klabu",
-      "url": "https://open.spotify.com/track/6QOxa26PnUPC9bxJKWDinP"
-    },
-    {
-      "added_at": "2022-02-24 20:59:00",
-      "album": {
-        "name": "Just Another Love Song",
-        "url": "https://open.spotify.com/album/532BimGtZfjb35BXOSTnJe"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Meghan",
-          "url": "https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI"
-        }
-      ],
-      "duration_ms": 177019,
-      "name": "Just Another Love Song",
-      "url": "https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ"
     },
     {
       "added_at": "2022-02-04 03:01:04",
@@ -519,6 +535,26 @@
       "duration_ms": 228983,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF"
+    },
+    {
+      "added_at": "2021-11-25 20:59:00",
+      "album": {
+        "name": "Strings Attached",
+        "url": "https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq"
+      },
+      "artists": [
+        {
+          "name": "Kash Kaaria",
+          "url": "https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi"
+        },
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 187792,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -995,22 +1031,26 @@
     {
       "added_at": "2021-10-15 19:38:29",
       "album": {
-        "name": "Full Full Condition Vol. 1",
-        "url": "https://open.spotify.com/album/5Zax84SZxYkFlw1eZsefbb"
+        "name": "Weche",
+        "url": "https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29"
       },
       "artists": [
         {
-          "name": "mwami",
-          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+          "name": "Punk Mbedzi",
+          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
         },
         {
-          "name": "mau",
-          "url": "https://open.spotify.com/artist/6CXT5rXzTle8RsPrtrw7aj"
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Akoth Jumadi",
+          "url": "https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo"
         }
       ],
-      "duration_ms": 158961,
-      "name": "Heircassle",
-      "url": "https://open.spotify.com/track/5dr23gsc7npeFKXyySIH4d"
+      "duration_ms": 217298,
+      "name": "Weche - Radio Edit",
+      "url": "https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM"
     },
     {
       "added_at": "2021-10-15 19:38:29",
@@ -1043,22 +1083,6 @@
       "duration_ms": 158400,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Dimensions EP",
-        "url": "https://open.spotify.com/album/4ji7UdgCUjKilYq8qjteek"
-      },
-      "artists": [
-        {
-          "name": "NJERI",
-          "url": "https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR"
-        }
-      ],
-      "duration_ms": 171492,
-      "name": "SUMMER VIBES",
-      "url": "https://open.spotify.com/track/6veOKwqP7YI8x6wo5QVDMU"
     },
     {
       "added_at": "2021-10-15 19:38:29",
@@ -1195,30 +1219,6 @@
     {
       "added_at": "2021-10-15 19:38:29",
       "album": {
-        "name": "Weche",
-        "url": "https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29"
-      },
-      "artists": [
-        {
-          "name": "Punk Mbedzi",
-          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
-        },
-        {
-          "name": "Euggy",
-          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
-        },
-        {
-          "name": "Akoth Jumadi",
-          "url": "https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo"
-        }
-      ],
-      "duration_ms": 217298,
-      "name": "Weche - Radio Edit",
-      "url": "https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
         "name": "Sky Up Above",
         "url": "https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0"
       },
@@ -1247,50 +1247,6 @@
       "duration_ms": 138268,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Empty Spaces",
-        "url": "https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq"
-      },
-      "artists": [
-        {
-          "name": "Gabbie",
-          "url": "https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3"
-        },
-        {
-          "name": "Timothy Arinaitwe",
-          "url": "https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Bleu",
-      "url": "https://open.spotify.com/track/2gxJQDv1lGLZBkuIxFkqtx"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Sazile E.P",
-        "url": "https://open.spotify.com/album/2Us9YzdmPlicMa1XkMa0IJ"
-      },
-      "artists": [
-        {
-          "name": "Kato Change",
-          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
-        },
-        {
-          "name": "Winyo",
-          "url": "https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C"
-        },
-        {
-          "name": "Suraj",
-          "url": "https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Sazile",
-      "url": "https://open.spotify.com/track/4E9AzfzEfjhqI3vtnDrkwF"
     }
   ],
   "unique_name": "Eastern Vibes",

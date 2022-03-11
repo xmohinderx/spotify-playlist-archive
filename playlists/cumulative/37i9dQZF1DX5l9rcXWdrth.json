@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 205055,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/3twTx8aoeaKCoQ4dUHsLWl"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 279866,
       "name": "Barbie Dreams",
       "url": "https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 223962,
       "name": "Bodak Yellow",
       "url": "https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 136508,
       "name": "Bussin 2.0 (with Saweetie)",
       "url": "https://open.spotify.com/track/6xkbKc532RwCOQzcYlu7y4"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 98218,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 164702,
       "name": "Do A Bitch",
       "url": "https://open.spotify.com/track/3q9TWSotxyhIxhPPPe5sZ2"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 168093,
       "name": "FDH",
       "url": "https://open.spotify.com/track/7hRbS8uL6VXwTgSAg3BGSw"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 127821,
       "name": "I Like",
       "url": "https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 169679,
       "name": "Ice Baby",
       "url": "https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 121386,
       "name": "Jobs",
       "url": "https://open.spotify.com/track/22IWDKdWDgx2cAx5RuDgty"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 121386,
       "name": "Jobs",
       "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
@@ -1274,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Now What",
+        "url": "https://open.spotify.com/album/0KtSL9MYsIO7cFpf7g61xp"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154748,
+      "name": "Now What",
+      "url": "https://open.spotify.com/track/3rayWrmamTxsGSNGjsuetG"
+    },
+    {
+      "album": {
         "name": "Nunnadet Shit",
         "url": "https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W"
       },
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 214583,
       "name": "Nunnadet Shit",
       "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 125272,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 125675,
       "name": "Run Me My Money",
       "url": "https://open.spotify.com/track/5e2GpbPELieepYsdPRgoNA"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 232873,
       "name": "Sl*t Him Out Again (feat. Kali)",
       "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 116611,
       "name": "Stalli (Freestyle)",
       "url": "https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7"
@@ -1629,6 +1647,28 @@
       "duration_ms": 150752,
       "name": "Team Dream",
       "url": "https://open.spotify.com/track/4B1tmQ4gjqDkInHMKtEC2c"
+    },
+    {
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175342,
+      "name": "Tempo (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
     },
     {
       "album": {
@@ -1843,7 +1883,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 170732,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/1N3WA69hiGcEsO2ExABuqs"

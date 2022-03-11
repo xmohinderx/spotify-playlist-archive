@@ -1,13 +1,45 @@
 {
   "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6?si=aBvt2JiqQzOP95Xq75t6VQ\"> Wendy Kay </a>",
-  "num_followers": 2008,
+  "num_followers": 2047,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcyMDU4NywwMDAwMDAwYjAwMDAwMTdmNjgzMjE4MDMwMDAwMDE3ZjY4MzEyNGMx",
+  "snapshot_id": "MTY0Njk0NTk0MCwwMDAwMDAwYzAwMDAwMTdmNzVhMGIyOWMwMDAwMDE3ZjY4MzEyNGMx",
   "tracks": [
+    {
+      "added_at": "2022-02-17 20:06:18",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
+      },
+      "artists": [
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Kesho Kutwa",
+        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "duration_ms": 252623,
+      "name": "Kesho Kutwa",
+      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
+    },
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
@@ -45,38 +77,6 @@
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
     },
     {
-      "added_at": "2022-02-17 20:06:18",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
-      },
-      "artists": [
-        {
-          "name": "Nviiri The Storyteller",
-          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Kesho Kutwa",
-        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
-      },
-      "artists": [
-        {
-          "name": "Ethan Muziki",
-          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
-        }
-      ],
-      "duration_ms": 252623,
-      "name": "Kesho Kutwa",
-      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
-    },
-    {
       "added_at": "2022-02-04 03:03:06",
       "album": {
         "name": "Waiting",
@@ -95,30 +95,6 @@
       "duration_ms": 164837,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Catch A Vibe",
-        "url": "https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs"
-      },
-      "artists": [
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        },
-        {
-          "name": "Higo",
-          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
-        },
-        {
-          "name": "Mpho Sebina",
-          "url": "https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN"
-        }
-      ],
-      "duration_ms": 202186,
-      "name": "Paths",
-      "url": "https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -155,6 +131,58 @@
       "duration_ms": 137368,
       "name": "Aibu",
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "A Side Of Me",
+        "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Loverman (Acoustic)",
+        "url": "https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB"
+      },
+      "artists": [
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        },
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/6ouFdOVHXs3aZV5pwM3JlQ"
+        }
+      ],
+      "duration_ms": 174889,
+      "name": "Loverman - Acoustic",
+      "url": "https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP"
+    },
+    {
+      "added_at": "2022-02-04 03:03:06",
+      "album": {
+        "name": "I Love the Way You",
+        "url": "https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5"
+      },
+      "artists": [
+        {
+          "name": "Basthma",
+          "url": "https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv"
+        }
+      ],
+      "duration_ms": 133833,
+      "name": "I Love the Way You",
+      "url": "https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3"
     },
     {
       "added_at": "2022-02-04 03:03:06",
@@ -247,38 +275,6 @@
       "duration_ms": 231150,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm"
-    },
-    {
-      "added_at": "2022-02-04 03:03:06",
-      "album": {
-        "name": "I Love the Way You",
-        "url": "https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5"
-      },
-      "artists": [
-        {
-          "name": "Basthma",
-          "url": "https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv"
-        }
-      ],
-      "duration_ms": 133833,
-      "name": "I Love the Way You",
-      "url": "https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "A Side Of Me",
-        "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -399,6 +395,22 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
         "name": "Drug",
         "url": "https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF"
       },
@@ -443,26 +455,6 @@
       "duration_ms": 215831,
       "name": "Built for You",
       "url": "https://open.spotify.com/track/46TDKUYWxWeDrbWWsntEu6"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Loverman (Acoustic)",
-        "url": "https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB"
-      },
-      "artists": [
-        {
-          "name": "Brandy Maina",
-          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
-        },
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/6ouFdOVHXs3aZV5pwM3JlQ"
-        }
-      ],
-      "duration_ms": 174889,
-      "name": "Loverman - Acoustic",
-      "url": "https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -535,6 +527,26 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP"
+      },
+      "artists": [
+        {
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 242553,
+      "name": "Tosheka",
+      "url": "https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
         "name": "Super Ego",
         "url": "https://open.spotify.com/album/6ALr7CV39er0V3Jq4CI6O6"
       },
@@ -551,6 +563,30 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
+        "name": "Catch A Vibe",
+        "url": "https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Higo",
+          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
+        },
+        {
+          "name": "Mpho Sebina",
+          "url": "https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "Paths",
+      "url": "https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
         "name": "Lonely In Nairobi",
         "url": "https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l"
       },
@@ -563,22 +599,6 @@
       "duration_ms": 189173,
       "name": "Lonely In Nairobi",
       "url": "https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Ngesa",
-          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -863,26 +883,6 @@
       "duration_ms": 170458,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP"
-      },
-      "artists": [
-        {
-          "name": "Mutoriah",
-          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
-        },
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        }
-      ],
-      "duration_ms": 242553,
-      "name": "Tosheka",
-      "url": "https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN"
     },
     {
       "added_at": "2021-12-28 14:30:06",

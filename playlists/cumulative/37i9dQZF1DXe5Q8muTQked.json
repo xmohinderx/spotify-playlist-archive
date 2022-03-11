@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 255760,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/036pGlJwc9ZVFJNLmniSbF"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 245053,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 193946,
       "name": "Can't Help Falling In Love - Recorded Live at Daytrotter",
       "url": "https://open.spotify.com/track/5GBWQszdw6PtAN0Negzut6"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 227500,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
@@ -1514,6 +1514,28 @@
     },
     {
       "album": {
+        "name": "Don't Dream It's Over / Everything Is Free",
+        "url": "https://open.spotify.com/album/5K6Ct7CLekvIw90bR7mJJ4"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203498,
+      "name": "Don't Dream It's Over (feat. Sylvan Esso)",
+      "url": "https://open.spotify.com/track/6S6RUMbuYs8AvkaNpDhgMd"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 194480,
       "name": "Enjoy The Silence",
       "url": "https://open.spotify.com/track/6BTmS1O0PenCTpWZJQ5AKK"
@@ -1843,7 +1865,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 222741,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/1JiHcWvhF1CKccD8H3oiFm"
@@ -1861,7 +1883,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 265687,
       "name": "Everything Is Free - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx"
@@ -1897,7 +1919,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 205049,
       "name": "Fake Empire",
       "url": "https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8"
@@ -1915,7 +1937,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 271386,
       "name": "Fall At Your Feet",
       "url": "https://open.spotify.com/track/4HopuG8wQBlvXQ6xwA79FG"
@@ -2187,7 +2209,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 191333,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/3pTjdUeogTd4xIOMpYwxJi"
@@ -2303,7 +2325,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
@@ -2357,7 +2379,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 215062,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/15F2UPxCIGHNoi8DK23eaf"
@@ -2375,7 +2397,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 241960,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
@@ -2447,7 +2469,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 413320,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/74X1epeRufHckhuX1KFD04"
@@ -2505,7 +2527,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 201605,
       "name": "Halo (Beyonce Cover) [Live On Icelandic National Radio]",
       "url": "https://open.spotify.com/track/2i9ArJ8VpPu5scoaIG0OkZ"
@@ -2523,7 +2545,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
@@ -2577,7 +2599,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
@@ -2689,7 +2711,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 238360,
       "name": "Here Comes The Sun (feat. dodie)",
       "url": "https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK"
@@ -2747,7 +2769,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 271573,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
@@ -3861,7 +3883,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/525z8O4TTjzSn6gfLItXtd"
@@ -3951,7 +3973,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 228480,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
@@ -4023,7 +4045,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 210013,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/1sRioIZbYeh30oZO4qvJ43"
@@ -4041,7 +4063,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 236546,
       "name": "Leaving On A Jet Plane",
       "url": "https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4"
@@ -4077,7 +4099,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 172149,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5fa6CrQwHwthEoCvTtd5Ig"
@@ -4131,7 +4153,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 244208,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P"
@@ -4355,7 +4377,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 274220,
       "name": "Lost in the Light",
       "url": "https://open.spotify.com/track/0bgqXYJld8cSkAW72VfVDM"
@@ -4373,7 +4395,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 241066,
       "name": "Love",
       "url": "https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald"
@@ -4427,7 +4449,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 316440,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/2rnvHrNnkWMcAkl4S1WlRg"
@@ -4481,7 +4503,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 149173,
       "name": "Maps - Single Version",
       "url": "https://open.spotify.com/track/0pqU55UfyCSLyTFHjdYqQP"
@@ -4757,7 +4779,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 193011,
       "name": "No Need To Argue",
       "url": "https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd"
@@ -4793,7 +4815,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 192793,
       "name": "Nobody 'Cept You",
       "url": "https://open.spotify.com/track/6Q51bhCC3buPPpFps0yOdz"
@@ -4905,7 +4927,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 201314,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/7LLUsLlN3ZqGxDJECgS6jN"
@@ -5397,7 +5419,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
@@ -5451,7 +5473,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 258826,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/6DLVPBlHvHvicxJHzcsev8"
@@ -5469,7 +5491,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 222500,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G"
@@ -5979,7 +6001,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 126000,
       "name": "Tearin' Up My Heart",
       "url": "https://open.spotify.com/track/4s2tjyu42DqWf2AG2U1KCy"
@@ -6081,7 +6103,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 245229,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie"
@@ -6117,7 +6139,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 205786,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M"
@@ -6261,7 +6283,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 220621,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/5VYafNKWKEbNr2BsYoABDo"
@@ -6283,7 +6305,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/6nRenEga4WTc8Da7kigrBO"
@@ -6355,7 +6377,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 323600,
       "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
       "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
@@ -6503,7 +6525,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 190400,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2ArKgz2x8fL8z2KeYXlgLX"
@@ -6565,7 +6587,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 181359,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/1HzvUIPRlPvu2azFG8MbwT"
@@ -6713,7 +6735,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/11OAeshF0YfaeckhW3iKpk"
@@ -6803,7 +6825,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 153140,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/6cDHqIoWHmkGE7V7kWJZFJ"
@@ -6847,7 +6869,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 274931,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl"
@@ -6901,7 +6923,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
@@ -7143,7 +7165,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 213750,
       "name": "Wrecking Ball - Acoustic",
       "url": "https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE"
@@ -7259,7 +7281,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 131186,
       "name": "Yesterday - The Voice Performance",
       "url": "https://open.spotify.com/track/1vwS6VySlFAoxGIlz8Lgz6"
@@ -7303,7 +7325,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 159640,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
@@ -7375,7 +7397,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 201160,
       "name": "You Turn Me On, I'm A Radio",
       "url": "https://open.spotify.com/track/2TUSsSw38J1S1BHI78XMYT"
@@ -7411,7 +7433,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 211866,
       "name": "You're Gonna Make Me Lonesome When You Go",
       "url": "https://open.spotify.com/track/4elbVXqYcmvakKQKpJ0ZUP"
@@ -7483,7 +7505,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 220320,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/21p4Uy5InzgMtt0pkG8GAB"
@@ -7519,7 +7541,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 202657,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5F0oU6oawDaAdNAaRX0I8z"

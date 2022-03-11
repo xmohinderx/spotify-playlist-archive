@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 159973,
       "name": "#AiChoAi",
       "url": "https://open.spotify.com/track/5xOkL4eAs735nm6mcnvfS6"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 110522,
       "name": "Bi\u1ebft Em",
       "url": "https://open.spotify.com/track/3m03j7w5yiPqF7arh4nLr9"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 280575,
       "name": "B\u1ed1n B\u1ee9c T\u01b0\u1eddng",
       "url": "https://open.spotify.com/track/47YM9oNT1A3YccwkP3nddV"
@@ -497,6 +497,28 @@
       "duration_ms": 238000,
       "name": "CH\u00c1N CH\u01afA",
       "url": "https://open.spotify.com/track/1GkSksZXAKoTAWNBCPG33G"
+    },
+    {
+      "album": {
+        "name": "Nghe \u0110i R\u1ed3i Ng\u1ee7",
+        "url": "https://open.spotify.com/album/1wPhDh6WhMs37AtmiSa7qK"
+      },
+      "artists": [
+        {
+          "name": "C\u1ee7 C\u1ea3i",
+          "url": "https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj"
+        },
+        {
+          "name": "m r x",
+          "url": "https://open.spotify.com/artist/5Esf2bG0fRTWEdB8fS3xxf"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202436,
+      "name": "Ch\u00fang Ta C\u00f3 Ng\u1ed1c Qu\u00e1 Kh\u00f4ng?",
+      "url": "https://open.spotify.com/track/6eiCXwPk79MMWaU7x3PboW"
     },
     {
       "album": {
@@ -1029,7 +1051,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 172000,
       "name": "derelict.",
       "url": "https://open.spotify.com/track/6tot4omWduqUvfx8rWzcur"
@@ -1051,7 +1073,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 192000,
       "name": "DIEUEMMUON",
       "url": "https://open.spotify.com/track/4yJiuM2ZTrA8eammQ2njPI"
@@ -1284,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00f3 Ng\u1ed3i \u0110\u00e1y Gi\u1ebfng",
+        "url": "https://open.spotify.com/album/1jhhUdrOqp5Kppd00CgKqV"
+      },
+      "artists": [
+        {
+          "name": "Mona Evie",
+          "url": "https://open.spotify.com/artist/1q8FedrGKmpgUGRGTnLbaZ"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256303,
+      "name": "Forehead / L\u00ean M\u00e2m",
+      "url": "https://open.spotify.com/track/2ETrUTZx9SOfJtSMl7KP6U"
+    },
+    {
+      "album": {
         "name": "fresh in alone",
         "url": "https://open.spotify.com/album/2cg21ZZB9B73u6z7SJa69u"
       },
@@ -1303,6 +1343,42 @@
       "duration_ms": 152644,
       "name": "fresh in alone",
       "url": "https://open.spotify.com/track/6Mu1HVbH8ezT9A5fMDKOZK"
+    },
+    {
+      "album": {
+        "name": "GIAYPHUT",
+        "url": "https://open.spotify.com/album/12Xpa5Vp0FbiKzx1EU7TCy"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "GIAYPHUT",
+      "url": "https://open.spotify.com/track/4fxb18lZap3bW72cRvTH5i"
+    },
+    {
+      "album": {
+        "name": "Gieo Ni\u1ec1m \u0110au",
+        "url": "https://open.spotify.com/album/1LqTDHg8iWBX5QVaOu27BV"
+      },
+      "artists": [
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189885,
+      "name": "Gieo Ni\u1ec1m \u0110au",
+      "url": "https://open.spotify.com/track/0fuJF9MOV9OF7K2cFIppQD"
     },
     {
       "album": {
@@ -1567,7 +1643,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 238421,
       "name": "H\u00e3y \u0110i Xa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/7w3zb1LUOlINglFNpqC2oo"
@@ -1709,10 +1785,28 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 219753,
       "name": "Images",
       "url": "https://open.spotify.com/track/4YgxKXHo6ZgP359RU6Q1L6"
+    },
+    {
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/1iSJ3b5aQRH6xdt2HCvsBb"
+      },
+      "artists": [
+        {
+          "name": "Niz",
+          "url": "https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102594,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7g0FcydJSMnypl6gXgcFGQ"
     },
     {
       "album": {
@@ -1847,7 +1941,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 328516,
       "name": "Kh\u00f4ng Th\u1ec3 Gi\u1eef \u0110\u01b0\u1ee3c Em",
       "url": "https://open.spotify.com/track/2hc79ZvMvnXhTyFL0W0jWU"
@@ -1967,7 +2061,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 330423,
       "name": "Li\u1ec7u R\u1eb1ng Em C\u00f3 Y\u00eau Anh Nh\u01b0 Ph\u00fat Ban \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/2oiAOcL5pH82Ei2xktTI7c"
@@ -2087,7 +2181,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 299127,
       "name": "L\u1eddi Y\u00eau",
       "url": "https://open.spotify.com/track/7bfQOoVOUfIvwezV9xJczb"
@@ -2135,6 +2229,24 @@
       "duration_ms": 129080,
       "name": "Memento",
       "url": "https://open.spotify.com/track/7l4Z5kp4QcGDucsrQjOqML"
+    },
+    {
+      "album": {
+        "name": "Mong",
+        "url": "https://open.spotify.com/album/7Gmg0BRGvR4vPrqhWjz8Mm"
+      },
+      "artists": [
+        {
+          "name": "GUA",
+          "url": "https://open.spotify.com/artist/5Q5ZsD33P3z5ZiVmOC5WMx"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146527,
+      "name": "Mong",
+      "url": "https://open.spotify.com/track/6ng800f3LKOAr1z22zdsTi"
     },
     {
       "album": {
@@ -2393,7 +2505,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 173500,
       "name": "Ng\u1ed3i L\u1ea1i V\u1edbi Anh",
       "url": "https://open.spotify.com/track/75VF8wpPabo5lfNcTQ1lCQ"
@@ -2419,6 +2531,28 @@
       "duration_ms": 213733,
       "name": "Nh\u00e0n Vi",
       "url": "https://open.spotify.com/track/3f2JxiVfRYSIFTmjEYAv6x"
+    },
+    {
+      "album": {
+        "name": "Nh\u1ea7m To R\u1ed3i \u0110\u1ea5y",
+        "url": "https://open.spotify.com/album/2Ql65m5p0u716JqMNE3l84"
+      },
+      "artists": [
+        {
+          "name": "Woni",
+          "url": "https://open.spotify.com/artist/0bTZ4h4TZrOB8cHsqeW0sm"
+        },
+        {
+          "name": "Vy D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/72LLiDCylhkxp2NQnesTAE"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212347,
+      "name": "Nh\u1ea7m To R\u1ed3i \u0110\u1ea5y",
+      "url": "https://open.spotify.com/track/3IRMnNVRLEzCQ6XQ6gz6JO"
     },
     {
       "album": {
@@ -2495,7 +2629,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 165006,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/2zD1M5u0YB60LOu5Ckrdp4"
@@ -2693,6 +2827,28 @@
       "duration_ms": 197000,
       "name": "Ph\u1ea3i L\u00e0m Sao \u0110\u1ec3 N\u00edu K\u00e9o M\u1ed9t Ng\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/6xVsmTJdcTfvPMFWqNzSEs"
+    },
+    {
+      "album": {
+        "name": "Ph\u1ecfng L\u00e0i Em",
+        "url": "https://open.spotify.com/album/6mCDV9l81oZiNhqbGFZT70"
+      },
+      "artists": [
+        {
+          "name": "Daduc",
+          "url": "https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB"
+        },
+        {
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/1k60LRehQ2v5zyNMOjOMqe"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201422,
+      "name": "Ph\u1ecfng L\u00e0i Em",
+      "url": "https://open.spotify.com/track/3sXsa5QYbGMt5xbkP5xjjr"
     },
     {
       "album": {
@@ -3418,6 +3574,24 @@
     },
     {
       "album": {
+        "name": "T\u00ecnh Ca T\u00ecnh Ta",
+        "url": "https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest"
+      },
+      "artists": [
+        {
+          "name": "Kis",
+          "url": "https://open.spotify.com/artist/1oo6xk0t7VOSZ7PJUW1rBj"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175255,
+      "name": "T\u00ecnh Ca T\u00ecnh Ta",
+      "url": "https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh N\u1ed3ng",
         "url": "https://open.spotify.com/album/6QHiqQAgijhNGUqYCWae0t"
       },
@@ -3592,6 +3766,32 @@
     },
     {
       "album": {
+        "name": "V\u01b0\u01a1n T\u1ea7m",
+        "url": "https://open.spotify.com/album/3uD640qhHHPxmPdEFO64WT"
+      },
+      "artists": [
+        {
+          "name": "Jombie",
+          "url": "https://open.spotify.com/artist/4P5sYDkznyMel8jtD0CgE4"
+        },
+        {
+          "name": "DanhKa",
+          "url": "https://open.spotify.com/artist/18QtAQS0QHhSzjlpbasgJe"
+        },
+        {
+          "name": "Bean",
+          "url": "https://open.spotify.com/artist/5f1AcgE40fpMMWEBomGz91"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158964,
+      "name": "V\u01b0\u01a1n T\u1ea7m",
+      "url": "https://open.spotify.com/track/0RtX9Lw9qwwaLDJ6sndmCl"
+    },
+    {
+      "album": {
         "name": "V\u1ea5n V\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/6cBjgnnNKPiMEEcIuJC0V0"
       },
@@ -3763,7 +3963,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 196853,
       "name": "\u00c0 M\u00e0 Th\u00f4i (c\u00f3 ng\u01b0\u1eddi lu\u00f4n n\u00f3i...)",
       "url": "https://open.spotify.com/track/1HkqIHTJikkQWXdS0wRIKp"
@@ -3977,7 +4177,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 223423,
       "name": "\u0110\u1eafm Say",
       "url": "https://open.spotify.com/track/3N5czkNQEpX8zD6MCSsnZ7"

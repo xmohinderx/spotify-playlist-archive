@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 213539,
       "name": "Cartoon People",
       "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 186236,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/4eLpCbcOsnexoLis1mU8JY"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 221826,
       "name": "Horizons Into Battlegrounds",
       "url": "https://open.spotify.com/track/7ALnOij8pO1jJMy8f9Sru5"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 271854,
       "name": "I'm Around (feat. Ariel Posen)",
       "url": "https://open.spotify.com/track/6YEuH4oOA1T7zhfM57Y4dw"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 195480,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/2cDHWddXHOEuKgM5I3Ekjs"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 244214,
       "name": "Moonchild - Lost Version",
       "url": "https://open.spotify.com/track/2hvHPRS8O8BLwuXFZvREdn"
@@ -1784,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "By the Book",
+        "url": "https://open.spotify.com/album/7mwzvVnuhnFaQk0cLbi3A6"
+      },
+      "artists": [
+        {
+          "name": "Partner Look",
+          "url": "https://open.spotify.com/artist/6pgS21Vwch7MeKtpcQCDpJ"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Partner Look",
+      "url": "https://open.spotify.com/track/4HjpvsMriSxh8uGb4HQhab"
+    },
+    {
+      "album": {
         "name": "PDLIF",
         "url": "https://open.spotify.com/album/3jCYZ7RhgLinLls6o0hBQN"
       },
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 236750,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 200466,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 210040,
       "name": "Sleep On The Wing",
       "url": "https://open.spotify.com/track/6A6ELFKSmU4Sgnfem0SyRd"
@@ -2145,7 +2163,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 185901,
       "name": "Somewhere in Chicago",
       "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 171866,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/7srVFtzbY8ok5UFzuN0b8P"
@@ -2408,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
+      },
+      "artists": [
+        {
+          "name": "BEACHPEOPLE",
+          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163259,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
+    },
+    {
+      "album": {
         "name": "Unknown Song",
         "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
       },
@@ -2567,7 +2603,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 195266,
       "name": "Youth",
       "url": "https://open.spotify.com/track/040biVya1wdxHojlYhlcpK"

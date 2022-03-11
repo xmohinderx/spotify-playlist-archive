@@ -2397,7 +2397,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 189795,
       "name": "First Love",
       "url": "https://open.spotify.com/track/1UeVC9gDeHxwlWOQyQJerj"
@@ -2493,10 +2493,36 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 226149,
       "name": "Girl Of My Dreams (with SUGA of BTS)",
       "url": "https://open.spotify.com/track/3XiK4UCAjX9VeDzBA83vCX"
+    },
+    {
+      "album": {
+        "name": "Fighting Demons (Extended Edition)",
+        "url": "https://open.spotify.com/album/7qFlJdLo0I0sQrphIweCvC"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226149,
+      "name": "Girl Of My Dreams (with SUGA of BTS)",
+      "url": "https://open.spotify.com/track/78D1UYKRWkVEZpYc5xZbbg"
     },
     {
       "album": {
@@ -2537,7 +2563,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 149524,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/1Y84lXBGSuri3tDPUkFwXT"
@@ -4601,7 +4627,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 283235,
       "name": "M\u1ed9t Khi \u0110\u00e3 Y\u00eau",
       "url": "https://open.spotify.com/track/0bTmdKwQ8xb0Xbvizt2GMy"
@@ -6593,7 +6619,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"

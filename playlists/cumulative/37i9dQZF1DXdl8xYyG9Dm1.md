@@ -2,7 +2,7 @@
 
 ### [No Wahala](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
-> The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=SSgpy2JnRyujmu9ty\_3Hzg"> Zoocci Coke Dope  </a>
+> The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=hJQ0CAbaS9KgbIgYL\-4\_UA"> Boj </a>  and  <a href="https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL?si=GWyPZvSVQ0yIjkCmjx1UZg"> ENNY </a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4222,6 +4222,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/60MVEOKz4pVB7JKdHUyFyp"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164397,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/4Z3C4gdBVL8INjfDkUviNn"
+    },
+    {
+      "album": {
         "name": "Walk Me Home",
         "url": "https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3"
       },

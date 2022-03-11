@@ -1778,6 +1778,36 @@
     },
     {
       "album": {
+        "name": "The Detour (Live)",
+        "url": "https://open.spotify.com/album/162gBk3kJC26sMRB8SBZh5"
+      },
+      "artists": [
+        {
+          "name": "FAITHFUL",
+          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+        },
+        {
+          "name": "Tamar Chipp",
+          "url": "https://open.spotify.com/artist/0aTfN6w6p8VWNWDyDVuCBu"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401813,
+      "name": "The Detour - Live",
+      "url": "https://open.spotify.com/track/7MXheyD5Stj50XiDpzzxmE"
+    },
+    {
+      "album": {
         "name": "This Is A Move (Live)",
         "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,268 likes - 17 songs - 1 hr 1 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,269 likes - 17 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 9 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 |
 | 10 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 |
 | 11 | [Care](https://open.spotify.com/track/01WVhnWgcISq2mIimBywbV) | [Ódú](https://open.spotify.com/artist/5J0S0VMJPab8FUbu3vJ2ds) | [Care](https://open.spotify.com/album/5jgVpT4qJ2buE9VAxVrT5G) | 3:06 |
-| 12 | [Head On Fire \(feat\. Sigrid, King Princess and MO\)](https://open.spotify.com/track/1Vk3kWl25pHmu9rpBjiXUa) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Head On Fire \(feat\. Sigrid, King Princess and MO\)](https://open.spotify.com/album/040A4Iccs7D0tP1vQz1ow6) | 3:31 |
+| 12 | [Head On Fire \(feat\. Sigrid, King Princess and MØ\)](https://open.spotify.com/track/1Vk3kWl25pHmu9rpBjiXUa) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head On Fire \(feat\. Sigrid, King Princess and MØ\)](https://open.spotify.com/album/040A4Iccs7D0tP1vQz1ow6) | 3:31 |
 | 13 | [Home To You](https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Home To You](https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah) | 3:23 |
 | 14 | [Hey Joe \(Relax\)](https://open.spotify.com/track/0Dz1uM6PvaTyhcyFfr8mOo) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Hey Joe \(Relax\)](https://open.spotify.com/album/33LCWNQAlYHoT2JgYIiZwe) | 3:31 |
 | 15 | [Free](https://open.spotify.com/track/5ElKpGyfFnVfIpi3XJSYXA) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Free](https://open.spotify.com/album/3EM9mYQ4QWCsoTznru1Da7) | 4:05 |

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Adicta al Perreo",
+        "url": "https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170228,
+      "name": "Adicta al Perreo",
+      "url": "https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa"
+    },
+    {
+      "album": {
         "name": "Al Tiempo",
         "url": "https://open.spotify.com/album/2s0S6lQrbEyKsjRoosKIg3"
       },
@@ -546,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Ruise\u00f1ora",
+        "url": "https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210700,
+      "name": "Florence",
+      "url": "https://open.spotify.com/track/5ZBumKfXdJ84jIbCrKTo7Y"
+    },
+    {
+      "album": {
         "name": "Flow Calle",
         "url": "https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6"
       },
@@ -557,7 +593,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 182500,
       "name": "FLOW CALLE",
       "url": "https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr"
@@ -777,7 +813,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 148800,
       "name": "La Sentada",
       "url": "https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ"
@@ -1251,7 +1287,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 249035,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST"
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 148361,
       "name": "Vete",
       "url": "https://open.spotify.com/track/48drpTVrcQ3z9jgWW1zIAa"

@@ -2050,6 +2050,24 @@
     },
     {
       "album": {
+        "name": "Vibe Doesn't Lie",
+        "url": "https://open.spotify.com/album/0h5cShxWVXZL92q4IlDwP2"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8r Fekre",
+          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198222,
+      "name": "Vibe Doesn't Lie",
+      "url": "https://open.spotify.com/track/5sQ8edicOdj8xHNP0bIfx2"
+    },
+    {
+      "album": {
         "name": "Wait for You (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F"
       },

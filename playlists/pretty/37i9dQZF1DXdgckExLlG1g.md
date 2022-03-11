@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,954 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,238 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 26 | [Nobody \(feat\. Matthew West\)](https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:26 |
 | 27 | [Another In The Fire \- Live](https://open.spotify.com/track/33zmnhKQpbGq73yKcLP9El) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 6:33 |
 | 28 | [Build My Life](https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 8:11 |
-| 29 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/54R96NOT7fbYVTv8nyDSeU) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 7:29 |
+| 29 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/54R96NOT7fbYVTv8nyDSeU) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 7:29 |
 | 30 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 |
 | 31 | [Who Am I](https://open.spotify.com/track/74KwjCkAAb7eL1CPt86mux) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Who Am I](https://open.spotify.com/album/72CV1DFqBoUQL4acaFuN2R) | 3:27 |
 | 32 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |

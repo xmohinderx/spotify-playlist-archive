@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Ronisia",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Rema",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "C'est mort",
+        "url": "https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "C'est mort",
+      "url": "https://open.spotify.com/track/3QFUkZtiiFUNSOxsHBjf6r"
+    },
+    {
+      "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/2az0xXjyvJVPfNZfSTlMA8"
       },
@@ -497,7 +515,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 150066,
       "name": "Dans la sauce",
       "url": "https://open.spotify.com/track/0auHcOjJqevDw665HOHpma"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 182360,
       "name": "Doudou Chou",
       "url": "https://open.spotify.com/track/4HOxCDCw4oQWjc7sVub1vp"
@@ -769,6 +787,28 @@
       "duration_ms": 189600,
       "name": "Drip",
       "url": "https://open.spotify.com/track/7xszz5UCYmmLxuzqCAi9x0"
+    },
+    {
+      "album": {
+        "name": "D\u00e9gaine (feat. Damso)",
+        "url": "https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210958,
+      "name": "D\u00e9gaine (feat. Damso)",
+      "url": "https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN"
     },
     {
       "album": {
@@ -924,6 +964,28 @@
     },
     {
       "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199322,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
       },
@@ -987,10 +1049,32 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 205142,
       "name": "Intentionally - Remix",
       "url": "https://open.spotify.com/track/1uEgtxDYgAkGMwTxc4dOAA"
+    },
+    {
+      "album": {
+        "name": "Italy (feat. Blaq Diamond)",
+        "url": "https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp"
+      },
+      "artists": [
+        {
+          "name": "Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188395,
+      "name": "Italy (feat. Blaq Diamond)",
+      "url": "https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8"
     },
     {
       "album": {
@@ -1074,6 +1158,28 @@
     },
     {
       "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
       },
@@ -1089,7 +1195,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
@@ -1115,6 +1221,24 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "album": {
+        "name": "O'bosso, Vol. 2 (Afro Swing Don Edition)",
+        "url": "https://open.spotify.com/album/3FgQafXs5a8qM9ZuhUF4RH"
+      },
+      "artists": [
+        {
+          "name": "Sifoor",
+          "url": "https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "M\u00e9lodie",
+      "url": "https://open.spotify.com/track/2kDTpQZdRcBVNXJVyVePAy"
     },
     {
       "album": {
@@ -1477,7 +1601,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 200869,
       "name": "Shakara",
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"

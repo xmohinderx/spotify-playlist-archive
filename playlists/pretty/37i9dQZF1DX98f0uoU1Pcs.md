@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt  & Indie\. Cover: SASAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,585 likes - 116 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,728 likes - 116 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

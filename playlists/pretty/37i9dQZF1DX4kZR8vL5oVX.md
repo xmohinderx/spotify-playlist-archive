@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Emma Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,302 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,416 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 31 | [Réalité](https://open.spotify.com/track/2jnfIMlWapCy5eO7m8iL8G) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [Réalité](https://open.spotify.com/album/0gVVWlJiJTix19KYXqvZxu) | 2:55 |
 | 32 | [Madame](https://open.spotify.com/track/1RypAUmIezUusIQAhVa4TI) | [Joan](https://open.spotify.com/artist/20HBqtcn4rfcwf2xxMUFWT) | [Madame](https://open.spotify.com/album/00gEkQlA4SQJ0FVhJap0Qn) | 3:00 |
 | 33 | [Pollen \(feat\. Cherise\)](https://open.spotify.com/track/3HVjNBDs8PRXMclq0IBfJO) | [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl), [Cherise](https://open.spotify.com/artist/2JMDnm5V61Jz2R82pS5FGU) | [Loom](https://open.spotify.com/album/2yE69eZMIvVSfPqKBm1WoZ) | 3:07 |
-| 34 | [Je vais où ?](https://open.spotify.com/track/102YVOv8wIIePMdEBPhs5G) | [Charlie Pâle](https://open.spotify.com/artist/4vLNru2peAiI2pwqn3kisP) | [Je vais où ?](https://open.spotify.com/album/2fAtb1FYpvbno5XzcDckpD) | 3:27 |
-| 35 | [À chaque pas](https://open.spotify.com/track/3HOZ5spzZVsmCfQncUlncG) | [Õ C'EST NOUS](https://open.spotify.com/artist/0IzB1ub5ovEuxkmUErYxVI) | [À chaque pas](https://open.spotify.com/album/661IS58GHtqFZTFOoLkIQJ) | 2:28 |
-| 36 | [Solo](https://open.spotify.com/track/3VFvo73siTyfeWd6ptwcuc) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Solo](https://open.spotify.com/album/1HZhkCDK3MNbD8x71EMTpi) | 3:15 |
-| 37 | [Âmes perdues](https://open.spotify.com/track/7CzSmCeVfEuOOSJd4xGNZz) | [Ms Nani](https://open.spotify.com/artist/3v4uE7Ruoy8tAVjAbTQfam) | [Âmes perdues](https://open.spotify.com/album/3Cl3xC8nRBwuV8V0fqOcp1) | 3:18 |
-| 38 | [Paris mon amour](https://open.spotify.com/track/4VzSJbx1aqcgYpIpJLwdCj) | [Hélène in Paris](https://open.spotify.com/artist/1YJLzVJxhBan1jiLDMFEHG) | [Paris mon amour](https://open.spotify.com/album/7rCOnvSFBTC2pUdiBFYBD6) | 2:48 |
-| 39 | [Tout est dans la tête](https://open.spotify.com/track/4MKF41gmAtOsWPNCZG7j9X) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB) | [Tout est dans la tête](https://open.spotify.com/album/64JBHHIx8wi2qq2LziyKCj) | 2:38 |
-| 40 | [C'est mort](https://open.spotify.com/track/3QFUkZtiiFUNSOxsHBjf6r) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [C'est mort](https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP) | 2:55 |
-| 41 | [Plus Baby](https://open.spotify.com/track/1DjzGlWUA4AduQzk9nvIQk) | [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [Plus Baby](https://open.spotify.com/album/4iqtEhV66DkiVqis7WTTZN) | 1:39 |
-| 42 | [Partout](https://open.spotify.com/track/02sGdgawjvohUO5otZVLJC) | [Loïse](https://open.spotify.com/artist/3nmiCKhHVrYLvdhBs37t4c) | [Partout](https://open.spotify.com/album/17Ame1SOeGU7yk5IO1UDkx) | 2:58 |
-| 43 | [Attitude](https://open.spotify.com/track/1zW25Se23I0uTcWmGYX2Bn) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [Attitude](https://open.spotify.com/album/2VERuAVfuoI1c00QCphgCP) | 2:06 |
-| 44 | [Petite nana part\. 2 \- Pas assez](https://open.spotify.com/track/2e7EzawNlKorVzkYZlZp4h) | [AMALIA](https://open.spotify.com/artist/49Dd1MWoMus30BFKrzBSLZ) | [Petite nana part\. 2 \(Pas assez\)](https://open.spotify.com/album/5koHMtPdEnNMPTfFvVarkx) | 2:28 |
-| 45 | [Joli garçon](https://open.spotify.com/track/3zrAAVYcZpN8ad9Jb0zTTC) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Joli garçon](https://open.spotify.com/album/4mnW1TSXosJqJ6BE04EbQo) | 3:09 |
-| 46 | [Attention](https://open.spotify.com/track/46VFLQzhpwhat0AzMCMmJq) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Attention](https://open.spotify.com/album/5udh7GyWrPLiv7JoLuWCx7) | 2:40 |
-| 47 | [Jamil](https://open.spotify.com/track/2MvqCQTl07Huom2Pe7q27j) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [Jamil](https://open.spotify.com/album/4XiU2LfImF1TJ15LCGH7mq) | 3:05 |
-| 48 | [Olala](https://open.spotify.com/track/02dHcRQqE0k3JHTQDQfo7Q) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Latcho Drom](https://open.spotify.com/album/6oeh4BGAJEkNtwWfscT3wr) | 2:50 |
-| 49 | [Billy](https://open.spotify.com/track/61YosbilovTgnqTh4MD5Jm) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Billy](https://open.spotify.com/album/0menNtBYwpWsHi5mlXNl4R) | 3:12 |
-| 50 | [Arawak Uhuru](https://open.spotify.com/track/4A4LGBkODlCn0IIWnj3Iiy) | [Sélène Saint\-Aimé](https://open.spotify.com/artist/5kWK4UGTuzfbsWpOdGnEzs) | [Arawak Uhuru](https://open.spotify.com/album/06NxNPiXDkXBJn5WxR65u0) | 3:58 |
+| 34 | [À chaque pas](https://open.spotify.com/track/3HOZ5spzZVsmCfQncUlncG) | [Õ C'EST NOUS](https://open.spotify.com/artist/0IzB1ub5ovEuxkmUErYxVI) | [À chaque pas](https://open.spotify.com/album/661IS58GHtqFZTFOoLkIQJ) | 2:28 |
+| 35 | [Solo](https://open.spotify.com/track/3VFvo73siTyfeWd6ptwcuc) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Solo](https://open.spotify.com/album/1HZhkCDK3MNbD8x71EMTpi) | 3:15 |
+| 36 | [Âmes perdues](https://open.spotify.com/track/7CzSmCeVfEuOOSJd4xGNZz) | [Ms Nani](https://open.spotify.com/artist/3v4uE7Ruoy8tAVjAbTQfam) | [Âmes perdues](https://open.spotify.com/album/3Cl3xC8nRBwuV8V0fqOcp1) | 3:18 |
+| 37 | [Paris mon amour](https://open.spotify.com/track/4VzSJbx1aqcgYpIpJLwdCj) | [Hélène in Paris](https://open.spotify.com/artist/1YJLzVJxhBan1jiLDMFEHG) | [Paris mon amour](https://open.spotify.com/album/7rCOnvSFBTC2pUdiBFYBD6) | 2:48 |
+| 38 | [Tout est dans la tête](https://open.spotify.com/track/4MKF41gmAtOsWPNCZG7j9X) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB) | [Tout est dans la tête](https://open.spotify.com/album/64JBHHIx8wi2qq2LziyKCj) | 2:38 |
+| 39 | [C'est mort](https://open.spotify.com/track/3QFUkZtiiFUNSOxsHBjf6r) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [C'est mort](https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP) | 2:55 |
+| 40 | [Plus Baby](https://open.spotify.com/track/1DjzGlWUA4AduQzk9nvIQk) | [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [Plus Baby](https://open.spotify.com/album/4iqtEhV66DkiVqis7WTTZN) | 1:39 |
+| 41 | [Partout](https://open.spotify.com/track/02sGdgawjvohUO5otZVLJC) | [Loïse](https://open.spotify.com/artist/3nmiCKhHVrYLvdhBs37t4c) | [Partout](https://open.spotify.com/album/17Ame1SOeGU7yk5IO1UDkx) | 2:58 |
+| 42 | [Attitude](https://open.spotify.com/track/1zW25Se23I0uTcWmGYX2Bn) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [Attitude](https://open.spotify.com/album/2VERuAVfuoI1c00QCphgCP) | 2:06 |
+| 43 | [Petite nana part\. 2 \- Pas assez](https://open.spotify.com/track/2e7EzawNlKorVzkYZlZp4h) | [AMALIA](https://open.spotify.com/artist/49Dd1MWoMus30BFKrzBSLZ) | [Petite nana part\. 2 \(Pas assez\)](https://open.spotify.com/album/5koHMtPdEnNMPTfFvVarkx) | 2:28 |
+| 44 | [Joli garçon](https://open.spotify.com/track/3zrAAVYcZpN8ad9Jb0zTTC) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Joli garçon](https://open.spotify.com/album/4mnW1TSXosJqJ6BE04EbQo) | 3:09 |
+| 45 | [Attention](https://open.spotify.com/track/46VFLQzhpwhat0AzMCMmJq) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Attention](https://open.spotify.com/album/5udh7GyWrPLiv7JoLuWCx7) | 2:40 |
+| 46 | [Jamil](https://open.spotify.com/track/2MvqCQTl07Huom2Pe7q27j) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [Jamil](https://open.spotify.com/album/4XiU2LfImF1TJ15LCGH7mq) | 3:05 |
+| 47 | [Olala](https://open.spotify.com/track/02dHcRQqE0k3JHTQDQfo7Q) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Latcho Drom](https://open.spotify.com/album/6oeh4BGAJEkNtwWfscT3wr) | 2:50 |
+| 48 | [Billy](https://open.spotify.com/track/61YosbilovTgnqTh4MD5Jm) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Billy](https://open.spotify.com/album/0menNtBYwpWsHi5mlXNl4R) | 3:12 |
+| 49 | [Arawak Uhuru](https://open.spotify.com/track/4A4LGBkODlCn0IIWnj3Iiy) | [Sélène Saint\-Aimé](https://open.spotify.com/artist/5kWK4UGTuzfbsWpOdGnEzs) | [Arawak Uhuru](https://open.spotify.com/album/06NxNPiXDkXBJn5WxR65u0) | 3:58 |
 
-Snapshot ID: `MTY0NjY5NDAwMCwwMDAwMDA2ZjAwMDAwMTdmNjY5YzY2MGIwMDAwMDE3ZjI3ZTY2ZGJj`
+Snapshot ID: `MTY0NjkxMTIzNywwMDAwMDA3MDAwMDAwMTdmNzM4ZjJkM2UwMDAwMDE3ZjI3ZTY2ZGJj`

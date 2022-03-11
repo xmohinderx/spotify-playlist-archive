@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > <a href="https://bit.ly/FestivalEqualColombia">Festival EQUAL en venta 3/11, 9am AQUÍ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,647 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,734 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 2 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 |
 | 3 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
 | 4 | [Ruiseñora](https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/2TCFGGgfl6tV6TEonST3Jm) | 3:43 |
-| 5 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 |
+| 5 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 |
 | 6 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 7 | [Por Infiel](https://open.spotify.com/track/6kA6ItJcRJTQK3XkZqnEy1) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Por Infiel](https://open.spotify.com/album/0eHJV4b2FT7jGtLZG1VQ4H) | 2:46 |
 | 8 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
@@ -28,18 +28,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 18 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 |
 | 19 | [De Fuego](https://open.spotify.com/track/6WmA8K4fywCoN70Z4YmdiT) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [De Fuego](https://open.spotify.com/album/2t7K8A7GcSuiEG0Q3fMqW1) | 3:03 |
 | 20 | [Perro Es Perro](https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Perro Es Perro](https://open.spotify.com/album/3PXimCd1eMcfJFCAfCy9gC) | 2:51 |
-| 21 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
-| 22 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 |
-| 23 | [Demasiao](https://open.spotify.com/track/61BQX0yQEUUTWlYZg1CxBY) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Demasiao](https://open.spotify.com/album/3ErfNfpKjlVaavyhWc4MG2) | 2:46 |
-| 24 | [Corazón Ruidoso](https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Corazón Ruidoso](https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS) | 3:17 |
-| 25 | [Vete](https://open.spotify.com/track/48drpTVrcQ3z9jgWW1zIAa) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Vete](https://open.spotify.com/album/6DNZha5d4L1k6IYOtRaC7g) | 2:28 |
-| 26 | [Me Duele](https://open.spotify.com/track/2srklBkaBf5cCIeVCmyZso) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Me Duele](https://open.spotify.com/album/5rnykaeDDoPwOTG0e6PuKN) | 3:10 |
-| 27 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 |
-| 28 | [Ganas](https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Ganas](https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD) | 3:01 |
-| 29 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
-| 30 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
-| 31 | [Niebla](https://open.spotify.com/track/44kB5zEuaAbUxdfruJ6xRL) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q) | [Niebla](https://open.spotify.com/album/2Tl3JRmsdLG1nOg5rOE47x) | 2:46 |
-| 32 | [La Sentada](https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Más Canciones Crudas](https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV) | 2:28 |
+| 21 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 |
+| 22 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 23 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 |
+| 24 | [Demasiao](https://open.spotify.com/track/61BQX0yQEUUTWlYZg1CxBY) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Demasiao](https://open.spotify.com/album/3ErfNfpKjlVaavyhWc4MG2) | 2:46 |
+| 25 | [Corazón Ruidoso](https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Corazón Ruidoso](https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS) | 3:17 |
+| 26 | [Florence](https://open.spotify.com/track/5ZBumKfXdJ84jIbCrKTo7Y) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN) | 3:30 |
+| 27 | [Me Duele](https://open.spotify.com/track/2srklBkaBf5cCIeVCmyZso) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Me Duele](https://open.spotify.com/album/5rnykaeDDoPwOTG0e6PuKN) | 3:10 |
+| 28 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 |
+| 29 | [Ganas](https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Ganas](https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD) | 3:01 |
+| 30 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
+| 31 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
+| 32 | [Niebla](https://open.spotify.com/track/44kB5zEuaAbUxdfruJ6xRL) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q) | [Niebla](https://open.spotify.com/album/2Tl3JRmsdLG1nOg5rOE47x) | 2:46 |
 | 33 | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/track/1p0wuVjISHjF45zzjvVBJ5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/album/6In5wZ5nybOTglfJc5740c) | 3:37 |
 | 34 | [Aquello](https://open.spotify.com/track/19jPCXbSmUU5pFmYCZl1NN) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Aquello](https://open.spotify.com/album/61QtJjPRIjhMRHGFToskyk) | 3:06 |
 | 35 | [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 64 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 |
 | 65 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MTY0Njg1OTAwMCwwMDAwMDA0NjAwMDAwMTdmNzA3MjE5MjkwMDAwMDE3ZjZmODEzZDZh`
+Snapshot ID: `MTY0NjkyODcxMCwwMDAwMDA0ODAwMDAwMTdmNzQ5OWNhNzQwMDAwMDE3ZjZmODEzZDZh`

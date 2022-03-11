@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 
 > The most exciting new Latin artists and tracks, handpicked by our curators featuring Chavi Leons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,958 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,969 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 | 29 | [cuando llega la noche](https://open.spotify.com/track/2TghtDAOjl0jMPzi69MRLU) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [cuando llega la noche](https://open.spotify.com/album/7sDuY9YxEf4X0eIUXnAw6K) | 3:10 |
 | 30 | [Tu Weekend](https://open.spotify.com/track/2cvXq5nN4hoUxIwIsnd9tv) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Tu Weekend](https://open.spotify.com/album/1Er5uQwx2dA0WGZuBHOooU) | 2:28 |
 
-Snapshot ID: `MTY0MjYyNDkwOSwwMDAwMDAyZTAwMDAwMTdlNzQxMzAwNTIwMDAwMDE3ZTZkYzVhNTc1`
+Snapshot ID: `MTY0Njk0NTYxOCwwMDAwMDAyZjAwMDAwMTdmNzU5YmNhY2IwMDAwMDE3ZTZkYzVhNTc1`

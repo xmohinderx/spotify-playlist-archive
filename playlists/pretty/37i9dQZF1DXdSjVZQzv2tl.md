@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Marília Mendonça, Maiara & Maraisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,312,305 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,313,605 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 25 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 |
 | 26 | [Zero Saudade \- Ao Vivo](https://open.spotify.com/track/1oIqP923yBKV45IaXm5s14) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 05](https://open.spotify.com/album/1WrwJGau8eVMIdryUdhBW4) | 3:04 |
 | 27 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 |
-| 28 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 |
-| 29 | [Expectativa x Realidade](https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:43 |
-| 30 | [Você Beberia Ou Não Beberia?](https://open.spotify.com/track/4P7IXYPAkinTdZrBF5bGWp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Você Beberia Ou Não Beberia?](https://open.spotify.com/album/4MnS96VNoS7DYDfaEieteG) | 2:34 |
-| 31 | [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 |
-| 32 | [Nota de Repúdio \- Ao Vivo](https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Nota de Repúdio \(Ao Vivo\)](https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0) | 2:44 |
-| 33 | [Dá Intimidade Pra Ver \- Ao Vivo](https://open.spotify.com/track/0j8nXyOr5UXWHqy0BBnZ6L) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 2](https://open.spotify.com/album/0nSCmDQ8GRpsu4sAKKhaBM) | 2:23 |
+| 28 | [Dá Intimidade Pra Ver \- Ao Vivo](https://open.spotify.com/track/0j8nXyOr5UXWHqy0BBnZ6L) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 2](https://open.spotify.com/album/0nSCmDQ8GRpsu4sAKKhaBM) | 2:23 |
+| 29 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 |
+| 30 | [Expectativa x Realidade](https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:43 |
+| 31 | [Você Beberia Ou Não Beberia?](https://open.spotify.com/track/4P7IXYPAkinTdZrBF5bGWp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Você Beberia Ou Não Beberia?](https://open.spotify.com/album/4MnS96VNoS7DYDfaEieteG) | 2:34 |
+| 32 | [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 |
+| 33 | [Nota de Repúdio \- Ao Vivo](https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Nota de Repúdio \(Ao Vivo\)](https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0) | 2:44 |
 | 34 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 |
 | 35 | [Esse Barulho](https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pra Ouvir Tomando uma 3, Vol\. 1](https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m) | 2:24 |
 | 36 | [Motel Afrodite](https://open.spotify.com/track/2Rlde4R776iKtqODzVhMEM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Motel Afrodite](https://open.spotify.com/album/5NbuHCJlpaeH6g0h1ahYDj) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 |
 | 50 | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ) | 3:38 |
 
-Snapshot ID: `MTY0NjM2MjgwMCwwMDAwMDFjNjAwMDAwMTdmNTJkZWIwNDAwMDAwMDE3ZjUxZjA3Mzc3`
+Snapshot ID: `MTY0Njk0NTEyMywwMDAwMDFjNzAwMDAwMTdmNzU5NDNiMzUwMDAwMDE3ZjUxZjA3Mzc3`

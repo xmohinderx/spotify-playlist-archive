@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres mexicanas a todo volumen\. En portada: Espacios Vacíos
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,288 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,289 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 26 | [Pendejo](https://open.spotify.com/track/3xF8OfSDLDwAJvDxB2Psuz) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Lo Que Me Haces Sentir](https://open.spotify.com/album/7KhylKVPFvw83sag5eROHg) | 3:22 |
 | 27 | [lejos](https://open.spotify.com/track/468P3jbD6jfzkUqNik8BbF) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:22 |
 | 28 | [TEMPTED](https://open.spotify.com/track/2YBrff2aJ6VywZ3QmZeDWp) | [Le Ra](https://open.spotify.com/artist/48qMM7J4at63DHV5hqHZfY) | [TEMPTED](https://open.spotify.com/album/2Xrg8btsqMfQzkwJdnDSx2) | 3:45 |
-| 29 | [El Alma](https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [El Alma](https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU) | 2:55 |
-| 30 | [Mi País Es una Idea](https://open.spotify.com/track/25HJCFUKKP6plZ0t3eGKwk) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Mi País Es una Idea](https://open.spotify.com/album/4HqhK9n6LnGOViKdVOsWrZ) | 3:59 |
-| 31 | [Coloreados](https://open.spotify.com/track/4xTRFvJjTUIP0dhpeAtlod) | [Valeria Wolf](https://open.spotify.com/artist/5joEmKt500RsmlJCu92buW) | [Entre las Nubes](https://open.spotify.com/album/45hPMFRq9vlgFnAaP1FeIR) | 4:30 |
-| 32 | [Descifrarte](https://open.spotify.com/track/4SdiJN1LS9oooEwjTICY0V) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Descifrarte](https://open.spotify.com/album/1Tx6FMKPLoxacLUqVlaQ1Y) | 2:35 |
+| 29 | [Mujer del Desierto](https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Mujer del Desierto](https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG) | 3:30 |
+| 30 | [El Alma](https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [El Alma](https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU) | 2:55 |
+| 31 | [Mi País Es una Idea](https://open.spotify.com/track/25HJCFUKKP6plZ0t3eGKwk) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Mi País Es una Idea](https://open.spotify.com/album/4HqhK9n6LnGOViKdVOsWrZ) | 3:59 |
+| 32 | [Coloreados](https://open.spotify.com/track/4xTRFvJjTUIP0dhpeAtlod) | [Valeria Wolf](https://open.spotify.com/artist/5joEmKt500RsmlJCu92buW) | [Entre las Nubes](https://open.spotify.com/album/45hPMFRq9vlgFnAaP1FeIR) | 4:30 |
 | 33 | [Anestesia](https://open.spotify.com/track/3gWes8gpaT8XOMLrr9eGyd) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Anestesia](https://open.spotify.com/album/0BdNIWzUx5QaG7VyfXE6QY) | 4:21 |
 | 34 | [Peligrosa](https://open.spotify.com/track/5Z2oavX9IYRo89zkEcQyfU) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Peligrosa](https://open.spotify.com/album/3vMbBMkyIp30HrEUycFRuA) | 2:50 |
 | 35 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [Año](https://open.spotify.com/track/6TQ8NdTRsfYskVVo6HOcj9) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Año](https://open.spotify.com/album/1ay3xlJFeazqynt9bQdNu4) | 4:11 |
 | 50 | [Así Quererte](https://open.spotify.com/track/6R0loMKQKrNks1IJUoBVxj) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Así Quererte](https://open.spotify.com/album/79eykvhKVzBuco5sbnwvRF) | 3:27 |
 
-Snapshot ID: `MTY0NjcxOTIwMCwwMDAwMDA3YjAwMDAwMTdmNjgxY2ViN2MwMDAwMDE3ZjQ2NGMxMGQ2`
+Snapshot ID: `MTY0NjkyMDk2MCwwMDAwMDA3YzAwMDAwMTdmNzQyMzhhMGIwMDAwMDE3ZjQ2NGMxMGQ2`

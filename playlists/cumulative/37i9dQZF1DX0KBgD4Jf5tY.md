@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
-> La scena italiana indipendente, senza etichette di genere\. Cover: LNDFK
+> La scena italiana indipendente, senza etichette di genere\. Cover: Popa
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | [4 SU 4](https://open.spotify.com/track/5uru01hwqZY2v2mu3eMMmU) | [SCICCHI](https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639) | [4 SU 4](https://open.spotify.com/album/4V8nzdCFJnS5p5FYfZQfaF) | 2:29 | 2022-02-24 |  |
 | [A voc ro padron](https://open.spotify.com/track/2qZdZw7wAo6URlj1j0edfJ) | [Thru Collected](https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Discomoneta](https://open.spotify.com/album/5FzsFijou9m3iNCAxSdYMj) | 3:19 | 2022-02-17 |  |
 | [ACQUA PROFUMATA](https://open.spotify.com/track/5bNJ35mNrzTp1MftpvCbAe) | [Bunny](https://open.spotify.com/artist/1kD26ZMhnNJKKLue3H6ozN), [Alakaij](https://open.spotify.com/artist/13Wq01zgpv97VHEmOnDn8x) | [ACQUA PROFUMATA](https://open.spotify.com/album/3zHM3AhTG7oQ0AwflrgH6g) | 2:29 | 2022-01-06 | 2022-02-25 |
-| [acquagelida](https://open.spotify.com/track/24E8butpKRhwGgKC7V3ZDB) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [acquagelida](https://open.spotify.com/album/1Ttp18CYvAkfuhKWdV1tsg) | 2:45 | 2022-03-03 |  |
+| [acquagelida](https://open.spotify.com/track/24E8butpKRhwGgKC7V3ZDB) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [acquagelida](https://open.spotify.com/album/1Ttp18CYvAkfuhKWdV1tsg) | 2:45 | 2022-03-03 | 2022-03-11 |
 | [Ahmed](https://open.spotify.com/track/6NdGOuJv5GJrRJv8vBDdhk) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Ahmed](https://open.spotify.com/album/3Axokv5DEMeXWwkpMTvz4c) | 4:01 | 2022-02-17 | 2022-03-04 |
 | [AlberoNelBosco](https://open.spotify.com/track/2IkcJSWmeYejS0KmW7OhyG) | [Alberi Alti](https://open.spotify.com/artist/1I7RPyc2iQvqwHX1XDymUf) | [AlberoNelBosco](https://open.spotify.com/album/6HwUBCVstCnWjWuyJN743P) | 2:41 | 2022-03-03 |  |
 | [Amore & Basilico](https://open.spotify.com/track/78hcD0Q5T73Gt40eJaAYPK) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [Amore & Basilico](https://open.spotify.com/album/6R2P1SPissX76SM5E4TC74) | 3:01 | 2022-02-17 | 2022-02-24 |
@@ -76,7 +76,7 @@
 | [Nero su bianco](https://open.spotify.com/track/1P765i7kqOAIjzogNwdiIy) | [odi](https://open.spotify.com/artist/0JhZ3b81FZgNfACXkGqtYO) | [Nero su bianco](https://open.spotify.com/album/3v8tyDAANdtkzM2YQbb1h2) | 2:33 | 2022-01-06 | 2022-02-18 |
 | [NEVADA](https://open.spotify.com/track/73B45b4tXShxsfQqZXwUUG) | [ROVINE](https://open.spotify.com/artist/5dqt1aybo79BVxFCO2XlhY) | [NEVADA](https://open.spotify.com/album/4XQ9SEbz9V0UHbQwQg3zGw) | 2:07 | 2022-02-24 |  |
 | [Neve \(Anna\)](https://open.spotify.com/track/0LzyUSqnn9Q3CCAlYMwCIr) | [Sesto](https://open.spotify.com/artist/0fokPR9msQyhEmGUX3Xlyn) | [Neve \(Anna\)](https://open.spotify.com/album/5z1jU8K6WMGL3T1GlAXHT2) | 4:00 | 2022-01-06 | 2022-02-18 |
-| [Niente da perdere](https://open.spotify.com/track/4pxiSyhs25gJcimiS6RJeb) | [Cleo](https://open.spotify.com/artist/0hrn9NVoYL7JIJASsYwODZ) | [Niente da perdere](https://open.spotify.com/album/3401AVbriMGB3NlScDU6kw) | 2:28 | 2022-03-03 |  |
+| [Niente da perdere](https://open.spotify.com/track/4pxiSyhs25gJcimiS6RJeb) | [Cleo](https://open.spotify.com/artist/0hrn9NVoYL7JIJASsYwODZ) | [Niente da perdere](https://open.spotify.com/album/3401AVbriMGB3NlScDU6kw) | 2:28 | 2022-03-03 | 2022-03-11 |
 | [Nodi con l'aria](https://open.spotify.com/track/2WNEMn4HwcHZgwIgyYh8sK) | [Jaga](https://open.spotify.com/artist/7AAFYgSxErhteV58nPph6R), [Pablo Limo](https://open.spotify.com/artist/6F1d50yG3dGin8FEb2LVoM) | [Nodi con l'aria](https://open.spotify.com/album/7gLr6ao4XsuLoGfTEWkjQ9) | 2:43 | 2022-01-06 | 2022-02-18 |
 | [Noel](https://open.spotify.com/track/7uCZxxuboDL3pkLQXotlSN) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Noel](https://open.spotify.com/album/0M0lG6rXhTmsCNS0SOgEdf) | 3:52 | 2022-01-06 | 2022-02-18 |
 | [Noia](https://open.spotify.com/track/0z0yhn5LrYtWfVBAhK8ovm) | [Amsi](https://open.spotify.com/artist/1YTas8G2Maqo3Md0AcBgc7), [Sguardo](https://open.spotify.com/artist/6TAgUHWLzkgQs8fSmOKmJf), [Saphire](https://open.spotify.com/artist/50B0pXrR3itWYwZu68HNy1) | [Noia](https://open.spotify.com/album/4hLbwV7dLUnizmWCR83rSk) | 2:56 | 2022-02-17 | 2022-03-04 |

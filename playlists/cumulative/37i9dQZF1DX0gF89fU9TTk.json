@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 181422,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/4TU5I4gmEwDjcOuEAMCBQB"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 166405,
       "name": "BETTER WITH YOU",
       "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 235580,
       "name": "Break Out - Studio Single",
       "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Candid Heart",
       "url": "https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 200324,
       "name": "Earth",
       "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "Fall to My Knees",
+        "url": "https://open.spotify.com/album/0llF4ILcbfcL42C7CNtmGr"
+      },
+      "artists": [
+        {
+          "name": "Marshall Marshall",
+          "url": "https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Fall to My Knees",
+      "url": "https://open.spotify.com/track/5x0YfwtrTBCxjVuiVuW7fw"
+    },
+    {
+      "album": {
         "name": "Lionheart (Deluxe)",
         "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
       },
@@ -479,7 +497,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 291000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/3HBJo3avOKynYfKIfTecjX"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 194335,
       "name": "Found in You",
       "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 171546,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 307559,
       "name": "Grip of Grace",
       "url": "https://open.spotify.com/track/1krkicizq4r7FIsqYiTjwo"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 208733,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Higher Than Mine (Remix)",
       "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 212998,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 154305,
       "name": "It's Coming",
       "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 439714,
       "name": "Just Want You - Live",
       "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Louder",
       "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 183600,
       "name": "Love Me Like You",
       "url": "https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/5yqIFVBn9Ra40WuXhpMEFf"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 181598,
       "name": "Not Too Far",
       "url": "https://open.spotify.com/track/1UAZPeZdpFFYa8wanZCj1H"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 119381,
       "name": "not too late.",
       "url": "https://open.spotify.com/track/0VAkL9cdPYTFe5IEP17Rrt"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 162894,
       "name": "Phenomena (DA DA) - Live",
       "url": "https://open.spotify.com/track/5SU08C7u2nFFZ10QyvI8RO"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 212520,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 208866,
       "name": "Stand Firm",
       "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 210355,
       "name": "Take up My Cross",
       "url": "https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 276006,
       "name": "You Are Here (Studio)",
       "url": "https://open.spotify.com/track/567dVhDLaA5Opwh557ZSAo"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 209088,
       "name": "You Loved Me First",
       "url": "https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 172404,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6QtP7JPUMeDNxo1YMeh2wX"

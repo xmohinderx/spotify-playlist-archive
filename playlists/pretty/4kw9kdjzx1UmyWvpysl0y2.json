@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128231,
+  "num_followers": 128243,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzI5Myw0OTZkNGEyMWQyZTdlYWJhNWMyYzljY2ZiMDIwNGY4MDUwY2ZjMDdl",
+  "snapshot_id": "MzI5NSwwYjFmYzVhNjE3ZmMwMzRmZWMzOWZlNWRkN2YxYWUxZTBiMGIwZTZj",
   "tracks": [
+    {
+      "added_at": "2022-03-10 17:14:50",
+      "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu"
+    },
     {
       "added_at": "2022-03-09 17:22:18",
       "album": {
@@ -1119,26 +1135,6 @@
       "duration_ms": 186562,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4mqPjnIz3jSsDY7SaNIISD"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Good Feeling",
-        "url": "https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK"
-      },
-      "artists": [
-        {
-          "name": "More Plastic",
-          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

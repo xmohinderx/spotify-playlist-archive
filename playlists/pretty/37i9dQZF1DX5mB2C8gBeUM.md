@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\.  Artist: BRELAND
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,128 likes - 134 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,257 likes - 134 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

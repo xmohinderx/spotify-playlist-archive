@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 165186,
       "name": "Candilejas",
       "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 170733,
       "name": "Conozco La Verdad",
       "url": "https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 186573,
       "name": "Cuando Me Vaya",
       "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
@@ -739,6 +739,24 @@
       "duration_ms": 179520,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
+    },
+    {
+      "album": {
+        "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
+        "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Y Su Trio Perla Negra",
+          "url": "https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136693,
+      "name": "Desesperadamente",
+      "url": "https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl"
     },
     {
       "album": {
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 162453,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/6gcdKxZrZIVYoqnmJJK0eV"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 153946,
       "name": "Estoy Enamorado",
       "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 205480,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/0TU7x7BKZSg71PuAzIFtzW"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 198146,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 187466,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Mis Flores Negras",
       "url": "https://open.spotify.com/track/1DKrP39HB4ueM45U5h4hUT"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 161250,
       "name": "No",
       "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 178224,
       "name": "No Me Quieras Tanto (Bolero)",
       "url": "https://open.spotify.com/track/427gTQ1L5cTv9OtKNC13aE"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 154120,
       "name": "Perla Negra",
       "url": "https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 196533,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 177866,
       "name": "Un Siglo de Ausencia - Remasterizado",
       "url": "https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl"

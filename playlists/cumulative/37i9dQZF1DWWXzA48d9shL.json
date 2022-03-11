@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 117394,
       "name": "a mosh pit love story",
       "url": "https://open.spotify.com/track/5Q7JUXXghzKqPPS2IrJK8O"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 89795,
       "name": "Blood ELF",
       "url": "https://open.spotify.com/track/0XFMhwndvKbkGzgZBpIVg8"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 101262,
       "name": "Blow",
       "url": "https://open.spotify.com/track/2zVgPURwEBzRhmvoO8GyO4"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "BRAINZ!",
       "url": "https://open.spotify.com/track/14XeM4oZP7kFUxTK1mMDIK"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 141519,
       "name": "BUSTER",
       "url": "https://open.spotify.com/track/7fm5r6dD04emTplbHD5wDP"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 158267,
       "name": "CITGO",
       "url": "https://open.spotify.com/track/5BuR2U9HrzaKkdSji56MFs"
@@ -706,6 +706,24 @@
     },
     {
       "album": {
+        "name": "Crooked Smile",
+        "url": "https://open.spotify.com/album/6jaoIy9JvvgLYs0OvMzkvx"
+      },
+      "artists": [
+        {
+          "name": "Unaverage Gang",
+          "url": "https://open.spotify.com/artist/7cG98wfpXvT5BwGU85RaOA"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152370,
+      "name": "Crooked Smile",
+      "url": "https://open.spotify.com/track/0yaQ7Erx1XT0U6miw6zpK8"
+    },
+    {
+      "album": {
         "name": "CROWN",
         "url": "https://open.spotify.com/album/3CGqPpv4c2TRMtoGzOP0UL"
       },
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 111233,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/712GtX9zzVa02hfTwKA1Ff"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 123571,
       "name": "EAT SPIT! (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 123552,
       "name": "GHOST OF YOU",
       "url": "https://open.spotify.com/track/3bXLc0fRHfSheyFcNyM0X0"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 155923,
       "name": "GOSHA GOD$",
       "url": "https://open.spotify.com/track/2nSTqsViucYY39diAtHtCE"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "I Think It's Time That I Emerge",
       "url": "https://open.spotify.com/track/4AxnwDsuPBrgXTBqenWTiB"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 177462,
       "name": "IMAGES OF DEATH",
       "url": "https://open.spotify.com/track/6UTnrnfRCB3A2GYMTZh3uw"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 131083,
       "name": "In N Out (feat. TheHxliday & Rico Nasty)",
       "url": "https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 168202,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/5nykfNlQXA0CFJpH0rLDxL"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 113944,
       "name": "NoQuestionsAsked",
       "url": "https://open.spotify.com/track/4hu2iYMj7LAlCsEFbcWTrL"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 132000,
       "name": "NOTHING",
       "url": "https://open.spotify.com/track/4kc2vovUnrGOwWgGZFhsuU"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 190145,
       "name": "Once From Evil",
       "url": "https://open.spotify.com/track/2DzXsSC3wLb1IqD8kI5poM"
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 134068,
       "name": "PIGGY BACK",
       "url": "https://open.spotify.com/track/11TscKLROG8TH1nkMkjIIr"
@@ -2335,7 +2353,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 119980,
       "name": "SILENT ROOM FREESTYLE",
       "url": "https://open.spotify.com/track/6KyLDb7Gh9hpT53KGhFZw9"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 154630,
       "name": "Tarkov",
       "url": "https://open.spotify.com/track/0XkUKsDtftbYFiYf6Yvceo"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 126062,
       "name": "Team",
       "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
@@ -2713,7 +2731,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 124285,
       "name": "UNDER THE FLOOR",
       "url": "https://open.spotify.com/track/35GDPnipCe8z8worRp3rTS"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU8quswnFt3c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU8quswnFt3c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU8quswnFt3c)
 
-### [EQUAL Global ](https://open.spotify.com/playlist/3TXysNwtd1S3VfurcX4SUk)
+### [EQUAL Global ](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 > Listen to women from all over the world, at full volume\. Cover: Avril Lavigne
 

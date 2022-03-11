@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: Olivia Hye(LOONA))) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
+  "description": "Chillout to the coolest Korean acoustic tunes. (Cover: \bSwan(\uc218\uc548))) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
   "name": "K-Pop Acoustic",
   "published_playlist_ids": [
     "6ycQZelJsg1QvKdkpuvD2Q"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-20",
+      "date_removed": null,
       "duration_ms": 160906,
       "name": "a song i like to sing",
       "url": "https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K"
@@ -269,10 +269,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 261213,
       "name": "Beach Again (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65"
+    },
+    {
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7oZqnesBop8zn4D8QEZFIZ"
+      },
+      "artists": [
+        {
+          "name": "\uce74\ud398\ubaa8\uce74",
+          "url": "https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0"
+        },
+        {
+          "name": "\ubb18\uc218",
+          "url": "https://open.spotify.com/artist/6pngmJoXCOOg9nzhR7ezjF"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172103,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/45EAhyaxuIPCvDtEuTi9yS"
     },
     {
       "album": {
@@ -305,7 +327,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 198822,
       "name": "Best regards",
       "url": "https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic"
@@ -327,6 +349,24 @@
       "duration_ms": 175462,
       "name": "Blue cup",
       "url": "https://open.spotify.com/track/10iDbo5A1SPN384YGLCgp2"
+    },
+    {
+      "album": {
+        "name": "Take care",
+        "url": "https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186441,
+      "name": "Burned out",
+      "url": "https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp"
     },
     {
       "album": {
@@ -471,7 +511,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 298541,
       "name": "Early summer",
       "url": "https://open.spotify.com/track/3VOwTYieX61YALed6ovW5j"
@@ -879,7 +919,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 213800,
       "name": "Headache",
       "url": "https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf"
@@ -955,7 +995,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 263453,
       "name": "How Is Your Night",
       "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
@@ -1197,7 +1237,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 287535,
       "name": "If",
       "url": "https://open.spotify.com/track/0zaHICE67lr13INMJggubW"
@@ -1251,7 +1291,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -1269,7 +1309,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 218000,
       "name": "Just thinking about you",
       "url": "https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB"
@@ -1287,7 +1327,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 248433,
       "name": "Kim Cheolsu Story",
       "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
@@ -1417,7 +1457,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 230373,
       "name": "Love one day - \ud0dc\uc778 Solo Version",
       "url": "https://open.spotify.com/track/6CnucKkMn6oV7kFTkuaUHG"
@@ -1457,7 +1497,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 226083,
       "name": "Maze in the Mirror",
       "url": "https://open.spotify.com/track/2tYA2hPbaJqshY73q15wJz"
@@ -1631,7 +1671,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 181680,
       "name": "OH NONONO",
       "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
@@ -1649,7 +1689,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 287386,
       "name": "Oh, My Sun",
       "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
@@ -1793,7 +1833,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 202826,
       "name": "Reason Why We Have To Break Up",
       "url": "https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv"
@@ -1963,7 +2003,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 194633,
       "name": "So life goes on",
       "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
@@ -2093,7 +2133,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 273333,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF"
@@ -2151,7 +2191,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
@@ -2205,7 +2245,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -2349,7 +2389,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 215353,
       "name": "vacation",
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
@@ -2465,7 +2505,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "want to go to sleep",
       "url": "https://open.spotify.com/track/6h8kbx5JGBhXNaoxlZrtyE"
@@ -2555,7 +2595,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -2573,7 +2613,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 237106,
       "name": "will be happy",
       "url": "https://open.spotify.com/track/2tqwVC2POBU8BrHlzgkRK2"
@@ -2613,7 +2653,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 241470,
       "name": "With me \uc624\ub298\uc774 \uc9c0\ub098\uba74",
       "url": "https://open.spotify.com/track/12NNRxfewZV8ey2qxQv9pa"

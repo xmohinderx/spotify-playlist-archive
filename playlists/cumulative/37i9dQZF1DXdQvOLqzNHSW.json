@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 142626,
       "name": "3000 Miles (Baby Baby)",
       "url": "https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 198511,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 93969,
       "name": "Break it off",
       "url": "https://open.spotify.com/track/5892YX6q8y3Rs9OysF08kv"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 137218,
       "name": "Calico",
       "url": "https://open.spotify.com/track/51qhKBkmjhK6WhrGgHCtTu"
@@ -612,6 +612,24 @@
     },
     {
       "album": {
+        "name": "Entertainment",
+        "url": "https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113258,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs"
+    },
+    {
+      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -695,7 +713,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 238040,
       "name": "Fantasy Theme",
       "url": "https://open.spotify.com/track/2Gw3KDvyrWTuunaEI9fQYm"
@@ -713,7 +731,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "FORCE OF HABIT",
       "url": "https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 188426,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 243560,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/43oLxXiNcylpsTwcyhGkpN"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 199666,
       "name": "Magia",
       "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 183894,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/3MwTZfoEs3bZTqH5FEA61R"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 159859,
       "name": "Stayback",
       "url": "https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 173349,
       "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 181120,
       "name": "Supermodel",
       "url": "https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 227353,
       "name": "Years",
       "url": "https://open.spotify.com/track/3kd9BSkFUN7bQnVTILspFX"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 236337,
       "name": "Youtube2MP3",
       "url": "https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ"

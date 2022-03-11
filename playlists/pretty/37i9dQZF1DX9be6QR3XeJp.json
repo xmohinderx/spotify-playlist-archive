@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists. Cover: CMAT",
-  "num_followers": 19401,
+  "description": "Discover your new favourite artists. Cover: Rachel Chinouriri",
+  "num_followers": 19400,
   "original_name": "RADAR: First Listen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg3Mzc0MCwwMDAwMDAwMGEwZDM0MmNkNmM3OTJjMjcyYTYxNmUyNGNmZmIwNjU5",
+  "snapshot_id": "MTY0Njk2MDI1NywwMDAwMDAwMDY5OTM4YmUyZTVhMDlhOTExYTZhYmQ2MGEwNjQyZDVm",
   "tracks": [
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
     {
       "added_at": "2022-03-04 00:00:00",
       "album": {

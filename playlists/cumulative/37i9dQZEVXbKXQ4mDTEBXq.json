@@ -2428,6 +2428,24 @@
     },
     {
       "album": {
+        "name": "COLLAGE",
+        "url": "https://open.spotify.com/album/6wxmZtLnco0Ett7Hz4TS19"
+      },
+      "artists": [
+        {
+          "name": "Masaki Suda",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257398,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/7eqjbcOZTgZbV0lX2ghtfV"
+    },
+    {
+      "album": {
         "name": "\u8679",
         "url": "https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi"
       },
@@ -2439,7 +2457,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"

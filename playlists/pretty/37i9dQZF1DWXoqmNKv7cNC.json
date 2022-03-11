@@ -1,12 +1,12 @@
 {
   "description": "Mujeres mexicanas a todo volumen. En portada: Espacios Vac\u00edos",
-  "num_followers": 55288,
+  "num_followers": 55289,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxOTIwMCwwMDAwMDA3YjAwMDAwMTdmNjgxY2ViN2MwMDAwMDE3ZjQ2NGMxMGQ2",
+  "snapshot_id": "MTY0NjkyMDk2MCwwMDAwMDA3YzAwMDAwMTdmNzQyMzhhMGIwMDAwMDE3ZjQ2NGMxMGQ2",
   "tracks": [
     {
       "added_at": "2022-03-08 06:00:00",
@@ -461,6 +461,26 @@
       "url": "https://open.spotify.com/track/2YBrff2aJ6VywZ3QmZeDWp"
     },
     {
+      "added_at": "2022-03-10 14:02:40",
+      "album": {
+        "name": "Mujer del Desierto",
+        "url": "https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Mujer del Desierto",
+      "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
+    },
+    {
       "added_at": "2022-03-08 06:00:00",
       "album": {
         "name": "El Alma",
@@ -507,26 +527,6 @@
       "duration_ms": 270535,
       "name": "Coloreados",
       "url": "https://open.spotify.com/track/4xTRFvJjTUIP0dhpeAtlod"
-    },
-    {
-      "added_at": "2022-03-08 06:00:00",
-      "album": {
-        "name": "Descifrarte",
-        "url": "https://open.spotify.com/album/1Tx6FMKPLoxacLUqVlaQ1Y"
-      },
-      "artists": [
-        {
-          "name": "Belmar",
-          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 155402,
-      "name": "Descifrarte",
-      "url": "https://open.spotify.com/track/4SdiJN1LS9oooEwjTICY0V"
     },
     {
       "added_at": "2022-03-08 06:00:00",

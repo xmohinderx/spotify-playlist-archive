@@ -7730,6 +7730,24 @@
     },
     {
       "album": {
+        "name": "NO MIND",
+        "url": "https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172515,
+      "name": "NO MIND",
+      "url": "https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI"
+    },
+    {
+      "album": {
         "name": "Transformers: The Score",
         "url": "https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U"
       },
@@ -12047,6 +12065,44 @@
       "duration_ms": 223943,
       "name": "Voidwalkers",
       "url": "https://open.spotify.com/track/3ZJXI9Fh1mnA5tTx51YNVW"
+    },
+    {
+      "album": {
+        "name": "Vroom (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
+      },
+      "artists": [
+        {
+          "name": "The FaNaTiX",
+          "url": "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237983,
+      "name": "Vroom - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
     },
     {
       "album": {

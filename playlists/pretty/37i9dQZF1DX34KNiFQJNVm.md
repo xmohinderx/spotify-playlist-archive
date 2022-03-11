@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Mc Don Juan e Mari Fernandez, Naiara Azevedo e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,733,255 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733,497 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 61 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 |
 | 62 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 |
 | 63 | [Mec Mec](https://open.spotify.com/track/6LMk94nGtibRaIRThnAt0b) | [Duda Calmon](https://open.spotify.com/artist/6Ckyzaw4WhkMprScmLUvN0), [MC Suh](https://open.spotify.com/artist/2pAmbNN8mzxnBgYwZ4hSSo), [Mariah](https://open.spotify.com/artist/4T320f3JgYZIIYNw6atdlp) | [Mec Mec](https://open.spotify.com/album/0vqPOnYfVXyRbjrAyXFwwI) | 3:26 |
-| 64 | [Lucrando Muito](https://open.spotify.com/track/4FzNnIXm2wizD1PfOPGjdY) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Young World](https://open.spotify.com/artist/3d1ysar0uXRVw452S7UiyW) | [Lucrando Muito](https://open.spotify.com/album/4ebNKfbVeDmNKaku34ypAV) | 3:13 |
+| 64 | [Lucrando Muito](https://open.spotify.com/track/4FzNnIXm2wizD1PfOPGjdY) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Lucrando Muito](https://open.spotify.com/album/4ebNKfbVeDmNKaku34ypAV) | 3:13 |
 | 65 | [Hashtag](https://open.spotify.com/track/5uORZt6h4KcZTx0AHYpGFg) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Hashtag](https://open.spotify.com/album/1YCwdJt8Daolu0SGMUOsXc) | 3:04 |
 | 66 | [Dançando Igual a Anitta](https://open.spotify.com/track/3yVxkR5NP6vcF0Mi5bV6Ig) | [Mc Brunyn](https://open.spotify.com/artist/4wwEIIZHZG4WFy0PfZnKTn), [Dj Huguinho do Banco](https://open.spotify.com/artist/5ni65R3Lu8gNiQEHN6Gspw) | [Dançando Igual a Anitta](https://open.spotify.com/album/3NKrYI8xoLKqAZxsRnPj1R) | 2:05 |
 | 67 | [Preta](https://open.spotify.com/track/3AudQwwa1PG4veNDaUeEjp) | [MC Senna](https://open.spotify.com/artist/4ltBJ2gTEDle49DY0DuWXY), [DJ Neeh Studio FZR](https://open.spotify.com/artist/0FfDXzhw2eytN3zweFrHyD) | [Preta](https://open.spotify.com/album/3c4rfpkO7wgab39l85AZAJ) | 3:33 |

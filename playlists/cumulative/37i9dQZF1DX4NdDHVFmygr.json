@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz"
+    },
+    {
+      "album": {
         "name": "Hickey",
         "url": "https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 200899,
       "name": "Ma Yestahelni",
       "url": "https://open.spotify.com/track/0gfGG3WfawLCBbLf5Pc7ad"
@@ -1258,6 +1276,28 @@
     },
     {
       "album": {
+        "name": "Shoufokan",
+        "url": "https://open.spotify.com/album/6myAHK1XcjWNF7jpygqdXr"
+      },
+      "artists": [
+        {
+          "name": "Mrabet",
+          "url": "https://open.spotify.com/artist/2G8s5OaDf7LQOEebCuSyNH"
+        },
+        {
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143742,
+      "name": "Shoufokan",
+      "url": "https://open.spotify.com/track/1u3sCJM9n7u1IozPcB4GnQ"
+    },
+    {
+      "album": {
         "name": "Sidi Moulay",
         "url": "https://open.spotify.com/album/1tLltIgWzoTlkG51BTOJrL"
       },
@@ -1581,6 +1621,28 @@
       "duration_ms": 199148,
       "name": "\u00c7a tourne dans ma t\u00eate",
       "url": "https://open.spotify.com/track/7zp1weGEkBHmcbLQ0oO4oa"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0639\u0637\u0627\u0631",
+        "url": "https://open.spotify.com/album/2MbkppXbjEYc8lqoesbbbL"
+      },
+      "artists": [
+        {
+          "name": "Abir El Abed",
+          "url": "https://open.spotify.com/artist/0ScO5kFJHQgFnXbB9kZUyN"
+        },
+        {
+          "name": "Abdous",
+          "url": "https://open.spotify.com/artist/47CgjRx30TxbS46UeiOmN7"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157085,
+      "name": "\u0627\u0644\u0639\u0637\u0627\u0631",
+      "url": "https://open.spotify.com/track/5au1F96i52QNxPliCevyxN"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/6OWNwCnpZnna609PoaFgfo)
 
-> LUDMILLA e os maiores hits do país\. O que tá bombando tá aqui.
+> MC Rogerinho e os maiores hits do país\. O que tá bombando tá aqui.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aquelas Coisas](https://open.spotify.com/track/0FqVtQxRD3HsPltldG5v5M) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ) | 2:27 | 2022-01-17 | 2022-01-28 |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2022-01-17 |  |
 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 | 2022-01-20 |  |
-| [Baby Me Atende](https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Baby Me Atende](https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V) | 3:45 | 2022-01-17 |  |
+| [Baby Me Atende](https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Baby Me Atende](https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V) | 3:45 | 2022-01-17 | 2022-03-11 |
 | [Bala Love](https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI) | [Bala Love](https://open.spotify.com/album/1Hr2BJE35v4OYirOAe0hA3) | 3:41 | 2022-01-17 | 2022-02-18 |
 | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 | 2022-02-10 |  |
 | [Bloqueado \- Ao Vivo](https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK) | 2:48 | 2022-01-17 |  |
@@ -32,6 +32,7 @@
 | [Dar uma Namorada \- Ao Vivo](https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 1](https://open.spotify.com/album/1nttpPXU88Llqwed7qJ19a) | 2:09 | 2022-01-17 |  |
 | [Depende](https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Depende](https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li) | 2:36 | 2022-02-03 |  |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 | 2022-01-17 | 2022-02-04 |
+| [Deus É o Meu Guia](https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Deus É o Meu Guia](https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3) | 2:46 | 2022-03-10 |  |
 | [Ela e Ela](https://open.spotify.com/track/5Yu1AOnIzC1tWRJ4U0uW7u) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:48 | 2022-01-17 |  |
 | [Ela me Falou Que Quer Rave](https://open.spotify.com/track/0JdkDCdrhMOaeXjIZdeBXN) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [DJ Nikolas Alves Exclusive](https://open.spotify.com/artist/23buF7CmOZll8oQveAvsut), [DJ Kaioken](https://open.spotify.com/artist/1aQbanZ6xPrOtTYtsMdm3Q), [DJ Gege](https://open.spotify.com/artist/2BvV4u6AUwFCrAriUIo9Sm) | [Ela me Falou Que Quer Rave](https://open.spotify.com/album/7oquoqetiWHdL6JIp7LrEw) | 3:55 | 2022-01-17 | 2022-02-25 |
 | [Esqueça\-Me Se For Capaz](https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 | 2022-01-17 |  |

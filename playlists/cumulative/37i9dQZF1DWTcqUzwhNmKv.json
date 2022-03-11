@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Arch Enemy on top of the biggest Metal playlist!",
+  "description": "Ghost on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
@@ -337,6 +337,28 @@
       "duration_ms": 292735,
       "name": "Construction of Souls",
       "url": "https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8"
+    },
+    {
+      "album": {
+        "name": "Cyberhex",
+        "url": "https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Lindsay Schoolcraft",
+          "url": "https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275247,
+      "name": "Cyberhex",
+      "url": "https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4"
     },
     {
       "album": {
@@ -757,7 +779,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 214134,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4"
@@ -775,7 +797,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 203816,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/52OSF0Q6raA5sTdU5d0eJh"
@@ -865,7 +887,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 188769,
       "name": "If Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/0OzYhueF403FBct7orzGEg"
@@ -1806,6 +1828,24 @@
     },
     {
       "album": {
+        "name": "Unconquered",
+        "url": "https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215053,
+      "name": "Unconquered",
+      "url": "https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8"
+    },
+    {
+      "album": {
         "name": "Under Your Skin",
         "url": "https://open.spotify.com/album/5yh12susUWiXc4kRRfKH5o"
       },
@@ -1875,6 +1915,24 @@
       "duration_ms": 189054,
       "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
       "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348333,
+      "name": "Watcher In The Sky",
+      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
     },
     {
       "album": {
@@ -1983,6 +2041,24 @@
       "duration_ms": 271025,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"
+    },
+    {
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321708,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
     },
     {
       "album": {

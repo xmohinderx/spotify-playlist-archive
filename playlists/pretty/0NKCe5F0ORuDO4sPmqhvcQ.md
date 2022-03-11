@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,447 likes - 36 songs - 1 hr 58 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,447 likes - 37 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 34 | [pieces](https://open.spotify.com/track/5lIOCSamrX9G9BieD9tDl8) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [pieces](https://open.spotify.com/album/052yq9mMuoKXsIQKKk0zzp) | 2:28 |
 | 35 | [Going Home](https://open.spotify.com/track/5AH62IT62TEek7uigczBeR) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Going Home](https://open.spotify.com/album/03idXsvqv5OVZa8srntnH9) | 3:13 |
 | 36 | [Think About It](https://open.spotify.com/track/1yAThAiJFPoKepwK6jiCHd) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Think About It](https://open.spotify.com/album/5mL2ZU969ZAdz9MmyihsvV) | 2:54 |
+| 37 | [Visions \- SUN/MGNETK Remix](https://open.spotify.com/track/1a40njhjzTInmBNuctG47K) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [SUN/MGNETK](https://open.spotify.com/artist/5uQ7vzfqVBvCALRIWehL1Y) | [Visions \(SUN/MGNETK Remix\)](https://open.spotify.com/album/5eHvlXvZBrxxU66x8TyKdx) | 2:35 |
 
-Snapshot ID: `OTU1Nyw4MjQ2NTljMTlhYTE1NjQyNmE3YmQ5NmRkNDMwODI5MDgxZjUwN2E4`
+Snapshot ID: `OTU1OCw3Mjc2OWE0MjdiNzU4MTU5ODZkNGU4YmY5OWFkM2EyYWQ3NzU4YzYw`

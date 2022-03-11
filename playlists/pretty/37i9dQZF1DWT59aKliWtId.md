@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Band of Horses
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,144 likes - 114 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,223 likes - 114 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

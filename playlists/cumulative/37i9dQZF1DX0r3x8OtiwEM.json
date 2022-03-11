@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 348411,
       "name": "4 Lovers",
       "url": "https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 412500,
       "name": "As We Roll",
       "url": "https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 452867,
       "name": "Astronautin",
       "url": "https://open.spotify.com/track/4clBWumKdQ85EDbgYxv3Ow"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 346000,
       "name": "Balloons - Made in Paris Remix",
       "url": "https://open.spotify.com/track/6sHBpR20gmPQmsAiqhbhJe"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 229440,
       "name": "Best of Me - Radio Edit",
       "url": "https://open.spotify.com/track/3nQPkePHredC24hsQBmlbj"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 324000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2021-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 251803,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 400263,
       "name": "Capture Casa",
       "url": "https://open.spotify.com/track/1CRih7VXpMGKLfLT5pKUvt"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 245927,
       "name": "Children",
       "url": "https://open.spotify.com/track/29BtUsMWJTEP34WeAAAK2x"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 343125,
       "name": "CITY OF DUST - 8KAYS Remix",
       "url": "https://open.spotify.com/track/7IssVZDmUwAVXJwYaGGwLQ"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 425608,
       "name": "Deciduous 2022",
       "url": "https://open.spotify.com/track/4RaLwUHOWiLVPOC9CDEzGV"
@@ -2430,6 +2430,24 @@
     },
     {
       "album": {
+        "name": "Emerge As New",
+        "url": "https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM"
+      },
+      "artists": [
+        {
+          "name": "Monvol",
+          "url": "https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310229,
+      "name": "Emerge As New",
+      "url": "https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4"
+    },
+    {
+      "album": {
         "name": "Equilibrium Remixes",
         "url": "https://open.spotify.com/album/4aI6KGvJ7S3ztEAzQIPNfA"
       },
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 414326,
       "name": "Exhilaration",
       "url": "https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 210602,
       "name": "Fading",
       "url": "https://open.spotify.com/track/0BjH7OEBTqqqjX03iBhErp"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 411978,
       "name": "Finale",
       "url": "https://open.spotify.com/track/1wirHkULbAEyUu9G4qGwuR"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 432848,
       "name": "German Spring",
       "url": "https://open.spotify.com/track/16rPiwJp75OWUxBAMVzJQx"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 420876,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/07kw4vqIzRkaoR2JQMiIXK"
@@ -5181,7 +5199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 402126,
       "name": "Musica",
       "url": "https://open.spotify.com/track/4FoH1JTnWMZtciVi1V8ifa"
@@ -5559,7 +5577,7 @@
       ],
       "date_added": "2020-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 286717,
       "name": "No Silence",
       "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
@@ -6149,7 +6167,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 380487,
       "name": "Participants",
       "url": "https://open.spotify.com/track/2nNO3STc1GprRP3GaAxmJA"
@@ -6407,7 +6425,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 257439,
       "name": "Protection",
       "url": "https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL"
@@ -6679,7 +6697,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 284160,
       "name": "Remember (Remix)",
       "url": "https://open.spotify.com/track/0sbbGfPxrNtZnJZVIn11MP"
@@ -7425,7 +7443,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 421621,
       "name": "Smiling Birds",
       "url": "https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L"
@@ -8139,7 +8157,7 @@
       ],
       "date_added": "2020-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 203657,
       "name": "The K\u00e1rm\u00e1n Line",
       "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
@@ -8775,7 +8793,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 405887,
       "name": "Under Dark - Innellea Remix",
       "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
@@ -8859,7 +8877,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 221479,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/5UpFOpt2FnYpgKfmlw2NVf"
@@ -8889,7 +8907,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Unite",
       "url": "https://open.spotify.com/track/3oIybLlADYuhdinp3LB8Ct"
@@ -9325,7 +9343,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 386341,
       "name": "We Are Not Alone",
       "url": "https://open.spotify.com/track/71ty7upWSu5JxHcGfWSENY"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Jasmine Oakley",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Sophia Alexa",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 202495,
       "name": "Beige",
       "url": "https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 183960,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2OXw449ZsYsuPmaaygMwin"
@@ -1047,6 +1047,24 @@
       "duration_ms": 206500,
       "name": "Get Like This",
       "url": "https://open.spotify.com/track/6fHER01tPJ8haziKUojE4C"
+    },
+    {
+      "album": {
+        "name": "Broken Homes, Chandeliers",
+        "url": "https://open.spotify.com/album/36p2cp6mi05tTPhrdpFG1p"
+      },
+      "artists": [
+        {
+          "name": "Cory Noah Mac",
+          "url": "https://open.spotify.com/artist/38AA7bvTxoHgQWHy4vjCJf"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182280,
+      "name": "Girl of the Sea",
+      "url": "https://open.spotify.com/track/3wBcgqM50PvbfRCTnUgoXx"
     },
     {
       "album": {
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 215686,
       "name": "Got to Be Me",
       "url": "https://open.spotify.com/track/4jzmsvqWsewdUgnk8amOBU"
@@ -1314,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Headhouse",
+        "url": "https://open.spotify.com/album/5pEbnALTCdBptZbdFFdoZC"
+      },
+      "artists": [
+        {
+          "name": "Car Boot Sale",
+          "url": "https://open.spotify.com/artist/2hHAEpcLh1gGU2pYJRuhI7"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Headhouse",
+      "url": "https://open.spotify.com/track/777AFuvaol0sCYlpBB2RER"
+    },
+    {
+      "album": {
         "name": "Mazzalean / Headtop Buss From Luss",
         "url": "https://open.spotify.com/album/5OfHvGj353NSGT7bdUVc5h"
       },
@@ -1365,6 +1401,24 @@
       "duration_ms": 202530,
       "name": "Hit and Run",
       "url": "https://open.spotify.com/track/6WeQmowNd1q0jdfuzesWOs"
+    },
+    {
+      "album": {
+        "name": "Home To You",
+        "url": "https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah"
+      },
+      "artists": [
+        {
+          "name": "ABISHA",
+          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203212,
+      "name": "Home To You",
+      "url": "https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ"
     },
     {
       "album": {
@@ -1433,7 +1487,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 240775,
       "name": "Howl",
       "url": "https://open.spotify.com/track/0nrFn1cwR9bzTbtwvWZQ0F"
@@ -1678,6 +1732,32 @@
     },
     {
       "album": {
+        "name": "The Fresh Organic",
+        "url": "https://open.spotify.com/album/3erQdHlfzhMAnwko7Eii5F"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolff",
+          "url": "https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI"
+        },
+        {
+          "name": "Ty Healy",
+          "url": "https://open.spotify.com/artist/2bgmIVNSG1wdRu0GfNmIH1"
+        },
+        {
+          "name": "FFWIH",
+          "url": "https://open.spotify.com/artist/5GySQJuL97QAzc1F0VpgLU"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240064,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/4keoX75UEWCO0wDVhaFIOM"
+    },
+    {
+      "album": {
         "name": "June from the Endz",
         "url": "https://open.spotify.com/album/6vu21GT7hNMpb7M7XIWGvK"
       },
@@ -1910,6 +1990,24 @@
     },
     {
       "album": {
+        "name": "Love Is A Serious Mental Illness",
+        "url": "https://open.spotify.com/album/4N2Iy1aPDWbMIdHXjQTeCq"
+      },
+      "artists": [
+        {
+          "name": "Chilli Jesson",
+          "url": "https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205094,
+      "name": "Love Is A Serious Mental Illness",
+      "url": "https://open.spotify.com/track/4jDYaGsubTxHbvShox1pmm"
+    },
+    {
+      "album": {
         "name": "Love Me No One Else",
         "url": "https://open.spotify.com/album/2iafwBACPywY6IkjqJ7O4k"
       },
@@ -2110,6 +2208,24 @@
     },
     {
       "album": {
+        "name": "MAZE",
+        "url": "https://open.spotify.com/album/1CVa5AEreHMB0Q8Jw6J5IR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Daydreams",
+          "url": "https://open.spotify.com/artist/4qFkuRmeHN8NR8ZPlewCCq"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205119,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/5friHSm0DFDSazNTG4SJ52"
+    },
+    {
+      "album": {
         "name": "Meat Teeth",
         "url": "https://open.spotify.com/album/4Zp4EmO3JWb6iVkkJgded3"
       },
@@ -2254,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/5QsmuXieN3gcsqyc9vk6fp"
+      },
+      "artists": [
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/0pJjHONYVlyB8auE0HlOA5"
+    },
+    {
+      "album": {
         "name": "Mulan",
         "url": "https://open.spotify.com/album/5o9dIQWCjJUKvpupBJI3I6"
       },
@@ -2337,7 +2471,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 222550,
       "name": "Night Wars",
       "url": "https://open.spotify.com/track/0mqpWeKgVJHZ72dM1dHc5d"
@@ -2355,7 +2489,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 155879,
       "name": "Nihilist",
       "url": "https://open.spotify.com/track/79hHhUxnK1slHwz6VSMH7o"
@@ -2380,6 +2514,24 @@
     },
     {
       "album": {
+        "name": "No one Buys me Flowers",
+        "url": "https://open.spotify.com/album/7HIdJewKsdWAVWywvBlPEQ"
+      },
+      "artists": [
+        {
+          "name": "Freya Niamh",
+          "url": "https://open.spotify.com/artist/3zr0aoT5UTCIgCCdvId0cr"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196236,
+      "name": "No one Buys me Flowers",
+      "url": "https://open.spotify.com/track/7uNpGpvrbniaHK9jjng5PN"
+    },
+    {
+      "album": {
         "name": "No Sleep.",
         "url": "https://open.spotify.com/album/46UBRzXRfzpaSNeFSHpSoD"
       },
@@ -2395,6 +2547,24 @@
       "duration_ms": 179277,
       "name": "No Sleep.",
       "url": "https://open.spotify.com/track/5OQKxn1x3NsafzId9kOtkE"
+    },
+    {
+      "album": {
+        "name": "Not Very Well",
+        "url": "https://open.spotify.com/album/3l5uEVnkWgKt5mikHroHCN"
+      },
+      "artists": [
+        {
+          "name": "Tuff Bear",
+          "url": "https://open.spotify.com/artist/7AOmmzhzOjls8I7MoHOUfR"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194288,
+      "name": "Not Very Well",
+      "url": "https://open.spotify.com/track/532Ky6XrRY8La8f4ubAGD6"
     },
     {
       "album": {
@@ -2493,6 +2663,28 @@
       "duration_ms": 160880,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/5WI43hFI8F58HlcIDFpKFK"
+    },
+    {
+      "album": {
+        "name": "P-I-N-T-Y",
+        "url": "https://open.spotify.com/album/7wKs5a6YI3Fj3b0HAv8N3n"
+      },
+      "artists": [
+        {
+          "name": "Pinty",
+          "url": "https://open.spotify.com/artist/0TUhwf3LG9K23fyL6oftFV"
+        },
+        {
+          "name": "Afriqua",
+          "url": "https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188713,
+      "name": "P-I-N-T-Y",
+      "url": "https://open.spotify.com/track/1GpR4DqC2pG7RWAKslyykw"
     },
     {
       "album": {
@@ -2781,7 +2973,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 216986,
       "name": "racing raindrops",
       "url": "https://open.spotify.com/track/4A2Y5ElDIuDT4e4KGLVtcy"
@@ -3001,7 +3193,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 210576,
       "name": "Sick of It",
       "url": "https://open.spotify.com/track/5QXGw1NqlVAkl3DYj9zUcZ"
@@ -3055,7 +3247,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 231823,
       "name": "Slowly Unfold",
       "url": "https://open.spotify.com/track/7lQPodSzW79M3FcbLUcHfB"
@@ -3569,7 +3761,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 200586,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk"

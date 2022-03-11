@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "1PLIK\u00c9140 au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 191984,
       "name": "Daddy chocolat",
       "url": "https://open.spotify.com/track/4IbDTrLxImTJfZePAX2nKB"
@@ -561,6 +561,24 @@
       "duration_ms": 105681,
       "name": "Leo Messi",
       "url": "https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B"
+    },
+    {
+      "album": {
+        "name": "Les gentils bandits / Focus",
+        "url": "https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Les gentils bandits",
+      "url": "https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD"
     },
     {
       "album": {

@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 173333,
       "name": "A Rockin' Good Way (To Mess Around and Fall In Love)",
       "url": "https://open.spotify.com/track/2vbTr48Vc4y4PUEcGYYlvK"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 307360,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0fnTADkpDxvjA3v0Ss5bpb"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 285573,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/3LvwBSqRXnDeTFqxxQcBBY"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 320893,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/2vtIfsm5Qz21bqsHyARoLp"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 245466,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5BG2gxrtwu1OSgXIhm5XEk"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "Come On Eileen - Single Edit",
       "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 352093,
       "name": "Freeway Of Love",
       "url": "https://open.spotify.com/track/0lpIVCLNQRBKffcRRNrHyh"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 201866,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 194618,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/5xGsNXXTu545MWoeuFfjxT"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 205533,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 280000,
       "name": "Let's Go Crazy",
       "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 261893,
       "name": "Let's Hear It for the Boy - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M"
@@ -1967,7 +1967,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 325066,
       "name": "Love Is A Battlefield",
       "url": "https://open.spotify.com/track/06dAFXkgM2OGAkGS3CxpEm"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/1NUDglpwwjYElxi6siVRka"
@@ -2118,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "Mickey: The Very Best Of Toni Basil",
+        "url": "https://open.spotify.com/album/1gFkSr7JzUqVvKcSUk4HeC"
+      },
+      "artists": [
+        {
+          "name": "Toni Basil",
+          "url": "https://open.spotify.com/artist/59hMeIYY3k3NoX54rrVGPv"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253199,
+      "name": "Mickey",
+      "url": "https://open.spotify.com/track/4Gnl12vioGd6lgIjeYcMCl"
+    },
+    {
+      "album": {
         "name": "Fascination!",
         "url": "https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc"
       },
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 253413,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/3Uyxe1fbF4zWSEwy38qgMw"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 236800,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 202640,
       "name": "Respectable",
       "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
@@ -2475,7 +2493,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 222189,
       "name": "Robert De Niro's Waiting",
       "url": "https://open.spotify.com/track/0MXpsn1TiYioFpB0CJ7PDX"
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 236560,
       "name": "Running In The Family - 7\" Version",
       "url": "https://open.spotify.com/track/1pTqpcvO02DUSzdN85loMZ"
@@ -2533,6 +2551,24 @@
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+    },
+    {
+      "album": {
+        "name": "Hold Me in Your Arms",
+        "url": "https://open.spotify.com/album/6g6MQ90r65VqHZlLnmumEE"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "She Wants to Dance with Me",
+      "url": "https://open.spotify.com/track/40RrsR16maAWMtBX6iav7d"
     },
     {
       "album": {
@@ -2843,7 +2879,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
@@ -2915,7 +2951,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 192666,
       "name": "The Lion Sleeps Tonight",
       "url": "https://open.spotify.com/track/1so85Or3C7J0sBnBOucVBA"
@@ -3309,7 +3345,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 184746,
       "name": "Use It Up and Wear It Out - Radio Version",
       "url": "https://open.spotify.com/track/5lm46pyP9yPmoAJnHjgXuW"
@@ -3525,7 +3561,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 273773,
       "name": "You Came",
       "url": "https://open.spotify.com/track/4EA4ybyDidKtkER5IhasZe"
@@ -3633,7 +3669,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 236200,
       "name": "Young Guns (Go for It!)",
       "url": "https://open.spotify.com/track/3PS1Q0c2VNKQMIiUusjlFf"

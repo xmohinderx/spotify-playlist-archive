@@ -1,13 +1,65 @@
 {
   "description": "The latest in gaming music.",
-  "num_followers": 601887,
+  "num_followers": 602121,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjE2OTA3NSwwMDAwMDA1OTAwMDAwMTdmNDc1MmIwMjkwMDAwMDE3Yjg4MGY3MmI3",
+  "snapshot_id": "MTY0NjkzOTA2NSwwMDAwMDA1YjAwMDAwMTdmNzUzN2NjNGYwMDAwMDE3Yjg4MGY3MmI3",
   "tracks": [
+    {
+      "added_at": "2022-03-10 16:06:13",
+      "album": {
+        "name": "Vroom (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
+      },
+      "artists": [
+        {
+          "name": "The FaNaTiX",
+          "url": "https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "duration_ms": 237983,
+      "name": "Vroom - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
+    },
+    {
+      "added_at": "2022-03-10 19:04:25",
+      "album": {
+        "name": "NO MIND",
+        "url": "https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "NO MIND",
+      "url": "https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI"
+    },
     {
       "added_at": "2022-01-05 21:28:14",
       "album": {

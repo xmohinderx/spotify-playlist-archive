@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 219973,
       "name": "Coloring",
       "url": "https://open.spotify.com/track/2FFYeeIB7Vxj5qL8xr7Kd6"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 306773,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/0iByHgOtRyd96SFdlXP2Xc"
@@ -427,6 +427,24 @@
       "duration_ms": 322573,
       "name": "Door",
       "url": "https://open.spotify.com/track/0x82ZV6zf2o5tOXIbN0aCF"
+    },
+    {
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/2JRrzOnU6gIJ8XvIDPpGwj"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257834,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/6kgLcuTv6qe1I3xAKaII8S"
     },
     {
       "album": {
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 271000,
       "name": "I Never",
       "url": "https://open.spotify.com/track/29gtJmxbICNuUU3kaWB38w"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 215320,
       "name": "Knowledge Don't Know - Acoustic",
       "url": "https://open.spotify.com/track/2RoQLWlTjyqHXoJ2gATm9D"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 258426,
       "name": "Our Way to Fall",
       "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 320480,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1UgrF0WoZ4OWvM6RmIVFua"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 323906,
       "name": "The Past And Pending",
       "url": "https://open.spotify.com/track/6PG7uZBvNV3FoWsf9jhVGG"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 475093,
       "name": "Transatlanticism",
       "url": "https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz"

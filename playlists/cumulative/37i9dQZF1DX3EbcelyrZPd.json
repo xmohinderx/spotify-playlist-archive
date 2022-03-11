@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 162499,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1PVPgtJGaVtl3kjetobL9U"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 212668,
       "name": "Fahamu (feat. Jux)",
       "url": "https://open.spotify.com/track/5igVti1pPNwUNYAwNkbp3L"
@@ -964,6 +964,28 @@
     },
     {
       "album": {
+        "name": "First Of All",
+        "url": "https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169848,
+      "name": "Melody (feat. Jaywillz)",
+      "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm"
       },
@@ -1413,6 +1435,24 @@
       "duration_ms": 190506,
       "name": "Party",
       "url": "https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp"
+    },
+    {
+      "album": {
+        "name": "Pepetua",
+        "url": "https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i"
+      },
+      "artists": [
+        {
+          "name": "Nedy Music",
+          "url": "https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169696,
+      "name": "Pepetua",
+      "url": "https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3"
     },
     {
       "album": {

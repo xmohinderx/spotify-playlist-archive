@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > All the new artists and songs to watch in 2022, handpicked by our curators\. Featuring Montell Fish on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,000 likes - 97 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,727 likes - 97 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 96 | [Off Limits](https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Off Limits](https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF) | 2:37 |
 | 97 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 |
 
-Snapshot ID: `MTYzODgxMzg3NywwMDAwMDA1NTAwMDAwMTdkOTBlYjQzNTQwMDAwMDE3ZDcyNzgyZGJm`
+Snapshot ID: `MTY0Njk0NTYxOCwwMDAwMDA1NjAwMDAwMTdmNzU5YmNiMGUwMDAwMDE3ZDcyNzgyZGJm`

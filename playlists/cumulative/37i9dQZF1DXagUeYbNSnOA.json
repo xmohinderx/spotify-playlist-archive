@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 228686,
       "name": "Another",
       "url": "https://open.spotify.com/track/48FXiQqUJeSVd87PfA1Ln2"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 198391,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/57druALZuNFipo15C2uiHQ"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 284797,
       "name": "Culebra",
       "url": "https://open.spotify.com/track/2fvIHtDhA6Z7TgP2elRH70"
@@ -1059,6 +1059,24 @@
       "duration_ms": 188400,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "album": {
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/2fyzQQRxvDzDqt5MNqeyR2"
+      },
+      "artists": [
+        {
+          "name": "NAS$HA",
+          "url": "https://open.spotify.com/artist/29ey2vhNnInUHokNUE4f6k"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/5zeRQAJcD04sWL09bsUwWu"
     },
     {
       "album": {
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 148000,
       "name": "Eto bb",
       "url": "https://open.spotify.com/track/56kjtJJWzQxsXhUXpd49NV"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 223320,
       "name": "Nacer",
       "url": "https://open.spotify.com/track/4GtK7de3lSLbqMdNJb0OJx"
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 236750,
       "name": "Solo Buscamos",
       "url": "https://open.spotify.com/track/0GnAL4xlC9u3nYx7M2qemJ"
@@ -4057,6 +4075,24 @@
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "album": {
+        "name": "Tirita",
+        "url": "https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192167,
+      "name": "Tirita",
+      "url": "https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My"
     },
     {
       "album": {
@@ -4459,6 +4495,24 @@
       "duration_ms": 248793,
       "name": "Ya Nadie Es Fiel",
       "url": "https://open.spotify.com/track/1Kt1y8BzYmySAniktkYOps"
+    },
+    {
+      "album": {
+        "name": "Yo Soy Dios",
+        "url": "https://open.spotify.com/album/2iw7qlG3uOlg6qC56rUJOs"
+      },
+      "artists": [
+        {
+          "name": "KASBEEL",
+          "url": "https://open.spotify.com/artist/1kb0YlRT7t0LIfWZjnxJzt"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227007,
+      "name": "Yo Soy Dios",
+      "url": "https://open.spotify.com/track/587UgJMuHMo92aZiclStcB"
     },
     {
       "album": {

@@ -22784,6 +22784,28 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0pL6pdKpWpvOv7sfjhAy4J"
+      },
+      "artists": [
+        {
+          "name": "Shane Malone",
+          "url": "https://open.spotify.com/artist/7fpylGUyXMAdpnA3K1PBQe"
+        },
+        {
+          "name": "Sprig",
+          "url": "https://open.spotify.com/artist/0jaGYCvtXQKLpEsQjH3cIU"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264473,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3As28sSAJhIJM4eiWsqy0o"
+    },
+    {
+      "album": {
         "name": "Gotta Go - EP",
         "url": "https://open.spotify.com/album/0MKpGkNwiGWjCalVWBmcAM"
       },

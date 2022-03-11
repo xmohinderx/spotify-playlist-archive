@@ -1166,7 +1166,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hot Country Presents:  Best Country Songs of 2020](/playlists/pretty/37i9dQZF1DWYvU2z6HruAo.md)
 - [Hot Hits Canada](/playlists/pretty/37i9dQZF1DWXT8uSSn6PRy.md)
 - [Hot Hits USA](/playlists/pretty/37i9dQZF1DX0kbJZpiYdZl.md)
-- [HOT NOW: Bruses \- Wannabe](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW: Jhay Cortez \- Sensual Bebé](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Hot Rhythmic](/playlists/pretty/37i9dQZF1DWYs83FtTMQFw.md)
 - [Hot Rods & Horror Shows](/playlists/pretty/37i9dQZF1DXb2cYklA89lm.md)
 - [Hours of Ours](/playlists/pretty/54LbSpjd64NjKPUyYAGkNU.md)

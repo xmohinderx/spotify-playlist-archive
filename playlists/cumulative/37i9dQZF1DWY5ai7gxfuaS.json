@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "80486DX",
+        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "80486DX",
+      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
+    },
+    {
+      "album": {
         "name": "A Bellyful of Salt and Spleen",
         "url": "https://open.spotify.com/album/4MuT9lqZBCN7JSDEKuzEOP"
       },
@@ -59,6 +77,24 @@
       "duration_ms": 336513,
       "name": "After You Comes the Flood",
       "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
+    },
+    {
+      "album": {
+        "name": "akuma",
+        "url": "https://open.spotify.com/album/7IPaRdgBOJlUahcAZxvazr"
+      },
+      "artists": [
+        {
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190590,
+      "name": "akuma",
+      "url": "https://open.spotify.com/track/6cr9O3zBVZ2Ityl8EMy890"
     },
     {
       "album": {
@@ -351,7 +387,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 400717,
       "name": "Citadel",
       "url": "https://open.spotify.com/track/3lKhI43QIxljVRKBGANx7d"
@@ -1326,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249979,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+    },
+    {
+      "album": {
         "name": "Terrestrial",
         "url": "https://open.spotify.com/album/5fe8okWl0OMdUWYq2xp8Nz"
       },
@@ -1355,7 +1409,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 546240,
       "name": "The Drone Kingdom",
       "url": "https://open.spotify.com/track/08BEBkWxX4LNCX12gZh6xs"
@@ -1391,7 +1445,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 186136,
       "name": "The Many Faces of Dr. Hubert Malbec",
       "url": "https://open.spotify.com/track/4a1L2czZXPHITIUhyxG18c"

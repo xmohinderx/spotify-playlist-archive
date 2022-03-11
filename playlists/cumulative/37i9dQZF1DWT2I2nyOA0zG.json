@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 196678,
       "name": "Be a Man",
       "url": "https://open.spotify.com/track/4LFL0eNYe5cRNy87Cn6PCl"
@@ -393,10 +393,32 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
     },
     {
       "album": {
@@ -459,7 +481,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 154520,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/4B7sxQLWCgQ6GvZac3Dazz"
@@ -507,7 +529,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
@@ -896,6 +918,28 @@
     },
     {
       "album": {
+        "name": "Make it right",
+        "url": "https://open.spotify.com/album/7xHAbZPPPe4RYh5KCZEutz"
+      },
+      "artists": [
+        {
+          "name": "Tia",
+          "url": "https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp"
+        },
+        {
+          "name": "Onyinye",
+          "url": "https://open.spotify.com/artist/1WATmtsaEqQoF9Kjkzk2w0"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Make it right",
+      "url": "https://open.spotify.com/track/3zZE20LzzHwQzY5KLx7qgf"
+    },
+    {
+      "album": {
         "name": "Mayana",
         "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
       },
@@ -929,10 +973,32 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 313818,
       "name": "Mbwe Mbwe",
       "url": "https://open.spotify.com/track/7d5IXFX7Ubuvl0JuIAdUTO"
+    },
+    {
+      "album": {
+        "name": "First Of All",
+        "url": "https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169848,
+      "name": "Melody (feat. Jaywillz)",
+      "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
     },
     {
       "album": {
@@ -1025,6 +1091,24 @@
       "duration_ms": 225683,
       "name": "My Size",
       "url": "https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177439,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
     },
     {
       "album": {

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "10 Year Plan",
+        "url": "https://open.spotify.com/album/3jT5ErU7lL3hrDYmaQP7GC"
+      },
+      "artists": [
+        {
+          "name": "The Shires",
+          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "A Bar Without You",
+      "url": "https://open.spotify.com/track/3LMtZyNNE558k84LZqWdQG"
+    },
+    {
+      "album": {
         "name": "Girl to Girl",
         "url": "https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A"
       },
@@ -777,7 +795,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"

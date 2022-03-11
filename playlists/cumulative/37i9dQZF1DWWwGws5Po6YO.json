@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-03-09",
   "description": "The women at the forefront of ambient and experimental music. Cover: Mary Lattimore",
   "name": "EQUAL Ambient",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3Cfws2NIwPEctch5DfP3Jy"
+  ],
   "tracks": [
     {
       "album": {
@@ -187,7 +189,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 431187,
       "name": "Canopies",
       "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
@@ -205,7 +207,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
@@ -227,7 +229,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
@@ -377,7 +379,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 835000,
       "name": "Firmamento",
       "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
@@ -561,7 +563,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 1214483,
       "name": "Ingrid",
       "url": "https://open.spotify.com/track/2rEEQZzotPv8knXJxJBEkA"
@@ -604,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Aralkum",
+        "url": "https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Kantubek",
+      "url": "https://open.spotify.com/track/33JnKsodqouVc4032CmMpY"
+    },
+    {
+      "album": {
         "name": "Laurus",
         "url": "https://open.spotify.com/album/34OGnE5tC2Oq8zkmwXhXYS"
       },
@@ -615,7 +635,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 245296,
       "name": "Laurus I",
       "url": "https://open.spotify.com/track/3XMc9dhPe0lRjLL8SNv2Kz"
@@ -637,7 +657,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 434141,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/3szBS8kp9pGEcCWAzD0hI4"
@@ -761,7 +781,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
@@ -916,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Endings",
+        "url": "https://open.spotify.com/album/453CfU95KMlJoM1eUbzjtF"
+      },
+      "artists": [
+        {
+          "name": "Kate Carr",
+          "url": "https://open.spotify.com/artist/7c6D5NGiJJHQt8OW5xYrJ0"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286297,
+      "name": "Once Upon a Rose Coloured Time",
+      "url": "https://open.spotify.com/track/3V6zBmNQftGoF3oXv1tBd3"
+    },
+    {
+      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -927,7 +965,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 231624,
       "name": "Pale Interior",
       "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
@@ -945,7 +983,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 868000,
       "name": "Pipe Inversions",
       "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
@@ -999,7 +1037,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 299666,
       "name": "Satnam Waheguru",
       "url": "https://open.spotify.com/track/56zp6EdRE6UhcArVLKwJGU"
@@ -1039,7 +1077,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
@@ -1057,7 +1095,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 557973,
       "name": "Sleep Cycle",
       "url": "https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ"
@@ -1129,7 +1167,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
@@ -1187,7 +1225,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 291000,
       "name": "Sugar And Air",
       "url": "https://open.spotify.com/track/2CKOPEwdSZtjRxSytQjqyw"
@@ -1263,7 +1301,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
@@ -1328,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Planetary Music : Tokyo Yoga Sleep Meditation 001",
+        "url": "https://open.spotify.com/album/6U5pCWnuIcxvnM0Jzc8RgB"
+      },
+      "artists": [
+        {
+          "name": "Sawako",
+          "url": "https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162790,
+      "name": "uranus de.part",
+      "url": "https://open.spotify.com/track/5M2ggFF9GlaCHhCFAKgk8K"
+    },
+    {
+      "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
@@ -1339,10 +1395,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 544533,
       "name": "Vapor Trails",
       "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
+    },
+    {
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517152,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "album": {
@@ -1419,7 +1493,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 406706,
       "name": "Zhao Hua",
       "url": "https://open.spotify.com/track/7CEvnb86yLcIK9tT6Q3pTm"

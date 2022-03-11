@@ -1044,6 +1044,28 @@
     },
     {
       "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa"
+      },
+      "artists": [
+        {
+          "name": "Barely Legal",
+          "url": "https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol"
+        },
+        {
+          "name": "Jay Browne",
+          "url": "https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Dat Way",
+      "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
+    },
+    {
+      "album": {
         "name": "Dear God (feat. Kevin Gates)",
         "url": "https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH"
       },
@@ -2628,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT"
       },
@@ -3193,6 +3233,24 @@
       "duration_ms": 105826,
       "name": "Spinback",
       "url": "https://open.spotify.com/track/6bsRaxW3vYniwPytZQXZB6"
+    },
+    {
+      "album": {
+        "name": "Spookie Coochie",
+        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
+      },
+      "artists": [
+        {
+          "name": "DOECHII",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168620,
+      "name": "Spookie Coochie",
+      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
     },
     {
       "album": {

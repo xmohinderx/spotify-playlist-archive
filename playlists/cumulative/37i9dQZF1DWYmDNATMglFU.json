@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": " \\m/ ft. poutyface",
+  "description": " \\m/ ft. YUNGBLUD",
   "name": "the locker_",
   "published_playlist_ids": [
     "1cxlMpGMt6Ftx1RJPyoLZS"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 267466,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
@@ -1983,6 +1983,28 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m"
+    },
+    {
+      "album": {
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "LOLO",
+          "url": "https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Miss Jackson (feat. LOLO)",
+      "url": "https://open.spotify.com/track/46Kcradxrva9Dny4lHU1b3"
     },
     {
       "album": {
@@ -2917,6 +2939,24 @@
       "duration_ms": 209093,
       "name": "The Downfall Of Us All",
       "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
+    },
+    {
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "album": {

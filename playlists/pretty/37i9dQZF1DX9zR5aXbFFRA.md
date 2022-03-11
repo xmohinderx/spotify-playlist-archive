@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zR5aXbFFRA.md) - [plain]
 
 > Kick it old school with this playlist of throwback R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,028 likes - 26 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,044 likes - 26 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zR5aXbFFRA.md) - [plain]
 | 10 | [Cheyenne](https://open.spotify.com/track/6nZqNGBqtyulnTY4wULhuo) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Cheyenne](https://open.spotify.com/album/6WaHxmvk6V6ePqcM8hCXqT) | 3:35 |
 | 11 | [Hey \- Original Mix](https://open.spotify.com/track/5iY5fRAjXygxGXSrdMaClO) | [Nightriders](https://open.spotify.com/artist/13eyxWyCnb7bOEoBORUKuo) | [Hey](https://open.spotify.com/album/7fK59Ubv7AUucw9U8L5SGX) | 4:26 |
 | 12 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
-| 13 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 |
+| 13 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 |
 | 14 | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0kF6MdXhjQeYhZ2kogCIsx) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/album/3gUHo30KyBxq9lBS2hnGLW) | 4:02 |
 | 15 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 16 | [Feelin \- Original Mix](https://open.spotify.com/track/744oWcHqeWsMPqmw0Kk3nT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Foreign Language Remixes](https://open.spotify.com/album/7oWCvP7IBEsmna9jgYmHoy) | 6:16 |

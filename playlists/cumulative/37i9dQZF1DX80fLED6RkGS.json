@@ -126,6 +126,28 @@
     },
     {
       "album": {
+        "name": "Amsha Simba",
+        "url": "https://open.spotify.com/album/6Mp15MphwjEzyNppPJeZYO"
+      },
+      "artists": [
+        {
+          "name": "Queen Dillah",
+          "url": "https://open.spotify.com/artist/6Lbw6Ow1smJKEQpNKcKGVj"
+        },
+        {
+          "name": "Katapillah",
+          "url": "https://open.spotify.com/artist/4apoEJxjBuAUWkl8Jesdlj"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Amsha Simba",
+      "url": "https://open.spotify.com/track/0gN1EJ0zugTJje0bT2kasF"
+    },
+    {
+      "album": {
         "name": "Bado",
         "url": "https://open.spotify.com/album/0pw6f0zrr7bWpcwRfgLRKE"
       },
@@ -371,7 +393,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 200412,
       "name": "By Far",
       "url": "https://open.spotify.com/track/2hUTf7f2etnB6EjfsN3OII"
@@ -1028,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Kamkora",
+        "url": "https://open.spotify.com/album/2upMZcAVnGiPWhm346S1a0"
+      },
+      "artists": [
+        {
+          "name": "Cartoon comedian",
+          "url": "https://open.spotify.com/artist/24ZvE7ot2sZ04DUplTKLGl"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152999,
+      "name": "Kamkora",
+      "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
+    },
+    {
+      "album": {
         "name": "Jungle Fever",
         "url": "https://open.spotify.com/album/7m1id3TS0HMpagZ9pdXutI"
       },
@@ -1115,7 +1155,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 280476,
       "name": "Kidole",
       "url": "https://open.spotify.com/track/6Gx5B1YD2bQLUnW7wIBBEE"
@@ -1497,6 +1537,24 @@
       "duration_ms": 224888,
       "name": "Mchecheto",
       "url": "https://open.spotify.com/track/6fg4Pocuv72QdwLN1g16T0"
+    },
+    {
+      "album": {
+        "name": "Mi Sijali",
+        "url": "https://open.spotify.com/album/7aMrVKtB4bjnmGZUAPVy3Y"
+      },
+      "artists": [
+        {
+          "name": "Kuky",
+          "url": "https://open.spotify.com/artist/0xFtlyvRgl0BqBbWYXaHjD"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Mi Sijali",
+      "url": "https://open.spotify.com/track/4psx637Vu7806YieaXQdbZ"
     },
     {
       "album": {
@@ -2795,7 +2853,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 200463,
       "name": "Ushasema",
       "url": "https://open.spotify.com/track/2ZI7wM6AZ7RaH0XHl8rg2K"

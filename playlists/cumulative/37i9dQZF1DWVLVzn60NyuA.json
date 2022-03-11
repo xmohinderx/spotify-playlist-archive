@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 244615,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 190216,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh"
@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "album": {
         "name": "Carefully",
         "url": "https://open.spotify.com/album/1xMLYZmzlVDvMOVhXpArac"
       },
@@ -865,6 +883,24 @@
       "duration_ms": 215573,
       "name": "Check (with RAYE)",
       "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
+    },
+    {
+      "album": {
+        "name": "Chikita Mala",
+        "url": "https://open.spotify.com/album/7xQXeap3WXC7oBzPYRne1K"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Chikita Mala",
+      "url": "https://open.spotify.com/track/5BSdnQ5XmAggtbbH0uccSM"
     },
     {
       "album": {
@@ -2077,7 +2113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 237714,
       "name": "If",
       "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
@@ -3015,7 +3051,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 172248,
       "name": "Move It",
       "url": "https://open.spotify.com/track/4zjA6RlphwqfTkZgtNif92"
@@ -3491,7 +3527,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/0onCpID636LlzqZ1OXJcRk"
@@ -4725,7 +4761,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 238747,
       "name": "Valid\u00e9",
       "url": "https://open.spotify.com/track/35vXOZ12RvGtjyTcVEWlIo"

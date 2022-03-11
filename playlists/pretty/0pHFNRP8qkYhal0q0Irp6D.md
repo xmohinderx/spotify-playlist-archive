@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain]
 
 > You should be dancing, yeah\. \(This ain't your typical disco either...\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 53 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,105 likes - 53 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain]
 | 10 | [Georgy Porgy](https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 4:07 |
 | 11 | [Village People](https://open.spotify.com/track/12DzTyiInzyNg86zrvLI3S) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Village People](https://open.spotify.com/album/3YHUwbFR8X9dNUrd7Ng00q) | 5:08 |
 | 12 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/76DaYoN2BXdu1dZFdw61qj) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Motown 1970s Vol\. 1](https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et) | 3:38 |
-| 13 | [Disco Inferno \- LP / 12" Version](https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Inferno](https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3) | 10:59 |
+| 13 | [Disco Inferno](https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Inferno](https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3) | 10:59 |
 | 14 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1QCnhem4qmDckW4NJWbzi7) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Milk](https://open.spotify.com/album/55GKBSQqo0GgI4JV7SteZI) | 6:34 |
 | 15 | [Hot Shot](https://open.spotify.com/track/2Rqzac3a06NyuGfshyEoel) | [Karen Young](https://open.spotify.com/artist/3vOSs0LEPDM2iCBK99VJzX) | [MAW presents West End Records: The 25th Anniversary Edition Mastermix](https://open.spotify.com/album/4yOqZjPjr8T6oF4K64R5xo) | 8:48 |
 | 16 | [Dancin' Fool](https://open.spotify.com/track/6tCk1N85t6h4v1xXI6o0Ad) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Sheik Yerbouti](https://open.spotify.com/album/4hBKoHOpEvQ6g4CQFsEAdU) | 3:42 |

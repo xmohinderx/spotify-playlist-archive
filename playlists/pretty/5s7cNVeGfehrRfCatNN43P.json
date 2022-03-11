@@ -1,6 +1,6 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10268,
+  "num_followers": 10269,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
@@ -199,7 +199,7 @@
     {
       "added_at": "2022-03-04 08:19:39",
       "album": {
-        "name": "Head On Fire (feat. Sigrid, King Princess and MO)",
+        "name": "Head On Fire (feat. Sigrid, King Princess and M\u00d8)",
         "url": "https://open.spotify.com/album/040A4Iccs7D0tP1vQz1ow6"
       },
       "artists": [
@@ -208,20 +208,20 @@
           "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         },
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        },
-        {
           "name": "King Princess",
           "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         },
         {
           "name": "M\u00d8",
           "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
         }
       ],
       "duration_ms": 211508,
-      "name": "Head On Fire (feat. Sigrid, King Princess and MO)",
+      "name": "Head On Fire (feat. Sigrid, King Princess and M\u00d8)",
       "url": "https://open.spotify.com/track/1Vk3kWl25pHmu9rpBjiXUa"
     },
     {

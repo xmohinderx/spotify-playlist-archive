@@ -2,7 +2,7 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
-> welcome to our universe ft\. scene queen
+> welcome to our universe ft\. sophie powers
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Day I Die](https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 2:57 | 2022-02-12 |  |
 | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/album/2y8j3djW8ZswvAbEcPBBti) | 2:17 | 2021-12-27 | 2022-02-04 |
 | [DEAD FLOWERS](https://open.spotify.com/track/54i9YWj8AnEvj1FhJgVZC4) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DEAD FLOWERS](https://open.spotify.com/album/1RKvRWHyVw3UIfQVuIjcuJ) | 5:01 | 2021-12-27 | 2022-01-19 |
+| [Designer Sadness](https://open.spotify.com/track/68IpwT2OA86fmmSe9YoZS2) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Designer Sadness](https://open.spotify.com/album/49L8p4r6XSZa7SgaKpFGhK) | 2:40 | 2022-03-11 |  |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2021-12-27 |  |
 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 | 2021-12-27 | 2022-01-29 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-12-27 |  |
@@ -50,9 +51,9 @@
 | [Froglake](https://open.spotify.com/track/0PQbOcnO2MwbqvJRQq3ksK) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [Froglake](https://open.spotify.com/album/3u1TiYQgE20HLmiL5uXrTL) | 3:16 | 2021-12-27 | 2022-02-04 |
 | [Fuck the Hollywood Cult](https://open.spotify.com/track/5SoxOODF9bvcb7vEBkG6dz) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Fuck the Hollywood Cult](https://open.spotify.com/album/36CVtGbnMvnZphHX7IiRPJ) | 3:10 | 2021-12-27 | 2022-01-29 |
 | [Gasoline](https://open.spotify.com/track/0CXgZRpMjcbH3gkawYMiPb) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/6RtRtFtUbZihbE5D5yv8eu) | 2:20 | 2022-01-28 | 2022-03-04 |
-| [GET MINE](https://open.spotify.com/track/01pkZKRRRGCcW0EoHxbnDl) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [GET MINE](https://open.spotify.com/album/36KVNZ2nT8UTyqU43WMEty) | 2:50 | 2021-12-27 |  |
+| [GET MINE](https://open.spotify.com/track/01pkZKRRRGCcW0EoHxbnDl) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [GET MINE](https://open.spotify.com/album/36KVNZ2nT8UTyqU43WMEty) | 2:50 | 2021-12-27 | 2022-03-11 |
 | [Girls Can Do Anything](https://open.spotify.com/track/6heGVcEj4wAyvdM9vg81kF) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Girls Can Do Anything](https://open.spotify.com/album/21ZOZVvKJtmGn4OjW8f3wW) | 2:54 | 2022-02-25 |  |
-| [GLUE2](https://open.spotify.com/track/5LGHsa3tFfcM6qc1gUkrhy) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Death Tour](https://open.spotify.com/artist/08ET100WDKcE5HzPSWBJYg) | [GLUE2](https://open.spotify.com/album/0usqoonogsd5ZvTfS7myJM) | 2:55 | 2022-02-25 |  |
+| [GLUE2](https://open.spotify.com/track/5LGHsa3tFfcM6qc1gUkrhy) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Death Tour](https://open.spotify.com/artist/08ET100WDKcE5HzPSWBJYg) | [GLUE2](https://open.spotify.com/album/0usqoonogsd5ZvTfS7myJM) | 2:55 | 2022-02-25 | 2022-03-11 |
 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 | 2021-12-27 |  |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-02-13 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-19 |  |
@@ -100,7 +101,7 @@
 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 | 2021-12-27 | 2022-02-18 |
 | [Pink Bubblegum](https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Bubblegum](https://open.spotify.com/album/70bWJ4nB1AGuDh5hqfZ3pf) | 2:22 | 2021-12-27 | 2022-02-18 |
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-04 |  |
-| [Pink Ski Mask](https://open.spotify.com/track/7uxdFBbvLnYMETZ3l1ALwz) | [Blissful Euphoria](https://open.spotify.com/artist/0CAfE2aA3yXVTOBD9f80VQ) | [Pink Ski Mask](https://open.spotify.com/album/0abrEo7bpHRoAS0mbm4jqy) | 3:52 | 2022-03-04 |  |
+| [Pink Ski Mask](https://open.spotify.com/track/7uxdFBbvLnYMETZ3l1ALwz) | [Blissful Euphoria](https://open.spotify.com/artist/0CAfE2aA3yXVTOBD9f80VQ) | [Pink Ski Mask](https://open.spotify.com/album/0abrEo7bpHRoAS0mbm4jqy) | 3:52 | 2022-03-04 | 2022-03-11 |
 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 |  |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-27 | 2022-01-29 |
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 |  |
@@ -134,6 +135,7 @@
 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 | 2021-12-27 |  |
 | [Vapid Prophecy](https://open.spotify.com/track/50k61EN7BjkLlWyVqqQw6t) | [NEO 10Y](https://open.spotify.com/artist/3G1V2jfTZO61Hs3dX7ilrA) | [Vapid Prophecy](https://open.spotify.com/album/0XVuk4uX8VNlCFbcnMUQ2P) | 2:20 | 2022-02-04 | 2022-03-04 |
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |
+| [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 |  |
 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 | 2022-02-04 | 2022-02-22 |
 | [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 | 2022-02-18 |  |
 | [White Noise](https://open.spotify.com/track/5TMn2Kdm2k6iCufxH2qsxl) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 2:20 | 2022-02-25 |  |

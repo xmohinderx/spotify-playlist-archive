@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Alison Shearer\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,027 likes - 123 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,273 likes - 123 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 76 | [Someday, Somewhere](https://open.spotify.com/track/4tAWL6g4wMFJ20QpjCeIpy) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Someday, Somewhere](https://open.spotify.com/album/0QEeUVA6Ou9xXcQFpbgU6m) | 5:53 |
 | 77 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 |
 | 78 | [First Shot](https://open.spotify.com/track/0Z7XN3qn9QObMAuEBOuB8O) | [Pierre Manetti](https://open.spotify.com/artist/4MN4pIzuUjcY7enfxPEzva), [Christophe Cravero](https://open.spotify.com/artist/1c2wYQGmM8aipjqZQm2wzZ), [Laurent Locuratolo](https://open.spotify.com/artist/5ZKgs9QELqj8p7rMCKHxBy), [Henri Dorina](https://open.spotify.com/artist/3zxBY3Jc6y5vRfeFE3USbk) | [First Shot](https://open.spotify.com/album/26P8mp3NxP8keDbmD3HX1h) | 3:45 |
-| 79 | [These Days](https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g) | [Neo Ark](https://open.spotify.com/artist/2IXkJoRB8TxoiWSRnDuo4I), [Eliana Veinberga](https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO) | [These Days](https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3) | 3:37 |
+| 79 | [These Days](https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g) | [Neo Arc](https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5), [Eliana Veinberga](https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO) | [These Days](https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3) | 3:37 |
 | 80 | [Disquiet](https://open.spotify.com/track/2JYNFnF86VgDyrA229cXY0) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Disquiet](https://open.spotify.com/album/79ev99HB3fqFT8ehYG1n3M) | 5:46 |
 | 81 | [The Standing](https://open.spotify.com/track/6S0vY9DscJfLEtR7rTErhQ) | [Shane Quartet](https://open.spotify.com/artist/4JqnhdEW5b2t3WYilImDsO) | [The Standing](https://open.spotify.com/album/3G8tpvnqHYcf0Cy5yqLB9Y) | 5:09 |
 | 82 | [The End Is The Beginning](https://open.spotify.com/track/2hlKDpl5viEv8jBGXj1fAh) | [Pulse Trio](https://open.spotify.com/artist/06QPGxs7a4EpvnWPEnVtVK) | [The End Is The Beginning](https://open.spotify.com/album/1MODSuHRuGhtdeDMEvv7B5) | 5:16 |

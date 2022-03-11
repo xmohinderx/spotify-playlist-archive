@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 198511,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 251786,
       "name": "Black Rain - Jayda G Remix",
       "url": "https://open.spotify.com/track/2xvaAfj3UwqdVBUT7Y4scx"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 288386,
       "name": "Breathe Deeper - Lil Yachty Remix",
       "url": "https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 279240,
       "name": "Can't Believe It",
       "url": "https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Elasto",
       "url": "https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 216330,
       "name": "FADED",
       "url": "https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 174213,
       "name": "JEWELZ",
       "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
@@ -1193,6 +1193,24 @@
       "duration_ms": 250600,
       "name": "killer tune kills me",
       "url": "https://open.spotify.com/track/2JCdUwmGDO3SBkhwkfRaLr"
+    },
+    {
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO"
     },
     {
       "album": {
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
@@ -1393,10 +1411,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U"
+    },
+    {
+      "album": {
+        "name": "ANGLE",
+        "url": "https://open.spotify.com/album/0uIkLtmXLsNluUtpKszbr6"
+      },
+      "artists": [
+        {
+          "name": "80KIDZ",
+          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+        },
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241757,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/487daYdwjgsdWz8fY6axV2"
     },
     {
       "album": {
@@ -1477,7 +1517,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 228727,
       "name": "Mr. Midas",
       "url": "https://open.spotify.com/track/48l47x2sWBtYKkRqLQJPBs"
@@ -1517,7 +1557,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 265056,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe"
@@ -1535,7 +1575,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 187741,
       "name": "Nina",
       "url": "https://open.spotify.com/track/3EpXvoc1tuppLNAFS1cl0X"
@@ -1557,7 +1597,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 164499,
       "name": "Nintendo",
       "url": "https://open.spotify.com/track/0YHYHb9Rg3IebHaPiU5JAG"
@@ -1609,7 +1649,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 202537,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/2ePrgn0UoboVXWdHLz8rBK"
@@ -1737,7 +1777,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
@@ -1759,7 +1799,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 166200,
       "name": "Romeo (feat. Bas)",
       "url": "https://open.spotify.com/track/5sJFvB6DpUw3hBtGDOFBXE"
@@ -1933,7 +1973,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 258311,
       "name": "Straight Through",
       "url": "https://open.spotify.com/track/7f6Neegr5RGVQlJlBXfFpX"
@@ -1969,7 +2009,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 141374,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
@@ -2115,7 +2155,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 238320,
       "name": "The Boat I Row",
       "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
@@ -2151,7 +2191,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
@@ -2245,7 +2285,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 120022,
       "name": "THINKING",
       "url": "https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM"
@@ -2271,7 +2311,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
@@ -2293,7 +2333,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 259173,
       "name": "Time (feat. Rhye)",
       "url": "https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA"
@@ -2311,7 +2351,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 330022,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/7jaRUZ8V1ilINYddN4wtrB"
@@ -2329,7 +2369,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv"
@@ -2391,7 +2431,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 254120,
       "name": "Unguarded",
       "url": "https://open.spotify.com/track/6k6uRwezixEQx90AGTNFWQ"
@@ -2559,7 +2599,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"
@@ -2581,7 +2621,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 180736,
       "name": "Wonder (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/59nNSdCazna8AwHxfpkGKe"
@@ -2621,7 +2661,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 254124,
       "name": "Yo",
       "url": "https://open.spotify.com/track/4iJrGwqUJjXmxaNVM9SBn0"

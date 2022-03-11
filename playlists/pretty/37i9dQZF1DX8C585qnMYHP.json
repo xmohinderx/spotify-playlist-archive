@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Kai Landre, Artwork: Thami Nabil",
-  "num_followers": 80902,
+  "num_followers": 80979,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg3MzY5NiwwMDAwMDAwMDQ0ZTQ5ZWIzNWQ0NDZlMTMxZDYxMjU0MDlhZDQ2YTRm",
+  "snapshot_id": "MTY0Njk2MDIxNCwwMDAwMDAwMDBkNDhkNDE4YmJiMTA5Njk1YTVkNzEzZjhkMjgyNjgx",
   "tracks": [
     {
       "added_at": "2022-03-09 05:04:44",
@@ -541,6 +541,106 @@
       "url": "https://open.spotify.com/track/2iPNjVElXUUcqTTrMEWLwn"
     },
     {
+      "added_at": "2022-02-02 05:00:00",
+      "album": {
+        "name": "While Mortals Sleep (Original Score)",
+        "url": "https://open.spotify.com/album/0YEWdPkqsw060O3FCFnGdd"
+      },
+      "artists": [
+        {
+          "name": "Danz CM",
+          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
+        }
+      ],
+      "duration_ms": 119500,
+      "name": "Susan's Song",
+      "url": "https://open.spotify.com/track/1Umm64doTOieuo3wskoSs5"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "The Loss of Wilderness",
+        "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
+      },
+      "artists": [
+        {
+          "name": "ILUITEQ",
+          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
+        }
+      ],
+      "duration_ms": 357509,
+      "name": "The Loss of Wilderness",
+      "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "Escape Cape",
+        "url": "https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 265736,
+      "name": "Escape Cape",
+      "url": "https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "Resistance Edited",
+        "url": "https://open.spotify.com/album/6g7AAsjZWDvKU3hyPj6Q9n"
+      },
+      "artists": [
+        {
+          "name": "Pelt",
+          "url": "https://open.spotify.com/artist/1smNHOqVA2rin6rBV9KKFw"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Resistance Edited",
+      "url": "https://open.spotify.com/track/4uizuPJsm4UkfRkRnROvle"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "INTROSPECTIO",
+        "url": "https://open.spotify.com/album/3CigtIBWnb5taxN4nlSFRQ"
+      },
+      "artists": [
+        {
+          "name": "Mario Batkovic",
+          "url": "https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz"
+        },
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "duration_ms": 307826,
+      "name": "CHOREA DUPLEX",
+      "url": "https://open.spotify.com/track/3Nu4GIq6P0HrvzGFmhpGAE"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "Go Oli Go! / Cartoon Smile",
+        "url": "https://open.spotify.com/album/1umRL5inVuZZXc8z6TOpvT"
+      },
+      "artists": [
+        {
+          "name": "Oli XL",
+          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
+        }
+      ],
+      "duration_ms": 262770,
+      "name": "Go Oli Go!",
+      "url": "https://open.spotify.com/track/2sDQP7g2tR7opPnkjxXy6Y"
+    },
+    {
       "added_at": "2022-01-12 05:01:00",
       "album": {
         "name": "Last Boy Picked",
@@ -555,54 +655,6 @@
       "duration_ms": 314000,
       "name": "Roseate",
       "url": "https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
-      },
-      "artists": [
-        {
-          "name": "Syntrovert",
-          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Cuarzo",
-      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
-    },
-    {
-      "added_at": "2022-01-26 05:00:00",
-      "album": {
-        "name": "Outcome",
-        "url": "https://open.spotify.com/album/2hiKJhaCzdDepFJpnwxLws"
-      },
-      "artists": [
-        {
-          "name": "Diana Oliveira",
-          "url": "https://open.spotify.com/artist/1pJeRjACU3qFxh08FZ30ix"
-        }
-      ],
-      "duration_ms": 380116,
-      "name": "The Lights",
-      "url": "https://open.spotify.com/track/0auAFDUUQvCNMGNqAWYGiv"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Acrobatic Thoughts",
-        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
-      },
-      "artists": [
-        {
-          "name": "Panoram",
-          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
-        }
-      ],
-      "duration_ms": 241483,
-      "name": "Z Miles",
-      "url": "https://open.spotify.com/track/0KKUgLDYaYeWYbZFX3WsuO"
     },
     {
       "added_at": "2022-01-12 05:01:00",
@@ -627,82 +679,6 @@
     {
       "added_at": "2022-01-12 05:01:00",
       "album": {
-        "name": "INTROSPECTIO",
-        "url": "https://open.spotify.com/album/3CigtIBWnb5taxN4nlSFRQ"
-      },
-      "artists": [
-        {
-          "name": "Mario Batkovic",
-          "url": "https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz"
-        },
-        {
-          "name": "James Holden",
-          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
-        }
-      ],
-      "duration_ms": 307826,
-      "name": "CHOREA DUPLEX",
-      "url": "https://open.spotify.com/track/3Nu4GIq6P0HrvzGFmhpGAE"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "In The First Leaves",
-        "url": "https://open.spotify.com/album/59RKWDd5KLSkH1Xop5zffz"
-      },
-      "artists": [
-        {
-          "name": "Armbruster",
-          "url": "https://open.spotify.com/artist/0CVYWbFqszUZFuns0Rfu01"
-        }
-      ],
-      "duration_ms": 190190,
-      "name": "In The First Leaves",
-      "url": "https://open.spotify.com/track/5MFAwPynfC4fhF2VBiXaaP"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "A Pale Shelter",
-        "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
-      },
-      "artists": [
-        {
-          "name": "zak\u00e8",
-          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
-        },
-        {
-          "name": "City of Dawn",
-          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
-        },
-        {
-          "name": "Ossa",
-          "url": "https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc"
-        }
-      ],
-      "duration_ms": 344026,
-      "name": "Mourning Shadows We Perish",
-      "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Resolve",
-        "url": "https://open.spotify.com/album/4pF7tseGQhkuckYgzERJAn"
-      },
-      "artists": [
-        {
-          "name": "Alex Albrecht pres. Melqu\u00edades",
-          "url": "https://open.spotify.com/artist/6a5EIjDwMIpnwlOAYNsKxu"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Passage",
-      "url": "https://open.spotify.com/track/7kjCUpu21gf59BusTG7Pxk"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
         "name": "Krasz",
         "url": "https://open.spotify.com/album/6q6jFy6zI7GZaHKltHbiLH"
       },
@@ -717,20 +693,156 @@
       "url": "https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw"
     },
     {
-      "added_at": "2022-02-09 05:00:00",
+      "added_at": "2022-02-16 03:30:56",
       "album": {
-        "name": "In Free Fall",
-        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+        "name": "Frecuencias",
+        "url": "https://open.spotify.com/album/6ZRpYwVvo9cXjBekMTm78o"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
         }
       ],
-      "duration_ms": 432993,
-      "name": "Cataphora",
-      "url": "https://open.spotify.com/track/5Xg7GVHxzbgWeRImMrcASX"
+      "duration_ms": 423314,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/2PrXFWtMzClqhoCcACdfKZ"
+    },
+    {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "Mouse (Leafcutter John Remix)",
+        "url": "https://open.spotify.com/album/0WGWv8wCfHMW02CB4Vfi1x"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        },
+        {
+          "name": "Leafcutter John",
+          "url": "https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r"
+        }
+      ],
+      "duration_ms": 293193,
+      "name": "Mouse - Leafcutter John Remix",
+      "url": "https://open.spotify.com/track/59zFm8hcudKegbmLVRvYtU"
+    },
+    {
+      "added_at": "2022-01-26 05:00:00",
+      "album": {
+        "name": "Coral Dawn",
+        "url": "https://open.spotify.com/album/0qnqq2cJPjLgWRyA8KboQ1"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Coral Dawn",
+      "url": "https://open.spotify.com/track/6fKsCeZfS5MKpNXgu6FGbP"
+    },
+    {
+      "added_at": "2022-02-16 03:30:56",
+      "album": {
+        "name": "Director",
+        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
+      },
+      "artists": [
+        {
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
+        }
+      ],
+      "duration_ms": 129953,
+      "name": "Broken Theme",
+      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
+    },
+    {
+      "added_at": "2022-02-02 05:00:00",
+      "album": {
+        "name": "Sentinel",
+        "url": "https://open.spotify.com/album/5AcGeaCscrU5HPbr4ThUMn"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 326313,
+      "name": "Sentinel",
+      "url": "https://open.spotify.com/track/2SCGxkBzzBxVJxNU7bPovJ"
+    },
+    {
+      "added_at": "2022-01-12 05:01:00",
+      "album": {
+        "name": "Ribbon Bone [Silk Chaser]",
+        "url": "https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky"
+      },
+      "artists": [
+        {
+          "name": "Oli XL",
+          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
+        },
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Ribbon Bone [Silk Chaser]",
+      "url": "https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb"
+    },
+    {
+      "added_at": "2022-02-09 05:00:00",
+      "album": {
+        "name": "Phantom of Eden",
+        "url": "https://open.spotify.com/album/17KovENSr872390SmpvK5l"
+      },
+      "artists": [
+        {
+          "name": "House Of Tapes",
+          "url": "https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Synapse",
+      "url": "https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV"
+    },
+    {
+      "added_at": "2022-02-09 05:00:00",
+      "album": {
+        "name": "Nadir",
+        "url": "https://open.spotify.com/album/33DHhoyznooKJxCel0INHU"
+      },
+      "artists": [
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "duration_ms": 185686,
+      "name": "Solar Polar",
+      "url": "https://open.spotify.com/track/32GoGxcSxMyX9lhfkDlgus"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/6h5PJAUjqtHpbtqecwQlIU"
+      },
+      "artists": [
+        {
+          "name": "JUNES K",
+          "url": "https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Songbook",
+      "url": "https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY"
     },
     {
       "added_at": "2022-01-12 05:01:00",
@@ -751,126 +863,6 @@
       "duration_ms": 284745,
       "name": "Mist & Static",
       "url": "https://open.spotify.com/track/3fy1TdDdHihdwb6HIEnzZ2"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Humanity",
-        "url": "https://open.spotify.com/album/5S2uulm3pnI4KrLBs1Z521"
-      },
-      "artists": [
-        {
-          "name": "Koji Nakamura",
-          "url": "https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N"
-        },
-        {
-          "name": "foodman",
-          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
-        },
-        {
-          "name": "Takashi Numazawa",
-          "url": "https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx"
-        }
-      ],
-      "duration_ms": 106121,
-      "name": "no.1",
-      "url": "https://open.spotify.com/track/7nYaiWO0lXzHvPnTvPljAH"
-    },
-    {
-      "added_at": "2022-01-26 05:00:00",
-      "album": {
-        "name": "A Journey",
-        "url": "https://open.spotify.com/album/3V0YGFc0je36jletTUWoKZ"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/1GIYpjzOEc5P3IYDdFnd1Y"
-    },
-    {
-      "added_at": "2022-02-02 05:00:00",
-      "album": {
-        "name": "The Vanity Project",
-        "url": "https://open.spotify.com/album/2qvaBjZBzfzS6EUOTF9kZr"
-      },
-      "artists": [
-        {
-          "name": "Iceboy Violet",
-          "url": "https://open.spotify.com/artist/2MWAoLoDTgex9peOU2Uc4C"
-        }
-      ],
-      "duration_ms": 304551,
-      "name": "Atone//Blankface",
-      "url": "https://open.spotify.com/track/2JRCY9le2r6uPJUQGNwbu5"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "Resistance Edited",
-        "url": "https://open.spotify.com/album/6g7AAsjZWDvKU3hyPj6Q9n"
-      },
-      "artists": [
-        {
-          "name": "Pelt",
-          "url": "https://open.spotify.com/artist/1smNHOqVA2rin6rBV9KKFw"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Resistance Edited",
-      "url": "https://open.spotify.com/track/4uizuPJsm4UkfRkRnROvle"
-    },
-    {
-      "added_at": "2022-02-02 05:00:00",
-      "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/2AgYzS3FeYcOkR2yady4hQ"
-      },
-      "artists": [
-        {
-          "name": "Pan Daijing",
-          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
-        }
-      ],
-      "duration_ms": 3265068,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/0pl4Id480tDoYfsn0BmA9o"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Gnani",
-        "url": "https://open.spotify.com/album/5d7DwZyHzn7jIYlp7J9eZU"
-      },
-      "artists": [
-        {
-          "name": "Sis",
-          "url": "https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2"
-        }
-      ],
-      "duration_ms": 203891,
-      "name": "Gazelle Rites",
-      "url": "https://open.spotify.com/track/7DqphOA6kAHi4UlYhfEtBM"
-    },
-    {
-      "added_at": "2022-01-12 05:01:00",
-      "album": {
-        "name": "Escape Cape",
-        "url": "https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 265736,
-      "name": "Escape Cape",
-      "url": "https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 260133,
       "name": "Aashiqui Aa Gayi(From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 210681,
       "name": "Distance Love",
       "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
@@ -1012,6 +1012,46 @@
     },
     {
       "album": {
+        "name": "Gangubai Kathiawadi",
+        "url": "https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238103,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK"
+    },
+    {
+      "album": {
+        "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+        "url": "https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248006,
+      "name": "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+      "url": "https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU"
+    },
+    {
+      "album": {
         "name": "Mitti Da Khadona",
         "url": "https://open.spotify.com/album/6CmIt55yhVB3wVTUJ01DyF"
       },
@@ -1023,7 +1063,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 199792,
       "name": "Mitti Da Khadona",
       "url": "https://open.spotify.com/track/1sKxTVQwgjPJj3YT5DcDME"
@@ -1209,6 +1249,28 @@
       "duration_ms": 191239,
       "name": "Najaa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/3swSYkClej6IgR1AWPpzbS"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        },
+        {
+          "name": "M.E.E.Z",
+          "url": "https://open.spotify.com/artist/0EApWAg3HC8VBdCKKGxapM"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211321,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/00qW70gFKPL4vetGsJ44gB"
     },
     {
       "album": {
@@ -1637,7 +1699,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 124498,
       "name": "SPACESHIP",
       "url": "https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d"
@@ -1689,10 +1751,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-11",
       "duration_ms": 186947,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc"
+    },
+    {
+      "album": {
+        "name": "Tabahi",
+        "url": "https://open.spotify.com/album/2Od4IVeYxEW6dVG4KZwRYs"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Tabahi",
+      "url": "https://open.spotify.com/track/3BApUOeS8cihFTyoMKQTVk"
     },
     {
       "album": {

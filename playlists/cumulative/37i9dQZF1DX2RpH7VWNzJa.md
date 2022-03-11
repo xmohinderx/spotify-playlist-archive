@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 | 2021-11-12 | 2022-03-09 |
+| [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 | 2021-11-12 |  |
 | [A cuestas](https://open.spotify.com/track/0RIGC0Kd7LmmjQMZih4w0V) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [A cuestas](https://open.spotify.com/album/7K25pKqNWYeW1jmuM2lJ0D) | 3:14 | 2021-11-12 |  |
 | [Aire](https://open.spotify.com/track/77gQSJlncgT3HWmBfy9CQ9) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3hrl3lXAs1oAfDegWOE4to) | 2:54 | 2021-11-12 |  |
 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 | 2021-11-12 |  |
@@ -20,8 +20,8 @@
 | [Corazón](https://open.spotify.com/track/7eQFb9ZZOOSdkewzAbbwuw) | [Jaime Lorente](https://open.spotify.com/artist/7xHM0B5EaZECFfClTngHl4) | [Corazón](https://open.spotify.com/album/5rETENSUwLes5xtEDFhFze) | 2:58 | 2021-11-12 |  |
 | [Dalí](https://open.spotify.com/track/20BbptvwAiTLTfYBSafptA) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Dalí](https://open.spotify.com/album/77OueE2Wa2jvuLYgLiR75i) | 2:42 | 2021-11-12 |  |
 | [De Vez en Cuando \(Aparece\)](https://open.spotify.com/track/08VP9HBayRpUC20OzFktik) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Botánica](https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc) | 3:00 | 2021-11-12 |  |
-| [Dejarte Ir](https://open.spotify.com/track/1aaQt9QmSCjaXhiu5Ebl7f) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Dejarte Ir](https://open.spotify.com/album/1ErvPibzFOYYaxCu0PgGVt) | 3:10 | 2021-11-12 |  |
-| [Destino](https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Destino](https://open.spotify.com/album/2y2xsvO5g0sSo2ERMlsZNf) | 3:04 | 2021-11-12 |  |
+| [Dejarte Ir](https://open.spotify.com/track/1aaQt9QmSCjaXhiu5Ebl7f) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Dejarte Ir](https://open.spotify.com/album/1ErvPibzFOYYaxCu0PgGVt) | 3:10 | 2021-11-12 | 2022-03-11 |
+| [Destino](https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Destino](https://open.spotify.com/album/2y2xsvO5g0sSo2ERMlsZNf) | 3:04 | 2021-11-12 | 2022-03-11 |
 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 | 2021-11-12 |  |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-11-12 |  |
 | [Egoísmo](https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Egoísmo](https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm) | 3:00 | 2021-11-12 |  |
@@ -65,6 +65,6 @@
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2021-11-12 | 2022-02-28 |
 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 | 2021-11-12 |  |
 | [un niño](https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/2JVdfTCrsfqvlCo43jkelD) | 3:05 | 2021-11-12 |  |
-| [Ya No Es Igual](https://open.spotify.com/track/1jRm8Ajv9u915YwHEyHDV8) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:43 | 2021-11-12 | 2022-03-10 |
+| [Ya No Es Igual](https://open.spotify.com/track/1jRm8Ajv9u915YwHEyHDV8) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:43 | 2021-11-12 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

@@ -4096,6 +4096,24 @@
     },
     {
       "album": {
+        "name": "The Wolf Is In The Peacoat",
+        "url": "https://open.spotify.com/album/67p1Bgut3cEHpDJBTG8NQV"
+      },
+      "artists": [
+        {
+          "name": "Doley Bernays",
+          "url": "https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196325,
+      "name": "The Wolf Is In The Peacoat",
+      "url": "https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/76u3zQBY2oivqY5PYVCoPS"
       },

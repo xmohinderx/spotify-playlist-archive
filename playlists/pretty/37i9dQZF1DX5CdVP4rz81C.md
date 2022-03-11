@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Alec Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,442 likes - 89 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,951 likes - 89 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

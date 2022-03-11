@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
-> The best French indie tracks right now\. Cover: Canine
+> The best French indie tracks right now\. Cover: Miel de Montagne
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
 | [By the Beach](https://open.spotify.com/track/6YTphVWLG14d3eUiQ5grmU) | [Degree](https://open.spotify.com/artist/1WsU8n1hX7sjHqGryYXp1w) | [By the Beach](https://open.spotify.com/album/7DchkXMv3PHncobatgHBzX) | 2:43 | 2021-12-16 | 2022-01-28 |
 | [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 | 2022-01-27 |  |
-| [C'est Dur](https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [C'est Dur](https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO) | 3:44 | 2022-02-17 |  |
+| [C'est Dur](https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [C'est Dur](https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO) | 3:44 | 2022-02-17 | 2022-03-11 |
 | [CAMISOLE](https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [CAMISOLE](https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP) | 3:38 | 2021-12-16 |  |
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2021-12-16 |  |
 | [Cour Des Miracles](https://open.spotify.com/track/1LmmaY7vbIRD5qUnB507lz) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Cour Des Miracles](https://open.spotify.com/album/3OsZbmYBunUMQs3rsglvhr) | 4:06 | 2021-12-16 | 2022-02-25 |
@@ -36,6 +36,8 @@
 | [Insomnie](https://open.spotify.com/track/0T9wtwG6ZJNgeqBBiGrwGK) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Insomnie](https://open.spotify.com/album/7qDXuKVsxawV8fLe9xl8N2) | 2:37 | 2021-12-16 | 2022-02-25 |
 | [It Might Be Something](https://open.spotify.com/track/3MkCJcOcLK0PaYy4QgKpWk) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [It Might Be Something](https://open.spotify.com/album/5gszZPFIhqR8HUiqH4nyMx) | 3:33 | 2021-12-16 | 2022-01-21 |
 | [Keep on Fighting](https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Shake the Disease](https://open.spotify.com/album/57twqWd03Wu5OmvHDHgC3A) | 3:10 | 2022-01-13 | 2022-02-04 |
+| [L'Extase](https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [L'Extase](https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy) | 4:21 | 2022-03-10 |  |
+| [La Baleine](https://open.spotify.com/track/5dO4lKt0Rp4gmzQlMBDepp) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Mama Forgot Her Name Was Miracle](https://open.spotify.com/album/1NAj9wcrGT9kDZLgbgYA8H) | 3:47 | 2022-03-10 |  |
 | [La carioca](https://open.spotify.com/track/6w4Mc2Twjlm1gu6G4Qrqhd) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [La carioca](https://open.spotify.com/album/7p45gGfcSoETX1sww3bcNH) | 3:46 | 2021-12-16 | 2022-01-28 |
 | [La Cigarette](https://open.spotify.com/track/6FaOW5zkj9QtfDSTeHkUCI) | [Clement Bazin](https://open.spotify.com/artist/5CM5PpBzdFwgJmlafK2AEy), [Toro/Azor](https://open.spotify.com/artist/0NQ7aeeE8I1Za3aA6ZatMc), [Le W.](https://open.spotify.com/artist/6obuGcRROtH1We2GkZdvMu) | [La Cigarette](https://open.spotify.com/album/0ARlPPW0bGaasKWzcZC9Px) | 3:12 | 2021-12-16 |  |
 | [La flemme](https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [La flemme](https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV) | 2:47 | 2022-01-13 |  |
@@ -73,7 +75,7 @@
 | [Petit Poucet](https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Petit Poucet](https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap) | 4:12 | 2022-01-27 |  |
 | [Postcards & Letters](https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Postcards & Letters](https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv) | 4:03 | 2021-12-16 |  |
 | [Premier Incendie \- Edit](https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Premier Incendie \(Edit\)](https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv) | 3:01 | 2022-02-17 |  |
-| [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 |  |
+| [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |
 | [Shining Light](https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/0JRHvsV8DdJ2LsdAMl6zBr) | 3:37 | 2021-12-16 |  |
 | [Space Trip](https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt) | [Abel Chéret](https://open.spotify.com/artist/2SA8kSdrElh8uRTa7AnGyL) | [Space Trip](https://open.spotify.com/album/42aPZS0haRwyQbeay0mpOU) | 3:36 | 2021-12-16 |  |
 | [Sun](https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Sun](https://open.spotify.com/album/6Ye7D8ZUSPdSaPIK8dJVgr) | 3:16 | 2022-02-17 |  |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5hL1aT2vhMb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5hL1aT2vhMb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5hL1aT2vhMb)
 
-### [EQUAL: Classical](https://open.spotify.com/playlist/012aSLmowAebrua7OTJ5nZ)
+### [EQUAL: Classical](https://open.spotify.com/playlist/0WktRk73nv0k8V6CAxvsRm)
 
 > Celebrate the great women composers who continue to transform the classical world\. Cover: Olivia Belli
 

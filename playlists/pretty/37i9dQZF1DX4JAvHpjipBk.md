@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Camila Cabello & Ed Sheeran, Machine Gun Kelly, Charli XCX, Dominic Fike, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,871,756 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,871,944 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
