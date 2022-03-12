@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 221213,
       "name": "Below the House",
       "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 317455,
       "name": "come",
       "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 440527,
       "name": "Death Sentences",
       "url": "https://open.spotify.com/track/3yQRnwjNGykbfA4OBj7NNm"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 1078240,
       "name": "East Hastings",
       "url": "https://open.spotify.com/track/5jMuXTa5hECm37P7C0mbIB"
@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 267093,
       "name": "My Blood Still Whispers",
       "url": "https://open.spotify.com/track/2z5V3tZIVIybDqlGa8uHVe"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 302638,
       "name": "My Body Betrayed Me",
       "url": "https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 233719,
       "name": "Shadowplay - 2007 Remaster",
       "url": "https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 237013,
       "name": "She's Lost Control - 2007 Remaster",
       "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 228634,
       "name": "Synthetic Recollections",
       "url": "https://open.spotify.com/track/1ptINfwzu3HEt20AaratNK"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 318786,
       "name": "The Marble Eye",
       "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 250833,
       "name": "Whiskey and Wine",
       "url": "https://open.spotify.com/track/0wbtDWO7BNhYgdBEnHhtFB"

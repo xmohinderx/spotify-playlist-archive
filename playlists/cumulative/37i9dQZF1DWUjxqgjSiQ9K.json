@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Alex Campos y Thalles Roberto",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Miel San Marcos y Gateway Worship Espa\u0144ol",
   "name": "\u00c9xitos Cristianos",
   "published_playlist_ids": [
     "46xuGYmp3nbMhyLwZ3Xj5y"
@@ -61,7 +61,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 319923,
       "name": "A Pesar de M\u00ed feat. Un Coraz\u00f3n, Abby Valdez, Indiomar",
       "url": "https://open.spotify.com/track/7a5QwCpZFgOQpE6JW4F6aP"
@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/4xA38T5bF6k96B83zKX7AW"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/7l9iIeYnRAtKHsd8clN1s6"
+    },
+    {
+      "album": {
         "name": "Gloria, Honor, Poder",
         "url": "https://open.spotify.com/album/0UDgu2Qz5fKzEepSZxFjGH"
       },
@@ -1462,6 +1480,28 @@
     },
     {
       "album": {
+        "name": "Poderoso Dios (Grande Y Fiel)",
+        "url": "https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473742,
+      "name": "Poderoso Dios",
+      "url": "https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd"
+    },
+    {
+      "album": {
         "name": "Por Un A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6x9BTyxCu5g1TojB7rbGX5"
       },
@@ -1629,6 +1669,42 @@
       "duration_ms": 207272,
       "name": "Respiro Tu Paz",
       "url": "https://open.spotify.com/track/3aQB2L9u5b8sC7zvFFgHqT"
+    },
+    {
+      "album": {
+        "name": "Rey Del Cielo",
+        "url": "https://open.spotify.com/album/6T6HOykPK6IoQhl0OVFdok"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442186,
+      "name": "Rey Del Cielo (Live)",
+      "url": "https://open.spotify.com/track/4xnyVFnBZOps5vGoOtS0lJ"
+    },
+    {
+      "album": {
+        "name": "Roca Firme",
+        "url": "https://open.spotify.com/album/1NQ8n8jtzvMiFurQKazcvd"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352702,
+      "name": "Roca Firme",
+      "url": "https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X"
     },
     {
       "album": {
@@ -1813,7 +1889,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 302587,
       "name": "Su Poder",
       "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"

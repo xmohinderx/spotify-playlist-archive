@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "about you",
+        "url": "https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167068,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2"
+    },
+    {
+      "album": {
         "name": "Acapulco (MOTi Remix)",
         "url": "https://open.spotify.com/album/4Qs4pO5ktrpgabWJyPL9eX"
       },
@@ -605,6 +627,24 @@
       "duration_ms": 189628,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
+    },
+    {
+      "album": {
+        "name": "Champagne Problems #DQH2",
+        "url": "https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158974,
+      "name": "Cryo",
+      "url": "https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5"
     },
     {
       "album": {
@@ -1534,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "iPad",
+        "url": "https://open.spotify.com/album/5o6WwwpA2WrZ9YKGTVIBxp"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202406,
+      "name": "iPad",
+      "url": "https://open.spotify.com/track/40mxAPW0mpgZ4EGPWiFxt9"
+    },
+    {
+      "album": {
         "name": "Just What They Want",
         "url": "https://open.spotify.com/album/5NKFYyhUTlEh6RmgRJc5AY"
       },
@@ -1611,6 +1669,32 @@
       "duration_ms": 136343,
       "name": "Let Me Go (with Ne-Yo)",
       "url": "https://open.spotify.com/track/1CdvKSImZbNo7AJSHb2pBG"
+    },
+    {
+      "album": {
+        "name": "Let Somebody Go (Kygo Remix)",
+        "url": "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197267,
+      "name": "Let Somebody Go - Kygo Remix",
+      "url": "https://open.spotify.com/track/31JwHrEcDWkilfTkFZlKNr"
     },
     {
       "album": {
@@ -2629,6 +2713,24 @@
       "duration_ms": 250866,
       "name": "Scream Drive Faster - Teddy Geiger Remix",
       "url": "https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD"
+    },
+    {
+      "album": {
+        "name": "Setting Me Free",
+        "url": "https://open.spotify.com/album/1xJN4Urp6XVl2RVS3gsrfw"
+      },
+      "artists": [
+        {
+          "name": "Ariana and the Rose",
+          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283201,
+      "name": "Setting Me Free",
+      "url": "https://open.spotify.com/track/6zd9tfm93IcaEOcKPo9hj9"
     },
     {
       "album": {

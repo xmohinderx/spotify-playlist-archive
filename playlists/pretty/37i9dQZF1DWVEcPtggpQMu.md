@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T?si=2FKO9dN8QZyQ9U0uOCkf8w">J Molley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,185 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,201 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 72 | [bums & sex freestyle](https://open.spotify.com/track/4cOtG2ob763lqmZKHkP03Y) | [SadBoySantana](https://open.spotify.com/artist/3nb1rmahl4LbN6Jm4eVssM) | [bums & sex freestyle](https://open.spotify.com/album/5qLGQy6r5paokC72dxeXBs) | 1:32 |
 | 73 | [Validation](https://open.spotify.com/track/7pG09NBFDlnWqJbzZhkrok) | [Amanda Mak](https://open.spotify.com/artist/3hijRjXXxU04yYuPRxKojg) | [Boxed Out](https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9) | 3:13 |
 | 74 | [Phases](https://open.spotify.com/track/0tbG8QzcL6dg9qwPzEwwqG) | [KiNGrsa](https://open.spotify.com/artist/21bcIIK3zXyYX9UcpVzSbl) | [Phases](https://open.spotify.com/album/42JPQQjoPGApEdMAXB3JJw) | 3:58 |
-| 75 | [Lonely](https://open.spotify.com/track/5XFjo27XQjEEZrR35aNzFP) | [T.Nale](https://open.spotify.com/artist/0qBpFRm4mAOCDjf3By2t5X), [GabyXO](https://open.spotify.com/artist/5tOJT9Oyfk0dO7X8jo0OLO) | [Lonely](https://open.spotify.com/album/38evYJvHOqlSgcVvkZBxe0) | 3:22 |
+| 75 | [Lonely](https://open.spotify.com/track/5XFjo27XQjEEZrR35aNzFP) | [T.Nale](https://open.spotify.com/artist/0qBpFRm4mAOCDjf3By2t5X), [Gaby xo](https://open.spotify.com/artist/68UDfJxGc98CqHsnTa1YV2) | [Lonely](https://open.spotify.com/album/38evYJvHOqlSgcVvkZBxe0) | 3:22 |
 | 76 | [smith & Wessin’.](https://open.spotify.com/track/0svVdihHdRMlUDA7OcotZI) | [Pumas+Roses](https://open.spotify.com/artist/0qtD3WUaO3TeRlZSSMA6F1), [INKUNZII](https://open.spotify.com/artist/4M5KcOGhanLm8zwEzhGJET) | [LOVE$ick!!](https://open.spotify.com/album/3jJsWz5Qp4WMQWeAKsnHgy) | 2:15 |
 | 77 | [Just Too Easy](https://open.spotify.com/track/31VI1feF89YfGe29U7ddGU) | [Adek](https://open.spotify.com/artist/0Hj66j3cU6P0I0xwcEgtDv) | [Just Too Easy](https://open.spotify.com/album/4eh9dnaEIf6JFeUx4VrGTm) | 2:24 |
 | 78 | [ALONE X](https://open.spotify.com/track/5JxDpO4ySgzeHVkNSKkNQ4) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Crowned Yung](https://open.spotify.com/artist/0ev4QPgGwvdAwC5RVMqpAM) | [ALONE X](https://open.spotify.com/album/7vJRb0nPNaROUoxpKarT0l) | 2:18 |

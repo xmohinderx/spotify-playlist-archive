@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "album": {
         "name": "Good Life (2022)",
         "url": "https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm"
       },
@@ -878,6 +896,24 @@
     },
     {
       "album": {
+        "name": "Im Fine",
+        "url": "https://open.spotify.com/album/1ApG8wpw1inlPAiq6r54Fs"
+      },
+      "artists": [
+        {
+          "name": "tema_saki",
+          "url": "https://open.spotify.com/artist/18xA4yCVHTlSTox6zh9lOd"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Im Fine",
+      "url": "https://open.spotify.com/track/4wd7SpWAGvLS0E6QZyNVa6"
+    },
+    {
+      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -1113,7 +1149,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 180261,
       "name": "Lost In America",
       "url": "https://open.spotify.com/track/2CnjVYs88XhZBZ5x2KR0ra"
@@ -1341,6 +1377,28 @@
       "duration_ms": 225653,
       "name": "oh my love",
       "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
+    },
+    {
+      "album": {
+        "name": "Outta This World",
+        "url": "https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165544,
+      "name": "Outta This World",
+      "url": "https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww"
     },
     {
       "album": {
@@ -1712,6 +1770,28 @@
     },
     {
       "album": {
+        "name": "Spell on Me",
+        "url": "https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S"
+      },
+      "artists": [
+        {
+          "name": "Salome",
+          "url": "https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq"
+        },
+        {
+          "name": "Hunter Yerrell",
+          "url": "https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "Spell on Me",
+      "url": "https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9"
+    },
+    {
+      "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f"
       },
@@ -1883,7 +1963,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 314605,
       "name": "the fun song",
       "url": "https://open.spotify.com/track/2ZJ53wrAnnElj4lv3dPtIZ"
@@ -1999,7 +2079,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 108613,
       "name": "Too Hot",
       "url": "https://open.spotify.com/track/1XkVvLrmSfJFjWwFFlkzaM"

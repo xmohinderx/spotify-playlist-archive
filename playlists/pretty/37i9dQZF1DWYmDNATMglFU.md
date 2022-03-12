@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,983 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,407 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [Last Night](https://open.spotify.com/track/7pgOdXrlAP834pdRa06zzS) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Last Night](https://open.spotify.com/album/0QLH1ocmUCXlh02euGNX5W) | 2:32 |
 | 80 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
 
-Snapshot ID: `MTY0Njk1NjgwMCwwMDAwMDA0MjAwMDAwMTdmNzY0NjY4YTgwMDAwMDE3ZjcwZjg0NGQw`
+Snapshot ID: `MTY0NzAwOTUxMSwwMDAwMDA0MzAwMDAwMTdmNzk2YWI2NzEwMDAwMDE3ZjcwZjg0NGQw`

@@ -859,7 +859,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 213688,
       "name": "Drive It Like You Stole It",
       "url": "https://open.spotify.com/track/74qhamOhw3kR1BCgpCnsiW"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 232373,
       "name": "Eyes Of The World",
       "url": "https://open.spotify.com/track/6BQhXq7JHYEEEu9G52UIws"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 161318,
       "name": "FAIRY METAL",
       "url": "https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 263203,
       "name": "Ghost Chapter",
       "url": "https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 183173,
       "name": "I Love Myself For Hating You",
       "url": "https://open.spotify.com/track/10Qt5VgwKIRXK7hZSu9pmX"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Illusionist",
       "url": "https://open.spotify.com/track/0ntFhFYgGoRTvQsa6qEaUC"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 249230,
       "name": "In Black and White - New Version 2021",
       "url": "https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 347346,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/5nFyBTvOprvEosMaZCGVU9"
@@ -2017,6 +2017,24 @@
       "duration_ms": 243783,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
+    },
+    {
+      "album": {
+        "name": "Pink Rover",
+        "url": "https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR"
     },
     {
       "album": {
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 219280,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/2SKbTx3bPi2aPu5GRz59Dz"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 250600,
       "name": "Survive",
       "url": "https://open.spotify.com/track/52NcH4UUTchFFVFSCTZd45"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 221855,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/5kDqzfhwhntiCOoJqHKhN5"
@@ -2679,7 +2697,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 261528,
       "name": "The Game Is Over",
       "url": "https://open.spotify.com/track/3mACHKoDo7dA8DChTRnp4p"
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 254811,
       "name": "The In-Between",
       "url": "https://open.spotify.com/track/3zyO75z96PN667L0I7jgwf"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 281538,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/1TREyFqT3Au25SZZrVzFAq"
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 180373,
       "name": "We Bring You the Stars",
       "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"

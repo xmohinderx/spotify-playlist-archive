@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Simone",
+  "description": "As belas novidades da MPB. Foto: \u00c1urea Martins",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Senhora das Folhas",
+        "url": "https://open.spotify.com/album/7bHe8uJepvjQXaj0kxROS5"
+      },
+      "artists": [
+        {
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
+        },
+        {
+          "name": "Moyseis Marques",
+          "url": "https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362520,
+      "name": "A Rezadeira / Cita\u00e7\u00e3o: Relampiano",
+      "url": "https://open.spotify.com/track/007sJHWSRsuNKIfzV6Nfrq"
+    },
     {
       "album": {
         "name": "A Rota do Indiv\u00edduo (Ferrugem)",
@@ -109,7 +131,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 320000,
       "name": "Al\u00e9m do Infinito",
       "url": "https://open.spotify.com/track/5QCsVGMVZOlkEOZBbt1rn2"
@@ -233,7 +255,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 183692,
       "name": "At\u00e9 o carnaval chegar",
       "url": "https://open.spotify.com/track/4Yw0adJgiMyMuJ7PFpCdxS"
@@ -1043,7 +1065,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 210690,
       "name": "Isso Me Far\u00e1",
       "url": "https://open.spotify.com/track/4vNyFrftdxHk61euvwUpT1"
@@ -1113,7 +1135,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Ladainha",
       "url": "https://open.spotify.com/track/7LbvwlzPwrhsbm1es6oH3i"
@@ -1543,7 +1565,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 231626,
       "name": "Onironauta",
       "url": "https://open.spotify.com/track/3FJ8ri983YCJZJ2LPnOADE"
@@ -1803,6 +1825,32 @@
       "duration_ms": 162960,
       "name": "Portas",
       "url": "https://open.spotify.com/track/7rbAmQfqxxrdmxqjBcN2qA"
+    },
+    {
+      "album": {
+        "name": "Pra Melhorar",
+        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256613,
+      "name": "Pra Melhorar",
+      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "album": {
@@ -2093,7 +2141,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 271440,
       "name": "Retr\u00f3picos",
       "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
@@ -2195,6 +2243,24 @@
       "duration_ms": 268201,
       "name": "Se Voc\u00ea Tem Amor",
       "url": "https://open.spotify.com/track/4n0Cl3xaeWmMaD3di8aKEo"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo no Montreux Jazz Festival",
+        "url": "https://open.spotify.com/album/6TUhbe62fmri26xrurl58M"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249845,
+      "name": "Seca - Ao Vivo no Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/55sJHFHTpLSrBVy8OSHsVy"
     },
     {
       "album": {
@@ -2667,7 +2733,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 233706,
       "name": "Vermelho Esperan\u00e7a",
       "url": "https://open.spotify.com/track/5U9Xv9WkBPTOignYWp6niI"

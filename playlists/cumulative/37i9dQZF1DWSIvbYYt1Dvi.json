@@ -366,6 +366,28 @@
     },
     {
       "album": {
+        "name": "Deus \u00c9 o Meu Guia",
+        "url": "https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Deus \u00c9 o Meu Guia",
+      "url": "https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6"
+    },
+    {
+      "album": {
         "name": "Easy Money",
         "url": "https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow"
       },
@@ -521,7 +543,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 136764,
       "name": "Fora de Si - Spotify Singles",
       "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"

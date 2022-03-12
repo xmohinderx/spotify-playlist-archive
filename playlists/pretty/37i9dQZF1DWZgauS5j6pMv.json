@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Tank and The Bangas",
-  "num_followers": 240029,
+  "num_followers": 240271,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDA2MCwwMDAwMDA3NDAwMDAwMTdmNTM0ZDc3YmMwMDAwMDE3ZTlkZjNlYjYw",
+  "snapshot_id": "MTY0NzAxNTI2NSwwMDAwMDA3NjAwMDAwMTdmNzljMjg2YTUwMDAwMDE3ZTlkZjNlYjYw",
   "tracks": [
     {
       "added_at": "2022-03-04 05:01:00",
@@ -37,6 +37,22 @@
       "url": "https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t"
     },
     {
+      "added_at": "2022-03-11 16:11:57",
+      "album": {
+        "name": "Recipe",
+        "url": "https://open.spotify.com/album/3EKYhobBWNH0xrU5qpyDrz"
+      },
+      "artists": [
+        {
+          "name": "Jackie's Boy",
+          "url": "https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E"
+        }
+      ],
+      "duration_ms": 182211,
+      "name": "Recipe",
+      "url": "https://open.spotify.com/track/0xM4e5ON4PcKCF1rnqLmR9"
+    },
+    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Kind of Freak (Jafunk Remix)",
@@ -55,6 +71,22 @@
       "duration_ms": 209040,
       "name": "Kind of Freak - Jafunk Remix",
       "url": "https://open.spotify.com/track/0hpsO7RHd5pQrUkzl2Psom"
+    },
+    {
+      "added_at": "2022-03-11 16:11:57",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W"
+      },
+      "artists": [
+        {
+          "name": "Genevra Munoa",
+          "url": "https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -119,6 +151,22 @@
       "duration_ms": 226645,
       "name": "Snack Food",
       "url": "https://open.spotify.com/track/3jj5yMOcG5AwOGBwAUijff"
+    },
+    {
+      "added_at": "2022-03-11 16:11:57",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6BQIlSZuzrWsQC150m62fR"
+      },
+      "artists": [
+        {
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/616WpPUg9RHskfwi4iGscv"
+        }
+      ],
+      "duration_ms": 182181,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/5W5qOh7MA0eXjvhj103smA"
     },
     {
       "added_at": "2022-02-25 05:02:00",

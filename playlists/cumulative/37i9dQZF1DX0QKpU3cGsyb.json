@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160398,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia"
+    },
+    {
+      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -197,7 +215,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 194733,
       "name": "Come Over Again",
       "url": "https://open.spotify.com/track/4Ny9mteDhBRcTZO9zl0gXW"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 231547,
       "name": "Decide",
       "url": "https://open.spotify.com/track/7kgkHtqxN1es6hHW6SQJPG"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 248250,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
@@ -385,6 +403,24 @@
       "duration_ms": 256202,
       "name": "Feelings 4 You",
       "url": "https://open.spotify.com/track/6FyadQAUc4Rrv9WT8sa8Ro"
+    },
+    {
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
     },
     {
       "album": {
@@ -483,7 +519,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 168751,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/2ZS9p6DEd54quGRhUk4zaH"
@@ -865,7 +901,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 216160,
       "name": "Moon",
       "url": "https://open.spotify.com/track/4u5sbHIPXsL3ixbOVOow3M"
@@ -949,7 +985,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 197074,
       "name": "OMW",
       "url": "https://open.spotify.com/track/0fSdTWC36g1Y44tpKzp7f2"
@@ -1055,7 +1091,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 193234,
       "name": "PEAKING",
       "url": "https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf"
@@ -1171,7 +1207,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Situationship",
       "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 220151,
       "name": "Try Peace...",
       "url": "https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s"
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 150595,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/1iI9QCKcs3W5VW8oSTG8BS"

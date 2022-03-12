@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Buckskin",
+        "url": "https://open.spotify.com/album/1c63m1ZcW5S40hLDWiObqf"
+      },
+      "artists": [
+        {
+          "name": "Cherokee Rose",
+          "url": "https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Black Irish Indian",
+      "url": "https://open.spotify.com/track/1xfRPtwYl8Na8WRzTQI9rd"
+    },
+    {
+      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },

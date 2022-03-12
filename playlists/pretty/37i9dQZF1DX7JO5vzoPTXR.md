@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2?si=e2e50b12fc7644ba">Ethel Cain</a>, <a href="https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4?si=0bb176c8be7c4f8d">Britney Spears</a>, <a href="https://open.spotify.com/artist/0mpgl4qEYonWABZPuDt3uc?si=7dee21e78adf4cee">Annet Artani</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,064 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,100 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Baby, I'm Hollywood!](https://open.spotify.com/track/37Rszesj8IDBkYCCsRJEB6) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 4:33 |
 | 40 | [hating myself in the summer](https://open.spotify.com/track/0W94oSiDJwCViDJ7cg8pRH) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [hating myself in the summer](https://open.spotify.com/album/3qMSTBdlyljwqzzTiP5xV0) | 2:42 |
 
-Snapshot ID: `MTY0Njk2MDE5MSwwMDAwMDAwMDNjNDI5YmNiMWZjMWEyOGI1OTJmZjgyZWM3NGIwODE1`
+Snapshot ID: `MTY0NzA0NjE5NywwMDAwMDAwMDNjNDI5YmNiMWZjMWEyOGI1OTJmZjgyZWM3NGIwODE1`

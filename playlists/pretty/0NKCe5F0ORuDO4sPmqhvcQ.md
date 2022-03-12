@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,447 likes - 37 songs - 2 hr 1 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,443 likes - 41 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,9 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 35 | [Going Home](https://open.spotify.com/track/5AH62IT62TEek7uigczBeR) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Going Home](https://open.spotify.com/album/03idXsvqv5OVZa8srntnH9) | 3:13 |
 | 36 | [Think About It](https://open.spotify.com/track/1yAThAiJFPoKepwK6jiCHd) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Think About It](https://open.spotify.com/album/5mL2ZU969ZAdz9MmyihsvV) | 2:54 |
 | 37 | [Visions \- SUN/MGNETK Remix](https://open.spotify.com/track/1a40njhjzTInmBNuctG47K) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [SUN/MGNETK](https://open.spotify.com/artist/5uQ7vzfqVBvCALRIWehL1Y) | [Visions \(SUN/MGNETK Remix\)](https://open.spotify.com/album/5eHvlXvZBrxxU66x8TyKdx) | 2:35 |
+| 38 | [10/10](https://open.spotify.com/track/61AvmHxUtaEOUK8GSb9cbK) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 4:06 |
+| 39 | [Worth My Time](https://open.spotify.com/track/2HBtlBkPLCvb35jcmuTUZF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Clearer Now EP](https://open.spotify.com/album/62jgddV1RnTux5oI7uzuSU) | 4:20 |
+| 40 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 |
+| 41 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 |
 
-Snapshot ID: `OTU1OCw3Mjc2OWE0MjdiNzU4MTU5ODZkNGU4YmY5OWFkM2EyYWQ3NzU4YzYw`
+Snapshot ID: `OTU2Miw0YmJjMzlmYzJlNzM0NDEzOWFiYzM3NjAzYmE3MGM5ZGM1MWRhZTk0`

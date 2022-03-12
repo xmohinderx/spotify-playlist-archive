@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  Daniela Galeano",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:  Yelitza Cintron",
   "name": "Novedades Cristianas",
   "published_playlist_ids": [
     "1KUPUNIHlkycouwTjzbQCF"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 174342,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/7EnWJlSBcWiws1VBHsWr3k"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 253520,
       "name": "Asombrosa Gracia (Ac\u00fastico) [Live]",
       "url": "https://open.spotify.com/track/5RJNTUeaXuAD1LIpMyaJvQ"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 179800,
       "name": "Bueno es Dios",
       "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 178264,
       "name": "Canciones Eternas",
       "url": "https://open.spotify.com/track/49RxMW7KwbrboLyEt56dAO"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 225980,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4G7MGVRhu0RvXX1m31TbjB"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 167010,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0NYPwvbSwtDNRwUJw8K2Fe"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 267751,
       "name": "Dichosos",
       "url": "https://open.spotify.com/track/2k1ThQSvRdqxpY7fnQiuaL"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 222857,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/4MXt7Xh7WQiL85Q6Et2OfF"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 198600,
       "name": "Dios Es Primero",
       "url": "https://open.spotify.com/track/0LD85eytjzSKPalc64Nmmf"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 257506,
       "name": "Dios, Familia & Rap",
       "url": "https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 186250,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/6EGduvmEGHgdF3fHYPuUvj"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 639557,
       "name": "Favor & Gracia",
       "url": "https://open.spotify.com/track/39ptvPFXNkrNUTMFmxj9ir"
@@ -925,10 +925,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 200021,
       "name": "Flow David",
       "url": "https://open.spotify.com/track/0eWCKGoYbPdc3zKKlTp7vg"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/4xA38T5bF6k96B83zKX7AW"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/7l9iIeYnRAtKHsd8clN1s6"
     },
     {
       "album": {
@@ -999,6 +1017,24 @@
       "duration_ms": 217383,
       "name": "Gracia - Acoustic Version",
       "url": "https://open.spotify.com/track/463nSMtFqe7uPCbB4kiZrs"
+    },
+    {
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/1xh39JZOBFwAWDcu8cj5jI"
+      },
+      "artists": [
+        {
+          "name": "Arling Ruiz",
+          "url": "https://open.spotify.com/artist/1k843tNr5HoW512lG1jyhT"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252166,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/4cLvxtA49cGZkNahdaU9cp"
     },
     {
       "album": {
@@ -1119,7 +1155,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 289441,
       "name": "Indisoluble",
       "url": "https://open.spotify.com/track/4rqTfEkclEu81Fu3AvThDm"
@@ -1213,7 +1249,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 160695,
       "name": "Lleg\u00f3 el Culto",
       "url": "https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 811503,
       "name": "Me Salvaste",
       "url": "https://open.spotify.com/track/6Kv31K0bsskf3cbWrxQE0I"
@@ -1603,7 +1639,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 548160,
       "name": "Nadie Va A Robar Tu Gloria (Espont\u00e1neo) - Live",
       "url": "https://open.spotify.com/track/4bWVZDs1FI8niOCjquJFHb"
@@ -1717,7 +1753,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 164118,
       "name": "No Soy Perfecta",
       "url": "https://open.spotify.com/track/6RLmYiQPeLztb7Ns6MZmRL"
@@ -1735,7 +1771,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 196424,
       "name": "No Te Creo",
       "url": "https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB"
@@ -1753,7 +1789,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 209361,
       "name": "No Te Soltar\u00e9",
       "url": "https://open.spotify.com/track/5kFrbg0qPkzCWJkoNzJOBL"
@@ -1809,7 +1845,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 302465,
       "name": "Pa' mi gente (feat. Fern & Mod G) - Remix",
       "url": "https://open.spotify.com/track/3QNtpZ2D9d8fg0DqWm4PcD"
@@ -1835,6 +1871,28 @@
       "duration_ms": 228000,
       "name": "Para Amarte",
       "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
+    },
+    {
+      "album": {
+        "name": "Poderoso Dios (Grande Y Fiel)",
+        "url": "https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473742,
+      "name": "Poderoso Dios",
+      "url": "https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd"
     },
     {
       "album": {
@@ -1911,7 +1969,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 263155,
       "name": "Proclamar\u00e9",
       "url": "https://open.spotify.com/track/7sw6cadVO6MvzQTKNLqQCe"
@@ -1991,7 +2049,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 215734,
       "name": "Qu\u00e9date Con Ese",
       "url": "https://open.spotify.com/track/11juh3PF1lfSNOpgnY0k9Z"
@@ -2038,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Rey Del Cielo",
+        "url": "https://open.spotify.com/album/6T6HOykPK6IoQhl0OVFdok"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442186,
+      "name": "Rey Del Cielo (Live)",
+      "url": "https://open.spotify.com/track/4xnyVFnBZOps5vGoOtS0lJ"
+    },
+    {
+      "album": {
         "name": "Rey Salvador",
         "url": "https://open.spotify.com/album/3L54gzK7a2hJL00S9ftE3V"
       },
@@ -2053,10 +2129,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 417590,
       "name": "Rey Salvador (feat. Cristian Bruno)",
       "url": "https://open.spotify.com/track/0ByOPR4mtUfExvC83bBlQh"
+    },
+    {
+      "album": {
+        "name": "Roca Firme",
+        "url": "https://open.spotify.com/album/1NQ8n8jtzvMiFurQKazcvd"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352702,
+      "name": "Roca Firme",
+      "url": "https://open.spotify.com/track/0szoXYidxdLMEiitSO1e3X"
     },
     {
       "album": {
@@ -2207,7 +2301,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 173118,
       "name": "Siempre Ha Estado Aqui",
       "url": "https://open.spotify.com/track/09GnpJ8bUqNfdW8CxnkoQa"
@@ -2320,6 +2414,24 @@
     },
     {
       "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/1xDYvbx2eFE6FwtW7bDxKi"
+      },
+      "artists": [
+        {
+          "name": "Vision Juvenil",
+          "url": "https://open.spotify.com/artist/6P1AgVQCZ5tlKMroVruWlz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265947,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/1BDf8YMOrMf2k57Zt96i8g"
+    },
+    {
+      "album": {
         "name": "Thalles Ac\u00fastico En Vivo En Colombia",
         "url": "https://open.spotify.com/album/0RGjDEyl6kD3YVhQ6NQdau"
       },
@@ -2335,7 +2447,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 478549,
       "name": "Tan Solo Una Orden (feat. Alex Campos) - En Vivo",
       "url": "https://open.spotify.com/track/7DNHrOf6ON5QBj3vfo3SFo"
@@ -2357,7 +2469,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
@@ -2375,7 +2487,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 290858,
       "name": "Te Tengo A Ti",
       "url": "https://open.spotify.com/track/6hQwgxM85boXb9bpfQmx1H"
@@ -2453,7 +2565,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 559636,
       "name": "Tu Gracia - En Vivo",
       "url": "https://open.spotify.com/track/1avndzhDc1uj2KluWeey7O"
@@ -2471,7 +2583,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 376362,
       "name": "Tu Me Compraste",
       "url": "https://open.spotify.com/track/3A81GmhgZNEJXFeSPjcx66"
@@ -2589,7 +2701,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 209699,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/7aTf5cIHhwiFXaZyHnwD6e"
@@ -2607,7 +2719,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 273848,
       "name": "Vamos a Celebrar",
       "url": "https://open.spotify.com/track/7Bafk0VDGDsuZtWkro0isd"
@@ -2625,7 +2737,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 224136,
       "name": "Vasija",
       "url": "https://open.spotify.com/track/4U1rtbu9BX7uRjRXWS30Oc"
@@ -2713,7 +2825,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 271250,
       "name": "Victoria y Progreso",
       "url": "https://open.spotify.com/track/1Orw6lWVWAEuIW9t92ZSaJ"

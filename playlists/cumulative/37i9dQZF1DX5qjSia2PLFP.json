@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Emerging music breaking waves.  Cover: Pote Baby",
+  "description": "Emerging music breaking waves.  Cover: Benita",
   "name": "Ripple Effect",
   "published_playlist_ids": [
     "74YlDMgCbNeMMptS6g5iCD"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 213417,
       "name": "Already Lost",
       "url": "https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW"
@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/2WM3U05ZGDzuHzfsdjhjbS"
+      },
+      "artists": [
+        {
+          "name": "Jaalid",
+          "url": "https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167765,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/6FL1XBfpeg8fBGHn6eWDPl"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/3vEWvYAC6uedBaHV9bM2NM"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 160769,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a"
@@ -770,6 +788,28 @@
     },
     {
       "album": {
+        "name": "CircoLoco Records & NEZ Present CLR 002",
+        "url": "https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166356,
+      "name": "Let's Get It",
+      "url": "https://open.spotify.com/track/1Lpl62qGlJaaojgGiJNVho"
+    },
+    {
+      "album": {
         "name": "Lil Mama Its Okay",
         "url": "https://open.spotify.com/album/5eRyz7Qo3RWjaJlIcr32QN"
       },
@@ -1038,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170248,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB"
+    },
+    {
+      "album": {
         "name": "Post Nut Clarity",
         "url": "https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f"
       },
@@ -1053,6 +1111,24 @@
       "duration_ms": 113239,
       "name": "Post Nut Clarity",
       "url": "https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
     },
     {
       "album": {
@@ -1075,6 +1151,24 @@
       "duration_ms": 120424,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/1xLYtZPTTcrTnM9ml6X3e6"
+    },
+    {
+      "album": {
+        "name": "SCARLET",
+        "url": "https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169498,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq"
     },
     {
       "album": {
@@ -1347,7 +1441,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 157968,
       "name": "Stylin'",
       "url": "https://open.spotify.com/track/2ld1QEolGiechfWxG7Lo3z"

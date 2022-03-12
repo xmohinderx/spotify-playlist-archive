@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Beat Em Down",
+        "url": "https://open.spotify.com/album/1fzHKs0eAeX9jMIEAHDnZ6"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Beat Em Down",
+      "url": "https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn"
+    },
+    {
+      "album": {
         "name": "Beat The Streets",
         "url": "https://open.spotify.com/album/5b8LqxodAqVzwPvozld6ty"
       },
@@ -377,7 +395,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 179601,
       "name": "Blood, Sweat & Tears (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3ha7OXa3RZ4OFwltnd3QGK"
@@ -716,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Forever Been Steppin'",
+        "url": "https://open.spotify.com/album/2fYOAoMAoSge8lWN0OydhA"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197455,
+      "name": "Forever Been Steppin'",
+      "url": "https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47"
+    },
+    {
+      "album": {
         "name": "Free Bay Bay",
         "url": "https://open.spotify.com/album/3eUfjLqpbAZZbFXOb4ilt1"
       },
@@ -847,7 +883,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 114580,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0SCbpbPIjHh90v4hsp8ohl"
@@ -959,7 +995,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 196152,
       "name": "HOOD CHRONICLES",
       "url": "https://open.spotify.com/track/5TEjbDMHP0jSXqNi1hYd0u"
@@ -1522,6 +1558,28 @@
     },
     {
       "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159926,
+      "name": "Petty Too (feat. Future)",
+      "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
+    },
+    {
+      "album": {
         "name": "Pissed Me Off",
         "url": "https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b"
       },
@@ -1533,7 +1591,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 123076,
       "name": "Pissed Me Off",
       "url": "https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q"
@@ -1925,7 +1983,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 161032,
       "name": "Switch Switch",
       "url": "https://open.spotify.com/track/0CoeJ0kuo0kpN9QWrdHmX9"
@@ -2093,6 +2151,28 @@
       "duration_ms": 178431,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU"
+    },
+    {
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181393,
+      "name": "What Happened To Virgil (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
       "album": {

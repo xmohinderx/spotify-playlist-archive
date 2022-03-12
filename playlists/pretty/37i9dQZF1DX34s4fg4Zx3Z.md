@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: MAI; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,123 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,223 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 20 | [Gieo Niềm Đau](https://open.spotify.com/track/0fuJF9MOV9OF7K2cFIppQD) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Gieo Niềm Đau](https://open.spotify.com/album/1LqTDHg8iWBX5QVaOu27BV) | 3:09 |
 | 21 | [Hãy Giữ Cho Em](https://open.spotify.com/track/5IHrb6qgKucVHPTNUlHKWh) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Hãy Giữ Cho Em](https://open.spotify.com/album/20gBtB0yD3C26XhjA0agc6) | 4:24 |
 | 22 | [Nhầm To Rồi Đấy](https://open.spotify.com/track/3IRMnNVRLEzCQ6XQ6gz6JO) | [Woni](https://open.spotify.com/artist/0bTZ4h4TZrOB8cHsqeW0sm), [Vy Dương](https://open.spotify.com/artist/72LLiDCylhkxp2NQnesTAE) | [Nhầm To Rồi Đấy](https://open.spotify.com/album/2Ql65m5p0u716JqMNE3l84) | 3:32 |
-| 23 | [Phỏng Lài Em](https://open.spotify.com/track/3sXsa5QYbGMt5xbkP5xjjr) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Dipper](https://open.spotify.com/artist/1k60LRehQ2v5zyNMOjOMqe) | [Phỏng Lài Em](https://open.spotify.com/album/6mCDV9l81oZiNhqbGFZT70) | 3:21 |
+| 23 | [Phỏng Lài Em](https://open.spotify.com/track/3sXsa5QYbGMt5xbkP5xjjr) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Dipper](https://open.spotify.com/artist/7KdcPj1wOw7zf4ijzUjajW) | [Phỏng Lài Em](https://open.spotify.com/album/6mCDV9l81oZiNhqbGFZT70) | 3:21 |
 | 24 | [Giá Như](https://open.spotify.com/track/3HwSJHkGA7hWyI8U3hj2xX) | [Traang](https://open.spotify.com/artist/2OTl1gQWIVgQTBm0v6Ut51) | [Giá như](https://open.spotify.com/album/5tQRRKuEHn3kbNoB6PwQQE) | 3:56 |
 | 25 | [Khi Mùa Mưa Đi Qua](https://open.spotify.com/track/5nY6Kkxnv7CVCFZbSPBgPZ) | [Haro](https://open.spotify.com/artist/6ONQpyORNnXnhfOPNcSYz2) | [Khi Mùa Mưa Đi Qua](https://open.spotify.com/album/6QBiN1m6Ppja5DtuIW4wJD) | 2:38 |
 | 26 | [Đi Hoang](https://open.spotify.com/track/39t5AIpAq8v8ELF8e6iDIN) | [Nguyễn Thiện Thảo](https://open.spotify.com/artist/1ne8czCC65zYLQvff1eida), [Đăng](https://open.spotify.com/artist/6p4TdoZr8J3FWeRJ4x7K5D) | [Đi Hoang](https://open.spotify.com/album/0PmBjzGbJys7wCHTvltXX0) | 5:27 |

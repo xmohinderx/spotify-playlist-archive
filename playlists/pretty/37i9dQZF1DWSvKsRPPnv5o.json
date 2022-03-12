@@ -1,33 +1,13 @@
 {
-  "description": "Holdin' it down for the westside. Cover: YG",
-  "num_followers": 683987,
+  "description": "Holdin' it down for the westside. Cover: Dr. Dre",
+  "num_followers": 684096,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDUxMDAwMDAwMTdmNTM0YzhkMzAwMDAwMDE3ZjQ3Mjk1MDY1",
+  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDUxMTAwMDAwMTdmNzc1OTExNDQwMDAwMDE3ZjQ3Mjk1MDY1",
   "tracks": [
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Gospel (with Eminem)",
-        "url": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "Gospel (with Eminem)",
-      "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
-    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -51,6 +31,42 @@
       "duration_ms": 204285,
       "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
       "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "duration_ms": 166678,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Dead Homies",
+        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 172654,
+      "name": "Dead Homies",
+      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -93,6 +109,42 @@
       "url": "https://open.spotify.com/track/2ZFFX9m6T3vsB9yJoURXZH"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "BABYST5XNE GORILLAS",
+        "url": "https://open.spotify.com/album/63ypakNyLDCYERVQz17caO"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "duration_ms": 179495,
+      "name": "Keep Goin",
+      "url": "https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2"
+    },
+    {
+      "added_at": "2022-01-14 21:22:38",
+      "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "MAGIC (feat. Mustard)",
@@ -111,6 +163,26 @@
       "duration_ms": 226006,
       "name": "MAGIC (feat. Mustard)",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2022-02-18 05:01:00",
+      "album": {
+        "name": "Wait Too Long (feat. Blxst)",
+        "url": "https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 186234,
+      "name": "Wait Too Long (feat. Blxst)",
+      "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -137,64 +209,44 @@
       "url": "https://open.spotify.com/track/34OfVb8885GyOLPN1wHQ9U"
     },
     {
-      "added_at": "2022-03-04 05:00:00",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF"
+        "name": "Gospel (with Eminem)",
+        "url": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 166678,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
+      "duration_ms": 210027,
+      "name": "Gospel (with Eminem)",
+      "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Wait Too Long (feat. Blxst)",
-        "url": "https://open.spotify.com/album/3fBKA3NfQWJ81eBtGardm6"
+        "name": "Heaven's Sky (feat. Rae Khalil)",
+        "url": "https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj"
       },
       "artists": [
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
         },
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
         }
       ],
-      "duration_ms": 186234,
-      "name": "Wait Too Long (feat. Blxst)",
-      "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
-    },
-    {
-      "added_at": "2022-01-14 21:22:38",
-      "album": {
-        "name": "Eazy",
-        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "Eazy",
-      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+      "duration_ms": 229802,
+      "name": "Heaven's Sky (feat. Rae Khalil)",
+      "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -249,6 +301,22 @@
       "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "With The Villains / Lucky",
+        "url": "https://open.spotify.com/album/50KiZ0amgdlobUzEnriTTl"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "duration_ms": 143248,
+      "name": "With The Villains",
+      "url": "https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP"
+    },
+    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Find A Balance (feat. DOM KENNEDY)",
@@ -287,6 +355,22 @@
       "duration_ms": 187050,
       "name": "Do Whatever to Survive",
       "url": "https://open.spotify.com/track/6RR2dOw3NE5pim5KGyNEYj"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/4U2FeSvWV0WGMvl4Q5E5D7"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 246268,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/6CigsKxaU5iDoQnWUFXw6K"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -369,6 +453,22 @@
       "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/44hLQThkyttusgoILcncyl"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 155375,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw"
+    },
+    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Mainline",
@@ -403,6 +503,26 @@
       "duration_ms": 158333,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/10amUOwfsKo2HTa1SPXetH"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "skinny jeans & rick owens",
+        "url": "https://open.spotify.com/album/4qSwISAp6oU0ydUYKHqsER"
+      },
+      "artists": [
+        {
+          "name": "Suigeneris",
+          "url": "https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf"
+        },
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "duration_ms": 124675,
+      "name": "skinny jeans & rick owens",
+      "url": "https://open.spotify.com/track/7ipiu6AX4PSEZC0n0IouGP"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -601,22 +721,6 @@
       "url": "https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Valentine's Day",
-        "url": "https://open.spotify.com/album/1Bmfr6pi5ut9X0hTJ1H4Bm"
-      },
-      "artists": [
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 120217,
-      "name": "Valentine's Day",
-      "url": "https://open.spotify.com/track/24ikOcZ8s0n7vnXbntYT0d"
-    },
-    {
       "added_at": "2022-01-28 20:32:39",
       "album": {
         "name": "Ain't It A Flex",
@@ -647,22 +751,6 @@
       "duration_ms": 144000,
       "name": "Fenix Flexin, Vol. 2 Intro",
       "url": "https://open.spotify.com/track/0hauidEyQSGetmK5eVfKQQ"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 200958,
-      "name": "thailand",
-      "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -765,26 +853,6 @@
       "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
     },
     {
-      "added_at": "2021-11-26 05:00:00",
-      "album": {
-        "name": "Chose Me",
-        "url": "https://open.spotify.com/album/2r3YZtNY5S5eiHHCwquxuo"
-      },
-      "artists": [
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 144463,
-      "name": "Chose Me",
-      "url": "https://open.spotify.com/track/2TXPpyvAghVDKSBeyEuUEH"
-    },
-    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "Numero Uno",
@@ -801,22 +869,6 @@
       "url": "https://open.spotify.com/track/2gw18LNTvCUs0ZTe9o5qA4"
     },
     {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "STOP IT",
-        "url": "https://open.spotify.com/album/3h853f1lbotNRiJUTxwOJg"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 115822,
-      "name": "STOP IT",
-      "url": "https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy"
-    },
-    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "Titanic",
@@ -831,22 +883,6 @@
       "duration_ms": 112625,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
-    },
-    {
-      "added_at": "2021-12-10 06:53:50",
-      "album": {
-        "name": "Not The Same God As Mine",
-        "url": "https://open.spotify.com/album/6FOe6OxItoBp8M9uQKO6ke"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 164101,
-      "name": "Not The Same God As Mine",
-      "url": "https://open.spotify.com/track/40UUA98SbhyPmhJJm3KgYs"
     },
     {
       "added_at": "2022-01-07 05:00:00",
@@ -867,26 +903,6 @@
       "duration_ms": 183814,
       "name": "Hate To Say It",
       "url": "https://open.spotify.com/track/0JovAYpOGoftOSuQv3TRwO"
-    },
-    {
-      "added_at": "2021-12-10 06:53:50",
-      "album": {
-        "name": "Tabula Rasa (feat. Armand Hammer)",
-        "url": "https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        }
-      ],
-      "duration_ms": 251799,
-      "name": "Tabula Rasa (feat. Armand Hammer)",
-      "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 255875,
       "name": "Too Many Goats (feat. Rick Ross, Nas & Kevin Cossom)",
       "url": "https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9"
-    },
-    {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 170702,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
     }
   ],
   "unique_name": "Westside Story",

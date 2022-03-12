@@ -1492,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "\u5149\u3092\u6295\u3052\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/4r9IoFzX6ePXpmTJj5lh2B"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u6797\u79c1",
+          "url": "https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "\u7b11\u3063\u3066\u900f\u660e\u4eba\u9593",
+      "url": "https://open.spotify.com/track/52d0HV5FhkjQxyWEuHFJ1D"
+    },
+    {
+      "album": {
         "name": "\u826f\u3044\u7537",
         "url": "https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw"
       },

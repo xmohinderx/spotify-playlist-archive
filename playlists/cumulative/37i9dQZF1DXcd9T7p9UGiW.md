@@ -2,7 +2,7 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
 
-> Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=Vgpr7tHjS2CfggGsb8UGag"> Omah Lay </a> and <a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s?si=l5tN5gNgRtCgrL9oBiQSsA"> Justice Beiber </a>
+> Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX?si=CGxYypQ5S52\-H1hRrcIe4g"> Rexx Life Raj </a>,  <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=OChlw\-hCSMiiVfCdbzgPeg"> Fireboy DML </a> and <a href="https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE?si=Oo85yH0ySRa5EW\_fH\-rNEg"> Wale</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 | 2021-10-08 |  |
 | [Be My Guest](https://open.spotify.com/track/53bVld0y2swEHfRs1OpsCa) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Be My Guest](https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm) | 3:30 | 2021-10-08 |  |
 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/2RYmAXiYFHOPVsPuk8ae5u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/3ks9LQuZdnSBcZKyWTq4ia) | 3:12 | 2021-10-08 |  |
+| [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-03-11 |  |
 | [Black And White](https://open.spotify.com/track/7LMbVWgxwhTEOm44Zmp8Ty) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:37 | 2021-10-08 |  |
 | [Blessing](https://open.spotify.com/track/18aLGK4o5W41lc8T7jPMJ0) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Blessing](https://open.spotify.com/album/1QQiHqjKzRU5Rd0Uo0cpzZ) | 3:48 | 2021-10-08 | 2022-01-28 |
 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 | 2021-10-08 |  |

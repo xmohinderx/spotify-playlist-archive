@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Make room for these R&B/Soul artists on the rise! Photo: Tiana Major9",
+  "description": "Make room for these R&B/Soul artists on the rise! Photo: Benita",
   "name": "The Newness",
   "published_playlist_ids": [
     "4ueLTB3jzF1gxFZXFoisSk"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 213417,
       "name": "Already Lost",
       "url": "https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 168000,
       "name": "Ambience",
       "url": "https://open.spotify.com/track/1o2DoGaoIMHOqkB5XwCsrt"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 203173,
       "name": "And Then Life Was Beautiful",
       "url": "https://open.spotify.com/track/4vUU8lx3iz7u72rpDjhXHi"
@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Process",
+        "url": "https://open.spotify.com/album/3CRUA1fGG4vUqOOfdrNoDe"
+      },
+      "artists": [
+        {
+          "name": "CAMP",
+          "url": "https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179696,
+      "name": "C.L.O.U.D.S",
+      "url": "https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB"
+    },
+    {
+      "album": {
         "name": "Can You",
         "url": "https://open.spotify.com/album/4sIhnygQxVG4waqA65B2xk"
       },
@@ -178,6 +196,42 @@
     },
     {
       "album": {
+        "name": "FIELDNOTES PT II",
+        "url": "https://open.spotify.com/album/4tm9nzFiiZsXMtUAgDP6bF"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248873,
+      "name": "Centred",
+      "url": "https://open.spotify.com/track/4jiaScMSifa1MGSCQy4YRS"
+    },
+    {
+      "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160398,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia"
+    },
+    {
+      "album": {
         "name": "Coastin\u2019",
         "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
@@ -189,7 +243,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
@@ -251,6 +305,24 @@
       "duration_ms": 160253,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0vGw2Dlm0VuxKuTt31MRbo"
+    },
+    {
+      "album": {
+        "name": "Draft 7 \"fruitless love\"",
+        "url": "https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI"
+      },
+      "artists": [
+        {
+          "name": "Hailes",
+          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166635,
+      "name": "Draft 7 \"fruitless love\"",
+      "url": "https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN"
     },
     {
       "album": {
@@ -327,7 +399,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 180437,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1xsCnWpqy3pqj1jC85SyLQ"
@@ -349,7 +421,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 199426,
       "name": "Far Away (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS"
@@ -371,7 +443,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 160769,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a"
@@ -389,7 +461,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 173760,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu"
@@ -407,7 +479,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 223913,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
@@ -519,7 +591,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 174092,
       "name": "Hourglass (with Baby Tate)",
       "url": "https://open.spotify.com/track/58LdWh8ptJ4JBJ3SwBINjn"
@@ -559,7 +631,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 135346,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr"
@@ -599,6 +671,24 @@
       "duration_ms": 234615,
       "name": "INSIDE",
       "url": "https://open.spotify.com/track/1j1KbCOTYAGdfDJ0hsuLhc"
+    },
+    {
+      "album": {
+        "name": "Introvert Hotline",
+        "url": "https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Introvert Hotline",
+      "url": "https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU"
     },
     {
       "album": {
@@ -809,7 +899,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 214263,
       "name": "No R&B",
       "url": "https://open.spotify.com/track/4to9r81T8XZH2H4VPwxBZj"
@@ -892,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170248,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB"
+    },
+    {
+      "album": {
         "name": "Post Nut Clarity",
         "url": "https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f"
       },
@@ -907,6 +1015,24 @@
       "duration_ms": 113239,
       "name": "Post Nut Clarity",
       "url": "https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
     },
     {
       "album": {
@@ -943,7 +1069,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
@@ -990,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "SCARLET",
+        "url": "https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123421,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29"
+    },
+    {
+      "album": {
         "name": "RM. 143 (Remix)",
         "url": "https://open.spotify.com/album/39Xoc3ZGurFosNJDsc919A"
       },
@@ -1012,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "SAD TONIGHT",
+        "url": "https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "SAD TONIGHT",
+      "url": "https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2"
+    },
+    {
+      "album": {
         "name": "Serial Fboy",
         "url": "https://open.spotify.com/album/4VcIRSsRXAs7e1Xy9rxmaM"
       },
@@ -1023,10 +1185,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 179357,
       "name": "Serial Fboy",
       "url": "https://open.spotify.com/track/0841LwMiMNMa6GGTBqfh7j"
+    },
+    {
+      "album": {
+        "name": "Shoestring",
+        "url": "https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238788,
+      "name": "Shoestring",
+      "url": "https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk"
     },
     {
       "album": {
@@ -1045,7 +1225,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 227001,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs"
@@ -1129,6 +1309,24 @@
       "duration_ms": 202105,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw"
+    },
+    {
+      "album": {
+        "name": "SPF",
+        "url": "https://open.spotify.com/album/1hmZCRXu4CDl7DfxIOEo2U"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163859,
+      "name": "SPF",
+      "url": "https://open.spotify.com/track/1CONbh9I0awPEZ6VUVowW1"
     },
     {
       "album": {
@@ -1219,7 +1417,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 195506,
       "name": "Trust Nobody",
       "url": "https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF"
@@ -1277,10 +1475,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 325105,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
+    },
+    {
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/2qUVjXy8MeOvAO9qcNpdoR"
+      },
+      "artists": [
+        {
+          "name": "Alex Mali",
+          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207821,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/4YlJ86UEERz5yJB5bx4KUP"
     },
     {
       "album": {

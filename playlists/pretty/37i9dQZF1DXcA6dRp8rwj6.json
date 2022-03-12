@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world.  (Cover: Jackson Wang)",
-  "num_followers": 387091,
+  "num_followers": 387143,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,46 @@
       "duration_ms": 240000,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/0la0j39Xsph1SHDUJCXJkp"
+    },
+    {
+      "added_at": "2022-03-10 18:18:50",
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 159926,
+      "name": "Petty Too (feat. Future)",
+      "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
+    },
+    {
+      "added_at": "2022-03-10 18:18:50",
+      "album": {
+        "name": "Non-Perishable",
+        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 194172,
+      "name": "2hrs+ (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/51qu8Dd4FeYsfpSRWnGJJq"
     },
     {
       "added_at": "2022-03-10 18:18:50",
@@ -207,6 +247,30 @@
     {
       "added_at": "2022-03-10 18:18:50",
       "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
+    },
+    {
+      "added_at": "2022-03-10 18:18:50",
+      "album": {
         "name": "ALL RED",
         "url": "https://open.spotify.com/album/5KoaCl2PzPkAjom3dRofzs"
       },
@@ -295,6 +359,26 @@
     {
       "added_at": "2022-03-10 18:18:50",
       "album": {
+        "name": "Butterfly Effect (feat. RJ Payne)",
+        "url": "https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "RJ Payne",
+          "url": "https://open.spotify.com/artist/4GmSZif3utShxikscpSqjy"
+        }
+      ],
+      "duration_ms": 178117,
+      "name": "Butterfly Effect (feat. RJ Payne)",
+      "url": "https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9"
+    },
+    {
+      "added_at": "2022-03-10 18:18:50",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/44hLQThkyttusgoILcncyl"
       },
@@ -372,7 +456,7 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "DOECHII",
+          "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: YG",
+  "description": "Holdin' it down for the westside. Cover: Dr. Dre",
   "name": "Westside Story",
   "published_playlist_ids": [
     "5aX0s9SI2pKqP9pXX6vZ2V"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 170702,
       "name": "About You",
       "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 144463,
       "name": "Chose Me",
       "url": "https://open.spotify.com/track/2TXPpyvAghVDKSBeyEuUEH"
@@ -531,6 +531,24 @@
       "duration_ms": 218637,
       "name": "Crip Ya Enthusiasm",
       "url": "https://open.spotify.com/track/35tDfJl8QOSgXV2wN2B9j8"
+    },
+    {
+      "album": {
+        "name": "Dead Homies",
+        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172654,
+      "name": "Dead Homies",
+      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
     },
     {
       "album": {
@@ -714,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/44hLQThkyttusgoILcncyl"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw"
+    },
+    {
+      "album": {
         "name": "Fenix Flexin, Vol. 2 Intro",
         "url": "https://open.spotify.com/album/7s2SykVkoLSomIfdvbn9tC"
       },
@@ -846,6 +882,28 @@
     },
     {
       "album": {
+        "name": "Heaven's Sky (feat. Rae Khalil)",
+        "url": "https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229802,
+      "name": "Heaven's Sky (feat. Rae Khalil)",
+      "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
+    },
+    {
+      "album": {
         "name": "How's Life?",
         "url": "https://open.spotify.com/album/4HupIdBw3l0quug7aznnrB"
       },
@@ -937,6 +995,42 @@
       "duration_ms": 135017,
       "name": "It's Hard Not To",
       "url": "https://open.spotify.com/track/1SoacNoziTAkkUNUkT29Md"
+    },
+    {
+      "album": {
+        "name": "BABYST5XNE GORILLAS",
+        "url": "https://open.spotify.com/album/63ypakNyLDCYERVQz17caO"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179495,
+      "name": "Keep Goin",
+      "url": "https://open.spotify.com/track/5q2fIPZsejV2VdA3UeKSh2"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/4U2FeSvWV0WGMvl4Q5E5D7"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246268,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/6CigsKxaU5iDoQnWUFXw6K"
     },
     {
       "album": {
@@ -1341,7 +1435,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 164101,
       "name": "Not The Same God As Mine",
       "url": "https://open.spotify.com/track/40UUA98SbhyPmhJJm3KgYs"
@@ -1662,6 +1756,28 @@
     },
     {
       "album": {
+        "name": "skinny jeans & rick owens",
+        "url": "https://open.spotify.com/album/4qSwISAp6oU0ydUYKHqsER"
+      },
+      "artists": [
+        {
+          "name": "Suigeneris",
+          "url": "https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf"
+        },
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "skinny jeans & rick owens",
+      "url": "https://open.spotify.com/track/7ipiu6AX4PSEZC0n0IouGP"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF"
       },
@@ -1731,7 +1847,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 115822,
       "name": "STOP IT",
       "url": "https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy"
@@ -1753,7 +1869,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 251799,
       "name": "Tabula Rasa (feat. Armand Hammer)",
       "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
@@ -1771,7 +1887,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 200958,
       "name": "thailand",
       "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
@@ -1859,7 +1975,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 120217,
       "name": "Valentine's Day",
       "url": "https://open.spotify.com/track/24ikOcZ8s0n7vnXbntYT0d"
@@ -1903,6 +2019,24 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
+    },
+    {
+      "album": {
+        "name": "With The Villains / Lucky",
+        "url": "https://open.spotify.com/album/50KiZ0amgdlobUzEnriTTl"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143248,
+      "name": "With The Villains",
+      "url": "https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP"
     },
     {
       "album": {

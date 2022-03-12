@@ -1,12 +1,12 @@
 {
   "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc?si=9Izkl2gNTdeBOA7_wgnc9Q\" > A\u1e63a </a>",
-  "num_followers": 96136,
+  "num_followers": 96275,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk1OTc2NiwwMDAwMDAwMGZmZjRiZDYzYzUwZDUxMWUyNDNkYjkxZDIwNjlhN2Jh",
+  "snapshot_id": "MTY0NzA0NTc3OCwwMDAwMDAwMGZmZjRiZDYzYzUwZDUxMWUyNDNkYjkxZDIwNjlhN2Jh",
   "tracks": [
     {
       "added_at": "2022-02-24 23:00:00",
@@ -123,6 +123,30 @@
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "added_at": "2021-12-16 23:01:00",

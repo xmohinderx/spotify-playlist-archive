@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Addicted 2 U",
+        "url": "https://open.spotify.com/album/0nEy6XV1GHyRZJd1yTgcX6"
+      },
+      "artists": [
+        {
+          "name": "Oddprophet",
+          "url": "https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296112,
+      "name": "Addicted 2 U",
+      "url": "https://open.spotify.com/track/75A3usA2hRJmaqnABohyAG"
+    },
+    {
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
       },
@@ -129,7 +147,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 178178,
       "name": "ASCENSION RITE",
       "url": "https://open.spotify.com/track/0ko8SLwJgaWkhXmFZzGYXI"
@@ -213,7 +231,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 173647,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/0hvKdjFlKowmHaAr6RJWBh"
@@ -319,7 +337,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 180000,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 147200,
       "name": "Blow It Up",
       "url": "https://open.spotify.com/track/2nkEpxFxBrSNszj50S98zv"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 233646,
       "name": "Bunker Buster",
       "url": "https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 126854,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/0NWnuJORMBiSpZLKcb5FLV"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 195428,
       "name": "Control (feat. Add1ction)",
       "url": "https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 270400,
       "name": "Crush - VIP",
       "url": "https://open.spotify.com/track/4BiF66d4NFyRBCSFAwTucJ"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 158840,
       "name": "Cut Throat",
       "url": "https://open.spotify.com/track/4x1SZsoKaJGOCEgg9EF4Uz"
@@ -836,6 +854,28 @@
     },
     {
       "album": {
+        "name": "DUMP TRUCC",
+        "url": "https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ"
+      },
+      "artists": [
+        {
+          "name": "ZEKE BEATS",
+          "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "DUMP TRUCC",
+      "url": "https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3"
+    },
+    {
+      "album": {
         "name": "ELIMINATE",
         "url": "https://open.spotify.com/album/4HFka5kVY811vfUJGlVmTo"
       },
@@ -938,6 +978,28 @@
     },
     {
       "album": {
+        "name": "From My Grave",
+        "url": "https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ"
+      },
+      "artists": [
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        },
+        {
+          "name": "TINYKVT",
+          "url": "https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "From My Grave",
+      "url": "https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF"
+    },
+    {
+      "album": {
         "name": "Fusion",
         "url": "https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw"
       },
@@ -975,7 +1037,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 156800,
       "name": "Gawdam",
       "url": "https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU"
@@ -1227,7 +1289,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 211200,
       "name": "Ice Scream - Carbin Remix",
       "url": "https://open.spotify.com/track/1Eh9S6rhwBWY58yhEeoANK"
@@ -1245,10 +1307,48 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 256000,
       "name": "Ill",
       "url": "https://open.spotify.com/track/1jVCWMCgfWibathFUQbGq7"
+    },
+    {
+      "album": {
+        "name": "Joker (Gawm Remix)",
+        "url": "https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR"
+      },
+      "artists": [
+        {
+          "name": "Gawm",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
+        },
+        {
+          "name": "Frequency Pusher",
+          "url": "https://open.spotify.com/artist/3VCKNFd2r6bFaSK3DSyqUT"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        },
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        },
+        {
+          "name": "Luvaboy Tj",
+          "url": "https://open.spotify.com/artist/7gE5hIAnB7EXgQUMhjfb92"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Joker (Gawm Remix)",
+      "url": "https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB"
     },
     {
       "album": {
@@ -1399,7 +1499,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 211862,
       "name": "Lasers",
       "url": "https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO"
@@ -1599,7 +1699,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 143137,
       "name": "Muscleville",
       "url": "https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0"
@@ -1639,7 +1739,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 160000,
       "name": "No Cap",
       "url": "https://open.spotify.com/track/4T8OzVj1mcE5LNC3deHs4l"
@@ -1763,10 +1863,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 134400,
       "name": "POP DAT",
       "url": "https://open.spotify.com/track/0QlBuSVxXyYw7HGNC2PAtd"
+    },
+    {
+      "album": {
+        "name": "Power Alliance",
+        "url": "https://open.spotify.com/album/4VMxvlL7OhoHeXxH15887h"
+      },
+      "artists": [
+        {
+          "name": "Barely Alive",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Power Alliance",
+      "url": "https://open.spotify.com/track/7jbpjSAkXw829j8zGcTL2M"
     },
     {
       "album": {
@@ -1891,7 +2013,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 177193,
       "name": "Ravestab",
       "url": "https://open.spotify.com/track/6AlatqBSgJ0dkRB5Hak7Va"
@@ -2029,10 +2151,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 210857,
       "name": "Ruckus",
       "url": "https://open.spotify.com/track/0H5JiTfzmAKl4six7oWVNa"
+    },
+    {
+      "album": {
+        "name": "Scouts Honor",
+        "url": "https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI"
+      },
+      "artists": [
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214975,
+      "name": "Scouts Honor",
+      "url": "https://open.spotify.com/track/1LD0tIZELqjVcgoIvltR5V"
     },
     {
       "album": {
@@ -2117,7 +2257,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 131254,
       "name": "Sin",
       "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
@@ -2223,7 +2363,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 252800,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/4z6JhOgdaVoP4WR3gjftBJ"
@@ -2379,7 +2519,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 185800,
       "name": "THE SHOOTV",
       "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
@@ -2401,7 +2541,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 225600,
       "name": "Thermos",
       "url": "https://open.spotify.com/track/7rRMDmpE2mafOZwMtIyEe4"
@@ -2467,7 +2607,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 251586,
       "name": "Tins",
       "url": "https://open.spotify.com/track/6SINQPDsWQYa1jStwH3SSr"

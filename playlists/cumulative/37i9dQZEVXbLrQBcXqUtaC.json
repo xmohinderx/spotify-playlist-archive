@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -3585,7 +3585,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -5333,7 +5333,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
@@ -6609,7 +6609,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
@@ -7104,6 +7104,24 @@
     },
     {
       "album": {
+        "name": "\u062a\u0639\u0628\u062a \u0623\u0634\u062a\u0627\u0642",
+        "url": "https://open.spotify.com/album/2IKZvIu9Y9nlSuUd90qI7a"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Al Farwan",
+          "url": "https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214945,
+      "name": "\u062a\u0639\u0628\u062a \u0623\u0634\u062a\u0627\u0642",
+      "url": "https://open.spotify.com/track/4wQuMb5pAAfhBuY1VdM0rs"
+    },
+    {
+      "album": {
         "name": "\u062a\u0648\u0627\u062f\u0639\u0646\u064a",
         "url": "https://open.spotify.com/album/39ORPPpwaDQoo8cv0CtjOk"
       },
@@ -7259,7 +7277,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 105822,
       "name": "\u0634\u0641\u062a\u0647\u0627 \u0648\u0639\u0642\u0644\u064a \u0631\u0627\u0633\u0627 \u0637\u0627\u0631",
       "url": "https://open.spotify.com/track/0Iec0EoLzYGNZch9xIeq0g"
@@ -7295,7 +7313,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 241799,
       "name": "\u0634\u064a\u0644\u0629 \u0637\u0631\u0628 \u062d\u0645\u0627\u0633\u064a\u0629",
       "url": "https://open.spotify.com/track/67pgW0LyrChcjli8XyjT9U"

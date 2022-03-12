@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Solomon Fesshaye, Artwork: Rewina Beshue.",
-  "num_followers": 122215,
+  "num_followers": 122406,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg0NzgyMywwMDAwMDZmZDAwMDAwMTdmNmZjNzhlMDcwMDAwMDE3ZjQ4ZTliODhh",
+  "snapshot_id": "MTY0NzAyMjczNSwwMDAwMDZmZTAwMDAwMTdmN2EzNDdmNTYwMDAwMDE3ZjQ4ZTliODhh",
   "tracks": [
     {
       "added_at": "2022-03-02 17:57:57",
@@ -153,6 +153,38 @@
       "url": "https://open.spotify.com/track/5Kynp7uUwq2gOmu74QIrYS"
     },
     {
+      "added_at": "2022-03-11 18:18:55",
+      "album": {
+        "name": "Chase The Ace EP",
+        "url": "https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi"
+      },
+      "artists": [
+        {
+          "name": "AZETE",
+          "url": "https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Chase The Ace",
+      "url": "https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI"
+    },
+    {
+      "added_at": "2022-03-11 18:18:55",
+      "album": {
+        "name": "Belief",
+        "url": "https://open.spotify.com/album/0Ibd6SkmPGpNeDPrYzWdOg"
+      },
+      "artists": [
+        {
+          "name": "Deltech",
+          "url": "https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y"
+        }
+      ],
+      "duration_ms": 278730,
+      "name": "Belief - Short Edit",
+      "url": "https://open.spotify.com/track/3WmYZTRqZz7ytScxt25vb7"
+    },
+    {
       "added_at": "2022-02-16 18:00:32",
       "album": {
         "name": "Forget You",
@@ -183,6 +215,26 @@
       "duration_ms": 267840,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1iKkDpq64zlW1Cv3zdrOaX"
+    },
+    {
+      "added_at": "2022-03-11 18:18:55",
+      "album": {
+        "name": "Somethin\u2019 For Tha Underground EP",
+        "url": "https://open.spotify.com/album/5qQOzN8F9Xy0vrSHKOMxvi"
+      },
+      "artists": [
+        {
+          "name": "Mason Maynard",
+          "url": "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "duration_ms": 315110,
+      "name": "Somethin\u2019 For Tha Underground",
+      "url": "https://open.spotify.com/track/1c4qlWN8Raf1TsQFgihIfh"
     },
     {
       "added_at": "2022-02-16 18:00:32",

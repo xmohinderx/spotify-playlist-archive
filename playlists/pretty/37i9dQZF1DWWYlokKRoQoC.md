@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 
 > Celebrating the life and legacy of the songwriting legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,701 likes - 94 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,736 likes - 94 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

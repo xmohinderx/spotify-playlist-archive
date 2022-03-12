@@ -1,13 +1,29 @@
 {
-  "description": "All new, all blues. Cover: Elles Bailey",
-  "num_followers": 112958,
+  "description": "All new, all blues. Cover: Ash Grunwald",
+  "num_followers": 113038,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDA2MCwwMDAwMDBiNzAwMDAwMTdmNTM0ZDc3NjYwMDAwMDE3ZjRjOTg5Yjgz",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDBiODAwMDAwMTdmNzc1YWU1Y2YwMDAwMDE3Zjc0NTZkNWJk",
   "tracks": [
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "duration_ms": 216244,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN"
+    },
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
@@ -25,6 +41,26 @@
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Biggest Little Secret",
+        "url": "https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN"
+      },
+      "artists": [
+        {
+          "name": "Amber Woodhouse",
+          "url": "https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ"
+        },
+        {
+          "name": "Wilderwater",
+          "url": "https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "Biggest Little Secret",
+      "url": "https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw"
+    },
+    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "NOT A GOOD MAN WALKING",
@@ -39,6 +75,22 @@
       "duration_ms": 176923,
       "name": "NOT A GOOD MAN WALKING",
       "url": "https://open.spotify.com/track/679ZxPQna36dJmMRvhFwU9"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Long River",
+        "url": "https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN"
+      },
+      "artists": [
+        {
+          "name": "Angelique Francis",
+          "url": "https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Storms from My Eyes",
+      "url": "https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -73,30 +125,6 @@
       "url": "https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Mississippi Mud Pie",
-        "url": "https://open.spotify.com/album/3gxXAxPqJkR3mw9t3QqInx"
-      },
-      "artists": [
-        {
-          "name": "Davis Chris",
-          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
-        },
-        {
-          "name": "Mr Foster",
-          "url": "https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm"
-        },
-        {
-          "name": "Jayson Bendera",
-          "url": "https://open.spotify.com/artist/21YQNwp6WyauNKfMRY7kYO"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Mississippi Mud Pie",
-      "url": "https://open.spotify.com/track/1ukZeSF34vnEHRU13C3FVR"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Let Me Go",
@@ -111,6 +139,22 @@
       "duration_ms": 135993,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2Ktr9SyLhkvAKtvBEMqcoF"
+      },
+      "artists": [
+        {
+          "name": "Bill Daniels",
+          "url": "https://open.spotify.com/artist/1AaxjORCdqUfWScr7UACJT"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/4QEcznPthbvV8UTIw0FaJh"
     },
     {
       "added_at": "2022-02-25 05:02:00",

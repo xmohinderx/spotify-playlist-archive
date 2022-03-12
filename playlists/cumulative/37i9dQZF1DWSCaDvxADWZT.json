@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
   "description": "Sl\u00e1inte! All the right music to fuel your St. Patrick's Day.",
-  "name": "Happy St. Patrick's Day",
+  "name": "St. Patrick's Day 2022",
   "published_playlist_ids": [
     "3fPr0H7jPgxWnkTbsRFIwH"
   ],
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 258253,
       "name": "A Hero's Death",
       "url": "https://open.spotify.com/track/0sxx8bEWlTBmbw0X1Abgc3"
@@ -116,6 +116,42 @@
     },
     {
       "album": {
+        "name": "SIR REG",
+        "url": "https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE"
+      },
+      "artists": [
+        {
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Arrive On St. Patrick's Day",
+      "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
+    },
+    {
+      "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/5Zah4fLbDN48as0KGmywh1"
+      },
+      "artists": [
+        {
+          "name": "Christy Moore",
+          "url": "https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Back Home in Derry",
+      "url": "https://open.spotify.com/track/3rbU2EuVBNjjBW5OYKb7No"
+    },
+    {
+      "album": {
         "name": "Etched In Blue",
         "url": "https://open.spotify.com/album/4c5ZuBMa55D4m2GHeqBa1O"
       },
@@ -185,6 +221,42 @@
       "duration_ms": 187320,
       "name": "Big Sur",
       "url": "https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t"
+    },
+    {
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Botany Bay",
+      "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
+    },
+    {
+      "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300115,
+      "name": "Boys In the Better Land",
+      "url": "https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn"
     },
     {
       "album": {
@@ -332,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Dirty Old Town",
+      "url": "https://open.spotify.com/track/0qH487xSz8Z6Xk4kyOQkbG"
+    },
+    {
+      "album": {
         "name": "How to Tune a Fish",
         "url": "https://open.spotify.com/album/3EssgJ4dFoVTEzkGEjAdyH"
       },
@@ -422,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
+      },
+      "artists": [
+        {
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
+    },
+    {
+      "album": {
         "name": "Westlife",
         "url": "https://open.spotify.com/album/22pfCAdDOgyC2JfSi5OwxT"
       },
@@ -505,7 +613,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 197386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/6UZRNngC3w2z0GQcb9s2hq"
@@ -660,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Gaelic Storm",
+        "url": "https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip"
+      },
+      "artists": [
+        {
+          "name": "Gaelic Storm",
+          "url": "https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300173,
+      "name": "Johnny Jump Up/Morrison's Jig",
+      "url": "https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6"
+    },
+    {
+      "album": {
         "name": "House of Pain (Fine Malt Lyrics)",
         "url": "https://open.spotify.com/album/2z37UnazitI7yDEF0IjE0v"
       },
@@ -790,6 +916,28 @@
     },
     {
       "album": {
+        "name": "Irish Drinking Songs",
+        "url": "https://open.spotify.com/album/22g2ochq0A8wojUx2SPm13"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers",
+          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+        },
+        {
+          "name": "Tommy Makem",
+          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131533,
+      "name": "Mountain Dew (with Tommy Makem)",
+      "url": "https://open.spotify.com/track/1t2NRCaPgdCScicuzq8tjG"
+    },
+    {
+      "album": {
         "name": "If This Is Rock and Roll, I Want My Old Job Back",
         "url": "https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR"
       },
@@ -891,7 +1039,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 200680,
       "name": "One Drink",
       "url": "https://open.spotify.com/track/7ITXKzRU7eqcRwF2YXZj8b"
@@ -913,7 +1061,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 228906,
       "name": "Only a Woman's Heart",
       "url": "https://open.spotify.com/track/36phW4oPdrmv5U9cDg5ow3"
@@ -1093,7 +1241,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 226960,
       "name": "Revelate",
       "url": "https://open.spotify.com/track/6NoYy3ntUwpmVCxP7Y0CBz"
@@ -1154,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/3j5QcKYJ836ZBbcj1OoEod"
+    },
+    {
+      "album": {
         "name": "Forgiven, Not Forgotten",
         "url": "https://open.spotify.com/album/4acB71ZhsfYGdTdqdbpzLK"
       },
@@ -1183,10 +1349,28 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 216893,
       "name": "Saints & Sinners",
       "url": "https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB"
+    },
+    {
+      "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165493,
+      "name": "Sally MacLennane",
+      "url": "https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH"
     },
     {
       "album": {
@@ -1237,7 +1421,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 182840,
       "name": "So Good - Radio Edit",
       "url": "https://open.spotify.com/track/6vejJ1w5Dy0iFQ23rGwvSs"
@@ -1316,6 +1500,42 @@
     },
     {
       "album": {
+        "name": "Gaelic Storm",
+        "url": "https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip"
+      },
+      "artists": [
+        {
+          "name": "Gaelic Storm",
+          "url": "https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Tell Me Ma",
+      "url": "https://open.spotify.com/track/0Z3p6q8nol4dlf3b0WRI1a"
+    },
+    {
+      "album": {
+        "name": "Tell Me Ma",
+        "url": "https://open.spotify.com/album/6vFdEOGr37S7fYj9L0IZRD"
+      },
+      "artists": [
+        {
+          "name": "Sham Rock",
+          "url": "https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Tell Me Ma",
+      "url": "https://open.spotify.com/track/7BZOYDhoCAR2AkvGBrj6vw"
+    },
+    {
+      "album": {
         "name": "The Best That Is Irish",
         "url": "https://open.spotify.com/album/7J0sAzihQWfUvsqVPpOuUt"
       },
@@ -1370,6 +1590,46 @@
     },
     {
       "album": {
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
+      },
+      "artists": [
+        {
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "The Dublin Pub Crawl",
+      "url": "https://open.spotify.com/track/78nceFqT22hjM0pLjQh1Lg"
+    },
+    {
+      "album": {
+        "name": "The Essential Chieftains",
+        "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
+      },
+      "artists": [
+        {
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320773,
+      "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
+      "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
+    },
+    {
+      "album": {
         "name": "The Sharon Shannon Collection 1990-2005",
         "url": "https://open.spotify.com/album/3oDKKA7xxAWm0oQyG7DRZu"
       },
@@ -1414,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
+      },
+      "artists": [
+        {
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "The Jolly Roving Tar",
+      "url": "https://open.spotify.com/track/28GJQytbanlHUzcfAKScNS"
+    },
+    {
+      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
@@ -1429,6 +1707,24 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy"
+      },
+      "artists": [
+        {
+          "name": "Great Big Sea",
+          "url": "https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "The Night Pat Murphy Died",
+      "url": "https://open.spotify.com/track/3gPgHc1d2PhLlZXDD362SA"
     },
     {
       "album": {
@@ -1541,7 +1837,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 235853,
       "name": "To You I Bestow",
       "url": "https://open.spotify.com/track/06Oxva0xgdAKILOHS1d6se"

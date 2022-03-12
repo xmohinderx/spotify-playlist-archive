@@ -1,12 +1,12 @@
 {
   "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Mighty Mark",
-  "num_followers": 9588,
+  "num_followers": 9604,
   "original_name": "Baltimore Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwYjAwMDAwMTdmMmY0MGYzNWIwMDAwMDE3ZjI4OWRlYjM2",
+  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDAwYzAwMDAwMTdmNzc1OTExNDYwMDAwMDE3ZjI4OWRlYjM2",
   "tracks": [
     {
       "added_at": "2022-02-25 05:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 153230,
       "name": "Murder",
       "url": "https://open.spotify.com/track/5gIEBVBMo82RxHQIHW2aeD"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "BING BONG (SIDETALKNYC 2 BMORE)",
+        "url": "https://open.spotify.com/album/2YSwZgAOBOTfqiMiCyUacj"
+      },
+      "artists": [
+        {
+          "name": "Petty Penguin",
+          "url": "https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0"
+        },
+        {
+          "name": "DJ Beast Baltimore",
+          "url": "https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS"
+        }
+      ],
+      "duration_ms": 155653,
+      "name": "BING BONG (SIDETALKNYC 2 BMORE)",
+      "url": "https://open.spotify.com/track/6tLTynz9XBc6J69Ji1YuQO"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -171,6 +191,26 @@
       "duration_ms": 166974,
       "name": "Shake My Ass",
       "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Get The Cheese",
+        "url": "https://open.spotify.com/album/65qZ9aiphE7cO7lS5aN7T8"
+      },
+      "artists": [
+        {
+          "name": "Munchii",
+          "url": "https://open.spotify.com/artist/6RRfw8TLkkXCN5VanukT9e"
+        },
+        {
+          "name": "Petty Penguin",
+          "url": "https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0"
+        }
+      ],
+      "duration_ms": 206596,
+      "name": "How 2 Stunt",
+      "url": "https://open.spotify.com/track/0iBtoy6i4iGcB6WtTUF4cq"
     },
     {
       "added_at": "2022-02-25 05:01:00",

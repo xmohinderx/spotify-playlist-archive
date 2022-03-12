@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 242193,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 217346,
       "name": "Echoing",
       "url": "https://open.spotify.com/track/7ab894xLywHmwswdr00QSr"
@@ -749,6 +749,24 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "album": {
+        "name": "Looking For An Answer",
+        "url": "https://open.spotify.com/album/1puSALARUdrEKSZrCp7Jw5"
+      },
+      "artists": [
+        {
+          "name": "Ratos De Por\u00e3o",
+          "url": "https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "Ex\u00e9rcito de Zumbis",
+      "url": "https://open.spotify.com/track/4DMbgo8xkyBuSWUHUxv7O6"
     },
     {
       "album": {
@@ -1462,6 +1480,24 @@
     },
     {
       "album": {
+        "name": "Rich Kids Ruin Everything",
+        "url": "https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156574,
+      "name": "Rich Kids Ruin Everything",
+      "url": "https://open.spotify.com/track/4ANzvISz338P5mRff2m63x"
+    },
+    {
+      "album": {
         "name": "Sex Magik",
         "url": "https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU"
       },
@@ -1737,7 +1773,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 189882,
       "name": "The Beauty In Breaking",
       "url": "https://open.spotify.com/track/6Dsb8t19ETwDsxmiWx7Qy7"
@@ -1965,6 +2001,24 @@
       "duration_ms": 244004,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl"
+    },
+    {
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321708,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4908CEYEdlz"

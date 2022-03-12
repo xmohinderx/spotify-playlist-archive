@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "F\u00e3 de Carteirinha Sunset (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172195,
+      "name": "A Culpa \u00c9 do Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cw2CLeQlhYbJmSbi2lxxD"
+    },
+    {
+      "album": {
         "name": "Ousadia & Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 188309,
       "name": "Amor Da Sua Cama",
       "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
@@ -135,7 +153,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 165360,
       "name": "Anti-Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/7JdZZfozlODQ08ATf8xIZ6"
@@ -377,7 +395,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 175226,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/29QzIklnzkIJMM52nwPzE3"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 246293,
       "name": "Deserto",
       "url": "https://open.spotify.com/track/2VtqQYnbE16obMwI9iXEwp"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 173666,
       "name": "Eu Ligo Pra Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/6lcUzde7peeHxraZ3Maf5k"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 233042,
       "name": "Eu Te Amo - Ao Vivo",
       "url": "https://open.spotify.com/track/1R38t8OwFftz2EzCwMogIJ"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 145504,
       "name": "Fora de Si",
       "url": "https://open.spotify.com/track/6JwJ0BfLnfHojJEoafjFfV"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 243097,
       "name": "Melhor Eu Ir - Ao Vivo",
       "url": "https://open.spotify.com/track/2pbmSONpVrMl9OEetkL974"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 167240,
       "name": "Nocaute",
       "url": "https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 174178,
       "name": "Para, Pensa e Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 205430,
       "name": "Ponto Fraco - Ao Vivo",
       "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 211000,
       "name": "Pra Te Fazer Lembrar",
       "url": "https://open.spotify.com/track/0MjB6am7NYH8cTyZTerCiR"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 203894,
       "name": "Pra voc\u00ea acreditar - Ao vivo",
       "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 179722,
       "name": "quando a bad bater - ao vivo",
       "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 189335,
       "name": "Santo Forte (Ao Vivo) (feat. Luan Santana)",
       "url": "https://open.spotify.com/track/1ekX8JX7LF3AyxI0nyOzvB"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 183073,
       "name": "Text\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3yOuQI8yjJaApfdo4hdkVW"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 220081,
       "name": "Vai por Mim",
       "url": "https://open.spotify.com/track/5DgTJpZB8OEqjAmfZZJQsE"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 194631,
       "name": "Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/08Sd5vVcIH3uKeAiaJdoYj"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"

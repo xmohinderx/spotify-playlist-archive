@@ -1,12 +1,12 @@
 {
   "description": "California music breaking waves. Cover, Amindi",
-  "num_followers": 2549,
+  "num_followers": 2551,
   "original_name": "Ripple Effect: Bay to LA ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjQxODY4OSwwMDAwMDAxYzAwMDAwMTdmNTYzMzdmYjYwMDAwMDE3ZjMyZDk2MGM2",
+  "snapshot_id": "MTY0NzAyNzc5NSwwMDAwMDAxZDAwMDAwMTdmN2E4MWI2MjQwMDAwMDE3ZjMyZDk2MGM2",
   "tracks": [
     {
       "added_at": "2022-03-04 18:31:29",
@@ -211,6 +211,26 @@
       "duration_ms": 149735,
       "name": "good vibe music (feat. Larry June)",
       "url": "https://open.spotify.com/track/4h2WR5oFc4SWPWchwN7fEs"
+    },
+    {
+      "added_at": "2022-03-11 19:43:15",
+      "album": {
+        "name": "CircoLoco Records & NEZ Present CLR 002",
+        "url": "https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Let's Get It",
+      "url": "https://open.spotify.com/track/1Lpl62qGlJaaojgGiJNVho"
     },
     {
       "added_at": "2022-03-04 18:31:29",
@@ -595,38 +615,6 @@
       "duration_ms": 164684,
       "name": "Get You Right.",
       "url": "https://open.spotify.com/track/1zeG4hV2bHBh3znkcjmNyp"
-    },
-    {
-      "added_at": "2022-02-25 20:29:55",
-      "album": {
-        "name": "Sudi",
-        "url": "https://open.spotify.com/album/6SZbJcV18vhjh64zVIwvt0"
-      },
-      "artists": [
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 162845,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/0jmChaVHtk42naR94j2va1"
-    },
-    {
-      "added_at": "2022-02-25 20:29:55",
-      "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 112787,
-      "name": "Lye",
-      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
     },
     {
       "added_at": "2022-02-25 20:29:55",

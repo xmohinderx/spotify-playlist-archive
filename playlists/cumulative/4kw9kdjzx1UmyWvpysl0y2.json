@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 191000,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 186562,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4mqPjnIz3jSsDY7SaNIISD"
@@ -1041,6 +1041,24 @@
       "duration_ms": 203530,
       "name": "Love For You",
       "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
+    },
+    {
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE"
+      },
+      "artists": [
+        {
+          "name": "Saxsquatch",
+          "url": "https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy"
     },
     {
       "album": {
@@ -1821,6 +1839,24 @@
       "duration_ms": 260428,
       "name": "The Warehouse - Justin Hawkes Remix",
       "url": "https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe"
+    },
+    {
+      "album": {
+        "name": "This Is The Life We Dreamed Of",
+        "url": "https://open.spotify.com/album/1Mf5B4sfQnNMkpxt20SZvE"
+      },
+      "artists": [
+        {
+          "name": "IPeiqi",
+          "url": "https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "This Is The Life We Dreamed Of",
+      "url": "https://open.spotify.com/track/3pUcJ0iqUjdBp5Tecep22N"
     },
     {
       "album": {

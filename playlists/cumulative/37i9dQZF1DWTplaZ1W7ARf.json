@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Neighborhood Storytellers. Cover: Stunna Gambino",
+  "description": "Neighborhood Storytellers. Cover: Yo Gotti",
   "name": "Street Soul",
   "published_playlist_ids": [
     "5n5KtY8h4kAoEatkpfvbQd"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 212063,
       "name": "Already Won (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151340,
+      "name": "Federal Nightmares",
+      "url": "https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl"
+    },
+    {
+      "album": {
         "name": "Life of a Savage 2",
         "url": "https://open.spotify.com/album/6r3kyA8HungIaSRs7CVtqW"
       },
@@ -551,7 +569,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 233513,
       "name": "Life Support",
       "url": "https://open.spotify.com/track/1vERyqgnr9u4BnbLTKFNq6"
@@ -1429,6 +1447,28 @@
       "duration_ms": 210989,
       "name": "We Slide (feat. Young Thug)",
       "url": "https://open.spotify.com/track/43JY1IBWONa8J8FqlbNOZ1"
+    },
+    {
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181393,
+      "name": "What Happened To Virgil (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf"

@@ -1,12 +1,12 @@
 {
   "description": "Lush, shimmery guitars. Cover: Tom Misch",
-  "num_followers": 8581,
+  "num_followers": 8609,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODk4ODE0NywwMDAwMDAwNjAwMDAwMTdkOWI0ZTZjN2EwMDAwMDE3ZDliNGUzOTA0",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwNzAwMDAwMTdmNzc1YWU1YjkwMDAwMDE3ZDliNGUzOTA0",
   "tracks": [
     {
       "added_at": "2021-09-08 16:21:45",
@@ -23,6 +23,34 @@
       "duration_ms": 113053,
       "name": "thinking of you",
       "url": "https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        },
+        {
+          "name": "Cool Cats Lofi",
+          "url": "https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5"
     },
     {
       "added_at": "2021-09-08 16:21:45",

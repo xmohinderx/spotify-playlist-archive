@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=Vgpr7tHjS2CfggGsb8UGag\"> Omah Lay </a> and <a href=\"https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s?si=l5tN5gNgRtCgrL9oBiQSsA\"> Justice Beiber </a>",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX?si=CGxYypQ5S52-H1hRrcIe4g\"> Rexx Life Raj </a>,  <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=OChlw-hCSMiiVfCdbzgPeg\"> Fireboy DML </a> and <a href=\"https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE?si=Oo85yH0ySRa5EW_fH-rNEg\"> Wale</a>",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -289,6 +289,32 @@
       "duration_ms": 192597,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/2RYmAXiYFHOPVsPuk8ae5u"
+    },
+    {
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "album": {

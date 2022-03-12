@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Alison Shearer\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,273 likes - 123 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,396 likes - 123 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

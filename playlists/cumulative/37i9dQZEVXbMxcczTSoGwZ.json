@@ -5676,6 +5676,24 @@
     },
     {
       "album": {
+        "name": "Kaikki on satua",
+        "url": "https://open.spotify.com/album/0xfUl4dOtqRjK4kZrf1JQA"
+      },
+      "artists": [
+        {
+          "name": "Pariisin Kev\u00e4t",
+          "url": "https://open.spotify.com/artist/2Bj3YsSKo7O5bj3Ku6z1Ny"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Kes\u00e4y\u00f6",
+      "url": "https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA"
+    },
+    {
+      "album": {
         "name": "Kev\u00e4\u00e4t",
         "url": "https://open.spotify.com/album/4OUR1Ns0MEZLl8i2KANyyS"
       },
@@ -7379,7 +7397,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 190376,
       "name": "MeitsiOn",
       "url": "https://open.spotify.com/track/6xQaikuArLcGoUbJXZBLHX"

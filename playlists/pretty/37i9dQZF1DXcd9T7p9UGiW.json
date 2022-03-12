@@ -1,12 +1,12 @@
 {
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=Vgpr7tHjS2CfggGsb8UGag\"> Omah Lay </a> and <a href=\"https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s?si=l5tN5gNgRtCgrL9oBiQSsA\"> Justice Beiber </a>",
-  "num_followers": 2461,
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX?si=CGxYypQ5S52-H1hRrcIe4g\"> Rexx Life Raj </a>,  <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=OChlw-hCSMiiVfCdbzgPeg\"> Fireboy DML </a> and <a href=\"https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE?si=Oo85yH0ySRa5EW_fH-rNEg\"> Wale</a>",
+  "num_followers": 2476,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk1NjgwMCwwMDAwMDAxNDAwMDAwMTdmNzY0NjY4ZDMwMDAwMDE3ZjRlNjQ3MmNm",
+  "snapshot_id": "MTY0NzAwMDI3NiwwMDAwMDAxNTAwMDAwMTdmNzhkZGNmZTYwMDAwMDE3Zjc4ZGJkZjIy",
   "tracks": [
     {
       "added_at": "2021-10-08 09:53:07",
@@ -27,6 +27,30 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "added_at": "2022-03-03 23:02:00",

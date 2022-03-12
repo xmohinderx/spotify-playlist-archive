@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 391875,
       "name": "Afterhour",
       "url": "https://open.spotify.com/track/2Sh9tvtvR7rmnBpeQ7KbPu"
@@ -1314,6 +1314,24 @@
     },
     {
       "album": {
+        "name": "Dirty Lagoon",
+        "url": "https://open.spotify.com/album/5uMPiDmYI70mtdxRnQJ2pH"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290008,
+      "name": "Dirty Lagoon",
+      "url": "https://open.spotify.com/track/4JvutGrckEHMwqvezbMRwB"
+    },
+    {
+      "album": {
         "name": "Distance - EP",
         "url": "https://open.spotify.com/album/1tz2pddT85FcmrmkCe0zfs"
       },
@@ -1691,6 +1709,24 @@
       "duration_ms": 420500,
       "name": "Exodia - Original Version",
       "url": "https://open.spotify.com/track/0mwlxHTGArkWN9vJekxm6k"
+    },
+    {
+      "album": {
+        "name": "Exosphere",
+        "url": "https://open.spotify.com/album/5Nmxx2hiCah4qE76BHF9IG"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254890,
+      "name": "Exosphere (Original Mix)",
+      "url": "https://open.spotify.com/track/2HnZw41eV5iYJYSYMlKOMt"
     },
     {
       "album": {
@@ -2259,6 +2295,24 @@
       "duration_ms": 330281,
       "name": "Hot Box",
       "url": "https://open.spotify.com/track/5Qa1MDLb48sqc0alzBt8FF"
+    },
+    {
+      "album": {
+        "name": "Huys",
+        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440454,
+      "name": "Huys",
+      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
     },
     {
       "album": {
@@ -4225,7 +4279,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 365437,
       "name": "Space Invaders",
       "url": "https://open.spotify.com/track/6Y0ThJzQPRtddk7Jgx7NXZ"
@@ -4469,7 +4523,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 378505,
       "name": "Temptation - Original Mix",
       "url": "https://open.spotify.com/track/31KN9jd7uBVdCWlagKw1OP"

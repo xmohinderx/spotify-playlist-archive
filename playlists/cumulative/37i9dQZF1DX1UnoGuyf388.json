@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/44hLQThkyttusgoILcncyl"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw"
+    },
+    {
+      "album": {
         "name": "Fast (Motion)",
         "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
       },
@@ -550,6 +568,24 @@
     },
     {
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/40xnM71tlIZ299GruGToGD"
+      },
+      "artists": [
+        {
+          "name": "Synae",
+          "url": "https://open.spotify.com/artist/3Q2nENhSwAYt3rP6LZUoIq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/1dZW33lY36vkumMm5F5RrD"
+    },
+    {
+      "album": {
         "name": "Get Goin",
         "url": "https://open.spotify.com/album/4sAXX4tAIU5wlI5Vz1ezH9"
       },
@@ -579,7 +615,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 171575,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/05UltuNI98AkRfrxqgVBUu"
@@ -1062,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "HIT 'EM WITH THE FUNK",
+        "url": "https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232364,
+      "name": "NASTY GIRL",
+      "url": "https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4"
+    },
+    {
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
       },
@@ -1443,7 +1497,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 161927,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX"
@@ -1624,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/4zXVhFAp2JpAv4iUOfEugv"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198967,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/3sBpAPxT5vYbj0haQEr5lA"
+    },
+    {
+      "album": {
         "name": "THE WAY I FEEL",
         "url": "https://open.spotify.com/album/7mzTwyIJGqxoejmhBXOMnX"
       },
@@ -1635,7 +1707,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 213871,
       "name": "THE WAY I FEEL",
       "url": "https://open.spotify.com/track/3sUznPWwYhczB0v6SFkgc0"
@@ -1880,12 +1952,30 @@
     },
     {
       "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF"
+      },
+      "artists": [
+        {
+          "name": "Kayla Thompson",
+          "url": "https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ"
+    },
+    {
+      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
       "artists": [
         {
-          "name": "DOECHII",
+          "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
@@ -1895,6 +1985,24 @@
       "duration_ms": 275520,
       "name": "Yucky Blucky Fruitcake",
       "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy (Get Yummy)",
+        "url": "https://open.spotify.com/album/4bvq5s0WRgcEshUotY62WK"
+      },
+      "artists": [
+        {
+          "name": "Omega Mighty",
+          "url": "https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84725,
+      "name": "Yummy Yummy (Get Yummy)",
+      "url": "https://open.spotify.com/track/1SZ1TubSGxGXqA4uNzyNTW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1UnoGuyf388"

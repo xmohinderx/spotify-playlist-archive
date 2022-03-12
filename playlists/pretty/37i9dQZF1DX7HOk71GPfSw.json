@@ -1,28 +1,132 @@
 {
   "description": "\"hyperpop is yoinky sploinky\" #hyperpopdesc Cover: Fraxiom",
-  "num_followers": 302886,
+  "num_followers": 303246,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjkzOTQ0MSwwMDAwMDEzYjAwMDAwMTdmNzUzZDg5MDcwMDAwMDE3ZjUxNWY0NGJm",
+  "snapshot_id": "MTY0NzAxMDMxOCwwMDAwMDEzYzAwMDAwMTdmNzk3NzBhNmYwMDAwMDE3ZjUxNWY0NGJm",
   "tracks": [
     {
-      "added_at": "2022-03-10 19:10:41",
+      "added_at": "2022-03-11 14:51:58",
       "album": {
-        "name": "peer2peer",
-        "url": "https://open.spotify.com/album/15ekvk8A3UT9LEz2bWsTVp"
+        "name": "Mental (feat. Slump6s & glaive)",
+        "url": "https://open.spotify.com/album/5jmPMZargFxop6FYM7Kv5J"
       },
       "artists": [
         {
-          "name": "webcage",
-          "url": "https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Slump6s",
+          "url": "https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j"
+        },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 178668,
-      "name": "self-esteem",
-      "url": "https://open.spotify.com/track/02wZeI0pdVXOv3ZeTJVFlB"
+      "duration_ms": 173585,
+      "name": "Mental (feat. Slump6s & glaive)",
+      "url": "https://open.spotify.com/track/1aRwfcw6dJCFADHm4fqy4T"
+    },
+    {
+      "added_at": "2022-03-11 14:51:58",
+      "album": {
+        "name": "Big Knife",
+        "url": "https://open.spotify.com/album/7xiGq6zF9DiMNIbdBXGmNF"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "Big Knife",
+      "url": "https://open.spotify.com/track/63EYu4a6H2yxOiLMa6KarS"
+    },
+    {
+      "added_at": "2022-03-11 14:51:58",
+      "album": {
+        "name": "Broke Nobody",
+        "url": "https://open.spotify.com/album/3uWdXNERsJeNI7HfWi28Ko"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "duration_ms": 112526,
+      "name": "Broke Nobody",
+      "url": "https://open.spotify.com/track/4nYOh3kozGbtxwTEsBiMax"
+    },
+    {
+      "added_at": "2022-03-11 14:51:58",
+      "album": {
+        "name": "lavender",
+        "url": "https://open.spotify.com/album/5NgbRiQlNELNvWXDoO6kKe"
+      },
+      "artists": [
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "lavender",
+      "url": "https://open.spotify.com/track/1Idid9PZdEK2U3L37yoR4A"
+    },
+    {
+      "added_at": "2022-03-11 14:51:58",
+      "album": {
+        "name": "curse/nosebleed",
+        "url": "https://open.spotify.com/album/5PvTzqHtkf6O9cCKDo3lm6"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 129597,
+      "name": "nosebleed",
+      "url": "https://open.spotify.com/track/2B4T6pxZZSqMJHsHz2Lg8x"
+    },
+    {
+      "added_at": "2022-03-11 14:51:58",
+      "album": {
+        "name": "u guys suck :'(",
+        "url": "https://open.spotify.com/album/0HkXICP4foRAIiNveqQo0T"
+      },
+      "artists": [
+        {
+          "name": "SadHappyRabbit",
+          "url": "https://open.spotify.com/artist/3u8VPTrL17YQBkjUiZBkzd"
+        }
+      ],
+      "duration_ms": 149503,
+      "name": "u guys suck :'(",
+      "url": "https://open.spotify.com/track/3CBtyWfEoNZZfI3qCjqbLs"
+    },
+    {
+      "added_at": "2022-03-11 14:51:58",
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/1S4H8ZzBYqVPt8hE6D9Q5X"
+      },
+      "artists": [
+        {
+          "name": "Mega Flare",
+          "url": "https://open.spotify.com/artist/2IIfnJSprmAN47vePMSBoX"
+        }
+      ],
+      "duration_ms": 186925,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/24IRMuOYZ46srUhYcQ5BCs"
     },
     {
       "added_at": "2022-03-04 05:05:00",
@@ -39,6 +143,22 @@
       "duration_ms": 124328,
       "name": "all i want",
       "url": "https://open.spotify.com/track/2Xs34YDFvztiJkmwqkYUdV"
+    },
+    {
+      "added_at": "2022-03-10 19:10:41",
+      "album": {
+        "name": "peer2peer",
+        "url": "https://open.spotify.com/album/15ekvk8A3UT9LEz2bWsTVp"
+      },
+      "artists": [
+        {
+          "name": "webcage",
+          "url": "https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8"
+        }
+      ],
+      "duration_ms": 178668,
+      "name": "self-esteem",
+      "url": "https://open.spotify.com/track/02wZeI0pdVXOv3ZeTJVFlB"
     },
     {
       "added_at": "2022-03-04 05:05:00",

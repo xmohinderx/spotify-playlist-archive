@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,726 likes - 94 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,165 likes - 94 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 |
 | 2 | [haunt me \(x 3\)](https://open.spotify.com/track/4nsY0oW9IWBUqdoUXv1nUg) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/4YBOpXeNUJzCzLcsGucOMQ) | 2:45 |
 | 3 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
-| 4 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool \- EP](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:27 |
+| 4 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:25 |
 | 5 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
 | 6 | [Silk](https://open.spotify.com/track/7f62MruiQN3mxACnIU0yxO) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/0k5PHXVakV1aq3UmacxELa) | 4:03 |
 | 7 | [Blue](https://open.spotify.com/track/0x9PaR4PUbcOfdzQAPZtlR) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/5vqX6dLfL5513FnnpCXTNY) | 3:17 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 68 | [Heaven](https://open.spotify.com/track/5bTDAZWncGRgs184ISoHIT) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Legal Ghost/Heaven](https://open.spotify.com/album/0sinuvgm6LIWPLqwnQ2UfJ) | 5:13 |
 | 69 | [Sospeche](https://open.spotify.com/track/3mGzpu1cjU1QAeZdfmKaZ5) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Sospeche](https://open.spotify.com/album/4QZCtPpwh1zbhgz76v2VvI) | 3:52 |
 | 70 | [Fazer Folk \(Teeth Version\)](https://open.spotify.com/track/4MxUhgxYz3LMgvfOhhHZZZ) | [Teeth Agency](https://open.spotify.com/artist/3R2C23kElKLZaxLN2kxlhd) | [Fazer Folk / Many People](https://open.spotify.com/album/05RfJp5i4X3eMEhqS3jXt3) | 4:00 |
-| 71 | [One For Regret](https://open.spotify.com/track/4Poq4hcH8EmQgcERGJocGk) | [Lost Horizons](https://open.spotify.com/artist/2OJXAu43maMgqH7V2GxV4z), [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [In Quiet Moments](https://open.spotify.com/album/7cTWmSPSNBfU9o4ShtR8uO) | 2:11 |
+| 71 | [One For Regret](https://open.spotify.com/track/4Poq4hcH8EmQgcERGJocGk) | [Lost Horizons](https://open.spotify.com/artist/2OJXAu43maMgqH7V2GxV4z), [Simon Raymonde](https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ), [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [In Quiet Moments](https://open.spotify.com/album/7cTWmSPSNBfU9o4ShtR8uO) | 2:11 |
 | 72 | [I Will Be the World](https://open.spotify.com/track/4IK1kdZdfaluKkm9dJRG59) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/5AJn8hwQYJ1JuvpX41TSUO) | 4:31 |
 | 73 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 |
 | 74 | [Station Wagon](https://open.spotify.com/track/2cvBpyqeKbRCbomGBfa9PQ) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink](https://open.spotify.com/album/7hl54HF6Nykh5IDrbqhiJX) | 6:39 |

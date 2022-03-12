@@ -1126,6 +1126,24 @@
     },
     {
       "album": {
+        "name": "I Hate Alabama",
+        "url": "https://open.spotify.com/album/2bCz5dI9f3wy25himhvKiL"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "I Hate Alabama",
+      "url": "https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78"
+    },
+    {
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },

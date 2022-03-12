@@ -794,6 +794,28 @@
     },
     {
       "album": {
+        "name": "anio\u0142y",
+        "url": "https://open.spotify.com/album/7wyLfqGJ1c3cDovIKspHQ5"
+      },
+      "artists": [
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        },
+        {
+          "name": "Misia Furtak",
+          "url": "https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164977,
+      "name": "anio\u0142y",
+      "url": "https://open.spotify.com/track/4bKgagTAtgb64bPkA51voy"
+    },
+    {
+      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -5468,6 +5490,28 @@
     },
     {
       "album": {
+        "name": "LAXJFK",
+        "url": "https://open.spotify.com/album/4fFEVT8cGAPCN99Fzwk6Hs"
+      },
+      "artists": [
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        },
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142852,
+      "name": "LAXJFK",
+      "url": "https://open.spotify.com/track/0XpnaVJkEWErJ14ZgLVa7l"
+    },
+    {
+      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
@@ -7417,7 +7461,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 173373,
       "name": "Pancerz",
       "url": "https://open.spotify.com/track/7hpBLxLtfKEAQzwsImHSKk"

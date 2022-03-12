@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 301318,
       "name": "Do the Romp",
       "url": "https://open.spotify.com/track/3Zx3knFZ9hOCGFqZX3OWlE"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 180173,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 152253,
       "name": "She Said, She Said",
       "url": "https://open.spotify.com/track/1e8Y35sK08V3BbHKkgYZAM"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 230906,
       "name": "The Baddest Man Alive",
       "url": "https://open.spotify.com/track/2Gg9tkVjRYoZHhXzBeYyuV"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "The Breaks",
       "url": "https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ"
@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
+    },
+    {
+      "album": {
         "name": "Chulahoma",
         "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
       },
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 228120,
       "name": "Year in Review",
       "url": "https://open.spotify.com/track/0MV8NQXGDMR0EKX314JlN9"

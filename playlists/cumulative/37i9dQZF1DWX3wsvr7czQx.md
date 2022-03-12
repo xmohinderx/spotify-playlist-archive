@@ -2,12 +2,13 @@
 
 ### [Classic Artists New Music](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
-> Icons only\. Cover: Tears for Fears
+> Icons only\. Cover: Bryan Adams
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 | 2022-01-21 |  |
 | [All Is Well](https://open.spotify.com/track/2I92BoMwz7ChEbSeuKEnQh) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All Is Well](https://open.spotify.com/album/592OJr6HhuC1przr7bDMoL) | 4:32 | 2021-10-22 |  |
+| [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 | 2022-03-11 |  |
 | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78) | 3:44 | 2021-10-22 |  |
 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 | 2021-10-22 |  |
 | [Beautiful Sunshine](https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [The Journey](https://open.spotify.com/album/5wqUZZr1E77YnRSBYD0Y5E) | 2:55 | 2021-11-05 |  |
@@ -35,7 +36,7 @@
 | [Metal Water Wood](https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Ocean to Ocean](https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn) | 4:00 | 2021-10-29 |  |
 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-10-22 |  |
 | [Mr Haze](https://open.spotify.com/track/7G5WlOGP22EwQjb50il1ZZ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Hi \(Deluxe\)](https://open.spotify.com/album/3vSFoYoiYD8ir8VYaGx6Vn) | 3:39 | 2021-10-22 |  |
-| [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-28 |  |
+| [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-28 | 2022-03-12 |
 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 | 2021-10-22 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2021-12-03 | 2022-02-26 |
 | [One Hell Of A Life](https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7) | 5:23 | 2021-12-03 |  |

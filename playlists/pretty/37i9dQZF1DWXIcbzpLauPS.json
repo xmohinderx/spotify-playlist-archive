@@ -1,12 +1,12 @@
 {
-  "description": "This is the new core at its finest. Cover: LANDMVRKS & Chunk! No, Captain Chunk!",
-  "num_followers": 516515,
+  "description": "This is the new core at its finest. Cover: LANDMVRKS, Chunk! No, Captain Chunk!",
+  "num_followers": 516611,
   "original_name": "New Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM0ODUyMCwwMDAwMDUxYjAwMDAwMTdmNTIwNGNhZDEwMDAwMDE3ZjQ2OTA1ZDdk",
+  "snapshot_id": "MTY0NzAwODUwOCwwMDAwMDUxZDAwMDAwMTdmNzk1YjY5MTUwMDAwMDE3ZjQ2OTA1ZDdk",
   "tracks": [
     {
       "added_at": "2022-03-03 23:02:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/5f9suvoGnZN8k4h55sVJLt"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 210169,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/1yR2RjmQ2SuFp33KnEOXEk"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
         "name": "Plastic Heart",
         "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
       },
@@ -75,6 +59,58 @@
       "duration_ms": 183350,
       "name": "Plastic Heart",
       "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Cyberhex",
+        "url": "https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Lindsay Schoolcraft",
+          "url": "https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ"
+        }
+      ],
+      "duration_ms": 275247,
+      "name": "Cyberhex",
+      "url": "https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/5f9suvoGnZN8k4h55sVJLt"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 210169,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/1yR2RjmQ2SuFp33KnEOXEk"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -143,22 +179,6 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Peace That Starts the War",
-        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 168391,
-      "name": "Peace That Starts the War",
-      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE"
       },
@@ -187,6 +207,22 @@
       "duration_ms": 204676,
       "name": "Just Pretend",
       "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2xUM3kskk8sMsXqaxDV32R"
+      },
+      "artists": [
+        {
+          "name": "Palisades",
+          "url": "https://open.spotify.com/artist/2w6slVluzWlwADP8aB5yz5"
+        }
+      ],
+      "duration_ms": 199281,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1CNQI6EQwjJJi48OoMa8gw"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -235,6 +271,26 @@
       "duration_ms": 185772,
       "name": "Left For Dead",
       "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
+        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
+      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -291,22 +347,50 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
-        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Fight The Fade",
+          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
         }
       ],
-      "duration_ms": 176587,
-      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
-      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
+      "duration_ms": 218624,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
+      },
+      "artists": [
+        {
+          "name": "Wake Up Hate",
+          "url": "https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk"
+        }
+      ],
+      "duration_ms": 204765,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Unconquered",
+        "url": "https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 215053,
+      "name": "Unconquered",
+      "url": "https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -343,38 +427,6 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm"
-      },
-      "artists": [
-        {
-          "name": "Fight The Fade",
-          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
-        }
-      ],
-      "duration_ms": 218624,
-      "name": "Composure",
-      "url": "https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
-        "name": "MONSTER",
-        "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
-      },
-      "artists": [
-        {
-          "name": "Wake Up Hate",
-          "url": "https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk"
-        }
-      ],
-      "duration_ms": 204765,
-      "name": "MONSTER",
-      "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
         "name": "Somewhere Beyond The Blue",
         "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
       },
@@ -387,6 +439,26 @@
       "duration_ms": 269398,
       "name": "Death Is All Around",
       "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "RAMPAGE",
+        "url": "https://open.spotify.com/album/3cXopz7daDUlntgsDt9636"
+      },
+      "artists": [
+        {
+          "name": "shinigami",
+          "url": "https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA"
+        },
+        {
+          "name": "Billy Martin",
+          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
+        }
+      ],
+      "duration_ms": 152327,
+      "name": "RAMPAGE",
+      "url": "https://open.spotify.com/track/7lvYFiGca0eqeHUSGB9AWB"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -451,6 +523,38 @@
       "duration_ms": 191460,
       "name": "Erase My Mind",
       "url": "https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "When The World Awakens",
+        "url": "https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "When The World Awakens",
+      "url": "https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5mLHqEAeh5zhf1WtDxBNPZ"
+      },
+      "artists": [
+        {
+          "name": "Oceans",
+          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5xGiG8izp7SgNaFskYWVbZ"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -543,22 +647,6 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs"
-      },
-      "artists": [
-        {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
-        }
-      ],
-      "duration_ms": 168913,
-      "name": "Standing My Ground",
-      "url": "https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/0fKZsfwewHCK4rbFg0MDOA"
       },
@@ -611,26 +699,6 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "bioMACHiNA",
-        "url": "https://open.spotify.com/album/1FG5jVKV1MgWLSIUa2msk1"
-      },
-      "artists": [
-        {
-          "name": "shinigami",
-          "url": "https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA"
-        },
-        {
-          "name": "Billy Martin",
-          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
-        }
-      ],
-      "duration_ms": 157406,
-      "name": "bioMACHiNA",
-      "url": "https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6kD41w7XeOUusooACNJqQ0"
       },
@@ -679,22 +747,6 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
-        "name": "Nigh to Silence",
-        "url": "https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 304750,
-      "name": "Nigh to Silence",
-      "url": "https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
         "name": "UPS AND DOWNS",
         "url": "https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL"
       },
@@ -716,8 +768,8 @@
       },
       "artists": [
         {
-          "name": "Eskimo Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/75fP8YWdkk0BAOCSyJPmZC"
         }
       ],
       "duration_ms": 172758,
@@ -739,22 +791,6 @@
       "duration_ms": 237053,
       "name": "Shadow Walker",
       "url": "https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/2Jrd7g3DXOU5uoFbs95RLb"
-      },
-      "artists": [
-        {
-          "name": "Oceans",
-          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
-        }
-      ],
-      "duration_ms": 242865,
-      "name": "The Awakening",
-      "url": "https://open.spotify.com/track/13vYl0wAKM5RGjvoRaVyd8"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -867,6 +903,22 @@
       "duration_ms": 218769,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/55qsUnoBhvLZ6ktj5v3lKp"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Transcendent",
+        "url": "https://open.spotify.com/album/3YMpCrGOIp8ZXy0ft4piEA"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "Transcendent",
+      "url": "https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -1027,6 +1079,22 @@
       "duration_ms": 176933,
       "name": "Heads Up",
       "url": "https://open.spotify.com/track/5oHXmKMdCnUJXsXAkZkwnR"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Lost In Doubt",
+        "url": "https://open.spotify.com/album/4MTpanFO4qaYv9OMltyt4e"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 157338,
+      "name": "Lost In Doubt",
+      "url": "https://open.spotify.com/track/0VUnK5QjwA7t5r5B15S0K7"
     },
     {
       "added_at": "2022-03-03 23:02:00",
@@ -1213,6 +1281,22 @@
       "url": "https://open.spotify.com/track/5rUv179NuGHKBrmz4k5hiu"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Vanguard",
+        "url": "https://open.spotify.com/album/24NxO7DeaovwyHViu4Qygj"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "Vanguard",
+      "url": "https://open.spotify.com/track/5NxVQJrYanVUMotKD02TaP"
+    },
+    {
       "added_at": "2022-03-03 23:02:00",
       "album": {
         "name": "The Realm of Chaos (feat. Heidi Shepherd)",
@@ -1271,6 +1355,22 @@
     {
       "added_at": "2022-03-03 23:02:00",
       "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 168913,
+      "name": "Standing My Ground",
+      "url": "https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM"
+    },
+    {
+      "added_at": "2022-03-03 23:02:00",
+      "album": {
         "name": "Di-sinTer",
         "url": "https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW"
       },
@@ -1287,22 +1387,6 @@
       "duration_ms": 205928,
       "name": "Di-sinTer",
       "url": "https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
-      "album": {
-        "name": "You Scream Good for A Girl",
-        "url": "https://open.spotify.com/album/664Ago1PB7fkmyZHZPyfoa"
-      },
-      "artists": [
-        {
-          "name": "Taylor Destroy",
-          "url": "https://open.spotify.com/artist/6KgGTPfnLvinigjwIiZlcw"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "You Scream Good for A Girl",
-      "url": "https://open.spotify.com/track/77qrvaqkWsaHvOqTCjadKz"
     },
     {
       "added_at": "2022-03-03 23:02:00",

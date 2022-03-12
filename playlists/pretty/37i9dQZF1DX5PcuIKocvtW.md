@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: Jeris Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,180 likes - 150 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,486 likes - 150 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 | 149 | [fall apart \(with glaive\)](https://open.spotify.com/track/6RYlGPwrNuwG8CqIRDYes6) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [fall apart \(with glaive\)](https://open.spotify.com/album/7vAT0ccu9ehuxQnfcCmqCn) | 2:35 |
 | 150 | [Nervous Wreck](https://open.spotify.com/track/1TTzSkiZPz92k77w5FfJ9M) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Nervous Wreck / Storyteller](https://open.spotify.com/album/4xlgeFEDO7UyW0ju3Iw9dx) | 2:52 |
 
-Snapshot ID: `MTY0NTE5ODM5OSwwMDAwMDQ0MjAwMDAwMTdmMGQ3NzU4ZjgwMDAwMDE3ZTc4ZWUxYzk3`
+Snapshot ID: `MTY0NzAwOTUxMCwwMDAwMDQ0MzAwMDAwMTdmNzk2YWI2MWMwMDAwMDE3ZTc4ZWUxYzk3`

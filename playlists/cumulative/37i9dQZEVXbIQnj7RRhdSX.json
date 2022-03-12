@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 171437,
       "name": "Alcool & Acqua",
       "url": "https://open.spotify.com/track/0Zzsd4ZawVM3VOoF7iRs9g"
@@ -894,6 +894,24 @@
     },
     {
       "album": {
+        "name": "Bagno a mezzanotte",
+        "url": "https://open.spotify.com/album/4ZwF0hAe8HY68XrjnzQVAd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178713,
+      "name": "Bagno a mezzanotte",
+      "url": "https://open.spotify.com/track/5KkcthkQDnlhQN0WhO8DsM"
+    },
+    {
+      "album": {
         "name": "Untouchable",
         "url": "https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf"
       },
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 206379,
       "name": "Blu Celeste",
       "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
@@ -1619,6 +1637,28 @@
       "duration_ms": 229116,
       "name": "Canthology",
       "url": "https://open.spotify.com/track/4GCMrN2jevQkkqoxZFLiQE"
+    },
+    {
+      "album": {
+        "name": "CASA",
+        "url": "https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197247,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
     },
     {
       "album": {
@@ -9406,6 +9446,24 @@
     },
     {
       "album": {
+        "name": "OUV3RTURE",
+        "url": "https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172862,
+      "name": "OUV3RTURE",
+      "url": "https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t"
+    },
+    {
+      "album": {
         "name": "Ovunque Sarai",
         "url": "https://open.spotify.com/album/5yoJ1p4t0IVXPIihr5vtyv"
       },
@@ -9643,7 +9701,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 162500,
       "name": "Parli Di Me",
       "url": "https://open.spotify.com/track/6QogWUhMVjCd8BiEIjf9JK"

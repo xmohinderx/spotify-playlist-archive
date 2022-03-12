@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 276409,
       "name": "Aljamal Al Yousefy",
       "url": "https://open.spotify.com/track/2n4bNkN9g10IrpneHrvIXR"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 229128,
       "name": "Baadh Al Ghala",
       "url": "https://open.spotify.com/track/3Sf476zAelNnGLOS9dSUWX"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 190400,
       "name": "Dag El Galb",
       "url": "https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 296041,
       "name": "Haki Jareh",
       "url": "https://open.spotify.com/track/2Ae93SYvUUS7J4u4h0mnHy"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 211560,
       "name": "Hobak Le Hayah",
       "url": "https://open.spotify.com/track/6yjtDOt9B6n1yWLgcwNK91"
@@ -636,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Kebryaa Wa Shmookh",
+        "url": "https://open.spotify.com/album/3yRAizctgFimatuWrU7x68"
+      },
+      "artists": [
+        {
+          "name": "Eidha Al Menhali",
+          "url": "https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240096,
+      "name": "Kebryaa Wa Shmookh",
+      "url": "https://open.spotify.com/track/1RO1yZjUMItbF3Vq60XtDh"
+    },
+    {
+      "album": {
         "name": "Keda Wala Keda",
         "url": "https://open.spotify.com/album/3tr3MAqqpmGfYA69xfVIRb"
       },
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 234824,
       "name": "Khair Il Kalam",
       "url": "https://open.spotify.com/track/0OJBY7oLHFxqksLVL9K2zw"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 256173,
       "name": "Khaloony",
       "url": "https://open.spotify.com/track/09jkfb9ry4b1EANWKN33eY"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 347453,
       "name": "Maey Solef",
       "url": "https://open.spotify.com/track/2w9rtSDzKPD2ONLCG6f39o"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 184416,
       "name": "Mo Mn Sejek",
       "url": "https://open.spotify.com/track/2sCK3QOOYu1PnOpkvBKfcw"
@@ -1355,10 +1373,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 254854,
       "name": "Yazeeen Haljayah",
       "url": "https://open.spotify.com/track/638UtaoSNov7SoULDflxSS"
+    },
+    {
+      "album": {
+        "name": "Yemkn Kheera",
+        "url": "https://open.spotify.com/album/4T0PhQBdKUjd5hnWFR2gki"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazy",
+          "url": "https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182538,
+      "name": "Yemkn Kheera",
+      "url": "https://open.spotify.com/track/0Djyg3c83BhOexIq9J7gk1"
     },
     {
       "album": {
@@ -1481,7 +1517,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 209095,
       "name": "\u0645\u0631\u062a\u0627\u062d",
       "url": "https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ"
@@ -1583,7 +1619,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 254600,
       "name": "\u064a\u0627\u0632\u064a\u0646 \u0647\u0627\u0644\u062c\u064a\u0647",
       "url": "https://open.spotify.com/track/0R1y22OeP2EStqbdfrFa9x"

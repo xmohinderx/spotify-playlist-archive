@@ -1085,6 +1085,24 @@
     {
       "album": {
         "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "album": {
+        "name": "Bones",
         "url": "https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb"
       },
       "artists": [
@@ -2595,6 +2613,24 @@
       "duration_ms": 162351,
       "name": "Everyone I Know Will Die",
       "url": "https://open.spotify.com/track/5goeLDmbVKPYrdzbbwux93"
+    },
+    {
+      "album": {
+        "name": "Everyone's a Secret",
+        "url": "https://open.spotify.com/album/2pO5F63jenF8qOy4uQomjm"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "Everyone's a Secret",
+      "url": "https://open.spotify.com/track/27gRC5YDWhyrILjXkfAPuF"
     },
     {
       "album": {
@@ -7906,6 +7942,24 @@
     },
     {
       "album": {
+        "name": "Speak Free (EP)",
+        "url": "https://open.spotify.com/album/3b6ModZevi5Y9tBrI7L6Fd"
+      },
+      "artists": [
+        {
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278169,
+      "name": "Speak Free",
+      "url": "https://open.spotify.com/track/7hC950TIuRJatn1FZFwq7s"
+    },
+    {
+      "album": {
         "name": "spirit boy",
         "url": "https://open.spotify.com/album/5yzFKGJ7is4t4iAWj5U6VP"
       },
@@ -9263,6 +9317,24 @@
       "duration_ms": 226392,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/1c0tC8B9rBBdyIa7YauLr4"
+    },
+    {
+      "album": {
+        "name": "Waves (Beyond The Shore)",
+        "url": "https://open.spotify.com/album/4KaIZ9a3leIA0oFtYLiXzs"
+      },
+      "artists": [
+        {
+          "name": "Polar States",
+          "url": "https://open.spotify.com/artist/5RGGmYAO7dbltAYiaGpIOw"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Waves (Beyond The Shore)",
+      "url": "https://open.spotify.com/track/2WU2gqoehYB6NGVt6JH0OO"
     },
     {
       "album": {

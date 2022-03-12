@@ -3086,6 +3086,24 @@
     },
     {
       "album": {
+        "name": "Things a Man Oughta Know (Stripped)",
+        "url": "https://open.spotify.com/album/0bhlGclh3uEiFE6LwrmekC"
+      },
+      "artists": [
+        {
+          "name": "Jason Nix",
+          "url": "https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224723,
+      "name": "Things a Man Oughta Know (Stripped)",
+      "url": "https://open.spotify.com/track/07WRv6TnAaqcI0UyxbljbO"
+    },
+    {
+      "album": {
         "name": "The Balladeer",
         "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
       },

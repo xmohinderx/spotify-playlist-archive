@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 179600,
       "name": "All Mixed Up",
       "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 264200,
       "name": "Are You In?",
       "url": "https://open.spotify.com/track/0IRvfvDUVIvbvgCDY17wnp"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 222360,
       "name": "Come Original",
       "url": "https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 181786,
       "name": "Dear Ol' Dad",
       "url": "https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 247693,
       "name": "Fire",
       "url": "https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 262360,
       "name": "I Know Somethin (Bout You)",
       "url": "https://open.spotify.com/track/358XBWJ3pa71P4U89v393N"
@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4ViSf3khdEm6rgSofBvjrk"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192254,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/26QzRihsoqGy1NlKQF5fwu"
+    },
+    {
+      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -747,7 +765,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 195706,
       "name": "Movies",
       "url": "https://open.spotify.com/track/0DVxWV6V1nWa7Ml68Frd3D"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 252710,
       "name": "Nasty Freak",
       "url": "https://open.spotify.com/track/7jQLyEWfWHcSzrVPezlCO8"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 223726,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/7LX79SGY8tO1iJz2S0xUMJ"
@@ -1102,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "Break on Free",
+        "url": "https://open.spotify.com/album/6gbUvc1jbDjI5rkGRnsm98"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317786,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/7kg6YIkVubmkmRnmMJ77pS"
+    },
+    {
+      "album": {
         "name": "Ritual De Lo Habitual",
         "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
       },
@@ -1225,7 +1261,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 187172,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/0Oo8Aa1ENUC78J2Vl7T7TP"
@@ -1337,7 +1373,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 262373,
       "name": "Truth'll Set You Free",
       "url": "https://open.spotify.com/track/1U3jCQJNm86HQh04TWqdFD"
@@ -1445,7 +1481,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 319466,
       "name": "Who Really Are the Monsters?",
       "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
@@ -1463,7 +1499,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 136146,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"

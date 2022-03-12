@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Elevate your aura with the latest in R&B. Cover: Idman",
+  "description": "Elevate your aura with the latest in R&B. Cover: Kalisway",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 184000,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0ZsWurOpUo8u4fjMygvSAG"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 192892,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/2Lpx8UUlTRWjeEEBmXA887"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 171857,
       "name": "Down For Me",
       "url": "https://open.spotify.com/track/5idDiHDKIIGfwxhNASY6tK"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 195709,
       "name": "Good Vibe",
       "url": "https://open.spotify.com/track/4MYXbphr2Scdue1gPacgWz"
@@ -751,6 +751,24 @@
       "duration_ms": 206000,
       "name": "Green Line",
       "url": "https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk"
+    },
+    {
+      "album": {
+        "name": "Gucci, Chanel",
+        "url": "https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9ejo",
+          "url": "https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Gucci, Chanel",
+      "url": "https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN"
     },
     {
       "album": {
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi"
@@ -1290,6 +1308,28 @@
     },
     {
       "album": {
+        "name": "Mu\u00e9rete",
+        "url": "https://open.spotify.com/album/6HdX5u8SC37jWZxg77IOZo"
+      },
+      "artists": [
+        {
+          "name": "Mellkit",
+          "url": "https://open.spotify.com/artist/5uaLayT83kVy0LvmuaETLK"
+        },
+        {
+          "name": "Nueva Vista",
+          "url": "https://open.spotify.com/artist/2OP62XgfFu4Ye4ng4X2e9e"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Mu\u00e9rete",
+      "url": "https://open.spotify.com/track/0MImwjD2hIF9IPTMrvmFrW"
+    },
+    {
+      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS"
       },
@@ -1313,6 +1353,24 @@
       "duration_ms": 198666,
       "name": "Myself",
       "url": "https://open.spotify.com/track/7tsNi8goGCNC6evPolqs0b"
+    },
+    {
+      "album": {
+        "name": "HIT 'EM WITH THE FUNK",
+        "url": "https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232364,
+      "name": "NASTY GIRL",
+      "url": "https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4"
     },
     {
       "album": {
@@ -1367,7 +1425,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 197372,
       "name": "No Relation",
       "url": "https://open.spotify.com/track/41NARZtOutIZOTmFuNwh8Q"
@@ -1552,6 +1610,28 @@
     },
     {
       "album": {
+        "name": "Outta This World",
+        "url": "https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165544,
+      "name": "Outta This World",
+      "url": "https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww"
+    },
+    {
+      "album": {
         "name": "Papa Wemba",
         "url": "https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V"
       },
@@ -1603,6 +1683,24 @@
       "duration_ms": 213000,
       "name": "Pink Plant",
       "url": "https://open.spotify.com/track/0LQNGpCxdcgX5MXWuN0zKZ"
+    },
+    {
+      "album": {
+        "name": "Plaster :)",
+        "url": "https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137064,
+      "name": "Plaster :)",
+      "url": "https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu"
     },
     {
       "album": {
@@ -1682,6 +1780,24 @@
     },
     {
       "album": {
+        "name": "SCARLET",
+        "url": "https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123421,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29"
+    },
+    {
+      "album": {
         "name": "Same Old Mistake",
         "url": "https://open.spotify.com/album/6vjaaocW1oiMF3DYwV0CRQ"
       },
@@ -1729,7 +1845,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 161927,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX"
@@ -1834,6 +1950,28 @@
     },
     {
       "album": {
+        "name": "Spell on Me",
+        "url": "https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S"
+      },
+      "artists": [
+        {
+          "name": "Salome",
+          "url": "https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq"
+        },
+        {
+          "name": "Hunter Yerrell",
+          "url": "https://open.spotify.com/artist/6v8sw8c85yxp5UCdk92MeI"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "Spell on Me",
+      "url": "https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9"
+    },
+    {
+      "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f"
       },
@@ -1871,7 +2009,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 260519,
       "name": "Stars Align (with Drake)",
       "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
@@ -2079,6 +2217,24 @@
       "duration_ms": 135221,
       "name": "Time & It's Order",
       "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
+    },
+    {
+      "album": {
+        "name": "Too Deep",
+        "url": "https://open.spotify.com/album/00hxzABSuhHgM4fkrBX8rn"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Too Deep",
+      "url": "https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42"
     },
     {
       "album": {
@@ -2339,6 +2495,24 @@
       "duration_ms": 90875,
       "name": "You're It",
       "url": "https://open.spotify.com/track/2e5RcXn0N1CA93iD2QXfJi"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy (Get Yummy)",
+        "url": "https://open.spotify.com/album/4bvq5s0WRgcEshUotY62WK"
+      },
+      "artists": [
+        {
+          "name": "Omega Mighty",
+          "url": "https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84725,
+      "name": "Yummy Yummy (Get Yummy)",
+      "url": "https://open.spotify.com/track/1SZ1TubSGxGXqA4uNzyNTW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3"

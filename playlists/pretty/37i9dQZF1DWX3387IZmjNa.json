@@ -1,28 +1,32 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Roddy Ricch",
-  "num_followers": 1876504,
+  "num_followers": 1876595,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDQ0NCwwMDAwMDUwOTAwMDAwMTdmNTM1MzUyZWYwMDAwMDE3ZjQ2ZjJmN2Iz",
+  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDUwYTAwMDAwMTdmNzc1OTExM2IwMDAwMDE3ZjQ2ZjJmN2Iz",
   "tracks": [
     {
-      "added_at": "2022-02-25 05:01:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Non Judgmental",
-        "url": "https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj"
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 182487,
-      "name": "Non Judgmental",
-      "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
+      "duration_ms": 193396,
+      "name": "Difference Is (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -49,22 +53,6 @@
       "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "everything you need",
-      "url": "https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv"
-    },
-    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Hate Our Love (with Big Sean)",
@@ -85,6 +73,42 @@
       "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
     },
     {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "everything you need",
+      "url": "https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "NWA (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 231570,
+      "name": "NWA (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
+    },
+    {
       "added_at": "2022-02-15 20:31:51",
       "album": {
         "name": "Banking On Me",
@@ -99,6 +123,42 @@
       "duration_ms": 200000,
       "name": "Banking On Me",
       "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Non Judgmental",
+        "url": "https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 182487,
+      "name": "Non Judgmental",
+      "url": "https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Non-Perishable",
+        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 194172,
+      "name": "2hrs+ (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/51qu8Dd4FeYsfpSRWnGJJq"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -219,6 +279,30 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "added_at": "2022-01-07 05:00:00",
@@ -361,6 +445,22 @@
       "url": "https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Who Do",
+        "url": "https://open.spotify.com/album/7hQEAJdHOrnsSVapYVdzmj"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Who Do",
+      "url": "https://open.spotify.com/track/5TBEzhlJqpBFwalNZ3FUpx"
+    },
+    {
       "added_at": "2022-03-04 05:05:21",
       "album": {
         "name": "What It Means To Be King",
@@ -469,22 +569,6 @@
       "url": "https://open.spotify.com/track/5FkBoG7xkb0pPkaO8rS5td"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/1WamWAG6PKzLOK5s0JXvSy"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 164415,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/38ICQQxXLoifVUNkJcs7r6"
-    },
-    {
       "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "Pretty Girls Love Toosii",
@@ -523,34 +607,6 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "What You Expect",
-        "url": "https://open.spotify.com/album/6aLBUWVN4WcBAJeJ7nI6j1"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 243189,
-      "name": "Loyal To A Fault (feat. Bryson Tiller, Lil Durk)",
-      "url": "https://open.spotify.com/track/6QTTPp4rzMqcbWWzgrGf9c"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -801,30 +857,6 @@
       "url": "https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh"
     },
     {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/2wNYpDzwgeSbxSc8dVXcev"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        }
-      ],
-      "duration_ms": 153455,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/4RJ2tHMoFQbUus12u1hB5l"
-    },
-    {
       "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "Love Me",
@@ -881,26 +913,6 @@
       "url": "https://open.spotify.com/track/5b2CRPYt0QNA0jaCJNIIdn"
     },
     {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Bogus (feat. BlueBucksClan)",
-        "url": "https://open.spotify.com/album/6WwSmNmwiq8f1VKEor6hUz"
-      },
-      "artists": [
-        {
-          "name": "Kyle Banks",
-          "url": "https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE"
-        },
-        {
-          "name": "BlueBucksClan",
-          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
-        }
-      ],
-      "duration_ms": 199245,
-      "name": "Bogus (feat. BlueBucksClan)",
-      "url": "https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt"
-    },
-    {
       "added_at": "2021-10-01 04:00:00",
       "album": {
         "name": "Expensive Pain",
@@ -919,22 +931,6 @@
       "duration_ms": 182250,
       "name": "Ride For You (feat. Kehlani)",
       "url": "https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb"
-    },
-    {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/0fi54fVQc6HzfaNJMnwYkk"
-      },
-      "artists": [
-        {
-          "name": "NO1-NOAH",
-          "url": "https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j"
-        }
-      ],
-      "duration_ms": 144044,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/34Jpft6YC3t9TOrJUhxez7"
     },
     {
       "added_at": "2021-09-03 05:10:33",

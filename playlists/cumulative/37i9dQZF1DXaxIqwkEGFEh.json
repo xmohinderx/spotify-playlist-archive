@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "10 More Commandments (feat. Diddy)",
+      "url": "https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -233,7 +255,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 152816,
       "name": "Area 51 (Remix) [feat. Big Yavo]",
       "url": "https://open.spotify.com/track/6hxpwRJr4mfxVeH02F99LF"
@@ -251,7 +273,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 125269,
       "name": "Backdoor",
       "url": "https://open.spotify.com/track/699kkSUZd5MljUFnaA18iD"
@@ -411,7 +433,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 136258,
       "name": "Cartier Lens",
       "url": "https://open.spotify.com/track/3JPSLsiQz9EaSvhQ6hitvF"
@@ -569,6 +591,28 @@
       "duration_ms": 222870,
       "name": "Crunk Muzik",
       "url": "https://open.spotify.com/track/0am3GdTDO0aboRv8CHZfMi"
+    },
+    {
+      "album": {
+        "name": "Crypto (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
+      },
+      "artists": [
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160948,
+      "name": "Crypto (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
     },
     {
       "album": {
@@ -971,6 +1015,24 @@
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
+    },
+    {
+      "album": {
+        "name": "Forever Been Steppin'",
+        "url": "https://open.spotify.com/album/2fYOAoMAoSge8lWN0OydhA"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197455,
+      "name": "Forever Been Steppin'",
+      "url": "https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47"
     },
     {
       "album": {
@@ -2145,7 +2207,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 171752,
       "name": "Missing Something",
       "url": "https://open.spotify.com/track/6nb42AwSexz0HPLcWK4yFx"
@@ -2580,6 +2642,64 @@
     },
     {
       "album": {
+        "name": "Pain Killers",
+        "url": "https://open.spotify.com/album/7GuuNMJ4mj51oDXgWmxoRH"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Pain Killers",
+      "url": "https://open.spotify.com/track/1JixF2WqbP3LyiroGiRyog"
+    },
+    {
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc"
+    },
+    {
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159926,
+      "name": "Petty Too (feat. Future)",
+      "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
+    },
+    {
+      "album": {
         "name": "Pissed Me Off",
         "url": "https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b"
       },
@@ -2591,7 +2711,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 123076,
       "name": "Pissed Me Off",
       "url": "https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q"
@@ -2799,7 +2919,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 175096,
       "name": "Retail Therapy",
       "url": "https://open.spotify.com/track/1E8xVRD9lPeXJQ3vXIlJk2"
@@ -2861,7 +2981,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 218180,
       "name": "Rolling Loud (feat. Big Scarr, BigWalkDog)",
       "url": "https://open.spotify.com/track/7BN0B53NBE1V5FvHKMOxOL"
@@ -2879,7 +2999,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 129923,
       "name": "Rumors 3",
       "url": "https://open.spotify.com/track/52qOWmhRTi28yYgrhpBmpE"
@@ -2959,7 +3079,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 193595,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC"
@@ -3388,6 +3508,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/53iPXTwxvv6iDhryLzjx3R"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194751,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/42p3DhJW9tC9YRvMsSd8VT"
+    },
+    {
+      "album": {
         "name": "Threat (feat. 42 Dugg)",
         "url": "https://open.spotify.com/album/4LhFCy4TgbP2gypEbGVc7A"
       },
@@ -3407,6 +3545,24 @@
       "duration_ms": 146720,
       "name": "Threat (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/25s3rKjEFle5f6KlQxdwvc"
+    },
+    {
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/6CYNExJEDhlx26qV3H9uvc"
+      },
+      "artists": [
+        {
+          "name": "FNF Chop",
+          "url": "https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150804,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/7r4xwJfrHwttaN83FfJu5S"
     },
     {
       "album": {

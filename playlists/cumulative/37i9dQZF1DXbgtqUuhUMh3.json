@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "AL Haneen",
       "url": "https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw"
@@ -489,6 +489,24 @@
       "duration_ms": 260459,
       "name": "Ana Aghar",
       "url": "https://open.spotify.com/track/4RIYFfuJ80QpWaufFwDrl2"
+    },
+    {
+      "album": {
+        "name": "Ana El Mostahel",
+        "url": "https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg"
+      },
+      "artists": [
+        {
+          "name": "Rana Samaha",
+          "url": "https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261695,
+      "name": "Ana El Mostahel",
+      "url": "https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN"
     },
     {
       "album": {
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 253000,
       "name": "Ma Bakhaf",
       "url": "https://open.spotify.com/track/2N6MGx1CRx78o9LG7pAjdS"
@@ -2445,7 +2463,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 319565,
       "name": "Min Guwaya",
       "url": "https://open.spotify.com/track/3Zr5VsID6eHTTg1zBpXUI5"
@@ -3129,7 +3147,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 215280,
       "name": "Shouf",
       "url": "https://open.spotify.com/track/7tueI4qZOssFDf61SNzdzy"
@@ -4399,6 +4417,24 @@
       "duration_ms": 176169,
       "name": "\u0642\u064a\u0648\u062f",
       "url": "https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0627\u0646\u062a \u0628\u062a\u0633\u0647\u0631",
+        "url": "https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY"
+      },
+      "artists": [
+        {
+          "name": "Ayten Amer",
+          "url": "https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210689,
+      "name": "\u0643\u0627\u0646\u062a \u0628\u062a\u0633\u0647\u0631",
+      "url": "https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR"
     },
     {
       "album": {

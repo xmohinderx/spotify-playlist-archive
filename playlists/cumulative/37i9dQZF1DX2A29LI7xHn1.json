@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "Non-Perishable",
+        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194172,
+      "name": "2hrs+ (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/51qu8Dd4FeYsfpSRWnGJJq"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
       },
@@ -135,7 +157,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 212063,
       "name": "Already Won (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
@@ -190,6 +212,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8"
+    },
+    {
+      "album": {
         "name": "Baecation",
         "url": "https://open.spotify.com/album/2VkOUjgx2Db5n8lVcC7CCe"
       },
@@ -201,7 +245,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 141473,
       "name": "Baecation",
       "url": "https://open.spotify.com/track/268MCWqIbvWTdWdFT0hJ8Z"
@@ -241,6 +285,32 @@
       "duration_ms": 188486,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/35uYYHfPcA5zcl8IeVXxOb"
+    },
+    {
+      "album": {
+        "name": "Beauty In The Madness",
+        "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223668,
+      "name": "Beauty In The Madness",
+      "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
       "album": {
@@ -421,7 +491,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 138160,
       "name": "Blind (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/3V5sdHDIMBRjhRq6MyIua6"
@@ -557,7 +627,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
@@ -601,6 +671,24 @@
       "duration_ms": 112613,
       "name": "Come Through (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb"
+    },
+    {
+      "album": {
+        "name": "Melodic Therapy 4 The Broken",
+        "url": "https://open.spotify.com/album/4LUn1xpue7Y0egzBCA5hs8"
+      },
+      "artists": [
+        {
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226151,
+      "name": "Counting Time",
+      "url": "https://open.spotify.com/track/1nfKS6fgYustmjIWp36qsW"
     },
     {
       "album": {
@@ -715,6 +803,28 @@
       "duration_ms": 261866,
       "name": "die alone (feat. Yung Bleu)",
       "url": "https://open.spotify.com/track/18vfufHymhqpdaoE1ApnLT"
+    },
+    {
+      "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193396,
+      "name": "Difference Is (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ"
     },
     {
       "album": {
@@ -895,7 +1005,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 184271,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
@@ -987,6 +1097,24 @@
       "duration_ms": 117551,
       "name": "F Yah Job",
       "url": "https://open.spotify.com/track/0Zrn0AIZ8zNCtStA1YrRfZ"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/44hLQThkyttusgoILcncyl"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw"
     },
     {
       "album": {
@@ -1155,7 +1283,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 197142,
       "name": "Fresh Off A Heartbreak",
       "url": "https://open.spotify.com/track/3enfCF7gGvPGNF3g1fHoiF"
@@ -1769,7 +1897,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 229253,
       "name": "Mr. Jones (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/3QPZqYIzgEXbVouiHpu7wR"
@@ -2287,7 +2415,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 174786,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/4GH6iowVcqBysygV2hbcH5"
@@ -2364,6 +2492,36 @@
     },
     {
       "album": {
+        "name": "Put You On (feat. Wiz Khalifa, Big K.R.I.T., Smoke DZA)",
+        "url": "https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw"
+      },
+      "artists": [
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175945,
+      "name": "Put You On (feat. Wiz Khalifa, Big K.R.I.T., Smoke DZA)",
+      "url": "https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1"
+    },
+    {
+      "album": {
         "name": "Faith (Deluxe)",
         "url": "https://open.spotify.com/album/2N539CVAkXd9Jk722m1i6D"
       },
@@ -2419,6 +2577,24 @@
       "duration_ms": 269883,
       "name": "Race My Mind",
       "url": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ"
+    },
+    {
+      "album": {
+        "name": "RBS (Rich Bish Shit)",
+        "url": "https://open.spotify.com/album/6pDWHoPYicB6buEdxxVELb"
+      },
+      "artists": [
+        {
+          "name": "BRS Kash",
+          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160836,
+      "name": "RBS (Rich Bish Shit)",
+      "url": "https://open.spotify.com/track/6hRY7o0sJeAHmlbgrWVl8J"
     },
     {
       "album": {
@@ -2503,7 +2679,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 232425,
       "name": "Running Wild (Tumblr Girls 2) (feat. Kossisko)",
       "url": "https://open.spotify.com/track/6FLPcyjV2JfdqtdT5z4Vv9"
@@ -2613,7 +2789,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 153761,
       "name": "SHOW ME",
       "url": "https://open.spotify.com/track/2fsolRrAbm6G7JQ5VknBkR"
@@ -2687,6 +2863,24 @@
       "duration_ms": 166678,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
+    },
+    {
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/77CuQ0NcdI8FfqPnGPlvDt"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc"
     },
     {
       "album": {
@@ -2865,6 +3059,32 @@
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
+    },
+    {
+      "album": {
+        "name": "Typa Way",
+        "url": "https://open.spotify.com/album/1v8obs02a28Pv1b6Mbjnir"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Typa Way",
+      "url": "https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7"
     },
     {
       "album": {

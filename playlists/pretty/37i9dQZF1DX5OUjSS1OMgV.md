@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OUjSS1OMgV.md) - [plain]
 
 > Rock this list to help you rock that last rep\. Gainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,647 likes - 90 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,126 likes - 90 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OUjSS1OMgV.md) - [plain]
 | 41 | [Breaking Down](https://open.spotify.com/track/4bE3cBcwAe7T5SklvbkiYZ) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:26 |
 | 42 | [Chasms](https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Chasms](https://open.spotify.com/album/6pAvsIwYWDB7iVTVGT4SYA) | 4:48 |
 | 43 | [Wake Up](https://open.spotify.com/track/3WnrxWNTHDGyCVCwfMJPtR) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Vale](https://open.spotify.com/album/41QjsjJv2WbNgmPkD6dxpv) | 2:42 |
-| 44 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Eskimo Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 |
+| 44 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/75fP8YWdkk0BAOCSyJPmZC) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 |
 | 45 | [17](https://open.spotify.com/track/31j95fiVw8NUKxgGd8pc6j) | [Of Allies](https://open.spotify.com/artist/5fYc93nNjMlAsoaXen9elQ) | [Night Sky](https://open.spotify.com/album/5TjPAA7wNcfczLOAXA9CWV) | 3:13 |
 | 46 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 47 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,033 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,204 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 74 | [The Rebellion Is Reborn](https://open.spotify.com/track/17UYYIhQ8IDbm1ImKRblxE) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:59 |
 | 75 | [Flying Is a Feeling](https://open.spotify.com/track/2hM7evxI96ObLXdsNhYLuw) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch \- Vol\. 2 \(Episodes 9\-16\) \[Original Soundtrack\]](https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS) | 2:50 |
 | 76 | [Finale](https://open.spotify.com/track/27xA5HEUnWPBDo0z4hcDq1) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 6:23 |
-| 77 | [Cantina Band](https://open.spotify.com/track/69EcXnxVVPb6Uz0Py7Wvcu) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Cantina Band](https://open.spotify.com/album/3cHajBszGLiZRY2kmaAoXo) | 2:20 |
+| 77 | [Cantina Band](https://open.spotify.com/track/69EcXnxVVPb6Uz0Py7Wvcu) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Cantina Band](https://open.spotify.com/album/3cHajBszGLiZRY2kmaAoXo) | 2:20 |
 | 78 | [The Cave](https://open.spotify.com/track/75tWMAX7gSbs3VNKgvlOST) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 2:59 |
 | 79 | [Old Friends](https://open.spotify.com/track/336MNGWifY0wUNdI37pm8Q) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:28 |
 | 80 | [Guardians of the Whills Suite](https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:52 |

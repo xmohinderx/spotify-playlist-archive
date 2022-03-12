@@ -758,6 +758,24 @@
     },
     {
       "album": {
+        "name": "House Of The Lord",
+        "url": "https://open.spotify.com/album/4fzWvOYmzJ2gv1hhYQZTGx"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251741,
+      "name": "House Of The Lord",
+      "url": "https://open.spotify.com/track/6QHLLowPOgsmh8P8NUdLdu"
+    },
+    {
+      "album": {
         "name": "Revival Nights (Pt. 2) [Live]",
         "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
       },
@@ -835,6 +853,28 @@
       "duration_ms": 272976,
       "name": "I Will Praise - Live",
       "url": "https://open.spotify.com/track/2sXOJ3WxrGVqEUKJd8PWg2"
+    },
+    {
+      "album": {
+        "name": "Confessio - Irish American Roots",
+        "url": "https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Jordyn Shellhart",
+          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248226,
+      "name": "Immigrant's Song",
+      "url": "https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx"
     },
     {
       "album": {
@@ -1549,10 +1589,32 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 274534,
       "name": "That's The Power - Live",
       "url": "https://open.spotify.com/track/5Q8Pc97E3IItIbQW40WlnP"
+    },
+    {
+      "album": {
+        "name": "These Same Skies (Studio)",
+        "url": "https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin Hastings",
+          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241960,
+      "name": "That's The Power - Studio",
+      "url": "https://open.spotify.com/track/2YNehyJ62hvQtlFfutN3tT"
     },
     {
       "album": {
@@ -1769,6 +1831,24 @@
       "duration_ms": 332693,
       "name": "Too Good To Not Believe",
       "url": "https://open.spotify.com/track/5F24AeQlGfBxwa8WrFR3QQ"
+    },
+    {
+      "album": {
+        "name": "Unexpected Roads",
+        "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Unexpected Roads",
+      "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
     },
     {
       "album": {

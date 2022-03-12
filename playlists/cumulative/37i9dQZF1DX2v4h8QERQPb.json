@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 243197,
       "name": "Alcoholicos Anonimos",
       "url": "https://open.spotify.com/track/0IjzvAj0CKu4oqsi8NCGhr"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 158399,
       "name": "Callar Lo Que Siento",
       "url": "https://open.spotify.com/track/5xFuu6Io7zyxiNPLdmYe0X"
@@ -1292,6 +1292,32 @@
     },
     {
       "album": {
+        "name": "Lo Importante",
+        "url": "https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "No Name",
+          "url": "https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno"
+        },
+        {
+          "name": "Sonhorus",
+          "url": "https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185324,
+      "name": "Lo Importante",
+      "url": "https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS"
+    },
+    {
+      "album": {
         "name": "Low La",
         "url": "https://open.spotify.com/album/2YNDW8yGbk1ITM68xgLatS"
       },
@@ -1302,7 +1328,15 @@
         },
         {
           "name": "T&K",
-          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+          "url": "https://open.spotify.com/artist/2SMK4TrK8djKN6CuunZpcr"
+        },
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        },
+        {
+          "name": "Zica",
+          "url": "https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr"
         }
       ],
       "date_added": "2021-11-26",
@@ -2064,6 +2098,28 @@
     },
     {
       "album": {
+        "name": "S\u00e1bado 17",
+        "url": "https://open.spotify.com/album/1G2WTn4rBAsAxToZn8F7t1"
+      },
+      "artists": [
+        {
+          "name": "Wolty",
+          "url": "https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21"
+        },
+        {
+          "name": "DJ Mokson",
+          "url": "https://open.spotify.com/artist/5EWq7WkbPxlA3MbfBs8a6F"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203850,
+      "name": "S\u00e1bado 17",
+      "url": "https://open.spotify.com/track/0xHm4ExZUFocJRcNNxseXm"
+    },
+    {
+      "album": {
         "name": "Tardes Grises",
         "url": "https://open.spotify.com/album/0dEifg2Ym7jFxYJazh7UGV"
       },
@@ -2145,6 +2201,28 @@
       "duration_ms": 195931,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/3rgB1ONEntmwiQmdgYjTlL"
+    },
+    {
+      "album": {
+        "name": "Vamos a Fumar",
+        "url": "https://open.spotify.com/album/32DlSEQVurR7UvVoBxmiH2"
+      },
+      "artists": [
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        },
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Vamos a Fumar",
+      "url": "https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh"
     },
     {
       "album": {
@@ -2247,7 +2325,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 181667,
       "name": "YSH (Yes So High) [feat. Smokk Trvp]",
       "url": "https://open.spotify.com/track/4O01gZtosyRrkn5ZPwyVxn"

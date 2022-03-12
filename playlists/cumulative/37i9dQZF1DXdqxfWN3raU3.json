@@ -118,6 +118,28 @@
     },
     {
       "album": {
+        "name": "Adentro M\u00edo",
+        "url": "https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ"
+      },
+      "artists": [
+        {
+          "name": "REDNBLUE",
+          "url": "https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG"
+        },
+        {
+          "name": "Luisa Quiroga",
+          "url": "https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Adentro M\u00edo",
+      "url": "https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl"
+    },
+    {
+      "album": {
         "name": "Adicto",
         "url": "https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2"
       },
@@ -151,7 +173,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 231146,
       "name": "ADQSP",
       "url": "https://open.spotify.com/track/2AodqqO5Ea4xk8Gl4lJyMg"
@@ -565,7 +587,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 160883,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5JWob8X9N857wBlpwZlsDy"
@@ -1023,7 +1045,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 214000,
       "name": "Febrero Azul",
       "url": "https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ"
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 217911,
       "name": "Hoja de T\u00e9",
       "url": "https://open.spotify.com/track/1G4I25xXeV2V5aI9p6SBBv"
@@ -2124,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/10Q4axLIttUjmSb026Svui"
+      },
+      "artists": [
+        {
+          "name": "Marav\u00ed",
+          "url": "https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/6nOKHS69nUyVHSlWbAkP6q"
+    },
+    {
+      "album": {
         "name": "Si Tu Quieres",
         "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
       },
@@ -2324,6 +2364,28 @@
     },
     {
       "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p"
+    },
+    {
+      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -2485,6 +2547,28 @@
       "duration_ms": 215093,
       "name": "Verte",
       "url": "https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4d0PIi01cYvFx7Ew1qCl8a"
+      },
+      "artists": [
+        {
+          "name": "Lula Miranda",
+          "url": "https://open.spotify.com/artist/5QdliCUikV62vIkzFJV2IR"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217605,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/2NTW4OAxduyf9PmLhMZxZ5"
     },
     {
       "album": {

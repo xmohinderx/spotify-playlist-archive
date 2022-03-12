@@ -1162,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "The Juniper Songbook",
+        "url": "https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200057,
+      "name": "Revvin' My Cj7 - Juniper Version",
+      "url": "https://open.spotify.com/track/7hxIicKl9uy1IRHhthOCnt"
+    },
+    {
+      "album": {
         "name": "Rise and Shine",
         "url": "https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde"
       },
@@ -1685,6 +1703,24 @@
       "duration_ms": 259279,
       "name": "Tin Man",
       "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
+    },
+    {
+      "album": {
+        "name": "To Be Alone",
+        "url": "https://open.spotify.com/album/2weElGUGM0TUzRMLmpcayX"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216344,
+      "name": "To Be Alone",
+      "url": "https://open.spotify.com/track/2yqWZjDv5jJaBdco4z5kkp"
     },
     {
       "album": {

@@ -99,7 +99,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 495226,
       "name": "All Hail King Jesus (Live)",
       "url": "https://open.spotify.com/track/4WRRqOFd0nBZni8SMvz25a"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 326246,
       "name": "Awe + Wonder - Live",
       "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 428169,
       "name": "Even Louder (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/31r3D1fQPyHvYnDSgNXWVm"
@@ -565,6 +565,24 @@
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+    },
+    {
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352360,
+      "name": "Fill This Place (Live)",
+      "url": "https://open.spotify.com/track/42gRFP5DCFQhZAXlmaRFIk"
     },
     {
       "album": {
@@ -681,10 +699,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 326612,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/7bQNc5PaDgv08uz6KX0Cp1"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218438,
+      "name": "GOD SAID LIVE! (Live)",
+      "url": "https://open.spotify.com/track/6mE9CJoyF1BOMLwHhE2eae"
     },
     {
       "album": {
@@ -751,7 +787,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 290413,
       "name": "Great Are You Lord - Live",
       "url": "https://open.spotify.com/track/4PYOh644yKjYyvyVUHqcof"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 282293,
       "name": "Heart Wide Open",
       "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
@@ -1235,7 +1271,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 279284,
       "name": "Lift My Eyes",
       "url": "https://open.spotify.com/track/528yeDtBCd7bv0emBJIin6"
@@ -1293,7 +1329,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 326706,
       "name": "Mention of Your Name",
       "url": "https://open.spotify.com/track/4AyrksLYxy1R8X8IDukI0h"
@@ -1485,7 +1521,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 442893,
       "name": "Nobody Like You (Live)",
       "url": "https://open.spotify.com/track/6D6VEYKOzqYU1pXeMg2ZeN"
@@ -1503,7 +1539,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 271306,
       "name": "Not Afraid (Live)",
       "url": "https://open.spotify.com/track/5oKlaVxXaNszgiCG2kxCjk"
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 293986,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1tk77A21RXGJK1JaT3QkU2"
@@ -1657,7 +1693,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 241346,
       "name": "Only My Jesus",
       "url": "https://open.spotify.com/track/3WB2l0JHuLQFyV7CzqiIGe"
@@ -1675,7 +1711,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 211072,
       "name": "Overcome (Acoustic)",
       "url": "https://open.spotify.com/track/1b2JLmsUGCtjomD2LMK5Rj"
@@ -1951,7 +1987,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 230200,
       "name": "Safe",
       "url": "https://open.spotify.com/track/0zHIVxQLtHQFUrtySFKK5V"
@@ -2031,7 +2067,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 312106,
       "name": "Set My Heart - Live",
       "url": "https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ"
@@ -2187,7 +2223,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 266669,
       "name": "Still God",
       "url": "https://open.spotify.com/track/1F9gR7ZewNPWR3QRGOZkkl"
@@ -2209,7 +2245,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 349525,
       "name": "Surrounded (Fight My Battles) [Live]",
       "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
@@ -2329,7 +2365,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 339520,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/45LRF6yJJO6RNcFhkNt569"
@@ -2347,7 +2383,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 297626,
       "name": "The War Is Over",
       "url": "https://open.spotify.com/track/3LX9yJxkUTQrzqOpnaF4BK"
@@ -2587,7 +2623,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
@@ -2605,7 +2641,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 288640,
       "name": "When You Walk Into The Room",
       "url": "https://open.spotify.com/track/4lZ59872CRyvLpJ5Y9XwlF"
@@ -2765,7 +2801,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 296400,
       "name": "You Satisfy (feat. Elyssa Smith)",
       "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
@@ -2783,7 +2819,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 214330,
       "name": "You Won't Let Go",
       "url": "https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP"

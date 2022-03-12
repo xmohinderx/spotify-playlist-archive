@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 199228,
       "name": "2my Depression",
       "url": "https://open.spotify.com/track/2CPZjGln96P7gM1kwM5gu1"
@@ -2727,6 +2727,24 @@
       "duration_ms": 233188,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5QbJdM3OvWw5k7lzrhu0sy"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7wLp5QkiaGmHzKonmlBa3c"
+      },
+      "artists": [
+        {
+          "name": "Big Stuff",
+          "url": "https://open.spotify.com/artist/5hVGTwuOK7snm9spr45QS3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8"
     },
     {
       "album": {
@@ -9313,7 +9331,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 254769,
       "name": "Hiding From Time",
       "url": "https://open.spotify.com/track/5bjKCoPVkFlGrisTf2tsUU"
@@ -11551,7 +11569,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 186910,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3MhP7H7LK7bU2bGeKQYbah"
@@ -11699,7 +11717,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 271373,
       "name": "Kids of Summer",
       "url": "https://open.spotify.com/track/6jDe9fs00m9fo5raYmrwaA"
@@ -11935,6 +11953,24 @@
       "duration_ms": 255370,
       "name": "Lady Lady Lady",
       "url": "https://open.spotify.com/track/3FmmUDRGgqZegsm5xCoBd5"
+    },
+    {
+      "album": {
+        "name": "Lady Lady Lady (Acoustic)",
+        "url": "https://open.spotify.com/album/2smTy9OWQjLXJsZt3MjY5K"
+      },
+      "artists": [
+        {
+          "name": "Sean Kool",
+          "url": "https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304051,
+      "name": "Lady Lady Lady - Acoustic",
+      "url": "https://open.spotify.com/track/630MyFOvn0Ik3LpyLZyyTE"
     },
     {
       "album": {
@@ -12357,6 +12393,24 @@
       "duration_ms": 526373,
       "name": "Liberation (with Cee-Lo)",
       "url": "https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb"
+    },
+    {
+      "album": {
+        "name": "Life Affirming",
+        "url": "https://open.spotify.com/album/2uMTqOYFDNt22coPeaq5gI"
+      },
+      "artists": [
+        {
+          "name": "Sophrosyne",
+          "url": "https://open.spotify.com/artist/7vMbR5kl3EPge34VGcqXHB"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Life Affirming - Remix",
+      "url": "https://open.spotify.com/track/6Q3zl74sireBnF4Q8n4n1N"
     },
     {
       "album": {
@@ -15414,6 +15468,32 @@
     },
     {
       "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/6wdnQhpe7sOAo9pYTjiy6X"
+      },
+      "artists": [
+        {
+          "name": "SkyRock Project",
+          "url": "https://open.spotify.com/artist/5i2N7l43efjqDXCDHa3Sa6"
+        },
+        {
+          "name": "Jason Jump",
+          "url": "https://open.spotify.com/artist/1nXHE5uOuoAr5QFV1Wk7Ly"
+        },
+        {
+          "name": "Dr.E.",
+          "url": "https://open.spotify.com/artist/7aK8AXZKMLEhqGg5WloHjo"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218550,
+      "name": "No Letting Go - Freeway Mix",
+      "url": "https://open.spotify.com/track/33eIeIVHwnHptZPOMrYF7O"
+    },
+    {
+      "album": {
         "name": "No Such Thing as Normal",
         "url": "https://open.spotify.com/album/6HQ4zXHfFv0ViEHraVEwSv"
       },
@@ -16568,6 +16648,24 @@
     },
     {
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/1igpZC6O1N6tgS3dnu1E2i"
+      },
+      "artists": [
+        {
+          "name": "Lightbulb the Entertainer",
+          "url": "https://open.spotify.com/artist/5vG0ex3chH3Z7DOzQmyfeB"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176039,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/1pm3Gmdx8yCc5ITa9IMoTG"
+    },
+    {
+      "album": {
         "name": "Peaceful Revolution (Radio Edit)",
         "url": "https://open.spotify.com/album/6ARg3br5L5kre3Ki1GAETc"
       },
@@ -16779,6 +16877,24 @@
       "duration_ms": 206426,
       "name": "Pippins",
       "url": "https://open.spotify.com/track/1gc9zvRUC8XiUtp0FO6cAW"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f1a Colada (Instrumental)",
+        "url": "https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp"
+      },
+      "artists": [
+        {
+          "name": "Petrichor",
+          "url": "https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Pi\u00f1a Colada (Instrumental)",
+      "url": "https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv"
     },
     {
       "album": {
@@ -19017,6 +19133,24 @@
       "duration_ms": 183333,
       "name": "So Long...",
       "url": "https://open.spotify.com/track/5HrqbRBEoGNiYCEEp5MERD"
+    },
+    {
+      "album": {
+        "name": "the runaway",
+        "url": "https://open.spotify.com/album/5b3EO3YUcPEgst7phZ2Xmf"
+      },
+      "artists": [
+        {
+          "name": "HERDD",
+          "url": "https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128123,
+      "name": "so you know",
+      "url": "https://open.spotify.com/track/3IPdsAaaI7NLgn8lW3KXIo"
     },
     {
       "album": {
@@ -23938,6 +24072,24 @@
     },
     {
       "album": {
+        "name": "I Still Miss Theresa Benoit",
+        "url": "https://open.spotify.com/album/40QtmYayxAy3J65eHyV8Mx"
+      },
+      "artists": [
+        {
+          "name": "Catch Prichard",
+          "url": "https://open.spotify.com/artist/4fGnksIEapOHDbvWOYPCW5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307293,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5QDQ4VMpboWM1zL2KHxlQq"
+    },
+    {
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/4cXbTmMC5RfBmfuoUTB3CC"
       },
@@ -24461,6 +24613,24 @@
       "duration_ms": 177637,
       "name": "Your heart",
       "url": "https://open.spotify.com/track/2wDz9wTS68HsauY408ups6"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2Cr9txqCo5U2xJ24wjw8OH"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nicole",
+          "url": "https://open.spotify.com/artist/2Zh5zvQdDOGdk9jQDBusfq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293546,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4yRhBp33z9EQLnqZHsyI1m"
     },
     {
       "album": {

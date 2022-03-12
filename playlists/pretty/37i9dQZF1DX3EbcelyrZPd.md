@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,082 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,161 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Swagg](https://open.spotify.com/track/3U1wjyEjTcdGQUTwsGHrpY) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Swagg](https://open.spotify.com/album/3sz09gojJ618LB5ilGNhTA) | 3:31 |
 | 70 | [Kama Unae](https://open.spotify.com/track/4nlevgaJwaJShkPGD36kYQ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Kid Golden](https://open.spotify.com/artist/1mVLIIOcE7lXrw47yFUxYU), [Paul Peter Matthysse](https://open.spotify.com/artist/25nD2JksQyjpZxchxgvgDK) | [Wanangu 99](https://open.spotify.com/album/5R6gnSXhq3hNUgeeaKBlZJ) | 3:24 |
 
-Snapshot ID: `MTY0Njk0NTk0MCwwMDAwMDA0NDAwMDAwMTdmNzVhMGIyOTUwMDAwMDE3ZjczZWJiNjcy`
+Snapshot ID: `MTY0Njk3NjA1NywwMDAwMDA0NjAwMDAwMTdmNzc2YzNmMTIwMDAwMDE3Zjc3NmMwMjJl`

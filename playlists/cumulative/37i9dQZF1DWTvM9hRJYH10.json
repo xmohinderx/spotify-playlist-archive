@@ -188,6 +188,28 @@
     },
     {
       "album": {
+        "name": "Best Worst Ex",
+        "url": "https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        },
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "Best Worst Ex",
+      "url": "https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma"
+    },
+    {
+      "album": {
         "name": "Better With A Girl",
         "url": "https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd"
       },
@@ -257,6 +279,24 @@
       "duration_ms": 201976,
       "name": "Broke It Down - Remastered",
       "url": "https://open.spotify.com/track/7g3XsZcztJW1i7pD3RacWt"
+    },
+    {
+      "album": {
+        "name": "Broke to Brand New",
+        "url": "https://open.spotify.com/album/0C6wWwlv0Oh6uYc1kJOhDT"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187996,
+      "name": "Broke to Brand New",
+      "url": "https://open.spotify.com/track/2IsL0pEJRbIrkSATMlMgv8"
     },
     {
       "album": {
@@ -2333,6 +2373,24 @@
       "duration_ms": 187013,
       "name": "The Road",
       "url": "https://open.spotify.com/track/4FZI7N03gZMZY59QEqnC7I"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/2PfguD2plJWzW903T83UNu"
+      },
+      "artists": [
+        {
+          "name": "Presley & Taylor",
+          "url": "https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224573,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/0DMfKoqcOIZDyzcl5iMfeo"
     },
     {
       "album": {

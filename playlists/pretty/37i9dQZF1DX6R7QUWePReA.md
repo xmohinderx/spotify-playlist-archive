@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Chestnuts roasting on an open fire..\. Timeless heart\-warming classics for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,548,891 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,548,472 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 62 | [Twelve Days Of Christmas \- Single Version](https://open.spotify.com/track/4Zo33RKIwOIiVsZZtXsKU4) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas](https://open.spotify.com/album/5rNiENfjWN3m9HE9XwBjvi) | 3:24 |
 | 63 | [The Nutcracker, Op\. 71: Act II Tableau 3: Variation 2: Dance of the Sugar\-Plum Fairy](https://open.spotify.com/track/3C4JNyv2NAT72xm0cDKl0v) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Russian National Orchestra](https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Tchaikovsky: The Nutcracker](https://open.spotify.com/album/6g8mVkQHQOEczebvw6egrR) | 2:21 |
 | 64 | [Hark! The Herald Angels Sing/It Came Upon A Midnight Clear \- Medley / Remastered 2006](https://open.spotify.com/track/4BgkhT5HythXhIBqU2WvhX) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:06 |
-| 65 | [We Three Kings \- Remastered](https://open.spotify.com/track/0si9tjG0DZWkgydIyJBM0N) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2m9FunH1uDB2vBkTClfRNy) | 2:07 |
+| 65 | [We Three Kings \- Remastered 2006](https://open.spotify.com/track/0si9tjG0DZWkgydIyJBM0N) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2m9FunH1uDB2vBkTClfRNy) | 2:07 |
 | 66 | [O Holy Night](https://open.spotify.com/track/2aQkTUbJUHk3F6nMipZLbz) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Twelve Songs Of Christmas](https://open.spotify.com/album/6IICcthNyUNV4bdJlm8Idi) | 4:50 |
 | 67 | [The Christmas List](https://open.spotify.com/track/2Vfm43BaQcTY55P6R9WvRe) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas Carousel](https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd) | 2:39 |
 | 68 | [Christmas Dream](https://open.spotify.com/track/1PrhnQxWAVYikCHcieRQiy) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 2:49 |

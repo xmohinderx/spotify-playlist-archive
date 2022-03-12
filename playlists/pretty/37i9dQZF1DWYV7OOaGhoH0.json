@@ -1,32 +1,48 @@
 {
-  "description": "Explore the ever-evolving roots & folk scene. Cover: Brandi Carlile\n",
-  "num_followers": 1827397,
+  "description": "Explore the ever-evolving roots & folk scene. Cover: Caamp\n",
+  "num_followers": 1827448,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDEyZDAwMDAwMTdmNTM0YzhkNWUwMDAwMDE3ZjUxYjNkNjNl",
+  "snapshot_id": "MTY0Njk3NDg2MCwwMDAwMDEyZTAwMDAwMTdmNzc1OWZiNzMwMDAwMDE3Zjc3MTkxZGM2",
   "tracks": [
     {
-      "added_at": "2022-02-25 17:35:09",
+      "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
+        "name": "All Is Well Feat. Joy Williams",
+        "url": "https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J"
+      },
+      "artists": [
+        {
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "All Is Well (feat. Joy Williams)",
+      "url": "https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -75,22 +91,6 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "Tangled",
-        "url": "https://open.spotify.com/album/4g32h5uIabwgSDGykJTvSh"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Tangled",
-      "url": "https://open.spotify.com/track/5sCS5RD3FoaPpru90mS8R7"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -103,26 +103,6 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "All Is Well Feat. Joy Williams",
-        "url": "https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J"
-      },
-      "artists": [
-        {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
-        },
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "All Is Well (feat. Joy Williams)",
-      "url": "https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -159,22 +139,38 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "Sapling (feat. Anderson East)",
-        "url": "https://open.spotify.com/album/3hZo4OXyrw0NYHSDGW7FJx"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         },
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 193466,
-      "name": "Sapling (feat. Anderson East)",
-      "url": "https://open.spotify.com/track/62dlYm1sz64D1AST1dCLE2"
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Know Your Demons",
+        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Know Your Demons",
+      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -195,34 +191,18 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy"
       },
       "artists": [
         {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
         }
       ],
-      "duration_ms": 205360,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "The Man Was Burning",
-        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
-      },
-      "artists": [
-        {
-          "name": "Jake Blount",
-          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
-        }
-      ],
-      "duration_ms": 155665,
-      "name": "The Man Was Burning",
-      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
+      "duration_ms": 302578,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -245,20 +225,56 @@
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
     },
     {
-      "added_at": "2022-03-04 05:00:00",
+      "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE"
+        "name": "Sapling (feat. Anderson East)",
+        "url": "https://open.spotify.com/album/3hZo4OXyrw0NYHSDGW7FJx"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        },
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7"
+      "duration_ms": 193466,
+      "name": "Sapling (feat. Anderson East)",
+      "url": "https://open.spotify.com/track/62dlYm1sz64D1AST1dCLE2"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -363,38 +379,6 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/2UHiZeQJJDA5A2t3ic9dSc"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/1a4q0cPW94CTmx1GLMCwxe"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Young Man",
-      "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
         "name": "Lighten Up",
         "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
       },
@@ -413,20 +397,20 @@
       "url": "https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H"
     },
     {
-      "added_at": "2022-02-25 17:35:09",
+      "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy"
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
       "artists": [
         {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 302578,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9"
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -527,6 +511,22 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
+        "name": "The Man Was Burning",
+        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "duration_ms": 155665,
+      "name": "The Man Was Burning",
+      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 496786,
       "name": "We Shall Live Again",
       "url": "https://open.spotify.com/track/76h5RdiFNMzOnzlO2Munaz"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/4g32h5uIabwgSDGykJTvSh"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/5sCS5RD3FoaPpru90mS8R7"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -643,22 +659,6 @@
       "duration_ms": 245946,
       "name": "Pine Grove (Madhouse)",
       "url": "https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Teeth Marks",
-      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -779,6 +779,54 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
+        "name": "Fire Line",
+        "url": "https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Fire Line",
+      "url": "https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/2UHiZeQJJDA5A2t3ic9dSc"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/1a4q0cPW94CTmx1GLMCwxe"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
         "name": "Everybody (feat. Jenny Lewis)",
         "url": "https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO"
       },
@@ -851,22 +899,6 @@
       "duration_ms": 255533,
       "name": "Phoenix (feat. Fleet Foxes & Ana\u00efs Mitchell)",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "How Is It That I Should Look At The Stars",
-        "url": "https://open.spotify.com/album/6rn5v0MUWC69CE7Dk7llnC"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 260099,
-      "name": "Endless Time",
-      "url": "https://open.spotify.com/track/3kQuEicvCFQ9AQoBM2pvqR"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -943,6 +975,22 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
+    },
+    {
+      "added_at": "2022-02-25 17:35:09",
+      "album": {
+        "name": "B61",
+        "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "B61",
+      "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -1119,22 +1167,6 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "Ana\u00efs Mitchell",
-        "url": "https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Now You Know",
-      "url": "https://open.spotify.com/track/7bmitV7MwnQeTSkv9nhFli"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
         "name": "Dyan",
         "url": "https://open.spotify.com/album/5rgmHYbqXbu6pJsQp1uRlv"
       },
@@ -1147,22 +1179,6 @@
       "duration_ms": 158208,
       "name": "Dyan",
       "url": "https://open.spotify.com/track/24VL42SyykfEQGYIdyAg1H"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "Sweet Misery",
-        "url": "https://open.spotify.com/album/7bKPxEAWKsZsgH4sQ20cqN"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 189329,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/6BLxLHO1PL5jOoRknuFS9e"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -1279,38 +1295,6 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "doomsday",
-        "url": "https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 268432,
-      "name": "doomsday",
-      "url": "https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
         "name": "How Do You Know",
         "url": "https://open.spotify.com/album/0friSADlRRmOBVfIJgx0Ob"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "How Is It That I Should Look At The Stars",
+        "url": "https://open.spotify.com/album/6rn5v0MUWC69CE7Dk7llnC"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 260099,
+      "name": "Endless Time",
+      "url": "https://open.spotify.com/track/3kQuEicvCFQ9AQoBM2pvqR"
     },
     {
       "added_at": "2022-02-25 17:35:09",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-02-25 17:35:09",
       "album": {
-        "name": "Fire Line",
-        "url": "https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Fire Line",
-      "url": "https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -1735,54 +1719,6 @@
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "Pawnshop Dollar Bills",
-        "url": "https://open.spotify.com/album/3fYwNGKMxO1n0Wl3kFXB5S"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 487250,
-      "name": "Pawnshop Dollar Bills",
-      "url": "https://open.spotify.com/track/7u2Rl2dx5BGzzcOPdAw8cX"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "B61",
-        "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "B61",
-      "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
-    },
-    {
-      "added_at": "2022-02-25 17:35:09",
-      "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2022-02-25 17:35:09",

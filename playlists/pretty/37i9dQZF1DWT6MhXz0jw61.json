@@ -1,28 +1,32 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Cordae",
-  "num_followers": 1039203,
+  "num_followers": 1039605,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDE5OTAwMDAwMTdmNTM0YzhkNjQwMDAwMDE3ZjQ2ZWViOTM3",
+  "snapshot_id": "MTY0Njk3NDgwMCwwMDAwMDE5YTAwMDAwMTdmNzc1OTExODAwMDAwMDE3ZjQ2ZWViOTM3",
   "tracks": [
     {
-      "added_at": "2022-03-04 05:00:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Head High",
-        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Head High",
-      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+      "duration_ms": 238453,
+      "name": "10 More Commandments (feat. Diddy)",
+      "url": "https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -45,6 +49,30 @@
       "url": "https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l"
     },
     {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 257553,
+      "name": "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Johnny P's Caddy",
@@ -63,22 +91,6 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 193168,
-      "name": "C Carter",
-      "url": "https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -141,6 +153,38 @@
       "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "diving board",
+        "url": "https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 165187,
+      "name": "diving board",
+      "url": "https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Head High",
+        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Head High",
+      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+    },
+    {
       "added_at": "2022-01-28 20:30:35",
       "album": {
         "name": "Richer Than I Ever Been (Deluxe)",
@@ -193,6 +237,26 @@
       "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Heaven's Sky (feat. Rae Khalil)",
+        "url": "https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 229802,
+      "name": "Heaven's Sky (feat. Rae Khalil)",
+      "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
+    },
+    {
       "added_at": "2022-02-11 05:06:00",
       "album": {
         "name": "The Happy",
@@ -225,6 +289,26 @@
       "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Tyson vs. Ali (feat. Conway The Machine)",
+      "url": "https://open.spotify.com/track/004DJSek7Zd1dVNRHvHwrf"
+    },
+    {
       "added_at": "2022-02-11 05:06:00",
       "album": {
         "name": "The Tonight Show",
@@ -254,19 +338,11 @@
         {
           "name": "Cordae",
           "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 257553,
-      "name": "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
-      "url": "https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz"
+      "duration_ms": 193168,
+      "name": "C Carter",
+      "url": "https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -901,26 +977,6 @@
       "url": "https://open.spotify.com/track/3M2gIudnbke08mHonTJE4h"
     },
     {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 383036,
-      "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
-    },
-    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "Payday",
@@ -1419,26 +1475,6 @@
     {
       "added_at": "2021-05-21 04:00:00",
       "album": {
-        "name": "Just Until....",
-        "url": "https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 191032,
-      "name": "More Life (feat. Q Tip)",
-      "url": "https://open.spotify.com/track/4vTfXktjuhBSvPlf17xcxZ"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
         "name": "Gold Rolex",
         "url": "https://open.spotify.com/album/2CP8TcIt4nEqG6UYItXl8f"
       },
@@ -1711,26 +1747,6 @@
     {
       "added_at": "2021-05-21 04:00:00",
       "album": {
-        "name": "Angelic Hoodrat: Supercut",
-        "url": "https://open.spotify.com/album/55oL9JR69c0rbLAfGCFbAF"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Much Money (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/6I5VbxQiJYBetYKdlRINr3"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
         "name": "Bed-Stuy is Burning",
         "url": "https://open.spotify.com/album/2QjFWqdudxOO6tuYKgmcN8"
       },
@@ -1827,26 +1843,6 @@
       "duration_ms": 241005,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "1176",
-        "url": "https://open.spotify.com/album/4OaGEhSy7NfxdzFv584t4Q"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "!llmind",
-          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
-        }
-      ],
-      "duration_ms": 182832,
-      "name": "Chicken Adobo",
-      "url": "https://open.spotify.com/track/16ZSaXzmcsIXvHaK2HhT8r"
     },
     {
       "added_at": "2021-05-21 04:00:00",

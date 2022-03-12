@@ -2,7 +2,7 @@
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
-> <a href="https://bit.ly/FestivalEqualColombia">Festival EQUAL en venta 3/11, 9am AQUÍ</a>
+> ¡<a href="https://bit.ly/FestivalEqualColombia">Compra tus entradas al Festival EQUAL aquí</a>!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

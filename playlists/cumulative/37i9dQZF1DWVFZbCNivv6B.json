@@ -164,6 +164,48 @@
     },
     {
       "album": {
+        "name": "Alzypher Vol. 6",
+        "url": "https://open.spotify.com/album/2sOjyIKS7pozoIpqyK98Gx"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+        },
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "Zoop One",
+          "url": "https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ"
+        },
+        {
+          "name": "Mr. Lars",
+          "url": "https://open.spotify.com/artist/6vGnp4ENQmpq4FzTypMW3l"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Alzypher Vol. 6",
+      "url": "https://open.spotify.com/track/2xYH9r7VyNCQ7fENL3LOWu"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu"
       },
@@ -237,7 +279,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 155549,
       "name": "Basta (feat. Cristrombon)",
       "url": "https://open.spotify.com/track/7mwmcQHW1iHOUvcS80SbNZ"
@@ -536,6 +578,28 @@
     },
     {
       "album": {
+        "name": "Dime por Que",
+        "url": "https://open.spotify.com/album/1bCige5dbCB7PDqCKNc2Wd"
+      },
+      "artists": [
+        {
+          "name": "La Bestia",
+          "url": "https://open.spotify.com/artist/2I8hlGzbnZKwkCg1EicEdG"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184235,
+      "name": "Dime por Que",
+      "url": "https://open.spotify.com/track/2ZwfVs3itgHUgfmQpeQSuM"
+    },
+    {
+      "album": {
         "name": "Don Quijote",
         "url": "https://open.spotify.com/album/1kaqwJoaGilRwKnrJ5wjv6"
       },
@@ -749,6 +813,28 @@
       "duration_ms": 190843,
       "name": "Fuma Fuma",
       "url": "https://open.spotify.com/track/0zvzpiY7OJFRrkAIYfoOLJ"
+    },
+    {
+      "album": {
+        "name": "Goldo",
+        "url": "https://open.spotify.com/album/33mDKrBUbltFLjLYCc9Y8o"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Goldo",
+      "url": "https://open.spotify.com/track/56q8upuc9JTt33jFwM74Et"
     },
     {
       "album": {
@@ -1067,6 +1153,24 @@
       "duration_ms": 294545,
       "name": "Malvivientes",
       "url": "https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P"
+    },
+    {
+      "album": {
+        "name": "Apocalypsis",
+        "url": "https://open.spotify.com/album/0DKEIDXNz2uOqk4whArUkz"
+      },
+      "artists": [
+        {
+          "name": "Dyablo",
+          "url": "https://open.spotify.com/artist/7eU5CvFPPiqSqnKiNmZNy7"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192168,
+      "name": "Me Cuido",
+      "url": "https://open.spotify.com/track/4EYCvN8KZn1iZ0sOBJ4hmw"
     },
     {
       "album": {
@@ -1555,7 +1659,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 275200,
       "name": "Rostros",
       "url": "https://open.spotify.com/track/7Cx1EFIk3QU9l5mrSwiuv5"
@@ -1617,7 +1721,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 224000,
       "name": "Sangre De Mi Sangre",
       "url": "https://open.spotify.com/track/5JVrEEGdlpNj82dDrV12PB"
@@ -1789,7 +1893,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 243000,
       "name": "Socios",
       "url": "https://open.spotify.com/track/7d8TPVWQLeW5PKrAb76V3N"
@@ -1841,7 +1945,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 263096,
       "name": "Sonrisa Grande, Ojos Tristes",
       "url": "https://open.spotify.com/track/0lBgg4RBEbDroO3SxeG5G9"
@@ -2099,6 +2203,24 @@
       "duration_ms": 246750,
       "name": "Vida M\u00eda",
       "url": "https://open.spotify.com/track/7u0CjhCyWMA3uPmaQeUlel"
+    },
+    {
+      "album": {
+        "name": "VIDATOPTEN",
+        "url": "https://open.spotify.com/album/5OoQ4wYOcKyn16hefC3Jtz"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157731,
+      "name": "VIDATOPTEN",
+      "url": "https://open.spotify.com/track/5H107hSe3BMZQfynnfFl5f"
     },
     {
       "album": {

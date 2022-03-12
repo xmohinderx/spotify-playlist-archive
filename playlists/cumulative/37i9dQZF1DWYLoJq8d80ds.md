@@ -2,12 +2,12 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis.
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera y Los Pampas.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adios Que Te Vaya Bien](https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 2:37 | 2021-12-31 |  |
-| [Agüita De Carnaval](https://open.spotify.com/track/0iKcUJQHO1EKpZa8KxYNki) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:50 | 2021-12-31 |  |
+| [Agüita De Carnaval](https://open.spotify.com/track/0iKcUJQHO1EKpZa8KxYNki) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:50 | 2021-12-31 | 2022-03-12 |
 | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/2AuJnv5bb33UTKDD2FSyqD) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/album/4ovvjgPLDp5pRu2bjCSCXw) | 3:27 | 2021-12-31 |  |
 | [Almas Gemelas](https://open.spotify.com/track/0pjfGKSK7ldTGFvljFACFr) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Almas Gemelas](https://open.spotify.com/album/7v99j12qHvc2Fc6HOqxetg) | 3:19 | 2021-12-31 |  |
 | [Amiga Tierra Querida](https://open.spotify.com/track/1UhHkegLYWH4PujKSPpCFX) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Demi Carabajal](https://open.spotify.com/artist/5CQzGDENGT9jsefa285qId) | [La Niña de los Andamios](https://open.spotify.com/album/1BfmPrhw2FwVfd45GYrJPI) | 3:18 | 2021-12-31 |  |
@@ -29,6 +29,7 @@
 | [Desvío](https://open.spotify.com/track/3E7JDPzzJh5BhivXutrXAz) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 2:43 | 2021-12-31 |  |
 | [Dime](https://open.spotify.com/track/2BNzCdbnUoJw9ZnvmLZQrs) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Dime](https://open.spotify.com/album/46CqfZvFn60Dv5qggaQ1G0) | 3:14 | 2021-12-31 |  |
 | [Dime](https://open.spotify.com/track/0mTJEkZDInEstChLEpfs2x) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Dime](https://open.spotify.com/album/3QEzOj8u8OHAr3uYe2FVJC) | 2:50 | 2021-12-31 |  |
+| [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 | 2022-03-11 |  |
 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 | 2021-12-31 |  |
 | [El Antigal](https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 4:18 | 2021-12-31 |  |
 | [El Coya Dance](https://open.spotify.com/track/7oOFKgqS3oKmiBzMf5ODDq) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Carnavalito](https://open.spotify.com/album/4fTZtP2wJgcdvLlyKFofoH) | 2:35 | 2021-12-31 |  |
@@ -62,7 +63,7 @@
 | [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 |  |
 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 |  |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 |  |
-| [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 |  |
+| [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 | 2022-03-12 |
 | [Mi Fe](https://open.spotify.com/track/3SeELV9ls4SHFg6bsbNqW6) | [Los Rojas](https://open.spotify.com/artist/2Jro2lFfaK1LiUIIY8Ff48) | [Mi Fe](https://open.spotify.com/album/6OT3Ld1cSlVqhH7VoyYRmj) | 2:13 | 2021-12-31 |  |
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3qsDt6tpHNSWf7CsFCaOvm) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/4u0P9UEKJZzvU9bULx7LM0) | 2:29 | 2021-12-31 |  |
 | [Mi Regreso](https://open.spotify.com/track/1CfwzL2EwovUSJk12fhNva) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Mi Regreso](https://open.spotify.com/album/6IQdh1uIQiHyUuqfoCFtP4) | 2:59 | 2021-12-31 |  |
@@ -81,7 +82,7 @@
 | [Si Acaso Regresaras](https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Si Acaso Regresaras](https://open.spotify.com/album/1oJMF6AUvk5MLoGIhEC6nr) | 3:08 | 2021-12-31 | 2022-02-05 |
 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si No Te Vuelvo a Ver](https://open.spotify.com/album/4I2nmRLtjWyFoNdHP6W9op) | 3:18 | 2021-12-31 |  |
 | [Siempre Chaqueño Seré](https://open.spotify.com/track/5QsE9o3fVm9PNFTvUyMu8g) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Siempre Chaqueño Seré](https://open.spotify.com/album/7ubNon6hL84WzO4gniXGrU) | 3:04 | 2021-12-31 |  |
-| [Sin Ti No Valgo Nada](https://open.spotify.com/track/7n3rvqszVrAX448hWRX65H) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Instinto](https://open.spotify.com/album/24NfSZJS8SRtBfzDBzwML0) | 3:10 | 2021-12-31 |  |
+| [Sin Ti No Valgo Nada](https://open.spotify.com/track/7n3rvqszVrAX448hWRX65H) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Instinto](https://open.spotify.com/album/24NfSZJS8SRtBfzDBzwML0) | 3:10 | 2021-12-31 | 2022-03-12 |
 | [Singani Congani](https://open.spotify.com/track/0CK0TsK2jCFxKroamAJxR5) | [Bruno Arias](https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df) | [El Derecho de Vivir en Paz](https://open.spotify.com/album/6fLjl4gKVVsYW7xyCcAJcw) | 5:07 | 2021-12-31 |  |
 | [Sol de los Andes](https://open.spotify.com/track/4HImzTUgpgjZP5epAww5c7) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Bruno Arias](https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df) | [Madre Tierra](https://open.spotify.com/album/7i64Ps0DqmPGyggNSr1gwz) | 4:36 | 2021-12-31 |  |
 | [Soy Bohemio \(feat\. Rolando Sartorio\)](https://open.spotify.com/track/1hTV0xotu2BsBK3cI9ctnW) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Rolando Sartorio](https://open.spotify.com/artist/7p5juUWSPwGbJH4BI3n8u1) | [Instinto](https://open.spotify.com/album/24NfSZJS8SRtBfzDBzwML0) | 3:01 | 2021-12-31 |  |
@@ -100,6 +101,6 @@
 | [Volver a Verte](https://open.spotify.com/track/5OP2PMkXcIIbEzztGKPYve) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 2:23 | 2021-12-31 |  |
 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 |  |
 | [Yo Soy](https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Yo Soy](https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C) | 2:41 | 2022-02-18 |  |
-| [Zapateo](https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Zapateo](https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60) | 2:59 | 2021-12-31 |  |
+| [Zapateo](https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Zapateo](https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60) | 2:59 | 2021-12-31 | 2022-03-12 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

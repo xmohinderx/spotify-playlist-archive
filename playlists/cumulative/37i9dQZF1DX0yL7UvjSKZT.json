@@ -2016,6 +2016,28 @@
     },
     {
       "album": {
+        "name": "With the Tide",
+        "url": "https://open.spotify.com/album/095Yb2NOCXjfLu63lMJm5J"
+      },
+      "artists": [
+        {
+          "name": "Shawn Williams",
+          "url": "https://open.spotify.com/artist/0JhmNymqmGOpg2NWfrB0Ge"
+        },
+        {
+          "name": "Shaun Garrison",
+          "url": "https://open.spotify.com/artist/1Z2OjiByMjWnlDiE7SB2YR"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "With the Tide",
+      "url": "https://open.spotify.com/track/4N3fdgQr6zHbEdP8nvD2jP"
+    },
+    {
+      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N"
       },

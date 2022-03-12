@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 307147,
       "name": "16 Years",
       "url": "https://open.spotify.com/track/5VbYXY9TupDh4oX33zBMwR"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 324806,
       "name": "Abuskeleke",
       "url": "https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 330573,
       "name": "Ahomka Womu",
       "url": "https://open.spotify.com/track/64QtNm7SM1TwKZ3iINW6Be"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 286511,
       "name": "Alampaine",
       "url": "https://open.spotify.com/track/0ZOc6TTrgG4nEquANacw7B"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 278308,
       "name": "Anadwo Yede",
       "url": "https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 331258,
       "name": "Araba Lawson (feat. All4real)",
       "url": "https://open.spotify.com/track/0GFjf8ABto37t2pbGm5JfL"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 342125,
       "name": "Bue Bue (feat. Castro)",
       "url": "https://open.spotify.com/track/1vSMFShTdr7geA5nfh4zpg"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "DADA BA",
       "url": "https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 403121,
       "name": "Gonja Barracks",
       "url": "https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 399124,
       "name": "I'm Going to Come",
       "url": "https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4"
@@ -548,6 +548,28 @@
     },
     {
       "album": {
+        "name": "Love You",
+        "url": "https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186438,
+      "name": "Love You",
+      "url": "https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -617,7 +639,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 292106,
       "name": "Medo",
       "url": "https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA"
@@ -635,7 +657,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol"
@@ -679,7 +701,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 229930,
       "name": "Metua",
       "url": "https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C"
@@ -745,7 +767,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 311170,
       "name": "Obaa No",
       "url": "https://open.spotify.com/track/1AfW3qEZUUn3GbiBEtJfz9"
@@ -817,7 +839,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 338076,
       "name": "Ofie Nipa",
       "url": "https://open.spotify.com/track/5NahRnfX0SvMD1axzzVQsk"
@@ -889,7 +911,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 308688,
       "name": "Police Abaa",
       "url": "https://open.spotify.com/track/4fRcpwG2T87zP0Mryo5RiL"
@@ -961,7 +983,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 326765,
       "name": "Still I Love You",
       "url": "https://open.spotify.com/track/2nb8GikJzwWHTJZkLJCiXF"
@@ -987,7 +1009,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 272901,
       "name": "Sudwe (feat. Batman & Tinny)",
       "url": "https://open.spotify.com/track/4aSkWak39yEulN0pwtYfir"
@@ -1045,7 +1067,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 337606,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
@@ -1081,7 +1103,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 316003,
       "name": "Tuabodom",
       "url": "https://open.spotify.com/track/1ta0PJWhEEwSEoP87N4qqf"
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 296907,
       "name": "Uncle Ebo",
       "url": "https://open.spotify.com/track/6nPaMcmh1UHgNwId2TLznB"
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 233333,
       "name": "Ware Me",
       "url": "https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 204220,
       "name": "Wish Me Well",
       "url": "https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp"
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 293355,
       "name": "Yahooya (feat. Batman)",
       "url": "https://open.spotify.com/track/2f31vW2Rp3390tlIZ0IHzl"
@@ -1255,7 +1277,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"

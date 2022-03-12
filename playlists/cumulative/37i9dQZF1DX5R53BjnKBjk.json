@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Geovanna Jainy. Arte: Isu Kim",
+  "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Crime Caqui. Arte: Isu Kim",
   "name": "Fresh Finds Brasil",
   "published_playlist_ids": [
     "67GFnJVXnyWY0MjhTSXEEJ"
@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Atenta",
+        "url": "https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw"
+      },
+      "artists": [
+        {
+          "name": "Crime Caqui",
+          "url": "https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181310,
+      "name": "Estrago",
+      "url": "https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Aceito",
         "url": "https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg"
       },
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 141068,
       "name": "Imaginando Voc\u00ea",
       "url": "https://open.spotify.com/track/5Bhq9x8xbI9E3zNaJ0GLIv"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 224625,
       "name": "Preta",
       "url": "https://open.spotify.com/track/1jkzmaIeoqtY21ebJTji2F"
@@ -1781,6 +1799,24 @@
       "duration_ms": 214047,
       "name": "Tudo Vai Bem",
       "url": "https://open.spotify.com/track/0Ux6ns0ofCgj2Pw6kEwKqd"
+    },
+    {
+      "album": {
+        "name": "Tudo vale a pena",
+        "url": "https://open.spotify.com/album/65h69IuhRe8D8E786BrfgZ"
+      },
+      "artists": [
+        {
+          "name": "Jey",
+          "url": "https://open.spotify.com/artist/6dS9sxlp4vf34zzi6TtQ8C"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Tudo vale a pena",
+      "url": "https://open.spotify.com/track/20Ol2Wfg3g6XGVnw4C0D8C"
     },
     {
       "album": {

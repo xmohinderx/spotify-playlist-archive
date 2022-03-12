@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Caio Luccas, Azevedo, MC Maneirinho, Anezzi, Dallass",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: MC Caverinha, Vulgo FK",
   "name": "Trap Ouro",
   "published_playlist_ids": [
     "4T7iGLaKVcPullqJpNjFYS"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 163000,
       "name": "1.5.7",
       "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 196173,
       "name": "Animais Traidores",
       "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
@@ -191,6 +191,32 @@
       "duration_ms": 165000,
       "name": "Baby Crazy",
       "url": "https://open.spotify.com/track/4vnndKSuCrTU2A1Zoy34kM"
+    },
+    {
+      "album": {
+        "name": "Balaclava",
+        "url": "https://open.spotify.com/album/5PZKoqr74ZnqpdScLOiFFJ"
+      },
+      "artists": [
+        {
+          "name": "V'Motta",
+          "url": "https://open.spotify.com/artist/6vRK4JCcvEBzVjfzFTLtnh"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "3emebeats",
+          "url": "https://open.spotify.com/artist/5WfYyBbu9RV12mlnWEZ6Fk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/2wZolVN5UY5lxC0OEgqVxW"
     },
     {
       "album": {
@@ -627,7 +653,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 144000,
       "name": "De F\u00e9",
       "url": "https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72"
@@ -657,6 +683,54 @@
       "duration_ms": 161372,
       "name": "Delinquente",
       "url": "https://open.spotify.com/track/5PsY4l1ncsqUIM8EqN8lDG"
+    },
+    {
+      "album": {
+        "name": "Deus \u00c9 o Meu Guia",
+        "url": "https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Deus \u00c9 o Meu Guia",
+      "url": "https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6"
+    },
+    {
+      "album": {
+        "name": "Diferenciado",
+        "url": "https://open.spotify.com/album/2aUh7bOcyA7SzY6xylArIn"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Diferenciado",
+      "url": "https://open.spotify.com/track/27iAEVwv6aMaICmXPkk50m"
     },
     {
       "album": {
@@ -705,6 +779,28 @@
       "duration_ms": 149500,
       "name": "Dona do Tempo",
       "url": "https://open.spotify.com/track/1TQFhTNIdEP8TLM5etch8W"
+    },
+    {
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/0jX2g1c0pQOlQbEaKe1TR6"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134778,
+      "name": "Double Cup",
+      "url": "https://open.spotify.com/track/0dhgi3YzxKhna7AnQDEou7"
     },
     {
       "album": {
@@ -857,7 +953,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 145573,
       "name": "Eu Fiz o Jogo Virar",
       "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
@@ -1147,10 +1243,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 170476,
       "name": "F\u00e9 no Criador",
       "url": "https://open.spotify.com/track/09e3ym0X2ZCZoYvxHIve7J"
+    },
+    {
+      "album": {
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/75HPiH3QdcUvYWCcZLAMng"
+      },
+      "artists": [
+        {
+          "name": "Roman\u00ed",
+          "url": "https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K"
+        },
+        {
+          "name": "Cutcharra",
+          "url": "https://open.spotify.com/artist/1Tzj5a8qu8Lb16pt0mhflY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158526,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/4l5krbx0nIHVEdQbJpGjs7"
     },
     {
       "album": {
@@ -1314,6 +1432,28 @@
     },
     {
       "album": {
+        "name": "Isso Que \u00c9 Bom",
+        "url": "https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155258,
+      "name": "Isso Que \u00c9 Bom",
+      "url": "https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS"
+    },
+    {
+      "album": {
         "name": "JANTA (feat. Lili AM, Mariana Mello e Gabz)",
         "url": "https://open.spotify.com/album/0eV8dgbNrS7N9nhMK5Q2Ga"
       },
@@ -1453,6 +1593,36 @@
       "duration_ms": 166090,
       "name": "Killers",
       "url": "https://open.spotify.com/track/4crBbHL42HJOAC3RhXauWV"
+    },
+    {
+      "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/40g7jtWID93Fya0JsoPAa7"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147740,
+      "name": "Kylie",
+      "url": "https://open.spotify.com/track/3wKfelws5Mak6BpV8HG0dc"
     },
     {
       "album": {
@@ -1652,6 +1822,36 @@
     },
     {
       "album": {
+        "name": "Marquinha",
+        "url": "https://open.spotify.com/album/5KyezC5oKpxNtgsTFGfFv3"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Marquinha",
+      "url": "https://open.spotify.com/track/4CvoPPB7Rcf600XgehVs37"
+    },
+    {
+      "album": {
         "name": "Me Arrasta",
         "url": "https://open.spotify.com/album/4HMEDyA1dvJBbeVTKLjM2a"
       },
@@ -1679,7 +1879,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 203813,
       "name": "Me Arrasta",
       "url": "https://open.spotify.com/track/74HTQxGd5KwzwTBns0tPjo"
@@ -1880,6 +2080,36 @@
     },
     {
       "album": {
+        "name": "Na Onda",
+        "url": "https://open.spotify.com/album/1KFyYWzXcKLcpt1flhTwHg"
+      },
+      "artists": [
+        {
+          "name": "EXQUE\u00c7A TUDO PAPAI",
+          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
+        },
+        {
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
+        },
+        {
+          "name": "Marral",
+          "url": "https://open.spotify.com/artist/3pAK11IqE1QSx1xf4nadtC"
+        },
+        {
+          "name": "Catt\u00ea",
+          "url": "https://open.spotify.com/artist/6oKv9J8JVmj0xpBJTW2tP3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149456,
+      "name": "Na Onda",
+      "url": "https://open.spotify.com/track/27HQGQajo6vLpvTiCvGiLy"
+    },
+    {
+      "album": {
         "name": "Na Onda do Gin",
         "url": "https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq"
       },
@@ -2045,7 +2275,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 253759,
       "name": "No Meu Flat",
       "url": "https://open.spotify.com/track/4G0ZRm37qx5mDieiHLHZoG"
@@ -2403,7 +2633,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 254224,
       "name": "PISANDO FOFO",
       "url": "https://open.spotify.com/track/5piCfoJLleAaccELaQHGbz"
@@ -2551,7 +2781,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 208753,
       "name": "Pronto pro Jogo.",
       "url": "https://open.spotify.com/track/4o5Ln4iZELCKbjw0snLpwP"
@@ -2985,7 +3215,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 152617,
       "name": "Solta o Flash",
       "url": "https://open.spotify.com/track/7vFhksN6h4Ma4gdRM4qHes"
@@ -3355,7 +3585,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 273008,
       "name": "Tudo do Melhor",
       "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
@@ -3399,7 +3629,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 151394,
       "name": "versace",
       "url": "https://open.spotify.com/track/5oabi3qmfZ6t7AMlRj5jqZ"
@@ -3461,6 +3691,28 @@
       "duration_ms": 124336,
       "name": "Vil\u00e3o",
       "url": "https://open.spotify.com/track/6JRqnc3JpOCrgPUCVmZDsb"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o de \u00c1guia",
+        "url": "https://open.spotify.com/album/4EWVccEmEuW6Vy87T2jR2E"
+      },
+      "artists": [
+        {
+          "name": "icedmob",
+          "url": "https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz"
+        },
+        {
+          "name": "Aimar",
+          "url": "https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152132,
+      "name": "Vis\u00e3o de \u00c1guia",
+      "url": "https://open.spotify.com/track/5P46eNljSYWm7LlnaYXPgD"
     },
     {
       "album": {
@@ -3554,6 +3806,54 @@
     },
     {
       "album": {
+        "name": "\u00c9 Hora do Show",
+        "url": "https://open.spotify.com/album/5Eh69CTRGd1OcfvRYXbxW9"
+      },
+      "artists": [
+        {
+          "name": "Haitam",
+          "url": "https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "\u00c9 Hora do Show",
+      "url": "https://open.spotify.com/track/0zNCG5TbxqEPiRV1aXh8wC"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Trem!",
+        "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Vinta",
+          "url": "https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C"
+        },
+        {
+          "name": "CalliCartel",
+          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147990,
+      "name": "\u00c9 o Trem! \u00c9 o Trem!",
+      "url": "https://open.spotify.com/track/77y3PmFe7qRa2prWTYGw0w"
+    },
+    {
+      "album": {
         "name": "\u00c9 o Tr3M!",
         "url": "https://open.spotify.com/album/3rBw4Ht48nL8PuvQErc2su"
       },
@@ -3569,7 +3869,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 147990,
       "name": "\u00c9 o Trem, \u00c9 o Trem!",
       "url": "https://open.spotify.com/track/5jtmWklEZRs9IkFo3CRyeG"

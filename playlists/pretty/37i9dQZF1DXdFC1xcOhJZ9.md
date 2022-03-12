@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFC1xcOhJZ9.md) - [plain]
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,756 likes - 53 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,845 likes - 53 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFC1xcOhJZ9.md) - [plain]
 | 37 | [Understand](https://open.spotify.com/track/2qT8g8y0vahhIbFENODWg1) | [Prototype 909](https://open.spotify.com/artist/416thFSobYDOCarokXFluq) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 3:12 |
 | 38 | [Atlantic City to Philadelphia](https://open.spotify.com/track/6VttXiKEWMmBV9oKZwrcPx) | [The KLF](https://open.spotify.com/artist/6dYrdRlNZSKaVxYg5IrvCH), [The Justified Ancients of Mu Mu](https://open.spotify.com/artist/623YeFh2bNivR5ZxQcsjjP) | [Come Down Dawn](https://open.spotify.com/album/4fBvkZkBuPyo3k7ZogKFAo) | 2:40 |
 | 39 | [5 23](https://open.spotify.com/track/7rGEbcLvRsoehrdQ2LC50G) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 5:22 |
-| 40 | [Divine Moments Of Truth](https://open.spotify.com/track/5z0QLEpkbUh00SevSuYxOh) | [Shpongle](https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ) | [Are You Shpongled?](https://open.spotify.com/album/7fAOqI4aJxx5oTeCMLPONf) | 10:20 |
+| 40 | [Divine Moments of Truth](https://open.spotify.com/track/5z0QLEpkbUh00SevSuYxOh) | [Shpongle](https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ) | [Are You Shpongled?](https://open.spotify.com/album/7fAOqI4aJxx5oTeCMLPONf) | 10:20 |
 | 41 | [Castor & Pollux \- Live](https://open.spotify.com/track/41K2vI8Tms21IKgJh13pLR) | [sun electric](https://open.spotify.com/artist/0aJ1FZmpkkzD6RiZe33EFR) | [30.7.94 \(Live\)](https://open.spotify.com/album/3ugTjeZdK7iI8kcwb1smwy) | 18:13 |
 | 42 | [Double Drums](https://open.spotify.com/track/3whUFHX7grfr61GiaymK4p) | [Peace Orchestra](https://open.spotify.com/artist/1h5fdExX00l0ujyhHMwFHt) | [Peace Orchestra](https://open.spotify.com/album/0K3eGBMX9RMo9QuQtMEEoT) | 9:22 |
 | 43 | [Grid Coordinate/Vorp One](https://open.spotify.com/track/4HcF4mXmLvlfusNCYn4eqo) | [Anubian Lights](https://open.spotify.com/artist/4h6dvb1vFqx8gmq9TdCxV7), [Nik Turner](https://open.spotify.com/artist/3sRZzVpgmxBaiKChVuUDNh) | [Your Captain Is Dead](https://open.spotify.com/album/7g6juBRZym793v5eRwbrOM) | 9:34 |

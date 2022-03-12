@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians. Cover: Miane",
+  "description": "Tech house technicians. Cover: FISHER, Shermanology",
   "name": "Operator",
   "published_playlist_ids": [
     "78BxbIkAGKnzKUXystZiu3"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 197790,
       "name": "Ain't Me Without You - Westend Remix",
       "url": "https://open.spotify.com/track/5gWVXOFCt97krDtcssAqVO"
@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Back To The Sound",
+        "url": "https://open.spotify.com/album/4rSDxcYD1aEKUEePGFtprf"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164381,
+      "name": "Back To The Sound",
+      "url": "https://open.spotify.com/track/3c8Nv4TXZlOD608H4tI5RD"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/7wXlKbKKc6Uv1AP0uVIDIx"
       },
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 205729,
       "name": "Better Things (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 385567,
       "name": "Bocat",
       "url": "https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B"
@@ -847,10 +865,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 183583,
       "name": "Can you speak English",
       "url": "https://open.spotify.com/track/7g7kHFl6XbJpBdF05L3uC8"
+    },
+    {
+      "album": {
+        "name": "Chase The Ace EP",
+        "url": "https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi"
+      },
+      "artists": [
+        {
+          "name": "AZETE",
+          "url": "https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "Chase The Ace",
+      "url": "https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI"
     },
     {
       "album": {
@@ -1121,7 +1157,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 175252,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6kLiLGTBQ0RhPgYOHYt9gI"
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 158000,
       "name": "Domino (feat. Oxia)",
       "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
@@ -1479,7 +1515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 175309,
       "name": "edamame (feat. Rich Brian) - Diplo Remix",
       "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 415238,
       "name": "Fairytale Frequency",
       "url": "https://open.spotify.com/track/537AcknNyv4DBFuzqmuX7T"
@@ -1768,6 +1804,24 @@
     },
     {
       "album": {
+        "name": "Givin It Bifters",
+        "url": "https://open.spotify.com/album/5tNuVA9IoMhJ01hJt4xaNN"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240638,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/5dYXmVIyaK17kYQirpz8co"
+    },
+    {
+      "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U"
       },
@@ -1823,6 +1877,24 @@
       "duration_ms": 169133,
       "name": "Groove La Afrika",
       "url": "https://open.spotify.com/track/18XaSQTiVylPUq0uSyWZAh"
+    },
+    {
+      "album": {
+        "name": "GRUUV",
+        "url": "https://open.spotify.com/album/2e859r4BJfvAO68g5iX38N"
+      },
+      "artists": [
+        {
+          "name": "Maxinne",
+          "url": "https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "GRUUV",
+      "url": "https://open.spotify.com/track/6iwUBX2iTWRjHtBAGdqS0M"
     },
     {
       "album": {
@@ -1899,7 +1971,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 221541,
       "name": "High On You",
       "url": "https://open.spotify.com/track/7L2DfuGgMVISlSDK0XbX7m"
@@ -2059,7 +2131,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 151681,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
@@ -2371,7 +2443,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 189677,
       "name": "In The City - King Topher Edit",
       "url": "https://open.spotify.com/track/0MSjjl5Ea1kwP1u7PuV9UJ"
@@ -2414,6 +2486,24 @@
     },
     {
       "album": {
+        "name": "Is It You",
+        "url": "https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh"
+      },
+      "artists": [
+        {
+          "name": "PAX",
+          "url": "https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159010,
+      "name": "Is It You",
+      "url": "https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi"
+    },
+    {
+      "album": {
         "name": "Isolator",
         "url": "https://open.spotify.com/album/0RPjh1hbGALd6XhUa8E4NA"
       },
@@ -2429,6 +2519,28 @@
       "duration_ms": 243809,
       "name": "Isolator",
       "url": "https://open.spotify.com/track/1gsE1eNiDb5CghKgbMgWJx"
+    },
+    {
+      "album": {
+        "name": "It's A Killa",
+        "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200028,
+      "name": "It's A Killa",
+      "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
     },
     {
       "album": {
@@ -2655,7 +2767,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 156612,
       "name": "Kush",
       "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
@@ -2685,6 +2797,24 @@
       "duration_ms": 174600,
       "name": "La candela viva",
       "url": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
+    },
+    {
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "album": {
@@ -2849,7 +2979,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 204761,
       "name": "Life Of Sin (feat. Ranger Trucco)",
       "url": "https://open.spotify.com/track/5CB3JnLsxjDJj2EUabWcuj"
@@ -2933,6 +3063,24 @@
       "duration_ms": 183875,
       "name": "Locco",
       "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
+    },
+    {
+      "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/7D88nh9xVN5urt7L5JHKVs"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154805,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/76zmS8kgCt3bT3DCCQNVjb"
     },
     {
       "album": {
@@ -3081,7 +3229,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 175000,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
@@ -3241,7 +3389,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 140952,
       "name": "Morenita - Matt Sassari Remix",
       "url": "https://open.spotify.com/track/33EetRbFe71jWQJ7hwKwQw"
@@ -4129,7 +4277,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 215013,
       "name": "Revelry",
       "url": "https://open.spotify.com/track/0DAyVtiU7pUsE4HcyTMBTr"
@@ -4343,10 +4491,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 153600,
       "name": "Sextacy",
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/7tNSNwf4A19uJHx3d1D1l3"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        },
+        {
+          "name": "Kaysin",
+          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Shake Down",
+      "url": "https://open.spotify.com/track/4vwajBdOuPfSEX2BYDfRfO"
     },
     {
       "album": {
@@ -4528,6 +4698,28 @@
     },
     {
       "album": {
+        "name": "Spotlight (feat. Sarah Ikumu)",
+        "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
+      },
+      "artists": [
+        {
+          "name": "S.A.M.",
+          "url": "https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O"
+        },
+        {
+          "name": "Sarah Ikumu",
+          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175475,
+      "name": "Spotlight (feat. Sarah Ikumu)",
+      "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
+    },
+    {
+      "album": {
         "name": "Step-Grandma",
         "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
       },
@@ -4630,6 +4822,24 @@
     },
     {
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/1R6GJ1O74t5r8rl6iGnafh"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/4hTCMB2JXvKvWDxjoye7xI"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/5thXHrAHGnJLLirz347m9w"
       },
@@ -4681,7 +4891,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 186727,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
@@ -4703,7 +4913,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 230078,
       "name": "TALKIN",
       "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
@@ -4769,7 +4979,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 232620,
       "name": "Tell It To My Heart (feat. Hozier) - KREAM Remix",
       "url": "https://open.spotify.com/track/4vGqY0JSAVwfHrntpsWgYE"
@@ -4849,7 +5059,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 271697,
       "name": "The Lead",
       "url": "https://open.spotify.com/track/6UmIvOlWvXtO03fALva6Lu"
@@ -4951,7 +5161,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 206666,
       "name": "This Is A Song About Dancing",
       "url": "https://open.spotify.com/track/5rTfHObU9zkltvkB4Lbael"
@@ -5173,7 +5383,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 303823,
       "name": "Walking",
       "url": "https://open.spotify.com/track/123zeArT5tWf1bQ5slqkwW"
@@ -5231,7 +5441,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 205714,
       "name": "Want To Love",
       "url": "https://open.spotify.com/track/4eadst9pPSuPYa6ZC79DBj"

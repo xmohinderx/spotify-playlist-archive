@@ -1,28 +1,44 @@
 {
-  "description": "Emerging music breaking waves.  Cover: Pote Baby",
-  "num_followers": 11112,
+  "description": "Emerging music breaking waves.  Cover: Benita",
+  "num_followers": 11160,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjQ0NDEyMiwwMDAwMDAzMDAwMDAwMTdmNTdiNzkxNjUwMDAwMDE3ZjU3YjU3MGVj",
+  "snapshot_id": "MTY0NzAyNzcxMywwMDAwMDAzMjAwMDAwMTdmN2E4MDc0MzgwMDAwMDE3Zjc3NTQ0NzUz",
   "tracks": [
     {
-      "added_at": "2022-03-04 05:00:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Conversations'",
-        "url": "https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA"
       },
       "artists": [
         {
-          "name": "Skip Waiters",
-          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
         }
       ],
-      "duration_ms": 168813,
-      "name": "Conversations'",
-      "url": "https://open.spotify.com/track/1m9pBF9THZQttjFWR9VKai"
+      "duration_ms": 170248,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "SCARLET",
+        "url": "https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "duration_ms": 169498,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -47,22 +63,18 @@
     {
       "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "Unsigned Hype",
-        "url": "https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5"
+        "name": "Conversations'",
+        "url": "https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL"
       },
       "artists": [
         {
-          "name": "Idontknowjeffery",
-          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
-        },
-        {
-          "name": "Denaro Love",
-          "url": "https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc"
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Unsigned Hype",
-      "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
+      "duration_ms": 168813,
+      "name": "Conversations'",
+      "url": "https://open.spotify.com/track/1m9pBF9THZQttjFWR9VKai"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -79,38 +91,6 @@
       "duration_ms": 217635,
       "name": "Set It Up",
       "url": "https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF"
-    },
-    {
-      "added_at": "2022-02-25 20:14:54",
-      "album": {
-        "name": "On a Roll",
-        "url": "https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        }
-      ],
-      "duration_ms": 147069,
-      "name": "On a Roll",
-      "url": "https://open.spotify.com/track/17TrsHFROsZTyJJHt7ZJPU"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Cemetery Freestyle",
-        "url": "https://open.spotify.com/album/79j5iEvu1BVgQZlGuiQGKy"
-      },
-      "artists": [
-        {
-          "name": "JoeVille",
-          "url": "https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW"
-        }
-      ],
-      "duration_ms": 159120,
-      "name": "Cemetery Freestyle",
-      "url": "https://open.spotify.com/track/4bDgMYC4RfOrc3n1oVLXfX"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -153,6 +133,26 @@
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
     },
     {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Unsigned Hype",
+        "url": "https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5"
+      },
+      "artists": [
+        {
+          "name": "Idontknowjeffery",
+          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
+        },
+        {
+          "name": "Denaro Love",
+          "url": "https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Unsigned Hype",
+      "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
+    },
+    {
       "added_at": "2021-12-01 18:01:35",
       "album": {
         "name": "Sim Simma",
@@ -167,6 +167,38 @@
       "duration_ms": 145714,
       "name": "Sim Simma",
       "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
+    },
+    {
+      "added_at": "2022-02-25 20:14:54",
+      "album": {
+        "name": "On a Roll",
+        "url": "https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 147069,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/17TrsHFROsZTyJJHt7ZJPU"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Cemetery Freestyle",
+        "url": "https://open.spotify.com/album/79j5iEvu1BVgQZlGuiQGKy"
+      },
+      "artists": [
+        {
+          "name": "JoeVille",
+          "url": "https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW"
+        }
+      ],
+      "duration_ms": 159120,
+      "name": "Cemetery Freestyle",
+      "url": "https://open.spotify.com/track/4bDgMYC4RfOrc3n1oVLXfX"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -187,6 +219,38 @@
       "duration_ms": 193640,
       "name": "If I Had A Dollar (feat. Benjamin Earl Turner)",
       "url": "https://open.spotify.com/track/62wCJ41qEAobGOxrtdgo6X"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/2WM3U05ZGDzuHzfsdjhjbS"
+      },
+      "artists": [
+        {
+          "name": "Jaalid",
+          "url": "https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg"
+        }
+      ],
+      "duration_ms": 167765,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/6FL1XBfpeg8fBGHn6eWDPl"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -239,22 +303,6 @@
     {
       "added_at": "2022-03-04 05:00:00",
       "album": {
-        "name": "Love Letters II",
-        "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 199008,
-      "name": "Let's Be Dead Together",
-      "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
       },
@@ -267,22 +315,6 @@
       "duration_ms": 232573,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Piscean 2 Then Came Tomorrow",
-        "url": "https://open.spotify.com/album/4TfV1jJwrnS6hg0BaYB0Wk"
-      },
-      "artists": [
-        {
-          "name": "K'von",
-          "url": "https://open.spotify.com/artist/68H0pgJPzDHXwJk8q19GDc"
-        }
-      ],
-      "duration_ms": 195022,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/4CLhyYJHsCAMy9FuRh1EJm"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -301,22 +333,6 @@
       "url": "https://open.spotify.com/track/0L8bf6ph4kDnHtKRnY95aH"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI"
-      },
-      "artists": [
-        {
-          "name": "Bairi",
-          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
-        }
-      ],
-      "duration_ms": 212267,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "INSIDE",
@@ -331,6 +347,54 @@
       "duration_ms": 234615,
       "name": "INSIDE",
       "url": "https://open.spotify.com/track/1j1KbCOTYAGdfDJ0hsuLhc"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Love Letters II",
+        "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 199008,
+      "name": "Let's Be Dead Together",
+      "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
+    },
+    {
+      "added_at": "2022-03-04 05:00:00",
+      "album": {
+        "name": "Piscean 2 Then Came Tomorrow",
+        "url": "https://open.spotify.com/album/4TfV1jJwrnS6hg0BaYB0Wk"
+      },
+      "artists": [
+        {
+          "name": "K'von",
+          "url": "https://open.spotify.com/artist/68H0pgJPzDHXwJk8q19GDc"
+        }
+      ],
+      "duration_ms": 195022,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/4CLhyYJHsCAMy9FuRh1EJm"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI"
+      },
+      "artists": [
+        {
+          "name": "Bairi",
+          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
+        }
+      ],
+      "duration_ms": 212267,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1"
     },
     {
       "added_at": "2022-02-18 05:00:00",
@@ -363,6 +427,26 @@
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
+    },
+    {
+      "added_at": "2022-03-11 19:41:53",
+      "album": {
+        "name": "CircoLoco Records & NEZ Present CLR 002",
+        "url": "https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Let's Get It",
+      "url": "https://open.spotify.com/track/1Lpl62qGlJaaojgGiJNVho"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -903,58 +987,6 @@
       "duration_ms": 201732,
       "name": "Photosynthesis",
       "url": "https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv"
-    },
-    {
-      "added_at": "2021-05-26 05:49:15",
-      "album": {
-        "name": "Somewhere in Mind",
-        "url": "https://open.spotify.com/album/5lUwPajCLxdOdSAWNFiPqS"
-      },
-      "artists": [
-        {
-          "name": "Jay Wile",
-          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
-        },
-        {
-          "name": "Travis Mendes",
-          "url": "https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1"
-        }
-      ],
-      "duration_ms": 160769,
-      "name": "Feels Good",
-      "url": "https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a"
-    },
-    {
-      "added_at": "2021-08-13 05:32:11",
-      "album": {
-        "name": "Look What You've Done",
-        "url": "https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood"
-      },
-      "artists": [
-        {
-          "name": "Jay Glavany",
-          "url": "https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q"
-        }
-      ],
-      "duration_ms": 213417,
-      "name": "Already Lost",
-      "url": "https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW"
-    },
-    {
-      "added_at": "2021-09-01 11:33:05",
-      "album": {
-        "name": "Local MVP",
-        "url": "https://open.spotify.com/album/6omt03AfkYIiFhmzutwsla"
-      },
-      "artists": [
-        {
-          "name": "Sainte",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 157968,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/2ld1QEolGiechfWxG7Lo3z"
     }
   ],
   "unique_name": "Ripple Effect",

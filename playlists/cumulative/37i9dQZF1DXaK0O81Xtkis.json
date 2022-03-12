@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "shake it up and let it pop! cover: The Regrettes",
+  "description": "shake it up and let it pop! cover: YUNGBLUD",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -159,6 +159,24 @@
       "duration_ms": 169411,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ"
+    },
+    {
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/0ySQ4Viqi1pDRZEC3Wwx1z"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160435,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD"
     },
     {
       "album": {
@@ -343,6 +361,24 @@
       "duration_ms": 281366,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2"
+    },
+    {
+      "album": {
+        "name": "Brad Pitt",
+        "url": "https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216187,
+      "name": "Brad Pitt",
+      "url": "https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM"
     },
     {
       "album": {
@@ -837,7 +873,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 238146,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/10hFskWYgBsQzouIOpkfdk"
@@ -1078,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Head In The Clouds",
+        "url": "https://open.spotify.com/album/0pOrCE1nBzCciYzmorq4nk"
+      },
+      "artists": [
+        {
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191313,
+      "name": "Head In The Clouds",
+      "url": "https://open.spotify.com/track/2KsSYX6ZqPrazLabrl6EA4"
+    },
+    {
+      "album": {
         "name": "Headphones",
         "url": "https://open.spotify.com/album/70qfnrWg4gpw3Wkm6mdIKj"
       },
@@ -1125,7 +1179,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -1377,7 +1431,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 163428,
       "name": "i love u",
       "url": "https://open.spotify.com/track/4h83bb7xRzB7Qo735CjLMH"
@@ -1763,7 +1817,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 207880,
       "name": "London Is Lonely - Edit",
       "url": "https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq"
@@ -1817,7 +1871,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 248780,
       "name": "Loserz",
       "url": "https://open.spotify.com/track/5RQiw6eBSeARgg9tSdW3Qb"
@@ -2062,6 +2116,24 @@
     },
     {
       "album": {
+        "name": "one day before I die",
+        "url": "https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc"
+      },
+      "artists": [
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181940,
+      "name": "one day before I die",
+      "url": "https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x"
+    },
+    {
+      "album": {
         "name": "only human.",
         "url": "https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ"
       },
@@ -2207,6 +2279,24 @@
       "duration_ms": 183730,
       "name": "plz don't waste my youth",
       "url": "https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X"
+    },
+    {
+      "album": {
+        "name": "popstar",
+        "url": "https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188501,
+      "name": "popstar",
+      "url": "https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw"
     },
     {
       "album": {
@@ -2459,7 +2549,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 187363,
       "name": "Shut Off The Lights",
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
@@ -2808,6 +2898,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2F2p7EEpNEkswISRXQukHf"
+      },
+      "artists": [
+        {
+          "name": "August Royals",
+          "url": "https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195924,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0MWcbfTaDRtQDhqthVmVon"
+    },
+    {
+      "album": {
         "name": "Cowboy Tears",
         "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
       },
@@ -2819,7 +2927,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 179264,
       "name": "Swing & A Miss",
       "url": "https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO"
@@ -2920,6 +3028,24 @@
     },
     {
       "album": {
+        "name": "The Basics Are Coming Back / Burnout",
+        "url": "https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1"
+      },
+      "artists": [
+        {
+          "name": "0171",
+          "url": "https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218595,
+      "name": "The Basics Are Coming Back",
+      "url": "https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB"
+    },
+    {
+      "album": {
         "name": "The Curse",
         "url": "https://open.spotify.com/album/3tdSVisnG7oFhR4pQE5eiI"
       },
@@ -2935,6 +3061,24 @@
       "duration_ms": 226154,
       "name": "The Curse",
       "url": "https://open.spotify.com/track/0w1jfF6OgO3cpg8Mc74yfT"
+    },
+    {
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "album": {
@@ -3199,7 +3343,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 209666,
       "name": "We Are All We Need",
       "url": "https://open.spotify.com/track/6GITd9tdOOiBvT9sfqNHTu"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Mariana Cavanellas",
+  "description": "Novidades e destaques do indie nacional. Foto: Terno Rei",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Atenta",
+        "url": "https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw"
+      },
+      "artists": [
+        {
+          "name": "Crime Caqui",
+          "url": "https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181310,
+      "name": "Estrago",
+      "url": "https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C"
+    },
+    {
+      "album": {
         "name": "Obrigado e At\u00e9 Logo",
         "url": "https://open.spotify.com/album/2qt6XmEIeQbOUT0bpmDjEY"
       },
@@ -900,6 +918,24 @@
     },
     {
       "album": {
+        "name": "Imperfeito",
+        "url": "https://open.spotify.com/album/0QZGvE9vKVt8LvNqNQTRJy"
+      },
+      "artists": [
+        {
+          "name": "Arequipa",
+          "url": "https://open.spotify.com/artist/0pnDB20LmxCVBhFuFAIcWw"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Imperfeito",
+      "url": "https://open.spotify.com/track/3bTkfTFNh90ZWsLwecx1JR"
+    },
+    {
+      "album": {
         "name": "Niska: Uma Mensagem para Os Tempos de Emerg\u00eancia",
         "url": "https://open.spotify.com/album/1DMLwp6NXaU3CxjPHL8el2"
       },
@@ -1085,7 +1121,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 157241,
       "name": "MENINA LINDA",
       "url": "https://open.spotify.com/track/5MAO8iHLDVnfmWPDyPzU4a"
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 156000,
       "name": "ningu\u00e9m me perguntou",
       "url": "https://open.spotify.com/track/5f0OwJ1g8pGJqPModI6GBC"
@@ -1305,7 +1341,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 224965,
       "name": "noiada indoor",
       "url": "https://open.spotify.com/track/64BAxCJPOd3FfipIXHSLUI"
@@ -1402,6 +1438,28 @@
     },
     {
       "album": {
+        "name": "O Que \u00c9",
+        "url": "https://open.spotify.com/album/50paoVozSUVrqInbWnl3mk"
+      },
+      "artists": [
+        {
+          "name": "LAZ\u00daLI",
+          "url": "https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233605,
+      "name": "O Que \u00c9",
+      "url": "https://open.spotify.com/track/7k5BUux0pDo8OtRH2YHnK7"
+    },
+    {
+      "album": {
         "name": "O Teste",
         "url": "https://open.spotify.com/album/1yKzHbiYpGdUpQfDoi3EBt"
       },
@@ -1489,7 +1547,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 193500,
       "name": "pieces",
       "url": "https://open.spotify.com/track/4iYclxeZPwL1tVgXkLSb1j"
@@ -1511,6 +1569,24 @@
       "duration_ms": 194455,
       "name": "piLLOW dREAMs",
       "url": "https://open.spotify.com/track/3N6YmolwkUHj6Keo82hAYo"
+    },
+    {
+      "album": {
+        "name": "Plano Certo",
+        "url": "https://open.spotify.com/album/16DJ6WF6ULJMuMaxEm7W2R"
+      },
+      "artists": [
+        {
+          "name": "Jandaia",
+          "url": "https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141927,
+      "name": "Plano Certo",
+      "url": "https://open.spotify.com/track/1yNGWZprvQ6mAGxEWg3u9H"
     },
     {
       "album": {
@@ -1761,7 +1837,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 137586,
       "name": "Samba Triste",
       "url": "https://open.spotify.com/track/3xG7rBVAFdoNpexFxE4PUm"
@@ -1932,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "G\u00eameos",
+        "url": "https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx"
+      },
+      "artists": [
+        {
+          "name": "Terno Rei",
+          "url": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163758,
+      "name": "Sorte Ainda",
+      "url": "https://open.spotify.com/track/6oby4VF2Jhf0XohwsxyZ90"
+    },
+    {
+      "album": {
         "name": "mem\u00f3rias",
         "url": "https://open.spotify.com/album/5DOEsAb8QEhCgCESmdGWH3"
       },
@@ -2052,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "A Tenta\u00e7\u00e3o do Fracasso",
+        "url": "https://open.spotify.com/album/02t2XPkozQeUgfEYesclF0"
+      },
+      "artists": [
+        {
+          "name": "Atalhos",
+          "url": "https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381026,
+      "name": "Tierra del Fuego",
+      "url": "https://open.spotify.com/track/2xWVXSEwJcqSRUrnvRK32F"
+    },
+    {
+      "album": {
         "name": "belina",
         "url": "https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21"
       },
@@ -2081,7 +2193,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 307876,
       "name": "Traumas de Estima\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3b1Vaxhbj3Vmp5ORS4Pf0d"
@@ -2103,6 +2215,24 @@
       "duration_ms": 157557,
       "name": "Tu tem jeito de quem gosta",
       "url": "https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Bom",
+        "url": "https://open.spotify.com/album/5q7Ro5XgKmvB56PLxea3qW"
+      },
+      "artists": [
+        {
+          "name": "Mariana Cavanellas",
+          "url": "https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145695,
+      "name": "T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/3N3CYAXcoMidDy23zqmb76"
     },
     {
       "album": {
@@ -2219,7 +2349,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 163200,
       "name": "Vou Te Bagun\u00e7ar",
       "url": "https://open.spotify.com/track/4zy6LZlj8g5sM3lOI7FChL"
@@ -2241,7 +2371,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 194500,
       "name": "Vou Ter Que Me Virar - Mu540 FUNK RITMADO",
       "url": "https://open.spotify.com/track/3Femu5oJJpDjwG7rRqvvvy"

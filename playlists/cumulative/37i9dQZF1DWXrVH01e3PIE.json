@@ -668,6 +668,28 @@
     },
     {
       "album": {
+        "name": "Dreamsfreebars",
+        "url": "https://open.spotify.com/album/097LCm108BUqKZ2SNbVfwY"
+      },
+      "artists": [
+        {
+          "name": "Coqe\u00e9in Montana",
+          "url": "https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7"
+        },
+        {
+          "name": "Sonhorus",
+          "url": "https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Dreamsfreebars",
+      "url": "https://open.spotify.com/track/4CdYp2FYwarB2soaxirdBJ"
+    },
+    {
+      "album": {
         "name": "DUDADE",
         "url": "https://open.spotify.com/album/7FIFYG9XiHhS9b3J3ARn2M"
       },
@@ -853,7 +875,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 202300,
       "name": "Free Kmd 3",
       "url": "https://open.spotify.com/track/0hL1DyMRnCGJ5uNykhiQxo"
@@ -1290,6 +1312,32 @@
     },
     {
       "album": {
+        "name": "MTPMJ",
+        "url": "https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE"
+      },
+      "artists": [
+        {
+          "name": "KAKTOV",
+          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+        },
+        {
+          "name": "XLAB",
+          "url": "https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6"
+        },
+        {
+          "name": "TAILS",
+          "url": "https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Morm\u00f3n",
+      "url": "https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj"
+    },
+    {
+      "album": {
         "name": "Reicing",
         "url": "https://open.spotify.com/album/67D050tXcCNCXFcpfWVjzl"
       },
@@ -1663,7 +1711,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 213641,
       "name": "Por el Aire",
       "url": "https://open.spotify.com/track/2r2v9AjM48KaWvcG0IyXt7"

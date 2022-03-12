@@ -574,6 +574,28 @@
     },
     {
       "album": {
+        "name": "Then & Now",
+        "url": "https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp"
+      },
+      "artists": [
+        {
+          "name": "Bob Stewart",
+          "url": "https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243095,
+      "name": "Fishin' Blues (with Taj Mahal)",
+      "url": "https://open.spotify.com/track/2i9YLsEQ2z0NhJ1ynuQQm2"
+    },
+    {
+      "album": {
         "name": "Gimme a Pigfoot and a Bottle of Beer",
         "url": "https://open.spotify.com/album/63cFrmjsqyaUh97l64IBAG"
       },

@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 205055,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/3twTx8aoeaKCoQ4dUHsLWl"
@@ -208,6 +208,24 @@
     },
     {
       "album": {
+        "name": "Black Wall Street",
+        "url": "https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv"
+      },
+      "artists": [
+        {
+          "name": "Killumantii",
+          "url": "https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122064,
+      "name": "Black Wall Street",
+      "url": "https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ"
+    },
+    {
+      "album": {
         "name": "Bodak Yellow",
         "url": "https://open.spotify.com/album/1wpgafbHuQfSUmCWvahFlq"
       },
@@ -299,7 +317,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 136508,
       "name": "Bussin 2.0 (with Saweetie)",
       "url": "https://open.spotify.com/track/6xkbKc532RwCOQzcYlu7y4"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 98218,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 148117,
       "name": "ICY GRL (feat. Kehlani) - Bae Mix",
       "url": "https://open.spotify.com/track/6MP5WAK2U7gKWldflqhPCr"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 121386,
       "name": "Jobs",
       "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 170218,
       "name": "Join Em",
       "url": "https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 133804,
       "name": "Like A Pro (feat. Juicy J)",
       "url": "https://open.spotify.com/track/6WYxEIpgD3dDWyxTFcPCXv"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 221853,
       "name": "LLC",
       "url": "https://open.spotify.com/track/3tCgn1QGWOZN5eE0XuVdrf"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 125675,
       "name": "Run Me My Money",
       "url": "https://open.spotify.com/track/5e2GpbPELieepYsdPRgoNA"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 168175,
       "name": "Slim Waist",
       "url": "https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 116611,
       "name": "Stalli (Freestyle)",
       "url": "https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 161280,
       "name": "Step It Up",
       "url": "https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 112845,
       "name": "Straight To It",
       "url": "https://open.spotify.com/track/6r9zoV35UeEAh12sGS8gek"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 175342,
       "name": "Tempo (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 170732,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/1N3WA69hiGcEsO2ExABuqs"

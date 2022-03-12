@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new core at its finest. Cover: LANDMVRKS & Chunk! No, Captain Chunk!",
+  "description": "This is the new core at its finest. Cover: LANDMVRKS, Chunk! No, Captain Chunk!",
   "name": "New Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2xUM3kskk8sMsXqaxDV32R"
+      },
+      "artists": [
+        {
+          "name": "Palisades",
+          "url": "https://open.spotify.com/artist/2w6slVluzWlwADP8aB5yz5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199281,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1CNQI6EQwjJJi48OoMa8gw"
+    },
+    {
+      "album": {
         "name": "bioMACHiNA",
         "url": "https://open.spotify.com/album/1FG5jVKV1MgWLSIUa2msk1"
       },
@@ -261,7 +279,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 157406,
       "name": "bioMACHiNA",
       "url": "https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX"
@@ -623,6 +641,28 @@
       "duration_ms": 180933,
       "name": "Crossed",
       "url": "https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC"
+    },
+    {
+      "album": {
+        "name": "Cyberhex",
+        "url": "https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Lindsay Schoolcraft",
+          "url": "https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275247,
+      "name": "Cyberhex",
+      "url": "https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4"
     },
     {
       "album": {
@@ -1202,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5mLHqEAeh5zhf1WtDxBNPZ"
+      },
+      "artists": [
+        {
+          "name": "Oceans",
+          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244386,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5xGiG8izp7SgNaFskYWVbZ"
+    },
+    {
+      "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/4pxmnZ04SiG6WzAmnMln6e"
       },
@@ -1516,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "Lost In Doubt",
+        "url": "https://open.spotify.com/album/4MTpanFO4qaYv9OMltyt4e"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157338,
+      "name": "Lost In Doubt",
+      "url": "https://open.spotify.com/track/0VUnK5QjwA7t5r5B15S0K7"
+    },
+    {
+      "album": {
         "name": "Lowborn",
         "url": "https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL"
       },
@@ -1635,7 +1711,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 304750,
       "name": "Nigh to Silence",
       "url": "https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi"
@@ -1827,8 +1903,8 @@
       },
       "artists": [
         {
-          "name": "Eskimo Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/75fP8YWdkk0BAOCSyJPmZC"
         }
       ],
       "date_added": "2021-12-17",
@@ -1873,6 +1949,28 @@
       "duration_ms": 298185,
       "name": "Rainbow Veins",
       "url": "https://open.spotify.com/track/7cjlfruK9Oqw7k5wAZGO72"
+    },
+    {
+      "album": {
+        "name": "RAMPAGE",
+        "url": "https://open.spotify.com/album/3cXopz7daDUlntgsDt9636"
+      },
+      "artists": [
+        {
+          "name": "shinigami",
+          "url": "https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA"
+        },
+        {
+          "name": "Billy Martin",
+          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152327,
+      "name": "RAMPAGE",
+      "url": "https://open.spotify.com/track/7lvYFiGca0eqeHUSGB9AWB"
     },
     {
       "album": {
@@ -2377,7 +2475,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 242865,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/13vYl0wAKM5RGjvoRaVyd8"
@@ -2572,6 +2670,24 @@
     },
     {
       "album": {
+        "name": "Transcendent",
+        "url": "https://open.spotify.com/album/3YMpCrGOIp8ZXy0ft4piEA"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "Transcendent",
+      "url": "https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1"
+    },
+    {
+      "album": {
         "name": "Truly Deprived",
         "url": "https://open.spotify.com/album/0qLEtJ5xuUazymrEcHCfHL"
       },
@@ -2627,6 +2743,24 @@
       "duration_ms": 173600,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
+    },
+    {
+      "album": {
+        "name": "Unconquered",
+        "url": "https://open.spotify.com/album/0zx4zzB4EheppuadoyXLN0"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215053,
+      "name": "Unconquered",
+      "url": "https://open.spotify.com/track/5624sQ4FhCXJRQpYwhkvt8"
     },
     {
       "album": {
@@ -2699,6 +2833,24 @@
       "duration_ms": 214151,
       "name": "VAMPYR",
       "url": "https://open.spotify.com/track/3ZqfaP23vRTS4tSre8HAwk"
+    },
+    {
+      "album": {
+        "name": "Vanguard",
+        "url": "https://open.spotify.com/album/24NxO7DeaovwyHViu4Qygj"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263414,
+      "name": "Vanguard",
+      "url": "https://open.spotify.com/track/5NxVQJrYanVUMotKD02TaP"
     },
     {
       "album": {
@@ -2832,6 +2984,24 @@
     },
     {
       "album": {
+        "name": "When The World Awakens",
+        "url": "https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "When The World Awakens",
+      "url": "https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN"
+    },
+    {
+      "album": {
         "name": "-18-",
         "url": "https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s"
       },
@@ -2897,7 +3067,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 198857,
       "name": "You Scream Good for A Girl",
       "url": "https://open.spotify.com/track/77qrvaqkWsaHvOqTCjadKz"

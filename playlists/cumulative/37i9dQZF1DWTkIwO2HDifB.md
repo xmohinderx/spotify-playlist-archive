@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 
-> Passando o Rodo e os funks mais 🔑 do Brasil\. Foto: POCAH, Lara Silva, Mc Mirella, Tainá Costa
+> Sentadona e os funks mais 🔑 do Brasil\. Foto: Davi Kneip, Mc Frog, DJ Gabriel do Borel
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

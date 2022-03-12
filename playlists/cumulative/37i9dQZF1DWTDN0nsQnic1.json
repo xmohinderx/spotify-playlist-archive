@@ -646,6 +646,36 @@
     },
     {
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        },
+        {
+          "name": "Cool Cats Lofi",
+          "url": "https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5"
+    },
+    {
+      "album": {
         "name": "Juicebox",
         "url": "https://open.spotify.com/album/7LkpnXXvh8x6EU4mRHgFQW"
       },

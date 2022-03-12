@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(I Wanna Give You) Devotion",
+        "url": "https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC"
+      },
+      "artists": [
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251306,
+      "name": "(I Wanna Give You) Devotion - Original Radio Version",
+      "url": "https://open.spotify.com/track/06tqLw4yZclERCmX3AbeDd"
+    },
+    {
+      "album": {
         "name": "100 Store 90'er Hits",
         "url": "https://open.spotify.com/album/7JSrqAeYDMscGw3hHQUnPB"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 233960,
       "name": "Ain't No Man",
       "url": "https://open.spotify.com/track/4edZn0QE6eeo7yYYpuPvU6"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 205813,
       "name": "Always There - Edit",
       "url": "https://open.spotify.com/track/6BxLhB782dObX1y4kDJDIU"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 233866,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/1MkcvwNhKiE5vyrw73xZtY"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 243666,
       "name": "Brimful of Asha (Norman Cook Remix) (Single Version)",
       "url": "https://open.spotify.com/track/29capylmokCeuNAWqGitij"
@@ -677,7 +695,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 210293,
       "name": "Could It Be Magic - Rapino Radio Mix",
       "url": "https://open.spotify.com/track/7rdrTM31qw9cmlM9XyxriK"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 262960,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 299600,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/5knatk8Xid2nNvr4D6Tdjg"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 293105,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 261133,
       "name": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & M\u00fda)",
       "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 208506,
       "name": "God Is a DJ",
       "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 201466,
       "name": "Got to Get (feat. Leila K)",
       "url": "https://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 240773,
       "name": "I Promised Myself",
       "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 184373,
       "name": "I Won't Let The Sun Go Down On Me - 7\" Original Radio",
       "url": "https://open.spotify.com/track/63anYuuPBLeU0CB52vZUAF"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 170466,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 210426,
       "name": "If I Can't Have You - 7\" Edit",
       "url": "https://open.spotify.com/track/7CQwrwJSd2XBYUiGkyQyWC"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 250760,
       "name": "Killer",
       "url": "https://open.spotify.com/track/5jhDeobWatA1XAHWKOWPh2"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 216520,
       "name": "La Primavera - UK Radio Edit",
       "url": "https://open.spotify.com/track/1aepCwv2LhrYRIk9g3OAZb"
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 232826,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 274880,
       "name": "Love & Devotion",
       "url": "https://open.spotify.com/track/6wJNPpHDQB6eZzVnO2Ydqy"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 223426,
       "name": "Mamma Mia - Radio Version",
       "url": "https://open.spotify.com/track/0i2UIuXKAoDrK1LzI5qUcd"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 235026,
       "name": "Missing - Todd Terry Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 221240,
       "name": "Mysterious Times",
       "url": "https://open.spotify.com/track/3w6BcLgFqVSOK8RnV4k7Cd"
@@ -2497,7 +2515,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 212000,
       "name": "Never Let Her Slip Away - Essential Edit",
       "url": "https://open.spotify.com/track/7qW3zwIxGaE4LJfYJpaGjp"
@@ -2515,7 +2533,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 224220,
       "name": "No limit - RAP VERSION",
       "url": "https://open.spotify.com/track/5sqf1N65NUzVXVAwjgOVJg"
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "On A Ragga Tip - Original Remastered",
       "url": "https://open.spotify.com/track/7cz4rOvUfuZDa9uxjEbB2t"
@@ -2573,7 +2591,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 236226,
       "name": "One and One - Radio",
       "url": "https://open.spotify.com/track/5cXTJiry5czVBiN2YjffKo"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 185080,
       "name": "Step Back in Time",
       "url": "https://open.spotify.com/track/3J9604GDguYw2c3YvMJQ2a"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 204586,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
@@ -3195,7 +3213,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 204440,
       "name": "Sweets For My Sweet",
       "url": "https://open.spotify.com/track/1JtVKX2qjcgMHrCSkwi12i"
@@ -3465,7 +3483,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 292040,
       "name": "Thinking About Your Love",
       "url": "https://open.spotify.com/track/1UFU3B9vwxqVitwSnS5wg0"
@@ -3519,7 +3537,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 224933,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
@@ -3609,7 +3627,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 278778,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
@@ -3769,7 +3787,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-12",
       "duration_ms": 229171,
       "name": "U Sure Do (Strike 7\" Mix)",
       "url": "https://open.spotify.com/track/5TdsylMARn0PxbHqrmmJoS"
@@ -3841,7 +3859,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 222458,
       "name": "We like to Party! (The Vengabus) Six Flags",
       "url": "https://open.spotify.com/track/77j9HOrxUpWcjwra9jgvio"
