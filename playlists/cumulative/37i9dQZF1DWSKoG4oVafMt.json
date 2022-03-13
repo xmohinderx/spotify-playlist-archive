@@ -3198,24 +3198,6 @@
     },
     {
       "album": {
-        "name": "Deewana",
-        "url": "https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv"
-      },
-      "artists": [
-        {
-          "name": "Gurshabad",
-          "url": "https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP"
-        }
-      ],
-      "date_added": "2022-03-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165102,
-      "name": "Sanu Rabb Di",
-      "url": "https://open.spotify.com/track/4vr2Pt9BbjwE2Tzq88asbo"
-    },
-    {
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/6JzOPYjClr8eTVRvpbatmG"
       },
@@ -3235,6 +3217,24 @@
       "duration_ms": 191114,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/3mb3AKxmOBZSNzYTxRBuDs"
+    },
+    {
+      "album": {
+        "name": "Deewana",
+        "url": "https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv"
+      },
+      "artists": [
+        {
+          "name": "Gurshabad",
+          "url": "https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165102,
+      "name": "Saun Rabb Di",
+      "url": "https://open.spotify.com/track/4vr2Pt9BbjwE2Tzq88asbo"
     },
     {
       "album": {

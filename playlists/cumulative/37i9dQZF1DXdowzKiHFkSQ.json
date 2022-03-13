@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 225333,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
@@ -401,6 +401,24 @@
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/4qxqSaVryqPw0J1NZl5Eqa"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237293,
+      "name": "Everyday Sunshine - Single Version",
+      "url": "https://open.spotify.com/track/6veed7rGqk8BwRrwNqd4I6"
     },
     {
       "album": {
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 189840,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/05p7wWoGLZIhU0xqWnc9rJ"

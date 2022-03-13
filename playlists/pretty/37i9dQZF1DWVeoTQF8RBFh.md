@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeoTQF8RBFh.md) - [plain]
 
 > Verne, Huxley, Wells..\. a classic collection of science fiction.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,392 likes - 197 songs - 1 day 22 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,391 likes - 197 songs - 1 day 22 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Alison Shearer\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,396 likes - 123 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,535 likes - 123 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 4 | [Wanting Touch](https://open.spotify.com/track/6DLPaq34rpMMJOXwRsmXxM) | [JuJu](https://open.spotify.com/artist/1lVi8dVhx7rkcnOEBzzYz8) | [Wanting Touch](https://open.spotify.com/album/1hEln7JIuYMxPfL4ZAKqA0) | 7:01 |
 | 5 | [Remember the Birds](https://open.spotify.com/track/4i4OURM3c8Leq73eK1LYWF) | [Quinn Sternberg](https://open.spotify.com/artist/5CW15gmFIQI8tufnZwGBrb) | [Cicada Songs](https://open.spotify.com/album/2NIsNIvnCIuV93V47MKMZt) | 4:09 |
 | 6 | [On The Underground Road](https://open.spotify.com/track/2FOkAyxA9Bp8th72TuykBf) | [VEIN Trio](https://open.spotify.com/artist/0F0UvN1yusVNSzKi5EeQMW) | [On The Underground Road](https://open.spotify.com/album/0NUXOh14VelbeFq6n0D3qm) | 6:48 |
-| 7 | [I Can't Come Over](https://open.spotify.com/track/0QCAWkbaUyVWUDiZLOQzMj) | [Moji Kaas](https://open.spotify.com/artist/5lgDC2x7tEe29XD4b5Q8GY), [viet](https://open.spotify.com/artist/4kCuXcDFVjNlGxgs0rcDCy) | [I Can't Come Over](https://open.spotify.com/album/0Q3UODYnCW3AX5KpRCzO4G) | 3:01 |
+| 7 | [I Can't Come Over](https://open.spotify.com/track/0QCAWkbaUyVWUDiZLOQzMj) | [Moji Kaas](https://open.spotify.com/artist/5lgDC2x7tEe29XD4b5Q8GY), [viet](https://open.spotify.com/artist/0woIjS3AePEPiJREyuk0Bv) | [I Can't Come Over](https://open.spotify.com/album/0Q3UODYnCW3AX5KpRCzO4G) | 3:01 |
 | 8 | [Still Dancing](https://open.spotify.com/track/0lBjQpfSDYrqlspqXYXNXv) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [Still Dancing](https://open.spotify.com/album/4RjQTZbxSzifzJwajYnEqA) | 4:53 |
 | 9 | [Summer Rose](https://open.spotify.com/track/0r6EnpaDfu4BmOrifbVWqn) | [Roosevelt Collier](https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9) | [Exit 16: Revisited](https://open.spotify.com/album/7y0vXZNjhRjGbycWoqV1Qj) | 4:17 |
 | 10 | [The Ness](https://open.spotify.com/track/1QdZohfBqWaNlj8qlhxAKd) | [Trish Clowes](https://open.spotify.com/artist/6TyISUtrnzOpBY0RbdtFyc), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA), [Ross Stanley](https://open.spotify.com/artist/2GGnLprXo9lzevvoJq2dh1), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [The Ness](https://open.spotify.com/album/1k4TUmNQM9vS8PU5AxMf5L) | 5:52 |

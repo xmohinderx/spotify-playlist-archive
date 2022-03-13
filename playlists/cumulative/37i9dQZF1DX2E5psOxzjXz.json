@@ -92,6 +92,24 @@
     },
     {
       "album": {
+        "name": "anay wala kal/ghubaray",
+        "url": "https://open.spotify.com/album/31lIz2jbV3iZJBs1YxnDyI"
+      },
+      "artists": [
+        {
+          "name": "Rutaba Yaqub",
+          "url": "https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "anay wala kal/ghubaray",
+      "url": "https://open.spotify.com/track/5oLXoUvHMQ7CQw5kUbPOSu"
+    },
+    {
+      "album": {
         "name": "Andhere Mein",
         "url": "https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ"
       },
@@ -375,7 +393,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 182526,
       "name": "Chasing Blessings",
       "url": "https://open.spotify.com/track/3lhlSM1iVog6l9g5NxqVkE"

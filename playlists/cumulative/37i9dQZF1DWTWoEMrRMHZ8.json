@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Al\u00e9m do Infinito",
       "url": "https://open.spotify.com/track/5QCsVGMVZOlkEOZBbt1rn2"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 210690,
       "name": "Isso Me Far\u00e1",
       "url": "https://open.spotify.com/track/4vNyFrftdxHk61euvwUpT1"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 149000,
       "name": "Ladainha",
       "url": "https://open.spotify.com/track/7LbvwlzPwrhsbm1es6oH3i"
@@ -1554,6 +1554,28 @@
     },
     {
       "album": {
+        "name": "Onde Est\u00e1 a Honestidade? (\u00c0 Capela)",
+        "url": "https://open.spotify.com/album/0KntEmgwWuC6GSudIorcfA"
+      },
+      "artists": [
+        {
+          "name": "Quarteto do Rio",
+          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179854,
+      "name": "Onde Est\u00e1 a Honestidade? - \u00c0 Capela",
+      "url": "https://open.spotify.com/track/6avUZoS0EefPMfsllkIbgk"
+    },
+    {
+      "album": {
         "name": "Onironauta",
         "url": "https://open.spotify.com/album/3QXzGRx40YHmxxx2fr4u6D"
       },
@@ -1591,6 +1613,28 @@
       "duration_ms": 312248,
       "name": "Os Cegos do Castelo",
       "url": "https://open.spotify.com/track/4YUuHXrI4dCIj8fLAOi2Mm"
+    },
+    {
+      "album": {
+        "name": "O Canto de Macab\u00e9a ou a Hora da Estrela",
+        "url": "https://open.spotify.com/album/2B1i6HVbQnNRFJSI7Qr72w"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "Laila Garin",
+          "url": "https://open.spotify.com/artist/0aTcBGYTXm8CWo0RB5elE8"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "OU",
+      "url": "https://open.spotify.com/track/0xAspHYY9w2U7PGpMZUS2y"
     },
     {
       "album": {
@@ -1701,7 +1745,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 235435,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/4QC1L4JgL4ZFwVFd3AcdSw"
@@ -1869,7 +1913,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 203571,
       "name": "Pra Sorrir",
       "url": "https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4"
@@ -2141,7 +2185,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 271440,
       "name": "Retr\u00f3picos",
       "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
@@ -2246,7 +2290,7 @@
     },
     {
       "album": {
-        "name": "Ao Vivo no Montreux Jazz Festival",
+        "name": "Ao Vivo no Montreux Jazz Festival 1997",
         "url": "https://open.spotify.com/album/6TUhbe62fmri26xrurl58M"
       },
       "artists": [
@@ -2449,7 +2493,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 239034,
       "name": "Tema de Amor",
       "url": "https://open.spotify.com/track/4uKj7cpDPAR8orNwcDfYog"
@@ -2733,7 +2777,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 233706,
       "name": "Vermelho Esperan\u00e7a",
       "url": "https://open.spotify.com/track/5U9Xv9WkBPTOignYWp6niI"

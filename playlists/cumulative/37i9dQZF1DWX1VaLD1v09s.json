@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 205666,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
@@ -151,10 +151,32 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 305693,
       "name": "Alive (Mary Magdalene)",
       "url": "https://open.spotify.com/track/6JfcyN6xlcJWXTHfFGjcSd"
+    },
+    {
+      "album": {
+        "name": "Alive In You (Studio Version)",
+        "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Alive In You - Studio Version",
+      "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
     },
     {
       "album": {
@@ -181,7 +203,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 314517,
       "name": "All For Love (Gethsemane) - Live",
       "url": "https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1"
@@ -319,7 +341,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 324160,
       "name": "Arise My Love",
       "url": "https://open.spotify.com/track/4YQh4zvLiXtz9D1WQBdthh"
@@ -373,7 +395,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
@@ -575,7 +597,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 234348,
       "name": "Blameless",
       "url": "https://open.spotify.com/track/2vMGCO6LZFrGgnZinhKxbT"
@@ -651,6 +673,10 @@
         {
           "name": "Hillsong Worship",
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
       "date_added": "2021-04-04",
@@ -691,7 +717,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 309173,
       "name": "Call on Your Name",
       "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
@@ -781,7 +807,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 294813,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
@@ -799,7 +825,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 266573,
       "name": "Christ Is Risen, He Is Risen Indeed",
       "url": "https://open.spotify.com/track/4o0n1yoeqKglpnlDgprRzL"
@@ -933,7 +959,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 409146,
       "name": "Cornerstone - Live",
       "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
@@ -998,6 +1024,24 @@
     },
     {
       "album": {
+        "name": "King Of Majesty (Live)",
+        "url": "https://open.spotify.com/album/7J80XPni75gWq7azkvcxLV"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297746,
+      "name": "Did You Feel The Mountains Tremble - Live",
+      "url": "https://open.spotify.com/track/1DEVkuqrj6T2XFAo6lWpjq"
+    },
+    {
+      "album": {
         "name": "The Rebirth of Kirk Franklin",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -1013,7 +1057,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 368560,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
@@ -1107,7 +1151,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 237973,
       "name": "Easter Song",
       "url": "https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh"
@@ -1143,7 +1187,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 278779,
       "name": "Even Unto Death",
       "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
@@ -1187,7 +1231,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 371774,
       "name": "Extravagant (Live)",
       "url": "https://open.spotify.com/track/1LieRwFB0OI3wWGvI71DuX"
@@ -1263,7 +1307,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 382827,
       "name": "For Those Tears I Died",
       "url": "https://open.spotify.com/track/7p6wCxRd7I3wjOKE7HDudG"
@@ -1339,7 +1383,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 274226,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/0X3p3O1XD1RbwuVA6On0Tu"
@@ -1437,7 +1481,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 326613,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
@@ -1535,7 +1579,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 262146,
       "name": "Grace Flows Down - Live/2006 Remastered",
       "url": "https://open.spotify.com/track/29xrx0Ypdx25HRsnZhMz8G"
@@ -1618,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Great I Am",
+        "url": "https://open.spotify.com/album/1mY0s5IXV76WfgzmhkpolU"
+      },
+      "artists": [
+        {
+          "name": "New Life Worship",
+          "url": "https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335226,
+      "name": "Great I Am - Live",
+      "url": "https://open.spotify.com/track/7vD7eylfo3OuMfPLECXgwo"
+    },
+    {
+      "album": {
         "name": "Hymnbook",
         "url": "https://open.spotify.com/album/322sxiKqXROwjgW81KuIn7"
       },
@@ -1665,7 +1727,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 280179,
       "name": "Greater Things",
       "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
@@ -1719,7 +1781,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 212466,
       "name": "He Is Risen",
       "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
@@ -1759,7 +1821,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 312018,
       "name": "He Wears A Crown - Live",
       "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
@@ -1893,7 +1955,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 302577,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
@@ -1929,7 +1991,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 158640,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/4Hiea47bfdih7R1mpm1t5a"
@@ -1951,7 +2013,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
@@ -2027,10 +2089,28 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 366866,
       "name": "How Great Is Your Love - Live",
       "url": "https://open.spotify.com/track/4707B6flOJWZSBXqqVsvPI"
+    },
+    {
+      "album": {
+        "name": "Satisfy (Live)",
+        "url": "https://open.spotify.com/album/6nDeyEuf7K7BqKtEZlvHkN"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Scott",
+          "url": "https://open.spotify.com/artist/7HJ2qHT3pTpbEpLs7kGBCt"
+        }
+      ],
+      "date_added": "2021-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302960,
+      "name": "Hungry (Falling On My Knees)",
+      "url": "https://open.spotify.com/track/0Dq9yBdFeKKjm0wIY9Rwsr"
     },
     {
       "album": {
@@ -2071,7 +2151,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 253706,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
@@ -2089,7 +2169,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 276080,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/5teIIiCC0hAH44pD3FXJVO"
@@ -2223,7 +2303,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 288134,
       "name": "Jerusalem",
       "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
@@ -2259,7 +2339,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 209687,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
@@ -2371,7 +2451,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 223253,
       "name": "Last Words (Tenebrae)",
       "url": "https://open.spotify.com/track/1Vn0RDkCVKvnthGzglyuy8"
@@ -2559,7 +2639,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 334333,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
@@ -2613,7 +2693,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 340813,
       "name": "My God, My God (Psalm 22)",
       "url": "https://open.spotify.com/track/28q36NCXxQi9ombtdE6loy"
@@ -2751,7 +2831,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 249080,
       "name": "No One Like Our God",
       "url": "https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a"
@@ -2823,7 +2903,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 313489,
       "name": "O Rock Eternal",
       "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
@@ -2903,7 +2983,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 223626,
       "name": "Overcomer",
       "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
@@ -2993,7 +3073,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 292546,
       "name": "Refiner's Fire",
       "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
@@ -3011,7 +3091,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 184773,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/1oqzrZB7l3XtKURTLL3ZDs"
@@ -3065,7 +3145,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 467053,
       "name": "Resurrecting (Live)",
       "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
@@ -3101,7 +3181,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 251106,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/20bD4lkiXkxl5VVg0Y7Tjz"
@@ -3483,7 +3563,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 109862,
       "name": "The Blood Will Never Lose Its Power",
       "url": "https://open.spotify.com/track/7ItaV9ijQtV913Dt7iEO5t"
@@ -3689,7 +3769,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 286546,
       "name": "The Wonderful Cross",
       "url": "https://open.spotify.com/track/023AkI7rxNRoAc75druPXP"
@@ -3707,7 +3787,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 241760,
       "name": "There Is A Fountain",
       "url": "https://open.spotify.com/track/30whfwPMVeA4jGkDRfvMUd"
@@ -3743,7 +3823,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 188066,
       "name": "There Is Power In The Blood",
       "url": "https://open.spotify.com/track/4RDn6gWVUpJkMC3iQAOujz"
@@ -3815,7 +3895,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 201613,
       "name": "To the One",
       "url": "https://open.spotify.com/track/4aViChUodEZJp9fqg718oZ"
@@ -4031,7 +4111,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 358200,
       "name": "Well Done, Good And Faithful",
       "url": "https://open.spotify.com/track/5xbrfT1pMWZsv84neTH16g"
@@ -4067,7 +4147,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 219078,
       "name": "Were You There",
       "url": "https://open.spotify.com/track/39RNkXgvvwOziKj0XyDTAV"
@@ -4121,7 +4201,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 237680,
       "name": "When I Survey - The Wondrous Cross",
       "url": "https://open.spotify.com/track/2CtzxViQBYF97zTluQRBGe"
@@ -4245,7 +4325,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 360053,
       "name": "Worthy Is The Lamb - Live / The Very Best Of Hillsong Live Album Version",
       "url": "https://open.spotify.com/track/13UEvo5GzRpjLWxq949anQ"
@@ -4303,7 +4383,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 373906,
       "name": "You Are",
       "url": "https://open.spotify.com/track/38byiXCnhaV1I26NP9KZqD"
@@ -4437,7 +4517,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 416853,
       "name": "You've Done The Rest",
       "url": "https://open.spotify.com/track/0h7G9HZb5KIfSLjaSXk9C8"

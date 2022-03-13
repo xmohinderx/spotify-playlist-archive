@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,640 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,716 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 97 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
 | 98 | [Infinity High](https://open.spotify.com/track/5vEqsOWZ9uWx593VN9ielE) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Daisy](https://open.spotify.com/album/2jLOP81uzTbwJbS5scWxOf) | 2:14 |
 
-Snapshot ID: `MTY0NzA0NTgyMiwwMDAwMDAwMDgwMWM0ZDM5Nzk0OTQ2NDUyNzI4ZTdlNjI3MTRmMzQ4`
+Snapshot ID: `MTY0NzEzMjMxMywwMDAwMDAwMDgwMWM0ZDM5Nzk0OTQ2NDUyNzI4ZTdlNjI3MTRmMzQ4`

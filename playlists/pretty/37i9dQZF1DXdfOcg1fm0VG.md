@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,632 likes - 95 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,834 likes - 95 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 83 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 84 | [Korobeiniki](https://open.spotify.com/track/0Ifw1dsZ0fwI9HjQK58lWb) | [Stars Of St\. Petersburg](https://open.spotify.com/artist/7dhNSrp8upsw8ifn6baQEL) | [Russia's Most Beautiful Tunes: The Stars of St\. Petersburg](https://open.spotify.com/album/4edbR88lESCV93dr2fQ3ia) | 3:22 |
 | 85 | [Hymn of the Fayth \(Final Fantasy X\)](https://open.spotify.com/track/72LWO03wjiyCVqxrNUpx2V) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 1:48 |
-| 86 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [EA Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
+| 86 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 | 87 | [All the Earth](https://open.spotify.com/track/1ObRVltzyUfuBbJsxGvCRs) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 1:43 |
 | 88 | [Saber's Edge \(Final Fantasy XIII\)](https://open.spotify.com/track/6yt8SuNkqup43idePXmKt2) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 4:15 |
 | 89 | [Prelude and Main Titles](https://open.spotify.com/track/3XjWFz19CqI8IP1h5JdSdH) | [Never Alone](https://open.spotify.com/artist/00FJJnZ8342BcvhZvAQkOD) | [Never Alone \(Original Soundtrack\)](https://open.spotify.com/album/01aAZS4vF5Rpe1ak4Ngcf3) | 3:09 |

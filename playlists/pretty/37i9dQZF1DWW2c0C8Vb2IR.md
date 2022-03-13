@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: DoomCannon
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,192 likes - 56 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,256 likes - 56 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 27 | [Expand](https://open.spotify.com/track/3jRDFKzXnygfkngACeEMpZ) | [Flock](https://open.spotify.com/artist/5c4ETn2xdmdKYUm29Ht3kN), [Sarathy Korwar](https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk), [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ) | [Expand](https://open.spotify.com/album/6aEvRtqV0dSGFnqbOyTXud) | 3:59 |
 | 28 | [Supernova](https://open.spotify.com/track/4VLojQOcXZhp9oIsRBds33) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Thibaut Remy](https://open.spotify.com/artist/2USlpiQ6IfMQo7MWCW4hWp), [Tim Carnegie](https://open.spotify.com/artist/0jlcXvFOFXm7BLD5KkIvwi) | [Supernova](https://open.spotify.com/album/3uxq2tmvwXZB1Zxz6tx4Ri) | 4:03 |
 | 29 | [Un Chat Noir Dans Paris](https://open.spotify.com/track/4817lQuW5qDPBQ9YNKhwN1) | [Djsaxlondon](https://open.spotify.com/artist/65pKkBjisstXesecyslOr4) | [Un Chat Noir Dans Paris](https://open.spotify.com/album/0s7Zm7VybwVBJShmt2834C) | 4:17 |
-| 30 | [My Ideal](https://open.spotify.com/track/59O7bt2Kf8nMNavpIv4eNj) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [My Ideal](https://open.spotify.com/album/60p2CUFcVMpskI4TMOEADM) | 5:10 |
+| 30 | [My Ideal](https://open.spotify.com/track/59O7bt2Kf8nMNavpIv4eNj) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [My Ideal](https://open.spotify.com/album/60p2CUFcVMpskI4TMOEADM) | 7:01 |
 | 31 | [Stardust](https://open.spotify.com/track/1YbPBSGOaVN3OFI8yqn5kE) | [Efe Demiral](https://open.spotify.com/artist/5QfvebVFyYmxrPhgzodhaZ), [Eren Turgut](https://open.spotify.com/artist/1UE0e9Yxz9t5g8Yqp5jfVt), [Mert Can Bilgin](https://open.spotify.com/artist/5FGUY9MED5QKDIFyiXZd0S) | [Kolaj](https://open.spotify.com/album/3yAVTX1yM2azAyWzkHWjfI) | 7:45 |
 | 32 | [Overtime](https://open.spotify.com/track/0sBvyY11mvJBZooI2rC6xv) | [Simone Gubbiotti](https://open.spotify.com/artist/5NE9onUTR4CQB3DED3u4yF) | [\#Underdogs volume 1](https://open.spotify.com/album/68UnFYkUMAVYJD6ZGR1R0z) | 5:12 |
 | 33 | [Still Dancing](https://open.spotify.com/track/0lBjQpfSDYrqlspqXYXNXv) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [Still Dancing](https://open.spotify.com/album/4RjQTZbxSzifzJwajYnEqA) | 4:53 |

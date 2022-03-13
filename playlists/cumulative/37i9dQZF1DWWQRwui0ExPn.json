@@ -2658,24 +2658,6 @@
     },
     {
       "album": {
-        "name": "At Sunrise",
-        "url": "https://open.spotify.com/album/5bTXKfssmkUoo7AdXYVFK8"
-      },
-      "artists": [
-        {
-          "name": "Klaus Layer",
-          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
-        }
-      ],
-      "date_added": "2022-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152000,
-      "name": "At Sunrise",
-      "url": "https://open.spotify.com/track/03gaHTR3VlXjIG5OhJ1pVl"
-    },
-    {
-      "album": {
         "name": "Atlantic.Wav",
         "url": "https://open.spotify.com/album/3KQeNl8VPaRfTb99f8sRIi"
       },
@@ -39511,6 +39493,24 @@
       "duration_ms": 173242,
       "name": "Sunny Sad",
       "url": "https://open.spotify.com/track/0jMwQvmoKDxaMaRx0cqsaP"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5bTXKfssmkUoo7AdXYVFK8"
+      },
+      "artists": [
+        {
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/03gaHTR3VlXjIG5OhJ1pVl"
     },
     {
       "album": {

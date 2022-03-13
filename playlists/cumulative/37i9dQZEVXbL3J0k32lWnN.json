@@ -3855,7 +3855,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 215000,
       "name": "Go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
@@ -6064,6 +6064,24 @@
     },
     {
       "album": {
+        "name": "K O L O",
+        "url": "https://open.spotify.com/album/0NZqyszNT65qzP0Qac24DU"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174586,
+      "name": "K O L O",
+      "url": "https://open.spotify.com/track/4DVOsxcYoOPd0Su0lzULed"
+    },
+    {
+      "album": {
         "name": "Mere End Musik",
         "url": "https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9"
       },
@@ -7261,10 +7279,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 160434,
       "name": "Martial Arts",
       "url": "https://open.spotify.com/track/0ySZWeB6E0vKtqVqTxuYbv"
+    },
+    {
+      "album": {
+        "name": "FORZA",
+        "url": "https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        },
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Material Girl (feat. Lord Siva)",
+      "url": "https://open.spotify.com/track/5QpKp4UiQ0UqVTeoKy1eeH"
     },
     {
       "album": {
@@ -10705,7 +10745,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
@@ -11887,6 +11927,24 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "\u00c6stetisk",
+        "url": "https://open.spotify.com/album/6wV9sbuZnumfF8mRnzODZn"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151166,
+      "name": "\u00c6stetisk",
+      "url": "https://open.spotify.com/track/4PCcN37jm4tDj8RPZuvC1H"
     },
     {
       "album": {

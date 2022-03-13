@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=g1XhWZa3Soe0WiYo2qQNkQ">Oscar Mbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,972 likes - 75 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,000 likes - 75 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 45 | [Silence](https://open.spotify.com/track/2DazMQxWTFeI5YYzU1ZJoT) | [Ultraviolet Ray](https://open.spotify.com/artist/4Cr70Wmg2GMUlxJvc9m0DD) | [Silence](https://open.spotify.com/album/4REf4vSGPcHhlvoaz6eiGw) | 5:32 |
 | 46 | [Fuego](https://open.spotify.com/track/0owC4Hk9VAppMPUAdth3zw) | [Kat La Kat](https://open.spotify.com/artist/1DWuVtQ4buYRxLB7vGcIjE) | [Burns All Day](https://open.spotify.com/album/28TybV0SB09glNt18y1DRi) | 7:09 |
 | 47 | [Beat Autopsy](https://open.spotify.com/track/371UkNJ5gAJhNIFYtOVrge) | [Dj Beekay](https://open.spotify.com/artist/58jrFyEJ3krC8cwAEsA2BM) | [BlackOut](https://open.spotify.com/album/0SfxA4wuTe6hcwmrOiDjUo) | 6:08 |
-| 48 | [Boogie in Your Face](https://open.spotify.com/track/4eMxICBaDVACJR58SZcmz9) | [Groovemasta](https://open.spotify.com/artist/5V9ugkEnqubB3VJTRr1Yes) | [Boogie in Your Face](https://open.spotify.com/album/2Lf2rUPCkmLT3S14VKjj6V) | 5:56 |
+| 48 | [Boogie in Your Face](https://open.spotify.com/track/4eMxICBaDVACJR58SZcmz9) | [Groovemasta](https://open.spotify.com/artist/5nZzakSj88IujH7bN9dFdO) | [Boogie in Your Face](https://open.spotify.com/album/2Lf2rUPCkmLT3S14VKjj6V) | 5:56 |
 | 49 | [Teenage Fantasy](https://open.spotify.com/track/4jFCETcf8uaR2NjywOXx11) | [Lucid Deep](https://open.spotify.com/artist/0YhuvmUbwLACBPyC7wqgti) | [Spaceline Suburbian](https://open.spotify.com/album/5a021HAlmb18hLZbwHpgbs) | 6:23 |
 | 50 | [Afro Brotherz \(Tufamo\)](https://open.spotify.com/track/1W3WTmHaIizhwoS71BOmRQ) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN) | [Afro Brotherz \(Tufamo\)](https://open.spotify.com/album/4cE4WAfo9K6pB4oKFpeCjH) | 6:21 |
 | 51 | [Remember Who You Are](https://open.spotify.com/track/6sXl8AlBBwutE25FnN4qoR) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg), [DeKrypt](https://open.spotify.com/artist/5UZKcERFAI5upgIVfqeLQm) | [Remember Who You Are](https://open.spotify.com/album/0O7yo5RoihxhtN64KPLTxv) | 5:10 |

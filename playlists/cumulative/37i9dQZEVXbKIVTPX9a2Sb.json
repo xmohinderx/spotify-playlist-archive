@@ -578,6 +578,36 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        },
+        {
+          "name": "STEIN27",
+          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Asgard",
+      "url": "https://open.spotify.com/track/422I38B6wM8mWDUVwCn28f"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -852,6 +882,28 @@
     },
     {
       "album": {
+        "name": "Jese\u0148 2015: \u010clovek z plan\u00e9ty Zem",
+        "url": "https://open.spotify.com/album/7q2shzxcJx1iaRJ1WRjshM"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder",
+          "url": "https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F"
+        },
+        {
+          "name": "FusionKid",
+          "url": "https://open.spotify.com/artist/1DRP26Q1X5wcwRvml3XaxT"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130335,
+      "name": "Batman",
+      "url": "https://open.spotify.com/track/2DD28QrG0b5jroeIrtBxbK"
+    },
+    {
+      "album": {
         "name": "22flex",
         "url": "https://open.spotify.com/album/6Go7IL6FPOg4lFLJ7jxHDK"
       },
@@ -955,7 +1007,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -1777,7 +1829,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 214480,
       "name": "CHROME HEARTS FREESTYLE",
       "url": "https://open.spotify.com/track/4fnNRt3b36mTZK1o9QSWHK"
@@ -1956,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "Jese\u0148 2015: \u010clovek z plan\u00e9ty Zem",
+        "url": "https://open.spotify.com/album/7q2shzxcJx1iaRJ1WRjshM"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder",
+          "url": "https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197880,
+      "name": "Cuming out (bol som dlho pre\u010d)",
+      "url": "https://open.spotify.com/track/0gSN32AVLCPZmoeECAACxl"
+    },
+    {
+      "album": {
         "name": "C\u00edtim sa",
         "url": "https://open.spotify.com/album/10mTcBlKmI7QZ1uE3HR2DS"
       },
@@ -2121,6 +2191,28 @@
       "duration_ms": 177640,
       "name": "DE\u0147 STRIEDA TMU",
       "url": "https://open.spotify.com/track/5Ggd7fuG8ya7OnMELNkDtF"
+    },
+    {
+      "album": {
+        "name": "Jese\u0148 2015: \u010clovek z plan\u00e9ty Zem",
+        "url": "https://open.spotify.com/album/7q2shzxcJx1iaRJ1WRjshM"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder",
+          "url": "https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F"
+        },
+        {
+          "name": "MC Gey",
+          "url": "https://open.spotify.com/artist/6eLwutNh9BFYjrnyEqUc7D"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168397,
+      "name": "Digi Digi Bom",
+      "url": "https://open.spotify.com/track/2YqPhgP8yG34mWWNMEKFpA"
     },
     {
       "album": {
@@ -2429,7 +2521,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 164800,
       "name": "Dosta\u0165 z hlavy",
       "url": "https://open.spotify.com/track/0qpRsUBgXfrwN6PDQRIKu2"
@@ -2451,7 +2543,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
@@ -2787,6 +2879,24 @@
       "duration_ms": 181646,
       "name": "farebna preliezka",
       "url": "https://open.spotify.com/track/4vmapH9M9G4QNeW1R20UUF"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/2ukkfjdqNSCx73WyYTVG5H"
     },
     {
       "album": {
@@ -3223,7 +3333,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -3361,6 +3471,24 @@
       "duration_ms": 108936,
       "name": "HAL\u00d3",
       "url": "https://open.spotify.com/track/0EsrkdFKMblvULWKCtGHBM"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158607,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
     },
     {
       "album": {
@@ -3894,6 +4022,28 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "fiedlerski",
+          "url": "https://open.spotify.com/artist/0ql0Aw24KJaMeOVlwadzFE"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hot Dropout",
+      "url": "https://open.spotify.com/track/7fvEeoOaFOBiPafnfaRnG0"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -4091,7 +4241,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 187943,
       "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
@@ -4267,6 +4417,24 @@
       "duration_ms": 247955,
       "name": "Instaklam",
       "url": "https://open.spotify.com/track/4BkbccWm1JYbV0G2BQCTT4"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126467,
+      "name": "Intro 4",
+      "url": "https://open.spotify.com/track/0dcyHbRhW3czcxuny7TuDj"
     },
     {
       "album": {
@@ -4517,7 +4685,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 198400,
       "name": "Jedna Dva",
       "url": "https://open.spotify.com/track/4YVsXiijWW1hqn7NISLeP6"
@@ -5131,7 +5299,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 179164,
       "name": "K\u00fdm \u0164a M\u00e1m",
       "url": "https://open.spotify.com/track/5sG87Pn6bqSuknFkRg57yz"
@@ -6423,7 +6591,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -6459,7 +6627,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
@@ -6575,7 +6743,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -6693,6 +6861,24 @@
       "duration_ms": 168750,
       "name": "M\u00ed\u0148ame l\u00f3ve II.",
       "url": "https://open.spotify.com/track/2O1NLgklUXNbUuVBQZLXUY"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182526,
+      "name": "Nad r\u00e1nem",
+      "url": "https://open.spotify.com/track/4ERjIDbLvQYSxVT3cRu2LK"
     },
     {
       "album": {
@@ -6838,6 +7024,24 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "Nedojdu s\u00e1m",
+      "url": "https://open.spotify.com/track/0j4ljH3V0o88m2eT4Rupva"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -6955,6 +7159,24 @@
       "duration_ms": 201000,
       "name": "Nespalme to krasne v nas",
       "url": "https://open.spotify.com/track/1JGCNpFnmsxzg90oR9KaGE"
+    },
+    {
+      "album": {
+        "name": "Jese\u0148 2015: \u010clovek z plan\u00e9ty Zem",
+        "url": "https://open.spotify.com/album/7q2shzxcJx1iaRJ1WRjshM"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder",
+          "url": "https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Neuzn\u00e1 Vam\u0165a",
+      "url": "https://open.spotify.com/track/41pxDWMmCTsFYyF7MaoNKi"
     },
     {
       "album": {
@@ -7858,6 +8080,24 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/25E3P7re561KWj5hZysrYG"
+    },
+    {
+      "album": {
         "name": "Povedz to nahlas!",
         "url": "https://open.spotify.com/album/1QWz0AdCcU7rTLC4puzlFi"
       },
@@ -7902,6 +8142,42 @@
     },
     {
       "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "PPP",
+      "url": "https://open.spotify.com/track/7btWEju08WG0kJksBMHhFT"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Praha/V\u00edde\u0148",
+      "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
+    },
+    {
+      "album": {
         "name": "Praha/V\u00edde\u0148",
         "url": "https://open.spotify.com/album/6TQwNei1gmD8YDdbf89suY"
       },
@@ -7913,7 +8189,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 162461,
       "name": "Praha/V\u00edde\u0148",
       "url": "https://open.spotify.com/track/4OV1SH5qwYImh0tm04x5LD"
@@ -8753,6 +9029,28 @@
       "duration_ms": 193000,
       "name": "Samozrejme",
       "url": "https://open.spotify.com/track/3o0ceJKDDXvdLSokx3NzHf"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/705U2GkmMiEPrqRWMPmabr"
     },
     {
       "album": {
@@ -9655,7 +9953,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -9757,10 +10055,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/46uHhxAyK4JFr8jU1PzoVs"
     },
     {
       "album": {
@@ -10227,7 +10543,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
@@ -11059,7 +11375,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 181741,
       "name": "V\u010faka Ti - Acoustic Version",
       "url": "https://open.spotify.com/track/0z7L3ZNiRZTsJv1vpiSHG0"
@@ -11471,7 +11787,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -12119,6 +12435,24 @@
       "duration_ms": 189080,
       "name": "\u010cist\u00fd svet",
       "url": "https://open.spotify.com/track/0xINMMVRQ1b29Iieeu6xY5"
+    },
+    {
+      "album": {
+        "name": "Jese\u0148 2015: \u010clovek z plan\u00e9ty Zem",
+        "url": "https://open.spotify.com/album/7q2shzxcJx1iaRJ1WRjshM"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder",
+          "url": "https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232449,
+      "name": "\u010clovek z plan\u00e9ty Zem",
+      "url": "https://open.spotify.com/track/1bkbwUueUA93oHwzXXpbVJ"
     },
     {
       "album": {

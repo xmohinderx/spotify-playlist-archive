@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soundtrack to the Internet. Cover: BabyTron",
+  "description": "The soundtrack to the Internet. Cover: Barely Legal",
   "name": "Internet People",
   "published_playlist_ids": [
     "22i2vvRs1o18fCRD821qvI"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 144091,
       "name": "ALL MY MIGHT",
       "url": "https://open.spotify.com/track/7K6vDqSG3OUFTxyoY9G1Gu"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 182491,
       "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY"
@@ -2687,6 +2687,24 @@
       "duration_ms": 167272,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI"
+    },
+    {
+      "album": {
+        "name": "PELICAN",
+        "url": "https://open.spotify.com/album/3pURr9iMS8fy1kK0K2SxK2"
+      },
+      "artists": [
+        {
+          "name": "Cashout Mike",
+          "url": "https://open.spotify.com/artist/00AolXifCyBruO9xdTyWgF"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103652,
+      "name": "PELICAN",
+      "url": "https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS"
     },
     {
       "album": {
@@ -3443,7 +3461,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 70542,
       "name": "Throw It Back (Abow)",
       "url": "https://open.spotify.com/track/23yxlmsXxljX6AVF2NlYP6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX451eXIMllLB.md) - [plain]
 
 > Odes to springtime...
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,464 likes - 33 songs - 33 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,465 likes - 33 songs - 33 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

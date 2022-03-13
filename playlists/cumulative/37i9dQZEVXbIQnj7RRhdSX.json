@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124826,
+      "name": "100 Uomini",
+      "url": "https://open.spotify.com/track/1VSMbnJXNayuRAFXdGifuO"
+    },
+    {
+      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -748,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Auto tedesca",
+      "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
+    },
+    {
+      "album": {
         "name": "MADAME",
         "url": "https://open.spotify.com/album/2hF0ZgBdbq551zWtp2M0VA"
       },
@@ -1162,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175586,
+      "name": "Blauer",
+      "url": "https://open.spotify.com/track/47E18bCgrFTWXPFYkGnLMi"
+    },
+    {
+      "album": {
         "name": "Blauer",
         "url": "https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK"
       },
@@ -1173,7 +1227,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 176056,
       "name": "Blauer",
       "url": "https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa"
@@ -1417,6 +1471,24 @@
       "duration_ms": 199146,
       "name": "Brividi",
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104840,
+      "name": "Bronx",
+      "url": "https://open.spotify.com/track/2Ps9lcxl73k11RqB91l9pY"
     },
     {
       "album": {
@@ -2029,7 +2101,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 181312,
       "name": "Chimica",
       "url": "https://open.spotify.com/track/4Y3889XjcyuyMxTOjT30TE"
@@ -2149,7 +2221,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 173075,
       "name": "CICATRICI (feat. Madame)",
       "url": "https://open.spotify.com/track/7FSEYn1LL9UemeYeuXCHRm"
@@ -2390,6 +2462,28 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Comandamento (feat. Geolier)",
+      "url": "https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh"
+    },
+    {
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C"
       },
@@ -2401,7 +2495,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 212897,
       "name": "Come nelle canzoni",
       "url": "https://open.spotify.com/track/0JsfWhQ2STKCqsvKse3Rgj"
@@ -2445,7 +2539,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 166982,
       "name": "Come Stai",
       "url": "https://open.spotify.com/track/6mmBVpItqlggbdKOD9zOu9"
@@ -3613,7 +3707,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -4266,6 +4360,24 @@
     },
     {
       "album": {
+        "name": "FIORI MORTI",
+        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
+      },
+      "artists": [
+        {
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136313,
+      "name": "FIORI MORTI",
+      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
+    },
+    {
+      "album": {
         "name": "Fireworks (feat. Moss Kena & The Knocks)",
         "url": "https://open.spotify.com/album/3xX5VuO4ajjPJwm6SeZqFA"
       },
@@ -4763,6 +4875,32 @@
       "duration_ms": 186733,
       "name": "GHIGLIOTTINA - feat. Noyz Narcos",
       "url": "https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170426,
+      "name": "Giorno del giudizio (feat. Luch\u00e8 & Mahmood)",
+      "url": "https://open.spotify.com/track/3ERsuauNoR8WVbCdJRHo1P"
     },
     {
       "album": {
@@ -5748,6 +5886,24 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170960,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/07hmvoBWeqPwyhGwODFAc2"
+    },
+    {
+      "album": {
         "name": "Inuyasha",
         "url": "https://open.spotify.com/album/7J5bzyK4pKpIarxnwj3VYB"
       },
@@ -6069,7 +6225,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
@@ -6189,7 +6345,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 237613,
       "name": "LA CANZONE NOSTRA \u27c1 \ufe0e(con BLANCO & SALMO)",
       "url": "https://open.spotify.com/track/1uXJYnCsXy2v50y0fDEEiV"
@@ -7521,10 +7677,28 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 169229,
       "name": "Mama I\u2019m a Criminal",
       "url": "https://open.spotify.com/track/5qod8ZrZ1weH5FNBPm9AyN"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Mama I\u2019m a Criminal",
+      "url": "https://open.spotify.com/track/79CHaMX1Yvc507USmYzlza"
     },
     {
       "album": {
@@ -8075,6 +8249,24 @@
       "duration_ms": 164018,
       "name": "Mi manchi",
       "url": "https://open.spotify.com/track/5Q47Vr7OH4XdXR6tqdwTE2"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186160,
+      "name": "Mi manchi",
+      "url": "https://open.spotify.com/track/0L2Sq3mlGZsSvrOu15LZSi"
     },
     {
       "album": {
@@ -8671,7 +8863,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 175626,
       "name": "NEMESI (feat. BLANCO)",
       "url": "https://open.spotify.com/track/4QBXMgfDKmmVrYEqICIPxJ"
@@ -8869,6 +9061,28 @@
       "duration_ms": 202838,
       "name": "NO RATZ (feat. Capo Plaza & Gu\u00e8)",
       "url": "https://open.spotify.com/track/0pzDoErUocBHYar9ySh3Tl"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122373,
+      "name": "No wallet (feat. Marracash)",
+      "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
     },
     {
       "album": {
@@ -9131,7 +9345,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
@@ -9631,7 +9845,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 156083,
       "name": "Paraocchi",
       "url": "https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp"
@@ -9741,6 +9955,24 @@
       "duration_ms": 221019,
       "name": "PARTIRE DA TE",
       "url": "https://open.spotify.com/track/4HpqJZ9YSAaVsmfNGAyl9w"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122986,
+      "name": "Pasci\u00e0",
+      "url": "https://open.spotify.com/track/1i1DUrMSC2CqwL1QsFmtpk"
     },
     {
       "album": {
@@ -9875,7 +10107,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 169750,
       "name": "Perfetta Cos\u00ec",
       "url": "https://open.spotify.com/track/3pC3gQ9YLBBVDgjzPdbF08"
@@ -10167,6 +10399,24 @@
       "duration_ms": 127786,
       "name": "Qualche sasso",
       "url": "https://open.spotify.com/track/0ON7cT98E4H7Rh4dzfvKCa"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "Quando piove",
+      "url": "https://open.spotify.com/track/75Htj3fbEB5n4Kpnk61kCi"
     },
     {
       "album": {
@@ -10656,6 +10906,24 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Salvatore",
+      "url": "https://open.spotify.com/track/1xDd0C4XAUalhg5cJylyXS"
+    },
+    {
+      "album": {
         "name": "Red Bull 64 Bars, The Album",
         "url": "https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po"
       },
@@ -10889,7 +11157,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 176426,
       "name": "Seignosse",
       "url": "https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2"
@@ -11608,6 +11876,28 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Star (feat. Shiva)",
+      "url": "https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -11685,10 +11975,32 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 167813,
       "name": "Storie tristi",
       "url": "https://open.spotify.com/track/3cQWfqnMAdRbuAP3xVZmsX"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "Storie tristi",
+      "url": "https://open.spotify.com/track/4RMUO9pIWjJuHoqGIaBvPm"
     },
     {
       "album": {
@@ -11839,7 +12151,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 181529,
       "name": "SUI MURI",
       "url": "https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w"
@@ -11973,7 +12285,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 128391,
       "name": "TARANTELLE",
       "url": "https://open.spotify.com/track/29DqUutD7L3OEy3Og8Yyss"
@@ -12851,7 +13163,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 194106,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
@@ -13060,6 +13372,24 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Vita sbagliata",
+      "url": "https://open.spotify.com/track/46k6vPzXj1JYKFqJNghNHA"
+    },
+    {
+      "album": {
         "name": "Fastlife 4",
         "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
       },
@@ -13097,6 +13427,28 @@
       "duration_ms": 197250,
       "name": "VITTORIA",
       "url": "https://open.spotify.com/track/2OMafyICAkBgwoRu45nLDY"
+    },
+    {
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Vivi o muori (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7Fg7qvvwCR3NyHWya91x2o"
     },
     {
       "album": {

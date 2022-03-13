@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Kx5 \(deadmau5 & Kaskade\), LP Giobbi & Bklava, Sonny Fodera & Biscits and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,894,469 likes - 99 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,895,651 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

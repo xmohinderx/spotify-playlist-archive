@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,689 likes - 106 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,692 likes - 106 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 48 | [New Wave](https://open.spotify.com/track/6c3JBhyKxxOOua6pZG1Ptq) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [New Wave](https://open.spotify.com/album/1BSG8sIIncQ5sEZJYCmYzO) | 3:48 |
 | 49 | [the one](https://open.spotify.com/track/0JXje27BYSabCP1Qxcacxh) | [Yønah](https://open.spotify.com/artist/1Ky2E5gmz1Od022RQsLxBv) | [the one](https://open.spotify.com/album/6TZkwYuq0t6VBmYuaHmpbz) | 2:55 |
 | 50 | [LEAVE](https://open.spotify.com/track/6KFmD20ElfTDRYIcXxcpAG) | [Franklin](https://open.spotify.com/artist/1QiIaPCrDLhnRfAg6xz8tT) | [LEAVE](https://open.spotify.com/album/4ynjCyCBMzIXaQlTn2Bj7F) | 2:41 |
-| 51 | [I Tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [I Tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 |
+| 51 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 |
 | 52 | [again again](https://open.spotify.com/track/29wUbVVq1vJGmJSuGSwOZe) | [Karl Jakob](https://open.spotify.com/artist/0DMly1IkT9K6vpdUXX9jDM) | [again again](https://open.spotify.com/album/4o7Ucb7msEkyUUJJcsPRIc) | 2:59 |
 | 53 | [Come Give Me Love \- Live at Benjamin's](https://open.spotify.com/track/2M7WN7p6XxvAxAcSxmPdZx) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love \(Live at Benjamin's\)](https://open.spotify.com/album/4jVoYmdt77juQf2Fx1GlES) | 3:45 |
 | 54 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Floating Points
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,068 likes - 101 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,147 likes - 101 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

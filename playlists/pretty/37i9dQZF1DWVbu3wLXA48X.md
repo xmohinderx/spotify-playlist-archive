@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Paul Cherry
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,688 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,727 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 6 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 |
 | 7 | [plastic body](https://open.spotify.com/track/22aPzreqGgBeaw3nsRHES2) | [orange flavored cigarettes](https://open.spotify.com/artist/7j2MvF06WQi6vlFFa7azao) | [life goes on](https://open.spotify.com/album/33KdBrMkUCSch1zIEEHllg) | 2:56 |
 | 8 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
-| 9 | [The Fallen \- HTTH Edit](https://open.spotify.com/track/1b2h2zubqExJM8nsnAtXg3) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hits To The Head](https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb) | 2:57 |
+| 9 | [The Fallen \- 7"](https://open.spotify.com/track/1b2h2zubqExJM8nsnAtXg3) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hits To The Head](https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb) | 2:57 |
 | 10 | [Night Diver](https://open.spotify.com/track/6vE45sAtqcXVHIUksYxBy9) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Night Diver](https://open.spotify.com/album/3xQGDeaA2scHgcaHJ0GWAA) | 3:48 |
 | 11 | [If They’re Shooting At You](https://open.spotify.com/track/1MpQ9COoG75VzxABaBrNwF) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If They’re Shooting At You](https://open.spotify.com/album/1sVnAzBDIJffyzOtqHnj37) | 4:31 |
 | 12 | [Vulnerable Hours](https://open.spotify.com/track/7ptLWFH9Sqr94vGxSHd0vb) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Vulnerable Hours](https://open.spotify.com/album/2QJjVNcrtZke6YPFI41cBd) | 3:40 |

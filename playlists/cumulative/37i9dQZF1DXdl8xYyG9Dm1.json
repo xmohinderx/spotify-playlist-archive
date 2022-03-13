@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 207065,
       "name": "ASTRONAUTE",
       "url": "https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a"
@@ -1306,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Soaring",
+        "url": "https://open.spotify.com/album/3fuT6GFqDLZ0spey7ctE5Y"
+      },
+      "artists": [
+        {
+          "name": "J Molley",
+          "url": "https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135426,
+      "name": "Soaring",
+      "url": "https://open.spotify.com/track/5HEwz37ArQ5v5OHAyHwlGc"
+    },
+    {
+      "album": {
         "name": "Kpos Lifestyle, Vol. 1",
         "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
       },
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 138461,
       "name": "That Chick (feat. Money Badoo)",
       "url": "https://open.spotify.com/track/5w6n5yb6UPcxz20naEYHlN"

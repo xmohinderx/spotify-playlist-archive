@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,132 likes - 88 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,331 likes - 88 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 84 | [Jesus You Alone \- Live](https://open.spotify.com/track/3j2Kq2L2oTa5qmrtYnpbeX) | [The Well Music](https://open.spotify.com/artist/5hsV0doq7qtCnN3GxAtRjR) | [Jesus You Alone \(Live\)](https://open.spotify.com/album/7aAvbIts1nYFkRhPkN5jHG) | 5:24 |
 | 85 | [God, Turn It Around \(feat\. Matt Maher\) \- Live](https://open.spotify.com/track/2YUrd0PHlus9bE7TFDc1Zc) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [God, Turn It Around](https://open.spotify.com/album/20AhTaDSeFLbEz38z3rQjv) | 4:40 |
 | 86 | [Your Presence Is A Promise \- Live](https://open.spotify.com/track/45d9WeArzXVlMvKO1siMpO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Your Presence Is A Promise \(Live\)](https://open.spotify.com/album/118UUVTtR7CJUJ1TDAYuS3) | 4:16 |
-| 87 | [Never Lost \(feat\. Joe L Barnes, Lizzie Morgan & Melvin Crispell III\)](https://open.spotify.com/track/0erjjRw2XQti6uQqxMs9n8) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 13:13 |
+| 87 | [Never Lost \(feat\. Joe L Barnes, Lizzie Morgan & Melvin Crispell III\)](https://open.spotify.com/track/0erjjRw2XQti6uQqxMs9n8) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 13:13 |
 | 88 | [The Good Thief \(Hallelujah\) \- Live](https://open.spotify.com/track/4jaMzKsUKz42S4tI1hfKdk) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [The Good Thief \(Hallelujah\) \[Live\]](https://open.spotify.com/album/6rCcZL8tO4yNTfDlf3O3s3) | 5:24 |
 
 Snapshot ID: `MTY0NTI0NTU4OSwwMDAwMDA2MjAwMDAwMTdmMTA0NzY2YTIwMDAwMDE3ZTc2MzM0OWZk`

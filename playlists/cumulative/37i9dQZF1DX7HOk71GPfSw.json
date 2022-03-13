@@ -14344,6 +14344,28 @@
     },
     {
       "album": {
+        "name": "okayracer!",
+        "url": "https://open.spotify.com/album/1jSXRFHaWAPO96h8KtXpmv"
+      },
+      "artists": [
+        {
+          "name": "Okayracer",
+          "url": "https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120092,
+      "name": "okayracer!",
+      "url": "https://open.spotify.com/track/0rvTaYB3MkqTgkSIOoJWhl"
+    },
+    {
+      "album": {
         "name": "Old Ways",
         "url": "https://open.spotify.com/album/78ta5g9EFCey3UtOzs4kOE"
       },

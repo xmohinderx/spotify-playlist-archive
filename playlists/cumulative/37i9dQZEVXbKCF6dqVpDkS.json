@@ -70,6 +70,32 @@
     },
     {
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/6BZsyoNy3jVxvFCT614Zrb"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/4abfmTMCQDA1VPamAm3c3j"
+    },
+    {
+      "album": {
         "name": "3 Soldaten",
         "url": "https://open.spotify.com/album/3o3zuNtNMm4RcbP7pGgSzd"
       },
@@ -1057,7 +1083,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 241918,
       "name": "Betalen Voor Dit",
       "url": "https://open.spotify.com/track/5JEE1m3eVgMz5EDauj9Iar"
@@ -1351,7 +1377,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
@@ -3239,7 +3265,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 195440,
       "name": "Fils de joie",
       "url": "https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv"
@@ -4544,6 +4570,24 @@
     },
     {
       "album": {
+        "name": "Honderd Keer",
+        "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196034,
+      "name": "Honderd Keer",
+      "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
+    },
+    {
+      "album": {
         "name": "Ibiza Stories",
         "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
       },
@@ -5007,7 +5051,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 206405,
       "name": "In De Nacht",
       "url": "https://open.spotify.com/track/5Epo9KIQxMprDVCaPzfnys"

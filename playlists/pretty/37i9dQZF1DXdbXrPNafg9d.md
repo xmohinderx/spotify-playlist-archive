@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Orion Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,883 likes - 176 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,199 likes - 176 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 17 | [Pressure Point](https://open.spotify.com/track/6viryDZQ6Jr8J2bjqf2hSg) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Pressure Point](https://open.spotify.com/album/5B7CTMT8SCyoOzdh8MsqVX) | 3:26 |
 | 18 | [Cry in the Mirror](https://open.spotify.com/track/4cL8QGCssHgLZPW3QmKuT6) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Cry in the Mirror](https://open.spotify.com/album/00GclxcCqONAQMm39T3Ir0) | 3:45 |
 | 19 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 |
-| 20 | [paul blart mall cop](https://open.spotify.com/track/24EqBj3PZlN71flFEzXa9B) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Paul Blart Mall Cop](https://open.spotify.com/album/60sJD11vvUlDibnk1vBAdU) | 2:51 |
+| 20 | [paul blart mall cop](https://open.spotify.com/track/24EqBj3PZlN71flFEzXa9B) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [paul blart mall cop](https://open.spotify.com/album/60sJD11vvUlDibnk1vBAdU) | 2:51 |
 | 21 | [Cherry](https://open.spotify.com/track/6hrH6nUOPoB9kW2dT4GXzy) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Cherry](https://open.spotify.com/album/1tC67mJvSOPmzKqglQKrzw) | 3:32 |
 | 22 | [Flor Amarelo \(Para Você\)](https://open.spotify.com/track/4TfoDylS5Is5i67nAI0oeK) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Flor Amarelo \(Para Você\)](https://open.spotify.com/album/4T6O67PiUSYMRHDPsFvUHX) | 2:51 |
 | 23 | [Pressure](https://open.spotify.com/track/6G7mIrc41BtBlThkv5bFkW) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Pressure](https://open.spotify.com/album/5BBsy9X9oScaSSdxq66Skn) | 3:14 |
 | 24 | [e m p t y s p a c e s](https://open.spotify.com/track/7L9r3obiu3UdKyJq3dGIxB) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [e m p t y s p a c e s](https://open.spotify.com/album/0w35A98sbw2x5ieO4k3Hpw) | 2:15 |
 | 25 | [Vertigo](https://open.spotify.com/track/3oPo4NNfp4CZCtV5I6P7Bm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vertigo](https://open.spotify.com/album/2z6ruRHlcugqblwV17FfqA) | 2:50 |
 | 26 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/1lV1ELb1CUSe94zV7h082P) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/5hvdCkg5ETqfh9ZJlqWkOh) | 4:24 |
-| 27 | [You Don't Cry Enough](https://open.spotify.com/track/3iqOWdl8nZwJpGNKQyw6es) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [404 USER NOT FOUND](https://open.spotify.com/album/1WzrSVf7J69Fp0kzM3TycY) | 2:43 |
+| 27 | [You Don't Cry Enough](https://open.spotify.com/track/3iqOWdl8nZwJpGNKQyw6es) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [404 USER NOT FOUND](https://open.spotify.com/album/1WzrSVf7J69Fp0kzM3TycY) | 2:44 |
 | 28 | [Really Want to See You Again](https://open.spotify.com/track/7z5v8TAMxPtBgWaIlAyqri) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [Really Want to See You Again](https://open.spotify.com/album/06TWxGHNgdSYYlLa69FMln) | 3:57 |
 | 29 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 |
 | 30 | [the dealer](https://open.spotify.com/track/30viLVZCdHn0tqWYZD5Qie) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/1qiWyBAcdXdisrrz98NN4p) | 3:38 |

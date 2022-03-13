@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Wolty.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,228 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,257 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 9 | [PELOTUDA](https://open.spotify.com/track/5jq68GFT3eBI341pgT5Zwh) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [PELOTUDA](https://open.spotify.com/album/7ttTUSFx4HqlALyCqqOxDP) | 3:05 |
 | 10 | [Sábado 17](https://open.spotify.com/track/0xHm4ExZUFocJRcNNxseXm) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [DJ Mokson](https://open.spotify.com/artist/5EWq7WkbPxlA3MbfBs8a6F) | [Sábado 17](https://open.spotify.com/album/1G2WTn4rBAsAxToZn8F7t1) | 3:23 |
 | 11 | [Solo Una Vez](https://open.spotify.com/track/1wUJbeagQnmOvjAyCvaDVh) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Solo Una Vez](https://open.spotify.com/album/3USzAg1agnRtKFFT9lA4oF) | 3:25 |
-| 12 | [Vamos a Fumar](https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Vamos a Fumar](https://open.spotify.com/album/32DlSEQVurR7UvVoBxmiH2) | 3:06 |
+| 12 | [Vamos a Fumar](https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Vamos a Fumar](https://open.spotify.com/album/32DlSEQVurR7UvVoBxmiH2) | 3:06 |
 | 13 | [Ventrílocuo](https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Ventrílocuo](https://open.spotify.com/album/0JunW3Lcvu4oGpsm5Vop9R) | 2:26 |
 | 14 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 |
 | 15 | [Detrás Del Dólar](https://open.spotify.com/track/5EslUzaxGTmgaoYGXkbhLa) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Detrás Del Dólar](https://open.spotify.com/album/796DOnaZS8M46WOdyiPeVO) | 2:53 |

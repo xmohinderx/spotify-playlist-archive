@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 228998,
       "name": "150",
       "url": "https://open.spotify.com/track/4RmyvCoYKGaBAsC4CLkMMu"
@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Parisuhdehautausmaa",
+        "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208433,
+      "name": "Ainoa miinus",
+      "url": "https://open.spotify.com/track/5JHlpediEGfVRPVIxcj5yP"
+    },
+    {
+      "album": {
         "name": "ViO",
         "url": "https://open.spotify.com/album/1syZJ0HasgimydePATEIfx"
       },
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
@@ -1456,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
+    },
+    {
+      "album": {
         "name": "Calling My Phone",
         "url": "https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp"
       },
@@ -1631,7 +1667,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
@@ -2297,7 +2333,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
@@ -4202,6 +4238,24 @@
     },
     {
       "album": {
+        "name": "Parisuhdehautausmaa",
+        "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206359,
+      "name": "Hyv\u00e4uskoinen",
+      "url": "https://open.spotify.com/track/3dp8H2alKT2fTrSBKhQoTW"
+    },
+    {
+      "album": {
         "name": "H\u00e4pe\u00e4",
         "url": "https://open.spotify.com/album/3PFanScrYQdFu6gfv63vss"
       },
@@ -4483,7 +4537,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 187943,
       "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
@@ -5299,10 +5353,28 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 204728,
       "name": "Juttele mulle",
       "url": "https://open.spotify.com/track/0zwrZzLplUQEsnP3a2HBMU"
+    },
+    {
+      "album": {
+        "name": "Uskon tulevaan",
+        "url": "https://open.spotify.com/album/55zI917aeGPy5TP2vH7Ndw"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204728,
+      "name": "Juttele mulle",
+      "url": "https://open.spotify.com/track/4wyXVaz5oJdrZQwC2nT5T4"
     },
     {
       "album": {
@@ -5414,6 +5486,28 @@
     },
     {
       "album": {
+        "name": "Uskon tulevaan",
+        "url": "https://open.spotify.com/album/55zI917aeGPy5TP2vH7Ndw"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        },
+        {
+          "name": "Biolapset",
+          "url": "https://open.spotify.com/artist/0mKriN1ZkhiJKZnN4aWUXA"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267379,
+      "name": "Kaikki muuttuu (feat. Biolapset)",
+      "url": "https://open.spotify.com/track/5d9EBUa1zfLyj6srj2KcUU"
+    },
+    {
+      "album": {
         "name": "Asioilla on tapana j\u00e4rjesty\u00e4",
         "url": "https://open.spotify.com/album/1WjBoh9FLz6D98P2YYyVGG"
       },
@@ -5440,6 +5534,24 @@
     },
     {
       "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302040,
+      "name": "Kaisarion",
+      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
+    },
+    {
+      "album": {
         "name": "Kaksi sisarta (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
         "url": "https://open.spotify.com/album/3U0ugMndn7MSk1knGlLsXx"
       },
@@ -5459,6 +5571,24 @@
       "duration_ms": 193173,
       "name": "Kaksi sisarta (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/7GKZpKLmeG150X3xYTTnO1"
+    },
+    {
+      "album": {
+        "name": "Kaksi syd\u00e4nt\u00e4",
+        "url": "https://open.spotify.com/album/5ThcaEsI5quaUaJ1UdNk02"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227787,
+      "name": "Kaksi syd\u00e4nt\u00e4",
+      "url": "https://open.spotify.com/track/3hVJ6qN5umuczX3RtbYmtn"
     },
     {
       "album": {
@@ -5687,7 +5817,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 237133,
       "name": "Kes\u00e4y\u00f6",
       "url": "https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA"
@@ -6059,6 +6189,24 @@
       "duration_ms": 218320,
       "name": "Kukkameri",
       "url": "https://open.spotify.com/track/3XmCctyodeSAO7xFimAsUc"
+    },
+    {
+      "album": {
+        "name": "Parisuhdehautausmaa",
+        "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Kultapieni",
+      "url": "https://open.spotify.com/track/7C6ode4rtuy1FpZU61bxbn"
     },
     {
       "album": {
@@ -7543,7 +7691,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 182385,
       "name": "Mik\u00e4-Mik\u00e4-Maa (feat. EME)",
       "url": "https://open.spotify.com/track/63hKnwYYmoR9CxKzdthRHG"
@@ -7899,7 +8047,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -8313,7 +8461,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
@@ -8664,6 +8812,28 @@
     },
     {
       "album": {
+        "name": "Parisuhdehautausmaa",
+        "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        },
+        {
+          "name": "Elias Kaskinen",
+          "url": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169924,
+      "name": "Onnellinen",
+      "url": "https://open.spotify.com/track/0jxQIOQm8Ixeko2AxhC1z8"
+    },
+    {
+      "album": {
         "name": "Viimeinen romantikko",
         "url": "https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b"
       },
@@ -8894,6 +9064,24 @@
     },
     {
       "album": {
+        "name": "Parisuhdehautausmaa",
+        "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243419,
+      "name": "Parisuhdehautausmaa",
+      "url": "https://open.spotify.com/track/3pQzhjQKES7qGfAW1ROT4a"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -8989,7 +9177,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -10606,6 +10794,24 @@
     },
     {
       "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196946,
+      "name": "Spillways",
+      "url": "https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -10767,6 +10973,28 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
+        "name": "STILL TRE",
+        "url": "https://open.spotify.com/album/2WL6b858JFoOVI90TWR7Yu"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "STILL TRE",
+      "url": "https://open.spotify.com/track/5tWGU45R5BufYTDZ4irIPu"
     },
     {
       "album": {
@@ -11619,7 +11847,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -12451,7 +12679,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"
@@ -12491,6 +12719,24 @@
       "duration_ms": 196470,
       "name": "USA",
       "url": "https://open.spotify.com/track/4oq88Qn7UdpiSjiL2E23dM"
+    },
+    {
+      "album": {
+        "name": "Parisuhdehautausmaa",
+        "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198372,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/5hEtNsPbqfz9QFlpISiiX2"
     },
     {
       "album": {
@@ -12739,7 +12985,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 186420,
       "name": "Vastaaja (feat. Ege Zulu & Pessa)",
       "url": "https://open.spotify.com/track/2LGHc5OI7tWamZd7JoOfll"
@@ -12783,7 +13029,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-13",
       "duration_ms": 198181,
       "name": "Vegasissa naimisiin (feat. Nelli Matula)",
       "url": "https://open.spotify.com/track/44wSkjptqeM6IEVzAMq7pW"
@@ -12885,6 +13131,24 @@
       "duration_ms": 196128,
       "name": "Viimeiset romantikot",
       "url": "https://open.spotify.com/track/37dGW3mmdqh6QX41CBuBYJ"
+    },
+    {
+      "album": {
+        "name": "Parisuhdehautausmaa",
+        "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "Viimeist\u00e4 kertaa",
+      "url": "https://open.spotify.com/track/6j7ntlEnyTEiO5p3NgKcXy"
     },
     {
       "album": {
@@ -13041,6 +13305,24 @@
       "duration_ms": 189727,
       "name": "Wandered To LA (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348333,
+      "name": "Watcher In The Sky",
+      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
     },
     {
       "album": {
@@ -13655,6 +13937,24 @@
       "duration_ms": 199746,
       "name": "Yst\u00e4v\u00e4np\u00e4iv\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/5m59t6QEzY5AJKipDMtoJQ"
+    },
+    {
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321708,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
     },
     {
       "album": {
