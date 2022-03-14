@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "The Queen Is Dead (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191920,
+      "name": "Bigmouth Strikes Again - 2017 Master",
+      "url": "https://open.spotify.com/track/1JXpzsOgH0lA3JU7wyRzwJ"
+    },
+    {
+      "album": {
         "name": "Brotherhood (Collector's Edition)",
         "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
@@ -257,7 +275,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1YQCRXscu8xE74BVVMUCRr"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 288466,
       "name": "Modern Love - 1999 Remaster",
       "url": "https://open.spotify.com/track/7LyIoUsiMtelB1I0I4drEF"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 258546,
       "name": "Notorious - 2010 Remaster",
       "url": "https://open.spotify.com/track/4yopZ4FVYS0RWKkCagdIEm"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 269786,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o"

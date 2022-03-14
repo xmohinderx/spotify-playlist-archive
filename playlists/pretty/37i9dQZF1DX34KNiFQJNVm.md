@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Raí Saia Rodada com Marcynho Sensação, DENNIS com Luan Santana, Zé Neto & Cristiano e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,205 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,353 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 10 | [Mulher](https://open.spotify.com/track/3atAcyitCDdMN8sTeGcuXO) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4) | [Mulher](https://open.spotify.com/album/17vtDUE5StB3fLbgSqh4AS) | 2:32 |
 | 11 | [Outro Patamar](https://open.spotify.com/track/2857Zdt1A03QnnkhGXC1hP) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Outro Patamar](https://open.spotify.com/album/7KH6ZeR3Iwnv9Uh9qIukBZ) | 3:45 |
 | 12 | [incomum](https://open.spotify.com/track/70zl4IbecZee4V3YubNt4J) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [incomum](https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON) | 3:37 |
-| 13 | [Mensagem](https://open.spotify.com/track/4q5nHqUokzcj6u9wfnT5EB) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628), [Torvy](https://open.spotify.com/artist/584BHQzi4vToeRj5I5nSrs) | [Mandrake na Voz](https://open.spotify.com/album/1DHElVFhCzy7AISTZm2zNW) | 3:05 |
+| 13 | [Mensagem](https://open.spotify.com/track/4q5nHqUokzcj6u9wfnT5EB) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628), [Torvylone](https://open.spotify.com/artist/00YVNzJIIcsPTxP76UDzAD) | [Mandrake na Voz](https://open.spotify.com/album/1DHElVFhCzy7AISTZm2zNW) | 3:05 |
 | 14 | [Tenho o Poder](https://open.spotify.com/track/1RbGo06dE8jfdWgrsNOamb) | [Larissa Manoela](https://open.spotify.com/artist/1454TL51gTbW2Vm5XCFhtv), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Tenho o Poder](https://open.spotify.com/album/0pS3OTwONyXAX4EBxSTTgM) | 3:11 |
 | 15 | [Mágico do Som](https://open.spotify.com/track/0eumeycOAI8ew5qRzFJbEr) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Mágico do Som](https://open.spotify.com/album/6elOu6PrCxDHrnOT9E2wjC) | 2:01 |
 | 16 | [Higher \(feat\. your friend polly\)](https://open.spotify.com/track/7t6Q4FkHC53gXmLLP8OKNu) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Higher \(feat\. your friend polly\)](https://open.spotify.com/album/0dJWyX1g56b5myZiUDp58o) | 2:24 |

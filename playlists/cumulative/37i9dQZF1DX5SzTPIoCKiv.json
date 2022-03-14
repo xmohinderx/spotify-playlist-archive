@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 307297,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/2YGALkTVMM2Lnp4dcCOUDy"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 245213,
       "name": "Battles",
       "url": "https://open.spotify.com/track/135BpkRmi9GG7HLhB6OK5m"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 220733,
       "name": "Be Still & Know",
       "url": "https://open.spotify.com/track/6c0EkhURXqbBVAcIegCF6u"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 232286,
       "name": "Burdens",
       "url": "https://open.spotify.com/track/4IlBnAZ3kT5rEbkjDrD89b"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 281177,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/2yDWexKaX2plvcDbomivOK"
@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Dusty Road",
+        "url": "https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "Dusty Road",
+      "url": "https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY"
+    },
+    {
+      "album": {
         "name": "E6 (Hot Mix)",
         "url": "https://open.spotify.com/album/3VWh2UjLcYbic1FFmkzL9B"
       },
@@ -649,7 +667,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 217444,
       "name": "Follow You Into The Fire",
       "url": "https://open.spotify.com/track/69wTzxjSNve6gAz5WLaIps"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 203197,
       "name": "Hope Is Here (Do Not Fear)",
       "url": "https://open.spotify.com/track/6uJaKvuzBPNxGmKWj5sVqj"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 229119,
       "name": "I Believe It Now (Single Version)",
       "url": "https://open.spotify.com/track/6kc0XFXTEaBWCEXZnQPFIc"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 265080,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 202046,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 261093,
       "name": "My Weapon",
       "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 206400,
       "name": "Nobody (feat. Matthew West)",
       "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 223906,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 160560,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/59Ie6RW8WfI24BycVWpexi"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 169435,
       "name": "River Of Life",
       "url": "https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 231973,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/2Fu0gTnxT2qTPu2zevJNHW"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 232333,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1B0kLftVGJsZqJZGdHbAWZ"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 182612,
       "name": "The Devil Is A Liar",
       "url": "https://open.spotify.com/track/3Q2jYy7vwY6wWzPTlXwxU6"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 222400,
       "name": "Unstoppable God",
       "url": "https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1"
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 437131,
       "name": "Waymaker",
       "url": "https://open.spotify.com/track/1Qs9gwjN6QhZ2abozDOQTC"
@@ -2637,7 +2655,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"

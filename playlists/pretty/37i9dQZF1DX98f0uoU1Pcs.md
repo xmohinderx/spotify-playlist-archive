@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,996 likes - 111 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,126 likes - 111 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

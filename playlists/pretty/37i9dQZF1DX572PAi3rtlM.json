@@ -1,13 +1,33 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 15781,
+  "num_followers": 15815,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzEzMjYyMCwwMDAwMDAwMGNiMTZmMjM0ZTM1OWQyNTEwMmI5MmFhMDRiOGYyMGQz",
+  "snapshot_id": "MTY0NzIxOTEyMywwMDAwMDAwMDc3ZDRlYzA2MTc0ZWE2NGM2YzBlOTVlODEzYzNkM2M5",
   "tracks": [
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        },
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
+    },
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
@@ -55,22 +75,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Graceland - The Remixes",
         "url": "https://open.spotify.com/album/34ORSj2qrkkwUUwQJMcV1d"
       },
@@ -87,58 +91,6 @@
       "duration_ms": 377173,
       "name": "That Was Your Mother - Gui Boratto Remix",
       "url": "https://open.spotify.com/track/7qB5mBa997C6ddiCgmsfU4"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1"
-      },
-      "artists": [
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        },
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Your Good Times Will Come",
-        "url": "https://open.spotify.com/album/1ZhTIMvd5OlrytEfwekpUR"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 290753,
-      "name": "Your Good Times Will Come",
-      "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Silk Robe",
-        "url": "https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv"
-      },
-      "artists": [
-        {
-          "name": "Flaurese",
-          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Silk Robe",
-      "url": "https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -163,154 +115,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Agave Harvest",
-        "url": "https://open.spotify.com/album/6yBbipiLXkmHMpANlxL5Rm"
+        "name": "Tonic Edits Vol. 5",
+        "url": "https://open.spotify.com/album/16bCZJbli0FGp8tszt1uZl"
       },
       "artists": [
         {
-          "name": "Manuel Darquart",
-          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
         }
       ],
-      "duration_ms": 424930,
-      "name": "Agave Harvest",
-      "url": "https://open.spotify.com/track/7aFR1dQQaCvQpPjj8EoVgA"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Vault Sessions 1",
-        "url": "https://open.spotify.com/album/6HZl2GQr43KvIDKrrk6NBE"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fingers",
-          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
-        },
-        {
-          "name": "Ron Wilson",
-          "url": "https://open.spotify.com/artist/4kVhiLOxWz73xXtBJcZ069"
-        }
-      ],
-      "duration_ms": 378549,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/2z89w2POOafemX8yVmaA21"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Weekends and Beginnings",
-        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        },
-        {
-          "name": "Maurice Fulton",
-          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
-        }
-      ],
-      "duration_ms": 332777,
-      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
-      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Together Onetime",
-        "url": "https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29"
-      },
-      "artists": [
-        {
-          "name": "Dole & Kom",
-          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
-        }
-      ],
-      "duration_ms": 419014,
-      "name": "Together Onetime",
-      "url": "https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Hustle do Brasil",
-        "url": "https://open.spotify.com/album/1u6WFnkNGorTI9lTTgKJ78"
-      },
-      "artists": [
-        {
-          "name": "Aroop Roy",
-          "url": "https://open.spotify.com/artist/13ZcbaFfAsWtq989FqCXVQ"
-        }
-      ],
-      "duration_ms": 268790,
-      "name": "Hustle do Brasil",
-      "url": "https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/4AotBgSoOhRJuJkMLwgyHZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 352758,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
-      },
-      "artists": [
-        {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Beautiful Jazz",
-        "url": "https://open.spotify.com/album/0xwqLXyiNpbxPkXRBhBTkJ"
-      },
-      "artists": [
-        {
-          "name": "Robb Swinga",
-          "url": "https://open.spotify.com/artist/63FanJVTy0fbVXsGkVGL06"
-        }
-      ],
-      "duration_ms": 391680,
-      "name": "Beautiful Jazz",
-      "url": "https://open.spotify.com/track/6IuRBqO3QnCFQl5GsorGCD"
+      "duration_ms": 321703,
+      "name": "Cabrio Mango",
+      "url": "https://open.spotify.com/track/7jrJd2hRB3vDYX93SRiGad"
     },
     {
       "added_at": "2021-09-15 15:43:57",
@@ -335,22 +151,122 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Coffee in the Morning EP",
-        "url": "https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS"
+        "name": "Your Good Times Will Come",
+        "url": "https://open.spotify.com/album/1ZhTIMvd5OlrytEfwekpUR"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         }
       ],
-      "duration_ms": 225471,
-      "name": "Coffee in the Morning - Radio Edit",
-      "url": "https://open.spotify.com/track/7Jg80rSKiEVhmGE8sVEYf2"
+      "duration_ms": 290753,
+      "name": "Your Good Times Will Come",
+      "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4OKxxZwVeESgtIvH8UoPAV"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 130024,
+      "name": "Tasty Jam",
+      "url": "https://open.spotify.com/track/6smHuWvMAMQfVO855qtTDw"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Industry (Green Light/Fun Night Breaks Mix)",
+        "url": "https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd"
+      },
+      "artists": [
+        {
+          "name": "Nathan Micay",
+          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
+        }
+      ],
+      "duration_ms": 223796,
+      "name": "Industry (Green Light/Fun Night Breaks Mix) - Edit",
+      "url": "https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Together Onetime",
+        "url": "https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29"
+      },
+      "artists": [
+        {
+          "name": "Dole & Kom",
+          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
+        }
+      ],
+      "duration_ms": 419014,
+      "name": "Together Onetime",
+      "url": "https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Weekends and Beginnings",
+        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        },
+        {
+          "name": "Maurice Fulton",
+          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
+        }
+      ],
+      "duration_ms": 332777,
+      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
+      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
+        "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
+        },
+        {
+          "name": "Dames Brown",
+          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
+        }
+      ],
+      "duration_ms": 477881,
+      "name": "Calling Out (feat. Dames Brown) - 12\" Mix",
+      "url": "https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -367,6 +283,70 @@
       "duration_ms": 135865,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/1dBpg8a8jwAkaSbROiehr9"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Silk Robe",
+        "url": "https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv"
+      },
+      "artists": [
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Silk Robe",
+      "url": "https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/2yC5omuXyoEwVSTzJZMcLY"
+      },
+      "artists": [
+        {
+          "name": "Joel Holmes",
+          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
+        }
+      ],
+      "duration_ms": 266806,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/2b06hoCTKogMazNvtbCjQC"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "The Cool Ranch Collection",
+        "url": "https://open.spotify.com/album/5f7grdV1DGpXyq70gBMMPv"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "We Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/2ZfkpCm1I5TxnQwedtfoW7"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -395,70 +375,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Panic In Fort Greene Park EP",
-        "url": "https://open.spotify.com/album/7Cc8L7f2PRniBRCkeLT2MZ"
-      },
-      "artists": [
-        {
-          "name": "The Juan Maclean",
-          "url": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
-        }
-      ],
-      "duration_ms": 371034,
-      "name": "Everybody Clap",
-      "url": "https://open.spotify.com/track/5wzyVW90nwZIYGMArXOjQQ"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4OKxxZwVeESgtIvH8UoPAV"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 130024,
-      "name": "Tasty Jam",
-      "url": "https://open.spotify.com/track/6smHuWvMAMQfVO855qtTDw"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/0a2iikoBJyhdqjZ5a9z6oA"
-      },
-      "artists": [
-        {
-          "name": "Stinger J.",
-          "url": "https://open.spotify.com/artist/3g9j8j65o6WhNWDlrCY7XP"
-        }
-      ],
-      "duration_ms": 401612,
-      "name": "Pretty Face - 12\" Version",
-      "url": "https://open.spotify.com/track/574uq1y82QgKJfAX4LEO1t"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/0rgGwEybYIQvqHf5qEkFOB"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -479,42 +395,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Work It out / Til I Found You",
-        "url": "https://open.spotify.com/album/5eAemysN30WIRISc4gJ4Ln"
-      },
-      "artists": [
-        {
-          "name": "Leroy Burgess",
-          "url": "https://open.spotify.com/artist/6bgccXVuEX61NPVEXj3Xp8"
-        },
-        {
-          "name": "Saving Coco",
-          "url": "https://open.spotify.com/artist/0wbze3teJNEUpzAfRiga9F"
-        }
-      ],
-      "duration_ms": 438598,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/4xWZmHNlmAtB0zgdg45pzq"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/2j0DUG3RE4cblXd58mY6NE"
       },
@@ -531,38 +411,66 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
-        "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
+        "name": "Hustle do Brasil",
+        "url": "https://open.spotify.com/album/1u6WFnkNGorTI9lTTgKJ78"
       },
       "artists": [
         {
-          "name": "Sophie Lloyd",
-          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
-        },
-        {
-          "name": "Dames Brown",
-          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
+          "name": "Aroop Roy",
+          "url": "https://open.spotify.com/artist/13ZcbaFfAsWtq989FqCXVQ"
         }
       ],
-      "duration_ms": 477881,
-      "name": "Calling Out (feat. Dames Brown) - 12\" Mix",
-      "url": "https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4"
+      "duration_ms": 268790,
+      "name": "Hustle do Brasil",
+      "url": "https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS"
     },
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Pose",
-        "url": "https://open.spotify.com/album/2yC5omuXyoEwVSTzJZMcLY"
+        "name": "Panic In Fort Greene Park EP",
+        "url": "https://open.spotify.com/album/7Cc8L7f2PRniBRCkeLT2MZ"
       },
       "artists": [
         {
-          "name": "Joel Holmes",
-          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
+          "name": "The Juan Maclean",
+          "url": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
         }
       ],
-      "duration_ms": 266806,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/2b06hoCTKogMazNvtbCjQC"
+      "duration_ms": 371034,
+      "name": "Everybody Clap",
+      "url": "https://open.spotify.com/track/5wzyVW90nwZIYGMArXOjQQ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Priorities",
+        "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
+      },
+      "artists": [
+        {
+          "name": "Project Pablo",
+          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        }
+      ],
+      "duration_ms": 348158,
+      "name": "Warm Priority",
+      "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Sunbear",
+        "url": "https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R"
+      },
+      "artists": [
+        {
+          "name": "Sunbear",
+          "url": "https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9"
+        }
+      ],
+      "duration_ms": 303880,
+      "name": "I Heard the Voice of Music Say",
+      "url": "https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -576,121 +484,9 @@
           "url": "https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC"
         }
       ],
-      "duration_ms": 533201,
-      "name": "People Are All That We Have",
-      "url": "https://open.spotify.com/track/6wysLEBaxlsaHvL0FyvD1u"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Blah Blah EP",
-        "url": "https://open.spotify.com/album/7tiHiUaMxHkrmvsZa1id0Y"
-      },
-      "artists": [
-        {
-          "name": "Russell E.L. Butler",
-          "url": "https://open.spotify.com/artist/4pNSJWVVUQ9bycGZ0Q8c5I"
-        }
-      ],
-      "duration_ms": 475608,
-      "name": "Tout va bien",
-      "url": "https://open.spotify.com/track/1FdxaYM9hVePlWVGbtsdjD"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "No Wait",
-        "url": "https://open.spotify.com/album/4HOWXX6sEyqOFELqdEaZQW"
-      },
-      "artists": [
-        {
-          "name": "Lis Sarroca",
-          "url": "https://open.spotify.com/artist/3tH1hoSRmfQvsejUewBC5t"
-        }
-      ],
-      "duration_ms": 323012,
-      "name": "No Wait",
-      "url": "https://open.spotify.com/track/0drw6GcjPatpfpWSEouVVq"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "The Cool Ranch Collection",
-        "url": "https://open.spotify.com/album/5f7grdV1DGpXyq70gBMMPv"
-      },
-      "artists": [
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "We Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/2ZfkpCm1I5TxnQwedtfoW7"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Soul Shoes",
-        "url": "https://open.spotify.com/album/6NQqSfD1zmuzzk9pH2HbS6"
-      },
-      "artists": [
-        {
-          "name": "Vincent Caira",
-          "url": "https://open.spotify.com/artist/7k7rFBWrEfJJWjDubjkRNw"
-        }
-      ],
-      "duration_ms": 248704,
-      "name": "Soul Shoes - Edit",
-      "url": "https://open.spotify.com/track/58cSF5Hp2cib67QVwExSbu"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Walk Dance Talk Sing",
-        "url": "https://open.spotify.com/album/3zzkk0n26DWgqVuQkefg0J"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 305649,
-      "name": "Like A Fool",
-      "url": "https://open.spotify.com/track/511InmWye3UrDWkcE4SmT4"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Funky Bump",
-        "url": "https://open.spotify.com/album/0pqq5utZ2eLuqmhupGig93"
-      },
-      "artists": [
-        {
-          "name": "Pino Presti",
-          "url": "https://open.spotify.com/artist/0TXzV75amzLHeZueaodr9s"
-        }
-      ],
-      "duration_ms": 312500,
-      "name": "Funky Bump - Long Version",
-      "url": "https://open.spotify.com/track/156s8wfCnvtom8DrT4zjww"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "The Promise / I Found What I've Been Searching For",
-        "url": "https://open.spotify.com/album/0HZ6qeMBFDqcK8InTqb6TW"
-      },
-      "artists": [
-        {
-          "name": "La'Verne Washington",
-          "url": "https://open.spotify.com/artist/7fcyix8KGjNnHRyGjENeHI"
-        }
-      ],
-      "duration_ms": 230521,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/2zu3NiHJk7FXoBu1yyEAyt"
+      "duration_ms": 283120,
+      "name": "Latin Class",
+      "url": "https://open.spotify.com/track/2JzyM6FIS8M6hN5YwRndgk"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -715,6 +511,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Agave Harvest",
+        "url": "https://open.spotify.com/album/6yBbipiLXkmHMpANlxL5Rm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Darquart",
+          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
+        }
+      ],
+      "duration_ms": 424930,
+      "name": "Agave Harvest",
+      "url": "https://open.spotify.com/track/7aFR1dQQaCvQpPjj8EoVgA"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Minina Bem Li",
         "url": "https://open.spotify.com/album/54IZ4wR3HC25QXyV2bOrpQ"
       },
@@ -735,66 +547,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Industry (Green Light/Fun Night Breaks Mix)",
-        "url": "https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd"
+        "name": "Beautiful Jazz",
+        "url": "https://open.spotify.com/album/0xwqLXyiNpbxPkXRBhBTkJ"
       },
       "artists": [
         {
-          "name": "Nathan Micay",
-          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
+          "name": "Robb Swinga",
+          "url": "https://open.spotify.com/artist/63FanJVTy0fbVXsGkVGL06"
         }
       ],
-      "duration_ms": 223796,
-      "name": "Industry (Green Light/Fun Night Breaks Mix) - Edit",
-      "url": "https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "It Feels Good",
-        "url": "https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h"
-      },
-      "artists": [
-        {
-          "name": "Joel Holmes",
-          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
-        }
-      ],
-      "duration_ms": 266383,
-      "name": "It Feels Good",
-      "url": "https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 225357,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Sunbear",
-        "url": "https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R"
-      },
-      "artists": [
-        {
-          "name": "Sunbear",
-          "url": "https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9"
-        }
-      ],
-      "duration_ms": 303880,
-      "name": "I Heard the Voice of Music Say",
-      "url": "https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf"
+      "duration_ms": 391680,
+      "name": "Beautiful Jazz",
+      "url": "https://open.spotify.com/track/6IuRBqO3QnCFQl5GsorGCD"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -815,6 +579,162 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "No Wait",
+        "url": "https://open.spotify.com/album/4HOWXX6sEyqOFELqdEaZQW"
+      },
+      "artists": [
+        {
+          "name": "Lis Sarroca",
+          "url": "https://open.spotify.com/artist/3tH1hoSRmfQvsejUewBC5t"
+        }
+      ],
+      "duration_ms": 323012,
+      "name": "No Wait",
+      "url": "https://open.spotify.com/track/0drw6GcjPatpfpWSEouVVq"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/0a2iikoBJyhdqjZ5a9z6oA"
+      },
+      "artists": [
+        {
+          "name": "Stinger J.",
+          "url": "https://open.spotify.com/artist/3g9j8j65o6WhNWDlrCY7XP"
+        }
+      ],
+      "duration_ms": 401612,
+      "name": "Pretty Face - 12\" Version",
+      "url": "https://open.spotify.com/track/574uq1y82QgKJfAX4LEO1t"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4AotBgSoOhRJuJkMLwgyHZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 352758,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 225357,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Coffee in the Morning EP",
+        "url": "https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 225471,
+      "name": "Coffee in the Morning - Radio Edit",
+      "url": "https://open.spotify.com/track/7Jg80rSKiEVhmGE8sVEYf2"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "On My Mind (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/2gNUrWdNTwimKCUF8s5euX"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/0gyO07e0f66Qaib1x3m5I7"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "It Feels Good",
+        "url": "https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h"
+      },
+      "artists": [
+        {
+          "name": "Joel Holmes",
+          "url": "https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j"
+        }
+      ],
+      "duration_ms": 266383,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 398150,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Stanley's Disco",
+        "url": "https://open.spotify.com/album/2X7iTmP185SzEeQyQ2tDtM"
+      },
+      "artists": [
+        {
+          "name": "George Feely",
+          "url": "https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81"
+        }
+      ],
+      "duration_ms": 418032,
+      "name": "Stanley's Disco",
+      "url": "https://open.spotify.com/track/0oYEtzXK2sftKizIpiTp8O"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "I Want to Feel Your Love",
         "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
@@ -831,18 +751,50 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Mandar All Day 001",
-        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
+        "name": "Music Trance",
+        "url": "https://open.spotify.com/album/7gr9gLflbW5DrgGQB9kcen"
       },
       "artists": [
         {
-          "name": "Leo Pol",
-          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 278110,
-      "name": "Chantal",
-      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+      "duration_ms": 356013,
+      "name": "Music Trance",
+      "url": "https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Walk Dance Talk Sing",
+        "url": "https://open.spotify.com/album/3zzkk0n26DWgqVuQkefg0J"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 305649,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/511InmWye3UrDWkcE4SmT4"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Who Got The Keys?",
+        "url": "https://open.spotify.com/album/4dP12ieegu2eT6WDlO3pEa"
+      },
+      "artists": [
+        {
+          "name": "Moodena",
+          "url": "https://open.spotify.com/artist/1YGnrgB2TrCnJkNwlhJLiy"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Who Got The Keys?",
+      "url": "https://open.spotify.com/track/2KYnrKZcYOSeLF1QlMVa5S"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -863,18 +815,70 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Okay Okay / Hey Ciao Tu",
-        "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
+        "name": "A Walk In The Park",
+        "url": "https://open.spotify.com/album/4JdTOMCYQmd3hAs7rPaljc"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
         }
       ],
-      "duration_ms": 258096,
-      "name": "Okay Okay - Remastered",
-      "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
+      "duration_ms": 325880,
+      "name": "A Walk In The Park",
+      "url": "https://open.spotify.com/track/5pEhzp4WCBL1K7VKExV80d"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Nyame Ye",
+        "url": "https://open.spotify.com/album/6HWHgNy225PM3kFXXnuSnU"
+      },
+      "artists": [
+        {
+          "name": "Arp Frique",
+          "url": "https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb"
+        },
+        {
+          "name": "Mariseya",
+          "url": "https://open.spotify.com/artist/6CezXXzMXtPnjFvqu4kED1"
+        }
+      ],
+      "duration_ms": 353172,
+      "name": "Nyame Ye",
+      "url": "https://open.spotify.com/track/6ctHxfDxlMlXAIa3TG7uOe"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 405293,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/0rgGwEybYIQvqHf5qEkFOB"
     }
   ],
   "unique_name": "Rooftop Sunset",

@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 218440,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 183186,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4Anh5Ti55P6SXG3H94QLqV"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
@@ -696,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Perfect Angel (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7xGpVZEhEVctoAjpx3UgsS"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/1sFqKjiXz86m7GLrMeUNCh"
+    },
+    {
+      "album": {
         "name": "Barry Manilow II",
         "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
       },
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 161906,
       "name": "The Most Beautiful Girl",
       "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 207413,
       "name": "Touch Me In The Morning",
       "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 233106,
       "name": "Touch Me In The Morning - First Pressing Single Version",
       "url": "https://open.spotify.com/track/57pG9UVXGG8JcIdAVBXYAM"

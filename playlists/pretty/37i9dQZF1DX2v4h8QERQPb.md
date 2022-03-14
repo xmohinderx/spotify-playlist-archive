@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Wolty.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,257 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,287 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 27 | [Real \(Freestyle\)](https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Real \(Freestyle\)](https://open.spotify.com/album/0MnDifOrRyGobTPpzBAzPm) | 1:45 |
 | 28 | [Diririri](https://open.spotify.com/track/3DSaXrF1q8i6OXws4KvNgi) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Diririri](https://open.spotify.com/album/3kbNFyT6fwfAfojAENCgpY) | 2:45 |
 | 29 | [Nada Es Para Siempre](https://open.spotify.com/track/2QMBPx3fIO2JYFzIRRSfhI) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Nada Es Para Siempre](https://open.spotify.com/album/289rCJ7vXlZJaKNIDtVBgf) | 3:06 |
-| 30 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 |
+| 30 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Oscuro Éxtasis](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 |
 | 31 | [Cuando Entramos en Acción](https://open.spotify.com/track/1wNN9AHg48S1Ye1KNfgm2J) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Cuando Entramos en Acción](https://open.spotify.com/album/42n7d8yfCOFcXdlD8BFBkg) | 3:02 |
 | 32 | [DISCIPLINA](https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [DISCIPLINA](https://open.spotify.com/album/1PecmtWamLOvWahwn4aFbX) | 3:40 |
 | 33 | [MUGRE](https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MUGRE](https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb) | 4:19 |

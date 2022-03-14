@@ -63,7 +63,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 232760,
       "name": "All My Hope",
       "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 235733,
       "name": "Battles",
       "url": "https://open.spotify.com/track/14bqFNVPZc9Di315NcFVXy"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 266106,
       "name": "East To West",
       "url": "https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 240249,
       "name": "Gracefully Broken - Radio Version",
       "url": "https://open.spotify.com/track/6W9EPcObAGDpZosKp4IKcf"
@@ -501,10 +501,28 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 208480,
       "name": "He Knows",
       "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
+    },
+    {
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300933,
+      "name": "Heal Our Land",
+      "url": "https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28"
     },
     {
       "album": {
@@ -537,7 +555,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 405913,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 217655,
       "name": "Hope in Front of Me",
       "url": "https://open.spotify.com/track/4SmYmorGcZ2MBTO1RAkl3m"
@@ -645,7 +663,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 205738,
       "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 212466,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 224169,
       "name": "My Lighthouse",
       "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 259653,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 217799,
       "name": "Rise",
       "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"

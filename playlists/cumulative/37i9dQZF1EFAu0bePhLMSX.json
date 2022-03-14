@@ -1570,6 +1570,24 @@
     },
     {
       "album": {
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K"
+    },
+    {
+      "album": {
         "name": "Play To Win",
         "url": "https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv"
       },

@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 250333,
       "name": "1999",
       "url": "https://open.spotify.com/track/70Y2ZoJssFfGhqIxWfdDeP"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 118032,
       "name": "Boom Boom (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ"
@@ -499,6 +499,24 @@
       "duration_ms": 154483,
       "name": "Can I Call U Baby",
       "url": "https://open.spotify.com/track/2mMfkW04nw3sBm4Nvisqqj"
+    },
+    {
+      "album": {
+        "name": "CAP",
+        "url": "https://open.spotify.com/album/7uHEBlrPdIxnZDgJObWCW7"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156627,
+      "name": "CAP",
+      "url": "https://open.spotify.com/track/58Wf7PV3D0ZP7Z3raGXLa2"
     },
     {
       "album": {
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 150361,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4ZfJMUZL5hOoXgsPAwDHcs"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 339826,
       "name": "Fakin Jax",
       "url": "https://open.spotify.com/track/3ioow4HRcH86Jfx4NC4fmV"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 304933,
       "name": "Mind Blowin' (feat. Vinia Mojica)",
       "url": "https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 174822,
       "name": "Ring (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3Q7ve0W9OdEmWoCn5pDzJq"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
@@ -3269,10 +3287,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "album": {
+        "name": "HDIGH",
+        "url": "https://open.spotify.com/album/4Rs6ULV8vvXLigedAE6FUm"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Unbelievable",
+      "url": "https://open.spotify.com/track/0la0j39Xsph1SHDUJCXJkp"
     },
     {
       "album": {

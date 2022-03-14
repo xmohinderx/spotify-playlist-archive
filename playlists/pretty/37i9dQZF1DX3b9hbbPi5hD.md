@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 
 > Tarantino not only produces great movies, he produces great soundtracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,855 likes - 45 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,048 likes - 45 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 | 40 | [Satisfied Mind](https://open.spotify.com/track/4H8wbuOyL7gBXfzN2f8kQ6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 2:49 |
 | 41 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
 | 42 | [Love Is The Tender Trap](https://open.spotify.com/track/1mNodP87JBEkGg7cvhkcG7) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [True Romance](https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2) | 2:37 |
-| 43 | [Outshined](https://open.spotify.com/track/6T6JONiYEqVOxInB2uZDA0) | [Soundgarden](https://open.spotify.com/artist/76wLwh9WdGfgRZEJeYaQQp) | [True Romance](https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2) | 5:12 |
+| 43 | [Outshined](https://open.spotify.com/track/6T6JONiYEqVOxInB2uZDA0) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [True Romance](https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2) | 5:12 |
 | 44 | [I Want Your Body](https://open.spotify.com/track/1kLVrczTB5U6ljljVBJuBw) | [Nymphomania](https://open.spotify.com/artist/2gA8mpcqoWuwlXBmtBrxH1) | [True Romance](https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2) | 4:18 |
 | 45 | [Winged](https://open.spotify.com/track/5WRPV0uLJz0tVUqHb79f3X) | [James Russo](https://open.spotify.com/artist/2Gp78IIBNqoiSUlPGP67P4) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 0:08 |
 

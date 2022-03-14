@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: WHIPPED CREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,448 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,678 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 |
-| 2 | [fisticuffs \(featuring tiLLie\)](https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fisticuffs \(featuring tiLLie\)](https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd) | 3:57 |
-| 3 | [Ghost](https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Ghost](https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM) | 2:52 |
-| 4 | [Menace](https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Spiral](https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co) | 3:16 |
+| 1 | [Menace](https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Spiral](https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co) | 3:16 |
+| 2 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 |
+| 3 | [fisticuffs \(featuring tiLLie\)](https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fisticuffs \(featuring tiLLie\)](https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd) | 3:57 |
+| 4 | [Ghost](https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Ghost](https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM) | 2:52 |
 | 5 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 |
 | 6 | [Remember Me](https://open.spotify.com/track/6miku1r04c7k6Si5YsPBQV) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Remember Me](https://open.spotify.com/album/625yDsem91i2TTG029lreQ) | 4:18 |
 | 7 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [Know](https://open.spotify.com/track/41W378pBDusiaKGGhWga5k) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Intertwine](https://open.spotify.com/album/3lIzneooRtltAFfVnHU9SU) | 2:51 |
 | 75 | [Too Clean](https://open.spotify.com/track/1p2lHnoRzhlBqPqQN2XKEE) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Too Clean](https://open.spotify.com/album/54pGgb1TxPD1McxxCmVK5p) | 3:30 |
 
-Snapshot ID: `MTY0Njk3NjcyMiwwMDAwMDFlZTAwMDAwMTdmNzc3NjY1NmEwMDAwMDE3Zjc0ZTBmMjI0`
+Snapshot ID: `MTY0NzIxNjgxOSwwMDAwMDFlZjAwMDAwMTdmODVjNWZjYzMwMDAwMDE3Zjc0ZTBmMjI0`

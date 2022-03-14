@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,272 likes - 123 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,500 likes - 123 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 23 | [Eternals Theme \- From "Eternals"](https://open.spotify.com/track/7fGvtkfEoQsR5sQ5zFfclD) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Eternals Theme \(From "Eternals"\)](https://open.spotify.com/album/1v68hlQzaQIdzTeLDtvWF4) | 3:47 |
 | 24 | [Xu Shang\-Chi](https://open.spotify.com/track/0U1X5zc0wvbT6C3YQEpK0q) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 2:55 |
 | 25 | [Requiem](https://open.spotify.com/track/7hfbjHirvlvlQI2UfF8bGA) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Breton Vivian](https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll) | [1883: Season 1, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/24Rwfmdsh4NOwPwtr4EHtb) | 2:53 |
-| 26 | [The Lake](https://open.spotify.com/track/2cyUIoPzLmFVLN6hw1Kk84) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:45 |
+| 26 | [The Lake \(feat\. Gustave Rudman\)](https://open.spotify.com/track/2cyUIoPzLmFVLN6hw1Kk84) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Gustave Rudman](https://open.spotify.com/artist/2yGaqlHUHvNEpdRlmQCMEC) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:45 |
 | 27 | [Invasion Main Title \- From "Invasion"](https://open.spotify.com/track/1jYHpFrJkXfDfOGlLDevTS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Invasion Main Title \(From "Invasion"\)](https://open.spotify.com/album/4nTgXALKpr4TfilVVM7dNG) | 1:16 |
 | 28 | [Le secret](https://open.spotify.com/track/1yEPMwd5y36JpZcETVWVYI) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 3:51 |
 | 29 | [Saying Goodbye \- Piano Solo / From ''Cyrano'' Soundtrack](https://open.spotify.com/track/2LttX2qhl2Sr3Hhigw6hRs) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Saying Goodbye \(Piano Solo / From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/2ZCIiItnYB4Ha7tmvLdfuU) | 1:26 |

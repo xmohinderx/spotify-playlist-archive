@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 298624,
       "name": "Anh Mu\u1ed1n Em V\u1ec1 Nh\u00e0 (feat. Cris)",
       "url": "https://open.spotify.com/track/6YQfxpvrDEpZrZbeBmuH7u"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 271633,
       "name": "H\u00e0ng Gh\u1ebf \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/0OnBxawP1ziLfMG0bANZgF"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 269406,
       "name": "H\u00f2 Khoan",
       "url": "https://open.spotify.com/track/6eYKSlbWNZ3EHdrLwSolhB"
@@ -3829,7 +3829,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 158964,
       "name": "V\u01b0\u01a1n T\u1ea7m",
       "url": "https://open.spotify.com/track/0RtX9Lw9qwwaLDJ6sndmCl"
@@ -4011,6 +4011,42 @@
       "duration_ms": 196853,
       "name": "\u00c0 M\u00e0 Th\u00f4i (c\u00f3 ng\u01b0\u1eddi lu\u00f4n n\u00f3i...)",
       "url": "https://open.spotify.com/track/1HkqIHTJikkQWXdS0wRIKp"
+    },
+    {
+      "album": {
+        "name": "\u00cdt Nh\u01b0ng D\u00e0i L\u00e2u (Nam Con)",
+        "url": "https://open.spotify.com/album/2c6ipImxvhL43d13Awlq5U"
+      },
+      "artists": [
+        {
+          "name": "TVN Remix",
+          "url": "https://open.spotify.com/artist/4BRcB0q6ADNr6V9MYDAY0j"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193854,
+      "name": "\u00cdt Nh\u01b0ng D\u00e0i L\u00e2u (Nam Con)",
+      "url": "https://open.spotify.com/track/1KtjlfQVRvkkFYnIaYVi1A"
+    },
+    {
+      "album": {
+        "name": "\u00cdt Nh\u01b0ng D\u00e0i L\u00e2u (Remix)",
+        "url": "https://open.spotify.com/album/6WBxoORHYCMCX5BntRZ9Tn"
+      },
+      "artists": [
+        {
+          "name": "Yan Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/1xfmPLQJuQ5xyjXhmLWntH"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258005,
+      "name": "\u00cdt Nh\u01b0ng D\u00e0i L\u00e2u - Remix",
+      "url": "https://open.spotify.com/track/5mwCw07zw0XTFHM6g0mvw2"
     },
     {
       "album": {

@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 200861,
       "name": "Everybody Wants You",
       "url": "https://open.spotify.com/track/0xEz3xO1V18R3z9p2kni5C"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 175643,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/375kzpRydDdOxOSCGMK53b"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 231527,
       "name": "Just A Mess",
       "url": "https://open.spotify.com/track/24RCh9nhADnz72QwspioB6"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 141052,
       "name": "Most People",
       "url": "https://open.spotify.com/track/1KCon9P4bPjLGFBGyTLt6f"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 134087,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 169700,
       "name": "Over It",
       "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 175244,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/0H5fa5efEeedloCGpTvst4"
@@ -2149,6 +2149,24 @@
       "duration_ms": 160871,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q"
+    },
+    {
+      "album": {
+        "name": "Sad To See You Happy",
+        "url": "https://open.spotify.com/album/0HxhtexTu3zoF0tqhQ0gnk"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lunny",
+          "url": "https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174920,
+      "name": "Sad To See You Happy",
+      "url": "https://open.spotify.com/track/6ffcV0j4CLdpOE5CLLVzWm"
     },
     {
       "album": {
@@ -2295,7 +2313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 160289,
       "name": "Summer Feelings (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/7l7SKt5BsDiiS6CjtaW1fO"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 192947,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 192338,
       "name": "you broke me first - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/0kTIH2zbc1jvIHoCOCoNnr"

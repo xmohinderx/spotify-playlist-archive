@@ -1628,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "astroman",
+        "url": "https://open.spotify.com/album/3yIpwCXIrs6jM0BWhmbwMx"
+      },
+      "artists": [
+        {
+          "name": "Zimri",
+          "url": "https://open.spotify.com/artist/2E75OsKarvMnuMwNScEkpW"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "astroman",
+      "url": "https://open.spotify.com/track/0VrdyHqdN8ybOgz64DMWKN"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
       },
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 248933,
       "name": "Buy Yourself a Dream",
       "url": "https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG"
@@ -6159,7 +6177,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 210944,
       "name": "Ego M\u00e9galo",
       "url": "https://open.spotify.com/track/5emJwSB8vwPnpvzmkhlsl5"
@@ -10173,7 +10191,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 349978,
       "name": "I Loved You More Than You Thought I Would",
       "url": "https://open.spotify.com/track/7b9JJ0a06sh43q4uhDNqsV"
@@ -11663,7 +11681,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 216470,
       "name": "Kehlani",
       "url": "https://open.spotify.com/track/1XNW3iesmPF1jzMwk8qPFb"
@@ -13437,7 +13455,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 131000,
       "name": "LuLu Lemon",
       "url": "https://open.spotify.com/track/4AAAqrWDHCO57tO6Lo4son"
@@ -16779,7 +16797,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 256075,
       "name": "People Clap Hands",
       "url": "https://open.spotify.com/track/7xNhokOqKsPYR2RHqaOaLs"
@@ -19313,7 +19331,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 176413,
       "name": "Someday All This Pain Will Be Useful",
       "url": "https://open.spotify.com/track/7zcMMzn78hRiW71G4Zx2oD"
@@ -22585,7 +22603,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 195454,
       "name": "Untamed",
       "url": "https://open.spotify.com/track/41binbQGuTMcIMwdsXrpNs"
@@ -23455,7 +23473,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 256359,
       "name": "What A Difference A Day Made",
       "url": "https://open.spotify.com/track/6eyvtNOtYM6PxqMkq0Hw33"

@@ -120,6 +120,28 @@
     },
     {
       "album": {
+        "name": "Amarte Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5giToj99boJgcQQKCY8JVI"
+      },
+      "artists": [
+        {
+          "name": "Jair Mendoza",
+          "url": "https://open.spotify.com/artist/0xB8euVKujrw0bbj9MBgyr"
+        },
+        {
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237850,
+      "name": "Amarte Hasta la Muerte",
+      "url": "https://open.spotify.com/track/2thJdhgnelJ8yEQsHRbqmS"
+    },
+    {
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
       },
@@ -211,7 +233,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 208152,
       "name": "Boogaloo Supreme",
       "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
@@ -425,7 +447,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 232250,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/3rwerGOgNZKWfmYL3XmtkZ"
@@ -519,7 +541,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
@@ -799,7 +821,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 240293,
       "name": "Ella Lo Que Quiere Es Salsa (feat. Voltio & Jowell y Randy)",
       "url": "https://open.spotify.com/track/1NYnEnr9EkA0r0ZoYNTocN"
@@ -817,7 +839,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 302826,
       "name": "Ella Se Hizo Deseo",
       "url": "https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo"
@@ -879,7 +901,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 304640,
       "name": "Juguete de Nadie",
       "url": "https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR"
@@ -1085,7 +1107,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 374840,
       "name": "La Pantera Mambo",
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 257483,
       "name": "La Pel\u00edcula II",
       "url": "https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 248697,
       "name": "Mala (feat. Victor Manuelle) - Salsa Remix",
       "url": "https://open.spotify.com/track/6ZIzbuU1QzGpSfFdWFKKqL"
@@ -1393,7 +1415,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 212045,
       "name": "Me Tienes Mal",
       "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
@@ -1491,7 +1513,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
@@ -1549,7 +1571,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 245163,
       "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
       "url": "https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG"
@@ -1625,7 +1647,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 224826,
       "name": "Pa Bravo Yo",
       "url": "https://open.spotify.com/track/1reO9cqAkoJUWQw29KwA6S"
@@ -1647,7 +1669,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 243250,
       "name": "Pa Que Caliente",
       "url": "https://open.spotify.com/track/2hYMUJfIeNLMFOaZHX3m6a"
@@ -1981,7 +2003,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 298306,
       "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
       "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
@@ -2281,7 +2303,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 258636,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/4e8sb5gR73rQVgdARJ59Dm"
@@ -2299,7 +2321,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 234286,
       "name": "Trancao'",
       "url": "https://open.spotify.com/track/3FihPkBwuowuSxyfiGFwhI"
@@ -2569,7 +2591,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 249160,
       "name": "Viene y Se Va",
       "url": "https://open.spotify.com/track/07wgpM7gK7K1u68grjWnxo"

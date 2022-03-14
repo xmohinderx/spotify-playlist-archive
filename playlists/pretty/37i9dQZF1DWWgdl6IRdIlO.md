@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 
 > Слушай российских исполнительниц на полной громкости\. На обложке: МЭЙБИ БЭЙБИ
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,237 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,251 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

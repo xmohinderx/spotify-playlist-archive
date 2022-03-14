@@ -3926,6 +3926,24 @@
     },
     {
       "album": {
+        "name": "Honey Chile",
+        "url": "https://open.spotify.com/album/3lQq46iProBNWmiadw2zRA"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "Honey Chile",
+      "url": "https://open.spotify.com/track/2WK1OSe83Ik3dNqMkDoOzN"
+    },
+    {
+      "album": {
         "name": "Honky Tonk Boots",
         "url": "https://open.spotify.com/album/6N0mFLasumH7G1MegiZeQ8"
       },
@@ -4234,7 +4252,7 @@
         },
         {
           "name": "Plant",
-          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+          "url": "https://open.spotify.com/artist/5UQxUk54U5dQvF9Ql9g4yx"
         },
         {
           "name": "Tigirlily",

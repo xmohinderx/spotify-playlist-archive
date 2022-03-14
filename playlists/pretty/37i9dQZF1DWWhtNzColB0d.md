@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhtNzColB0d.md) - [plain]
 
 > Flaubert, Hugo, Balzac, Dumas, Stendhal, Maupassant..\. audio versions of classic French novels and short stories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,945 likes - 40 songs - 1 day 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,943 likes - 40 songs - 1 day 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

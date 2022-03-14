@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-08-30",
-  "description": "With Bruno Mars, PARTYNEXTDOOR, James Timber, Bueno and more",
+  "description": "With Bruno Mars, Bueno, Dawin, Jordan Fisher and more",
   "name": "24K Magic Radio",
   "published_playlist_ids": [
     "1BhMYZPvWoqkovqn1vMjMs"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Bacon",
       "url": "https://open.spotify.com/track/5W4vPDfwFNQqt7frRjL41t"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 227250,
       "name": "Build The Beat",
       "url": "https://open.spotify.com/track/1za5fakUqxQMpaFvBT8UuO"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 218833,
       "name": "California (Remix)",
       "url": "https://open.spotify.com/track/0jvx7aqwPlXRDYGINocgdg"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
@@ -1648,6 +1648,28 @@
     },
     {
       "album": {
+        "name": "Cheerleader (feat. Kid Ink) [Felix Jaehn vs Salaam Remi Remix]",
+        "url": "https://open.spotify.com/album/0v7gjuTLLwiaA8lewt2P3x"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Cheerleader (feat. Kid Ink) - Felix Jaehn vs Salaam Remi Remix",
+      "url": "https://open.spotify.com/track/1GjEZraby4E4hevkpItlok"
+    },
+    {
+      "album": {
         "name": "Cheerleader (Felix Jaehn Remix Live 2015)",
         "url": "https://open.spotify.com/album/1Emi94Sz0rg8P9RWO8WwNA"
       },
@@ -1914,6 +1936,24 @@
     },
     {
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197469,
+      "name": "Count on Me",
+      "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
+    },
+    {
+      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
       },
@@ -1983,10 +2023,36 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 179333,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/7BfSU2ya7PZtqrl48urKqG"
+    },
+    {
+      "album": {
+        "name": "Dangerous (feat. Jussie Smollett & Estelle)",
+        "url": "https://open.spotify.com/album/5AY73Kmj2ddx81gSCxU6Qz"
+      },
+      "artists": [
+        {
+          "name": "Empire Cast",
+          "url": "https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA"
+        },
+        {
+          "name": "Jussie Smollett",
+          "url": "https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "Dangerous (feat. Jussie Smollett & Estelle)",
+      "url": "https://open.spotify.com/track/4IrQZV0pREmgCRulOnGHJJ"
     },
     {
       "album": {
@@ -2709,7 +2775,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 235731,
       "name": "Finesse - James Hype Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/04OERuULAbFq54j25v5dZ4"
@@ -2757,7 +2823,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 217288,
       "name": "Finesse - Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
@@ -2775,7 +2841,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 253226,
       "name": "Fire To The Floor",
       "url": "https://open.spotify.com/track/0nwJXn8Mroo2SoDgTC8OBv"
@@ -3135,10 +3201,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 190185,
       "name": "GDFR (feat. Sage the Gemini & Lookas)",
       "url": "https://open.spotify.com/track/26rdOwwjC2UnweK3xeS58u"
+    },
+    {
+      "album": {
+        "name": "The MANuscript",
+        "url": "https://open.spotify.com/album/2ErdMTiDGUrq3ZYsRt33fo"
+      },
+      "artists": [
+        {
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178056,
+      "name": "Geometry",
+      "url": "https://open.spotify.com/track/4Zc7lagND249NPhk8dWJga"
     },
     {
       "album": {
@@ -3157,7 +3241,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 176848,
       "name": "Get It Baby (feat. Big Daddy Kane)",
       "url": "https://open.spotify.com/track/6dDhMwFhsm5gkXZC1GBS3P"
@@ -3383,7 +3467,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 216733,
       "name": "Good Time (feat. Pitbull)",
       "url": "https://open.spotify.com/track/1c0Ul1xgqglVmQmxktHnSo"
@@ -3416,6 +3500,32 @@
     },
     {
       "album": {
+        "name": "Good Time (The Remixes) (feat. Pitbull)",
+        "url": "https://open.spotify.com/album/1BXjj8rFPfC8BObpafMVwM"
+      },
+      "artists": [
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Moto Blanco",
+          "url": "https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205255,
+      "name": "Good Time (feat. Pitbull) - Moto Blanco Remix",
+      "url": "https://open.spotify.com/track/4gq1IoByNIMZDpS99wfZHc"
+    },
+    {
+      "album": {
         "name": "Magazines Or Novels (Deluxe Edition)",
         "url": "https://open.spotify.com/album/56PEwDj8MsEz0U90NeMFIC"
       },
@@ -3445,7 +3555,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 198388,
       "name": "Good Vibrations - from \"The Emoji Movie\"",
       "url": "https://open.spotify.com/track/0L4Fa4uuIPsDw5380F9FyJ"
@@ -3483,7 +3593,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 233266,
       "name": "Gotta Be Me",
       "url": "https://open.spotify.com/track/58iuuMeVzgGhCwhnx3zBAP"
@@ -3567,10 +3677,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 370811,
       "name": "Grenade - Passion Pit Remix",
       "url": "https://open.spotify.com/track/7HjK2whApIuUgRVP8akqjk"
+    },
+    {
+      "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/1mw2qPQUyVXXFVFyskGoTt"
+      },
+      "artists": [
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/05Sr3aEq5SEbhfrUIPGgMv"
     },
     {
       "album": {
@@ -3929,7 +4057,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 175506,
       "name": "How Far I'll Go - Alessia Cara Version",
       "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
@@ -4435,7 +4563,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 226720,
       "name": "I Would Like",
       "url": "https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6"
@@ -4859,9 +4987,27 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "date_added": "2022-03-13",
+      "date_added": "2022-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 444657,
+      "name": "Just the Way You Are - Manufactured Superstars and Jquintal Remix",
+      "url": "https://open.spotify.com/track/04T47lGsiQU6x1cV9GhgDN"
+    },
+    {
+      "album": {
+        "name": "Just the Way You Are (Remix)",
+        "url": "https://open.spotify.com/album/7BzP09BlvvE4ioNgvdLrdm"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-14",
       "duration_ms": 426437,
       "name": "Just the Way You Are - Steve Smart & Westfunk Club Mix",
       "url": "https://open.spotify.com/track/2GdcDOXu8HLFAP9hxANXb7"
@@ -4879,7 +5025,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 196999,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/1R7wEQ4AMgcNzSN7GkGuid"
@@ -5073,7 +5219,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
@@ -5483,7 +5629,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 221785,
       "name": "Love in the Summer",
       "url": "https://open.spotify.com/track/1y7ym0y0VJkEghA7fe7pMY"
@@ -5505,7 +5651,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 232410,
       "name": "Love Is the Name",
       "url": "https://open.spotify.com/track/0TWcbe0p1mkLcf2FZWq0bo"
@@ -5549,7 +5695,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 217530,
       "name": "Love Like We Used To (feat. Nateur) - Party Pupils Remix",
       "url": "https://open.spotify.com/track/1GmVywXhzrW9bbTowwNl9m"
@@ -5793,7 +5939,7 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
@@ -5983,7 +6129,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 216097,
       "name": "Move Me (feat. Brendan Reilly)",
       "url": "https://open.spotify.com/track/6wS1Gy6As0gt7s8LAdb7E7"
@@ -6249,7 +6395,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 217641,
       "name": "No Mistake in Love - Remix",
       "url": "https://open.spotify.com/track/5ZliDBhY4HSCPHykkFJt8F"
@@ -6311,10 +6457,32 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 241164,
       "name": "Not so Dangerous",
       "url": "https://open.spotify.com/track/5l7B3iSi9yeQP1g26KhHgi"
+    },
+    {
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268320,
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
     },
     {
       "album": {
@@ -6457,7 +6625,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 214431,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/6rZjEUxUXGue4D70LJP7SH"
@@ -6719,7 +6887,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 210053,
       "name": "Perm",
       "url": "https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC"
@@ -6773,7 +6941,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 233898,
       "name": "Play That Sax",
       "url": "https://open.spotify.com/track/34AUM3kk7eOBzTZUvpC9fR"
@@ -7017,7 +7185,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 232131,
       "name": "Riches in Heaven",
       "url": "https://open.spotify.com/track/4A23W0K8dt6iRW8LfYDlKZ"
@@ -7169,7 +7337,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 305661,
       "name": "Rockabye (feat. Sean Paul & Anne-Marie) - Jack Wins Remix",
       "url": "https://open.spotify.com/track/2EUfYEFlPfssvV8WCaQbte"
@@ -7257,7 +7425,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 148448,
       "name": "Runaway Baby",
       "url": "https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr"
@@ -7315,7 +7483,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 262666,
       "name": "Scars To Your Beautiful - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/5UoMSGagNyn3igQjs8JIcn"
@@ -7497,7 +7665,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -7635,7 +7803,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "Shining (feat. Beyonc\u00e9 & Jay-Z)",
       "url": "https://open.spotify.com/track/7Fa5UNizycSms5jP3SQD3F"
@@ -7675,7 +7843,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 220773,
       "name": "Shout Out to My Ex - Steve Smart Epic Edit",
       "url": "https://open.spotify.com/track/6ChWz7rw9qVtcg9HayUDP3"
@@ -7961,7 +8129,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 209773,
       "name": "Somebody Loves You",
       "url": "https://open.spotify.com/track/1jAMA8Ut39vHYfso9WfRUZ"
@@ -8027,6 +8195,24 @@
       "duration_ms": 219986,
       "name": "Sorry - Latino Remix",
       "url": "https://open.spotify.com/track/3grxgV6Ot8KqtysApjYLs1"
+    },
+    {
+      "album": {
+        "name": "Sorry / Love Yourself",
+        "url": "https://open.spotify.com/album/2gma4VgvWVXF6T6MeMPW62"
+      },
+      "artists": [
+        {
+          "name": "Ahmir",
+          "url": "https://open.spotify.com/artist/7zGwX4OwwtrvIT1xg3ocrr"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231703,
+      "name": "Sorry / Love Yourself",
+      "url": "https://open.spotify.com/track/1zEiHjMTtaZtH5UBzJhOF0"
     },
     {
       "album": {
@@ -8223,7 +8409,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
@@ -8880,6 +9066,28 @@
     },
     {
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6L6kIO8sEhxQVPz2Xk26kf"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191311,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/6C6MLXm77V9VH0v27oJRak"
+    },
+    {
+      "album": {
         "name": "x (Wembley Edition)",
         "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
@@ -8909,7 +9117,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 228250,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/2Q18DQ9ohYiqMdYKvcv6Lp"
@@ -9281,7 +9489,7 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 208278,
       "name": "Treasure - Cash Cash Radio Mix",
       "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
@@ -9479,7 +9687,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
@@ -9569,6 +9777,28 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "Uptown Funk (feat. Bruno Mars) - Wideboys VIP Remix",
+      "url": "https://open.spotify.com/track/5U84vBvWfmZZuT2uqupmmB"
+    },
+    {
+      "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
       "date_removed": "2022-03-07",
@@ -9636,6 +9866,24 @@
     },
     {
       "album": {
+        "name": "Life On Earth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5dbMWd48nIllg508uObgjk"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306887,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/2cIRn4CxXUzXK3uYd3O9y6"
+    },
+    {
+      "album": {
         "name": "Everything Is 4",
         "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
       },
@@ -9691,7 +9939,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 249523,
       "name": "Watch Me (Whip / Nae Nae) - Richard Vission Remix",
       "url": "https://open.spotify.com/track/4SYLxtZVXqSurRoK1DxzpV"

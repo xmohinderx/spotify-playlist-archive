@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Kx5
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,511 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,552 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 87 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 88 | [Horizon](https://open.spotify.com/track/7Mqdzo9NcZLUwTAoyV2AeE) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Horizon](https://open.spotify.com/album/43MmWS3TZ60DH9XKn6SPwv) | 7:44 |
 | 89 | [Follow Me](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me](https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK) | 2:49 |
-| 90 | [Pieces](https://open.spotify.com/track/1md4HSE2DTmnCn9kpm8mFM) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Pieces](https://open.spotify.com/album/1Q5IKrHVGNhzLH9kEGn5um) | 2:52 |
+| 90 | [Pieces \- with VIZE & Leony](https://open.spotify.com/track/1md4HSE2DTmnCn9kpm8mFM) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Pieces \(with VIZE & Leony\)](https://open.spotify.com/album/1Q5IKrHVGNhzLH9kEGn5um) | 2:52 |
 | 91 | [Highs & Lows](https://open.spotify.com/track/0C4UvEq6FuCLPwFpQo3j4a) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Highs & Lows](https://open.spotify.com/album/0omLFmkXUTdKuXAnixPDo4) | 2:53 |
 | 92 | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Bemendé](https://open.spotify.com/artist/0c7d29gRcEyNSzLLNcnCiq) | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/album/3frz7gq4fuN3nIu2qfP6Ki) | 2:46 |
 | 93 | [Sint Maarten](https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Delaram Kamareh](https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB) | [Sint Maarten](https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O) | 4:31 |

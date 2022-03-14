@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Kai Landre, Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,195 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,340 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 28 | [FEELS LIKE AN OVERDOSE](https://open.spotify.com/track/0r4b9QYeK2BsYHKE3Wq8nQ) | [Sus1er](https://open.spotify.com/artist/7z5Ba9Bg6XEPY0s7KJyzDM) | [FEELS LIKE AN OVERDOSE](https://open.spotify.com/album/7DkDVdsXJVycGWs16PtnEf) | 4:51 |
 | 29 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
 | 30 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 |
-| 31 | [Coral Dawn](https://open.spotify.com/track/6fKsCeZfS5MKpNXgu6FGbP) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Coral Dawn](https://open.spotify.com/album/0qnqq2cJPjLgWRyA8KboQ1) | 4:17 |
-| 32 | [Mod Aki Kasa](https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Pararatronic](https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL) | 3:46 |
-| 33 | [Broken Theme](https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ) | [Chrome Canyon](https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T) | [Director](https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL) | 2:09 |
-| 34 | [Greetings From Dave](https://open.spotify.com/track/2esi96DLJFBgjjtUxyH2GI) | [Kreidler](https://open.spotify.com/artist/6YuaNIJm6LAKBvRdb8PGIt) | [Spells and Daubs](https://open.spotify.com/album/0iFbTMV6YQsccp8bKWvLfh) | 3:34 |
-| 35 | [Mist & Static](https://open.spotify.com/track/3fy1TdDdHihdwb6HIEnzZ2) | [Cremation Lily](https://open.spotify.com/artist/0cLSrHAGimBuxfOfgyRvPg), [Knifedoutofexistence](https://open.spotify.com/artist/1vvKPvo2R0GJL0lcSKsB5r) | [Mist & Static](https://open.spotify.com/album/41iiQLatGzY183RzJPkxvZ) | 4:44 |
-| 36 | [Storme](https://open.spotify.com/track/1t2zdUDyGzJm7Pa2OcHaQv) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 4:21 |
-| 37 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
-| 38 | [Dawn Chorus](https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Guidance in Dreams](https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ) | 2:11 |
-| 39 | [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 |
-| 40 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 |
-| 41 | [Susan's Song](https://open.spotify.com/track/1Umm64doTOieuo3wskoSs5) | [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD) | [While Mortals Sleep \(Original Score\)](https://open.spotify.com/album/0YEWdPkqsw060O3FCFnGdd) | 1:59 |
-| 42 | [In The First Leaves](https://open.spotify.com/track/5MFAwPynfC4fhF2VBiXaaP) | [Armbruster](https://open.spotify.com/artist/0CVYWbFqszUZFuns0Rfu01) | [In The First Leaves](https://open.spotify.com/album/59RKWDd5KLSkH1Xop5zffz) | 3:10 |
-| 43 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
-| 44 | [Z Miles](https://open.spotify.com/track/0KKUgLDYaYeWYbZFX3WsuO) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 4:01 |
-| 45 | [Oinones Death, Pt\. I](https://open.spotify.com/track/2iPNjVElXUUcqTTrMEWLwn) | [Maria w Horn](https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak) | [Oinones Death, Pt\. I](https://open.spotify.com/album/3mjFVTjW0AS8WwJlUBuYEA) | 5:36 |
-| 46 | [Songbook](https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY) | [JUNES K](https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl) | [Songbook](https://open.spotify.com/album/6h5PJAUjqtHpbtqecwQlIU) | 2:56 |
-| 47 | [Pale Pink](https://open.spotify.com/track/2S4B9BBMR0Kv4OBB80eiL7) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [Face To Time Case](https://open.spotify.com/album/2YtBly9pFVxjdiVqRSPXYy) | 2:40 |
-| 48 | [Lost In Cyberspace](https://open.spotify.com/track/4jlg3sAomqzv3h0ccndkfa) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Lost In Cyberspace](https://open.spotify.com/album/60czEHzF6zWI3DA5vW1IPX) | 1:09 |
-| 49 | [7.3](https://open.spotify.com/track/5NOlafkoOxH8fH1x38fK1H) | [Papir](https://open.spotify.com/artist/06C98uwTFduwmzsuaLWFA9) | [7](https://open.spotify.com/album/3OmKgkkT5GElgc0Ff1LA42) | 8:09 |
-| 50 | [A Journey](https://open.spotify.com/track/1GIYpjzOEc5P3IYDdFnd1Y) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [A Journey](https://open.spotify.com/album/3V0YGFc0je36jletTUWoKZ) | 4:16 |
+| 31 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
+| 32 | [no.1](https://open.spotify.com/track/7nYaiWO0lXzHvPnTvPljAH) | [Koji Nakamura](https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N), [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Takashi Numazawa](https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx) | [Humanity](https://open.spotify.com/album/5S2uulm3pnI4KrLBs1Z521) | 1:46 |
+| 33 | [Oinones Death, Pt\. I](https://open.spotify.com/track/2iPNjVElXUUcqTTrMEWLwn) | [Maria w Horn](https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak) | [Oinones Death, Pt\. I](https://open.spotify.com/album/3mjFVTjW0AS8WwJlUBuYEA) | 5:36 |
+| 34 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 |
+| 35 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 |
+| 36 | [nothing is sacred](https://open.spotify.com/track/4IwzkSIrXqS5KHn1vwXnLW) | [sweeep](https://open.spotify.com/artist/44AMYUwAQZq6GzYPJO0Nn2) | [nothing is sacred](https://open.spotify.com/album/50d6g0uf7VD3zORNybntJM) | 2:27 |
+| 37 | [Gazelle Rites](https://open.spotify.com/track/7DqphOA6kAHi4UlYhfEtBM) | [Sis](https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2) | [Gnani](https://open.spotify.com/album/5d7DwZyHzn7jIYlp7J9eZU) | 3:23 |
+| 38 | [Resistance Edited](https://open.spotify.com/track/4uizuPJsm4UkfRkRnROvle) | [Pelt](https://open.spotify.com/artist/1smNHOqVA2rin6rBV9KKFw) | [Resistance Edited](https://open.spotify.com/album/6g7AAsjZWDvKU3hyPj6Q9n) | 3:03 |
+| 39 | [Invierno](https://open.spotify.com/track/2PrXFWtMzClqhoCcACdfKZ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Frecuencias](https://open.spotify.com/album/6ZRpYwVvo9cXjBekMTm78o) | 7:03 |
+| 40 | [Tissues](https://open.spotify.com/track/0pl4Id480tDoYfsn0BmA9o) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Tissues](https://open.spotify.com/album/2AgYzS3FeYcOkR2yady4hQ) | 54:25 |
+| 41 | [Songbook](https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY) | [JUNES K](https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl) | [Songbook](https://open.spotify.com/album/6h5PJAUjqtHpbtqecwQlIU) | 2:56 |
+| 42 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
+| 43 | [Escape Cape](https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Escape Cape](https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0) | 4:25 |
+| 44 | [Endongo](https://open.spotify.com/track/4HJZxDr6ZL2qtYtrTD6V0M) | [Nihiloxica](https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL) | [Nihiloxica](https://open.spotify.com/album/5bJXJrJ6lJcdhXrdphNYhe) | 6:25 |
+| 45 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 |
+| 46 | [Chiller](https://open.spotify.com/track/5mxRn2DiaRSIXBfNzS8PXV) | [Joardy Film](https://open.spotify.com/artist/7Aewol67hxDlXPDWKxKOs7), [Jesper Ankarfeldt](https://open.spotify.com/artist/6nIiixQiQwmApBIxLxpngw) | [HARCO](https://open.spotify.com/album/50B1RdfFTwwUs7HyAO3SeO) | 0:50 |
+| 47 | [Lost In Cyberspace](https://open.spotify.com/track/4jlg3sAomqzv3h0ccndkfa) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Lost In Cyberspace](https://open.spotify.com/album/60czEHzF6zWI3DA5vW1IPX) | 1:09 |
+| 48 | [In The First Leaves](https://open.spotify.com/track/5MFAwPynfC4fhF2VBiXaaP) | [Armbruster](https://open.spotify.com/artist/0CVYWbFqszUZFuns0Rfu01) | [In The First Leaves](https://open.spotify.com/album/59RKWDd5KLSkH1Xop5zffz) | 3:10 |
+| 49 | [G303](https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw) | [Jacek Sienkiewicz](https://open.spotify.com/artist/5rmOkK7yIwlt5NAJDElVgu) | [Krasz](https://open.spotify.com/album/6q6jFy6zI7GZaHKltHbiLH) | 4:51 |
+| 50 | [Hope](https://open.spotify.com/track/300axL2BgjBWYPJpYjPYxm) | [Aman Jagwani](https://open.spotify.com/artist/1tPPcb50f30mPgZdBq4hWx), [Anubha Kaul](https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS), [Fryderyk HD](https://open.spotify.com/artist/7aekh5wH9rnsgPAM0aOmY4) | [Hope](https://open.spotify.com/album/1MOxduRyFE8Sw4gsXC1x3L) | 6:27 |
 
-Snapshot ID: `MTY0NzEzMjcyMCwwMDAwMDAwMDZhY2U5ZDExYmUyYzhhNmI1MTA0YmYyYjVmYWJlNmM0`
+Snapshot ID: `MTY0NzIxOTIxMCwwMDAwMDAwMDg1N2RhMmFmODFmNGYxZmFiMzEwNDFlNzc3YjIxMTdk`

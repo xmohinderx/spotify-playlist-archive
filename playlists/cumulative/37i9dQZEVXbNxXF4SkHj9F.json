@@ -2951,7 +2951,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -3199,7 +3199,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 228615,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
@@ -7221,13 +7221,13 @@
           "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
         },
         {
-          "name": "Pateko",
+          "name": "PATEKO",
           "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         }
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 238736,
       "name": "OHAYO MY NIGHT",
       "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
@@ -10913,6 +10913,24 @@
       "duration_ms": 262120,
       "name": "Winter Sleep",
       "url": "https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB"
+    },
+    {
+      "album": {
+        "name": "Winter Spring",
+        "url": "https://open.spotify.com/album/3qGehi71Ks2W237Vb2f2Qq"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Winter Spring",
+      "url": "https://open.spotify.com/track/1JUfVQxyt17lszAHbno101"
     },
     {
       "album": {

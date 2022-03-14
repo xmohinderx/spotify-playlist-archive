@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 156853,
       "name": "Archers",
       "url": "https://open.spotify.com/track/0rQyr2LkdMpJqGF1pfxwJi"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 201840,
       "name": "Bottom Of The Sea",
       "url": "https://open.spotify.com/track/6w4gUoH4w2ytT0hzQeEwFv"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Burning Earth",
       "url": "https://open.spotify.com/track/3Tx2cWkwWRbQdnf45a2YLm"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 189026,
       "name": "Greatest Enemy",
       "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 183379,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "I Don't Really Care For You",
       "url": "https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 201875,
       "name": "I Know the Way Home",
       "url": "https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 175413,
       "name": "I Wish I Knew Jesus - Like You Do",
       "url": "https://open.spotify.com/track/4AA8t1KeyuycKusIjHcAYE"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 191986,
       "name": "Kick Out the Windows - Radio Edit",
       "url": "https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1"
@@ -1881,7 +1881,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 182640,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/3OCXPJdjn36BPPZ8RPMlnj"
@@ -1903,6 +1903,24 @@
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
+    },
+    {
+      "album": {
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/59gdaLyBocDMZs3fTYRUtQ"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207167,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/1NZxALMXgmzpFTnDH9gYd3"
     },
     {
       "album": {
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 206173,
       "name": "Pure Desire",
       "url": "https://open.spotify.com/track/7aYYqWsMiZaKOlvIj3KxY8"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 198040,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 175946,
       "name": "Swim the River",
       "url": "https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 185231,
       "name": "Tender feat. Yoke Lore",
       "url": "https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 202110,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 171800,
       "name": "The Worth Of The Wait",
       "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 204683,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/7jvbxB4On47Hl33C0qA88B"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 228920,
       "name": "What to Do",
       "url": "https://open.spotify.com/track/01yXBrB0ddIzRaIfGk3ZrG"
@@ -2835,7 +2853,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-14",
       "duration_ms": 225646,
       "name": "You Know the Way",
       "url": "https://open.spotify.com/track/5lrjZi5VNHqzr2UOBQvpka"
