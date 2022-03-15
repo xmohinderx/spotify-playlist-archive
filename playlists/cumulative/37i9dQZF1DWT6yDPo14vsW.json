@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 245720,
       "name": "Amame",
       "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Sin Fecha De Vencimiento",
+        "url": "https://open.spotify.com/album/4slYXqoITTdZhwMGy3yeOm"
+      },
+      "artists": [
+        {
+          "name": "Negros",
+          "url": "https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266933,
+      "name": "Buscando Paz",
+      "url": "https://open.spotify.com/track/1QO7qJkg7JSq4Pxyz704Mn"
+    },
+    {
+      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 466133,
       "name": "Como Decirte No / Te Veo Venir Soledad - Live Version",
       "url": "https://open.spotify.com/track/4XYmRB6KDPSJCZBmqFfOtm"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 267280,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/139SxHqKl7YOmuC1RAnmpJ"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 187626,
       "name": "Me Cans\u00e9 De Ti",
       "url": "https://open.spotify.com/track/1pxmhFimjs0SGi5CH1OmXB"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 192613,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 219853,
       "name": "Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/7r6N3v65Oq4lkViGiCWcB7"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 299786,
       "name": "Querido Tommy",
       "url": "https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 171320,
       "name": "Qu\u00e9 Vida la M\u00eda",
       "url": "https://open.spotify.com/track/3T0OdyDjFtltn1nHH4j06U"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 216986,
       "name": "Solo Importas Tu",
       "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 195710,
       "name": "Te Confieso",
       "url": "https://open.spotify.com/track/7AIy2SEjip6FKhlSNMoMac"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 267186,
       "name": "Te Enamoraste de Ti",
       "url": "https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom"

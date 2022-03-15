@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 185040,
       "name": "Angel of the Morning",
       "url": "https://open.spotify.com/track/2p2kH4FCxWy0OSkaIuz7an"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 168106,
       "name": "Better Must Come",
       "url": "https://open.spotify.com/track/2m40aeOjqcHvBlsYShpiFu"
@@ -427,6 +427,24 @@
       "duration_ms": 198440,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
+    },
+    {
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Dillon",
+          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151866,
+      "name": "Don't Stay Away",
+      "url": "https://open.spotify.com/track/0TzactgkoJSMMRVddb8aRK"
     },
     {
       "album": {
@@ -809,7 +827,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 155986,
       "name": "Israelites",
       "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 244253,
       "name": "Johnny B. Goode - 2002 Remaster",
       "url": "https://open.spotify.com/track/5uPYEStMW3KsXnnLV7iCTw"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 227480,
       "name": "La La Bam-Bam",
       "url": "https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 266986,
       "name": "Love Has Found Its Way",
       "url": "https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 199613,
       "name": "Marcus Garvey",
       "url": "https://open.spotify.com/track/3Ni6vR9yGUnVy7fRFwpVfE"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 219866,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 318106,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 179293,
       "name": "Stalag 17",
       "url": "https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 181413,
       "name": "This Is Reggae Music",
       "url": "https://open.spotify.com/track/10McHNtBiND3fSJMuLqJql"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 201293,
       "name": "Woman of the Ghetto",
       "url": "https://open.spotify.com/track/6p23ND9fHO5zPyLYL3OJ8H"

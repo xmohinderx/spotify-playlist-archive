@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsTBFM3ksVb.md) - [plain]
 
 > Comedians weigh in on all things sports, football, and \-of course\- the Super Bowl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,983 likes - 34 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,982 likes - 34 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

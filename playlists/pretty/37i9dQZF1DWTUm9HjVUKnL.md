@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Lewis Capaldi, Miguel, and Maggie Rogers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,367 likes - 712 songs - 1 day 20 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,372 likes - 712 songs - 1 day 20 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 276573,
       "name": "All I Have to Give",
       "url": "https://open.spotify.com/track/3hlhefxgyp4MDnN6C2dQ5H"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 235066,
       "name": "Fool Again",
       "url": "https://open.spotify.com/track/5yTk7KPsD43u7hjeiGP2Kw"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 269626,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/07TCY69AXkj3E7LC19vq45"
@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "98\u00ba",
+        "url": "https://open.spotify.com/album/5gPrJlFTQGFrzN4RytDK81"
+      },
+      "artists": [
+        {
+          "name": "98\u00ba",
+          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "Invisible Man",
+      "url": "https://open.spotify.com/track/5EOGZmuU56m3fFhqr4HCLe"
+    },
+    {
+      "album": {
         "name": "Around The World - The Journey So Far",
         "url": "https://open.spotify.com/album/20rKkzPGDxs0I7wVEdML9z"
       },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 271160,
       "name": "Music of My Heart",
       "url": "https://open.spotify.com/track/0M3ZIWNcizkhYFvn6RuCEz"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 231200,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3wOzg11kxIvydHhkoPnjKP"
@@ -947,6 +965,24 @@
     {
       "album": {
         "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "Show Me the Meaning of Being Lonely",
+      "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
+    },
+    {
+      "album": {
+        "name": "Millennium",
         "url": "https://open.spotify.com/album/5VHIlOEndogNL2zRjhKSBa"
       },
       "artists": [
@@ -1011,7 +1047,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 267293,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
@@ -1091,7 +1127,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 257933,
       "name": "Thank God I Found You (feat. Joe & 98\u00b0)",
       "url": "https://open.spotify.com/track/0RPnQCfta3EGQcy7ofaSLx"
@@ -1127,7 +1163,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "The Hardest Thing",
       "url": "https://open.spotify.com/track/7BHPfjnhrmPLcnAL3mx6cT"
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 271440,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/1lkfcyCLP0KPykSLIgh1VT"
@@ -1293,7 +1329,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 247493,
       "name": "With All My Heart",
       "url": "https://open.spotify.com/track/5AHdzOGycKBVw8lvCfEAtz"

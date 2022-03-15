@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 25241,
+  "num_followers": 25249,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzAwNDgzMDM3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzAwNTY3MTEwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/6VcmY5O2WE00BaF9fomffm"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -53,7 +53,55 @@
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Audemars",
+        "url": "https://open.spotify.com/album/5OrvNfzo5GvG7ATEjNaNfw"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Audemars",
+      "url": "https://open.spotify.com/track/3doVrLRkbLOBQUosLxiw9S"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "CONTACT FATAL",
         "url": "https://open.spotify.com/album/5tDOThSevtilM0kO9vQJ0m"
@@ -73,39 +121,7 @@
       "url": "https://open.spotify.com/track/5IqPGGvekdnZis9XhcyXeh"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "Audemars",
-        "url": "https://open.spotify.com/album/5OrvNfzo5GvG7ATEjNaNfw"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Audemars",
-      "url": "https://open.spotify.com/track/3doVrLRkbLOBQUosLxiw9S"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Banii",
         "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -153,39 +169,39 @@
       "url": "https://open.spotify.com/track/0RrGT6iyMoJgAxYHf3udEO"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+        "name": "2089",
+        "url": "https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
         }
       ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
+      "duration_ms": 148800,
+      "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
+      "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -213,23 +229,23 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+      "duration_ms": 97391,
+      "name": "BULIBA$HA",
+      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -245,39 +261,7 @@
       "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 200178,
-      "name": "Urgen\u021be",
-      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "2089",
-        "url": "https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk"
-      },
-      "artists": [
-        {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
-      "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -293,27 +277,7 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
@@ -329,7 +293,23 @@
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 200178,
+      "name": "Urgen\u021be",
+      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -349,71 +329,27 @@
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "Abu Dhabi",
-        "url": "https://open.spotify.com/album/1AX2IgsU9Hau9iili97z34"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 182331,
-      "name": "Abu Dhabi",
-      "url": "https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs"
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "BULIBA$HA (Deluxe)",
-        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Tussin",
-          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
-        },
-        {
-          "name": "Super Ed",
-          "url": "https://open.spotify.com/artist/3VJVPEzq5oAZgzGdDbxSCt"
-        },
-        {
-          "name": "PRNY",
-          "url": "https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "PICHINEZ CICHINEZ",
-      "url": "https://open.spotify.com/track/74i0kG1mWGUP9A9ispPglq"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "BULIBA$HA (Deluxe)",
-        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Ravisval",
-          "url": "https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "D\u00cdA DE LOS MUERTOS",
-      "url": "https://open.spotify.com/track/0G978NfKn3yNosV86jZTyA"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -429,7 +365,55 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Abu Dhabi",
+        "url": "https://open.spotify.com/album/1AX2IgsU9Hau9iili97z34"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "duration_ms": 182331,
+      "name": "Abu Dhabi",
+      "url": "https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Nevermind (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232203,
+      "name": "Something In The Way - Remastered",
+      "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "BULIBA$HA",
         "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
@@ -453,43 +437,43 @@
       "url": "https://open.spotify.com/track/3yZRQkgxHkFQ6fSjMFNtwy"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "\u00ceN RAI",
+        "url": "https://open.spotify.com/album/68m2yIVEgvjkzHxWVnNzwv"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "Biliard",
-        "url": "https://open.spotify.com/album/5okhrfzJDUmnWKOppGIXrd"
-      },
-      "artists": [
-        {
-          "name": "LilCagula",
-          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
+          "name": "Nane",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
         },
         {
-          "name": "NL Moxxie",
-          "url": "https://open.spotify.com/artist/5r0djFCjeB0Sk60SN6tzJQ"
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
         }
       ],
-      "duration_ms": 183745,
-      "name": "Biliard",
-      "url": "https://open.spotify.com/track/5AE0pXOUeBM4HfTb3Bqk3p"
+      "duration_ms": 176470,
+      "name": "\u00ceN RAI",
+      "url": "https://open.spotify.com/track/1HWGnsNTDgkmefYwMcMSqi"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -505,87 +489,7 @@
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "BULIBA$HA (Deluxe)",
-        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Dany Coca",
-          "url": "https://open.spotify.com/artist/5ziCVu0zDFMfzydY6cmJYO"
-        },
-        {
-          "name": "ASSAF",
-          "url": "https://open.spotify.com/artist/7qOaxOFLToThhkvQpYSHed"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "RE$PIRO",
-      "url": "https://open.spotify.com/track/0N0e0cSIKKvn5CKtSJcyyh"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "BULIBA$HA (Deluxe)",
-        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/5JrHIhBzx6GsdWYFonf4zX"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Capitanu'",
         "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
@@ -617,23 +521,27 @@
       "url": "https://open.spotify.com/track/2HtMuOtkOxibDrnRRGzpNS"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+        "name": "Biliard",
+        "url": "https://open.spotify.com/album/5okhrfzJDUmnWKOppGIXrd"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "LilCagula",
+          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
+        },
+        {
+          "name": "NL Moxxie",
+          "url": "https://open.spotify.com/artist/5r0djFCjeB0Sk60SN6tzJQ"
         }
       ],
-      "duration_ms": 169156,
-      "name": "Giulesti Crangasi",
-      "url": "https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX"
+      "duration_ms": 183745,
+      "name": "Biliard",
+      "url": "https://open.spotify.com/track/5AE0pXOUeBM4HfTb3Bqk3p"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -653,43 +561,131 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "Janes Romanes",
-        "url": "https://open.spotify.com/album/1yUnyHVYvVKJI6eTXLqVza"
+        "name": "BULIBA$HA (Deluxe)",
+        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
       },
       "artists": [
         {
-          "name": "Cristi Mega",
-          "url": "https://open.spotify.com/artist/0ujOKxbYEmzcCzt9Uh7dgA"
-        }
-      ],
-      "duration_ms": 202001,
-      "name": "Janes Romanes",
-      "url": "https://open.spotify.com/track/46DsHSqrMxCtIe7bQFrid3"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "\u00ceN RAI",
-        "url": "https://open.spotify.com/album/68m2yIVEgvjkzHxWVnNzwv"
-      },
-      "artists": [
-        {
-          "name": "Nane",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         },
         {
-          "name": "Delia",
-          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+          "name": "Ravisval",
+          "url": "https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ"
         }
       ],
-      "duration_ms": 176470,
-      "name": "\u00ceN RAI",
-      "url": "https://open.spotify.com/track/1HWGnsNTDgkmefYwMcMSqi"
+      "duration_ms": 125901,
+      "name": "D\u00cdA DE LOS MUERTOS",
+      "url": "https://open.spotify.com/track/0G978NfKn3yNosV86jZTyA"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 169156,
+      "name": "Giulesti Crangasi",
+      "url": "https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "BULIBA$HA (Deluxe)",
+        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "Super Ed",
+          "url": "https://open.spotify.com/artist/3VJVPEzq5oAZgzGdDbxSCt"
+        },
+        {
+          "name": "PRNY",
+          "url": "https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "PICHINEZ CICHINEZ",
+      "url": "https://open.spotify.com/track/74i0kG1mWGUP9A9ispPglq"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Hai s\u0103 uit\u0103m de tot",
+        "url": "https://open.spotify.com/album/0r5ZXswqgbckBYsENIDodm"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "KARLA",
+          "url": "https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3"
+        }
+      ],
+      "duration_ms": 177324,
+      "name": "Hai s\u0103 uit\u0103m de tot",
+      "url": "https://open.spotify.com/track/5sIwSZndmAG67GjgquvaHz"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Tabara",
         "url": "https://open.spotify.com/album/2exNG3M2R2vHPcnrSJPiVH"
@@ -717,131 +713,23 @@
       "url": "https://open.spotify.com/track/738G1vrNGeyXxJXxGo1CRj"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "TIpa Noua",
-        "url": "https://open.spotify.com/album/103be0LIGm9qGlqyQvjkUV"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "TIpa Noua",
-      "url": "https://open.spotify.com/track/3CoEgSGqBtBTMuRp7aGzbf"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 177031,
-      "name": "Oare",
-      "url": "https://open.spotify.com/track/2dAmNhVPH2jaM6pnGCc1Kt"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Capitanu'",
         "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
@@ -865,27 +753,55 @@
       "url": "https://open.spotify.com/track/0HQrHYghOsf7UVcBdSFRa2"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "Hai s\u0103 uit\u0103m de tot",
-        "url": "https://open.spotify.com/album/0r5ZXswqgbckBYsENIDodm"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
       "artists": [
         {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "KARLA",
-          "url": "https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 177324,
-      "name": "Hai s\u0103 uit\u0103m de tot",
-      "url": "https://open.spotify.com/track/5sIwSZndmAG67GjgquvaHz"
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Janes Romanes",
+        "url": "https://open.spotify.com/album/1yUnyHVYvVKJI6eTXLqVza"
+      },
+      "artists": [
+        {
+          "name": "Cristi Mega",
+          "url": "https://open.spotify.com/artist/0ujOKxbYEmzcCzt9Uh7dgA"
+        }
+      ],
+      "duration_ms": 202001,
+      "name": "Janes Romanes",
+      "url": "https://open.spotify.com/track/46DsHSqrMxCtIe7bQFrid3"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "TIpa Noua",
+        "url": "https://open.spotify.com/album/103be0LIGm9qGlqyQvjkUV"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "TIpa Noua",
+      "url": "https://open.spotify.com/track/3CoEgSGqBtBTMuRp7aGzbf"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "Slayer",
         "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
@@ -901,23 +817,31 @@
       "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "BULIBA$HA (Deluxe)",
+        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Dany Coca",
+          "url": "https://open.spotify.com/artist/5ziCVu0zDFMfzydY6cmJYO"
+        },
+        {
+          "name": "ASSAF",
+          "url": "https://open.spotify.com/artist/7qOaxOFLToThhkvQpYSHed"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+      "duration_ms": 182709,
+      "name": "RE$PIRO",
+      "url": "https://open.spotify.com/track/0N0e0cSIKKvn5CKtSJcyyh"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
         "name": "I Love You So",
         "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
@@ -933,26 +857,42 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+        "name": "BULIBA$HA (Deluxe)",
+        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+      "duration_ms": 103783,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/5JrHIhBzx6GsdWYFonf4zX"
     },
     {
-      "added_at": "2022-03-13 10:37:17",
+      "added_at": "2022-03-14 09:58:30",
       "album": {
-        "name": "60 De Zile",
-        "url": "https://open.spotify.com/album/4JrcfqEfy8coVoJojstB2K"
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
       },
       "artists": [
         {
@@ -960,13 +900,69 @@
           "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         },
         {
-          "name": "Amuly",
-          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
         }
       ],
-      "duration_ms": 176699,
-      "name": "60 De Zile",
-      "url": "https://open.spotify.com/track/5ymFsfuMVDuG43ksIqCohv"
+      "duration_ms": 177031,
+      "name": "Oare",
+      "url": "https://open.spotify.com/track/2dAmNhVPH2jaM6pnGCc1Kt"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-03-14 09:58:30",
+      "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     }
   ],
   "unique_name": "Top 50 - Romania",

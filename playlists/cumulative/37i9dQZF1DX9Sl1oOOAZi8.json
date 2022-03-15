@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "crisp",
+        "url": "https://open.spotify.com/album/7HB0lwZLOR5DmXPqToszrG"
+      },
+      "artists": [
+        {
+          "name": "vibesment",
+          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128007,
+      "name": "crisp",
+      "url": "https://open.spotify.com/track/5x7r4EEFe1MdqmoQVFUGPk"
+    },
+    {
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },

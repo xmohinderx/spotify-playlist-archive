@@ -532,6 +532,28 @@
     },
     {
       "album": {
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Broadway Girls (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2pOUHNwZJrFffS42SxPwt0"
+    },
+    {
+      "album": {
         "name": "Broadway Girls (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
       },
@@ -993,7 +1015,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 176973,
       "name": "Do Ya Wanna Taste It",
       "url": "https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N"
@@ -1409,7 +1431,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ"
@@ -3653,7 +3675,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 211175,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0zSemnpoUFdtesuHTZ3ifv"

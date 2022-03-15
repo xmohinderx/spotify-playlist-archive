@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country that made Country Cool! Cover:  George Strait",
+  "description": "Country that made Country Cool! Cover: Shania Twain",
   "name": "90s Country",
   "published_playlist_ids": [
     "5IDkbO4ORcphFP9N9pX9l7"
@@ -1201,6 +1201,24 @@
       "duration_ms": 201333,
       "name": "In Between Dances",
       "url": "https://open.spotify.com/track/1EeiU786etAktiW4uyGXiz"
+    },
+    {
+      "album": {
+        "name": "In This Life",
+        "url": "https://open.spotify.com/album/0ZHlMGdhO1QIVVbk9m1b68"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/1NvcwM0CaDfZqHT6IpANue"
     },
     {
       "album": {

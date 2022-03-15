@@ -1,12 +1,12 @@
 {
   "description": "another day at Euphoria high - cover: Zendaya",
-  "num_followers": 1179956,
+  "num_followers": 1182126,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg2NDcxMiwwMDAwMDE0NDAwMDAwMTdmNzBjOTQzZmUwMDAwMDE3ZjNlNmE4NGRj",
+  "snapshot_id": "MTY0NzI5NjE5OSwwMDAwMDE0NTAwMDAwMTdmOGE4MTNhOTkwMDAwMDE3ZjNlNmE4NGRj",
   "tracks": [
     {
       "added_at": "2022-02-28 05:00:43",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
     },
     {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Studio Killers",
+        "url": "https://open.spotify.com/album/5eaoWhBweqqjErHzhebjgL"
+      },
+      "artists": [
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Jenny (I Wanna Ruin Our Friendship)",
+      "url": "https://open.spotify.com/track/7lgA34nFXxjqQgyLkPUcLv"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Fat Funny Friend",
@@ -285,6 +301,22 @@
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "do all my friends hate me?",
+        "url": "https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "do all my friends hate me?",
+      "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
+    },
+    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Toxic Pony",
@@ -323,22 +355,6 @@
       "duration_ms": 204847,
       "name": "dying on the inside",
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Studio Killers",
-        "url": "https://open.spotify.com/album/5eaoWhBweqqjErHzhebjgL"
-      },
-      "artists": [
-        {
-          "name": "Studio Killers",
-          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Jenny (I Wanna Ruin Our Friendship)",
-      "url": "https://open.spotify.com/track/7lgA34nFXxjqQgyLkPUcLv"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 222400,
       "name": "Paper Rings",
       "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "do all my friends hate me?",
-        "url": "https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "do all my friends hate me?",
-      "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
     },
     {
       "added_at": "2022-01-21 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,406 likes - 85 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,562 likes - 85 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

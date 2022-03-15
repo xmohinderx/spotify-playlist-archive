@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-05",
+      "date_removed": null,
       "duration_ms": 189556,
       "name": "(Shit) Love Story - Unplugged",
       "url": "https://open.spotify.com/track/0SVP29aZF6zenlM71IaN4G"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 256426,
       "name": "A Long Goodbye",
       "url": "https://open.spotify.com/track/5CW7uKVlnpiVGk3xP6FBgX"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 215665,
       "name": "Blameless - Acoustic",
       "url": "https://open.spotify.com/track/7F1GfkFTAEkZTgmwVwdMZw"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "California (Acoustic)",
       "url": "https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 185727,
       "name": "Cement",
       "url": "https://open.spotify.com/track/56BLfdi68cTPiWy0OZ7Hq6"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 199086,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/4fErrMPwWeUCgcOgi1jPEk"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 202554,
       "name": "England's Dreaming - Acoustic",
       "url": "https://open.spotify.com/track/0fayk6BY25voQ46iYRrNHn"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 186422,
       "name": "Eye to Eye - Acoustic",
       "url": "https://open.spotify.com/track/7eUBwEAnghwTwxPoECjKa0"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 243140,
       "name": "February",
       "url": "https://open.spotify.com/track/6WptWHEf06ILIIK6merGuc"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 172040,
       "name": "For What It's Worth - Acoustic",
       "url": "https://open.spotify.com/track/0cJqQeY8GHfMQmeeNl9LAh"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 203210,
       "name": "From The Outside - Acoustic",
       "url": "https://open.spotify.com/track/6jnOgu9AWyTGRJCrlrAKzq"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/45iBH1pq0x7eHbzHVRGNgd"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 218316,
       "name": "Half Empty - Acoustic",
       "url": "https://open.spotify.com/track/37B3uFRiDaHIi2jMXsLqSS"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 215520,
       "name": "Here's My Heart",
       "url": "https://open.spotify.com/track/6rbpUABUBE8zYt55TPkExf"
@@ -1367,6 +1367,24 @@
       "duration_ms": 215306,
       "name": "Hunnie",
       "url": "https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B"
+    },
+    {
+      "album": {
+        "name": "I Love You, Amy Smart (Acoustic)",
+        "url": "https://open.spotify.com/album/0Ace0h43uzu1S7Nxmg5mZE"
+      },
+      "artists": [
+        {
+          "name": "Last Letters",
+          "url": "https://open.spotify.com/artist/7qfCs9NorI91CZwgAxFuKH"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "I Love You, Amy Smart - Acoustic",
+      "url": "https://open.spotify.com/track/2YD9gfJfxjLVQCewARGnN4"
     },
     {
       "album": {
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Light On",
       "url": "https://open.spotify.com/track/4QeuXQ7LKdRXo5o7C6al6S"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 205281,
       "name": "Low",
       "url": "https://open.spotify.com/track/7MkoMkBOeoAIXdRyIWzl9s"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 289120,
       "name": "Molecules",
       "url": "https://open.spotify.com/track/7qBiZ71Ly8dsxKcWZmsD0B"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 179910,
       "name": "Mthrfckr - Unmasked",
       "url": "https://open.spotify.com/track/6LoUMqE0bwQxOcjVh5IIAX"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 234675,
       "name": "New Years Project",
       "url": "https://open.spotify.com/track/0UPZOE6jgBEd8NDaH3JhOh"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Okay - Acoustic",
       "url": "https://open.spotify.com/track/0qSKWuCxIXNMok8euYIelF"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 180506,
       "name": "Painkiller Weather - Reworked",
       "url": "https://open.spotify.com/track/70kZfLsTPmoWnTh0RK559Z"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 245644,
       "name": "Passing Through a Screen Door",
       "url": "https://open.spotify.com/track/7ePkayJpwG3OxNT6UN20ZU"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 224974,
       "name": "Patience",
       "url": "https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H"
@@ -2149,7 +2167,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 195760,
       "name": "P\u00e2querette (Without Me)",
       "url": "https://open.spotify.com/track/3EmVLU2EHNEJf646hdsu7s"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 203791,
       "name": "Send Help",
       "url": "https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 197361,
       "name": "Something Wonderful - Alternate Version",
       "url": "https://open.spotify.com/track/1vu42HClZIiqLgRzTU2jUc"
@@ -2409,7 +2427,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 256600,
       "name": "Still Dreaming (Acoustic)",
       "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 234912,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 215186,
       "name": "Toothpick",
       "url": "https://open.spotify.com/track/6XEx4tUCwTlsydwJpWnGGh"
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 202920,
       "name": "Tracks",
       "url": "https://open.spotify.com/track/1WXq7yfGDqp24hK7q1oFut"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 227300,
       "name": "Undersize",
       "url": "https://open.spotify.com/track/4bChSnQPzc0j9yijlJbZYQ"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 198880,
       "name": "Voldemort (Acoustic)",
       "url": "https://open.spotify.com/track/0e7QzF7gA3cEpkCNuZ8AGY"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 195937,
       "name": "Walking Disaster",
       "url": "https://open.spotify.com/track/2qllvKclzdC7rbiow3o6QB"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 230289,
       "name": "What Appears (Acoustic)",
       "url": "https://open.spotify.com/track/3aOFgx5alQIKreYj8Qdw1f"

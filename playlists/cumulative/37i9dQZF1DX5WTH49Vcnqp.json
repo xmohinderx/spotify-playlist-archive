@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
@@ -330,6 +330,42 @@
     },
     {
       "album": {
+        "name": "Brad Pitt",
+        "url": "https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216187,
+      "name": "Brad Pitt",
+      "url": "https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM"
+    },
+    {
+      "album": {
+        "name": "Breakfast With You",
+        "url": "https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57"
+      },
+      "artists": [
+        {
+          "name": "Shannen James",
+          "url": "https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242661,
+      "name": "Breakfast With You",
+      "url": "https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo"
+    },
+    {
+      "album": {
         "name": "Breathe Deeper (Lil Yachty Remix)",
         "url": "https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04"
       },
@@ -562,6 +598,24 @@
     },
     {
       "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/6SmgsgCgJBktHz7G1xAMEa"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242261,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/2le7fdIkJuRZLwCM1mFxSf"
+    },
+    {
+      "album": {
         "name": "Cowboys Don\u2019t Cry",
         "url": "https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ"
       },
@@ -627,7 +681,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 190574,
       "name": "Deer Island",
       "url": "https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS"
@@ -2620,6 +2674,28 @@
     },
     {
       "album": {
+        "name": "Next High",
+        "url": "https://open.spotify.com/album/0kn73DiUZBTTa4rbtj5DjL"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Kim Tee",
+          "url": "https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Next High",
+      "url": "https://open.spotify.com/track/6B64wN1vUrw79dHumCzfe1"
+    },
+    {
+      "album": {
         "name": "No Choice",
         "url": "https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC"
       },
@@ -3357,7 +3433,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
@@ -3716,6 +3792,24 @@
     },
     {
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "album": {
         "name": "Trip Tape",
         "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
       },
@@ -3973,7 +4067,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 256620,
       "name": "Touch Back Down",
       "url": "https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V"
@@ -3995,7 +4089,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 250521,
       "name": "Unknown Song",
       "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"

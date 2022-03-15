@@ -63,7 +63,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 551025,
       "name": "Ala Moj Al Bahr (JAVID Remix)",
       "url": "https://open.spotify.com/track/5DHrTSqpv4g6AJoHlE3oiw"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 430769,
       "name": "Anlar",
       "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 377704,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "Bahja",
+        "url": "https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd"
+      },
+      "artists": [
+        {
+          "name": "Tyrvnt",
+          "url": "https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257156,
+      "name": "Bahja",
+      "url": "https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr"
+    },
+    {
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/37bW0E4kxB3Ex5K4NwgnUY"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 186017,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 150106,
       "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
       "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 159864,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 405538,
       "name": "Delichones",
       "url": "https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 164000,
       "name": "Give It To Me (feat. Ezgi Kosa) - Pad\u00e9 Remix",
       "url": "https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 394280,
       "name": "Lala",
       "url": "https://open.spotify.com/track/4e8eGYuknZV22JYoOCV2MY"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 170228,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2021-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 141779,
       "name": "My Useless Life",
       "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 152380,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/1drJPCR41J9gdpln5VxdIa"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 147096,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/4ERRd1FhG9gqUa99H97ijX"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0qibsqCSPmacinQXUT8swR"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2020-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 435187,
       "name": "OUD",
       "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
@@ -2631,7 +2649,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 278778,
       "name": "Route 55",
       "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 159272,
       "name": "Sahra On The Moon",
       "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
@@ -2781,7 +2799,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 185689,
       "name": "Schhh",
       "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
@@ -3109,7 +3127,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 179512,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
@@ -3259,7 +3277,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
@@ -3413,7 +3431,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 411806,
       "name": "Zamen - Amine K Remix",
       "url": "https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr"

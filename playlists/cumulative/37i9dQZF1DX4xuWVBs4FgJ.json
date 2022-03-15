@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 172199,
       "name": "Acoustic",
       "url": "https://open.spotify.com/track/5kh7BbzXPgooAU9MB9L7yw"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 249341,
       "name": "Born To Be Yours - Acoustic Version",
       "url": "https://open.spotify.com/track/3rgrJySBLhVrDjJ2OXRtbB"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 156164,
       "name": "Boy You're Good",
       "url": "https://open.spotify.com/track/2FW8zqglrcLTWKKnmDUoi0"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 195401,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 156066,
       "name": "Full Full Colour",
       "url": "https://open.spotify.com/track/4TmZ7SSq5YnKe2Qu9ge5fL"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 231240,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2dAPIql12y8hpWzsTC2ms2"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 225476,
       "name": "Life as It Is",
       "url": "https://open.spotify.com/track/0ZTtKgd8j5DoFLPwie8bRk"
@@ -1679,6 +1679,24 @@
       "duration_ms": 176974,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY"
     },
     {
       "album": {
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 212826,
       "name": "Mess",
       "url": "https://open.spotify.com/track/3qhOjLeh6HePtsDhtxGpuR"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 233906,
       "name": "No Ending",
       "url": "https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 276498,
       "name": "Real?",
       "url": "https://open.spotify.com/track/1r0bORzz4Ooi8EpFGC6rxe"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-10",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 194837,
       "name": "This City Remix (feat. Nea)",
       "url": "https://open.spotify.com/track/3atDBUHTgS6ogyeIfCfRMt"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 221081,
       "name": "This Is the One",
       "url": "https://open.spotify.com/track/0UfGAg69CZxmI507pbzzW1"
@@ -2393,7 +2411,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 240439,
       "name": "Water Under The Bridge",
       "url": "https://open.spotify.com/track/7xfzwPasShmaPL7gB7va3J"

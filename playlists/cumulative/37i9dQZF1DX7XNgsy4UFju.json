@@ -2622,6 +2622,28 @@
     },
     {
       "album": {
+        "name": "Kicks",
+        "url": "https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl"
+      },
+      "artists": [
+        {
+          "name": "Nightshifts",
+          "url": "https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C"
+        },
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO"
+    },
+    {
+      "album": {
         "name": "Screen Violence: Director\u2019s Cut",
         "url": "https://open.spotify.com/album/7uYQtpDK3upVLEcr5HTyi9"
       },
@@ -4357,7 +4379,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"

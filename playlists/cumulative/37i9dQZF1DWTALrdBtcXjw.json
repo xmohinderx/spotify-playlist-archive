@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 607733,
       "name": "Baby Plays Around",
       "url": "https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 259386,
       "name": "Blues for the Real Human Beings",
       "url": "https://open.spotify.com/track/6UHNNAMBinTF3Eo7uzrU5b"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 423520,
       "name": "Cambridge Place",
       "url": "https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 331133,
       "name": "Denzil's Best",
       "url": "https://open.spotify.com/track/6IuiRJsGQ1pCqyGwc9lBgi"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 504456,
       "name": "Ham Hocks and Cabbage",
       "url": "https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 651773,
       "name": "Moon River - Live",
       "url": "https://open.spotify.com/track/6SP8PT3BiZnnkv4zrxvD13"
@@ -1916,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/1NupgPFqRhoYih5dYdInac"
+      },
+      "artists": [
+        {
+          "name": "Mark Wade Trio",
+          "url": "https://open.spotify.com/artist/5UJBuLbTmWg5XNUv3e5xDW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283480,
+      "name": "Song with Orange and Other Things, Pt. 1",
+      "url": "https://open.spotify.com/track/1zZmLyjiFSEUklKHCj1nq2"
+    },
+    {
+      "album": {
         "name": "Stablemates",
         "url": "https://open.spotify.com/album/1J6qODNVP71k3FZjGsFg0l"
       },
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 277306,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 485133,
       "name": "The Sequel",
       "url": "https://open.spotify.com/track/4iCOzZYiSCljWB7D7t87JT"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 304293,
       "name": "Theme For Ernie",
       "url": "https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO"

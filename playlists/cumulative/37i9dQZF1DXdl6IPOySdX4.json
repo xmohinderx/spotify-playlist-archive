@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 214325,
       "name": "Amber",
       "url": "https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/0mfCH4nfpshBQR9ueZP5eP"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 145600,
       "name": "Go Again",
       "url": "https://open.spotify.com/track/4pJHOKnhaj53aTQwM0Vigb"
@@ -779,6 +779,24 @@
       "duration_ms": 206458,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe"
+    },
+    {
+      "album": {
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1T575AhHueYinKSDflEsGK"
     },
     {
       "album": {
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 135704,
       "name": "i might like u",
       "url": "https://open.spotify.com/track/2DI4mFhCkWoVK5fyLv9q4v"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 187586,
       "name": "Moon & Stars (feat. Maggie Lindemann)",
       "url": "https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 193280,
       "name": "more",
       "url": "https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd"
@@ -1420,6 +1438,28 @@
     },
     {
       "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157293,
+      "name": "Paradise (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
@@ -1431,7 +1471,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 212992,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
@@ -1533,7 +1573,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 180018,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK"
@@ -1985,7 +2025,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 217609,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/7iC56CDz8miPDKaH0OEIqS"
@@ -2043,7 +2083,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF"

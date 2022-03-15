@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 193533,
       "name": "Heart Storm (with NAO)",
       "url": "https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 250197,
       "name": "I'm On",
       "url": "https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj"
@@ -1489,6 +1489,24 @@
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170248,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB"
     },
     {
       "album": {

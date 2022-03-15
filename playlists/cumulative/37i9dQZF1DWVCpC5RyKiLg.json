@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 165360,
       "name": "Anti-Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/7JdZZfozlODQ08ATf8xIZ6"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 313854,
       "name": "At\u00e9 Que Durou - Ao Vivo",
       "url": "https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm"
@@ -247,6 +247,24 @@
       "duration_ms": 149995,
       "name": "Aus\u00eancia - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/5czCFvsdcKKkWdwT2AAAZC"
+    },
+    {
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199363,
+      "name": "Bebida Na Ferida - Ao Vivo",
+      "url": "https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8"
     },
     {
       "album": {
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 218654,
       "name": "Casal Maluco - Ao Vivo",
       "url": "https://open.spotify.com/track/2qE4ddo0bSDiY7zMf9tkfh"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 175226,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/29QzIklnzkIJMM52nwPzE3"
@@ -573,7 +591,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 246586,
       "name": "Deixa Eu Te Fazer Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/1k74RXLkqLKgRUqk1yiBGT"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 360269,
       "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
       "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 145504,
       "name": "Fora de Si",
       "url": "https://open.spotify.com/track/6JwJ0BfLnfHojJEoafjFfV"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 227413,
       "name": "Lancinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 198769,
       "name": "Mal Acostumado",
       "url": "https://open.spotify.com/track/4o2PBBped448WOwkMAFRHy"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 193680,
       "name": "Maus Bocados",
       "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 243097,
       "name": "Melhor Eu Ir - Ao Vivo",
       "url": "https://open.spotify.com/track/2pbmSONpVrMl9OEetkL974"
@@ -1235,6 +1253,24 @@
       "duration_ms": 193669,
       "name": "Mentira - Ao Vivo",
       "url": "https://open.spotify.com/track/146Vb458Y5RbqEa0fYFPzm"
+    },
+    {
+      "album": {
+        "name": "Todo Seu",
+        "url": "https://open.spotify.com/album/2TykZEYbsi1qPgxz3QQ1rK"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203289,
+      "name": "Muito Cedo",
+      "url": "https://open.spotify.com/track/7N0Py2msno86enR6JPNlpV"
     },
     {
       "album": {
@@ -1357,7 +1393,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 180629,
       "name": "N\u00e3o Abro M\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ"
@@ -1393,7 +1429,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 180687,
       "name": "Onze e Pouquinho",
       "url": "https://open.spotify.com/track/65i9Mc7h1CG7ssI1OhMPcT"
@@ -1455,7 +1491,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 169244,
       "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
       "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
@@ -1563,7 +1599,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 260913,
       "name": "Pot-Pourri: Essa Tal Liberdade / Me Leva Junto Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/3enb4Bhq4E8sczYzXmjhkY"
@@ -1693,7 +1729,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 179722,
       "name": "quando a bad bater - ao vivo",
       "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 190722,
       "name": "Raz\u00e3o das Minhas Biritas",
       "url": "https://open.spotify.com/track/3k2QcH88P5lgllbw3SKB87"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 166672,
       "name": "Reprise - Ao Vivo",
       "url": "https://open.spotify.com/track/4C24fGqRUrz3TyVt4uku2Y"
@@ -1823,7 +1859,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
@@ -1997,7 +2033,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 156838,
       "name": "Tamb\u00e9m Sei Fazer Falta - Ao Vivo",
       "url": "https://open.spotify.com/track/6hrV6KYL9zM8vFAbOSxFHY"
@@ -2059,7 +2095,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 183073,
       "name": "Text\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3yOuQI8yjJaApfdo4hdkVW"
@@ -2135,7 +2171,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 196306,
       "name": "T\u00e1 Vendo Aquela Lua",
       "url": "https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo"
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/08Sd5vVcIH3uKeAiaJdoYj"
@@ -2277,7 +2313,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 206253,
       "name": "Voa Beija-Flor - Ao Vivo",
       "url": "https://open.spotify.com/track/5CkCOlVxiYPzREq0PeCKAN"
@@ -2317,7 +2353,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
@@ -2335,7 +2371,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 220853,
       "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
       "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"

@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "All the Gold",
+        "url": "https://open.spotify.com/album/7C7RgplLlvFQTXOk3v3Uqn"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349469,
+      "name": "All the Gold",
+      "url": "https://open.spotify.com/track/1kksBydyMOdC9fi4jDWZ7y"
+    },
+    {
+      "album": {
         "name": "En g\u00e5ng i tiden (del 2)",
         "url": "https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP"
       },
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 167500,
       "name": "DANSA",
       "url": "https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT"
@@ -4133,7 +4151,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 182400,
       "name": "F\u00d6RSENT",
       "url": "https://open.spotify.com/track/6mDcLPGVCmdhMN4gBzNb7s"
@@ -7511,7 +7529,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 171400,
       "name": "Lotta & Sanna - Remix",
       "url": "https://open.spotify.com/track/4JwyFcT6SWYirpZRSrnTn9"

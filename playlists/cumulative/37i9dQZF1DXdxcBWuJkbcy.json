@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/7HsjoqtWgOWvo9eNj6fqU6"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2020-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 204102,
       "name": "Dreams (feat. Lanie Gardner)",
       "url": "https://open.spotify.com/track/5ovAmYzYLeEmOX6P3bmlzV"
@@ -2957,7 +2957,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 146983,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
@@ -4531,7 +4531,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
@@ -4907,6 +4907,32 @@
       "duration_ms": 168635,
       "name": "Love No More",
       "url": "https://open.spotify.com/track/7lPo7aUbqNz5qmcan9Oj3F"
+    },
+    {
+      "album": {
+        "name": "Love We Lost (with R3HAB)",
+        "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Love We Lost (with R3HAB)",
+      "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
     },
     {
       "album": {
@@ -5553,7 +5579,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 153913,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/490LclNVKfdheKMqdyjzZN"
@@ -6059,7 +6085,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 173173,
       "name": "Only Want You - Martin Jensen Remix",
       "url": "https://open.spotify.com/track/5dC3Cv6uGfyr16zJtr6n1n"
@@ -6361,7 +6387,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 207619,
       "name": "Post Malone (feat. RANI) - GATT\u00dcSO Remix",
       "url": "https://open.spotify.com/track/6b1RNvAcJjQH73eZO4BLAB"
@@ -7055,7 +7081,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 208571,
       "name": "Say Something - RetroVision Remix",
       "url": "https://open.spotify.com/track/7MwoGAOLI3MnEC7mGFOYcW"
@@ -9699,7 +9725,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 210434,
       "name": "Winners Anthem",
       "url": "https://open.spotify.com/track/2kQvw0jH3JKKWVBccDPK9Y"

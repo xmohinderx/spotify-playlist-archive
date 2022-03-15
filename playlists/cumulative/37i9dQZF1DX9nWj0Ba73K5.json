@@ -994,6 +994,24 @@
     },
     {
       "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183069,
+      "name": "Happy People",
+      "url": "https://open.spotify.com/track/6QVr3eutHm5Cmd9MtXGBZA"
+    },
+    {
+      "album": {
         "name": "Hard Things",
         "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
       },

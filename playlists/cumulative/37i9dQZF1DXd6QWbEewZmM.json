@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Classroom Love",
+        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256641,
+      "name": "Classroom Love",
+      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
+    },
+    {
+      "album": {
         "name": "Perdido En Ti",
         "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Corazon Parlante",
       "url": "https://open.spotify.com/track/21N42hIFRiFrak2tDfsGU7"
@@ -615,7 +633,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 207374,
       "name": "Dime",
       "url": "https://open.spotify.com/track/1TQcqiEvl4ODSHC5U2c5Vv"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 212946,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 212453,
       "name": "Fue Mi Culpa",
       "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 184561,
       "name": "Hablemos",
       "url": "https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 254968,
       "name": "Hasta Que Arrimas",
       "url": "https://open.spotify.com/track/3AqahkFz2OzqOBx6pXFTmf"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 202012,
       "name": "La Derrota - En vivo",
       "url": "https://open.spotify.com/track/3boNG45cqjWLaSH684lsyx"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 224738,
       "name": "La \u00danica",
       "url": "https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 170824,
       "name": "Labios Cereza",
       "url": "https://open.spotify.com/track/64luTJa3lsA4ZvwFyoBcUM"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 214359,
       "name": "Los Secretos",
       "url": "https://open.spotify.com/track/4EJOpErvTO28XW1SONatmB"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 176800,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "No Me Buscas",
       "url": "https://open.spotify.com/track/7Jgh8una8MqHfVe0qGpYZX"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 200156,
       "name": "Ojos Avellana",
       "url": "https://open.spotify.com/track/0zn4NLvBxAxhpfvRwL6WEY"
@@ -2129,7 +2147,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 174346,
       "name": "Para Qu\u00e9 Lastimarme",
       "url": "https://open.spotify.com/track/3jK9UGmZEjHnO2IAOduZ5U"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 234360,
       "name": "Siempre Te Voy A Querer",
       "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
@@ -2637,7 +2655,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/0hYRO2jvFLoNFMeBcw6Ju9"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 161201,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/3zBK0bthYTDx3bnsDPTesO"
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Te Quiero Aqui (Live Session)",
       "url": "https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld"
@@ -2991,7 +3009,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 194962,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
@@ -3027,7 +3045,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 166182,
       "name": "Tengo Que Olvidarla",
       "url": "https://open.spotify.com/track/5tVsT5NHj96fBlJksV7CpE"
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 199237,
       "name": "Vamonos",
       "url": "https://open.spotify.com/track/43jJLJrnFzYdYZOn618RTs"
@@ -3291,7 +3309,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 185637,
       "name": "Y Cambi\u00f3 Mi Suerte",
       "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
@@ -3331,7 +3349,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 367407,
       "name": "Ya No Puedo",
       "url": "https://open.spotify.com/track/4d9aNnhP67nti6DyOOjRP0"
@@ -3371,7 +3389,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 219130,
       "name": "Ya No Siente",
       "url": "https://open.spotify.com/track/5PEwheX3zEOf9ilNSL9sPi"

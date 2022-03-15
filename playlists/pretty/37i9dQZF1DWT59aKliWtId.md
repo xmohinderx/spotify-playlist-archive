@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,429 likes - 116 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,511 likes - 116 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

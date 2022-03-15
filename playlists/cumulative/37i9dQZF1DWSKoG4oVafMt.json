@@ -2346,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "Naah",
+        "url": "https://open.spotify.com/album/61MLWkKNzRwx2Fa1uLrEoG"
+      },
+      "artists": [
+        {
+          "name": "Jass Manak",
+          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185574,
+      "name": "Naah",
+      "url": "https://open.spotify.com/track/50BYymJYX2k7hnmfiXnYXs"
+    },
+    {
+      "album": {
         "name": "Nasheyan Ch Patteya Peya",
         "url": "https://open.spotify.com/album/5KH4LRxPaSvWaMJSWRMSgR"
       },
@@ -3827,6 +3845,24 @@
       "duration_ms": 397546,
       "name": "Tu Jhoom",
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
+    },
+    {
+      "album": {
+        "name": "Tu Na Jaa",
+        "url": "https://open.spotify.com/album/6fFZlo1ltq25MrF6GxGlKc"
+      },
+      "artists": [
+        {
+          "name": "Mansimran Sandhu",
+          "url": "https://open.spotify.com/artist/0tt4DcVo2HdxkNOTpiUsOn"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146720,
+      "name": "Tu Na Jaa",
+      "url": "https://open.spotify.com/track/09aNHM2d7Hs6lKuCZgj4sw"
     },
     {
       "album": {

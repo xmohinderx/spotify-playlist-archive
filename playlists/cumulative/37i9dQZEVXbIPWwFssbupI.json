@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 356346,
       "name": "Bande organis\u00e9e",
       "url": "https://open.spotify.com/track/717QGTmZdkemDaCo1vQHG0"
@@ -6837,7 +6837,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-23",
+      "date_removed": null,
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -13945,6 +13945,24 @@
       "duration_ms": 176786,
       "name": "\u00d6zil",
       "url": "https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f"
+    },
+    {
+      "album": {
+        "name": "Ips\u00e9it\u00e9",
+        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "\u0398. Macarena",
+      "url": "https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD"
     },
     {
       "album": {

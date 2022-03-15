@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 255320,
       "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 167775,
       "name": "I'd Rather Be With You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5rlrzjYgAmxUi799A6Z5Wd"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 277113,
       "name": "Knights Of Cydonia - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3MMhtroreghawB4y14vaUP"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 207311,
       "name": "Loyal to Me - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC"
@@ -1325,6 +1325,24 @@
       "duration_ms": 206190,
       "name": "mars - Spotify Singles",
       "url": "https://open.spotify.com/track/3hmjsmXPsfUrQZwFhGemGd"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0bXHx2L5JCRKG9R7jDbTd8"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247228,
+      "name": "Maybe Not - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0XoKwViOafkIMd2qE1wfqO"
     },
     {
       "album": {
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 240522,
       "name": "No One - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 111050,
       "name": "Nothing from Nothing - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 247767,
       "name": "Shape of You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-04",
+      "date_removed": null,
       "duration_ms": 163386,
       "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 268207,
       "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 198000,
       "name": "U Remind Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 267802,
       "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"

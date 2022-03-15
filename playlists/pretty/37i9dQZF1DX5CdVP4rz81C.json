@@ -1,12 +1,12 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: David Kushner",
-  "num_followers": 1197751,
+  "num_followers": 1198477,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDg2MCwwMDAwMDU3ZTAwMDAwMTdmNzc1OWZiOTYwMDAwMDE3ZjcyZGU4M2Ri",
+  "snapshot_id": "MTY0NzIxOTYwMSwwMDAwMDU3ZjAwMDAwMTdmODVmMDZmNzMwMDAwMDE3ZjcyZGU4M2Ri",
   "tracks": [
     {
       "added_at": "2022-03-11 05:01:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "miss me (when you're gone)",
-        "url": "https://open.spotify.com/album/0ljCwaCa5qOOdf7mDnFP2G"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 184915,
-      "name": "miss me (when you're gone)",
-      "url": "https://open.spotify.com/track/4z2qQDApUjC6rT70uyK3op"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
         "name": "Mr. Forgettable",
         "url": "https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa"
       },
@@ -163,18 +147,34 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "Shadow Of Mine",
-        "url": "https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG"
+        "name": "miss me (when you're gone)",
+        "url": "https://open.spotify.com/album/0ljCwaCa5qOOdf7mDnFP2G"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
         }
       ],
-      "duration_ms": 165754,
-      "name": "Shadow Of Mine",
-      "url": "https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5"
+      "duration_ms": 184915,
+      "name": "miss me (when you're gone)",
+      "url": "https://open.spotify.com/track/4z2qQDApUjC6rT70uyK3op"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
@@ -207,6 +223,22 @@
       "duration_ms": 193733,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Shadow Of Mine",
+        "url": "https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 165754,
+      "name": "Shadow Of Mine",
+      "url": "https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -227,22 +259,6 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 109325,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
         "name": "Talk 2 Me",
         "url": "https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -371,18 +387,18 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -403,22 +419,6 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/1igApJ0OiVBemqXhWKUE9w"
       },
@@ -431,54 +431,6 @@
       "duration_ms": 220918,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "When You Look At Me",
-        "url": "https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "When You Look At Me",
-      "url": "https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/6YQt8LnQUXAEzO4eWIdPfx"
-      },
-      "artists": [
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Modern Art",
-      "url": "https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 231132,
-      "name": "Flume - Spotify Singles",
-      "url": "https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -499,66 +451,18 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "see you later",
-        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
+        "name": "When You Look At Me",
+        "url": "https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk"
       },
       "artists": [
         {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 207740,
-      "name": "2%",
-      "url": "https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "Brave Face",
-        "url": "https://open.spotify.com/album/4YhEfpdQjOL3gWgrZi7C3K"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 198166,
-      "name": "Brave Face",
-      "url": "https://open.spotify.com/track/4yB1s08jEfpRMb0K07qCE9"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "How Do You Dress for the Rain?",
-        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "How Do You Dress for the Rain?",
-      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/1oz1E95l4lgqCxN2WRqDUC"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 163151,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/0vk4AYy92FJy72y2pQFWAJ"
+      "duration_ms": 170375,
+      "name": "When You Look At Me",
+      "url": "https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -579,70 +483,18 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
+        "name": "see you later",
+        "url": "https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE"
       },
       "artists": [
         {
-          "name": "Abe Parker",
-          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
         }
       ],
-      "duration_ms": 183937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/46VveoZ1CdOWD3wZ2dnnl2"
-      },
-      "artists": [
-        {
-          "name": "Yoste",
-          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
-        }
-      ],
-      "duration_ms": 193971,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fRweMf58LMH1Rv9h771GE"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "reckless driving (feat. Ben Kessler)",
-        "url": "https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 189247,
-      "name": "reckless driving (feat. Ben Kessler)",
-      "url": "https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "i tried",
-        "url": "https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U"
-      },
-      "artists": [
-        {
-          "name": "Camylio",
-          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
-        }
-      ],
-      "duration_ms": 160790,
-      "name": "i tried",
-      "url": "https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY"
+      "duration_ms": 207740,
+      "name": "2%",
+      "url": "https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -667,66 +519,70 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/6YQt8LnQUXAEzO4eWIdPfx"
       },
       "artists": [
         {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
         }
       ],
-      "duration_ms": 268528,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk"
+      "duration_ms": 159157,
+      "name": "Modern Art",
+      "url": "https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK"
     },
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+        "name": "reckless driving (feat. Ben Kessler)",
+        "url": "https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+      "duration_ms": 189247,
+      "name": "reckless driving (feat. Ben Kessler)",
+      "url": "https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd"
     },
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "When You Lose Someone",
-        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
+        "name": "How Do You Dress for the Rain?",
+        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
       },
       "artists": [
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
         }
       ],
-      "duration_ms": 200282,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
+      "duration_ms": 160533,
+      "name": "How Do You Dress for the Rain?",
+      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
     },
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP"
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
       },
       "artists": [
         {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 196533,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4"
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -747,6 +603,102 @@
     {
       "added_at": "2022-03-11 05:01:00",
       "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 231132,
+      "name": "Flume - Spotify Singles",
+      "url": "https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Brave Face",
+        "url": "https://open.spotify.com/album/4YhEfpdQjOL3gWgrZi7C3K"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 198166,
+      "name": "Brave Face",
+      "url": "https://open.spotify.com/track/4yB1s08jEfpRMb0K07qCE9"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "When You Lose Someone",
+        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 200282,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/1oz1E95l4lgqCxN2WRqDUC"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 163151,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/0vk4AYy92FJy72y2pQFWAJ"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "duration_ms": 183937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
         "name": "One More I Love You",
         "url": "https://open.spotify.com/album/547kCTKUHCy01Jc8WC5WxH"
       },
@@ -759,6 +711,70 @@
       "duration_ms": 216935,
       "name": "One More I Love You",
       "url": "https://open.spotify.com/track/3v9IFz7EikDfXXfvPVfH6B"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/46VveoZ1CdOWD3wZ2dnnl2"
+      },
+      "artists": [
+        {
+          "name": "Yoste",
+          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
+        }
+      ],
+      "duration_ms": 193971,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fRweMf58LMH1Rv9h771GE"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "i tried",
+        "url": "https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U"
+      },
+      "artists": [
+        {
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
+        }
+      ],
+      "duration_ms": 160790,
+      "name": "i tried",
+      "url": "https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 268528,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk"
+    },
+    {
+      "added_at": "2022-03-11 05:01:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4"
     },
     {
       "added_at": "2022-03-11 05:01:00",
@@ -815,22 +831,6 @@
       "duration_ms": 173242,
       "name": "When I\u00b4m Still Getting Over You (feat. Paige)",
       "url": "https://open.spotify.com/track/7suhPkKX61NRfwW7A4TK6t"
-    },
-    {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2022-03-11 05:01:00",

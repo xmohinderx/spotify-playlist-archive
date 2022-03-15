@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonuses\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,044 likes - 119 songs - 7 hr 33 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,045 likes - 119 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 118 | [Tempo](https://open.spotify.com/track/0EpF9ueIy6tG0cnk0r3HXf) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5), [Tony Cardinal](https://open.spotify.com/artist/5pPrK8OjAUiZH4ELm9EiA7) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:08 |
 | 119 | [Piña Colada \(Instrumental\)](https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv) | [Petrichor](https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm) | [Piña Colada \(Instrumental\)](https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp) | 2:37 |
 
-Snapshot ID: `MjYxMSw3ODEyMDgzNjRlNGVjODc1OTQwMDNkNDM2MTNlNGJmNGY0NDM0Nzcx`
+Snapshot ID: `MjYxMyxlOWY0MmE3YWU3OGVhZGQwOWNlNjdmOTVjZGM5NjFkMzZjNzM5MzI0`

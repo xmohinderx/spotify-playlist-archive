@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,594 likes - 74 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,747 likes - 74 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 3 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 4 | [Dejenme Si Estoy Llorando](https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 3:01 |
 | 5 | [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 |
-| 6 | [Porque Yo Te Amo](https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha Y Una Guitarra](https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs) | 3:33 |
+| 6 | [Porque Yo Te Amo](https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y una Guitarra](https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs) | 3:33 |
 | 7 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
 | 8 | [Te quiero](https://open.spotify.com/track/2Op4UmNP8F9zNdK04xGvVh) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Los Romanticos\- Jose Luis Perales](https://open.spotify.com/album/5dPzzM8LBjD6fggGjFI3p0) | 3:50 |
 | 9 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Leonardo Favio Cronología \- Fuiste Mía un Verano \(1968\)](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:43 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 40 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
 | 41 | [El Amor...Cosa Tan Rara](https://open.spotify.com/track/46VfNbTLGFZUZkbcsihWU8) | [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr) | [Denise De Kalafe 10 Exitos](https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR) | 3:29 |
 | 42 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
-| 43 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro De América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 |
+| 43 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro de América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 |
 | 44 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 |
 | 45 | [La Ultima Noche](https://open.spotify.com/track/0btunbIoCjx2xRS7OZBXuD) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [The Platinum Collection](https://open.spotify.com/album/2OwfSNcsfGwpKBHnF3R8T2) | 2:31 |
 | 46 | [Te Llevo Bajo Mi Piel](https://open.spotify.com/track/6hObbRRXsy6SCsJVDGFZfE) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Te Llevo Bajo Mi Piel](https://open.spotify.com/album/5sM0abfPqNow3wD7piEbDA) | 3:34 |

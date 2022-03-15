@@ -2010,6 +2010,28 @@
     },
     {
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/4Sax9Ndnjq8g7FCBw2jkEA"
+      },
+      "artists": [
+        {
+          "name": "Zang",
+          "url": "https://open.spotify.com/artist/5xrDg8oPq8PkkZFk5YK7FB"
+        },
+        {
+          "name": "T. TOM",
+          "url": "https://open.spotify.com/artist/7t4YL06ICHHf7JNUKP4gIn"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156501,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3xoPEpMfchc40DId2UfeN6"
+    },
+    {
+      "album": {
         "name": "letmeloveyou",
         "url": "https://open.spotify.com/album/0SsM6eWLkCnwOXpgYbj0QQ"
       },
@@ -4043,7 +4065,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 258005,
       "name": "\u00cdt Nh\u01b0ng D\u00e0i L\u00e2u - Remix",
       "url": "https://open.spotify.com/track/5mwCw07zw0XTFHM6g0mvw2"
@@ -4199,6 +4221,24 @@
       "duration_ms": 178327,
       "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0",
       "url": "https://open.spotify.com/track/44E3rYotYgSi7UX859TKoH"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00f4i Tay Tr\u1ea7y X\u01b0\u1edbc",
+        "url": "https://open.spotify.com/album/0XlO9yeFWBtsnzAKmOzSje"
+      },
+      "artists": [
+        {
+          "name": "Ti-K",
+          "url": "https://open.spotify.com/artist/721Jxv7PIbCVpW3eDeE4SM"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171189,
+      "name": "\u0110\u00f4i Tay Tr\u1ea7y X\u01b0\u1edbc",
+      "url": "https://open.spotify.com/track/2L2g1BED1XmJERsPTtP7Se"
     },
     {
       "album": {

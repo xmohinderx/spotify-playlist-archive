@@ -429,7 +429,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 306866,
       "name": "Carnival (feat. Solis & Randy Valentine)",
       "url": "https://open.spotify.com/track/3FEN1Usl4Z4IceFbBZ1rmI"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 218609,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/5atBjF6n5UILcSUq4INTGZ"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 291160,
       "name": "El Baile y El Sal\u00f3n",
       "url": "https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 217827,
       "name": "Fishaman (feat. Elkin Robinson)",
       "url": "https://open.spotify.com/track/3rMqitYF1U4IHqEQjWhmJP"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 184615,
       "name": "Fotos\u00edntesis",
       "url": "https://open.spotify.com/track/6BARUJnP3HFzeEcK9KER1g"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 351573,
       "name": "Jah Live",
       "url": "https://open.spotify.com/track/15gJmbM0pjL1yjIASTyW0x"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 254058,
       "name": "La Naturaleza",
       "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 265299,
       "name": "Llena Mi Vida",
       "url": "https://open.spotify.com/track/1rSDWwJkMrxCChahQDnkfu"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 485426,
       "name": "Los Ni\u00f1os del Jah",
       "url": "https://open.spotify.com/track/5HLejuMi8DNmFU8Brh9mf2"
@@ -1566,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "PA",
+        "url": "https://open.spotify.com/album/3qUPXm3AwtFM1FotnXVuuM"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "Mam\u00e1 Morada",
+      "url": "https://open.spotify.com/track/2meeh4QSYXOmgNrxLg7f1P"
+    },
+    {
+      "album": {
         "name": "El Playlist de Anoche",
         "url": "https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e"
       },
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 382333,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4zRbnZkeN4TNBJgGcTDMqG"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 251878,
       "name": "Puedo esperarte",
       "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 276845,
       "name": "Quinto Sol",
       "url": "https://open.spotify.com/track/4Appg2ESRHrO2D5NyuRc6X"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 309240,
       "name": "Resistencia indigena",
       "url": "https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex"
@@ -2357,7 +2375,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 264707,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/7d42VpwmsJhlBcfOJ5XQu0"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-07",
+      "date_removed": null,
       "duration_ms": 213866,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/2GhQb581GzsrGtIhemqrRT"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 285077,
       "name": "Tr\u00f3pico",
       "url": "https://open.spotify.com/track/1Wyz5skty3mcxchgydcFSp"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 238000,
       "name": "Tu Belleza",
       "url": "https://open.spotify.com/track/2pdrSKGdxxq5U9oh3C4riF"
@@ -2833,7 +2851,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 249986,
       "name": "Vocabulario B\u00e1sico",
       "url": "https://open.spotify.com/track/1bFbEZctiGZItamYIBlRAL"

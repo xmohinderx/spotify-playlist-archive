@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 211848,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 189346,
       "name": "Dropout Boogie",
       "url": "https://open.spotify.com/track/7pNGCmzKPTPUbAE7gAttTE"
@@ -1136,6 +1136,28 @@
     },
     {
       "album": {
+        "name": "Glowing Mics (Founders RMX)",
+        "url": "https://open.spotify.com/album/6G0PjYvizKiO0mFyCvCR91"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Big Shug",
+          "url": "https://open.spotify.com/artist/30G8Jlp6mw5RTEEzMndIZL"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203837,
+      "name": "Glowing Mics - Founders RMX",
+      "url": "https://open.spotify.com/track/1yW3VlhZgVYHu5SglHClvB"
+    },
+    {
+      "album": {
         "name": "Alfredo",
         "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
       },
@@ -1151,7 +1173,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 239026,
       "name": "God Is Perfect",
       "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
@@ -1169,7 +1191,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "God's Bathroom Floor",
       "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
@@ -1352,6 +1374,28 @@
     },
     {
       "album": {
+        "name": "Heaven's Sky (feat. Rae Khalil)",
+        "url": "https://open.spotify.com/album/6kMSbbsawyKtJ0K7qX2Idj"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229802,
+      "name": "Heaven's Sky (feat. Rae Khalil)",
+      "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
+    },
+    {
+      "album": {
         "name": "Hollyhood (feat. Kent Jamz)",
         "url": "https://open.spotify.com/album/0A5b52A8phfjRQHEkmlAVo"
       },
@@ -1481,7 +1525,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 155994,
       "name": "IDFT!?",
       "url": "https://open.spotify.com/track/6yBNX4txB2sEggpBsigcF0"
@@ -1553,7 +1597,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 136444,
       "name": "INDUSTRY GAMES",
       "url": "https://open.spotify.com/track/6HRUomAomV72oMArAAHEIT"
@@ -1579,7 +1623,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 286503,
       "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
       "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
@@ -1671,7 +1715,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 180686,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/3R4IFsTuDOR7XEt2Tl2iuR"
@@ -1689,7 +1733,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 188160,
       "name": "King's Blvd 2",
       "url": "https://open.spotify.com/track/7pQXGnceGhu1hRQkG5g7I7"
@@ -1795,7 +1839,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
@@ -1835,7 +1879,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 248810,
       "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5aULAy3NUfelCYKub4mOS9"
@@ -2035,7 +2079,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 172524,
       "name": "Myself (feat. DEVN)",
       "url": "https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD"
@@ -2577,7 +2621,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 235023,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
@@ -2621,7 +2665,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 124931,
       "name": "Sink",
       "url": "https://open.spotify.com/track/6SGtzveb9eeXkSYqkyLk21"
@@ -2639,7 +2683,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 186167,
       "name": "Skegee",
       "url": "https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu"
@@ -2661,7 +2705,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 170353,
       "name": "Slip",
       "url": "https://open.spotify.com/track/6TH7vmxNibiSynNVMZU5bW"
@@ -2849,7 +2893,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "Steak Um (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv"
@@ -2951,7 +2995,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 320000,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l"
@@ -3003,7 +3047,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 235500,
       "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
       "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
@@ -3021,7 +3065,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 186933,
       "name": "Super Deep Brother",
       "url": "https://open.spotify.com/track/4rpF2SBmTOw8zGCHAhkByI"
@@ -3047,7 +3091,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
@@ -3737,7 +3781,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"

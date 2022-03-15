@@ -343,6 +343,24 @@
     {
       "album": {
         "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
         "url": "https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S"
       },
       "artists": [
@@ -353,7 +371,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 293066,
       "name": "Don't Matter",
       "url": "https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 235800,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
@@ -925,6 +943,28 @@
     {
       "album": {
         "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
         "url": "https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S"
       },
       "artists": [
@@ -939,7 +979,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 212360,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/3qKGvSu1inEZKwYQnMavNA"
@@ -1119,7 +1159,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 241906,
       "name": "The Sweet Escape - Konvict Remix",
       "url": "https://open.spotify.com/track/0ymJhXkz2lOige2zbloaYv"

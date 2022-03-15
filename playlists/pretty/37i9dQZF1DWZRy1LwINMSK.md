@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del Trap chileno\. Foto: Kiddtetoon & Chucky73.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,088 likes - 103 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,113 likes - 103 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

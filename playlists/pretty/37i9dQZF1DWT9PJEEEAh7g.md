@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9PJEEEAh7g.md) - [plain]
 
 > Claim your space this Pride in Dublin\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,505 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : James",
-  "num_followers": 22333,
+  "num_followers": 22364,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzE4NTM0MCwwMDAwMDE1NzAwMDAwMTdmODNlNWE4MTIwMDAwMDE3ZjUwMzg4ZGM4",
+  "snapshot_id": "MTY0NzI3MTcwNCwwMDAwMDE1OTAwMDAwMTdmODkwYjc4MTQwMDAwMDE3ZjUwMzg4ZGM4",
   "tracks": [
     {
       "added_at": "2022-03-11 13:38:34",
@@ -95,6 +95,34 @@
       "duration_ms": 239530,
       "name": "Trademark (From \"James - Kannada\")",
       "url": "https://open.spotify.com/track/4OtsWdxJzYyd8OfmRwqRTA"
+    },
+    {
+      "added_at": "2022-03-14 15:28:24",
+      "album": {
+        "name": "Etthuva Jenda (From \"RRR\")",
+        "url": "https://open.spotify.com/album/7HdiTKOQ5gGCqz2LNnG9Rv"
+      },
+      "artists": [
+        {
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "name": "Hymath Mohammed",
+          "url": "https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Harika Narayan",
+          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
+        }
+      ],
+      "duration_ms": 256276,
+      "name": "Etthuva Jenda (From \"RRR\")",
+      "url": "https://open.spotify.com/track/1YoAim2ui8cYogQ7uyaduk"
     },
     {
       "added_at": "2021-12-06 14:30:03",
@@ -379,6 +407,26 @@
       "duration_ms": 233718,
       "name": "Sundaravaaytu Mana",
       "url": "https://open.spotify.com/track/08DBdSiBJdXxLfeZWpjFCW"
+    },
+    {
+      "added_at": "2022-03-14 12:34:36",
+      "album": {
+        "name": "Nalipu Dhamal Beat (From \"Raj Sounds and Lights\")",
+        "url": "https://open.spotify.com/album/50r5eTg6XdfBgqtQHo1UVP"
+      },
+      "artists": [
+        {
+          "name": "Prakash Mahadevan",
+          "url": "https://open.spotify.com/artist/5s0ir30fzXCZiAWKWu1OTh"
+        },
+        {
+          "name": "Srajan Kumar Tonse",
+          "url": "https://open.spotify.com/artist/43Jv9Ph6w4tHafcoZJffZp"
+        }
+      ],
+      "duration_ms": 220144,
+      "name": "Nalipu Dhamal Beat (From \"Raj Sounds and Lights\")",
+      "url": "https://open.spotify.com/track/2xSkT6HQ7cig4R3Ris2q9y"
     },
     {
       "added_at": "2021-12-06 14:30:03",

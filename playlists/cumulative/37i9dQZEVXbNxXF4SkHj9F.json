@@ -3199,7 +3199,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 228615,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
@@ -3493,7 +3493,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
@@ -9375,7 +9375,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-03-15",
       "duration_ms": 156876,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a"
@@ -11411,6 +11411,24 @@
       "duration_ms": 242600,
       "name": "\uc0c1\uc0c1\ub354\ud558\uae30",
       "url": "https://open.spotify.com/track/1VOKnlCFYhzGW1al5M9cgv"
+    },
+    {
+      "album": {
+        "name": "Goodbye, grief.",
+        "url": "https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284720,
+      "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
+      "url": "https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F"

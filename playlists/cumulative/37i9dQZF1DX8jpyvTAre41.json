@@ -464,6 +464,24 @@
     },
     {
       "album": {
+        "name": "CANDU :: AB Bride",
+        "url": "https://open.spotify.com/album/1AH4y5LvN3Fv3MT2VqppFA"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219404,
+      "name": "CANDU",
+      "url": "https://open.spotify.com/track/0XWsMu0KI7l1TdoCyoqCmI"
+    },
+    {
+      "album": {
         "name": "CHAOS",
         "url": "https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW"
       },
